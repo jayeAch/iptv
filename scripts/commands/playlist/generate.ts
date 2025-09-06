@@ -17,7 +17,8 @@ import {
   SourcesGenerator,
   CitiesGenerator,
   IndexGenerator,
-  RawGenerator
+  RawGenerator,
+  indexNsfwGenerator
 } from '../../generators'
 
 async function main() {
