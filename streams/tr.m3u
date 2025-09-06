@@ -212,6 +212,8 @@ https://edge1.socialsmart.tv/manisaetv/bant1/playlist.m3u8
 https://viamotionhsi.netplus.ch/live/eds/eurod/browser-HLS8/eurod.m3u8
 #EXTINF:-1 tvg-id="EuroD.tr",Euro D (720p)
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+#EXTINF:-1 tvg-id="EuroD.tr@SD",Euro D
+https://viamotionhsi.netplus.ch/live/eds/eurod/browser-dash/eurod.mpd
 #EXTINF:-1 tvg-id="EuroStar.tr",EuroStar (576p)
 http://185.234.111.229:8000/play/a01h
 #EXTINF:-1 tvg-id="EuroStar.tr",EuroStar
@@ -672,6 +674,8 @@ https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTTurk.tr",TRT Turk (1080p)
 http://185.234.111.229:8000/play/a00h
 #EXTINF:-1 tvg-id="TRTTurk.tr@SD",TRT Turk
+https://viamotionhsi.netplus.ch/live/eds/trtturk/browser-dash/trtturk.mpd
+#EXTINF:-1 tvg-id="TRTTurk.tr@SD",TRT Turk
 https://viamotionhsi.netplus.ch/live/eds/trtturk/browser-HLS8/trtturk.m3u8
 #EXTINF:-1 tvg-id="TRTTurk.tr",TRT Türk (720p)
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
@@ -782,7 +786,3 @@ https://cdn-yildiz.yayin.com.tr/yildiz/yildiz/playlist.m3u8
 https://stream.yol.tv:9443/medialive/yol.m3u8
 #EXTINF:-1 tvg-id="ZarokTV.tr",Zarok TV (720p)
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
-#EXTINF:-1 tvg-id="EuroD.tr@SD",Euro D
-https://viamotionhsi.netplus.ch/live/eds/eurod/browser-dash/eurod.mpd
-#EXTINF:-1 tvg-id="TRTTurk.tr@SD",TRT Turk
-https://viamotionhsi.netplus.ch/live/eds/trtturk/browser-dash/trtturk.mpd
