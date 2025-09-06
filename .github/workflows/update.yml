@@ -1,0 +1,69 @@
+name: Update Playlists
+on:
+  workflow_dispatch: # Allows manual triggering
+  schedule:
+    - cron: '0 0 * * *' # Runs every day at midnight UTC
+
+jobs:
+  main:
+    runs-on: ubuntu-latest
+    # Grant write permissions to the GITHUB_TOKEN for committing and pushing
+    permissions:
+      contents: write
+    steps:
+      # 1. Checkout THIS repository using the built-in GITHUB_TOKEN
+      - name: Checkout code
+        uses: actions/checkout@v4 # Updated to v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }} # Use the automatic token
+          fetch-depth: 0 # Needed for git history operations
+
+      # 2. Setup Git configuration for the bot user that will make the commits
+      - name: Setup Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      # 3. Setup Node.js environment
+      - name: Setup Node.js
+        uses: actions/setup-node@v4 # Updated to v4
+        with:
+          node-version: 20
+          cache: 'npm'
+
+      # 4. Install the project dependencies
+      - name: Install dependencies
+        run: npm install
+
+      # 5. Run the update script (captures output for the commit message later)
+      - name: Update internal playlists
+        run: npm run playlist:update --silent >> $GITHUB_OUTPUT
+        id: playlist-update
+
+      # 6. Lint and validate the updated playlists
+      - name: Check internal playlists
+        run: |
+          npm run playlist:lint
+          npm run playlist:validate
+
+      # 7. Generate the public-facing files
+      - name: Generate public playlists
+        run: npm run playlist:generate
+
+      - name: Generate .api/streams.json
+        run: npm run api:generate
+
+      - name: Update readme
+        run: npm run readme:update
+
+      # 8. Commit and push all changes in one step
+      - name: Commit and Push Changes
+        run: |
+          git add --all
+          # Check if there are any changes to commit
+          if git diff-index --quiet HEAD --; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: update playlists" -m "Automated update by GitHub Actions" -m "${{ steps.playlist-update.outputs.OUTPUT }}"
+            git push
+          fi

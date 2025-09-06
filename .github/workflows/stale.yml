@@ -1,0 +1,19 @@
+name: stale
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+permissions:
+  issues: write
+jobs:
+  stale:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/stale@v9
+        with:
+          repo-token: ${{ secrets.IPTV_READ_PAT }}
+          days-before-stale: 180
+          days-before-close: 7
+          stale-issue-label: 'stale'
+          any-of-issue-labels: 'channel search'
+          close-issue-message: 'This request has been closed because it has been inactive for more than 180 days.'

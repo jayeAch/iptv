@@ -1,0 +1,83 @@
+name: format
+on:
+  workflow_dispatch:
+  # You can uncomment these later if needed
+  # pull_request:
+  #   types: [closed]
+  #   branches:
+  #     - master
+  # schedule:
+  #   - cron: "0 12 * * *"
+
+jobs:
+  on_trigger:
+    if: ${{ github.event_name == 'workflow_dispatch' }}
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Required for pushing changes
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0  # Important for git operations
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: 'npm'
+
+      - name: Setup Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Format internal playlists
+        run: npm run playlist:format
+
+      - name: Check internal playlists
+        run: |
+          npm run playlist:lint
+          npm run playlist:validate
+
+      - name: Check for changes
+        id: changed-files
+        run: |
+          # Check if any files in streams/ directory were modified
+          if git diff --quiet --exit-code HEAD -- streams/; then
+            echo "any_changed=false" >> "$GITHUB_OUTPUT"
+            echo "No changes detected"
+          else
+            echo "any_changed=true" >> "$GITHUB_OUTPUT"
+            ALL_CHANGED_FILES=$(git diff --name-only HEAD -- streams/ | tr '\n' ' ')
+            echo "all_changed_files=$ALL_CHANGED_FILES" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commit changes
+        if: steps.changed-files.outputs.any_changed == 'true'
+        run: |
+          git add streams/
+          git commit -m "chore: format playlists" -m "Automated formatting by GitHub Actions"
+
+      - name: Push changes
+        if: steps.changed-files.outputs.any_changed == 'true'
+        run: git push
+
+  # The on_merge job is commented out since it requires the same complex setup
+  # You can add it back later if needed, using the same simplified approach
+  # on_merge:
+  #   if: github.event.pull_request.merged == true
+  #   runs-on: ubuntu-latest
+  #   permissions:
+  #     contents: write
+  #   steps:
+  #     - name: Checkout code
+  #       uses: actions/checkout@v4
+  #       with:
+  #         token: ${{ secrets.GITHUB_TOKEN }}
+  #         fetch-depth: 0
+  #     ... [similar simplified steps as above] ...
