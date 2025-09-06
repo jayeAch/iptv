@@ -18,7 +18,7 @@ import {
   CitiesGenerator,
   IndexGenerator,
   RawGenerator,
-  indexNsfwGenerator
+  IndexNsfwGenerator
 } from '../../generators'
 
 async function main() {
