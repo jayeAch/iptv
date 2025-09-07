@@ -11,6 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # This fetches all history so we can compare with master
       - name: changed files
         id: files
         run: |
@@ -23,7 +25,7 @@ jobs:
           echo "all_changed_files=$ALL_CHANGED_FILES" >> "$GITHUB_OUTPUT"
           echo "any_changed=$ANY_CHANGED" >> "$GITHUB_OUTPUT"
       - uses: actions/setup-node@v4
-        if: ${{ !env.ACT && steps.files.outputs.any_changed == 'true' }}
+        if: ${{ steps.files.outputs.any_changed == 'true' }}
         with:
           node-version: 22
           cache: 'npm'
