@@ -9,19 +9,10 @@ jobs:
   stale:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate GitHub App Token
-        uses: tibdex/github-app-token@v1.8.2
-        id: generate-token
-        with:
-          app_id: ${{ secrets.APP_ID }}
-          private_key: ${{ secrets.APP_PRIVATE_KEY }}
-          github_api_url: https://api.github.com
-          repository: jayeAch/iptv
-
       - name: Mark stale issues
         uses: actions/stale@v9
         with:
-          repo-token: ${{ steps.generate-token.outputs.token }}
+          repo-token: ${{ secrets.PAT_TOKEN }}
           days-before-stale: 180
           days-before-close: 7
           operations-per-run: 500
