@@ -11,6 +11,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Needed to fetch full history for git diff
+      
       - name: changed files
         id: files
         run: |
@@ -22,14 +25,17 @@ jobs:
           fi
           echo "all_changed_files=$ALL_CHANGED_FILES" >> "$GITHUB_OUTPUT"
           echo "any_changed=$ANY_CHANGED" >> "$GITHUB_OUTPUT"
+      
       - uses: actions/setup-node@v4
-        if: ${{ !env.ACT && steps.files.outputs.any_changed == 'true' }}
+        if: steps.files.outputs.any_changed == 'true'
         with:
           node-version: 22
           cache: 'npm'
+      
       - name: install dependencies
         if: steps.files.outputs.any_changed == 'true'
         run: npm install
+      
       - name: validate
         if: steps.files.outputs.any_changed == 'true'
         run: |
