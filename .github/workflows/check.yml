@@ -16,9 +16,11 @@ jobs:
       - name: changed files
         id: files
         run: |
-          git fetch origin master:master
+          # Fetch master to a different reference instead of trying to checkout
+          git fetch origin master:master-ref
           ANY_CHANGED=false
-          ALL_CHANGED_FILES=$(git diff --name-only master -- streams/ | tr '\n' ' ')
+          # Compare with master-ref instead of master
+          ALL_CHANGED_FILES=$(git diff --name-only master-ref -- streams/ | tr '\n' ' ')
           if [ -n "${ALL_CHANGED_FILES}" ]; then
             ANY_CHANGED=true
           fi
