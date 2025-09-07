@@ -14,16 +14,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: tibdex/github-app-token@v1.8.2
-        if: ${{ !env.ACT }}
-        id: create-app-token
         with:
-          app_id: ${{ secrets.APP_ID }}
-          private_key: ${{ secrets.APP_PRIVATE_KEY }}
-      - uses: actions/checkout@v4
-        if: ${{ !env.ACT }}
-        with:
-          token: ${{ steps.create-app-token.outputs.token }}
+          token: ${{ secrets.PAT_TOKEN }}
       - uses: actions/setup-node@v4
         with:
           node-version: 22
@@ -61,21 +53,14 @@ jobs:
       - name: push all changes to the repository
         if: ${{ !env.ACT && github.ref == 'refs/heads/master' && steps.files_after.outputs.any_changed == 'true' }}
         run: git push
+
   on_merge:
     if: github.event.pull_request.merged == true
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: tibdex/github-app-token@v1.8.2
-        if: ${{ !env.ACT }}
-        id: create-app-token
         with:
-          app_id: ${{ secrets.APP_ID }}
-          private_key: ${{ secrets.APP_PRIVATE_KEY }}
-      - uses: actions/checkout@v4
-        if: ${{ !env.ACT }}
-        with:
-          token: ${{ steps.create-app-token.outputs.token }}
+          token: ${{ secrets.PAT_TOKEN }}
       - name: changed files
         id: files
         run: |
