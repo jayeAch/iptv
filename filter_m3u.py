@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
 Downloads each M3U URL listed in urls.txt, strips any channel whose
-#EXTINF line matches a word/substring in GLOBAL_EXCLUDE_LIST, and writes
-the cleaned playlist to output/<name>.m3u.
+#EXTINF line matches a word/substring in GLOBAL_EXCLUDE_LIST, and merges
+all of them into a single output/combined.m3u.
 
 urls.txt format (one entry per line, blank lines and lines starting with
 # are ignored):
@@ -10,7 +10,7 @@ urls.txt format (one entry per line, blank lines and lines starting with
     https://example.com/playlist2.m3u8
 
 If no "name = " prefix is given, the URL's filename (or its position)
-is used to name the output file.
+is used only for logging (the merged file has no per-source filenames).
 """
 import os
 import re
@@ -20,6 +20,9 @@ from exclude_list import GLOBAL_EXCLUDE_LIST
 
 URLS_FILE = "urls.txt"
 OUTPUT_DIR = "output"
+COMBINED_OUTPUT = os.path.join(OUTPUT_DIR, "combined.m3u")
+
+URL_TVG_RE = re.compile(r'url-tvg="([^"]*)"')
 
 
 def load_urls(path):
@@ -45,14 +48,23 @@ def fetch(url):
 
 
 def filter_playlist(text):
+    """
+    Returns (body_lines, removed_count, tvg_url_or_None). body_lines
+    excludes the #EXTM3U header -- the caller writes a single shared
+    header for the combined file. tvg_url is whatever url-tvg="..."
+    value was on this source's own header, if any.
+    """
     lines = text.splitlines()
     kept = []
-    i = 0
     removed = 0
-    header = lines[0] if lines and lines[0].startswith("#EXTM3U") else None
-    start = 1 if header else 0
-    if header:
-        kept.append(header)
+
+    tvg_url = None
+    start = 0
+    if lines and lines[0].startswith("#EXTM3U"):
+        m = URL_TVG_RE.search(lines[0])
+        if m:
+            tvg_url = m.group(1)
+        start = 1
 
     i = start
     while i < len(lines):
@@ -78,7 +90,7 @@ def filter_playlist(text):
             kept.append(line)
             i += 1
 
-    return "\n".join(kept) + "\n", removed
+    return kept, removed, tvg_url
 
 
 def main():
@@ -93,22 +105,40 @@ def main():
         sys.exit(1)
 
     total_removed = 0
+    fetched = 0
+    all_body_lines = []
+    tvg_urls = []  # de-duplicated, order preserved
+
     for name, url in entries:
-        safe_name = re.sub(r"[^\w.-]+", "_", name)
         try:
             raw = fetch(url)
         except Exception as e:
             print(f"[{name}] FAILED to fetch: {e}", file=sys.stderr)
             continue
 
-        cleaned, removed = filter_playlist(raw)
+        body_lines, removed, tvg_url = filter_playlist(raw)
         total_removed += removed
-        out_path = os.path.join(OUTPUT_DIR, f"{safe_name}.m3u")
-        with open(out_path, "w", encoding="utf-8") as f:
-            f.write(cleaned)
-        print(f"[{name}] {removed} channels removed -> {out_path}")
+        fetched += 1
+        all_body_lines.extend(body_lines)
+        if tvg_url and tvg_url not in tvg_urls:
+            tvg_urls.append(tvg_url)
+        print(f"[{name}] {removed} channels removed, {len(body_lines)} lines kept")
 
-    print(f"Done. {total_removed} channels removed across {len(entries)} playlist(s).")
+    print(f"Done. {total_removed} channels removed across {fetched}/{len(entries)} source(s).")
+
+    if fetched == 0:
+        print("Error: every playlist fetch failed, nothing to write.", file=sys.stderr)
+        sys.exit(1)
+
+    header = "#EXTM3U"
+    if tvg_urls:
+        header += f' url-tvg="{",".join(tvg_urls)}"'
+
+    with open(COMBINED_OUTPUT, "w", encoding="utf-8") as f:
+        f.write(header + "\n")
+        f.write("\n".join(all_body_lines) + "\n")
+
+    print(f"Wrote combined playlist -> {COMBINED_OUTPUT}")
 
 
 if __name__ == "__main__":
