@@ -1,0 +1,47 @@
+name: Filter M3U Playlists
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # daily at 06:00 UTC
+  workflow_dispatch: {}
+  push:
+    paths:
+      - "urls.txt"
+      - "epg_urls.txt"
+      - "exclude_list.py"
+      - "filter_m3u.py"
+      - "filter_epg.py"
+
+permissions:
+  contents: write
+
+jobs:
+  filter:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install lxml
+
+      - name: Filter M3U playlists
+        run: python filter_m3u.py
+
+      - name: Filter and merge EPG
+        run: python filter_epg.py
+
+      - name: Publish as release assets
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: filtered-playlists
+          name: Filtered Playlists
+          body: "Auto-updated $(date -u +'%Y-%m-%d %H:%M UTC')"
+          files: |
+            output/*.m3u
+            output/epg.xml
