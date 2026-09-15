@@ -58,7 +58,7 @@ CATEGORY_EXCLUDE_LIST = [
     "Travel & Outdoors",
     "Reality TV",
     "LocalNow🇺🇸: Sports",
-    "Children Music",
+    "Children-Music",
     "Music & Radio",
     "Games & Competition",
     "Gameshows & Competition",
