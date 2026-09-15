@@ -15,4 +15,10 @@ CATEGORY_EXCLUDE_LIST = [
     "House/Garden",
     "Lifestyle",
     "Westerns",
+    "Animals",
+    "Animals & Nature",
+    "Anime",
+    "Anime & Gaming",
+    "Auction",
+    "Automotive",
 ]
