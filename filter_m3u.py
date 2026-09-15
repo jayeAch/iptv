@@ -17,6 +17,7 @@ import os
 import re
 import sys
 import urllib.request
+from urllib.parse import urlsplit, urlunsplit
 from exclude_list import GLOBAL_EXCLUDE_LIST
 from category_exclude_list import CATEGORY_EXCLUDE_LIST
 
@@ -104,10 +105,23 @@ def filter_playlist(text):
     return kept, removed_by_name, removed_by_category, tvg_url
 
 
+def normalize_url(url):
+    """
+    Strips the query string and fragment so that the same stream served
+    with different ad-tracking/session params (a common pattern across
+    these providers) compares equal. Scheme/host/path are lowercased for
+    the host only, since paths can be case-sensitive.
+    """
+    parts = urlsplit(url)
+    return urlunsplit((parts.scheme.lower(), parts.netloc.lower(), parts.path, "", ""))
+
+
 def dedupe_by_url(lines):
     """
-    Removes channel entries whose stream URL exactly matches one already
-    kept (first occurrence wins). Non-channel lines pass through
+    Removes channel entries whose stream URL -- ignoring query string and
+    fragment -- matches one already kept (first occurrence wins). This
+    catches the same stream re-listed with different ad-tracking/session
+    params, not just byte-identical URLs. Non-channel lines pass through
     unchanged. Returns (deduped_lines, removed_count).
     """
     kept = []
@@ -129,11 +143,12 @@ def dedupe_by_url(lines):
                 entry_lines.append(stream_url)
                 i += 1
 
-            if stream_url and stream_url in seen_urls:
+            key = normalize_url(stream_url) if stream_url else None
+            if key and key in seen_urls:
                 removed += 1
                 continue
-            if stream_url:
-                seen_urls.add(stream_url)
+            if key:
+                seen_urls.add(key)
             kept.extend(entry_lines)
         else:
             kept.append(line)
