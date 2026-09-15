@@ -8,6 +8,17 @@ GLOBAL_EXCLUDE_LIST = [
 "б", "в", "г", "д", "ё", "ж", "з", "и", "й", "к", "л", "м", "н", "п", "т", "ф", "ц", "ч", "ш", "щ", "ъ", "ы", "ь", "э", "ю", "я", "Б", "В", "Г", "Д", "Ё", "Ж", "З", "И", "Й", "К", "Л", "М", "Н", "П", "Т", "Ф", "Ц", "Ч", "Ш", "Щ", "Ъ", "Ы", "Ь", "Э", "Ю", "Я",
 
 # All other entries (alphabetized, case-sensitive, deduplicated)
+"Bachelor Nation",
+"Deal Zone Presented By History",
+"Family Unscripted",
+"HerSphere by Lionsgate",
+"Home.Made.Nation",
+"Powernation",
+"pocket.watch Game-On",
+"The Price is Right",
+"Robot Wars by Mech+",
+"Torque Presented By History",
+"AfroLandTV",
 "Pluto TV Hispanic Favorites",
 "Dora TV",
 "HOT BENCH",
