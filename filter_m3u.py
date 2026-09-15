@@ -6,12 +6,17 @@ group-title exactly matches an entry in CATEGORY_EXCLUDE_LIST, and merges
 all of them into a single output/combined.m3u.
 
 urls.txt format (one entry per line, blank lines and lines starting with
-# are ignored):
-    MyProvider = https://example.com/playlist1.m3u8
-    https://example.com/playlist2.m3u8
+# are ignored). An optional trailing "| CC" tags every channel from that
+source with a country code, both in the visible channel name (so it
+shows up in your player's channel list) and as a tvg-country attribute
+(for players that read it instead):
+    MyProvider = https://example.com/playlist1.m3u8 | US
+    https://example.com/playlist2.m3u8 | GB
+    https://example.com/playlist3.m3u8
 
 If no "name = " prefix is given, the URL's filename (or its position)
 is used only for logging (the merged file has no per-source filenames).
+Leave off "| CC" for sources you don't want tagged.
 """
 import os
 import re
@@ -30,18 +35,30 @@ GROUP_TITLE_RE = re.compile(r'group-title="([^"]*)"')
 
 
 def load_urls(path):
+    """
+    Returns a list of (name, url, country_code_or_None). A trailing
+    "| CC" on the line sets the country code; anything else about the
+    line's format is unchanged from before.
+    """
     entries = []
     with open(path, encoding="utf-8") as f:
         for line in f:
             line = line.strip()
             if not line or line.startswith("#"):
                 continue
+
+            country = None
+            if "|" in line:
+                line, country_part = line.rsplit("|", 1)
+                line = line.strip()
+                country = country_part.strip().upper() or None
+
             if "=" in line:
                 name, url = line.split("=", 1)
-                entries.append((name.strip(), url.strip()))
+                entries.append((name.strip(), url.strip(), country))
             else:
                 fallback = os.path.splitext(os.path.basename(line))[0] or f"playlist{len(entries)+1}"
-                entries.append((fallback, line))
+                entries.append((fallback, line, country))
     return entries
 
 
@@ -51,13 +68,14 @@ def fetch(url):
         return resp.read().decode("utf-8", errors="replace")
 
 
-def filter_playlist(text):
+def filter_playlist(text, country_code=None):
     """
     Returns (body_lines, removed_by_name, removed_by_category,
     tvg_url_or_None). body_lines excludes the #EXTM3U header -- the
     caller writes a single shared header for the combined file. tvg_url
     is whatever url-tvg="..." value was on this source's own header, if
-    any.
+    any. If country_code is given, every kept channel gets a
+    tvg-country="CC" attribute and " (CC)" appended to its visible name.
     """
     lines = text.splitlines()
     kept = []
@@ -77,7 +95,7 @@ def filter_playlist(text):
         line = lines[i]
         if line.startswith("#EXTINF"):
             # channel name is text after the last comma on the EXTINF line
-            name = line.rsplit(",", 1)[-1]
+            attrs_part, name = line.rsplit(",", 1)
             group_match = GROUP_TITLE_RE.search(line)
             category = group_match.group(1) if group_match else None
 
@@ -97,6 +115,9 @@ def filter_playlist(text):
             if any(term in name for term in GLOBAL_EXCLUDE_LIST):
                 removed_by_name += 1
                 continue
+
+            if country_code:
+                entry_lines[0] = f'{attrs_part} tvg-country="{country_code}",{name} ({country_code})'
             kept.extend(entry_lines)
         else:
             kept.append(line)
@@ -174,14 +195,14 @@ def main():
     all_body_lines = []
     tvg_urls = []  # de-duplicated, order preserved
 
-    for name, url in entries:
+    for name, url, country in entries:
         try:
             raw = fetch(url)
         except Exception as e:
             print(f"[{name}] FAILED to fetch: {e}", file=sys.stderr)
             continue
 
-        body_lines, removed_by_name, removed_by_category, tvg_url = filter_playlist(raw)
+        body_lines, removed_by_name, removed_by_category, tvg_url = filter_playlist(raw, country)
         total_removed_by_name += removed_by_name
         total_removed_by_category += removed_by_category
         fetched += 1
