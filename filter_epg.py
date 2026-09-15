@@ -78,12 +78,21 @@ def safe_filename(url):
     return cleaned or "epg"
 
 
-def open_source(url):
+def fetch_source_bytes(url):
+    """Downloads and fully decompresses the source once, returning raw XML bytes."""
     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
     data = urllib.request.urlopen(req, timeout=60).read()
     if url.endswith(".gz"):
-        return gzip.GzipFile(fileobj=io.BytesIO(data))
-    return io.BytesIO(data)
+        return gzip.GzipFile(fileobj=io.BytesIO(data)).read()
+    return data
+
+
+def _clear(elem):
+    elem.clear()
+    parent = elem.getparent()
+    if parent is not None:
+        while elem.getprevious() is not None:
+            del parent[0]
 
 
 def stream_filter(url, retained_ids, retained_names, out):
@@ -94,38 +103,49 @@ def stream_filter(url, retained_ids, retained_names, out):
     match, any <programme channel="..."> referencing that id is kept too
     -- this is what lets name-only matching still filter programmes,
     since programme elements only ever carry the channel id, never a name.
-    Assumes <channel> elements appear before the <programme> elements that
-    reference them, which holds for standard XMLTV output.
+
+    Two passes over the same buffered bytes, so this does not depend on
+    <channel> elements appearing before the <programme> elements that
+    reference them -- some sources interleave or reverse the order.
+    Pass 1 resolves the complete set of matched channel ids and writes
+    the (deduped) <channel> elements. Pass 2 filters <programme>
+    elements against that now-complete set. Each pass still streams via
+    iterparse + clearing, so peak memory stays bounded by one element at
+    a time, not the whole tree -- only the raw source bytes are held
+    twice (once as downloaded, once per gzip.read() above).
     """
-    kept_channels = kept_programmes = 0
+    raw = fetch_source_bytes(url)
+
+    # Pass 1: channels only.
     matched_channel_ids = set(retained_ids)
     seen_channel_ids = set()
-    src = open_source(url)
-    context = etree.iterparse(src, events=("end",), tag=("channel", "programme"), recover=True)
+    kept_channels = 0
+    context = etree.iterparse(io.BytesIO(raw), events=("end",), tag="channel", recover=True)
     for _, elem in context:
-        if elem.tag == "channel":
-            cid = elem.get("id")
-            display_names = {(dn.text or "").strip() for dn in elem.findall("display-name")}
-            is_match = cid in retained_ids or bool(display_names & retained_names)
-            if is_match and cid:
-                matched_channel_ids.add(cid)
-                if cid not in seen_channel_ids:
-                    out.write(etree.tostring(elem, encoding="unicode"))
-                    out.write("\n")
-                    seen_channel_ids.add(cid)
-                    kept_channels += 1
-        else:  # programme
-            cid = elem.get("channel")
-            if cid in matched_channel_ids:
+        cid = elem.get("id")
+        display_names = {(dn.text or "").strip() for dn in elem.findall("display-name")}
+        is_match = cid in retained_ids or bool(display_names & retained_names)
+        if is_match and cid:
+            matched_channel_ids.add(cid)
+            if cid not in seen_channel_ids:
                 out.write(etree.tostring(elem, encoding="unicode"))
                 out.write("\n")
-                kept_programmes += 1
+                seen_channel_ids.add(cid)
+                kept_channels += 1
+        _clear(elem)
+    del context
 
-        elem.clear()
-        parent = elem.getparent()
-        if parent is not None:
-            while elem.getprevious() is not None:
-                del parent[0]
+    # Pass 2: programmes, against the now-complete matched id set.
+    kept_programmes = 0
+    context = etree.iterparse(io.BytesIO(raw), events=("end",), tag="programme", recover=True)
+    for _, elem in context:
+        cid = elem.get("channel")
+        if cid in matched_channel_ids:
+            out.write(etree.tostring(elem, encoding="unicode"))
+            out.write("\n")
+            kept_programmes += 1
+        _clear(elem)
+    del context
 
     return kept_channels, kept_programmes
 
