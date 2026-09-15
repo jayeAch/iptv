@@ -43,4 +43,5 @@ CATEGORY_EXCLUDE_LIST = [
     "Faith & Inspiration",
     "History & Adventure",
     "History & Learning",
+    "Cooking",
 ]
