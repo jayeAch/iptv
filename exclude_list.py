@@ -8,6 +8,15 @@ GLOBAL_EXCLUDE_LIST = [
 "б", "в", "г", "д", "ё", "ж", "з", "и", "й", "к", "л", "м", "н", "п", "т", "ф", "ц", "ч", "ш", "щ", "ъ", "ы", "ь", "э", "ю", "я", "Б", "В", "Г", "Д", "Ё", "Ж", "З", "И", "Й", "К", "Л", "М", "Н", "П", "Т", "Ф", "Ц", "Ч", "Ш", "Щ", "Ъ", "Ы", "Ь", "Э", "Ю", "Я",
 
 # All other entries (alphabetized, case-sensitive, deduplicated)
+"Retro Black Laughs",
+"Today All Day",
+"Top Rank Classics",
+"Torque",
+"TV One Stars & Stories",
+"Travel + Adventure",
+"theGrio",
+"The Jack Hanna Channel",
+"The Breakfast Club on iHeartRadio",
 "America's Test Kitchen",
 "Are We There Yet",
 "Ax Men",
