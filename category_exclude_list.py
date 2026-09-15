@@ -9,6 +9,10 @@ CATEGORY_EXCLUDE_LIST = [
     "Motor Sports",
     "Sports & Outdoors",
     "Sports On Now",
-    "Local News"
+    "Local News",
     "National News",
+    "Latino",
+    "House/Garden",
+    "Lifestyle",
+    "Westerns",
 ]
