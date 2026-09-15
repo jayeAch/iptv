@@ -9,7 +9,7 @@ GLOBAL_EXCLUDE_LIST = [
 
 # All other entries (alphabetized, case-sensitive, deduplicated)
 "Wapa+",
-"Filmrise Creators",
+"FilmRise Creators",
 "Watch AEW",
 "JoySauce Network",
 "Wanted: Dead or Alive",
