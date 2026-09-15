@@ -63,4 +63,7 @@ CATEGORY_EXCLUDE_LIST = [
     "Games & Competition",
     "Gameshows & Competition",
     "Nature, History & Science",
+    "LocalNow🇺🇸: News And Opinion",
+    "LocalNow🇺🇸: More Cities",
+    "LocalNow🇺🇸: En Espanol",
 ]
