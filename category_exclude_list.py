@@ -5,4 +5,10 @@ CATEGORY_EXCLUDE_LIST = [
     "Sports",
     "News",
     "Music",
+    "Combat Sports",
+    "Motor Sports",
+    "Sports & Outdoors",
+    "Sports On Now",
+    "Local News"
+    "National News",
 ]
