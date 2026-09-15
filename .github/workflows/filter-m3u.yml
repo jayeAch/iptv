@@ -44,4 +44,4 @@ jobs:
           body: "Auto-updated $(date -u +'%Y-%m-%d %H:%M UTC')"
           files: |
             output/*.m3u
-            output/epg.xml
+            output/*.xml
