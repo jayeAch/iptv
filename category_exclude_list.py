@@ -39,4 +39,8 @@ CATEGORY_EXCLUDE_LIST = [
     "Good Eats",
     "Health",
     "Noticias",
+    "Faith & Family",
+    "Faith & Inspiration",
+    "History & Adventure",
+    "History & Learning",
 ]
