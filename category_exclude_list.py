@@ -66,4 +66,6 @@ CATEGORY_EXCLUDE_LIST = [
     "LocalNow🇺🇸: News And Opinion",
     "LocalNow🇺🇸: More Cities",
     "LocalNow🇺🇸: En Espanol",
+    "Lifestyle & Pop Culture",
+    "Black Entertainment",
 ]
