@@ -28,6 +28,7 @@ OUTPUT_DIR = "output"
 URL_TVG_RE = re.compile(r'url-tvg="([^"]*)"')
 GROUP_TITLE_RE = re.compile(r'group-title="([^"]*)"')
 SAFE_NAME_RE = re.compile(r'[^A-Za-z0-9_-]+')
+EXTINF_NAME_RE = re.compile(r'^#EXTINF:[^,]*(?:"[^"]*"[^,]*)*,(.*)$')
 
 
 def load_urls(path):
