@@ -85,7 +85,8 @@ def filter_playlist(text):
         line = lines[i]
         if line.startswith("#EXTINF"):
             # channel name is text after the last comma on the EXTINF line
-            name = line.rsplit(",", 1)[-1]
+            m = EXTINF_NAME_RE.match(line)
+            name = m.group(1) if m else line.rsplit(",", 1)[-1]
             group_match = GROUP_TITLE_RE.search(line)
             category = group_match.group(1) if group_match else None
 
