@@ -3,6 +3,17 @@
 # attribute -- unlike exclude_list.py's channel-name substring matching.
 CATEGORY_EXCLUDE_LIST = [
     "Sports Presented By Capital One",
+    "Kids en Français",
+    "News + Opinion",
+    "For børn",
+    "For barn",
+    "History + Science",
+    "Home + Food",
+    "Mat & livsstil",
+    "Mad & livsstil",
+    "Music Videos",
+    "Talkshow",
+    "Realityserier",
     "Ambiance",
     "LocalNow🇺🇸: Nature and Outdoors",
     "LocalNow🇺🇸: My City",
