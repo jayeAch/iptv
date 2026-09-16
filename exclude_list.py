@@ -948,7 +948,7 @@ GLOBAL_EXCLUDE_LIST = [
 "KSL-TV -5 - (Salt Lake City UT)",
 "KTIV",
 "KTLA",
-"KTVO ",,
+"KTVO ",
 "KVIE",
 "KVVB-TV 33 Victor Valley  ",
 "KYOU ",
