@@ -2,6 +2,7 @@
 # Matched exactly (case-sensitive) against each channel's group-title
 # attribute -- unlike exclude_list.py's channel-name substring matching.
 CATEGORY_EXCLUDE_LIST = [
+    "Sports Presented By Capital One",
     "Ambiance",
     "LocalNow🇺🇸: Nature and Outdoors",
     "LocalNow🇺🇸: My City",
