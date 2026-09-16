@@ -2,6 +2,13 @@
 # Matched exactly (case-sensitive) against each channel's group-title
 # attribute -- unlike exclude_list.py's channel-name substring matching.
 CATEGORY_EXCLUDE_LIST = [
+    "Dokumentärer",
+    "Dokumentarer",
+    "Det bedste fra MTV",
+    "Documentary + Science",
+    "Animals + Nature",
+    "Barn",
+    "Competition Reality",
     "Sports Presented By Capital One",
     "Kids en Français",
     "News + Opinion",
