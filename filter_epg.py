@@ -20,15 +20,46 @@ import os
 import re
 import sys
 import urllib.request
+from datetime import datetime, timedelta, timezone
 from lxml import etree
 
 M3U_DIR = "output"
 EPG_URLS_FILE = "epg_urls.txt"
 OUTPUT_DIR = "output"
+MAX_AGE = timedelta(days=1)  # drop programmes that ended more than this long ago
 
 TVG_ID_RE = re.compile(r'tvg-id=["\']([^"\']*)["\']', re.IGNORECASE)
 TVG_NAME_RE = re.compile(r'tvg-name=["\']([^"\']*)["\']', re.IGNORECASE)
 SAFE_NAME_RE = re.compile(r'[^A-Za-z0-9_-]+')
+XMLTV_DT_RE = re.compile(r'^(\d{4})(\d{2})(\d{2})(\d{2})(\d{2})(\d{2})\s*([+-]\d{4})?$')
+
+
+def parse_xmltv_dt(value):
+    """Parses an XMLTV datetime ('20260917013000 +0000') into an aware
+    datetime. Returns None if value is missing/unparseable, so callers
+    can fail open (keep the programme) rather than drop good data."""
+    if not value:
+        return None
+    m = XMLTV_DT_RE.match(value.strip())
+    if not m:
+        return None
+    y, mo, d, h, mi, s, off = m.groups()
+    dt = datetime(int(y), int(mo), int(d), int(h), int(mi), int(s))
+    if off:
+        sign = 1 if off[0] == "+" else -1
+        off_h, off_m = int(off[1:3]), int(off[3:5])
+        dt = dt.replace(tzinfo=timezone(sign * timedelta(hours=off_h, minutes=off_m)))
+    else:
+        dt = dt.replace(tzinfo=timezone.utc)
+    return dt
+
+
+def is_too_old(elem, cutoff):
+    """A programme is dropped only if it has a parseable stop/start time
+    AND that time is before cutoff. Unparseable or missing times keep
+    the programme (fail open)."""
+    dt = parse_xmltv_dt(elem.get("stop")) or parse_xmltv_dt(elem.get("start"))
+    return dt is not None and dt < cutoff
 
 
 def load_retained_ids(m3u_dir):
@@ -95,7 +126,7 @@ def _clear(elem):
             del parent[0]
 
 
-def stream_filter(url, retained_ids, retained_names, out):
+def stream_filter(url, retained_ids, retained_names, out, cutoff):
     """
     A <channel> is kept if its id matches retained_ids, or one of its
     <display-name> values matches retained_names (covers providers that
@@ -135,19 +166,24 @@ def stream_filter(url, retained_ids, retained_names, out):
         _clear(elem)
     del context
 
-    # Pass 2: programmes, against the now-complete matched id set.
+    # Pass 2: programmes, against the now-complete matched id set, skipping
+    # anything that ended before cutoff.
     kept_programmes = 0
+    dropped_old = 0
     context = etree.iterparse(io.BytesIO(raw), events=("end",), tag="programme", recover=True)
     for _, elem in context:
         cid = elem.get("channel")
         if cid in matched_channel_ids:
-            out.write(etree.tostring(elem, encoding="unicode"))
-            out.write("\n")
-            kept_programmes += 1
+            if is_too_old(elem, cutoff):
+                dropped_old += 1
+            else:
+                out.write(etree.tostring(elem, encoding="unicode"))
+                out.write("\n")
+                kept_programmes += 1
         _clear(elem)
     del context
 
-    return kept_channels, kept_programmes
+    return kept_channels, kept_programmes, dropped_old
 
 
 def main():
@@ -172,8 +208,11 @@ def main():
         print(f"Error: no URLs found in {EPG_URLS_FILE}", file=sys.stderr)
         sys.exit(1)
 
+    cutoff = datetime.now(timezone.utc) - MAX_AGE
+    print(f"Dropping programmes that ended before {cutoff.isoformat()} (older than {MAX_AGE}).")
+
     os.makedirs(OUTPUT_DIR, exist_ok=True)
-    total_channels = total_programmes = 0
+    total_channels = total_programmes = total_dropped = 0
     used_filenames = set()
 
     for n, url in enumerate(urls, start=1):
@@ -186,16 +225,17 @@ def main():
         try:
             with open(out_path, "w", encoding="utf-8") as out:
                 out.write('<?xml version="1.0" encoding="UTF-8"?>\n<tv>\n')
-                c, p = stream_filter(url, retained_ids, retained_names, out)
+                c, p, d = stream_filter(url, retained_ids, retained_names, out, cutoff)
                 out.write("</tv>\n")
             total_channels += c
             total_programmes += p
-            print(f"[{url}] {c} channels, {p} programmes kept -> {out_path}")
+            total_dropped += d
+            print(f"[{url}] {c} channels, {p} programmes kept, {d} dropped (too old) -> {out_path}")
         except Exception as e:
             print(f"[{url}] FAILED: {e}", file=sys.stderr)
 
-    print(f"Done. {total_channels} channels, {total_programmes} programmes written "
-          f"across {len(urls)} source(s).")
+    print(f"Done. {total_channels} channels, {total_programmes} programmes written, "
+          f"{total_dropped} dropped as too old, across {len(urls)} source(s).")
 
 
 if __name__ == "__main__":
