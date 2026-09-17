@@ -104,14 +104,37 @@ def load_epg_urls(path):
     return urls
 
 
-def safe_filename(url):
-    base = url.rsplit("/", 1)[-1]
+def _url_path_segments(url):
+    from urllib.parse import urlparse
+    return [p for p in urlparse(url).path.split("/") if p]
+
+
+def _strip_xml_ext(name):
     for ext in (".xml.gz", ".xml"):
-        if base.endswith(ext):
-            base = base[: -len(ext)]
-            break
+        if name.endswith(ext):
+            return name[: -len(ext)]
+    return name
+
+
+def safe_filename(url):
+    segments = _url_path_segments(url)
+    base = _strip_xml_ext(segments[-1]) if segments else "epg"
     cleaned = SAFE_NAME_RE.sub("_", base).strip("_")
     return cleaned or "epg"
+
+
+def safe_filename_with_parent(url):
+    """Disambiguated fallback for when safe_filename() collides: prefixes
+    the file's parent path segment (e.g. 'Plex/us.xml' -> 'Plex_us'
+    instead of the bare 'us' that 'SamsungTVPlus/us.xml' also produces).
+    Falls back to safe_filename() if there's no parent segment to use."""
+    segments = _url_path_segments(url)
+    if len(segments) < 2:
+        return safe_filename(url)
+    parent = segments[-2]
+    base = _strip_xml_ext(segments[-1])
+    cleaned = SAFE_NAME_RE.sub("_", f"{parent}_{base}").strip("_")
+    return cleaned or safe_filename(url)
 
 
 def fetch_source_bytes(url):
@@ -224,7 +247,11 @@ def main():
     for n, url in enumerate(urls, start=1):
         fname = safe_filename(url)
         if fname in used_filenames:
-            fname = f"{fname}_{n}"
+            candidate = safe_filename_with_parent(url)
+            if candidate not in used_filenames and candidate != fname:
+                fname = candidate
+            else:
+                fname = f"{fname}_{n}"  # last-resort fallback, still guaranteed unique
         used_filenames.add(fname)
         out_path = os.path.join(OUTPUT_DIR, f"{fname}.xml")
 
