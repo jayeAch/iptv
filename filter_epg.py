@@ -26,7 +26,7 @@ from lxml import etree
 M3U_DIR = "output"
 EPG_URLS_FILE = "epg_urls.txt"
 OUTPUT_DIR = "output"
-MAX_AGE = timedelta(days=1)  # drop programmes that ended more than this long ago
+WINDOW = timedelta(days=1)  # keep only programmes airing within this span from now
 
 TVG_ID_RE = re.compile(r'tvg-id=["\']([^"\']*)["\']', re.IGNORECASE)
 TVG_NAME_RE = re.compile(r'tvg-name=["\']([^"\']*)["\']', re.IGNORECASE)
@@ -54,12 +54,17 @@ def parse_xmltv_dt(value):
     return dt
 
 
-def is_too_old(elem, cutoff):
-    """A programme is dropped only if it has a parseable stop/start time
-    AND that time is before cutoff. Unparseable or missing times keep
-    the programme (fail open)."""
-    dt = parse_xmltv_dt(elem.get("stop")) or parse_xmltv_dt(elem.get("start"))
-    return dt is not None and dt < cutoff
+def out_of_window(elem, now, window_end):
+    """A programme is dropped if it has already ended (stop < now), or
+    it starts at/after window_end. Unparseable/missing times keep the
+    programme (fail open) so a malformed timestamp can't wipe good data."""
+    stop = parse_xmltv_dt(elem.get("stop"))
+    if stop is not None and stop < now:
+        return True
+    start = parse_xmltv_dt(elem.get("start"))
+    if start is not None and start >= window_end:
+        return True
+    return False
 
 
 def load_retained_ids(m3u_dir):
@@ -126,7 +131,7 @@ def _clear(elem):
             del parent[0]
 
 
-def stream_filter(url, retained_ids, retained_names, out, cutoff):
+def stream_filter(url, retained_ids, retained_names, out, now, window_end):
     """
     A <channel> is kept if its id matches retained_ids, or one of its
     <display-name> values matches retained_names (covers providers that
@@ -166,15 +171,15 @@ def stream_filter(url, retained_ids, retained_names, out, cutoff):
         _clear(elem)
     del context
 
-    # Pass 2: programmes, against the now-complete matched id set, skipping
-    # anything that ended before cutoff.
+    # Pass 2: programmes, against the now-complete matched id set, keeping
+    # only what falls in [now, window_end).
     kept_programmes = 0
     dropped_old = 0
     context = etree.iterparse(io.BytesIO(raw), events=("end",), tag="programme", recover=True)
     for _, elem in context:
         cid = elem.get("channel")
         if cid in matched_channel_ids:
-            if is_too_old(elem, cutoff):
+            if out_of_window(elem, now, window_end):
                 dropped_old += 1
             else:
                 out.write(etree.tostring(elem, encoding="unicode"))
@@ -208,8 +213,9 @@ def main():
         print(f"Error: no URLs found in {EPG_URLS_FILE}", file=sys.stderr)
         sys.exit(1)
 
-    cutoff = datetime.now(timezone.utc) - MAX_AGE
-    print(f"Dropping programmes that ended before {cutoff.isoformat()} (older than {MAX_AGE}).")
+    now = datetime.now(timezone.utc)
+    window_end = now + WINDOW
+    print(f"Keeping programmes airing between {now.isoformat()} and {window_end.isoformat()} ({WINDOW}).")
 
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     total_channels = total_programmes = total_dropped = 0
@@ -225,7 +231,7 @@ def main():
         try:
             with open(out_path, "w", encoding="utf-8") as out:
                 out.write('<?xml version="1.0" encoding="UTF-8"?>\n<tv>\n')
-                c, p, d = stream_filter(url, retained_ids, retained_names, out, cutoff)
+                c, p, d = stream_filter(url, retained_ids, retained_names, out, now, window_end)
                 out.write("</tv>\n")
             total_channels += c
             total_programmes += p
