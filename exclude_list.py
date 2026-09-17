@@ -8,6 +8,8 @@ GLOBAL_EXCLUDE_LIST = [
 "б", "в", "г", "д", "ё", "ж", "з", "и", "й", "к", "л", "м", "н", "п", "т", "ф", "ц", "ч", "ш", "щ", "ъ", "ы", "ь", "э", "ю", "я", "Б", "В", "Г", "Д", "Ё", "Ж", "З", "И", "Й", "К", "Л", "М", "Н", "П", "Т", "Ф", "Ц", "Ч", "Ш", "Щ", "Ъ", "Ы", "Ь", "Э", "Ю", "Я",
 
 # All other entries (alphabetized, case-sensitive, deduplicated)
+"BBC Drama Classics",
+"Britbox Mysteries",
 "Crime Beat TV",
 "Ion Mystery",
 "MHz Mysteries",
@@ -359,7 +361,6 @@ GLOBAL_EXCLUDE_LIST = [
 "Let's Make a Deal",
 "Tony Robbins Network",
 "GrowthDay Network",
-"fFight Network",
 "Cricket Gold",
 "Sweet Escapes",
 "Matched Married Meet",
