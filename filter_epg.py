@@ -1,18 +1,24 @@
 #!/usr/bin/env python3
 """
-Reads tvg-id values out of the already-filtered M3U files in output/,
-then streams each XMLTV source listed in epg_urls.txt (plain .xml or
-gzipped .xml.gz), keeping only <channel>/<programme> elements whose
-id/channel attribute matches a retained tvg-id, and writes each source
-out as its own file in output/ (one .xml per line in epg_urls.txt, not
-merged together).
+Filters each XMLTV source in epg_urls.txt down to the channels kept in
+the M3U of the same name (output/<NAME>.m3u, produced by filter_m3u.py
+from the matching NAME in urls.txt), and writes it to output/ as its own
+.xml (not merged).
+
+Strictly paired: an epg_urls.txt line "NAME = URL" is processed only if
+output/NAME.m3u exists. Bare URLs, and names with no matching M3U, are
+skipped without being downloaded.
+
+Usage:
+    python filter_epg.py            # every paired entry
+    python filter_epg.py TV Plex    # only the named entries
 
 Uses lxml.etree.iterparse + element clearing so large XMLTV files never
 get fully loaded into memory.
 
-epg_urls.txt format (one URL per line, blank/# lines ignored):
-    https://example.com/epg1.xml.gz
-    https://example.com/epg2.xml
+epg_urls.txt format (one per line, blank/# lines ignored):
+    TV   = https://example.com/epg.xml.gz
+    Plex = https://example.com/plex.xml
 """
 import gzip
 import io
@@ -67,19 +73,17 @@ def out_of_window(elem, now, window_end):
     return False
 
 
-def load_retained_ids(m3u_dir):
+def load_retained_ids(paths):
     """
-    Returns (ids, names, extinf_count, sample_lines).
-    ids/names are built from tvg-id / tvg-name attributes on kept #EXTINF
-    lines. Both are collected because not every provider populates tvg-id;
-    the caller decides which set to actually match against.
+    Returns (ids, names, extinf_count, sample_lines) for the given M3U
+    file paths. ids/names are built from tvg-id / tvg-name attributes on
+    kept #EXTINF lines. Both are collected because not every provider
+    populates tvg-id; the caller decides which set to actually match on.
     """
     ids, names, sample_lines = set(), set(), []
     extinf_count = 0
-    for fname in sorted(os.listdir(m3u_dir)):
-        if not fname.endswith(".m3u"):
-            continue
-        with open(os.path.join(m3u_dir, fname), encoding="utf-8") as f:
+    for path in paths:
+        with open(path, encoding="utf-8") as f:
             for line in f:
                 if line.startswith("#EXTINF"):
                     extinf_count += 1
@@ -94,14 +98,26 @@ def load_retained_ids(m3u_dir):
     return ids, names, extinf_count, sample_lines
 
 
-def load_epg_urls(path):
-    urls = []
+def load_epg_entries(path):
+    """Returns a list of (name_or_None, url). 'NAME = URL' pairs the EPG
+    with output/<NAME>.m3u; a bare URL is unpaired. A '=' inside the URL
+    (query string) is not mistaken for a name separator."""
+    entries = []
     with open(path, encoding="utf-8") as f:
         for line in f:
             line = line.strip()
-            if line and not line.startswith("#"):
-                urls.append(line)
-    return urls
+            if not line or line.startswith("#"):
+                continue
+            head, sep, tail = line.partition("=")
+            if sep and "://" not in head:
+                entries.append((head.strip(), tail.strip()))
+            else:
+                entries.append((None, line))
+    return entries
+
+
+def safe_m3u_name(name):
+    return SAFE_NAME_RE.sub("_", name).strip("_") or "playlist"
 
 
 def _url_path_segments(url):
@@ -215,24 +231,10 @@ def stream_filter(url, retained_ids, retained_names, out, now, window_end):
 
 
 def main():
-    retained_ids, retained_names, extinf_count, sample_lines = load_retained_ids(M3U_DIR)
+    only = {safe_m3u_name(n) for n in sys.argv[1:]}
 
-    if not retained_ids and not retained_names:
-        print(f"Error: found {extinf_count} #EXTINF lines in {M3U_DIR}/*.m3u but none "
-              f"carry a tvg-id or tvg-name attribute -- nothing to match against.", file=sys.stderr)
-        if sample_lines:
-            print("Sample #EXTINF lines seen:", file=sys.stderr)
-            for line in sample_lines:
-                print(f"  {line}", file=sys.stderr)
-        sys.exit(1)
-
-    print(f"{len(retained_ids)} channel IDs and {len(retained_names)} channel names "
-          f"retained from M3U filtering ({extinf_count} #EXTINF lines scanned)")
-    if not retained_ids:
-        print("Note: no tvg-id values found, matching by tvg-name/display-name instead.")
-
-    urls = load_epg_urls(EPG_URLS_FILE)
-    if not urls:
+    entries = load_epg_entries(EPG_URLS_FILE)
+    if not entries:
         print(f"Error: no URLs found in {EPG_URLS_FILE}", file=sys.stderr)
         sys.exit(1)
 
@@ -243,8 +245,20 @@ def main():
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     total_channels = total_programmes = total_dropped = 0
     used_filenames = set()
+    processed = 0
 
-    for n, url in enumerate(urls, start=1):
+    for n, (name, url) in enumerate(entries, start=1):
+        if not name:
+            print(f"[{url}] skipped: no NAME, can't pair with an M3U", file=sys.stderr)
+            continue
+        key = safe_m3u_name(name)
+        if only and key not in only:
+            continue
+        m3u_path = os.path.join(M3U_DIR, f"{key}.m3u")
+        if not os.path.exists(m3u_path):
+            print(f"[{name}] skipped: {m3u_path} not found", file=sys.stderr)
+            continue
+
         fname = safe_filename(url)
         if fname in used_filenames:
             candidate = safe_filename_with_parent(url)
@@ -255,20 +269,31 @@ def main():
         used_filenames.add(fname)
         out_path = os.path.join(OUTPUT_DIR, f"{fname}.xml")
 
+        ids, names, extinf_count, _ = load_retained_ids([m3u_path])
+        if not ids and not names:
+            print(f"[{name}] no tvg-id/tvg-name in {extinf_count} #EXTINF lines of {m3u_path}, "
+                  f"writing empty EPG -> {out_path}", file=sys.stderr)
+            with open(out_path, "w", encoding="utf-8") as out:
+                out.write('<?xml version="1.0" encoding="UTF-8"?>\n<tv>\n</tv>\n')
+            processed += 1
+            continue
+
         try:
             with open(out_path, "w", encoding="utf-8") as out:
                 out.write('<?xml version="1.0" encoding="UTF-8"?>\n<tv>\n')
-                c, p, d = stream_filter(url, retained_ids, retained_names, out, now, window_end)
+                c, p, d = stream_filter(url, ids, names, out, now, window_end)
                 out.write("</tv>\n")
             total_channels += c
             total_programmes += p
             total_dropped += d
-            print(f"[{url}] {c} channels, {p} programmes kept, {d} dropped (too old) -> {out_path}")
+            processed += 1
+            print(f"[{name}] {len(ids)} ids, {len(names)} names from {m3u_path}: "
+                  f"{c} channels, {p} programmes kept, {d} dropped (too old) -> {out_path}")
         except Exception as e:
-            print(f"[{url}] FAILED: {e}", file=sys.stderr)
+            print(f"[{name}] FAILED: {e}", file=sys.stderr)
 
     print(f"Done. {total_channels} channels, {total_programmes} programmes written, "
-          f"{total_dropped} dropped as too old, across {len(urls)} source(s).")
+          f"{total_dropped} dropped as too old, {processed}/{len(entries)} source(s) processed.")
 
 
 if __name__ == "__main__":
