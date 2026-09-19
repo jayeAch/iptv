@@ -1117,7 +1117,6 @@ GLOBAL_EXCLUDE_LIST = [
 "Mi Raza Canal",
 "MI-5",
 "Miami",
-"Midnight Pulp",
 "Midsomer Murders",
 "Million Dollar Dream Home",
 "Million Dollar Listing Vault",
