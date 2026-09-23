@@ -4,7 +4,9 @@ Downloads each M3U URL listed in urls.txt, strips any channel whose
 #EXTINF line matches a word/substring in GLOBAL_EXCLUDE_LIST or whose
 group-title exactly matches an entry in CATEGORY_EXCLUDE_LIST, and writes
 each source out as its own file in output/ (one .m3u per line in
-urls.txt, not merged together).
+urls.txt, not merged together). Also writes output/combined.m3u, the
+union of every source's kept, deduped channels in one file -- the
+per-source files are still written untouched alongside it.
 
 urls.txt format (one entry per line, blank lines and lines starting with
 # are ignored):
@@ -24,10 +26,12 @@ from category_exclude_list import CATEGORY_EXCLUDE_LIST
 
 URLS_FILE = "urls.txt"
 OUTPUT_DIR = "output"
+COMBINED_M3U_PATH = os.path.join(OUTPUT_DIR, "combined.m3u")
 
 URL_TVG_RE = re.compile(r'url-tvg="([^"]*)"')
 GROUP_TITLE_RE = re.compile(r'group-title="([^"]*)"')
 SAFE_NAME_RE = re.compile(r'[^A-Za-z0-9_-]+')
+EXTINF_NAME_RE = re.compile(r'^#EXTINF:[^,]*(?:"[^"]*"[^,]*)*,(.*)$')
 
 
 def load_urls(path):
@@ -51,26 +55,6 @@ def load_urls(path):
 def safe_filename(name):
     cleaned = SAFE_NAME_RE.sub("_", name).strip("_")
     return cleaned or "playlist"
-
-
-def extinf_channel_name(line):
-    """
-    Returns the channel name from an #EXTINF line: the text after the
-    last comma that is NOT inside a quoted attribute value (e.g.
-    tvg-name="Foo, Bar"). A naive "last comma in the line" split breaks
-    on any attribute whose value itself contains a comma, since that
-    comma isn't the one separating attributes from the display name.
-    """
-    in_quotes = False
-    last_comma = -1
-    for i, ch in enumerate(line):
-        if ch == '"':
-            in_quotes = not in_quotes
-        elif ch == "," and not in_quotes:
-            last_comma = i
-    if last_comma == -1:
-        return ""
-    return line[last_comma + 1:]
 
 
 def fetch(url):
@@ -104,8 +88,9 @@ def filter_playlist(text):
     while i < len(lines):
         line = lines[i]
         if line.startswith("#EXTINF"):
-            # channel name is text after the last top-level comma on the EXTINF line
-            name = extinf_channel_name(line)
+            # channel name is text after the last comma on the EXTINF line
+            m = EXTINF_NAME_RE.match(line)
+            name = m.group(1) if m else line.rsplit(",", 1)[-1]
             group_match = GROUP_TITLE_RE.search(line)
             category = group_match.group(1) if group_match else None
 
@@ -202,6 +187,8 @@ def main():
     fetched = 0
     seen_urls = set()
     used_filenames = set()
+    combined_lines = []
+    combined_tvg_urls = []
 
     for name, url in entries:
         try:
@@ -232,6 +219,13 @@ def main():
             f.write(header + "\n")
             f.write("\n".join(body_lines) + "\n")
 
+        # body_lines here is already deduped against every earlier source
+        # (seen_urls is shared), so appending it straight into the
+        # combined buffer needs no extra dedupe pass.
+        combined_lines.extend(body_lines)
+        if tvg_url and tvg_url not in combined_tvg_urls:
+            combined_tvg_urls.append(tvg_url)
+
         print(f"[{name}] {removed_by_name} removed by name, "
               f"{removed_by_category} removed by category, "
               f"{removed_duplicates} duplicate streams removed, "
@@ -246,6 +240,15 @@ def main():
     if fetched == 0:
         print("Error: every playlist fetch failed, nothing to write.", file=sys.stderr)
         sys.exit(1)
+
+    combined_header = "#EXTM3U"
+    if combined_tvg_urls:
+        combined_header += f' url-tvg="{",".join(combined_tvg_urls)}"'
+    with open(COMBINED_M3U_PATH, "w", encoding="utf-8") as f:
+        f.write(combined_header + "\n")
+        f.write("\n".join(combined_lines) + "\n")
+    print(f"Combined {fetched} source(s) into {COMBINED_M3U_PATH} "
+          f"({len(seen_urls)} unique channels).")
 
 
 if __name__ == "__main__":
