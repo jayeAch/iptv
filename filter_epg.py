@@ -3,13 +3,7 @@
 Filters each XMLTV source in epg_urls.txt down to the channels kept in
 the M3U of the same name (output/<NAME>.m3u, produced by filter_m3u.py
 from the matching NAME in urls.txt), and writes it to output/ as its own
-.xml (not merged). Also writes output/combined_epg.xml, the union of
-every source's kept channels/programmes in one file. Each source's ids
-are prefixed "NAME::" in the combined file (never in the per-source
-files) so that a plain/reused id like "1" from one provider can't be
-mistaken for the same channel from another -- filter_m3u.py applies the
-identical prefix to tvg-id when building combined.m3u, so the pairing
-still lines up there. The per-source files are written untouched.
+.xml (not merged).
 
 Strictly paired: an epg_urls.txt line "NAME = URL" is processed only if
 output/NAME.m3u exists. Bare URLs, and names with no matching M3U, are
@@ -38,7 +32,6 @@ from lxml import etree
 M3U_DIR = "output"
 EPG_URLS_FILE = "epg_urls.txt"
 OUTPUT_DIR = "output"
-COMBINED_EPG_PATH = os.path.join(OUTPUT_DIR, "combined_epg.xml")
 WINDOW = timedelta(days=1)  # keep only programmes airing within this span from now
 
 TVG_ID_RE = re.compile(r'tvg-id=["\']([^"\']*)["\']', re.IGNORECASE)
@@ -83,17 +76,9 @@ def out_of_window(elem, now, window_end):
 def load_retained_ids(paths):
     """
     Returns (ids, names, extinf_count, sample_lines) for the given M3U
-    file paths. ids come from tvg-id; names are the fallback -- a
-    channel's tvg-name is only added to `names` when that channel has
-    no tvg-id at all. This matters because stream_filter() below matches
-    a raw XMLTV <channel> if its id is in `ids` OR its display-name is
-    in `names`: if a channel's tvg-name went into `names` even though it
-    already has a tvg-id, matching would also pull in every *other* raw
-    channel that happens to share that display-name -- common in
-    aggregated feeds (e.g. i.mjh.nz) where the same channel name repeats
-    once per region/country under a different id. Keeping `names`
-    id-less-only means name-matching only ever fires when there was no
-    id to match on in the first place.
+    file paths. ids/names are built from tvg-id / tvg-name attributes on
+    kept #EXTINF lines. Both are collected because not every provider
+    populates tvg-id; the caller decides which set to actually match on.
     """
     ids, names, sample_lines = set(), set(), []
     extinf_count = 0
@@ -105,13 +90,11 @@ def load_retained_ids(paths):
                     if len(sample_lines) < 5:
                         sample_lines.append(line.strip())
                     m_id = TVG_ID_RE.search(line)
-                    has_id = bool(m_id and m_id.group(1))
-                    if has_id:
+                    if m_id and m_id.group(1):
                         ids.add(m_id.group(1))
-                    else:
-                        m_name = TVG_NAME_RE.search(line)
-                        if m_name and m_name.group(1):
-                            names.add(m_name.group(1))
+                    m_name = TVG_NAME_RE.search(line)
+                    if m_name and m_name.group(1):
+                        names.add(m_name.group(1))
     return ids, names, extinf_count, sample_lines
 
 
@@ -187,16 +170,7 @@ def _clear(elem):
             del parent[0]
 
 
-def _with_attr(elem, attr, value):
-    """Returns a serialized copy of elem with attr overridden to value,
-    leaving the original elem (and whatever else references it) untouched."""
-    clone = etree.fromstring(etree.tostring(elem))
-    clone.set(attr, value)
-    return etree.tostring(clone, encoding="unicode")
-
-
-def stream_filter(url, retained_ids, retained_names, out, now, window_end,
-                   combined_out=None, source_key=None):
+def stream_filter(url, retained_ids, retained_names, out, now, window_end):
     """
     A <channel> is kept if its id matches retained_ids, or one of its
     <display-name> values matches retained_names (covers providers that
@@ -214,21 +188,6 @@ def stream_filter(url, retained_ids, retained_names, out, now, window_end,
     iterparse + clearing, so peak memory stays bounded by one element at
     a time, not the whole tree -- only the raw source bytes are held
     twice (once as downloaded, once per gzip.read() above).
-
-    If combined_out is given, every element written to `out` is also
-    mirrored there, with its id (channel elements) or channel attribute
-    (programme elements) prefixed "source_key::" first. The prefix
-    matters: raw XMLTV ids are only unique *within* one provider's feed
-    -- lots of providers hand out plain sequential ids like "1" or "2"
-    -- so without it, two unrelated sources' channel "1" would collide
-    in the combined file and one source's whole schedule would get
-    silently glued onto the other's channel. Scoping by source makes
-    every combined id unique by construction, so no extra cross-source
-    dedup bookkeeping is needed -- combined_out ends up with exactly the
-    same channels/programmes as the per-source files, just relabeled and
-    concatenated. filter_m3u.py applies the identical "source_key::"
-    prefix to tvg-id when building combined.m3u, so the pairing still
-    matches up there.
     """
     raw = fetch_source_bytes(url)
 
@@ -248,9 +207,6 @@ def stream_filter(url, retained_ids, retained_names, out, now, window_end,
                 out.write("\n")
                 seen_channel_ids.add(cid)
                 kept_channels += 1
-                if combined_out is not None:
-                    combined_out.write(_with_attr(elem, "id", f"{source_key}::{cid}"))
-                    combined_out.write("\n")
         _clear(elem)
     del context
 
@@ -268,9 +224,6 @@ def stream_filter(url, retained_ids, retained_names, out, now, window_end,
                 out.write(etree.tostring(elem, encoding="unicode"))
                 out.write("\n")
                 kept_programmes += 1
-                if combined_out is not None:
-                    combined_out.write(_with_attr(elem, "channel", f"{source_key}::{cid}"))
-                    combined_out.write("\n")
         _clear(elem)
     del context
 
@@ -293,9 +246,6 @@ def main():
     total_channels = total_programmes = total_dropped = 0
     used_filenames = set()
     processed = 0
-
-    combined_file = open(COMBINED_EPG_PATH, "w", encoding="utf-8")
-    combined_file.write('<?xml version="1.0" encoding="UTF-8"?>\n<tv>\n')
 
     for n, (name, url) in enumerate(entries, start=1):
         if not name:
@@ -331,8 +281,7 @@ def main():
         try:
             with open(out_path, "w", encoding="utf-8") as out:
                 out.write('<?xml version="1.0" encoding="UTF-8"?>\n<tv>\n')
-                c, p, d = stream_filter(url, ids, names, out, now, window_end,
-                                         combined_out=combined_file, source_key=key)
+                c, p, d = stream_filter(url, ids, names, out, now, window_end)
                 out.write("</tv>\n")
             total_channels += c
             total_programmes += p
@@ -342,13 +291,6 @@ def main():
                   f"{c} channels, {p} programmes kept, {d} dropped (too old) -> {out_path}")
         except Exception as e:
             print(f"[{name}] FAILED: {e}", file=sys.stderr)
-
-    combined_file.write("</tv>\n")
-    combined_file.close()
-    print(f"Combined {processed} source(s) into {COMBINED_EPG_PATH} "
-          f"({total_channels} channels, {total_programmes} programmes -- "
-          f"every id/channel-ref is prefixed with its source so same-numbered "
-          f"channels from different providers can't collide).")
 
     print(f"Done. {total_channels} channels, {total_programmes} programmes written, "
           f"{total_dropped} dropped as too old, {processed}/{len(entries)} source(s) processed.")
