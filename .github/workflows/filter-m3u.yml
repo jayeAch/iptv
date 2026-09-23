@@ -36,12 +36,17 @@ jobs:
       - name: Filter and merge EPG
         run: python filter_epg.py
 
-      - name: Publish as release assets
-        uses: softprops/action-gh-release@v2
-        with:
-          tag_name: filtered-playlists
-          name: Filtered Playlists
-          body: "Auto-updated $(date -u +'%Y-%m-%d %H:%M UTC')"
-          files: |
-            output/*.m3u
-            output/*.xml
+      - name: Commit filtered playlists
+        run: |
+          mkdir -p playlists
+          cp output/*.m3u playlists/ 2>/dev/null || true
+          cp output/*.xml playlists/ 2>/dev/null || true
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add playlists/
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update filtered playlists $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
