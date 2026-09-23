@@ -3,7 +3,12 @@
 Filters each XMLTV source in epg_urls.txt down to the channels kept in
 the M3U of the same name (output/<NAME>.m3u, produced by filter_m3u.py
 from the matching NAME in urls.txt), and writes it to output/ as its own
-.xml (not merged).
+.xml (not merged). Also writes output/combined_epg.xml, the union of
+every source's kept channels/programmes in one file -- channels are
+deduped globally by id (first source to claim an id wins) and
+programmes by (channel id, start time), so a channel id reused by two
+providers doesn't produce duplicate entries in the combined file. The
+per-source files are still written untouched alongside it.
 
 Strictly paired: an epg_urls.txt line "NAME = URL" is processed only if
 output/NAME.m3u exists. Bare URLs, and names with no matching M3U, are
@@ -32,6 +37,7 @@ from lxml import etree
 M3U_DIR = "output"
 EPG_URLS_FILE = "epg_urls.txt"
 OUTPUT_DIR = "output"
+COMBINED_EPG_PATH = os.path.join(OUTPUT_DIR, "combined_epg.xml")
 WINDOW = timedelta(days=1)  # keep only programmes airing within this span from now
 
 TVG_ID_RE = re.compile(r'tvg-id=["\']([^"\']*)["\']', re.IGNORECASE)
@@ -170,7 +176,7 @@ def _clear(elem):
             del parent[0]
 
 
-def stream_filter(url, retained_ids, retained_names, out, now, window_end):
+def stream_filter(url, retained_ids, retained_names, out, now, window_end, combined=None):
     """
     A <channel> is kept if its id matches retained_ids, or one of its
     <display-name> values matches retained_names (covers providers that
@@ -188,6 +194,12 @@ def stream_filter(url, retained_ids, retained_names, out, now, window_end):
     iterparse + clearing, so peak memory stays bounded by one element at
     a time, not the whole tree -- only the raw source bytes are held
     twice (once as downloaded, once per gzip.read() above).
+
+    If combined is given (a dict with 'out', 'seen_channel_ids',
+    'seen_programme_keys'), every kept element is also written there,
+    deduped against every other source processed so far in this run --
+    so a channel id reused by two providers is only written once, and
+    a resulting duplicate programme (same channel id + start) is too.
     """
     raw = fetch_source_bytes(url)
 
@@ -207,6 +219,10 @@ def stream_filter(url, retained_ids, retained_names, out, now, window_end):
                 out.write("\n")
                 seen_channel_ids.add(cid)
                 kept_channels += 1
+            if combined is not None and cid not in combined["seen_channel_ids"]:
+                combined["out"].write(etree.tostring(elem, encoding="unicode"))
+                combined["out"].write("\n")
+                combined["seen_channel_ids"].add(cid)
         _clear(elem)
     del context
 
@@ -224,6 +240,12 @@ def stream_filter(url, retained_ids, retained_names, out, now, window_end):
                 out.write(etree.tostring(elem, encoding="unicode"))
                 out.write("\n")
                 kept_programmes += 1
+                if combined is not None and cid in combined["seen_channel_ids"]:
+                    prog_key = (cid, elem.get("start"))
+                    if prog_key not in combined["seen_programme_keys"]:
+                        combined["out"].write(etree.tostring(elem, encoding="unicode"))
+                        combined["out"].write("\n")
+                        combined["seen_programme_keys"].add(prog_key)
         _clear(elem)
     del context
 
@@ -246,6 +268,14 @@ def main():
     total_channels = total_programmes = total_dropped = 0
     used_filenames = set()
     processed = 0
+
+    combined_file = open(COMBINED_EPG_PATH, "w", encoding="utf-8")
+    combined_file.write('<?xml version="1.0" encoding="UTF-8"?>\n<tv>\n')
+    combined = {
+        "out": combined_file,
+        "seen_channel_ids": set(),
+        "seen_programme_keys": set(),
+    }
 
     for n, (name, url) in enumerate(entries, start=1):
         if not name:
@@ -281,7 +311,7 @@ def main():
         try:
             with open(out_path, "w", encoding="utf-8") as out:
                 out.write('<?xml version="1.0" encoding="UTF-8"?>\n<tv>\n')
-                c, p, d = stream_filter(url, ids, names, out, now, window_end)
+                c, p, d = stream_filter(url, ids, names, out, now, window_end, combined=combined)
                 out.write("</tv>\n")
             total_channels += c
             total_programmes += p
@@ -291,6 +321,12 @@ def main():
                   f"{c} channels, {p} programmes kept, {d} dropped (too old) -> {out_path}")
         except Exception as e:
             print(f"[{name}] FAILED: {e}", file=sys.stderr)
+
+    combined_file.write("</tv>\n")
+    combined_file.close()
+    print(f"Combined {processed} source(s) into {COMBINED_EPG_PATH} "
+          f"({len(combined['seen_channel_ids'])} unique channels, "
+          f"{len(combined['seen_programme_keys'])} unique programmes).")
 
     print(f"Done. {total_channels} channels, {total_programmes} programmes written, "
           f"{total_dropped} dropped as too old, {processed}/{len(entries)} source(s) processed.")
