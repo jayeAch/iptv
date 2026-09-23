@@ -4,11 +4,12 @@ Filters each XMLTV source in epg_urls.txt down to the channels kept in
 the M3U of the same name (output/<NAME>.m3u, produced by filter_m3u.py
 from the matching NAME in urls.txt), and writes it to output/ as its own
 .xml (not merged). Also writes output/combined_epg.xml, the union of
-every source's kept channels/programmes in one file -- channels are
-deduped globally by id (first source to claim an id wins) and
-programmes by (channel id, start time), so a channel id reused by two
-providers doesn't produce duplicate entries in the combined file. The
-per-source files are still written untouched alongside it.
+every source's kept channels/programmes in one file. Each source's ids
+are prefixed "NAME::" in the combined file (never in the per-source
+files) so that a plain/reused id like "1" from one provider can't be
+mistaken for the same channel from another -- filter_m3u.py applies the
+identical prefix to tvg-id when building combined.m3u, so the pairing
+still lines up there. The per-source files are written untouched.
 
 Strictly paired: an epg_urls.txt line "NAME = URL" is processed only if
 output/NAME.m3u exists. Bare URLs, and names with no matching M3U, are
@@ -176,7 +177,16 @@ def _clear(elem):
             del parent[0]
 
 
-def stream_filter(url, retained_ids, retained_names, out, now, window_end, combined=None):
+def _with_attr(elem, attr, value):
+    """Returns a serialized copy of elem with attr overridden to value,
+    leaving the original elem (and whatever else references it) untouched."""
+    clone = etree.fromstring(etree.tostring(elem))
+    clone.set(attr, value)
+    return etree.tostring(clone, encoding="unicode")
+
+
+def stream_filter(url, retained_ids, retained_names, out, now, window_end,
+                   combined_out=None, source_key=None):
     """
     A <channel> is kept if its id matches retained_ids, or one of its
     <display-name> values matches retained_names (covers providers that
@@ -195,11 +205,20 @@ def stream_filter(url, retained_ids, retained_names, out, now, window_end, combi
     a time, not the whole tree -- only the raw source bytes are held
     twice (once as downloaded, once per gzip.read() above).
 
-    If combined is given (a dict with 'out', 'seen_channel_ids',
-    'seen_programme_keys'), every kept element is also written there,
-    deduped against every other source processed so far in this run --
-    so a channel id reused by two providers is only written once, and
-    a resulting duplicate programme (same channel id + start) is too.
+    If combined_out is given, every element written to `out` is also
+    mirrored there, with its id (channel elements) or channel attribute
+    (programme elements) prefixed "source_key::" first. The prefix
+    matters: raw XMLTV ids are only unique *within* one provider's feed
+    -- lots of providers hand out plain sequential ids like "1" or "2"
+    -- so without it, two unrelated sources' channel "1" would collide
+    in the combined file and one source's whole schedule would get
+    silently glued onto the other's channel. Scoping by source makes
+    every combined id unique by construction, so no extra cross-source
+    dedup bookkeeping is needed -- combined_out ends up with exactly the
+    same channels/programmes as the per-source files, just relabeled and
+    concatenated. filter_m3u.py applies the identical "source_key::"
+    prefix to tvg-id when building combined.m3u, so the pairing still
+    matches up there.
     """
     raw = fetch_source_bytes(url)
 
@@ -219,10 +238,9 @@ def stream_filter(url, retained_ids, retained_names, out, now, window_end, combi
                 out.write("\n")
                 seen_channel_ids.add(cid)
                 kept_channels += 1
-            if combined is not None and cid not in combined["seen_channel_ids"]:
-                combined["out"].write(etree.tostring(elem, encoding="unicode"))
-                combined["out"].write("\n")
-                combined["seen_channel_ids"].add(cid)
+                if combined_out is not None:
+                    combined_out.write(_with_attr(elem, "id", f"{source_key}::{cid}"))
+                    combined_out.write("\n")
         _clear(elem)
     del context
 
@@ -240,12 +258,9 @@ def stream_filter(url, retained_ids, retained_names, out, now, window_end, combi
                 out.write(etree.tostring(elem, encoding="unicode"))
                 out.write("\n")
                 kept_programmes += 1
-                if combined is not None and cid in combined["seen_channel_ids"]:
-                    prog_key = (cid, elem.get("start"))
-                    if prog_key not in combined["seen_programme_keys"]:
-                        combined["out"].write(etree.tostring(elem, encoding="unicode"))
-                        combined["out"].write("\n")
-                        combined["seen_programme_keys"].add(prog_key)
+                if combined_out is not None:
+                    combined_out.write(_with_attr(elem, "channel", f"{source_key}::{cid}"))
+                    combined_out.write("\n")
         _clear(elem)
     del context
 
@@ -271,11 +286,6 @@ def main():
 
     combined_file = open(COMBINED_EPG_PATH, "w", encoding="utf-8")
     combined_file.write('<?xml version="1.0" encoding="UTF-8"?>\n<tv>\n')
-    combined = {
-        "out": combined_file,
-        "seen_channel_ids": set(),
-        "seen_programme_keys": set(),
-    }
 
     for n, (name, url) in enumerate(entries, start=1):
         if not name:
@@ -311,7 +321,8 @@ def main():
         try:
             with open(out_path, "w", encoding="utf-8") as out:
                 out.write('<?xml version="1.0" encoding="UTF-8"?>\n<tv>\n')
-                c, p, d = stream_filter(url, ids, names, out, now, window_end, combined=combined)
+                c, p, d = stream_filter(url, ids, names, out, now, window_end,
+                                         combined_out=combined_file, source_key=key)
                 out.write("</tv>\n")
             total_channels += c
             total_programmes += p
@@ -325,8 +336,9 @@ def main():
     combined_file.write("</tv>\n")
     combined_file.close()
     print(f"Combined {processed} source(s) into {COMBINED_EPG_PATH} "
-          f"({len(combined['seen_channel_ids'])} unique channels, "
-          f"{len(combined['seen_programme_keys'])} unique programmes).")
+          f"({total_channels} channels, {total_programmes} programmes -- "
+          f"every id/channel-ref is prefixed with its source so same-numbered "
+          f"channels from different providers can't collide).")
 
     print(f"Done. {total_channels} channels, {total_programmes} programmes written, "
           f"{total_dropped} dropped as too old, {processed}/{len(entries)} source(s) processed.")
