@@ -83,9 +83,17 @@ def out_of_window(elem, now, window_end):
 def load_retained_ids(paths):
     """
     Returns (ids, names, extinf_count, sample_lines) for the given M3U
-    file paths. ids/names are built from tvg-id / tvg-name attributes on
-    kept #EXTINF lines. Both are collected because not every provider
-    populates tvg-id; the caller decides which set to actually match on.
+    file paths. ids come from tvg-id; names are the fallback -- a
+    channel's tvg-name is only added to `names` when that channel has
+    no tvg-id at all. This matters because stream_filter() below matches
+    a raw XMLTV <channel> if its id is in `ids` OR its display-name is
+    in `names`: if a channel's tvg-name went into `names` even though it
+    already has a tvg-id, matching would also pull in every *other* raw
+    channel that happens to share that display-name -- common in
+    aggregated feeds (e.g. i.mjh.nz) where the same channel name repeats
+    once per region/country under a different id. Keeping `names`
+    id-less-only means name-matching only ever fires when there was no
+    id to match on in the first place.
     """
     ids, names, sample_lines = set(), set(), []
     extinf_count = 0
@@ -97,11 +105,13 @@ def load_retained_ids(paths):
                     if len(sample_lines) < 5:
                         sample_lines.append(line.strip())
                     m_id = TVG_ID_RE.search(line)
-                    if m_id and m_id.group(1):
+                    has_id = bool(m_id and m_id.group(1))
+                    if has_id:
                         ids.add(m_id.group(1))
-                    m_name = TVG_NAME_RE.search(line)
-                    if m_name and m_name.group(1):
-                        names.add(m_name.group(1))
+                    else:
+                        m_name = TVG_NAME_RE.search(line)
+                        if m_name and m_name.group(1):
+                            names.add(m_name.group(1))
     return ids, names, extinf_count, sample_lines
 
 
