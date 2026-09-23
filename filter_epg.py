@@ -1,299 +1,233 @@
 #!/usr/bin/env python3
 """
-Filters each XMLTV source in epg_urls.txt down to the channels kept in
-the M3U of the same name (output/<NAME>.m3u, produced by filter_m3u.py
-from the matching NAME in urls.txt), and writes it to output/ as its own
-.xml (not merged).
+Downloads each M3U URL listed in urls.txt, strips any channel whose
+#EXTINF line matches a word/substring in GLOBAL_EXCLUDE_LIST or whose
+group-title exactly matches an entry in CATEGORY_EXCLUDE_LIST, and writes
+each source out as its own file in output/ (one .m3u per line in
+urls.txt, not merged together).
 
-Strictly paired: an epg_urls.txt line "NAME = URL" is processed only if
-output/NAME.m3u exists. Bare URLs, and names with no matching M3U, are
-skipped without being downloaded.
+urls.txt format (one entry per line, blank lines and lines starting with
+# are ignored):
+    MyProvider = https://example.com/playlist1.m3u8
+    https://example.com/playlist2.m3u8
 
-Usage:
-    python filter_epg.py            # every paired entry
-    python filter_epg.py TV Plex    # only the named entries
-
-Uses lxml.etree.iterparse + element clearing so large XMLTV files never
-get fully loaded into memory.
-
-epg_urls.txt format (one per line, blank/# lines ignored):
-    TV   = https://example.com/epg.xml.gz
-    Plex = https://example.com/plex.xml
+If no "name = " prefix is given, the URL's filename (or its position) is
+used both for logging and as the output filename.
 """
-import gzip
-import io
 import os
 import re
 import sys
 import urllib.request
-from datetime import datetime, timedelta, timezone
-from lxml import etree
+from urllib.parse import urlsplit, urlunsplit
+from exclude_list import GLOBAL_EXCLUDE_LIST
+from category_exclude_list import CATEGORY_EXCLUDE_LIST
 
-M3U_DIR = "output"
-EPG_URLS_FILE = "epg_urls.txt"
+URLS_FILE = "urls.txt"
 OUTPUT_DIR = "output"
-WINDOW = timedelta(days=1)  # keep only programmes airing within this span from now
 
-TVG_ID_RE = re.compile(r'tvg-id=["\']([^"\']*)["\']', re.IGNORECASE)
-TVG_NAME_RE = re.compile(r'tvg-name=["\']([^"\']*)["\']', re.IGNORECASE)
+URL_TVG_RE = re.compile(r'url-tvg="([^"]*)"')
+GROUP_TITLE_RE = re.compile(r'group-title="([^"]*)"')
 SAFE_NAME_RE = re.compile(r'[^A-Za-z0-9_-]+')
-XMLTV_DT_RE = re.compile(r'^(\d{4})(\d{2})(\d{2})(\d{2})(\d{2})(\d{2})\s*([+-]\d{4})?$')
+EXTINF_NAME_RE = re.compile(r'^#EXTINF:[^,]*(?:"[^"]*"[^,]*)*,(.*)$')
 
 
-def parse_xmltv_dt(value):
-    """Parses an XMLTV datetime ('20260917013000 +0000') into an aware
-    datetime. Returns None if value is missing/unparseable, so callers
-    can fail open (keep the programme) rather than drop good data."""
-    if not value:
-        return None
-    m = XMLTV_DT_RE.match(value.strip())
-    if not m:
-        return None
-    y, mo, d, h, mi, s, off = m.groups()
-    dt = datetime(int(y), int(mo), int(d), int(h), int(mi), int(s))
-    if off:
-        sign = 1 if off[0] == "+" else -1
-        off_h, off_m = int(off[1:3]), int(off[3:5])
-        dt = dt.replace(tzinfo=timezone(sign * timedelta(hours=off_h, minutes=off_m)))
-    else:
-        dt = dt.replace(tzinfo=timezone.utc)
-    return dt
-
-
-def out_of_window(elem, now, window_end):
-    """A programme is dropped if it has already ended (stop < now), or
-    it starts at/after window_end. Unparseable/missing times keep the
-    programme (fail open) so a malformed timestamp can't wipe good data."""
-    stop = parse_xmltv_dt(elem.get("stop"))
-    if stop is not None and stop < now:
-        return True
-    start = parse_xmltv_dt(elem.get("start"))
-    if start is not None and start >= window_end:
-        return True
-    return False
-
-
-def load_retained_ids(paths):
-    """
-    Returns (ids, names, extinf_count, sample_lines) for the given M3U
-    file paths. ids/names are built from tvg-id / tvg-name attributes on
-    kept #EXTINF lines. Both are collected because not every provider
-    populates tvg-id; the caller decides which set to actually match on.
-    """
-    ids, names, sample_lines = set(), set(), []
-    extinf_count = 0
-    for path in paths:
-        with open(path, encoding="utf-8") as f:
-            for line in f:
-                if line.startswith("#EXTINF"):
-                    extinf_count += 1
-                    if len(sample_lines) < 5:
-                        sample_lines.append(line.strip())
-                    m_id = TVG_ID_RE.search(line)
-                    if m_id and m_id.group(1):
-                        ids.add(m_id.group(1))
-                    m_name = TVG_NAME_RE.search(line)
-                    if m_name and m_name.group(1):
-                        names.add(m_name.group(1))
-    return ids, names, extinf_count, sample_lines
-
-
-def load_epg_entries(path):
-    """Returns a list of (name_or_None, url). 'NAME = URL' pairs the EPG
-    with output/<NAME>.m3u; a bare URL is unpaired. A '=' inside the URL
-    (query string) is not mistaken for a name separator."""
+def load_urls(path):
+    """Returns a list of (name, url) tuples."""
     entries = []
     with open(path, encoding="utf-8") as f:
         for line in f:
             line = line.strip()
             if not line or line.startswith("#"):
                 continue
-            head, sep, tail = line.partition("=")
-            if sep and "://" not in head:
-                entries.append((head.strip(), tail.strip()))
+
+            if "=" in line:
+                name, url = line.split("=", 1)
+                entries.append((name.strip(), url.strip()))
             else:
-                entries.append((None, line))
+                fallback = os.path.splitext(os.path.basename(line))[0] or f"playlist{len(entries)+1}"
+                entries.append((fallback, line))
     return entries
 
 
-def safe_m3u_name(name):
-    return SAFE_NAME_RE.sub("_", name).strip("_") or "playlist"
+def safe_filename(name):
+    cleaned = SAFE_NAME_RE.sub("_", name).strip("_")
+    return cleaned or "playlist"
 
 
-def _url_path_segments(url):
-    from urllib.parse import urlparse
-    return [p for p in urlparse(url).path.split("/") if p]
-
-
-def _strip_xml_ext(name):
-    for ext in (".xml.gz", ".xml"):
-        if name.endswith(ext):
-            return name[: -len(ext)]
-    return name
-
-
-def safe_filename(url):
-    segments = _url_path_segments(url)
-    base = _strip_xml_ext(segments[-1]) if segments else "epg"
-    cleaned = SAFE_NAME_RE.sub("_", base).strip("_")
-    return cleaned or "epg"
-
-
-def safe_filename_with_parent(url):
-    """Disambiguated fallback for when safe_filename() collides: prefixes
-    the file's parent path segment (e.g. 'Plex/us.xml' -> 'Plex_us'
-    instead of the bare 'us' that 'SamsungTVPlus/us.xml' also produces).
-    Falls back to safe_filename() if there's no parent segment to use."""
-    segments = _url_path_segments(url)
-    if len(segments) < 2:
-        return safe_filename(url)
-    parent = segments[-2]
-    base = _strip_xml_ext(segments[-1])
-    cleaned = SAFE_NAME_RE.sub("_", f"{parent}_{base}").strip("_")
-    return cleaned or safe_filename(url)
-
-
-def fetch_source_bytes(url):
-    """Downloads and fully decompresses the source once, returning raw XML bytes."""
+def fetch(url):
     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-    data = urllib.request.urlopen(req, timeout=60).read()
-    if url.endswith(".gz"):
-        return gzip.GzipFile(fileobj=io.BytesIO(data)).read()
-    return data
+    with urllib.request.urlopen(req, timeout=30) as resp:
+        return resp.read().decode("utf-8", errors="replace")
 
 
-def _clear(elem):
-    elem.clear()
-    parent = elem.getparent()
-    if parent is not None:
-        while elem.getprevious() is not None:
-            del parent[0]
-
-
-def stream_filter(url, retained_ids, retained_names, out, now, window_end):
+def filter_playlist(text):
     """
-    A <channel> is kept if its id matches retained_ids, or one of its
-    <display-name> values matches retained_names (covers providers that
-    leave tvg-id blank in the M3U). Once a channel id is confirmed a
-    match, any <programme channel="..."> referencing that id is kept too
-    -- this is what lets name-only matching still filter programmes,
-    since programme elements only ever carry the channel id, never a name.
-
-    Two passes over the same buffered bytes, so this does not depend on
-    <channel> elements appearing before the <programme> elements that
-    reference them -- some sources interleave or reverse the order.
-    Pass 1 resolves the complete set of matched channel ids and writes
-    the (deduped) <channel> elements. Pass 2 filters <programme>
-    elements against that now-complete set. Each pass still streams via
-    iterparse + clearing, so peak memory stays bounded by one element at
-    a time, not the whole tree -- only the raw source bytes are held
-    twice (once as downloaded, once per gzip.read() above).
+    Returns (body_lines, removed_by_name, removed_by_category,
+    tvg_url_or_None). body_lines excludes the #EXTM3U header -- the
+    caller writes its own header for this source's output file. tvg_url
+    is whatever url-tvg="..." value was on this source's own header, if
+    any.
     """
-    raw = fetch_source_bytes(url)
+    lines = text.splitlines()
+    kept = []
+    removed_by_name = 0
+    removed_by_category = 0
 
-    # Pass 1: channels only.
-    matched_channel_ids = set(retained_ids)
-    seen_channel_ids = set()
-    kept_channels = 0
-    context = etree.iterparse(io.BytesIO(raw), events=("end",), tag="channel", recover=True)
-    for _, elem in context:
-        cid = elem.get("id")
-        display_names = {(dn.text or "").strip() for dn in elem.findall("display-name")}
-        is_match = cid in retained_ids or bool(display_names & retained_names)
-        if is_match and cid:
-            matched_channel_ids.add(cid)
-            if cid not in seen_channel_ids:
-                out.write(etree.tostring(elem, encoding="unicode"))
-                out.write("\n")
-                seen_channel_ids.add(cid)
-                kept_channels += 1
-        _clear(elem)
-    del context
+    tvg_url = None
+    start = 0
+    if lines and lines[0].startswith("#EXTM3U"):
+        m = URL_TVG_RE.search(lines[0])
+        if m:
+            tvg_url = m.group(1)
+        start = 1
 
-    # Pass 2: programmes, against the now-complete matched id set, keeping
-    # only what falls in [now, window_end).
-    kept_programmes = 0
-    dropped_old = 0
-    context = etree.iterparse(io.BytesIO(raw), events=("end",), tag="programme", recover=True)
-    for _, elem in context:
-        cid = elem.get("channel")
-        if cid in matched_channel_ids:
-            if out_of_window(elem, now, window_end):
-                dropped_old += 1
-            else:
-                out.write(etree.tostring(elem, encoding="unicode"))
-                out.write("\n")
-                kept_programmes += 1
-        _clear(elem)
-    del context
+    i = start
+    while i < len(lines):
+        line = lines[i]
+        if line.startswith("#EXTINF"):
+            # channel name is text after the last comma on the EXTINF line
+            m = EXTINF_NAME_RE.match(line)
+            name = m.group(1) if m else line.rsplit(",", 1)[-1]
+            group_match = GROUP_TITLE_RE.search(line)
+            category = group_match.group(1) if group_match else None
 
-    return kept_channels, kept_programmes, dropped_old
+            entry_lines = [line]
+            i += 1
+            # collect any additional tag lines (#EXTVLCOPT, #EXTGRP, etc.) up to the URL
+            while i < len(lines) and lines[i].startswith("#"):
+                entry_lines.append(lines[i])
+                i += 1
+            if i < len(lines):
+                entry_lines.append(lines[i])  # the stream URL
+                i += 1
+
+            if category in CATEGORY_EXCLUDE_LIST:
+                removed_by_category += 1
+                continue
+            if any(term in name for term in GLOBAL_EXCLUDE_LIST):
+                removed_by_name += 1
+                continue
+
+            kept.extend(entry_lines)
+        else:
+            kept.append(line)
+            i += 1
+
+    return kept, removed_by_name, removed_by_category, tvg_url
+
+
+def normalize_url(url):
+    """
+    Strips the query string and fragment so that the same stream served
+    with different ad-tracking/session params (a common pattern across
+    these providers) compares equal. Scheme/host/path are lowercased for
+    the host only, since paths can be case-sensitive.
+    """
+    parts = urlsplit(url)
+    return urlunsplit((parts.scheme.lower(), parts.netloc.lower(), parts.path, "", ""))
+
+
+def dedupe_by_url(lines, seen_urls):
+    """
+    Removes channel entries whose stream URL -- ignoring query string and
+    fragment -- matches one already in seen_urls (first occurrence wins,
+    across all sources processed so far). seen_urls is mutated in place
+    so later sources see earlier ones' streams. Non-channel lines pass
+    through unchanged. Returns (deduped_lines, removed_count).
+    """
+    kept = []
+    removed = 0
+
+    i = 0
+    while i < len(lines):
+        line = lines[i]
+        if line.startswith("#EXTINF"):
+            entry_lines = [line]
+            i += 1
+            while i < len(lines) and lines[i].startswith("#"):
+                entry_lines.append(lines[i])
+                i += 1
+            stream_url = None
+            if i < len(lines):
+                stream_url = lines[i]
+                entry_lines.append(stream_url)
+                i += 1
+
+            key = normalize_url(stream_url) if stream_url else None
+            if key and key in seen_urls:
+                removed += 1
+                continue
+            if key:
+                seen_urls.add(key)
+            kept.extend(entry_lines)
+        else:
+            kept.append(line)
+            i += 1
+
+    return kept, removed
 
 
 def main():
-    only = {safe_m3u_name(n) for n in sys.argv[1:]}
-
-    entries = load_epg_entries(EPG_URLS_FILE)
-    if not entries:
-        print(f"Error: no URLs found in {EPG_URLS_FILE}", file=sys.stderr)
+    if not os.path.exists(URLS_FILE):
+        print(f"Error: {URLS_FILE} not found", file=sys.stderr)
         sys.exit(1)
 
-    now = datetime.now(timezone.utc)
-    window_end = now + WINDOW
-    print(f"Keeping programmes airing between {now.isoformat()} and {window_end.isoformat()} ({WINDOW}).")
-
     os.makedirs(OUTPUT_DIR, exist_ok=True)
-    total_channels = total_programmes = total_dropped = 0
+    entries = load_urls(URLS_FILE)
+    if not entries:
+        print(f"Error: no URLs found in {URLS_FILE}", file=sys.stderr)
+        sys.exit(1)
+
+    total_removed_by_name = 0
+    total_removed_by_category = 0
+    total_removed_duplicates = 0
+    fetched = 0
+    seen_urls = set()
     used_filenames = set()
-    processed = 0
 
-    for n, (name, url) in enumerate(entries, start=1):
-        if not name:
-            print(f"[{url}] skipped: no NAME, can't pair with an M3U", file=sys.stderr)
-            continue
-        key = safe_m3u_name(name)
-        if only and key not in only:
-            continue
-        m3u_path = os.path.join(M3U_DIR, f"{key}.m3u")
-        if not os.path.exists(m3u_path):
-            print(f"[{name}] skipped: {m3u_path} not found", file=sys.stderr)
-            continue
-
-        fname = safe_filename(url)
-        if fname in used_filenames:
-            candidate = safe_filename_with_parent(url)
-            if candidate not in used_filenames and candidate != fname:
-                fname = candidate
-            else:
-                fname = f"{fname}_{n}"  # last-resort fallback, still guaranteed unique
-        used_filenames.add(fname)
-        out_path = os.path.join(OUTPUT_DIR, f"{fname}.xml")
-
-        ids, names, extinf_count, _ = load_retained_ids([m3u_path])
-        if not ids and not names:
-            print(f"[{name}] no tvg-id/tvg-name in {extinf_count} #EXTINF lines of {m3u_path}, "
-                  f"writing empty EPG -> {out_path}", file=sys.stderr)
-            with open(out_path, "w", encoding="utf-8") as out:
-                out.write('<?xml version="1.0" encoding="UTF-8"?>\n<tv>\n</tv>\n')
-            processed += 1
-            continue
-
+    for name, url in entries:
         try:
-            with open(out_path, "w", encoding="utf-8") as out:
-                out.write('<?xml version="1.0" encoding="UTF-8"?>\n<tv>\n')
-                c, p, d = stream_filter(url, ids, names, out, now, window_end)
-                out.write("</tv>\n")
-            total_channels += c
-            total_programmes += p
-            total_dropped += d
-            processed += 1
-            print(f"[{name}] {len(ids)} ids, {len(names)} names from {m3u_path}: "
-                  f"{c} channels, {p} programmes kept, {d} dropped (too old) -> {out_path}")
+            raw = fetch(url)
         except Exception as e:
-            print(f"[{name}] FAILED: {e}", file=sys.stderr)
+            print(f"[{name}] FAILED to fetch: {e}", file=sys.stderr)
+            continue
 
-    print(f"Done. {total_channels} channels, {total_programmes} programmes written, "
-          f"{total_dropped} dropped as too old, {processed}/{len(entries)} source(s) processed.")
+        body_lines, removed_by_name, removed_by_category, tvg_url = filter_playlist(raw)
+        body_lines, removed_duplicates = dedupe_by_url(body_lines, seen_urls)
+
+        total_removed_by_name += removed_by_name
+        total_removed_by_category += removed_by_category
+        total_removed_duplicates += removed_duplicates
+        fetched += 1
+
+        header = "#EXTM3U"
+        if tvg_url:
+            header += f' url-tvg="{tvg_url}"'
+
+        fname = safe_filename(name)
+        if fname in used_filenames:
+            fname = f"{fname}_{fetched}"
+        used_filenames.add(fname)
+        out_path = os.path.join(OUTPUT_DIR, f"{fname}.m3u")
+
+        with open(out_path, "w", encoding="utf-8") as f:
+            f.write(header + "\n")
+            f.write("\n".join(body_lines) + "\n")
+
+        print(f"[{name}] {removed_by_name} removed by name, "
+              f"{removed_by_category} removed by category, "
+              f"{removed_duplicates} duplicate streams removed, "
+              f"{len(body_lines)} lines kept -> {out_path}")
+
+    total_removed = total_removed_by_name + total_removed_by_category
+    print(f"Done. {total_removed} channels removed "
+          f"({total_removed_by_name} by name, {total_removed_by_category} by category), "
+          f"{total_removed_duplicates} duplicate streams removed "
+          f"across {fetched}/{len(entries)} source(s).")
+
+    if fetched == 0:
+        print("Error: every playlist fetch failed, nothing to write.", file=sys.stderr)
+        sys.exit(1)
 
 
 if __name__ == "__main__":
