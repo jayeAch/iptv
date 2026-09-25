@@ -65,11 +65,6 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/a3669d89-4856-4b6e-9819-df6b6bfe1489/FilmRise_WorldsMostEvilKillers_Logo_Color.png"/>
   </channel>
   
-<channel id="6a1610bebdf296985fd95603-636d9d2d4ea1109a7d205a70">
-    <display-name>Real Crime</display-name>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/b0d345b3-05d6-41d2-82b1-0bfdd351312a/Real_Crime_Logo_White_-_Simon_Tuquabordx2.png"/>
-  </channel>
-  
 <channel id="6a1610bebdf296985fd95603-68db6a852be6c4ceb7947b9a">
     <display-name>FilmRise Comedy</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/91ac7a3c-8224-439f-83e9-f6c37eb186da/FilmRise_Comedy_1500x1000_Dark_Logo.png"/>
@@ -338,6 +333,11 @@
 <programme channel="6a1610bebdf296985fd95603-5fc70600598c41002da3dd34" start="20260926170500 +0000" stop="20260926180800 +0000">
     <title>Saturday Night Live</title>
     <desc>Sketches include "Coneheads Family Feud," "Vincent Price," "Garth and Kat" and more.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-5fc70600598c41002da3dd34" start="20260926180800 +0000" stop="20260926190600 +0000">
+    <title>Saturday Night Live</title>
+    <desc>Featuring sketches, like Chad, Chantix, Swiffer Sleepers and more.</desc>
   </programme>
   
 <programme channel="6a1610bebdf296985fd95603-650b38f490baad1963ad96f9" start="20260925172300 +0000" stop="20260925181400 +0000">
@@ -1155,6 +1155,11 @@
     <desc>One of the residents gains a new gift, bringing the fears of the other inhabitants of Haven to life.</desc>
   </programme>
   
+<programme channel="6a1610bebdf296985fd95603-6aa77752fc710687a8b4db43" start="20260926180724 +0000" stop="20260926185817 +0000">
+    <title>Haven</title>
+    <desc>Vehicles and equipment malfunction all over town and it's up to Audrey and Nathan to stop the massacre.</desc>
+  </programme>
+  
 <programme channel="6a1610bebdf296985fd95603-69d93e13a5c870fb1e88f873" start="20260925174344 +0000" stop="20260925183218 +0000">
     <title>Nightmare Next Door</title>
     <desc>A murder in Nashville leads authorities to uncover a Hollywood-style twist.</desc>
@@ -1935,126 +1940,6 @@
     <desc>A look at the story of Jorge Avila-Torres, a prolific predator who murdered innocent girls.</desc>
   </programme>
   
-<programme channel="6a1610bebdf296985fd95603-636d9d2d4ea1109a7d205a70" start="20260925171818 +0000" stop="20260925181658 +0000">
-    <title>Mafia's Greatest Hits</title>
-    <desc>Roy Demeo, a notorious New York City mafia hitman, evaded authorities for a prolonged period</desc>
-  </programme>
-  
-<programme channel="6a1610bebdf296985fd95603-636d9d2d4ea1109a7d205a70" start="20260925181658 +0000" stop="20260925191513 +0000">
-    <title>Mafia's Greatest Hits</title>
-    <desc>Meyer Lansky, an associate of Lucky Luciano, was linked to criminal financial operations</desc>
-  </programme>
-  
-<programme channel="6a1610bebdf296985fd95603-636d9d2d4ea1109a7d205a70" start="20260925191513 +0000" stop="20260925201430 +0000">
-    <title>Mafia's Greatest Hits</title>
-    <desc>Business partners, successfully defeated nine of the largest gangsters in New York City.</desc>
-  </programme>
-  
-<programme channel="6a1610bebdf296985fd95603-636d9d2d4ea1109a7d205a70" start="20260925201430 +0000" stop="20260925210505 +0000">
-    <title>FBI Takedowns</title>
-    <desc>FBI hunts sadistic criminal forcing victims to choose: commit robbery or lose their families.</desc>
-  </programme>
-  
-<programme channel="6a1610bebdf296985fd95603-636d9d2d4ea1109a7d205a70" start="20260925210505 +0000" stop="20260925215805 +0000">
-    <title>FBI Takedowns</title>
-    <desc>FBI, cops, and ex-cop chase NJ bank fugitive, but he escapes even the perfect trap.</desc>
-  </programme>
-  
-<programme channel="6a1610bebdf296985fd95603-636d9d2d4ea1109a7d205a70" start="20260925215805 +0000" stop="20260925225115 +0000">
-    <title>FBI Takedowns</title>
-    <desc>FBI Task Force battles silence and deadly robbers in Boston's toughest neighborhood.</desc>
-  </programme>
-  
-<programme channel="6a1610bebdf296985fd95603-636d9d2d4ea1109a7d205a70" start="20260925225115 +0000" stop="20260926000232 +0000">
-    <title>Pablo Escobar - The Columbian Cartel King</title>
-    <desc>Pablo Escobar, born in 1949, was raised in urban poverty in Medellin, Colombia.</desc>
-  </programme>
-  
-<programme channel="6a1610bebdf296985fd95603-636d9d2d4ea1109a7d205a70" start="20260926000232 +0000" stop="20260926010051 +0000">
-    <title>Allied to the Mafia</title>
-    <desc>How did Lucky Luciano come to help organize the distribution of aid in Sicily in 1943.</desc>
-  </programme>
-  
-<programme channel="6a1610bebdf296985fd95603-636d9d2d4ea1109a7d205a70" start="20260926010051 +0000" stop="20260926032250 +0000">
-    <title>Twilight of the Yakuza</title>
-    <desc>Documentary about the Yakuza, Japan’s organized crime syndicates, and how they are a dying breed.</desc>
-  </programme>
-  
-<programme channel="6a1610bebdf296985fd95603-636d9d2d4ea1109a7d205a70" start="20260926032250 +0000" stop="20260926042129 +0000">
-    <title>Mafia's Greatest Hits</title>
-    <desc>A close associate of Teamsters President Jimmy Hoffa and associated with the Chicago Outfit</desc>
-  </programme>
-  
-<programme channel="6a1610bebdf296985fd95603-636d9d2d4ea1109a7d205a70" start="20260926042129 +0000" stop="20260926051812 +0000">
-    <title>Mafia's Greatest Hits</title>
-    <desc>Joseph Valachi revealed the structure of the Mafia to the public through unprecedented televised hearings</desc>
-  </programme>
-  
-<programme channel="6a1610bebdf296985fd95603-636d9d2d4ea1109a7d205a70" start="20260926051812 +0000" stop="20260926061652 +0000">
-    <title>Mafia's Greatest Hits</title>
-    <desc>Roy Demeo, a notorious New York City mafia hitman, evaded authorities for a prolonged period</desc>
-  </programme>
-  
-<programme channel="6a1610bebdf296985fd95603-636d9d2d4ea1109a7d205a70" start="20260926061652 +0000" stop="20260926071452 +0000">
-    <title>Mafia's Greatest Hits</title>
-    <desc>Meyer Lansky, an associate of Lucky Luciano, was linked to criminal financial operations</desc>
-  </programme>
-  
-<programme channel="6a1610bebdf296985fd95603-636d9d2d4ea1109a7d205a70" start="20260926071452 +0000" stop="20260926081423 +0000">
-    <title>Mafia's Greatest Hits</title>
-    <desc>Business partners, successfully defeated nine of the largest gangsters in New York City.</desc>
-  </programme>
-  
-<programme channel="6a1610bebdf296985fd95603-636d9d2d4ea1109a7d205a70" start="20260926081423 +0000" stop="20260926090444 +0000">
-    <title>FBI Takedowns</title>
-    <desc>FBI hunts sadistic criminal forcing victims to choose: commit robbery or lose their families.</desc>
-  </programme>
-  
-<programme channel="6a1610bebdf296985fd95603-636d9d2d4ea1109a7d205a70" start="20260926090444 +0000" stop="20260926095759 +0000">
-    <title>FBI Takedowns</title>
-    <desc>FBI, cops, and ex-cop chase NJ bank fugitive, but he escapes even the perfect trap.</desc>
-  </programme>
-  
-<programme channel="6a1610bebdf296985fd95603-636d9d2d4ea1109a7d205a70" start="20260926095759 +0000" stop="20260926105054 +0000">
-    <title>FBI Takedowns</title>
-    <desc>FBI Task Force battles silence and deadly robbers in Boston's toughest neighborhood.</desc>
-  </programme>
-  
-<programme channel="6a1610bebdf296985fd95603-636d9d2d4ea1109a7d205a70" start="20260926105054 +0000" stop="20260926120210 +0000">
-    <title>Pablo Escobar - The Columbian Cartel King</title>
-    <desc>Pablo Escobar, born in 1949, was raised in urban poverty in Medellin, Colombia.</desc>
-  </programme>
-  
-<programme channel="6a1610bebdf296985fd95603-636d9d2d4ea1109a7d205a70" start="20260926120210 +0000" stop="20260926125801 +0000">
-    <title>Crisis in Cocaine Valley</title>
-    <desc>A documentary crew gains rare access to Peru's Cocaine Valley, once a major drug zone, now near collapse.</desc>
-  </programme>
-  
-<programme channel="6a1610bebdf296985fd95603-636d9d2d4ea1109a7d205a70" start="20260926125801 +0000" stop="20260926140708 +0000">
-    <title>Scarface: The Al Capone Story</title>
-    <desc>Alphonse Gabriel Capone, was a notorious gangster who ruled an empire of crime in the Roaring Twenties</desc>
-  </programme>
-  
-<programme channel="6a1610bebdf296985fd95603-636d9d2d4ea1109a7d205a70" start="20260926140708 +0000" stop="20260926151551 +0000">
-    <title>The New Chicago Mob</title>
-    <desc>In the late 1800’s, we look at the origins of the gambling and horse racing rackets.</desc>
-  </programme>
-  
-<programme channel="6a1610bebdf296985fd95603-636d9d2d4ea1109a7d205a70" start="20260926151551 +0000" stop="20260926162417 +0000">
-    <title>The New Chicago Mob</title>
-    <desc>We look at multiple bosses throughout the 1940s and 1950s and the rise of Sam Giancana.</desc>
-  </programme>
-  
-<programme channel="6a1610bebdf296985fd95603-636d9d2d4ea1109a7d205a70" start="20260926162417 +0000" stop="20260926173259 +0000">
-    <title>The New Chicago Mob</title>
-    <desc>Take a trip through the outfits’ decades long involvement in the labor rackets.</desc>
-  </programme>
-  
-<programme channel="6a1610bebdf296985fd95603-636d9d2d4ea1109a7d205a70" start="20260926173259 +0000" stop="20260926184128 +0000">
-    <title>The New Chicago Mob</title>
-    <desc>Why did the outfit bosses had the Spilotro brothers murdered?</desc>
-  </programme>
-  
 <programme channel="6a1610bebdf296985fd95603-68db6a852be6c4ceb7947b9a" start="20260925174519 +0000" stop="20260925181350 +0000">
     <title>Kim's Convenience</title>
     <desc>Jung pursues a new career and tries to involve Janet; Shannon and Kimchee see a new side of Terence.</desc>
@@ -2763,6 +2648,11 @@
 <programme channel="6a1610bebdf296985fd95603-66a2bfe594b6a49cb5054d75" start="20260926172210 +0000" stop="20260926181041 +0000">
     <title>Two Shallow Graves</title>
     <desc>Tension builds as everyone awaits the verdict, and a new suspect surfaces.</desc>
+  </programme>
+  
+<programme channel="6a1610bebdf296985fd95603-66a2bfe594b6a49cb5054d75" start="20260926181041 +0000" stop="20260926190111 +0000">
+    <title>Two Shallow Graves</title>
+    <desc>Merritt claims new proof confirms his innocence, and a key figure emerges.</desc>
   </programme>
   
 <programme channel="6a1610bebdf296985fd95603-5ef4e1b40d9ad000423c4427" start="20260925154300 +0000" stop="20260925182400 +0000">
@@ -3493,11 +3383,6 @@
 <programme channel="6a1610bebdf296985fd95603-5eea605674085f0040ddc7a6" start="20260926163239 +0000" stop="20260926183042 +0000">
     <title>Anna</title>
     <desc>A man with the ability to enter people's memories takes on the case of a brilliant, troubled sixteen-year-old girl to determine whether she is a sociopath or a victim of trauma.</desc>
-  </programme>
-  
-<programme channel="6a1610bebdf296985fd95603-64a04b8a261d597ce8b4c9ec" start="20260925163935 +0000" stop="20260925180937 +0000">
-    <title>Dry Blood</title>
-    <desc>In a rural mountain town, an unstable drug addict must unravel a surreal murder mystery as he’s terrorized by malevolent ghosts, a deranged sheriff, and the frightening hallucinations from his withdrawal.</desc>
   </programme>
   
 <programme channel="6a1610bebdf296985fd95603-64a04b8a261d597ce8b4c9ec" start="20260925180937 +0000" stop="20260925193905 +0000">
