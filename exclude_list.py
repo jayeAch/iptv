@@ -8,6 +8,11 @@ GLOBAL_EXCLUDE_LIST = [
 "б", "в", "г", "д", "ё", "ж", "з", "и", "й", "к", "л", "м", "н", "п", "т", "ф", "ц", "ч", "ш", "щ", "ъ", "ы", "ь", "э", "ю", "я", "Б", "В", "Г", "Д", "Ё", "Ж", "З", "И", "Й", "К", "Л", "М", "Н", "П", "Т", "Ф", "Ц", "Ч", "Ш", "Щ", "Ъ", "Ы", "Ь", "Э", "Ю", "Я",
 
 # All other entries (alphabetized, case-sensitive, deduplicated)
+"Pluto TV True Crime",
+"Crime 360",
+"Crime Scene Solvers",
+"Oxygen True Crime",
+"Crime & Justice",
 "60 Minutes",
 "Law&Crime",
 "Pulse",
@@ -442,7 +447,6 @@ GLOBAL_EXCLUDE_LIST = [
 "30A Sidewalks ",
 "30A TV Classic Movies",
 "365BLK",
-"48 Hours",
 "4UV",
 "5-Minute Crafts",
 "50 Cent Action",
