@@ -70,6 +70,11 @@
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100035CD_20260421T133643SQUARE.png"/>
   </channel>
   
+<channel id="US1000005GY">
+    <display-name>48 Hours</display-name>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1000005GY_20260421T142104SQUARE.png"/>
+  </channel>
+  
 <channel id="USBB3200001MG">
     <display-name>REELZ Famous &amp; Infamous</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200001MG_20240520T221329SQUARE.png"/>
@@ -78,11 +83,6 @@
 <channel id="USBD42000250Q">
     <display-name>American Crimes</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD42000250Q_20260901T055738SQUARE.png"/>
-  </channel>
-  
-<channel id="US1900005VB">
-    <display-name>Oxygen True Crimes Archive</display-name>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900005VB_20260707T035819SQUARE.png"/>
   </channel>
   
 <channel id="USBB5200022PY">
@@ -433,16 +433,6 @@
     </rating>
   </programme>
   
-<programme channel="USBB36000040M" start="20260925163100 +0000" stop="20260925172228 +0000">
-    <title>Crime Stories</title>
-    <sub-title>Friendly Fire</sub-title>
-    <desc>A thief's trail leads police to multiple bodies and a final suicide.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2350324700_1_20251230T011741813Z_138_imageprocessorclient-tvplus-linear-584c967455-nmqz5.jpeg"/>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  
 <programme channel="USBB36000040M" start="20260925172228 +0000" stop="20260925181510 +0000">
     <title>World's Most Evil Killers</title>
     <sub-title>Dennis Nilsen</sub-title>
@@ -561,16 +551,6 @@
     <title>Accused: Guilty or Innocent?</title>
     <desc>A man shoots his wife, and it's all caught on camera.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3226490591_0_20260722T150851921Z_88_imageprocessorclient-tvplus-linear-9468c5484-rnd87.jpeg"/>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  
-<programme channel="US2001109K" start="20260925170330 +0000" stop="20260925172742 +0000">
-    <title>Killer Mysteries</title>
-    <sub-title>Reality Kills</sub-title>
-    <desc>Former 'Survivor' producer Bruce Beresford-Redmond kills his wife during a family vacation. Plus, a small southern California city nearly goes bankrupt as the victim of a citywide corruption scandal.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2395387559_0_20260109T045742351Z_57_imageprocessorclient-tvplus-linear-584c967455-p9wk7.jpeg"/>
     <rating>
       <value>TV-14</value>
     </rating>
@@ -696,16 +676,6 @@
     </rating>
   </programme>
   
-<programme channel="USBC1000002NP" start="20260925163753 +0000" stop="20260925173032 +0000">
-    <title>World's Most Evil Killers</title>
-    <sub-title>John Sweeney</sub-title>
-    <desc>John Sweeney killed two of his former girlfriends and then dumped their dismembered bodies in canals in Rotterdam and London. He was sentenced in 2011 and was given a whole life tariff.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550791291_20_20241113T060450720Z_119_imageprocessorclient-tvplus-linear-5dc4fd45f6-prfs6.jpeg"/>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  
 <programme channel="USBC1000002NP" start="20260925173032 +0000" stop="20260925182633 +0000">
     <title>World's Most Evil Killers</title>
     <sub-title>Richard Kuklinski</sub-title>
@@ -761,16 +731,6 @@
     <sub-title>Trevor Hardy</sub-title>
     <desc>30-year-old Trevor Hardy, known as The Beast of Manchester, killed three teenage girls in a series of brutal attacks in the mid to late 1970s and was one of Britain's longest-serving prisoners.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550791291_20_20241113T060450720Z_119_imageprocessorclient-tvplus-linear-5dc4fd45f6-prfs6.jpeg"/>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  
-<programme channel="US4100030YU" start="20260925163400 +0000" stop="20260925172400 +0000">
-    <title>To Catch a Smuggler</title>
-    <sub-title>Drug Boat Bust</sub-title>
-    <desc>CBP seizes counterfeit medications, and HSI pursues a series of maritime smuggling cases.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2468045160_0_20260127T225025020Z_1_imageprocessorclient-tvplus-linear-584c967455-l8ntt.jpeg"/>
     <rating>
       <value>TV-14</value>
     </rating>
@@ -896,6 +856,66 @@
     </rating>
   </programme>
   
+<programme channel="US1000005GY" start="20260925170000 +0000" stop="20260925175500 +0000">
+    <title>48 Hours</title>
+    <sub-title>The Evidence Room</sub-title>
+    <desc>A defense team and cutting-edge forensic animators strategize to defend a young woman accused of murder.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2697587425_4_20260323T090943845Z_130_imageprocessorclient-tvplus-linear-796646965d-tj4fd.jpeg"/>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  
+<programme channel="US1000005GY" start="20260925175500 +0000" stop="20260925190100 +0000">
+    <title>48 Hours</title>
+    <sub-title>The Evidence Room</sub-title>
+    <desc>A defense team and cutting-edge forensic animators strategize to defend a young woman accused of murder.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2697587425_4_20260323T090943845Z_130_imageprocessorclient-tvplus-linear-796646965d-tj4fd.jpeg"/>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  
+<programme channel="US1000005GY" start="20260925190100 +0000" stop="20260925200000 +0000">
+    <title>48 Hours</title>
+    <sub-title>Fateful Connection</sub-title>
+    <desc>A detective who is haunted by the case of two missing women finds herself on the trail of a killer.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2697587425_4_20260323T090943845Z_130_imageprocessorclient-tvplus-linear-796646965d-tj4fd.jpeg"/>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  
+<programme channel="US1000005GY" start="20260925200000 +0000" stop="20260925210000 +0000">
+    <title>48 Hours</title>
+    <sub-title>Chasing the Barefoot Bandit</sub-title>
+    <desc>The manhunt for Colton Harris-Moore, whose international crime spree made him an unlikely folk hero.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2697587425_4_20260323T090943845Z_130_imageprocessorclient-tvplus-linear-796646965d-tj4fd.jpeg"/>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  
+<programme channel="US1000005GY" start="20260925210000 +0000" stop="20260925215900 +0000">
+    <title>48 Hours</title>
+    <sub-title>The Country Club Murders</sub-title>
+    <desc>A professional poker player becomes a suspect after his parents are brutally murdered.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2697587425_4_20260323T090943845Z_130_imageprocessorclient-tvplus-linear-796646965d-tj4fd.jpeg"/>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  
+<programme channel="US1000005GY" start="20260925215900 +0000" stop="20260925225900 +0000">
+    <title>48 Hours</title>
+    <sub-title>The Game Show and the Murder</sub-title>
+    <desc>A "Family Feud" contestant convicted of murdering his estranged wife speaks out for the first time.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2697587425_4_20260323T090943845Z_130_imageprocessorclient-tvplus-linear-796646965d-tj4fd.jpeg"/>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  
 <programme channel="USBB3200001MG" start="20260925165000 +0000" stop="20260925174400 +0000">
     <title>Autopsy: The Last Hours Of ...</title>
     <sub-title>Burt Reynolds</sub-title>
@@ -1012,76 +1032,6 @@
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_537739969_0_20240130T000726955Z_60.jpeg"/>
     <rating>
       <value>NA</value>
-    </rating>
-  </programme>
-  
-<programme channel="US1900005VB" start="20260925164000 +0000" stop="20260925173000 +0000">
-    <title>Snapped: Killer Couples</title>
-    <sub-title>Samantha Bachynski and Patrick Selepak</sub-title>
-    <desc>An honor student falls in love with an ex-convict and becomes involved in a killing spree.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3264627160_0_20260730T230223974Z_1_imageprocessorclient-tvplus-linear-9468c5484-xmg9m.jpeg"/>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  
-<programme channel="US1900005VB" start="20260925173000 +0000" stop="20260925181900 +0000">
-    <title>Snapped: Killer Couples</title>
-    <sub-title>Kat McDonough and Seth Mazzaglia</sub-title>
-    <desc>A lifestyle of kink and domination turns deadly when a college girl enters the picture.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3264627160_0_20260730T230223974Z_1_imageprocessorclient-tvplus-linear-9468c5484-xmg9m.jpeg"/>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  
-<programme channel="US1900005VB" start="20260925181900 +0000" stop="20260925190800 +0000">
-    <title>Snapped: Killer Couples</title>
-    <sub-title>Kimberly Michaud and Jimmie Dale Kelley</sub-title>
-    <desc>A small-town mother finds herself captivated by an ex-convict, and soon learns the fatal consequences of being in the wrong place at the wrong time.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3264627160_0_20260730T230223974Z_1_imageprocessorclient-tvplus-linear-9468c5484-xmg9m.jpeg"/>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  
-<programme channel="US1900005VB" start="20260925190800 +0000" stop="20260925195700 +0000">
-    <title>Snapped: Killer Couples</title>
-    <sub-title>Miranda and Elytte Barbour</sub-title>
-    <desc>A twisted sense of justice leads a pair of newlyweds to lure an unsuspecting victim on Craigslist.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3264627160_0_20260730T230223974Z_1_imageprocessorclient-tvplus-linear-9468c5484-xmg9m.jpeg"/>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  
-<programme channel="US1900005VB" start="20260925195700 +0000" stop="20260925204600 +0000">
-    <title>Snapped: Killer Couples</title>
-    <sub-title>Chie Coggins-Johnson and Scott Barker</sub-title>
-    <desc>The son of a wealthy film producer is found stabbed to death in his Beverly Hills mansion.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3264627160_0_20260730T230223974Z_1_imageprocessorclient-tvplus-linear-9468c5484-xmg9m.jpeg"/>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  
-<programme channel="US1900005VB" start="20260925204600 +0000" stop="20260925213500 +0000">
-    <title>Snapped: Killer Couples</title>
-    <sub-title>Antoinette Frank and Rogers Lacaze</sub-title>
-    <desc>The love affair between a police officer and a criminal leads to murder.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3264627160_0_20260730T230223974Z_1_imageprocessorclient-tvplus-linear-9468c5484-xmg9m.jpeg"/>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  
-<programme channel="US1900005VB" start="20260925213500 +0000" stop="20260925222500 +0000">
-    <title>Snapped: Killer Couples</title>
-    <sub-title>Susie Newsom and Fritz Klenner</sub-title>
-    <desc>Two lovers are determined to keep their relationship a secret, even if it means killing anyone who poses a threat.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3264627160_0_20260730T230223974Z_1_imageprocessorclient-tvplus-linear-9468c5484-xmg9m.jpeg"/>
-    <rating>
-      <value>TV-PG</value>
     </rating>
   </programme>
   
@@ -1411,16 +1361,6 @@
     </rating>
   </programme>
   
-<programme channel="US4500009VV" start="20260925165800 +0000" stop="20260925173100 +0000">
-    <title>Red Dwarf</title>
-    <sub-title>Cassandra</sub-title>
-    <desc>Lister does not know that he is training prison-hardened convicts for a suicide mission.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2551809383_2_20260216T143359965Z_34_imageprocessorclient-tvplus-linear-584c967455-tswk8.jpeg"/>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  
 <programme channel="US4500009VV" start="20260925173100 +0000" stop="20260925180500 +0000">
     <title>Red Dwarf</title>
     <sub-title>Krytie TV</sub-title>
@@ -1518,15 +1458,6 @@
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1207389834_3_20250423T052728305Z_134_imageprocessorclient-tvplus-linear-b76dd9bbb-d4t9h.jpeg"/>
     <rating>
       <value>TV-G</value>
-    </rating>
-  </programme>
-  
-<programme channel="USBA300019WF" start="20260925170000 +0000" stop="20260925173000 +0000">
-    <title>Gone Girls</title>
-    <desc>Holly and Nicki compete over the same guy -- a handsome dermatologist -- during a girls' night out, and Phil realizes he's basically Zoey's boy toy.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352135A_3138067913_0_20260703T055141267Z_23_imageprocessorclient-tvplus-linear-75df688c49-ngx5x.jpeg"/>
-    <rating>
-      <value>TV-PG</value>
     </rating>
   </programme>
   
@@ -1690,16 +1621,6 @@
     </rating>
   </programme>
   
-<programme channel="US4700029QM" start="20260925161947 +0000" stop="20260925171956 +0000">
-    <title>Gotham Comedy Live</title>
-    <sub-title>Gary Dell'Abate</sub-title>
-    <desc>Gary Dell'Abate steps out on his own and takes center stage with a stand-up performance that will have you crying. Don't miss Gary along with Ryan Hamilton, Robyn Schall, Joe Matarese and Jon Laster live from New York's legendary Gotham Comedy Club.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2526457988_18_20260210T164700576Z_95_imageprocessorclient-tvplus-linear-584c967455-b7vn5.jpeg"/>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  
 <programme channel="US4700029QM" start="20260925171956 +0000" stop="20260925182010 +0000">
     <title>Gotham Comedy Live</title>
     <sub-title>Sarah Colonna</sub-title>
@@ -1816,16 +1737,6 @@
     <title>Van Helsing</title>
     <sub-title>Deep Trouble</sub-title>
     <desc>Fleeing the Dark One's forces, the group enters an old mine that's not as abandoned as it first appears — and where their quest nearly ends.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2395387369_0_20260109T045742381Z_32_imageprocessorclient-tvplus-linear-584c967455-p9wk7.jpeg"/>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  
-<programme channel="US200111SU" start="20260925162916 +0000" stop="20260925172002 +0000">
-    <title>Van Helsing</title>
-    <sub-title>Black Days</sub-title>
-    <desc>At a mountain stronghold, secrets of the Van Helsing family are unearthed and the true face of evil is exposed. A climactic battle between humans and vampires leaves humanity's fate in question.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2395387369_0_20260109T045742381Z_32_imageprocessorclient-tvplus-linear-584c967455-p9wk7.jpeg"/>
     <rating>
       <value>TV-14</value>
