@@ -217,13 +217,6 @@
     <display-name lang="en">Freeform HD</display-name>
   </channel>
   
-<channel id="ReelzChannel.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002HWGLE.png?w=360&amp;h=270"/>
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002HWGLE.png?w=360&amp;h=270"/>
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">ReelzChannel HD</display-name>
-  </channel>
-  
 <channel id="Cinemax.HD.us2">
     <icon src="http://dtil.tmsimg.com/assets/s34933_ll_h15_ab.png?w=360&amp;h=270"/>
     <icon src="http://dtil.tmsimg.com/assets/s34933_ll_h15_ab.png?w=360&amp;h=270"/>
@@ -21577,6 +21570,84 @@
     </star-rating>
   </programme>
   
+<programme channel="Paramount+.with.Showtime.HD.us2" start="20260926180500 +0000" stop="20260926195000 +0000">
+    <title lang="en">Get Hard</title>
+    <desc lang="en">When a rich hedge-fund manager, James, is convicted of fraud and sentenced to a stretch in San Quentin, the judge gives him one month to get his affairs in order. Knowing that he won't survive more than a few minutes in prison on his own, James turns to Darnell, a Black businessman who's never even had a parking ticket, for help. As Darnell puts James through the wringer, both learn that they were wrong about many things, including each other.</desc>
+    <credits>
+      <actor>Will Ferrell</actor>
+      <actor>Kevin Hart</actor>
+      <actor>Craig T. Nelson</actor>
+      <director>Etan Cohen</director>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Comedy</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11003109_v_h10_ak.jpg?w=960&amp;h=540"/>
+    <previously-shown/>  <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>14A</value>
+    </rating>
+    <rating system="Manitoba Film Classification Board">
+      <value>14A</value>
+    </rating>
+    <rating system="B.C. Film Classification Office">
+      <value>14A</value>
+    </rating>
+    <rating system="Saskatchewan Film and Video Classification Board">
+      <value>14A</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Maritime Film Classification Board">
+      <value>14</value>
+    </rating>
+    <rating system="Alberta's Film Classification Board">
+      <value>14A</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>18+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <star-rating system="TMS">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  
 <programme channel="Showtime.2.HD.us2" start="20260925172000 +0000" stop="20260925190000 +0000">
     <title lang="en">Sweetness</title>
     <desc lang="en">When a superfan learns that her rock-star idol is spiraling into addiction, she makes it her mission to save him, whether he wants her help or not. However, when her desperate plan spins out of control, she kidnaps him in a delusional attempt to fix him. What started as compassion soon turns into captivity as she locks him away in the name of love.</desc>
@@ -33727,314 +33798,6 @@
     </rating>
     <rating system="Kijkwijzer">
       <value>AL</value>
-    </rating>
-  </programme>
-  
-<programme channel="ReelzChannel.HD.us2" start="20260925170000 +0000" stop="20260925200000 +0000">
-    <title lang="en">On Patrol: Live</title>
-    <sub-title lang="en">Shop Vandalized</sub-title>
-    <desc lang="en">Officers investigate a robbery at a shop; officers respond to a reckless driver; officers assist a disabled vehicle; officers detain a suspect for DUI.</desc>
-    <credits>
-      <actor>Dan Abrams</actor>
-      <actor>Sean "Sticks" Larkin</actor>
-      <actor>Curtis Wilson</actor>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Law</category>
-    <category lang="en">Crime</category>
-    <icon src="http://dtil.tmsimg.com/assets/p22525729_b_h8_ai.jpg?w=960&amp;h=540"/>
-    <episode-num system="onscreen">S1 E47</episode-num>
-    <previously-shown/>  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  
-<programme channel="ReelzChannel.HD.us2" start="20260925200000 +0000" stop="20260925210000 +0000">
-    <title lang="en">On Patrol: First Shift</title>
-    <desc lang="en">A discussion of what's in store for the upcoming episode of "On Patrol: Live" and a sneak peek of the departments and officers that the cameras will be following that night; the hosts also look back at the most memorable moments from past episodes.</desc>
-    <credits>
-      <actor>Dan Abrams</actor>
-      <actor>Curtis Wilson</actor>
-      <actor>Tom Rizzo</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Law</category>
-    <category lang="en">Crime</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33104484_b_h8_aa.jpg?w=960&amp;h=540"/>
-    <episode-num system="onscreen">S5 E18</episode-num>
-    <previously-shown/>  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme>
-  
-<programme channel="ReelzChannel.HD.us2" start="20260925210000 +0000" stop="20260926000000 +0000">
-    <title lang="en">On Patrol: Live</title>
-    <sub-title lang="en">Threatening to Shoot</sub-title>
-    <desc lang="en">Toledo, OH officers investigate reports of a man threatening to shoot officers while officers in Tempe, AZ respond to an accident and encounter an uncooperative man; Greene County, MO officers are called to a wrong-way driver and officers in Baton Rouge, LA investigate shots fired.</desc>
-    <credits>
-      <actor>Dan Abrams</actor>
-      <actor>Curtis Wilson</actor>
-      <actor>Tom Rizzo</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Law</category>
-    <category lang="en">Crime</category>
-    <icon src="http://dtil.tmsimg.com/assets/p22525729_b_h8_ai.jpg?w=960&amp;h=540"/>
-    <episode-num system="onscreen">S5 E18</episode-num>
-    <previously-shown/>  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  
-<programme channel="ReelzChannel.HD.us2" start="20260926000000 +0000" stop="20260926010000 +0000">
-    <title lang="en">On Patrol: First Shift</title>
-    <desc lang="en">A discussion of what's in store for the upcoming episode of "On Patrol: Live" and a sneak peek of the departments and officers that the cameras will be following that night; the hosts also look back at the most memorable moments from past episodes.</desc>
-    <credits>
-      <actor>Dan Abrams</actor>
-      <actor>Curtis Wilson</actor>
-      <actor>Tom Rizzo</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Law</category>
-    <category lang="en">Crime</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33104484_b_h8_aa.jpg?w=960&amp;h=540"/>
-    <episode-num system="onscreen">S5 E19</episode-num>
-    <premiere lang="en"/>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme>
-  
-<programme channel="ReelzChannel.HD.us2" start="20260926010000 +0000" stop="20260926040000 +0000">
-    <title lang="en">On Patrol: Live</title>
-    <desc lang="en">Hosts Dan Abrams, Deputy Sheriff Curtis Wilson, and Captain Tom Rizzo along with a rotating panel of experts provide analysis as law enforcement officers on patrol across the country are followed in real time.</desc>
-    <credits>
-      <actor>Dan Abrams</actor>
-      <actor>Curtis Wilson</actor>
-      <actor>Tom Rizzo</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Law</category>
-    <category lang="en">Crime</category>
-    <icon src="http://dtil.tmsimg.com/assets/p22525729_b_h8_ai.jpg?w=960&amp;h=540"/>
-    <episode-num system="onscreen">S5 E19</episode-num>
-    <premiere lang="en"/>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  
-<programme channel="ReelzChannel.HD.us2" start="20260926040000 +0000" stop="20260926070000 +0000">
-    <title lang="en">On Patrol: Live</title>
-    <desc lang="en">Hosts Dan Abrams, Deputy Sheriff Curtis Wilson, and Captain Tom Rizzo along with a rotating panel of experts provide analysis as law enforcement officers on patrol across the country are followed in real time.</desc>
-    <credits>
-      <actor>Dan Abrams</actor>
-      <actor>Curtis Wilson</actor>
-      <actor>Tom Rizzo</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Law</category>
-    <category lang="en">Crime</category>
-    <icon src="http://dtil.tmsimg.com/assets/p22525729_b_h8_ai.jpg?w=960&amp;h=540"/>
-    <episode-num system="onscreen">S5 E19</episode-num>
-    <previously-shown/>  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  
-<programme channel="ReelzChannel.HD.us2" start="20260926070000 +0000" stop="20260926073000 +0000">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <category lang="en">Consumer</category>
-    <category lang="en">Shopping</category>
-    <category lang="en">Variety</category>
-    <icon src="http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540"/>
-    <previously-shown/>  <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>A</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>G</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-  </programme>
-  
-<programme channel="ReelzChannel.HD.us2" start="20260926073000 +0000" stop="20260926080000 +0000">
-    <title lang="en">Bathroom Makeover</title>
-    <desc lang="en">Transform your bath affordably in just one day!</desc>
-    <category lang="en">Consumer</category>
-    <category lang="en">Health</category>
-    <category lang="en">House/garden</category>
-    <category lang="en">Self improvement</category>
-    <icon src="http://dtil.tmsimg.com/assets/p30220270_b_h8_aa.jpg?w=960&amp;h=540"/>
-    <previously-shown/></programme>
-  
-<programme channel="ReelzChannel.HD.us2" start="20260926080000 +0000" stop="20260926090000 +0000">
-    <title lang="en">Never Scrub Your Floors Again</title>
-    <desc lang="en">See why this cleaning tool replaces chemicals and hard labor!</desc>
-    <category lang="en">Consumer</category>
-    <icon src="http://dtil.tmsimg.com/assets/p31873241_b_h8_aa.jpg?w=960&amp;h=540"/>
-    <previously-shown/></programme>
-  
-<programme channel="ReelzChannel.HD.us2" start="20260926090000 +0000" stop="20260926093000 +0000">
-    <title lang="en">Freedom to Leave the House! Inogen Portable Oxygen</title>
-    <desc lang="en">Regain independence and enjoy greater mobility with the compact design and long-lasting battery of portable oxygen.</desc>
-    <category lang="en">Consumer</category>
-    <icon src="http://dtil.tmsimg.com/assets/p29463212_b_h8_aa.jpg?w=960&amp;h=540"/>
-    <previously-shown/></programme>
-  
-<programme channel="ReelzChannel.HD.us2" start="20260926093000 +0000" stop="20260926100000 +0000">
-    <title lang="en">Get A Beautiful New Smile in 24 Hours</title>
-    <desc lang="en">The Wellness Hour: Dr. Alvarez explores how Nuvia delivers a beautiful new smile in just 24 hours.</desc>
-    <category lang="en">Consumer</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33044002_b_h8_aa.jpg?w=960&amp;h=540"/>
-    <previously-shown/></programme>
-  
-<programme channel="ReelzChannel.HD.us2" start="20260926100000 +0000" stop="20260926110000 +0000">
-    <title lang="en">Notorious</title>
-    <sub-title lang="en">Anthony Weiner</sub-title>
-    <desc lang="en">Anthony Weiner's uncontrolled compulsions and sexual exploits made national headlines; Weiner scrambled to contain the damage, but his illicit sexual cravings would result in bombshell after bombshell, overshadowing the budding political star.</desc>
-    <date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <icon src="http://dtil.tmsimg.com/assets/assets/p21967848_b_h10_af.jpg?w=960&amp;h=540"/>
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <previously-shown/>  <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-  </programme>
-  
-<programme channel="ReelzChannel.HD.us2" start="20260926110000 +0000" stop="20260926130000 +0000">
-    <title lang="en">Friends Speak</title>
-    <sub-title lang="en">Scott Peterson</sub-title>
-    <desc lang="en">Scott Peterson met Laci while frequenting a local diner, and it was love at first sight, but their storybook love story quickly wilted behind the scenes with Scott's multiple affairs.</desc>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Anthology</category>
-    <category lang="en">Crime</category>
-    <icon src="http://dtil.tmsimg.com/assets/p24575231_b_h11_aa.jpg?w=960&amp;h=540"/>
-    <episode-num system="onscreen">S2 E4</episode-num>
-    <previously-shown/></programme>
-  
-<programme channel="ReelzChannel.HD.us2" start="20260926130000 +0000" stop="20260926150000 +0000">
-    <title lang="en">Friends Speak</title>
-    <sub-title lang="en">Chris and Shanann Watts</sub-title>
-    <desc lang="en">Chris and Shanann Watts were by all accounts the perfect couple with two perfect children; in 2018, the family was shattered by the disappearance and murder of Shanann and the kids at the hands of Chris himself.</desc>
-    <date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Anthology</category>
-    <category lang="en">Crime</category>
-    <icon src="http://dtil.tmsimg.com/assets/p24575231_b_h11_aa.jpg?w=960&amp;h=540"/>
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <previously-shown/>  <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-  </programme>
-  
-<programme channel="ReelzChannel.HD.us2" start="20260926150000 +0000" stop="20260926160000 +0000">
-    <title lang="en">Cheating Spouses Caught on Tape</title>
-    <desc lang="en">Two-timing spouses fabricate outlandish stories to save their hides.</desc>
-    <date>2000</date>
-    <category lang="en">Special</category>
-    <category lang="en">Reality</category>
-    <icon src="http://dtil.tmsimg.com/assets/p218953_b_h8_aa.jpg?w=960&amp;h=540"/>
-    <previously-shown/>  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme>
-  
-<programme channel="ReelzChannel.HD.us2" start="20260926160000 +0000" stop="20260926170000 +0000">
-    <title lang="en">Cheating Spouses Caught on Tape 2</title>
-    <desc lang="en">Videotape captures the infidelities of double-crossing husbands and wives.</desc>
-    <date>2001</date>
-    <category lang="en">Special</category>
-    <category lang="en">Reality</category>
-    <icon src="http://dtil.tmsimg.com/assets/p218954_b_h8_aa.jpg?w=960&amp;h=540"/>
-    <previously-shown/>  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme>
-  
-<programme channel="ReelzChannel.HD.us2" start="20260926170000 +0000" stop="20260926180000 +0000">
-    <title lang="en">Prisoners Out of Control</title>
-    <desc lang="en">Videotape and exclusive interviews with correctional officers illustrate the struggle to maintain control of people in prisons.</desc>
-    <date>1997</date>
-    <category lang="en">Special</category>
-    <category lang="en">Reality</category>
-    <icon src="http://dtil.tmsimg.com/assets/p277813_b_h10_ab.jpg?w=960&amp;h=540"/>
-    <previously-shown/>  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme>
-  
-<programme channel="ReelzChannel.HD.us2" start="20260926180000 +0000" stop="20260926190000 +0000">
-    <title lang="en">World's Scariest Police Shootouts!</title>
-    <desc lang="en">Clips and witnesses' accounts of events include a cab theft, a bullet-proof vest saving an officer, and a North Hollywood bank robbery; host John Bunnell.</desc>
-    <credits>
-      <actor>John Bunnell</actor>
-    </credits>
-    <date>1997</date>
-    <category lang="en">Special</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Reality</category>
-    <icon src="http://dtil.tmsimg.com/assets/p315859_b_h12_aa.jpg?w=960&amp;h=540"/>
-    <previously-shown/>  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
     </rating>
   </programme>
   
