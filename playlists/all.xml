@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+<channel id="be3c81de355c56f89cbf99301735cfd2">
+    <display-name>My Time Movie Network</display-name>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/be3c81de355c56f89cbf99301735cfd2/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1654727499791_MyTime_Roku_ChannelLogos_260x147.png"/>
+    <lcn>1719</lcn>
+  </channel>
+  
+<channel id="b953c51bbdf5866b3816740c3da7c124">
+    <display-name>Xumo Her Movies</display-name>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b953c51bbdf5866b3816740c3da7c124/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1787712789843_XumoHERFreeMovies_HUDlogo_centered_260x147_EFEFEF.png"/>
+    <lcn>1724</lcn>
+  </channel>
+  
 <channel id="9349c516ca6456b9b5ed7e20cb1c1384">
     <display-name>SNL Vault</display-name>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9349c516ca6456b9b5ed7e20cb1c1384/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1758302529388_snlvault_260x147_HUD.png"/>
@@ -30,148 +42,235 @@
     <lcn>5113</lcn>
   </channel>
   
-<programme channel="9349c516ca6456b9b5ed7e20cb1c1384" start="20261007031500 +0000" stop="20261007041200 +0000">
-    <title>Saturday Night Live</title>
-    <sub-title>Saturday Night Live</sub-title>
-    <desc>Holiday sketches include A Christmas Song With The Muppets and Stefon on Christmas.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/79eceea8bd4753cf847cee07ccf8df4c/images/gracenote/assets/p183890_b_h8_ax.jpg"/>
-    <episode-num system="onscreen">S2021E00</episode-num>
+<programme channel="be3c81de355c56f89cbf99301735cfd2" start="20261007174500 +0000" stop="20261007193000 +0000">
+    <title>A Slice of Romance</title>
+    <desc>Sparks fly between a PR executive who's unlucky in love and an aspiring pastry chef.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c917de487abf5510a2cf46eb2076592d/rokuFeed/assets/5f4a63ecfcbf5d46abbac2a2fc47fb06.jpg"/>
+    <rating system="Motion Picture Association of America">PG</rating>
+  </programme>
+  
+<programme channel="be3c81de355c56f89cbf99301735cfd2" start="20261007193000 +0000" stop="20261007211500 +0000">
+    <title>Eat, Love, London</title>
+    <desc>When Stella's life falls apart, she takes an opening for a chef in a new London restaurant.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/02c50b24ee725dac885f16ce97076cbe/rokuFeed/assets/0794791dff05511d8217e313022cf1b0.jpg"/>
+    <rating system="USA Parental Rating">TVPG</rating>
+  </programme>
+  
+<programme channel="be3c81de355c56f89cbf99301735cfd2" start="20261007211500 +0000" stop="20261007230500 +0000">
+    <title>WWJD</title>
+    <desc>A cleric (Jim Gleason) and parishioners try to stop the construction of a casino.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/674a84ec6bc15474888e0d5bf6c5e6aa/rokuFeed/assets/21c93efca823523e8cafb359fd57f60e.jpg"/>
+    <rating system="Motion Picture Association of America">PG</rating>
+  </programme>
+  
+<programme channel="be3c81de355c56f89cbf99301735cfd2" start="20261007230500 +0000" stop="20261008005000 +0000">
+    <title>My Mother's Stalker</title>
+    <desc>During a high school reunion, old friends reunite, but a crime sets off a series of tragic events.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/617c1d7bf0085d2d88e753a53d8ed94e/rokuFeed/assets/402354f71dcb595c965c567c2bcc9c3d.jpg"/>
+    <rating system="USA Parental Rating">TVMA</rating>
+  </programme>
+  
+<programme channel="be3c81de355c56f89cbf99301735cfd2" start="20261008005000 +0000" stop="20261008023500 +0000">
+    <title>Desperate Hours</title>
+    <desc>A police officer uses the Amber Alert system after a man kidnaps two girls.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0bec654088205718850bb67925dff1bd/images/gracenote/assets/p195525_v_h10_ab.jpg"/>
+    <rating system="Motion Picture Association of America">PG13</rating>
+  </programme>
+  
+<programme channel="be3c81de355c56f89cbf99301735cfd2" start="20261008023500 +0000" stop="20261008042000 +0000">
+    <title>Love to Kill</title>
+    <desc>A man (Rick Ravanello) learns that his wife (Blanchard Ryan) is a gold digger and a killer.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0d6ae64333955f66834568d385cd4264/images/gracenote/assets/p191078_v_h10_aa.jpg"/>
+    <rating system="Motion Picture Association of America">PG13</rating>
+  </programme>
+  
+<programme channel="be3c81de355c56f89cbf99301735cfd2" start="20261008042000 +0000" stop="20261008061000 +0000">
+    <title>The Virginian</title>
+    <desc>A man suspects that the cattle baron who raised him may have ulterior motives.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ec1032776ea3570f80ed57a77c6b4b1f/rokuFeed/assets/f39fddb33ef25bb8bf4929e553f8751e.jpg"/>
+    <rating system="USA Parental Rating">TVMA</rating>
+  </programme>
+  
+<programme channel="be3c81de355c56f89cbf99301735cfd2" start="20261008061000 +0000" stop="20261008075500 +0000">
+    <title>Heart of the Manor</title>
+    <desc>A real estate agent competes with a developer who wants to buy her family's estate.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/61fb4f60ec1d53d9998e0472364aa4f3/images/gracenote/assets/p20466720_v_h10_ac.jpg"/>
+    <rating system="Motion Picture Association of America">PG</rating>
+  </programme>
+  
+<programme channel="be3c81de355c56f89cbf99301735cfd2" start="20261008075500 +0000" stop="20261008094000 +0000">
+    <title>Dance Together</title>
+    <desc>An injured dancer and a shy deaf girl embark on a mutually beneficial creative partnership.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9154a2af397d56f0ba4b1dbb9eacaa19/rokuFeed/assets/dd2df9e4df2b578996152adc8b0b00c5.jpg"/>
+    <rating system="USA Parental Rating">TVG</rating>
+  </programme>
+  
+<programme channel="be3c81de355c56f89cbf99301735cfd2" start="20261008094000 +0000" stop="20261008100700 +0000">
+    <title>New Dogs, Old Tricks</title>
+    <desc>Tiny’s bar will close unless he pays $17K; customers rally to save it. Meanwhile, Jay’s hazing alarms.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/92ccd3e934077793cb2accbe41d0c754/rokuFeed/assets/92ee2bc3ea055d8ea6a51b329914f290.jpg"/>
     <rating system="USA Parental Rating">TV14</rating>
   </programme>
   
-<programme channel="9349c516ca6456b9b5ed7e20cb1c1384" start="20261007041200 +0000" stop="20261007050300 +0000">
-    <title>Saturday Night Live</title>
-    <sub-title>Saturday Night Live</sub-title>
-    <desc>Holiday sketches include The Hanukkah Song, Waking Up with Kimye: Holiday Show and Holiday Gig.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/79eceea8bd4753cf847cee07ccf8df4c/images/gracenote/assets/p183890_b_h8_ax.jpg"/>
-    <episode-num system="onscreen">S2021E00</episode-num>
+<programme channel="be3c81de355c56f89cbf99301735cfd2" start="20261008100700 +0000" stop="20261008103500 +0000">
+    <title>New Dogs, Old Tricks</title>
+    <desc>Alan handles Women’s Lit as Tiny’s Place plan is approved.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5f7526d925cabf03a9c055c5e6ea10b1/rokuFeed/assets/6f5975d531c1552abd39728379bf189c.jpg"/>
     <rating system="USA Parental Rating">TV14</rating>
   </programme>
   
-<programme channel="9349c516ca6456b9b5ed7e20cb1c1384" start="20261007050300 +0000" stop="20261007055500 +0000">
-    <title>Saturday Night Live</title>
-    <sub-title>Saturday Night Live</sub-title>
-    <desc>North Pole News Report; Christmas Toy Joke off With Seth, Amy, Jimmy and Tina.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/79eceea8bd4753cf847cee07ccf8df4c/images/gracenote/assets/p183890_b_h8_ax.jpg"/>
-    <episode-num system="onscreen">S2021E00</episode-num>
-    <rating system="USA Parental Rating">TV14</rating>
+<programme channel="be3c81de355c56f89cbf99301735cfd2" start="20261008103500 +0000" stop="20261008122000 +0000">
+    <title>Food for the Heart</title>
+    <desc>Chef Lia's plans flounder due to her insistence on doing everything herself.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/13c801736d815d9cba06e1559760c738/images/gracenote/assets/p24579359_v_h8_ab.jpg"/>
+    <rating system="Motion Picture Association of America">PG13</rating>
   </programme>
   
-<programme channel="9349c516ca6456b9b5ed7e20cb1c1384" start="20261007055500 +0000" stop="20261007064100 +0000">
-    <title>Saturday Night Live</title>
-    <sub-title>Saturday Night Live</sub-title>
-    <desc>Michael Bublé Christmas Duets; Home Alone 2; Serial: The Christmas Surprise.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/79eceea8bd4753cf847cee07ccf8df4c/images/gracenote/assets/p183890_b_h8_ax.jpg"/>
-    <episode-num system="onscreen">S2021E00</episode-num>
-    <rating system="USA Parental Rating">TV14</rating>
+<programme channel="be3c81de355c56f89cbf99301735cfd2" start="20261008122000 +0000" stop="20261008140500 +0000">
+    <title>Just for Showmance</title>
+    <desc>A celebrity agrees to go on a reality TV show to marry her perfect match, a man she's never met.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/efcfb6f38f4e53dcadb07e26b95978d7/rokuFeed/assets/a16839b44a2d54868b1e8174de23f573.jpg"/>
+    <rating system="Motion Picture Association of America">PG</rating>
   </programme>
   
-<programme channel="9349c516ca6456b9b5ed7e20cb1c1384" start="20261007064100 +0000" stop="20261007074400 +0000">
-    <title>Saturday Night Live</title>
-    <sub-title>Saturday Night Live</sub-title>
-    <desc>Watch SNL's funniest MacGruber sketches, starring Will Forte, Kristen Wiig and more.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/79eceea8bd4753cf847cee07ccf8df4c/images/gracenote/assets/p183890_b_h8_ax.jpg"/>
-    <episode-num system="onscreen">S2021E00</episode-num>
-    <rating system="USA Parental Rating">TV14</rating>
+<programme channel="be3c81de355c56f89cbf99301735cfd2" start="20261008140500 +0000" stop="20261008155000 +0000">
+    <title>Falling For the Competition</title>
+    <desc>Competitive single parents vie for the Modern Parenting Group of the Year award.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/02bb24d3e77f5f21ba702e85c7b81d44/images/gracenote/assets/p26008880_v_h10_aa.jpg"/>
+    <rating system="Motion Picture Association of America">PG</rating>
   </programme>
   
-<programme channel="9349c516ca6456b9b5ed7e20cb1c1384" start="20261007074400 +0000" stop="20261007084000 +0000">
-    <title>Saturday Night Live</title>
-    <sub-title>Saturday Night Live</sub-title>
-    <desc>SNL's funniest female-led sketches, like Palin Rap, Leslie Jones' Funeral Plans, and more.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/79eceea8bd4753cf847cee07ccf8df4c/images/gracenote/assets/p183890_b_h8_ax.jpg"/>
-    <episode-num system="onscreen">S2022E00</episode-num>
-    <rating system="USA Parental Rating">TV14</rating>
+<programme channel="be3c81de355c56f89cbf99301735cfd2" start="20261008140500 +0000" stop="20261008155000 +0000">
+    <title>Falling For the Competition</title>
+    <desc>Competitive single parents vie for the Modern Parenting Group of the Year award.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/02bb24d3e77f5f21ba702e85c7b81d44/images/gracenote/assets/p26008880_v_h10_aa.jpg"/>
+    <rating system="Motion Picture Association of America">PG</rating>
   </programme>
   
-<programme channel="9349c516ca6456b9b5ed7e20cb1c1384" start="20261007084000 +0000" stop="20261007093900 +0000">
-    <title>Saturday Night Live</title>
-    <sub-title>Saturday Night Live</sub-title>
-    <desc>SNL's funniest female-led sketches, like Target Lady: Meets Her First Lesbian, Singing Sisters.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/79eceea8bd4753cf847cee07ccf8df4c/images/gracenote/assets/p183890_b_h8_ax.jpg"/>
-    <episode-num system="onscreen">S2022E00</episode-num>
-    <rating system="USA Parental Rating">TV14</rating>
+<programme channel="be3c81de355c56f89cbf99301735cfd2" start="20261008155000 +0000" stop="20261008173500 +0000">
+    <title>Been There All Along</title>
+    <desc>After her public breakup, Charley, determined founder of a dating app, is near bankruptcy.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f0be909b5a3250a6b170fb0f49634227/images/gracenote/assets/p26007739_v_h8_aa.jpg"/>
+    <rating system="USA Parental Rating">TVPG</rating>
   </programme>
   
-<programme channel="9349c516ca6456b9b5ed7e20cb1c1384" start="20261007093900 +0000" stop="20261007103500 +0000">
-    <title>Saturday Night Live</title>
-    <sub-title>Saturday Night Live</sub-title>
-    <desc>SNL's funniest female-led sketches, like Another Close Encounter, Bein' Quirky with Zooey Deschanel.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/79eceea8bd4753cf847cee07ccf8df4c/images/gracenote/assets/p183890_b_h8_ax.jpg"/>
-    <episode-num system="onscreen">S2022E00</episode-num>
-    <rating system="USA Parental Rating">TV14</rating>
+<programme channel="be3c81de355c56f89cbf99301735cfd2" start="20261008173500 +0000" stop="20261008192000 +0000">
+    <title>Cradle of Lies</title>
+    <desc>A woman begins a frantic search for the daughter that she gave birth to while in a coma.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ded8a93720ba57299fa678bbd49d48f1/images/gracenote/assets/p12680473_v_h10_aa.jpg"/>
+    <rating system="Motion Picture Association of America">UR</rating>
   </programme>
   
-<programme channel="9349c516ca6456b9b5ed7e20cb1c1384" start="20261007103500 +0000" stop="20261007113300 +0000">
-    <title>Saturday Night Live</title>
-    <sub-title>Saturday Night Live</sub-title>
-    <desc>SNL's funniest female-led sketches, like Tina &amp; Amy's Dope Squad, Debbie Downer Wedding Reception.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/79eceea8bd4753cf847cee07ccf8df4c/images/gracenote/assets/p183890_b_h8_ax.jpg"/>
-    <episode-num system="onscreen">S2022E00</episode-num>
-    <rating system="USA Parental Rating">TV14</rating>
+<programme channel="b953c51bbdf5866b3816740c3da7c124" start="20261007174623 +0000" stop="20261007192812 +0000">
+    <title>Love Finds You in Charm</title>
+    <desc>A young Amish woman finds temptation from the outside world when she meets two men in Charm, Ohio.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1bcdc59e92975df398b4d94ad6e6fdbe/images/gracenote/assets/p11771243_v_h8_ad.jpg"/>
+    <rating system="USA Parental Rating">TVPG</rating>
   </programme>
   
-<programme channel="9349c516ca6456b9b5ed7e20cb1c1384" start="20261007113300 +0000" stop="20261007123000 +0000">
-    <title>Saturday Night Live</title>
-    <sub-title>Saturday Night Live</sub-title>
-    <desc>SNL's funniest female-led sketches, like Close Encounter, NPR, and more.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/79eceea8bd4753cf847cee07ccf8df4c/images/gracenote/assets/p183890_b_h8_ax.jpg"/>
-    <episode-num system="onscreen">S2022E00</episode-num>
-    <rating system="USA Parental Rating">TV14</rating>
+<programme channel="b953c51bbdf5866b3816740c3da7c124" start="20261007192812 +0000" stop="20261007211659 +0000">
+    <title>The Lifeguard</title>
+    <desc>A reporter quits her job, returns to her old lifeguard duties, and has an affair with a teenager.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d0cee6fe9234589c8973bcda1b43f85c/rokuFeed/assets/391013b4e8a351d2b669445528634a33.jpg"/>
+    <rating system="Motion Picture Association of America">R</rating>
   </programme>
   
-<programme channel="9349c516ca6456b9b5ed7e20cb1c1384" start="20261007123000 +0000" stop="20261007132500 +0000">
-    <title>Saturday Night Live</title>
-    <sub-title>Saturday Night Live</sub-title>
-    <desc>SNL's funniest female-led sketches, like The Bush Twins' Secret Language and Handmaids in the City.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/79eceea8bd4753cf847cee07ccf8df4c/images/gracenote/assets/p183890_b_h8_ax.jpg"/>
-    <episode-num system="onscreen">S2022E00</episode-num>
-    <rating system="USA Parental Rating">TV14</rating>
+<programme channel="b953c51bbdf5866b3816740c3da7c124" start="20261007211659 +0000" stop="20261007225351 +0000">
+    <title>A Wedding for Belle</title>
+    <desc>Belle grew up in a town that was famous for weddings and always dreamed of having her wedding here.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/76d6dd96666bf48f18ca898d82b7bce8/images/gracenote/assets/p30375740_v_h8_ab.jpg"/>
+    <rating system="Motion Picture Association of America">UR</rating>
   </programme>
   
-<programme channel="9349c516ca6456b9b5ed7e20cb1c1384" start="20261007132500 +0000" stop="20261007142200 +0000">
-    <title>Saturday Night Live</title>
-    <sub-title>Saturday Night Live</sub-title>
-    <desc>SNL's funniest female-led sketches, like Totino's, Huge Jewelry, and more.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/79eceea8bd4753cf847cee07ccf8df4c/images/gracenote/assets/p183890_b_h8_ax.jpg"/>
-    <episode-num system="onscreen">S2022E00</episode-num>
-    <rating system="USA Parental Rating">TV14</rating>
+<programme channel="b953c51bbdf5866b3816740c3da7c124" start="20261007225351 +0000" stop="20261008003919 +0000">
+    <title>Dan in Real Life</title>
+    <desc>An advice columnist (Steve Carell) falls in love with his brother's girlfriend (Juliette Binoche).</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/4115dd0799735e77ac63bf3963af7a2b/rokuFeed/assets/1e38d8523911593f99891fa19c5650da.jpg"/>
+    <rating system="Motion Picture Association of America">PG13</rating>
   </programme>
   
-<programme channel="9349c516ca6456b9b5ed7e20cb1c1384" start="20261007142200 +0000" stop="20261007151700 +0000">
-    <title>Saturday Night Live</title>
-    <sub-title>Saturday Night Live</sub-title>
-    <desc>SNL's funniest female-led sketches, like Target Lady: Classic Peg, Ethel's Diner, and more.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/79eceea8bd4753cf847cee07ccf8df4c/images/gracenote/assets/p183890_b_h8_ax.jpg"/>
-    <episode-num system="onscreen">S2022E00</episode-num>
-    <rating system="USA Parental Rating">TV14</rating>
+<programme channel="b953c51bbdf5866b3816740c3da7c124" start="20261008003919 +0000" stop="20261008021218 +0000">
+    <title>Obvious Child</title>
+    <desc>An immature comic must navigate adulthood after a tryst results in her unplanned pregnancy.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a948cbc0a6e053c7934e7a42c61951d9/rokuFeed/assets/9163cada970e53f9ab2ac8bd405cfcca.jpg"/>
+    <rating system="Motion Picture Association of America">R</rating>
   </programme>
   
-<programme channel="9349c516ca6456b9b5ed7e20cb1c1384" start="20261007151700 +0000" stop="20261007161300 +0000">
-    <title>Saturday Night Live</title>
-    <sub-title>Saturday Night Live</sub-title>
-    <desc>SNL's sketches, like (Do It In My) Twin Bed, Tina Fey &amp; Amy Poehler Christmas Mash-Up Monologue.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/79eceea8bd4753cf847cee07ccf8df4c/images/gracenote/assets/p183890_b_h8_ax.jpg"/>
-    <episode-num system="onscreen">S2022E00</episode-num>
-    <rating system="USA Parental Rating">TV14</rating>
+<programme channel="b953c51bbdf5866b3816740c3da7c124" start="20261008021218 +0000" stop="20261008040000 +0000">
+    <title>The Lifeguard</title>
+    <desc>A reporter quits her job, returns to her old lifeguard duties, and has an affair with a teenager.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d0cee6fe9234589c8973bcda1b43f85c/rokuFeed/assets/391013b4e8a351d2b669445528634a33.jpg"/>
+    <rating system="Motion Picture Association of America">R</rating>
   </programme>
   
-<programme channel="9349c516ca6456b9b5ed7e20cb1c1384" start="20261007161300 +0000" stop="20261007171600 +0000">
-    <title>Saturday Night Live</title>
-    <sub-title>Saturday Night Live</sub-title>
-    <desc>Sketches include "More Cowbell," "James Brown's Celebrity Hot Tub Party" and more.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/79eceea8bd4753cf847cee07ccf8df4c/images/gracenote/assets/p183890_b_h8_ax.jpg"/>
-    <episode-num system="onscreen">S2020E00</episode-num>
-    <rating system="USA Parental Rating">TV14</rating>
+<programme channel="b953c51bbdf5866b3816740c3da7c124" start="20261008040000 +0000" stop="20261008054445 +0000">
+    <title>Toast</title>
+    <desc>A boy (Oscar Kennedy) adjusts to his new stepmother (Helena Bonham Carter).</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b8839ddbea555cdd9dea92a683713bec/rokuFeed/assets/06f25d866fb2574ea77f97c9a84443e2.jpg"/>
+    <rating system="Motion Picture Association of America">PG13</rating>
   </programme>
   
-<programme channel="9349c516ca6456b9b5ed7e20cb1c1384" start="20261007171600 +0000" stop="20261007181900 +0000">
-    <title>Saturday Night Live</title>
-    <sub-title>Saturday Night Live</sub-title>
-    <desc>Sketches include "Celebrity Jeopardy," "D... in a Box," "Stefon" and more.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/79eceea8bd4753cf847cee07ccf8df4c/images/gracenote/assets/p183890_b_h8_ax.jpg"/>
-    <episode-num system="onscreen">S2020E00</episode-num>
-    <rating system="USA Parental Rating">TV14</rating>
+<programme channel="b953c51bbdf5866b3816740c3da7c124" start="20261008054445 +0000" stop="20261008072634 +0000">
+    <title>Love Finds You in Charm</title>
+    <desc>A young Amish woman finds temptation from the outside world when she meets two men in Charm, Ohio.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1bcdc59e92975df398b4d94ad6e6fdbe/images/gracenote/assets/p11771243_v_h8_ad.jpg"/>
+    <rating system="USA Parental Rating">TVPG</rating>
+  </programme>
+  
+<programme channel="b953c51bbdf5866b3816740c3da7c124" start="20261008072634 +0000" stop="20261008090405 +0000">
+    <title>One Perfect Match</title>
+    <desc>A professional matchmaker finds that she has unexpectedly fallen for one of her clients.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/cea32e8db0ff5323b01c324efabeb829/rokuFeed/assets/7cb84f723d215c198193a1e08ae13c84.jpg"/>
+    <rating system="USA Parental Rating">TVPG</rating>
+  </programme>
+  
+<programme channel="b953c51bbdf5866b3816740c3da7c124" start="20261008090405 +0000" stop="20261008104840 +0000">
+    <title>The Crossroads</title>
+    <desc>An ex-cowboy picks up a hitchhiking singer with trust issues. They develop a relationship.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d7c9ebe51a13fd654be82da79f3f4f14/rokuFeed/assets/c6b0984262e858009514ffa1acfa7263.jpg"/>
+    <rating system="Motion Picture Association of America">UR</rating>
+  </programme>
+  
+<programme channel="b953c51bbdf5866b3816740c3da7c124" start="20261008104840 +0000" stop="20261008123929 +0000">
+    <title>Equals</title>
+    <desc>A couple launch a daring plan to escape from a society where emotions have been outlawed.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c9f78df8ae7c5757a11d440bfc9691e2/rokuFeed/assets/205f08ae6e8659bbac2d7975ef383365.jpg"/>
+    <rating system="Motion Picture Association of America">PG13</rating>
+  </programme>
+  
+<programme channel="b953c51bbdf5866b3816740c3da7c124" start="20261008123929 +0000" stop="20261008142118 +0000">
+    <title>Technically Yours</title>
+    <desc>A tech prodigy convinces her office nemesis to pose as Brad at her sister's wedding.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d25ec27189c6303402925b8757b9ca5c/rokuFeed/assets/6de52164a9be532b82591b3c6c8d7928.jpg"/>
+    <rating system="Motion Picture Association of America">UR</rating>
+  </programme>
+  
+<programme channel="b953c51bbdf5866b3816740c3da7c124" start="20261008142118 +0000" stop="20261008161138 +0000">
+    <title>Gloria Bell</title>
+    <desc>A free-spirited divorcee finds herself thrust into an unexpected and complicated new romance.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f5aa40c0b1e45ef3961e874c0d526a20/images/gracenote/assets/p15862378_v_h8_ac.jpg"/>
+    <rating system="Motion Picture Association of America">R</rating>
+  </programme>
+  
+<programme channel="b953c51bbdf5866b3816740c3da7c124" start="20261008142118 +0000" stop="20261008161138 +0000">
+    <title>Gloria Bell</title>
+    <desc>A free-spirited divorcee finds herself thrust into an unexpected and complicated new romance.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f5aa40c0b1e45ef3961e874c0d526a20/images/gracenote/assets/p15862378_v_h8_ac.jpg"/>
+    <rating system="Motion Picture Association of America">R</rating>
+  </programme>
+  
+<programme channel="b953c51bbdf5866b3816740c3da7c124" start="20261008161138 +0000" stop="20261008175000 +0000">
+    <title>When Calls the Heart</title>
+    <desc>Accustomed to 19th-century high society, a teacher adjusts to a new life in a Western frontier town.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/4fecd50e21f9554883c726ee9b9b63f0/rokuFeed/assets/23300d4dffa45e89aeff542b221aa810.jpg"/>
+    <rating system="Motion Picture Association of America">G</rating>
+  </programme>
+  
+<programme channel="b953c51bbdf5866b3816740c3da7c124" start="20261008175000 +0000" stop="20261008192259 +0000">
+    <title>Obvious Child</title>
+    <desc>An immature comic must navigate adulthood after a tryst results in her unplanned pregnancy.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a948cbc0a6e053c7934e7a42c61951d9/rokuFeed/assets/9163cada970e53f9ab2ac8bd405cfcca.jpg"/>
+    <rating system="Motion Picture Association of America">R</rating>
   </programme>
   
 <programme channel="9349c516ca6456b9b5ed7e20cb1c1384" start="20261007181900 +0000" stop="20261007192500 +0000">
@@ -228,15 +327,6 @@
     <rating system="USA Parental Rating">TV14</rating>
   </programme>
   
-<programme channel="9349c516ca6456b9b5ed7e20cb1c1384" start="20261007233500 +0000" stop="20261008003100 +0000">
-    <title>Saturday Night Live</title>
-    <sub-title>Saturday Night Live</sub-title>
-    <desc>Sketches include "Mr. Robinson's Neighborhood," "Hobbit Office," "Lincoln Ad" and more.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/79eceea8bd4753cf847cee07ccf8df4c/images/gracenote/assets/p183890_b_h8_ax.jpg"/>
-    <episode-num system="onscreen">S2020E00</episode-num>
-    <rating system="USA Parental Rating">TV14</rating>
-  </programme>
-  
 <programme channel="9349c516ca6456b9b5ed7e20cb1c1384" start="20261008003100 +0000" stop="20261008013100 +0000">
     <title>Saturday Night Live</title>
     <sub-title>Saturday Night Live</sub-title>
@@ -273,53 +363,157 @@
     <rating system="USA Parental Rating">TV14</rating>
   </programme>
   
-<programme channel="349e0f0840cf21b888bff327b41a2413" start="20261007031049 +0000" stop="20261007051152 +0000">
-    <title>Sorry About the Demon</title>
-    <desc>A young man struggling with a broken heart learns that his new place is full of restless spirits.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/32ce87b2755b52c4a04a90e2b9ac5699/images/gracenote/assets/p23838949_v_h8_aa.jpg"/>
-    <rating system="Motion Picture Association of America">UR</rating>
+<programme channel="9349c516ca6456b9b5ed7e20cb1c1384" start="20261008042300 +0000" stop="20261008051600 +0000">
+    <title>Saturday Night Live</title>
+    <sub-title>Saturday Night Live</sub-title>
+    <desc>Watch SNL's funniest sketches, like Romano Tours, Colonel Angus Comes Home, Chandeliers and more.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/79eceea8bd4753cf847cee07ccf8df4c/images/gracenote/assets/p183890_b_h8_ax.jpg"/>
+    <episode-num system="onscreen">S2020E00</episode-num>
+    <rating system="USA Parental Rating">TV14</rating>
   </programme>
   
-<programme channel="349e0f0840cf21b888bff327b41a2413" start="20261007051152 +0000" stop="20261007070102 +0000">
-    <title>Spoonful of Sugar</title>
-    <desc>A babysitter experiences a sexual awakening while using LSD to treat a seemingly sick child.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ddae07e5650752b191866a3917f8bed8/rokuFeed/assets/fe997812066f5f8cb837022ed2a933c1.jpg"/>
-    <rating system="Motion Picture Association of America">UR</rating>
+<programme channel="9349c516ca6456b9b5ed7e20cb1c1384" start="20261008051600 +0000" stop="20261008060900 +0000">
+    <title>Saturday Night Live</title>
+    <sub-title>Saturday Night Live</sub-title>
+    <desc>Sketches include "Chad," "Jingleheimer Junction," "Bern Your Enthusiasm" and more.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/79eceea8bd4753cf847cee07ccf8df4c/images/gracenote/assets/p183890_b_h8_ax.jpg"/>
+    <episode-num system="onscreen">S00E00</episode-num>
+    <rating system="USA Parental Rating">TV14</rating>
   </programme>
   
-<programme channel="349e0f0840cf21b888bff327b41a2413" start="20261007070102 +0000" stop="20261007092613 +0000">
-    <title>The Unheard</title>
-    <desc>After a procedure to restore her hearing, a woman begins to suffer from auditory hallucinations.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ce9226611cf85daba2ffa69ccdd1f059/rokuFeed/assets/deffa4eb661e5ba4b7456790e8c9808c.jpg"/>
-    <rating system="Motion Picture Association of America">UR</rating>
+<programme channel="9349c516ca6456b9b5ed7e20cb1c1384" start="20261008060900 +0000" stop="20261008065800 +0000">
+    <title>Saturday Night Live</title>
+    <sub-title>Saturday Night Live</sub-title>
+    <desc>Sketches include "MacGruber," "The Love-ahs," "Spelling Bee" and more.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/79eceea8bd4753cf847cee07ccf8df4c/images/gracenote/assets/p183890_b_h8_ax.jpg"/>
+    <episode-num system="onscreen">S00E00</episode-num>
+    <rating system="USA Parental Rating">TV14</rating>
   </programme>
   
-<programme channel="349e0f0840cf21b888bff327b41a2413" start="20261007092613 +0000" stop="20261007113347 +0000">
-    <title>V/H/S/85</title>
-    <desc>A heart-pounding journey into the underbelly of the forgotten '80s through five tales of terror.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8151ff4e534b589793759a6bfa8607fd/rokuFeed/assets/4ddd255d5cd95cf49be0607d1ddb5a56.jpg"/>
-    <rating system="USA Parental Rating">TVMA</rating>
+<programme channel="9349c516ca6456b9b5ed7e20cb1c1384" start="20261008065800 +0000" stop="20261008075100 +0000">
+    <title>Saturday Night Live</title>
+    <sub-title>Saturday Night Live</sub-title>
+    <desc>Sketches include "Baby Toupee," "Spartan Cheerleaders," "Potato Chip" and "Surprise Home Makeover."</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/79eceea8bd4753cf847cee07ccf8df4c/images/gracenote/assets/p183890_b_h8_ax.jpg"/>
+    <episode-num system="onscreen">S00E00</episode-num>
+    <rating system="USA Parental Rating">TV14</rating>
   </programme>
   
-<programme channel="349e0f0840cf21b888bff327b41a2413" start="20261007113347 +0000" stop="20261007132401 +0000">
-    <title>Watcher</title>
-    <desc>An actress who just moved to town notices a mysterious stranger watching her from across the street.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ca55d7a765045b3ea8c223fcd7426714/images/gracenote/assets/p21760009_v_h8_aa.jpg"/>
-    <rating system="Motion Picture Association of America">R</rating>
+<programme channel="9349c516ca6456b9b5ed7e20cb1c1384" start="20261008075100 +0000" stop="20261008083900 +0000">
+    <title>Saturday Night Live</title>
+    <sub-title>Saturday Night Live</sub-title>
+    <desc>Sketches include Leslie Jones on "Weekend Update" and "Brian Fellow's Safari Planet."</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/79eceea8bd4753cf847cee07ccf8df4c/images/gracenote/assets/p183890_b_h8_ax.jpg"/>
+    <episode-num system="onscreen">S00E00</episode-num>
+    <rating system="USA Parental Rating">TV14</rating>
   </programme>
   
-<programme channel="349e0f0840cf21b888bff327b41a2413" start="20261007132401 +0000" stop="20261007150857 +0000">
-    <title>A Wounded Fawn</title>
-    <desc>A serial killer brings a new victim on a weekend getaway to add another body to his count.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ac2f30fad54d5bc9bdec9449b2bafe3a/rokuFeed/assets/a21d277290125f718d8c42b41faa0c28.jpg"/>
-    <rating system="Motion Picture Association of America">UR</rating>
+<programme channel="9349c516ca6456b9b5ed7e20cb1c1384" start="20261008083900 +0000" stop="20261008093300 +0000">
+    <title>Saturday Night Live</title>
+    <sub-title>Saturday Night Live</sub-title>
+    <desc>"SNL's" funniest sketches, like Pete Davidson on Weekend Update, The Corporal, me-Harmony and more.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/79eceea8bd4753cf847cee07ccf8df4c/images/gracenote/assets/p183890_b_h8_ax.jpg"/>
+    <episode-num system="onscreen">S00E00</episode-num>
+    <rating system="USA Parental Rating">TV14</rating>
   </programme>
   
-<programme channel="349e0f0840cf21b888bff327b41a2413" start="20261007150857 +0000" stop="20261007170427 +0000">
-    <title>You'll Never Find Me</title>
-    <desc>Fear and paranoia engulf Patrick's mobile home as a woman comes seeking shelter on a stormy night.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/842207fffafb5c0ab254e21bc676855d/rokuFeed/assets/20c2f81bc29d579181600bea6d056fbf.jpg"/>
-    <rating system="USA Parental Rating">TVMA</rating>
+<programme channel="9349c516ca6456b9b5ed7e20cb1c1384" start="20261008093300 +0000" stop="20261008102700 +0000">
+    <title>Saturday Night Live</title>
+    <sub-title>Saturday Night Live</sub-title>
+    <desc>"SNL's" funniest sketches, like Happy Fun Ball, Doctor's Orders, Casablanca and more.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/79eceea8bd4753cf847cee07ccf8df4c/images/gracenote/assets/p183890_b_h8_ax.jpg"/>
+    <episode-num system="onscreen">S00E00</episode-num>
+    <rating system="USA Parental Rating">TV14</rating>
+  </programme>
+  
+<programme channel="9349c516ca6456b9b5ed7e20cb1c1384" start="20261008102700 +0000" stop="20261008112100 +0000">
+    <title>Saturday Night Live</title>
+    <sub-title>Saturday Night Live</sub-title>
+    <desc>"SNL's" funniest sketches, like the SNL Digital Short: J*** in My Pants, Stefon on Weekend Update.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/79eceea8bd4753cf847cee07ccf8df4c/images/gracenote/assets/p183890_b_h8_ax.jpg"/>
+    <episode-num system="onscreen">S2020E00</episode-num>
+    <rating system="USA Parental Rating">TV14</rating>
+  </programme>
+  
+<programme channel="9349c516ca6456b9b5ed7e20cb1c1384" start="20261008112100 +0000" stop="20261008122400 +0000">
+    <title>Saturday Night Live</title>
+    <sub-title>Saturday Night Live</sub-title>
+    <desc>Funniest Halloween sketches, like A Girl's Halloween and Vincent Price's Halloween Special.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/79eceea8bd4753cf847cee07ccf8df4c/images/gracenote/assets/p183890_b_h8_ax.jpg"/>
+    <episode-num system="onscreen">S00E00</episode-num>
+    <rating system="USA Parental Rating">TV14</rating>
+  </programme>
+  
+<programme channel="9349c516ca6456b9b5ed7e20cb1c1384" start="20261008122400 +0000" stop="20261008131400 +0000">
+    <title>Saturday Night Live</title>
+    <sub-title>Saturday Night Live</sub-title>
+    <desc>Funniest Halloween sketches, like Trick or Treat with Jon Hamm, Kellywise, Graveyard Song and more.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/79eceea8bd4753cf847cee07ccf8df4c/images/gracenote/assets/p183890_b_h8_ax.jpg"/>
+    <episode-num system="onscreen">S00E00</episode-num>
+    <rating system="USA Parental Rating">TV14</rating>
+  </programme>
+  
+<programme channel="9349c516ca6456b9b5ed7e20cb1c1384" start="20261008131400 +0000" stop="20261008141000 +0000">
+    <title>Saturday Night Live</title>
+    <sub-title>Saturday Night Live</sub-title>
+    <desc>Sketches include "Brian Fellow's Safari Planet," "Biden Victory Cold Open" and more.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/79eceea8bd4753cf847cee07ccf8df4c/images/gracenote/assets/p183890_b_h8_ax.jpg"/>
+    <episode-num system="onscreen">S2021E00</episode-num>
+    <rating system="USA Parental Rating">TV14</rating>
+  </programme>
+  
+<programme channel="9349c516ca6456b9b5ed7e20cb1c1384" start="20261008141000 +0000" stop="20261008150400 +0000">
+    <title>Saturday Night Live</title>
+    <sub-title>Saturday Night Live</sub-title>
+    <desc>SNL's funniest sketches, including "Eddie Murphy Monologue," "Tracy's Back," "The U.E.S." and more.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/79eceea8bd4753cf847cee07ccf8df4c/images/gracenote/assets/p183890_b_h8_ax.jpg"/>
+    <episode-num system="onscreen">S2021E00</episode-num>
+    <rating system="USA Parental Rating">TV14</rating>
+  </programme>
+  
+<programme channel="9349c516ca6456b9b5ed7e20cb1c1384" start="20261008141000 +0000" stop="20261008150400 +0000">
+    <title>Saturday Night Live</title>
+    <sub-title>Saturday Night Live</sub-title>
+    <desc>SNL's funniest sketches, including "Eddie Murphy Monologue," "Tracy's Back," "The U.E.S." and more.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/79eceea8bd4753cf847cee07ccf8df4c/images/gracenote/assets/p183890_b_h8_ax.jpg"/>
+    <episode-num system="onscreen">S2021E00</episode-num>
+    <rating system="USA Parental Rating">TV14</rating>
+  </programme>
+  
+<programme channel="9349c516ca6456b9b5ed7e20cb1c1384" start="20261008150400 +0000" stop="20261008160000 +0000">
+    <title>Saturday Night Live</title>
+    <sub-title>Saturday Night Live</sub-title>
+    <desc>SNL's funniest sketches, including "Getting Freaky With CeeLo," "Pimp Chat: Pretty Tony" and more.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/79eceea8bd4753cf847cee07ccf8df4c/images/gracenote/assets/p183890_b_h8_ax.jpg"/>
+    <episode-num system="onscreen">S2021E00</episode-num>
+    <rating system="USA Parental Rating">TV14</rating>
+  </programme>
+  
+<programme channel="9349c516ca6456b9b5ed7e20cb1c1384" start="20261008160000 +0000" stop="20261008165300 +0000">
+    <title>Saturday Night Live</title>
+    <sub-title>Saturday Night Live</sub-title>
+    <desc>SNL's funniest sketches, including "Bronx Beat," "Raheem," "Love and Leslie," "Maurice" and more.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/79eceea8bd4753cf847cee07ccf8df4c/images/gracenote/assets/p183890_b_h8_ax.jpg"/>
+    <episode-num system="onscreen">S2021E00</episode-num>
+    <rating system="USA Parental Rating">TV14</rating>
+  </programme>
+  
+<programme channel="9349c516ca6456b9b5ed7e20cb1c1384" start="20261008165300 +0000" stop="20261008174700 +0000">
+    <title>Saturday Night Live</title>
+    <sub-title>Saturday Night Live</sub-title>
+    <desc>SNL's funniest sketches, including "Good Times," "Mister Robinson's Neighborhood: Ransom" and more.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/79eceea8bd4753cf847cee07ccf8df4c/images/gracenote/assets/p183890_b_h8_ax.jpg"/>
+    <episode-num system="onscreen">S2021E00</episode-num>
+    <rating system="USA Parental Rating">TV14</rating>
+  </programme>
+  
+<programme channel="9349c516ca6456b9b5ed7e20cb1c1384" start="20261008174700 +0000" stop="20261008185100 +0000">
+    <title>Saturday Night Live</title>
+    <sub-title>Saturday Night Live</sub-title>
+    <desc>SNL's funniest sketches, including "Weekend Update: Leslie Jones," "Can I Play That?" and more.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/79eceea8bd4753cf847cee07ccf8df4c/images/gracenote/assets/p183890_b_h8_ax.jpg"/>
+    <episode-num system="onscreen">S2021E00</episode-num>
+    <rating system="USA Parental Rating">TV14</rating>
   </programme>
   
 <programme channel="349e0f0840cf21b888bff327b41a2413" start="20261007170427 +0000" stop="20261007190547 +0000">
@@ -350,13 +544,6 @@
     <rating system="Motion Picture Association of America">UR</rating>
   </programme>
   
-<programme channel="349e0f0840cf21b888bff327b41a2413" start="20261007225357 +0000" stop="20261008002502 +0000">
-    <title>Almost Human</title>
-    <desc>Seth is still dealing with his friend's disappearance when a string of murders takes place.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/cd3b2dbbb3d75d4f82dd14a9775a3126/images/gracenote/assets/p10214953_v_h10_ab.jpg"/>
-    <rating system="Motion Picture Association of America">UR</rating>
-  </programme>
-  
 <programme channel="349e0f0840cf21b888bff327b41a2413" start="20261008002502 +0000" stop="20261008020645 +0000">
     <title>Downrange</title>
     <desc>A group of friends become targets for an enigmatic sniper.</desc>
@@ -378,59 +565,66 @@
     <rating system="Motion Picture Association of America">UR</rating>
   </programme>
   
-<programme channel="6a0629e467b5502c906136dadac290a0" start="20261007023903 +0000" stop="20261007042743 +0000">
-    <title>Shark Attack 3: Megalodon</title>
-    <desc>Sailors go to sea to hunt for a prehistoric shark, previously thought to be extinct.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c84c695ca2395b01b94e95e91d3a9f58/rokuFeed/assets/366dc5ba1d3f5cfbacc7139138d63767.jpg"/>
-    <rating system="Motion Picture Association of America">R</rating>
-  </programme>
-  
-<programme channel="6a0629e467b5502c906136dadac290a0" start="20261007042743 +0000" stop="20261007061011 +0000">
-    <title>Eraserhead</title>
-    <desc>A couple's newborn baby turns out to be a bizarre lizard-like creature that won't stop wailing.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/fcd7d96d543b5874b67d5718bf84756c/rokuFeed/assets/318142912c365af29e11b78755b70215.jpg"/>
+<programme channel="349e0f0840cf21b888bff327b41a2413" start="20261008051035 +0000" stop="20261008065646 +0000">
+    <title>Good Madam</title>
+    <desc>A daughter tries to free her mother from the grip of her mysterious employer in South Africa.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/bf7dad5fc46a56ff981880f507f4fad4/rokuFeed/assets/09a5087bb51454aaaa0c9930283b803f.jpg"/>
     <rating system="Motion Picture Association of America">UR</rating>
   </programme>
   
-<programme channel="6a0629e467b5502c906136dadac290a0" start="20261007061011 +0000" stop="20261007075034 +0000">
-    <title>Charlie's Farm</title>
-    <desc>Four friends head into the Australian Outback to investigate an urban legend about Charlie's Farm.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/adf17da92f815795ae518a6f31dfab4d/rokuFeed/assets/31d6413c30e2509ca45d779d7b8590e5.jpg"/>
+<programme channel="349e0f0840cf21b888bff327b41a2413" start="20261008065646 +0000" stop="20261008085006 +0000">
+    <title>A Banquet</title>
+    <desc>A widow's daughter insists a supernatural experience has left her body in service to a higher power.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/30ad78e0f3415bd19af8115925328591/rokuFeed/assets/54eae14576fc5e33b05dda2be4d204c8.jpg"/>
     <rating system="Motion Picture Association of America">UR</rating>
   </programme>
   
-<programme channel="6a0629e467b5502c906136dadac290a0" start="20261007075034 +0000" stop="20261007093614 +0000">
-    <title>House of Bones</title>
-    <desc>Members of a reality TV show investigate a supposedly haunted house.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d2372d06c7ac5924b892b270a10d861f/images/gracenote/assets/p7945800_v_h10_aa.jpg"/>
+<programme channel="349e0f0840cf21b888bff327b41a2413" start="20261008085006 +0000" stop="20261008102744 +0000">
+    <title>Crowsnest</title>
+    <desc>Police discover video footage of nomadic cannibals attacking a group of vacationing friends.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b47fe5c275e352aca189256bb7cdec58/rokuFeed/assets/1d077bcd90dd5a2a959008864bbff5b3.jpg"/>
     <rating system="Motion Picture Association of America">UR</rating>
   </programme>
   
-<programme channel="6a0629e467b5502c906136dadac290a0" start="20261007093614 +0000" stop="20261007112244 +0000">
-    <title>Black Christmas</title>
-    <desc>Sorority sisters (Olivia Hussey, Margot Kidder) fall prey to a yuletide caller.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f5f7d2a8f4c15e329bbdb56958923093/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2Fassets%2Fbanner%2F16_9%2FNone%2F1633651581731_p3886_v_h8_ad.jpg"/>
+<programme channel="349e0f0840cf21b888bff327b41a2413" start="20261008102744 +0000" stop="20261008120709 +0000">
+    <title>Confessional</title>
+    <desc>Seven college students are lured to a confessional booth after two mysterious deaths.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/17f6abb2d53950baa9deda318664392e/images/gracenote/assets/p18370489_v_h8_aa.jpg"/>
+    <rating system="Motion Picture Association of America">UR</rating>
+  </programme>
+  
+<programme channel="349e0f0840cf21b888bff327b41a2413" start="20261008120709 +0000" stop="20261008140434 +0000">
+    <title>V/H/S/94</title>
+    <desc>A VHS tape reveals a cult that has prerecorded material that uncovers a horrifying conspiracy.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b8a92c7da256595d84e49fa79d966afb/images/gracenote/assets/p20672189_v_h8_aa.jpg"/>
     <rating system="Motion Picture Association of America">R</rating>
   </programme>
   
-<programme channel="6a0629e467b5502c906136dadac290a0" start="20261007112244 +0000" stop="20261007133554 +0000">
-    <title>Dominion: Prequel to the Exorcist</title>
-    <desc>While visiting an excavation site in Kenya, a former priest sees signs of demonic possession.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/4b0ae7f340a158f69fd89db502b2d4fc/rokuFeed/assets/2cc2e4acae835d729f65068ea52bc955.jpg"/>
-    <rating system="Motion Picture Association of America">R</rating>
+<programme channel="349e0f0840cf21b888bff327b41a2413" start="20261008140434 +0000" stop="20261008160732 +0000">
+    <title>V/H/S/99</title>
+    <desc>A teen's home videos lead to a series of horrifying revelations.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d20d094c69b5523cab7862194d168375/images/gracenote/assets/p23062376_v_h8_aa.jpg"/>
+    <rating system="Motion Picture Association of America">UR</rating>
   </programme>
   
-<programme channel="6a0629e467b5502c906136dadac290a0" start="20261007133554 +0000" stop="20261007152511 +0000">
-    <title>An American Werewolf in Paris</title>
-    <desc>A U.S. tourist (Tom Everett Scott) meets a Parisian (Julie Delpy) with a dark secret.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5d45dfe7741659bd9abd46e540f30822/rokuFeed/assets/9f781668685b5c23aba332ff432179c3.jpg"/>
-    <rating system="Motion Picture Association of America">R</rating>
+<programme channel="349e0f0840cf21b888bff327b41a2413" start="20261008140434 +0000" stop="20261008160732 +0000">
+    <title>V/H/S/99</title>
+    <desc>A teen's home videos lead to a series of horrifying revelations.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d20d094c69b5523cab7862194d168375/images/gracenote/assets/p23062376_v_h8_aa.jpg"/>
+    <rating system="Motion Picture Association of America">UR</rating>
   </programme>
   
-<programme channel="6a0629e467b5502c906136dadac290a0" start="20261007152511 +0000" stop="20261007171755 +0000">
-    <title>Dead Awake</title>
-    <desc>A young woman has to save her friends from an ancient evil that attacks its victims in their sleep.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/bce03d31e6045abd8a0b1d5d9a78c7e0/rokuFeed/assets/03abde540af05833b5fdd4617810e87f.jpg"/>
+<programme channel="349e0f0840cf21b888bff327b41a2413" start="20261008160732 +0000" stop="20261008181507 +0000">
+    <title>V/H/S/85</title>
+    <desc>A heart-pounding journey into the underbelly of the forgotten '80s through five tales of terror.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8151ff4e534b589793759a6bfa8607fd/rokuFeed/assets/4ddd255d5cd95cf49be0607d1ddb5a56.jpg"/>
+    <rating system="USA Parental Rating">TVMA</rating>
+  </programme>
+  
+<programme channel="349e0f0840cf21b888bff327b41a2413" start="20261008181507 +0000" stop="20261008200700 +0000">
+    <title>#Horror</title>
+    <desc>Preteens face a night of terror when their obsession with a disturbing online game goes too far.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c855a2cd597b56a9b1254b007d97cf3c/rokuFeed/assets/137bb83f9a4f58abab7dc0b213d6ffa1.jpg"/>
     <rating system="Motion Picture Association of America">UR</rating>
   </programme>
   
@@ -464,13 +658,6 @@
     <rating system="Motion Picture Association of America">R</rating>
   </programme>
   
-<programme channel="6a0629e467b5502c906136dadac290a0" start="20261007224449 +0000" stop="20261008002716 +0000">
-    <title>The Vault</title>
-    <desc>A teacher (Ted Lyde) and five students unleash an angry spirit.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1157fbc958055345849c765019edad9b/images/gracenote/assets/p72789_v_h10_aa.jpg"/>
-    <rating system="Motion Picture Association of America">R</rating>
-  </programme>
-  
 <programme channel="6a0629e467b5502c906136dadac290a0" start="20261008002716 +0000" stop="20261008021319 +0000">
     <title>Alligator</title>
     <desc>Herpetologist (Robin Riker) and detective (Robert Forster) track king-size mutant.</desc>
@@ -485,77 +672,76 @@
     <rating system="Motion Picture Association of America">UR</rating>
   </programme>
   
-<programme channel="8abbea29b86a5a5da299c7ef2e288cab" start="20261007032321 +0000" stop="20261007050853 +0000">
-    <title>Freddie Mercury - The Great Pretender Revealed</title>
-    <desc>A behind-the-scenes look at the two years that changed Freddie Mercury's life.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d5cb2c9fa45d59e3b33b3898ff5a4da6/images/gracenote/assets/p13585470_b_h9_aa.jpg"/>
-    <rating system="USA Parental Rating">TVPG</rating>
+<programme channel="6a0629e467b5502c906136dadac290a0" start="20261008042455 +0000" stop="20261008061758 +0000">
+    <title>A Fantastic Fear of Everything</title>
+    <desc>A paranoid writer (Simon Pegg) must confront his many demons in order to make an important meeting.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d17638cc78ba54b2be2cf4243dce35f1/rokuFeed/assets/d4867ea088155959a8a391406b163f44.jpg"/>
+    <rating system="Motion Picture Association of America">R</rating>
   </programme>
   
-<programme channel="8abbea29b86a5a5da299c7ef2e288cab" start="20261007050853 +0000" stop="20261007065429 +0000">
-    <title>George Michael's Lonely Life</title>
-    <desc>George Michael was a worldwide superstar, yet he died alone on Christmas Day 2016.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/96678f75ee545067938d8d9a12ce5d86/images/gracenote/assets/p15501642_b_h9_ac.jpg"/>
+<programme channel="6a0629e467b5502c906136dadac290a0" start="20261008061758 +0000" stop="20261008075423 +0000">
+    <title>Elvira's Movie Macabre</title>
+    <sub-title>Elvira's Movie Macabre</sub-title>
+    <desc>A family encounters cultists who use human hands as sacrificial offerings to their god.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/69a4829b18665b6a99a372e1895c08ea/images/gracenote/assets/p376933_b_h10_ac.jpg"/>
+    <episode-num system="onscreen">S2011E126</episode-num>
     <rating system="USA Parental Rating">TV14</rating>
   </programme>
   
-<programme channel="8abbea29b86a5a5da299c7ef2e288cab" start="20261007065429 +0000" stop="20261007084029 +0000">
-    <title>Prince: When Doves Cry</title>
-    <desc>Although Prince was hailed as a musical genius, his music revealed turmoil and sadness.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/2d6876494ab35bb2bebf689394470c90/images/gracenote/assets/p13895998_b_h9_aa.jpg"/>
-    <rating system="USA Parental Rating">TVPG</rating>
+<programme channel="6a0629e467b5502c906136dadac290a0" start="20261008075423 +0000" stop="20261008095406 +0000">
+    <title>Fade to Black</title>
+    <desc>Killer film buff (Dennis Christopher) spurned by Marilyn Monroe look-alike (Linda Kerridge).</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/25246d3d83a2543496bf66bf0beae379/images/gracenote/assets/p1342_v_h10_aa.jpg"/>
+    <rating system="Motion Picture Association of America">R</rating>
   </programme>
   
-<programme channel="8abbea29b86a5a5da299c7ef2e288cab" start="20261007084029 +0000" stop="20261007102628 +0000">
-    <title>Michael Jackson: Man in the Mirror</title>
-    <desc>An in-depth look at the life and career of singer Michael Jackson.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/4b6b5e98b8c250a0b0a718b9f25f1ee5/images/gracenote/assets/p14136856_b_h9_aa.jpg"/>
-    <rating system="USA Parental Rating">TVPG</rating>
+<programme channel="6a0629e467b5502c906136dadac290a0" start="20261008095406 +0000" stop="20261008114036 +0000">
+    <title>Shark Attack 3: Megalodon</title>
+    <desc>Sailors go to sea to hunt for a prehistoric shark, previously thought to be extinct.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c84c695ca2395b01b94e95e91d3a9f58/rokuFeed/assets/366dc5ba1d3f5cfbacc7139138d63767.jpg"/>
+    <rating system="Motion Picture Association of America">R</rating>
   </programme>
   
-<programme channel="8abbea29b86a5a5da299c7ef2e288cab" start="20261007102628 +0000" stop="20261007112031 +0000">
-    <title>The Price of Fame</title>
-    <sub-title>The Price of Fame</sub-title>
-    <desc>Selena Gomez has transformed into a notable actress, singer and social-media influencer.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e56a25d3f8fd55c8bcc94820140076c2/images/gracenote/assets/p20754448_b_h8_ac.jpg"/>
-    <episode-num system="onscreen">S02E06</episode-num>
-    <rating system="USA Parental Rating">TV14</rating>
+<programme channel="6a0629e467b5502c906136dadac290a0" start="20261008114036 +0000" stop="20261008133308 +0000">
+    <title>Octopus</title>
+    <desc>A mutated octopus attacks a Navy submarine carrying a terrorist (Ravil Isyanov).</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f5ec38989cda50ffba253377e037edbe/images/gracenote/assets/p29477_v_h10_ad.jpg"/>
+    <rating system="Motion Picture Association of America">PG13</rating>
   </programme>
   
-<programme channel="8abbea29b86a5a5da299c7ef2e288cab" start="20261007112031 +0000" stop="20261007121433 +0000">
-    <title>The Price of Fame</title>
-    <sub-title>The Price of Fame</sub-title>
-    <desc>With over 100 million records sold, George Michael briefly outsold musical giants.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e56a25d3f8fd55c8bcc94820140076c2/images/gracenote/assets/p20754448_b_h8_ac.jpg"/>
-    <episode-num system="onscreen">S02E11</episode-num>
-    <rating system="USA Parental Rating">TV14</rating>
+<programme channel="6a0629e467b5502c906136dadac290a0" start="20261008133308 +0000" stop="20261008152005 +0000">
+    <title>Crocodile</title>
+    <desc>An angry mother crocodile stalks college students (Mark McLachlan, Caitlin Martin, Chris Solari).</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ba6965df49a65fcaa70c6b1ad6ea2da9/images/gracenote/assets/p26176_v_h10_ad.jpg"/>
+    <rating system="Motion Picture Association of America">R</rating>
   </programme>
   
-<programme channel="8abbea29b86a5a5da299c7ef2e288cab" start="20261007121433 +0000" stop="20261007130838 +0000">
-    <title>Breaking the Band</title>
-    <sub-title>Breaking the Band</sub-title>
-    <desc>These talented young musicians storm stadiums nationwide and win hearts of fans across the globe.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/38e23829370be5df16b48e1fbe9c4ea0/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2Fassets%2Fbanner%2F16_9%2FSeries%2F1691719435648_51b2ba9dac80583784b168bd6195de0f.jpg"/>
-    <episode-num system="onscreen">S04E07</episode-num>
-    <rating system="USA Parental Rating">TVPG</rating>
+<programme channel="6a0629e467b5502c906136dadac290a0" start="20261008133308 +0000" stop="20261008152005 +0000">
+    <title>Crocodile</title>
+    <desc>An angry mother crocodile stalks college students (Mark McLachlan, Caitlin Martin, Chris Solari).</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ba6965df49a65fcaa70c6b1ad6ea2da9/images/gracenote/assets/p26176_v_h10_ad.jpg"/>
+    <rating system="Motion Picture Association of America">R</rating>
   </programme>
   
-<programme channel="8abbea29b86a5a5da299c7ef2e288cab" start="20261007130838 +0000" stop="20261007140243 +0000">
-    <title>Breaking the Band</title>
-    <sub-title>Breaking the Band</sub-title>
-    <desc>With more than 100 million records sold, the Jackson 5 pave the way for the modern boy band.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/38e23829370be5df16b48e1fbe9c4ea0/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2Fassets%2Fbanner%2F16_9%2FSeries%2F1691719435648_51b2ba9dac80583784b168bd6195de0f.jpg"/>
-    <episode-num system="onscreen">S04E03</episode-num>
-    <rating system="USA Parental Rating">TVPG</rating>
+<programme channel="6a0629e467b5502c906136dadac290a0" start="20261008152005 +0000" stop="20261008165723 +0000">
+    <title>Maniac Cop 3: Badge of Silence</title>
+    <desc>The undead policeman (Robert Z'Dar) returns to fight for the life and soul of a wounded policewoman.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/74e0bc27e3c15f578e475c936239bbe3/images/gracenote/assets/p14315_v_h10_ab.jpg"/>
+    <rating system="Motion Picture Association of America">R</rating>
   </programme>
   
-<programme channel="8abbea29b86a5a5da299c7ef2e288cab" start="20261007140243 +0000" stop="20261007164150 +0000">
-    <title>On Patrol: Live</title>
-    <sub-title>On Patrol: Live</sub-title>
-    <desc>Baton Rouge, La. officers pursue a vehicle wanted in a homicide investigation.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b96fbcc3226c51d0bfa309b0c22b9903/rokuFeed/assets/82bf12300fcf5ff3aa45bab5046a4419.jpg"/>
-    <episode-num system="onscreen">S04E19</episode-num>
-    <rating system="USA Parental Rating">TV14</rating>
+<programme channel="6a0629e467b5502c906136dadac290a0" start="20261008165723 +0000" stop="20261008182441 +0000">
+    <title>Chopping Mall</title>
+    <desc>Eight teens are trapped in a shopping mall with three security robots out of control.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0a3331c4b5ff5db883e7505f46a18e96/rokuFeed/assets/383d47633a4a52019ce2397bfd33f210.jpg"/>
+    <rating system="Motion Picture Association of America">R</rating>
+  </programme>
+  
+<programme channel="6a0629e467b5502c906136dadac290a0" start="20261008182441 +0000" stop="20261008201112 +0000">
+    <title>Long Weekend</title>
+    <desc>Nature closes in on an Australian couple (John Hargreaves, Briony Behets) in the country.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/fb4ac84d5b6b5272aeb5f30bea24a7cd/rokuFeed/assets/200948524b5f58c59e2c055abccb480d.jpg"/>
+    <rating system="USA Parental Rating">TVMA</rating>
   </programme>
   
 <programme channel="8abbea29b86a5a5da299c7ef2e288cab" start="20261007164150 +0000" stop="20261007192052 +0000">
@@ -579,13 +765,6 @@
     <desc>Interviews with people who played direct roles in the hunt for Osama bin Laden.</desc>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/50bc66665fcc55a599b15abb3331e39d/images/gracenote/assets/p20450427_b_h9_aa.jpg"/>
     <rating system="USA Parental Rating">TV14</rating>
-  </programme>
-  
-<programme channel="8abbea29b86a5a5da299c7ef2e288cab" start="20261007225137 +0000" stop="20261008003659 +0000">
-    <title>The Hunt for Red October: The True Story</title>
-    <desc>A look at the true story behind the inspiration for the Tom Clancy novel, adapted for the silver screen in 1990.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a067b4ea99b7586a806e6412483501b3/rokuFeed/assets/f0bc51bd52545a698e45b8682d299022.jpg"/>
-    <rating system="USA Parental Rating">TVPG</rating>
   </programme>
   
 <programme channel="8abbea29b86a5a5da299c7ef2e288cab" start="20261007225137 +0000" stop="20261008003659 +0000">
@@ -631,265 +810,101 @@
     <rating system="USA Parental Rating">TVPG</rating>
   </programme>
   
-<programme channel="c389cec44375fbb8881a2657daedf637" start="20261007033000 +0000" stop="20261007040000 +0000">
-    <title>The Garfield Show</title>
-    <sub-title>The Garfield Show</sub-title>
-    <desc>Cuando la venganza de Nermal sobre Garfield no da resultado, Garfield se encontrará vagando por l</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9f8f5087022629d9e4f3ff2629a076b3/rokuFeed/assets/ab3baeac00285626a4503b6cfe549a9a.jpg"/>
-    <episode-num system="onscreen">S02E22</episode-num>
-    <rating system="USA Parental Rating">TVG</rating>
+<programme channel="8abbea29b86a5a5da299c7ef2e288cab" start="20261008041751 +0000" stop="20261008051305 +0000">
+    <title>Magic's Biggest Secrets Finally Revealed</title>
+    <desc>A sneak preview starring the Masked Magician and WWE Divas Eve and Marie as his assistants.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/4eddc1aa3dfd5edea99dc93a4815d869/rokuFeed/assets/d08a9c50040a5fc3897a999d6e70c42d.jpeg"/>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <rating system="USA Parental Rating">TV14</rating>
   </programme>
   
-<programme channel="c389cec44375fbb8881a2657daedf637" start="20261007040000 +0000" stop="20261007043000 +0000">
-    <title>The Garfield Show</title>
-    <sub-title>The Garfield Show</sub-title>
-    <desc>Odie y las personas a quienes ha lamido en cierta forma parecen hacer que los demás actúen como p</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9f8f5087022629d9e4f3ff2629a076b3/rokuFeed/assets/ab3baeac00285626a4503b6cfe549a9a.jpg"/>
-    <episode-num system="onscreen">S02E24</episode-num>
-    <rating system="USA Parental Rating">TVG</rating>
+<programme channel="8abbea29b86a5a5da299c7ef2e288cab" start="20261008051305 +0000" stop="20261008060818 +0000">
+    <title>Magic's Biggest Secrets Finally Revealed</title>
+    <desc>The Masked Magician discloses the secrets to tricks that have fascinated audiences for centuries.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/4eddc1aa3dfd5edea99dc93a4815d869/rokuFeed/assets/d08a9c50040a5fc3897a999d6e70c42d.jpeg"/>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <rating system="USA Parental Rating">TV14</rating>
   </programme>
   
-<programme channel="c389cec44375fbb8881a2657daedf637" start="20261007043000 +0000" stop="20261007050000 +0000">
-    <title>The Garfield Show</title>
-    <sub-title>The Garfield Show</sub-title>
-    <desc>Qué le pasa a Eddie Gourmand? Es lo que va a averiguar Garfield, gracias a un nuevo invento que l</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9f8f5087022629d9e4f3ff2629a076b3/rokuFeed/assets/ab3baeac00285626a4503b6cfe549a9a.jpg"/>
-    <episode-num system="onscreen">S02E26</episode-num>
-    <rating system="USA Parental Rating">TVG</rating>
+<programme channel="8abbea29b86a5a5da299c7ef2e288cab" start="20261008060818 +0000" stop="20261008070331 +0000">
+    <title>Magic's Biggest Secrets Finally Revealed</title>
+    <desc>Houdini's Milk Can Escape; making a truck disappear; levitating over a three-story building.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/4eddc1aa3dfd5edea99dc93a4815d869/rokuFeed/assets/d08a9c50040a5fc3897a999d6e70c42d.jpeg"/>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <rating system="USA Parental Rating">TV14</rating>
   </programme>
   
-<programme channel="c389cec44375fbb8881a2657daedf637" start="20261007050000 +0000" stop="20261007053000 +0000">
-    <title>The Garfield Show</title>
-    <sub-title>The Garfield Show</sub-title>
-    <desc>¡Millie, el nuevo programa de computación de Jon, se ha apoderado de todos los aparatos en la cas</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9f8f5087022629d9e4f3ff2629a076b3/rokuFeed/assets/ab3baeac00285626a4503b6cfe549a9a.jpg"/>
-    <episode-num system="onscreen">S02E28</episode-num>
-    <rating system="USA Parental Rating">TVG</rating>
+<programme channel="8abbea29b86a5a5da299c7ef2e288cab" start="20261008070331 +0000" stop="20261008094238 +0000">
+    <title>On Patrol: Live</title>
+    <sub-title>On Patrol: Live</sub-title>
+    <desc>Baton Rouge, La. officers pursue a vehicle wanted in a homicide investigation.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b96fbcc3226c51d0bfa309b0c22b9903/rokuFeed/assets/82bf12300fcf5ff3aa45bab5046a4419.jpg"/>
+    <episode-num system="onscreen">S04E19</episode-num>
+    <rating system="USA Parental Rating">TV14</rating>
   </programme>
   
-<programme channel="c389cec44375fbb8881a2657daedf637" start="20261007053000 +0000" stop="20261007060000 +0000">
-    <title>The Garfield Show</title>
-    <sub-title>The Garfield Show</sub-title>
-    <desc>¿Qué pasaría si todas las personas del mundo tuvieran que esperar a que su llamada fuera atendida</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9f8f5087022629d9e4f3ff2629a076b3/rokuFeed/assets/ab3baeac00285626a4503b6cfe549a9a.jpg"/>
-    <episode-num system="onscreen">S02E30</episode-num>
-    <rating system="USA Parental Rating">TVG</rating>
+<programme channel="8abbea29b86a5a5da299c7ef2e288cab" start="20261008094238 +0000" stop="20261008122140 +0000">
+    <title>On Patrol: Live</title>
+    <sub-title>On Patrol: Live</sub-title>
+    <desc>Officers respond to a drug overdose; in Daytona Beach, Fla., they investigate stolen credit cards.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b96fbcc3226c51d0bfa309b0c22b9903/rokuFeed/assets/82bf12300fcf5ff3aa45bab5046a4419.jpg"/>
+    <episode-num system="onscreen">S04E20</episode-num>
+    <rating system="USA Parental Rating">TV14</rating>
   </programme>
   
-<programme channel="c389cec44375fbb8881a2657daedf637" start="20261007060000 +0000" stop="20261007063000 +0000">
-    <title>The Garfield Show</title>
-    <sub-title>The Garfield Show</sub-title>
-    <desc>Cuando el líder de Parma, el planeta de la lasaña envía a un espía con la forma de una versión aú</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9f8f5087022629d9e4f3ff2629a076b3/rokuFeed/assets/ab3baeac00285626a4503b6cfe549a9a.jpg"/>
-    <episode-num system="onscreen">S02E32</episode-num>
-    <rating system="USA Parental Rating">TVG</rating>
+<programme channel="8abbea29b86a5a5da299c7ef2e288cab" start="20261008122140 +0000" stop="20261008131537 +0000">
+    <title>Scott Peterson: Ultimate Betrayal</title>
+    <desc>When Laci Peterson's dead body is found, her husband Scott Peterson is convicted of her murder.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a1a450cfe32a54c08a35d6fa4a798047/images/gracenote/assets/p17593609_b_h9_aa.jpg"/>
+    <rating system="USA Parental Rating">TV14</rating>
   </programme>
   
-<programme channel="c389cec44375fbb8881a2657daedf637" start="20261007063000 +0000" stop="20261007070000 +0000">
-    <title>The Garfield Show</title>
-    <sub-title>The Garfield Show</sub-title>
-    <desc>Es la historia de la Gallina Penny, un poco cambiada, ya que en la versión de Jon, la gallina cre</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9f8f5087022629d9e4f3ff2629a076b3/rokuFeed/assets/ab3baeac00285626a4503b6cfe549a9a.jpg"/>
-    <episode-num system="onscreen">S02E34</episode-num>
-    <rating system="USA Parental Rating">TVG</rating>
+<programme channel="8abbea29b86a5a5da299c7ef2e288cab" start="20261008131537 +0000" stop="20261008150104 +0000">
+    <title>OJ Simpson: Blood, Lies &amp; Murder</title>
+    <desc>Tom Lange, lead detective on the O.J. Simpson murder case, discusses evidence left out of the trial.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d11b2781c248db3f651b5d27abfdf569/rokuFeed/assets/c38e2a8b825a5ed8afe1eda7b5e0243b.jpg"/>
+    <rating system="USA Parental Rating">TV14</rating>
   </programme>
   
-<programme channel="c389cec44375fbb8881a2657daedf637" start="20261007070000 +0000" stop="20261007073000 +0000">
-    <title>The Garfield Show</title>
-    <sub-title>The Garfield Show</sub-title>
-    <desc>El barco del Capitán Garfield está siendo atacado por Rottweiller, Hércules y Wilfred, un grupo d</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9f8f5087022629d9e4f3ff2629a076b3/rokuFeed/assets/ab3baeac00285626a4503b6cfe549a9a.jpg"/>
-    <episode-num system="onscreen">S02E37</episode-num>
-    <rating system="USA Parental Rating">TVG</rating>
+<programme channel="8abbea29b86a5a5da299c7ef2e288cab" start="20261008131537 +0000" stop="20261008150104 +0000">
+    <title>OJ Simpson: Blood, Lies &amp; Murder</title>
+    <desc>Tom Lange, lead detective on the O.J. Simpson murder case, discusses evidence left out of the trial.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d11b2781c248db3f651b5d27abfdf569/rokuFeed/assets/c38e2a8b825a5ed8afe1eda7b5e0243b.jpg"/>
+    <rating system="USA Parental Rating">TV14</rating>
   </programme>
   
-<programme channel="c389cec44375fbb8881a2657daedf637" start="20261007073000 +0000" stop="20261007080000 +0000">
-    <title>The Garfield Show</title>
-    <sub-title>The Garfield Show</sub-title>
-    <desc>La situación queda fuera de control cuando Garfield se apodera del rayo clonador del Dr. Bonkers.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9f8f5087022629d9e4f3ff2629a076b3/rokuFeed/assets/ab3baeac00285626a4503b6cfe549a9a.jpg"/>
-    <episode-num system="onscreen">S02E38</episode-num>
-    <rating system="USA Parental Rating">TVG</rating>
+<programme channel="8abbea29b86a5a5da299c7ef2e288cab" start="20261008150104 +0000" stop="20261008155500 +0000">
+    <title>Body Cam Cops</title>
+    <sub-title>Body Cam Cops</sub-title>
+    <desc>In Grand Rapids, USA, the police chase and capture a dangerous and desperate criminal.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9c3c752e772153c5978dc4ec10d5160b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2Fassets%2F1788835267f3402f997f1f2d1a76224e%2Fposter%2F16_9%2FNone%2F1778535324737_b3ca3c1289d9520280021441889deae7.jpg"/>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <rating system="USA Parental Rating">TV14</rating>
   </programme>
   
-<programme channel="c389cec44375fbb8881a2657daedf637" start="20261007080000 +0000" stop="20261007083000 +0000">
-    <title>The Garfield Show</title>
-    <sub-title>The Garfield Show</sub-title>
-    <desc>Cuando Odie se traga un frijol saltarín, se convierte en un perro saltarín y lleva a Garfield a u</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9f8f5087022629d9e4f3ff2629a076b3/rokuFeed/assets/ab3baeac00285626a4503b6cfe549a9a.jpg"/>
-    <episode-num system="onscreen">S02E40</episode-num>
-    <rating system="USA Parental Rating">TVG</rating>
+<programme channel="8abbea29b86a5a5da299c7ef2e288cab" start="20261008155500 +0000" stop="20261008164900 +0000">
+    <title>Body Cam Cops</title>
+    <sub-title>Body Cam Cops</sub-title>
+    <desc>Some crimes are so violent that the police and the victims will never forget the facts.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9c3c752e772153c5978dc4ec10d5160b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2Fassets%2F1788835267f3402f997f1f2d1a76224e%2Fposter%2F16_9%2FNone%2F1778535324737_b3ca3c1289d9520280021441889deae7.jpg"/>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <rating system="USA Parental Rating">TV14</rating>
   </programme>
   
-<programme channel="c389cec44375fbb8881a2657daedf637" start="20261007083000 +0000" stop="20261007090000 +0000">
-    <title>The Garfield Show</title>
-    <sub-title>The Garfield Show</sub-title>
-    <desc>Bruno, un gato de callejón, ya está harto de ver que Garfield es atendido con rey, mientras él ti</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9f8f5087022629d9e4f3ff2629a076b3/rokuFeed/assets/ab3baeac00285626a4503b6cfe549a9a.jpg"/>
-    <episode-num system="onscreen">S02E42</episode-num>
-    <rating system="USA Parental Rating">TVG</rating>
+<programme channel="8abbea29b86a5a5da299c7ef2e288cab" start="20261008164900 +0000" stop="20261008174303 +0000">
+    <title>Body Cam Cops</title>
+    <sub-title>Body Cam Cops</sub-title>
+    <desc>In South Carolina, a policeman is shot at point-blank range. American civilians come to his rescue.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9c3c752e772153c5978dc4ec10d5160b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2Fassets%2F1788835267f3402f997f1f2d1a76224e%2Fposter%2F16_9%2FNone%2F1778535324737_b3ca3c1289d9520280021441889deae7.jpg"/>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <rating system="USA Parental Rating">TV14</rating>
   </programme>
   
-<programme channel="c389cec44375fbb8881a2657daedf637" start="20261007090000 +0000" stop="20261007093000 +0000">
-    <title>The Garfield Show</title>
-    <sub-title>The Garfield Show</sub-title>
-    <desc>El Dr. Buenobueno, un antiguo programa de television que Jon solía ver, no es un programa común y</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9f8f5087022629d9e4f3ff2629a076b3/rokuFeed/assets/ab3baeac00285626a4503b6cfe549a9a.jpg"/>
-    <episode-num system="onscreen">S02E44</episode-num>
-    <rating system="USA Parental Rating">TVG</rating>
-  </programme>
-  
-<programme channel="c389cec44375fbb8881a2657daedf637" start="20261007093000 +0000" stop="20261007100000 +0000">
-    <title>The Garfield Show</title>
-    <sub-title>The Garfield Show</sub-title>
-    <desc>Squeak tiene el poder de ver el futuro. ¿Cómo? Se preguntarán. A Garfield no le interesa, en tant</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9f8f5087022629d9e4f3ff2629a076b3/rokuFeed/assets/ab3baeac00285626a4503b6cfe549a9a.jpg"/>
-    <episode-num system="onscreen">S02E46</episode-num>
-    <rating system="USA Parental Rating">TVG</rating>
-  </programme>
-  
-<programme channel="c389cec44375fbb8881a2657daedf637" start="20261007100000 +0000" stop="20261007103000 +0000">
-    <title>The Garfield Show</title>
-    <sub-title>The Garfield Show</sub-title>
-    <desc>Garfield y Odie le muestran al consentido, malcriado, pero solitario Príncipe Orloff lo que signi</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9f8f5087022629d9e4f3ff2629a076b3/rokuFeed/assets/ab3baeac00285626a4503b6cfe549a9a.jpg"/>
-    <episode-num system="onscreen">S02E48</episode-num>
-    <rating system="USA Parental Rating">TVG</rating>
-  </programme>
-  
-<programme channel="c389cec44375fbb8881a2657daedf637" start="20261007103000 +0000" stop="20261007110000 +0000">
-    <title>The Garfield Show</title>
-    <sub-title>The Garfield Show</sub-title>
-    <desc>Sucede algo muy extraño con el clima en la ciudad. Cuando empieza a caer una lluvia de sándwiches</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9f8f5087022629d9e4f3ff2629a076b3/rokuFeed/assets/ab3baeac00285626a4503b6cfe549a9a.jpg"/>
-    <episode-num system="onscreen">S02E51</episode-num>
-    <rating system="USA Parental Rating">TVG</rating>
-  </programme>
-  
-<programme channel="c389cec44375fbb8881a2657daedf637" start="20261007110000 +0000" stop="20261007113000 +0000">
-    <title>The Garfield Show</title>
-    <sub-title>The Garfield Show</sub-title>
-    <desc>Jon adopta a Angelito, un gatito callejero aparentemente adorable. Pero Garfield descubre que el …</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9f8f5087022629d9e4f3ff2629a076b3/rokuFeed/assets/ab3baeac00285626a4503b6cfe549a9a.jpg"/>
-    <episode-num system="onscreen">S03E01</episode-num>
-    <rating system="USA Parental Rating">TVG</rating>
-  </programme>
-  
-<programme channel="c389cec44375fbb8881a2657daedf637" start="20261007113000 +0000" stop="20261007120000 +0000">
-    <title>The Garfield Show</title>
-    <sub-title>The Garfield Show</sub-title>
-    <desc>Garfield le cuenta a Odie una aventura medieval en la que el príncipe Jon debe encontrar esposa p…</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9f8f5087022629d9e4f3ff2629a076b3/rokuFeed/assets/ab3baeac00285626a4503b6cfe549a9a.jpg"/>
-    <episode-num system="onscreen">S03E03</episode-num>
-    <rating system="USA Parental Rating">TVG</rating>
-  </programme>
-  
-<programme channel="c389cec44375fbb8881a2657daedf637" start="20261007120000 +0000" stop="20261007123000 +0000">
-    <title>The Garfield Show</title>
-    <sub-title>The Garfield Show</sub-title>
-    <desc>Una dragona enfrenta al malvado Virrey mientras una bruja prepara un peligroso plan contra Elizab…</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9f8f5087022629d9e4f3ff2629a076b3/rokuFeed/assets/ab3baeac00285626a4503b6cfe549a9a.jpg"/>
-    <episode-num system="onscreen">S03E05</episode-num>
-    <rating system="USA Parental Rating">TVG</rating>
-  </programme>
-  
-<programme channel="c389cec44375fbb8881a2657daedf637" start="20261007123000 +0000" stop="20261007130000 +0000">
-    <title>The Garfield Show</title>
-    <sub-title>The Garfield Show</sub-title>
-    <desc>Una nueva ley obliga a todos a tratar bien a los gatos, pero Garfield pronto descubre sus consecu…</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9f8f5087022629d9e4f3ff2629a076b3/rokuFeed/assets/ab3baeac00285626a4503b6cfe549a9a.jpg"/>
-    <episode-num system="onscreen">S03E07</episode-num>
-    <rating system="USA Parental Rating">TVG</rating>
-  </programme>
-  
-<programme channel="c389cec44375fbb8881a2657daedf637" start="20261007130000 +0000" stop="20261007133000 +0000">
-    <title>The Garfield Show</title>
-    <sub-title>The Garfield Show</sub-title>
-    <desc>Un pueblo subterráneo intenta volver perezoso al mundo entero, pero un Garfield hiperactivo podrí…</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9f8f5087022629d9e4f3ff2629a076b3/rokuFeed/assets/ab3baeac00285626a4503b6cfe549a9a.jpg"/>
-    <episode-num system="onscreen">S03E09</episode-num>
-    <rating system="USA Parental Rating">TVG</rating>
-  </programme>
-  
-<programme channel="c389cec44375fbb8881a2657daedf637" start="20261007133000 +0000" stop="20261007140000 +0000">
-    <title>The Garfield Show</title>
-    <sub-title>The Garfield Show</sub-title>
-    <desc>El Dr. Rompecabezas inventa una máquina capaz de intercambiar personalidades y provoca un caos to…</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9f8f5087022629d9e4f3ff2629a076b3/rokuFeed/assets/ab3baeac00285626a4503b6cfe549a9a.jpg"/>
-    <episode-num system="onscreen">S03E11</episode-num>
-    <rating system="USA Parental Rating">TVG</rating>
-  </programme>
-  
-<programme channel="c389cec44375fbb8881a2657daedf637" start="20261007140000 +0000" stop="20261007143000 +0000">
-    <title>The Garfield Show</title>
-    <sub-title>The Garfield Show</sub-title>
-    <desc>Cuando Garfield se convierte en superhéroe, Nermal decide convertirse en su peor enemigo.…</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9f8f5087022629d9e4f3ff2629a076b3/rokuFeed/assets/ab3baeac00285626a4503b6cfe549a9a.jpg"/>
-    <episode-num system="onscreen">S03E13</episode-num>
-    <rating system="USA Parental Rating">TVG</rating>
-  </programme>
-  
-<programme channel="c389cec44375fbb8881a2657daedf637" start="20261007143000 +0000" stop="20261007150000 +0000">
-    <title>The Garfield Show</title>
-    <sub-title>The Garfield Show</sub-title>
-    <desc>Un productor quiere reemplazar a Odie por un nuevo héroe musculoso, pero el perro demostrará su i…</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9f8f5087022629d9e4f3ff2629a076b3/rokuFeed/assets/ab3baeac00285626a4503b6cfe549a9a.jpg"/>
-    <episode-num system="onscreen">S03E15</episode-num>
-    <rating system="USA Parental Rating">TVG</rating>
-  </programme>
-  
-<programme channel="c389cec44375fbb8881a2657daedf637" start="20261007150000 +0000" stop="20261007153000 +0000">
-    <title>The Garfield Show</title>
-    <sub-title>The Garfield Show</sub-title>
-    <desc>¿Cómo podrá lograr Garfield que el gato más lindo del país se vea feo? No sera sencillo, pero nue</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9f8f5087022629d9e4f3ff2629a076b3/rokuFeed/assets/ab3baeac00285626a4503b6cfe549a9a.jpg"/>
-    <episode-num system="onscreen">S02E03</episode-num>
-    <rating system="USA Parental Rating">TVG</rating>
-  </programme>
-  
-<programme channel="c389cec44375fbb8881a2657daedf637" start="20261007153000 +0000" stop="20261007160000 +0000">
-    <title>The Garfield Show</title>
-    <sub-title>The Garfield Show</sub-title>
-    <desc>¿Cómo podrá librarse Garfield de la Tía Ivy que odia a los animales? Garfield</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9f8f5087022629d9e4f3ff2629a076b3/rokuFeed/assets/ab3baeac00285626a4503b6cfe549a9a.jpg"/>
-    <episode-num system="onscreen">S02E05</episode-num>
-    <rating system="USA Parental Rating">TVG</rating>
-  </programme>
-  
-<programme channel="c389cec44375fbb8881a2657daedf637" start="20261007160000 +0000" stop="20261007163000 +0000">
-    <title>The Garfield Show</title>
-    <sub-title>The Garfield Show</sub-title>
-    <desc>El recuento de la historia del gato a través de los tiempos, contado por Garfield. ¿Pero es en ve</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9f8f5087022629d9e4f3ff2629a076b3/rokuFeed/assets/ab3baeac00285626a4503b6cfe549a9a.jpg"/>
-    <episode-num system="onscreen">S02E07</episode-num>
-    <rating system="USA Parental Rating">TVG</rating>
-  </programme>
-  
-<programme channel="c389cec44375fbb8881a2657daedf637" start="20261007163000 +0000" stop="20261007170000 +0000">
-    <title>The Garfield Show</title>
-    <sub-title>The Garfield Show</sub-title>
-    <desc>Comida carente de gravedad. ¿Han oído hablar de algo así? Según Garfield, es deliciosa...</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9f8f5087022629d9e4f3ff2629a076b3/rokuFeed/assets/ab3baeac00285626a4503b6cfe549a9a.jpg"/>
-    <episode-num system="onscreen">S02E09</episode-num>
-    <rating system="USA Parental Rating">TVG</rating>
-  </programme>
-  
-<programme channel="c389cec44375fbb8881a2657daedf637" start="20261007170000 +0000" stop="20261007173000 +0000">
-    <title>The Garfield Show</title>
-    <sub-title>The Garfield Show</sub-title>
-    <desc>¡Malas noticias: las sobrinas de Jon van a llegar! ¿Las que les fascina vestir a Garfield? Exacto</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9f8f5087022629d9e4f3ff2629a076b3/rokuFeed/assets/ab3baeac00285626a4503b6cfe549a9a.jpg"/>
-    <episode-num system="onscreen">S02E11</episode-num>
-    <rating system="USA Parental Rating">TVG</rating>
-  </programme>
-  
-<programme channel="c389cec44375fbb8881a2657daedf637" start="20261007173000 +0000" stop="20261007180000 +0000">
-    <title>The Garfield Show</title>
-    <sub-title>The Garfield Show</sub-title>
-    <desc>Garfield siempre dijo que iría hasta el fin del mundo para comer lasaña. ¡Y es exactamente lo que</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9f8f5087022629d9e4f3ff2629a076b3/rokuFeed/assets/ab3baeac00285626a4503b6cfe549a9a.jpg"/>
-    <episode-num system="onscreen">S02E13</episode-num>
-    <rating system="USA Parental Rating">TVG</rating>
+<programme channel="8abbea29b86a5a5da299c7ef2e288cab" start="20261008174303 +0000" stop="20261008192816 +0000">
+    <title>Slender Man Stabbing: The Untold Story</title>
+    <desc>An exploration of a case in which two 12-year-old girls stabbed a friend to appease the Slender Man.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3f2baa170bcd5806ac9a8c9255b374c0/rokuFeed/assets/a93de51aa91f5bf58b8c9da816a221be.jpg"/>
+    <rating system="USA Parental Rating">TV14</rating>
   </programme>
   
 <programme channel="c389cec44375fbb8881a2657daedf637" start="20261007180000 +0000" stop="20261007183000 +0000">
@@ -1069,6 +1084,267 @@
     <desc>Garfield le cuenta a Odie una aventura medieval en la que el príncipe Jon debe encontrar esposa p…</desc>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9f8f5087022629d9e4f3ff2629a076b3/rokuFeed/assets/ab3baeac00285626a4503b6cfe549a9a.jpg"/>
     <episode-num system="onscreen">S03E03</episode-num>
+    <rating system="USA Parental Rating">TVG</rating>
+  </programme>
+  
+<programme channel="c389cec44375fbb8881a2657daedf637" start="20261008040000 +0000" stop="20261008043000 +0000">
+    <title>The Garfield Show</title>
+    <sub-title>The Garfield Show</sub-title>
+    <desc>Una dragona enfrenta al malvado Virrey mientras una bruja prepara un peligroso plan contra Elizab…</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9f8f5087022629d9e4f3ff2629a076b3/rokuFeed/assets/ab3baeac00285626a4503b6cfe549a9a.jpg"/>
+    <episode-num system="onscreen">S03E05</episode-num>
+    <rating system="USA Parental Rating">TVG</rating>
+  </programme>
+  
+<programme channel="c389cec44375fbb8881a2657daedf637" start="20261008043000 +0000" stop="20261008050000 +0000">
+    <title>The Garfield Show</title>
+    <sub-title>The Garfield Show</sub-title>
+    <desc>Una nueva ley obliga a todos a tratar bien a los gatos, pero Garfield pronto descubre sus consecu…</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9f8f5087022629d9e4f3ff2629a076b3/rokuFeed/assets/ab3baeac00285626a4503b6cfe549a9a.jpg"/>
+    <episode-num system="onscreen">S03E07</episode-num>
+    <rating system="USA Parental Rating">TVG</rating>
+  </programme>
+  
+<programme channel="c389cec44375fbb8881a2657daedf637" start="20261008050000 +0000" stop="20261008053000 +0000">
+    <title>The Garfield Show</title>
+    <sub-title>The Garfield Show</sub-title>
+    <desc>Un pueblo subterráneo intenta volver perezoso al mundo entero, pero un Garfield hiperactivo podrí…</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9f8f5087022629d9e4f3ff2629a076b3/rokuFeed/assets/ab3baeac00285626a4503b6cfe549a9a.jpg"/>
+    <episode-num system="onscreen">S03E09</episode-num>
+    <rating system="USA Parental Rating">TVG</rating>
+  </programme>
+  
+<programme channel="c389cec44375fbb8881a2657daedf637" start="20261008053000 +0000" stop="20261008060000 +0000">
+    <title>The Garfield Show</title>
+    <sub-title>The Garfield Show</sub-title>
+    <desc>El Dr. Rompecabezas inventa una máquina capaz de intercambiar personalidades y provoca un caos to…</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9f8f5087022629d9e4f3ff2629a076b3/rokuFeed/assets/ab3baeac00285626a4503b6cfe549a9a.jpg"/>
+    <episode-num system="onscreen">S03E11</episode-num>
+    <rating system="USA Parental Rating">TVG</rating>
+  </programme>
+  
+<programme channel="c389cec44375fbb8881a2657daedf637" start="20261008060000 +0000" stop="20261008063000 +0000">
+    <title>The Garfield Show</title>
+    <sub-title>The Garfield Show</sub-title>
+    <desc>Cuando Garfield se convierte en superhéroe, Nermal decide convertirse en su peor enemigo.…</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9f8f5087022629d9e4f3ff2629a076b3/rokuFeed/assets/ab3baeac00285626a4503b6cfe549a9a.jpg"/>
+    <episode-num system="onscreen">S03E13</episode-num>
+    <rating system="USA Parental Rating">TVG</rating>
+  </programme>
+  
+<programme channel="c389cec44375fbb8881a2657daedf637" start="20261008063000 +0000" stop="20261008070000 +0000">
+    <title>The Garfield Show</title>
+    <sub-title>The Garfield Show</sub-title>
+    <desc>Un productor quiere reemplazar a Odie por un nuevo héroe musculoso, pero el perro demostrará su i…</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9f8f5087022629d9e4f3ff2629a076b3/rokuFeed/assets/ab3baeac00285626a4503b6cfe549a9a.jpg"/>
+    <episode-num system="onscreen">S03E15</episode-num>
+    <rating system="USA Parental Rating">TVG</rating>
+  </programme>
+  
+<programme channel="c389cec44375fbb8881a2657daedf637" start="20261008070000 +0000" stop="20261008073000 +0000">
+    <title>The Garfield Show</title>
+    <sub-title>The Garfield Show</sub-title>
+    <desc>¿Cómo podrá lograr Garfield que el gato más lindo del país se vea feo? No sera sencillo, pero nue</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9f8f5087022629d9e4f3ff2629a076b3/rokuFeed/assets/ab3baeac00285626a4503b6cfe549a9a.jpg"/>
+    <episode-num system="onscreen">S02E03</episode-num>
+    <rating system="USA Parental Rating">TVG</rating>
+  </programme>
+  
+<programme channel="c389cec44375fbb8881a2657daedf637" start="20261008073000 +0000" stop="20261008080000 +0000">
+    <title>The Garfield Show</title>
+    <sub-title>The Garfield Show</sub-title>
+    <desc>¿Cómo podrá librarse Garfield de la Tía Ivy que odia a los animales? Garfield</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9f8f5087022629d9e4f3ff2629a076b3/rokuFeed/assets/ab3baeac00285626a4503b6cfe549a9a.jpg"/>
+    <episode-num system="onscreen">S02E05</episode-num>
+    <rating system="USA Parental Rating">TVG</rating>
+  </programme>
+  
+<programme channel="c389cec44375fbb8881a2657daedf637" start="20261008080000 +0000" stop="20261008083000 +0000">
+    <title>The Garfield Show</title>
+    <sub-title>The Garfield Show</sub-title>
+    <desc>El recuento de la historia del gato a través de los tiempos, contado por Garfield. ¿Pero es en ve</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9f8f5087022629d9e4f3ff2629a076b3/rokuFeed/assets/ab3baeac00285626a4503b6cfe549a9a.jpg"/>
+    <episode-num system="onscreen">S02E07</episode-num>
+    <rating system="USA Parental Rating">TVG</rating>
+  </programme>
+  
+<programme channel="c389cec44375fbb8881a2657daedf637" start="20261008083000 +0000" stop="20261008090000 +0000">
+    <title>The Garfield Show</title>
+    <sub-title>The Garfield Show</sub-title>
+    <desc>Comida carente de gravedad. ¿Han oído hablar de algo así? Según Garfield, es deliciosa...</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9f8f5087022629d9e4f3ff2629a076b3/rokuFeed/assets/ab3baeac00285626a4503b6cfe549a9a.jpg"/>
+    <episode-num system="onscreen">S02E09</episode-num>
+    <rating system="USA Parental Rating">TVG</rating>
+  </programme>
+  
+<programme channel="c389cec44375fbb8881a2657daedf637" start="20261008090000 +0000" stop="20261008093000 +0000">
+    <title>The Garfield Show</title>
+    <sub-title>The Garfield Show</sub-title>
+    <desc>¡Malas noticias: las sobrinas de Jon van a llegar! ¿Las que les fascina vestir a Garfield? Exacto</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9f8f5087022629d9e4f3ff2629a076b3/rokuFeed/assets/ab3baeac00285626a4503b6cfe549a9a.jpg"/>
+    <episode-num system="onscreen">S02E11</episode-num>
+    <rating system="USA Parental Rating">TVG</rating>
+  </programme>
+  
+<programme channel="c389cec44375fbb8881a2657daedf637" start="20261008093000 +0000" stop="20261008100000 +0000">
+    <title>The Garfield Show</title>
+    <sub-title>The Garfield Show</sub-title>
+    <desc>Garfield siempre dijo que iría hasta el fin del mundo para comer lasaña. ¡Y es exactamente lo que</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9f8f5087022629d9e4f3ff2629a076b3/rokuFeed/assets/ab3baeac00285626a4503b6cfe549a9a.jpg"/>
+    <episode-num system="onscreen">S02E13</episode-num>
+    <rating system="USA Parental Rating">TVG</rating>
+  </programme>
+  
+<programme channel="c389cec44375fbb8881a2657daedf637" start="20261008100000 +0000" stop="20261008103000 +0000">
+    <title>The Garfield Show</title>
+    <sub-title>The Garfield Show</sub-title>
+    <desc>¡Odie es vendido por accidente al Sr. Todo Trabajo, un horrible abogado que quiere demandar a Jon</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9f8f5087022629d9e4f3ff2629a076b3/rokuFeed/assets/ab3baeac00285626a4503b6cfe549a9a.jpg"/>
+    <episode-num system="onscreen">S02E15</episode-num>
+    <rating system="USA Parental Rating">TVG</rating>
+  </programme>
+  
+<programme channel="c389cec44375fbb8881a2657daedf637" start="20261008103000 +0000" stop="20261008110000 +0000">
+    <title>The Garfield Show</title>
+    <sub-title>The Garfield Show</sub-title>
+    <desc>Sería fantástico recibir hoy el periódico de mañana, ¿no creen? Jon jugaría todos los números gan</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9f8f5087022629d9e4f3ff2629a076b3/rokuFeed/assets/ab3baeac00285626a4503b6cfe549a9a.jpg"/>
+    <episode-num system="onscreen">S02E17</episode-num>
+    <rating system="USA Parental Rating">TVG</rating>
+  </programme>
+  
+<programme channel="c389cec44375fbb8881a2657daedf637" start="20261008110000 +0000" stop="20261008113000 +0000">
+    <title>The Garfield Show</title>
+    <sub-title>The Garfield Show</sub-title>
+    <desc>Lo que empieza como una noche romántica en la pizzería de Vito para Jon y Liz, podría terminar en</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9f8f5087022629d9e4f3ff2629a076b3/rokuFeed/assets/ab3baeac00285626a4503b6cfe549a9a.jpg"/>
+    <episode-num system="onscreen">S02E19</episode-num>
+    <rating system="USA Parental Rating">TVG</rating>
+  </programme>
+  
+<programme channel="c389cec44375fbb8881a2657daedf637" start="20261008113000 +0000" stop="20261008120000 +0000">
+    <title>The Garfield Show</title>
+    <sub-title>The Garfield Show</sub-title>
+    <desc>Cuando la venganza de Nermal sobre Garfield no da resultado, Garfield se encontrará vagando por l</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9f8f5087022629d9e4f3ff2629a076b3/rokuFeed/assets/ab3baeac00285626a4503b6cfe549a9a.jpg"/>
+    <episode-num system="onscreen">S02E22</episode-num>
+    <rating system="USA Parental Rating">TVG</rating>
+  </programme>
+  
+<programme channel="c389cec44375fbb8881a2657daedf637" start="20261008120000 +0000" stop="20261008123000 +0000">
+    <title>The Garfield Show</title>
+    <sub-title>The Garfield Show</sub-title>
+    <desc>Odie y las personas a quienes ha lamido en cierta forma parecen hacer que los demás actúen como p</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9f8f5087022629d9e4f3ff2629a076b3/rokuFeed/assets/ab3baeac00285626a4503b6cfe549a9a.jpg"/>
+    <episode-num system="onscreen">S02E24</episode-num>
+    <rating system="USA Parental Rating">TVG</rating>
+  </programme>
+  
+<programme channel="c389cec44375fbb8881a2657daedf637" start="20261008123000 +0000" stop="20261008130000 +0000">
+    <title>The Garfield Show</title>
+    <sub-title>The Garfield Show</sub-title>
+    <desc>Qué le pasa a Eddie Gourmand? Es lo que va a averiguar Garfield, gracias a un nuevo invento que l</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9f8f5087022629d9e4f3ff2629a076b3/rokuFeed/assets/ab3baeac00285626a4503b6cfe549a9a.jpg"/>
+    <episode-num system="onscreen">S02E26</episode-num>
+    <rating system="USA Parental Rating">TVG</rating>
+  </programme>
+  
+<programme channel="c389cec44375fbb8881a2657daedf637" start="20261008130000 +0000" stop="20261008133000 +0000">
+    <title>The Garfield Show</title>
+    <sub-title>The Garfield Show</sub-title>
+    <desc>¡Millie, el nuevo programa de computación de Jon, se ha apoderado de todos los aparatos en la cas</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9f8f5087022629d9e4f3ff2629a076b3/rokuFeed/assets/ab3baeac00285626a4503b6cfe549a9a.jpg"/>
+    <episode-num system="onscreen">S02E28</episode-num>
+    <rating system="USA Parental Rating">TVG</rating>
+  </programme>
+  
+<programme channel="c389cec44375fbb8881a2657daedf637" start="20261008133000 +0000" stop="20261008140000 +0000">
+    <title>The Garfield Show</title>
+    <sub-title>The Garfield Show</sub-title>
+    <desc>¿Qué pasaría si todas las personas del mundo tuvieran que esperar a que su llamada fuera atendida</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9f8f5087022629d9e4f3ff2629a076b3/rokuFeed/assets/ab3baeac00285626a4503b6cfe549a9a.jpg"/>
+    <episode-num system="onscreen">S02E30</episode-num>
+    <rating system="USA Parental Rating">TVG</rating>
+  </programme>
+  
+<programme channel="c389cec44375fbb8881a2657daedf637" start="20261008140000 +0000" stop="20261008143000 +0000">
+    <title>The Garfield Show</title>
+    <sub-title>The Garfield Show</sub-title>
+    <desc>Cuando el líder de Parma, el planeta de la lasaña envía a un espía con la forma de una versión aú</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9f8f5087022629d9e4f3ff2629a076b3/rokuFeed/assets/ab3baeac00285626a4503b6cfe549a9a.jpg"/>
+    <episode-num system="onscreen">S02E32</episode-num>
+    <rating system="USA Parental Rating">TVG</rating>
+  </programme>
+  
+<programme channel="c389cec44375fbb8881a2657daedf637" start="20261008143000 +0000" stop="20261008150000 +0000">
+    <title>The Garfield Show</title>
+    <sub-title>The Garfield Show</sub-title>
+    <desc>Es la historia de la Gallina Penny, un poco cambiada, ya que en la versión de Jon, la gallina cre</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9f8f5087022629d9e4f3ff2629a076b3/rokuFeed/assets/ab3baeac00285626a4503b6cfe549a9a.jpg"/>
+    <episode-num system="onscreen">S02E34</episode-num>
+    <rating system="USA Parental Rating">TVG</rating>
+  </programme>
+  
+<programme channel="c389cec44375fbb8881a2657daedf637" start="20261008150000 +0000" stop="20261008153000 +0000">
+    <title>The Garfield Show</title>
+    <sub-title>The Garfield Show</sub-title>
+    <desc>El barco del Capitán Garfield está siendo atacado por Rottweiller, Hércules y Wilfred, un grupo d</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9f8f5087022629d9e4f3ff2629a076b3/rokuFeed/assets/ab3baeac00285626a4503b6cfe549a9a.jpg"/>
+    <episode-num system="onscreen">S02E37</episode-num>
+    <rating system="USA Parental Rating">TVG</rating>
+  </programme>
+  
+<programme channel="c389cec44375fbb8881a2657daedf637" start="20261008153000 +0000" stop="20261008160000 +0000">
+    <title>The Garfield Show</title>
+    <sub-title>The Garfield Show</sub-title>
+    <desc>La situación queda fuera de control cuando Garfield se apodera del rayo clonador del Dr. Bonkers.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9f8f5087022629d9e4f3ff2629a076b3/rokuFeed/assets/ab3baeac00285626a4503b6cfe549a9a.jpg"/>
+    <episode-num system="onscreen">S02E38</episode-num>
+    <rating system="USA Parental Rating">TVG</rating>
+  </programme>
+  
+<programme channel="c389cec44375fbb8881a2657daedf637" start="20261008160000 +0000" stop="20261008163000 +0000">
+    <title>The Garfield Show</title>
+    <sub-title>The Garfield Show</sub-title>
+    <desc>Cuando Odie se traga un frijol saltarín, se convierte en un perro saltarín y lleva a Garfield a u</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9f8f5087022629d9e4f3ff2629a076b3/rokuFeed/assets/ab3baeac00285626a4503b6cfe549a9a.jpg"/>
+    <episode-num system="onscreen">S02E40</episode-num>
+    <rating system="USA Parental Rating">TVG</rating>
+  </programme>
+  
+<programme channel="c389cec44375fbb8881a2657daedf637" start="20261008163000 +0000" stop="20261008170000 +0000">
+    <title>The Garfield Show</title>
+    <sub-title>The Garfield Show</sub-title>
+    <desc>Bruno, un gato de callejón, ya está harto de ver que Garfield es atendido con rey, mientras él ti</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9f8f5087022629d9e4f3ff2629a076b3/rokuFeed/assets/ab3baeac00285626a4503b6cfe549a9a.jpg"/>
+    <episode-num system="onscreen">S02E42</episode-num>
+    <rating system="USA Parental Rating">TVG</rating>
+  </programme>
+  
+<programme channel="c389cec44375fbb8881a2657daedf637" start="20261008170000 +0000" stop="20261008173000 +0000">
+    <title>The Garfield Show</title>
+    <sub-title>The Garfield Show</sub-title>
+    <desc>El Dr. Buenobueno, un antiguo programa de television que Jon solía ver, no es un programa común y</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9f8f5087022629d9e4f3ff2629a076b3/rokuFeed/assets/ab3baeac00285626a4503b6cfe549a9a.jpg"/>
+    <episode-num system="onscreen">S02E44</episode-num>
+    <rating system="USA Parental Rating">TVG</rating>
+  </programme>
+  
+<programme channel="c389cec44375fbb8881a2657daedf637" start="20261008173000 +0000" stop="20261008180000 +0000">
+    <title>The Garfield Show</title>
+    <sub-title>The Garfield Show</sub-title>
+    <desc>Squeak tiene el poder de ver el futuro. ¿Cómo? Se preguntarán. A Garfield no le interesa, en tant</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9f8f5087022629d9e4f3ff2629a076b3/rokuFeed/assets/ab3baeac00285626a4503b6cfe549a9a.jpg"/>
+    <episode-num system="onscreen">S02E46</episode-num>
+    <rating system="USA Parental Rating">TVG</rating>
+  </programme>
+  
+<programme channel="c389cec44375fbb8881a2657daedf637" start="20261008180000 +0000" stop="20261008183000 +0000">
+    <title>The Garfield Show</title>
+    <sub-title>The Garfield Show</sub-title>
+    <desc>Garfield y Odie le muestran al consentido, malcriado, pero solitario Príncipe Orloff lo que signi</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9f8f5087022629d9e4f3ff2629a076b3/rokuFeed/assets/ab3baeac00285626a4503b6cfe549a9a.jpg"/>
+    <episode-num system="onscreen">S02E48</episode-num>
     <rating system="USA Parental Rating">TVG</rating>
   </programme>
   
