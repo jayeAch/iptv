@@ -32,7 +32,7 @@ from lxml import etree
 M3U_DIR = "output"
 EPG_URLS_FILE = "epg_urls.txt"
 OUTPUT_DIR = "output"
-WINDOW = timedelta(days=1)  # keep only programmes airing within this span from now
+WINDOW = timedelta(days=2)  # keep only programmes airing within this span from now
 
 TVG_ID_RE = re.compile(r'tvg-id=["\']([^"\']*)["\']', re.IGNORECASE)
 TVG_NAME_RE = re.compile(r'tvg-name=["\']([^"\']*)["\']', re.IGNORECASE)
