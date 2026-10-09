@@ -246,12 +246,6 @@
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">TNT HD</display-name>
   </channel>
-<channel id="Real.Americas.Voice.us2">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s117378_h15_aa.png"/>
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s117378_h15_aa.png"/>
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">Real Americas Voice</display-name>
-  </channel>
 <channel id="AdultSwim.com.Cartoon.Network.us2">
     <icon src="https://www.adultswim.com/img/as-logo.svg"/>
     <icon src="https://www.adultswim.com/img/as-logo.svg"/>
@@ -275,12 +269,6 @@
     <icon src="http://dtil.tmsimg.com/assets/s145484_ll_h15_ab.png?w=360&amp;h=270"/>
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">CW</display-name>
-  </channel>
-<channel id="GOL.TV.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s32161_ll_h15_aa.png?w=360&amp;h=270"/>
-    <icon src="http://dtil.tmsimg.com/assets/s32161_ll_h15_aa.png?w=360&amp;h=270"/>
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">GOL TV</display-name>
   </channel>
 <channel id="Bounce.TV.us2">
     <icon src="http://dtil.tmsimg.com/assets/s73067_ll_h15_ab.png?w=360&amp;h=270"/>
@@ -306,28 +294,6 @@
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">Paramount+ with Showtime HD</display-name>
   </channel>
-<programme channel="truTV.HD.(Pacific).us2" start="20261009150000 +0000" stop="20261009160000 +0000">
-    <title lang="en">World's Dumbest ...</title>
-    <sub-title lang="en">World's Dumbest Lovers 3</sub-title>
-    <desc lang="en">Check out 20 of the world's dumbest lovers, including a groom with impulse control issues, a misguided toe-sucker, a lady who's way too fond of her pet possum, and a truly obsessive Julia Roberts fan.</desc>
-    <credits>
-      <actor>Chip Bolcik</actor>
-    </credits>
-    <date>2011</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <icon src="http://dtil.tmsimg.com/assets/p196688_b_h10_ab.jpg?w=960&amp;h=540"/>
-    <episode-num system="onscreen">S11 E8</episode-num>
-    <previously-shown/>  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme>
 <programme channel="truTV.HD.(Pacific).us2" start="20261009160000 +0000" stop="20261009170000 +0000">
     <title lang="en">World's Dumbest ...</title>
     <sub-title lang="en">World's Dumbest Motorheads 3</sub-title>
@@ -1380,49 +1346,114 @@
       <value>12</value>
     </rating>
   </programme>
-<programme channel="Bravo.(Pacific).us2" start="20261009150000 +0000" stop="20261009160000 +0000">
-    <title lang="en">Below Deck</title>
-    <sub-title lang="en">He Kissed a Boy and He Liked It</sub-title>
-    <desc lang="en">Heather and the crew plan an 80s themed surprise party for the primary's birthday, but things go south when everything doesn't go as planned; Eddie is forced to put his first officer training on the back burner to babysit his crew.</desc>
+<programme channel="truTV.HD.(Pacific).us2" start="20261010153000 +0000" stop="20261010160000 +0000">
+    <title lang="en">American Dad!</title>
+    <sub-title lang="en">The Hall Monitor and the Lunch Lady</sub-title>
+    <desc lang="en">Steve goes undercover as a school hall monitor; Roger and Stan go catatonic after witnessing a grisly escalator accident.</desc>
     <credits>
-      <actor>Lee Rosbach</actor>
-      <actor>Eddie Lucas</actor>
-      <actor>Rachel Hargrove</actor>
+      <actor>Seth MacFarlane</actor>
+      <actor>Wendy Schaal</actor>
+      <actor>Rachael MacFarlane</actor>
     </credits>
-    <date>2021</date>
+    <date>2019</date>
     <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Travel</category>
-    <category lang="en">Romance</category>
-    <icon src="http://dtil.tmsimg.com/assets/p9194492_b_h8_bw.jpg?w=960&amp;h=540"/>
-    <episode-num system="onscreen">S9 E6</episode-num>
+    <category lang="en">Animated</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p185040_b_h8_aw.jpg?w=960&amp;h=540"/>
+    <episode-num system="onscreen">S14 E9</episode-num>
+    <previously-shown/>  <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating>
+    <rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+  </programme>
+<programme channel="truTV.HD.(Pacific).us2" start="20261010160000 +0000" stop="20261010163000 +0000">
+    <title lang="en">American Dad!</title>
+    <sub-title lang="en">Wild Women Do</sub-title>
+    <desc lang="en">Jeff is forced to take Francine out for a not-so-wild night on the town; Klaus forces Steve to watch his celebrity impressions.</desc>
+    <credits>
+      <actor>Seth MacFarlane</actor>
+      <actor>Wendy Schaal</actor>
+      <actor>Rachael MacFarlane</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p185040_b_h8_aw.jpg?w=960&amp;h=540"/>
+    <episode-num system="onscreen">S14 E10</episode-num>
     <previously-shown/>  <rating system="Régie du cinéma">
       <value>13+</value>
     </rating>
     <rating system="Australian Classification Board">
       <value>MA 15+</value>
     </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K7</value>
-    </rating>
     <rating system="Canadian Parental Rating">
       <value>14+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating>
+    <rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
     </rating>
     <rating system="USA Parental Rating">
       <value>TV14</value>
     </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
     <rating system="Dirección General de Radio, Televisión y Cinematografía">
       <value>B</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
     </rating>
   </programme>
 <programme channel="Bravo.(Pacific).us2" start="20261009160000 +0000" stop="20261009170000 +0000">
@@ -2505,26 +2536,49 @@
       <value>A16</value>
     </rating>
   </programme>
-<programme channel="CHARGE!.us2" start="20261009150000 +0000" stop="20261009160000 +0000">
-    <title lang="en">The District</title>
-    <sub-title lang="en">Hollow Spaces</sub-title>
-    <desc lang="en">Mannion must determine if the young man who received Ella's heart is guilty of a fatal gas-station robbery.</desc>
+<programme channel="Bravo.(Pacific).us2" start="20261010160000 +0000" stop="20261010170000 +0000">
+    <title lang="en">Below Deck</title>
+    <sub-title lang="en">Oh Captain, My Captain</sub-title>
+    <desc lang="en">St. David sets off for the final charter of the season; Fraser is terrified of the new bodybuilder charter guests but learns a valuable lesson about not judging a book by its cover.</desc>
     <credits>
-      <actor>Craig T. Nelson</actor>
-      <actor>Roger Aaron Brown</actor>
-      <actor>Sean Patrick Thomas</actor>
-      <director>Christopher Taylor</director>
+      <actor>Lee Rosbach</actor>
+      <actor>Rachel Hargrove</actor>
+      <actor>Fraser Olender</actor>
     </credits>
-    <date>2003</date>
+    <date>2023</date>
     <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <icon src="http://dtil.tmsimg.com/assets/p7894148_b_h8_aa.jpg?w=960&amp;h=540"/>
-    <episode-num system="onscreen">S4 E10</episode-num>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Travel</category>
+    <category lang="en">Romance</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9194492_b_h8_bw.jpg?w=960&amp;h=540"/>
+    <episode-num system="onscreen">S10 E17</episode-num>
     <previously-shown/>  <rating system="USA Parental Rating">
-      <value>TVPG</value>
+      <value>TV14</value>
     </rating>
     <rating system="Canadian Parental Rating">
-      <value>PG</value>
+      <value>14+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
     </rating>
   </programme>
 <programme channel="CHARGE!.us2" start="20261009160000 +0000" stop="20261009170000 +0000">
@@ -3468,6 +3522,90 @@
       <value>G</value>
     </rating>
   </programme>
+<programme channel="CHARGE!.us2" start="20261010153000 +0000" stop="20261010160000 +0000">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Consumer</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Variety</category>
+    <icon src="http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540"/>
+    <previously-shown/>  <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme>
+<programme channel="CHARGE!.us2" start="20261010160000 +0000" stop="20261010170000 +0000">
+    <title lang="en">CSI: NY</title>
+    <sub-title lang="en">DOA for a Day</sub-title>
+    <desc lang="en">An anonymous tip leads team members to an abandoned warehouse, where they hope to find one of the city's most-wanted criminals.</desc>
+    <credits>
+      <actor>Gary Sinise</actor>
+      <actor>Melina Kanakaredes</actor>
+      <actor>Carmine Giovinazzo</actor>
+      <director>Christina Moore</director>
+    </credits>
+    <date>2008</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Mystery</category>
+    <icon src="http://dtil.tmsimg.com/assets/p185030_b_h8_aq.jpg?w=960&amp;h=540"/>
+    <episode-num system="onscreen">S4 E15</episode-num>
+    <previously-shown/>  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating>
+  </programme>
 <programme channel="Cinemax.Classics.us2" start="20261009151200 +0000" stop="20261009170800 +0000">
     <title lang="en">They All Laughed</title>
     <desc lang="en">The employees of New York City's Odyssey Detective Agency can't seem to prevent themselves from getting over-involved in their clients' lives. When aging gumshoe John Russo (Ben Gazzara) is assigned to trail an Italian millionaire's wife, Angela (Audrey Hepburn), he inevitably falls for her continental charm. His partner, Charles (John Ritter), is similarly unable to keep his hands off the woman he's trailing -- a winsome cheating spouse named Dolores (Dorothy Stratten).</desc>
@@ -4356,150 +4494,6 @@
       <value>5.0/10</value>
     </star-rating>
   </programme>
-<programme channel="Real.Americas.Voice.us2" start="20261009100000 -0400" stop="20261009120000 -0400">
-    <title lang="en">Live: The War Room</title>
-    <desc lang="en">Steve Bannon and the team brings important news from around the world.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p23401942_b_v8_ab.jpg"/>
-  </programme>
-<programme channel="Real.Americas.Voice.us2" start="20261009120000 -0400" stop="20261009140000 -0400">
-    <title lang="en">Live: The Charlie Kirk Show</title>
-    <desc lang="en">Discussing events, the principles of free markets and limited government.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p22011027_b_v8_ab.jpg"/>
-  </programme>
-<programme channel="Real.Americas.Voice.us2" start="20261009140000 -0400" stop="20261009150000 -0400">
-    <title lang="en">Live: Human Events Daily</title>
-    <desc lang="en">Unfiltered and factual updates on how current events will impact the country today and in the future.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p22712870_b_v8_ab.jpg"/>
-  </programme>
-<programme channel="Real.Americas.Voice.us2" start="20261009150000 -0400" stop="20261009160000 -0400">
-    <title lang="en">Live: America's Voice Live</title>
-    <desc lang="en">Breaking news, interviews and commentary.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p18991764_b_v8_aa.jpg"/>
-  </programme>
-<programme channel="Real.Americas.Voice.us2" start="20261009160000 -0400" stop="20261009170000 -0400">
-    <title lang="en">Live: Bolling!</title>
-    <desc lang="en">RAV host Eric Bolling hosts weekdays for an honest, unfiltered take on the issues shaping America's future.</desc>
-    <category lang="en">Talk Shows</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29583442_b_v8_ab.jpg"/>
-  </programme>
-<programme channel="Real.Americas.Voice.us2" start="20261009170000 -0400" stop="20261009180000 -0400">
-    <title lang="en">Live: War Room: Special Coverage</title>
-    <desc lang="en">Steve Bannon and team dive deep into the election results.</desc>
-    <category lang="en">Specials</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19089223_b_v8_ab.jpg"/>
-  </programme>
-<programme channel="Real.Americas.Voice.us2" start="20261009180000 -0400" stop="20261009190000 -0400">
-    <title lang="en">Live: Just the News No Noise</title>
-    <desc lang="en">Award-winning investigative journalist John Solomon highlights important news of the week.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p22179091_b_v8_ab.jpg"/>
-  </programme>
-<programme channel="Real.Americas.Voice.us2" start="20261009190000 -0400" stop="20261009200000 -0400">
-    <title lang="en">Live: Stinchfield Tonight</title>
-    <desc lang="en">Grant Stinchfield gives his analysis of current events.</desc>
-    <category lang="en">Specials</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p23846210_b_v8_ab.jpg"/>
-  </programme>
-<programme channel="Real.Americas.Voice.us2" start="20261009200000 -0400" stop="20261009220000 -0400">
-    <title lang="en">Live: Live From Studio 6B</title>
-    <desc lang="en">Unique perspectives and commentaries on current events.</desc>
-    <category lang="en">Talk Shows</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13321832_b_v8_aa.jpg"/>
-  </programme>
-<programme channel="Real.Americas.Voice.us2" start="20261009220000 -0400" stop="20261009230000 -0400">
-    <title lang="en">Live: Turning Point Tonight</title>
-    <desc lang="en">A bold, fast-paced daily news show hosted by Jo-bob with a touch of humor; featuring reports from TPUSA Frontlines, Culture Apothecary with Alex Clark, and Charlie Kirk.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29608633_b_v8_aa.jpg"/>
-  </programme>
-<programme channel="Real.Americas.Voice.us2" start="20261009230000 -0400" stop="20261010000000 -0400">
-    <title lang="en">Live: After Hours w/Alex Stein</title>
-    <desc lang="en">Join host Alex Stein as he blends comedy, politics, social media virality, and bold, unfiltered commentary.</desc>
-    <category lang="en">Talk Shows</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p32307514_b_v12_aa.jpg"/>
-  </programme>
-<programme channel="Real.Americas.Voice.us2" start="20261010000000 -0400" stop="20261010010000 -0400">
-    <title lang="en">Live: America's Top 10 With Wayne Allyn Root</title>
-    <desc lang="en">Wayne countdowns the top stories of the week every American needs to know.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p22884044_b_v8_aa.jpg"/>
-  </programme>
-<programme channel="Real.Americas.Voice.us2" start="20261010010000 -0400" stop="20261010030000 -0400">
-    <title lang="en">The War Room</title>
-    <desc lang="en">Steve Bannon and the team brings important news from around the world.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p23401942_b_v8_ab.jpg"/>
-    <previously-shown/></programme>
-<programme channel="Real.Americas.Voice.us2" start="20261010030000 -0400" stop="20261010040000 -0400">
-    <title lang="en">Human Events Daily</title>
-    <desc lang="en">Unfiltered and factual updates on how current events will impact the country today and in the future.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p22712870_b_v8_ab.jpg"/>
-    <previously-shown/></programme>
-<programme channel="Real.Americas.Voice.us2" start="20261010040000 -0400" stop="20261010050000 -0400">
-    <title lang="en">America's Voice Live</title>
-    <desc lang="en">Breaking news, interviews and commentary.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p18991764_b_v8_aa.jpg"/>
-    <previously-shown/></programme>
-<programme channel="Real.Americas.Voice.us2" start="20261010050000 -0400" stop="20261010060000 -0400">
-    <title lang="en">Bolling!</title>
-    <desc lang="en">RAV host Eric Bolling hosts weekdays for an honest, unfiltered take on the issues shaping America's future.</desc>
-    <category lang="en">Talk Shows</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29583442_b_v8_ab.jpg"/>
-    <previously-shown/></programme>
-<programme channel="Real.Americas.Voice.us2" start="20261010060000 -0400" stop="20261010080000 -0400">
-    <title lang="en">Live: Cowboy Logic</title>
-    <desc lang="en">Hosted by Donna Fiducia, a former Fox News Channel anchor and Don Neuen, a politically incorrect cowboy.</desc>
-    <category lang="en">Specials</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p20504130_b_v8_ab.jpg"/>
-  </programme>
-<programme channel="Real.Americas.Voice.us2" start="20261010080000 -0400" stop="20261010090000 -0400">
-    <title lang="en">Live: Breaking Point</title>
-    <desc lang="en">Commentary on the most important issues.</desc>
-    <category lang="en">Talk Shows</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p18991836_b_v8_ab.jpg"/>
-  </programme>
-<programme channel="Real.Americas.Voice.us2" start="20261010090000 -0400" stop="20261010100000 -0400">
-    <title lang="en">Live: The Royce White Show</title>
-    <desc lang="en">Royce White hits it hard, fast and unapologetically.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p26692865_b_v8_ab.jpg"/>
-  </programme>
-<programme channel="Real.Americas.Voice.us2" start="20261010100000 -0400" stop="20261010120000 -0400">
-    <title lang="en">Live: The War Room</title>
-    <desc lang="en">Steve Bannon and the team brings important news from around the world.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p23401942_b_v8_ab.jpg"/>
-  </programme>
-<programme channel="CW.us2" start="20261009150000 +0000" stop="20261009160000 +0000">
-    <title lang="en">The Robert Irvine Show</title>
-    <sub-title lang="en">I'm in Love With My Best Friend</sub-title>
-    <desc lang="en">A newlywed man's wife reveals to him that she is in love with her female best friend.</desc>
-    <credits>
-      <actor>Robert Irvine</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Interview</category>
-    <icon src="http://dtil.tmsimg.com/assets/p13142127_b_h10_aa.jpg?w=960&amp;h=540"/>
-    <episode-num system="onscreen">S1 E67</episode-num>
-    <previously-shown/>  <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-  </programme>
 <programme channel="CW.us2" start="20261009160000 +0000" stop="20261009170000 +0000">
     <title lang="en">The Bill Cunningham Show</title>
     <sub-title lang="en">Family Betrayals &amp; Broken Hearts</sub-title>
@@ -5030,6 +5024,34 @@
       <value>G</value>
     </rating>
   </programme>
+<programme channel="CW.us2" start="20261010153000 +0000" stop="20261010160000 +0000">
+    <title lang="en">Jack Hanna's Into the Wild</title>
+    <desc lang="en">Longtime zookeeper Jack Hanna hosts this Emmy-winning show that takes viewers on a journey around the world to showcase animals in their natural habitats. In addition to showing footage of the creatures and giving information about the places where they live, "Into the Wild" discusses the protection and conservation of endangered species. Among the locations visited are remote jungles, deserts, oceans and forests.</desc>
+    <credits>
+      <actor>Jack Hanna</actor>
+    </credits>
+    <date>2007</date>
+    <category lang="en">Animals</category>
+    <category lang="en">Educational</category>
+    <category lang="en">Documentary</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13247161_b_h10_ab.jpg?w=960&amp;h=540"/>
+    <previously-shown/>  <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+<programme channel="CW.us2" start="20261010160000 +0000" stop="20261010193000 +0000">
+    <title lang="en">College Football</title>
+    <desc lang="en">The Wolfpack (3-2, 0-1) try to hand the ACC rival Demon Deacons (1-3, 0-1) a fourth straight loss. NC State comes off a strong defensive performance in a 24-17 triumph over Northern Illinois. Wake Forest has yielded 112 points during its slide.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="http://dtil.tmsimg.com/assets/p27529994_tb2_h8_ae.jpg?w=960&amp;h=540"/>
+    <previously-shown/></programme>
 <programme channel="AdultSwim.com.Cartoon.Network.us2" start="20261009093000 +0000" stop="20261009210000 +0000">
     <title lang="en">Dragon Ball Daima (Season 1)</title>
     <sub-title lang="en">Tamagami</sub-title>
@@ -5209,26 +5231,6 @@
     <sub-title lang="en">Ocean</sub-title>
     <desc lang="en">30. Goku and his companions arrive at the mystic Second Demon World, where a giant ocean spreads as far as the eye can see! The party is amazed at the new world but is immediately attacked by Gendarmerie that have been sent by Gomah!</desc>
     <episode-num system="onscreen">S1 E10</episode-num>
-  </programme>
-<programme channel="HBO.East.us2" start="20261009145300 +0000" stop="20261009153500 +0000">
-    <title lang="en">Jaÿ-Z in 8</title>
-    <sub-title lang="en">Chapter 5</sub-title>
-    <desc lang="en">JAŸ-Z discusses the price of celebrity, paving the way for others, and embracing multiple interpretations of his work.</desc>
-    <credits>
-      <actor>Jay-Z</actor>
-      <actor>Rick Rubin</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33478606_b_h8_aa.jpg?w=960&amp;h=540"/>
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <previously-shown/>  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
   </programme>
 <programme channel="HBO.East.us2" start="20261009153500 +0000" stop="20261009163000 +0000">
     <title lang="en">Jaÿ-Z in 8</title>
@@ -6058,37 +6060,26 @@
       <value>15</value>
     </rating>
   </programme>
-<programme channel="HBO.Comedy.HD.us2" start="20261009151900 +0000" stop="20261009154500 +0000">
-    <title lang="en">How to Make It in America</title>
-    <sub-title lang="en">Crisp</sub-title>
-    <desc lang="en">Ben and Cam search for a manufacturer to make their brand of jeans; Ben and Rachel realize that they have not moved on.</desc>
+<programme channel="HBO.East.us2" start="20261010153000 +0000" stop="20261010162600 +0000">
+    <title lang="en">War</title>
+    <sub-title lang="en">No More Nasty Surprises</sub-title>
+    <desc lang="en">As Morgan and Carla prepare for mediation, a slip-up gives her lawyers a chance to challenge their prenup; but Morgan's lawyers have a secret weapon.</desc>
     <credits>
-      <actor>Bryan Greenberg</actor>
-      <actor>Victor Rasuk</actor>
-      <actor>Luis Guzmán</actor>
+      <actor>Dominic West</actor>
+      <actor>Sienna Miller</actor>
+      <actor>Phoebe Fox</actor>
     </credits>
-    <date>2010</date>
+    <date>2026</date>
     <category lang="en">Series</category>
-    <category lang="en">Comedy</category>
-    <icon src="http://dtil.tmsimg.com/assets/p8825261_b_h10_aa.jpg?w=960&amp;h=540"/>
+    <category lang="en">Drama</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33820193_b_h8_ac.jpg?w=960&amp;h=540"/>
     <episode-num system="onscreen">S1 E2</episode-num>
     <previously-shown/>  <rating system="USA Parental Rating">
       <value>TVMA</value>
     </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
     <rating system="Canadian Parental Rating">
       <value>18+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>C</value>
     </rating>
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>12</value>
@@ -6096,8 +6087,14 @@
     <rating system="UK Content Provider">
       <value>15</value>
     </rating>
-    <rating system="Kijkwijzer">
-      <value>12</value>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 16</value>
     </rating>
   </programme>
 <programme channel="HBO.Comedy.HD.us2" start="20261009154500 +0000" stop="20261009161200 +0000">
@@ -7720,30 +7717,23 @@
     <category lang="en">Standup</category>
     <icon src="http://dtil.tmsimg.com/assets/p27374619_b_h10_aa.jpg?w=960&amp;h=540"/>
     <previously-shown/></programme>
-<programme channel="HBO.Zone.HD.us2" start="20261009140800 +0000" stop="20261009153700 +0000">
-    <title lang="en">Magic &amp; Bird: A Courtship of Rivals</title>
-    <desc lang="en">A history traces the competition between basketball players Larry Bird and Earvin "Magic" Johnson.</desc>
+<programme channel="HBO.Comedy.HD.us2" start="20261010154700 +0000" stop="20261010163000 +0000">
+    <title lang="en">Ian Lara: Romantic Comedy</title>
+    <desc lang="en">New York comedian Ian Lara explores the lessons learned during the pandemic and more.</desc>
     <credits>
-      <actor>Earvin "Magic" Johnson</actor>
-      <actor>Larry Bird</actor>
-      <actor>Pat Riley</actor>
+      <actor>Ian Lara</actor>
+      <actor>Aida Rodriguez</actor>
+      <director>Aida Rodriguez</director>
     </credits>
-    <date>2010</date>
+    <date>2022</date>
     <category lang="en">Special</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Basketball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p8001246_b_h10_ac.jpg?w=960&amp;h=540"/>
+    <category lang="en">Comedy</category>
+    <icon src="http://dtil.tmsimg.com/assets/p23349463_b_h8_aa.jpg?w=960&amp;h=540"/>
     <previously-shown/>  <rating system="USA Parental Rating">
-      <value>TVPG</value>
+      <value>TV14</value>
     </rating>
     <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
+      <value>14+</value>
     </rating>
   </programme>
 <programme channel="HBO.Zone.HD.us2" start="20261009153700 +0000" stop="20261009174700 +0000">
@@ -8596,96 +8586,6 @@
     </rating>
     <star-rating system="TMS">
       <value>7.0/10</value>
-    </star-rating>
-  </programme>
-<programme channel="Cinemax.HD.us2" start="20261009135900 +0000" stop="20261009155500 +0000">
-    <title lang="en">Space Jam: A New Legacy</title>
-    <desc lang="en">Superstar LeBron James and his young son, Dom, get trapped in digital space by a rogue AI. To get home safely, LeBron teams up with Bugs Bunny, Daffy Duck and the rest of the Looney Tunes gang for a high-stakes basketball game against the AI's digitized champions of the court -- a powered-up roster called the Goon Squad.</desc>
-    <credits>
-      <actor>LeBron James</actor>
-      <actor>Don Cheadle</actor>
-      <actor>Cedric Joe</actor>
-      <director>Malcolm D. Lee</director>
-    </credits>
-    <date>2021</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Children</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Animated</category>
-    <icon src="http://dtil.tmsimg.com/assets/p17971915_v_h8_ac.jpg?w=960&amp;h=540"/>
-    <previously-shown/>  <rating system="Motion Picture Association">
-      <value>PG</value>
-    </rating>
-    <rating system="Statens medieråd">
-      <value>Från 7 år</value>
-    </rating>
-    <rating system="Medierådet">
-      <value>7</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K7</value>
-    </rating>
-    <rating system="Alberta's Film Classification Board">
-      <value>PG</value>
-    </rating>
-    <rating system="B.C. Film Classification Office">
-      <value>G</value>
-    </rating>
-    <rating system="Saskatchewan Film and Video Classification Board">
-      <value>G</value>
-    </rating>
-    <rating system="Ontario Film Authority">
-      <value>G</value>
-    </rating>
-    <rating system="Manitoba Film Classification Board">
-      <value>G</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>A</value>
-    </rating>
-    <rating system="映倫">
-      <value>G</value>
-    </rating>
-    <rating system="영상물등급위원회">
-      <value>All</value>
-    </rating>
-    <rating system="Consejo de Calificación Cinematográfica">
-      <value>TE</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating>
-    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>U</value>
-    </rating>
-    <rating system="British Board of Film Classification">
-      <value>U</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>9</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
-    </rating>
-    <rating system="Central Board of Film Certification">
-      <value>U</value>
-    </rating>
-    <star-rating system="TMS">
-      <value>3.0/10</value>
     </star-rating>
   </programme>
 <programme channel="Cinemax.HD.us2" start="20261009155500 +0000" stop="20261009173300 +0000">
@@ -9584,6 +9484,100 @@
     </rating>
     <star-rating system="TMS">
       <value>4.0/10</value>
+    </star-rating>
+  </programme>
+<programme channel="Cinemax.HD.us2" start="20261010155000 +0000" stop="20261010174600 +0000">
+    <title lang="en">Atomic Blonde</title>
+    <desc lang="en">Sensual and savage, Lorraine Broughton is the most elite spy in MI6, an agent who's willing to use all of her lethal skills to stay alive during an impossible mission. With the Berlin Wall about to fall, she travels into the heart of the city to retrieve a priceless dossier and take down a ruthless espionage ring. Once there, she teams up with an embedded station chief to navigate her way through the deadliest game of spies.</desc>
+    <credits>
+      <actor>Charlize Theron</actor>
+      <actor>James McAvoy</actor>
+      <actor>Eddie Marsan</actor>
+      <director>David Leitch</director>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">LGBTQ</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12985371_v_h8_aa.jpg?w=960&amp;h=540"/>
+    <previously-shown/>  <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating>
+    <rating system="Alberta's Film Classification Board">
+      <value>14A</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>18A</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Manitoba Film Classification Board">
+      <value>18A</value>
+    </rating>
+    <rating system="B.C. Film Classification Office">
+      <value>14A</value>
+    </rating>
+    <rating system="Saskatchewan Film and Video Classification Board">
+      <value>14A</value>
+    </rating>
+    <rating system="Maritime Film Classification Board">
+      <value>18</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="映倫">
+      <value>R15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Medierådet">
+      <value>15</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>18+</value>
+    </rating>
+    <rating system="Consejo Nacional de Televisión">
+      <value>R</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Central Board of Film Certification">
+      <value>A</value>
+    </rating>
+    <star-rating system="TMS">
+      <value>6.0/10</value>
     </star-rating>
   </programme>
 <programme channel="Cinemax.Hits.us2" start="20261009151800 +0000" stop="20261009165400 +0000">
@@ -10660,26 +10654,6 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-<programme channel="Starz.HD.us2" start="20261009145200 +0000" stop="20261009154300 +0000">
-    <title lang="en">Tip Toe</title>
-    <sub-title lang="en">Episode 1</sub-title>
-    <desc lang="en">Leo and Clive have been next-door neighbors for 14 years, but when a one-night stand goes wrong, a feud begins which quickly escalates into danger.</desc>
-    <credits>
-      <actor>Alan Cumming</actor>
-      <actor>David Morrissey</actor>
-      <actor>Elizabeth Berrington</actor>
-      <director>Peter Hoar</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Drama</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33155749_b_h8_ad.jpg?w=960&amp;h=540"/>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <previously-shown/>  <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
 <programme channel="Starz.HD.us2" start="20261009154300 +0000" stop="20261009174000 +0000">
     <title lang="en">Couples Retreat</title>
     <desc lang="en">Four couples, all friends, descend on a tropical island resort. Though one husband and wife are there to work on their marriage, the others just want to enjoy some fun in the sun. They soon find out that the paradise comes at a price, participation in couples therapy sessions is mandatory. What started out as a cut-rate vacation turns into an examination of the common problems many face.</desc>
@@ -11540,60 +11514,22 @@
       <value>15 år</value>
     </rating>
   </programme>
-<programme channel="Starz.Kids.HD.us2" start="20261009140000 +0000" stop="20261009153600 +0000">
-    <title lang="en">Oddball</title>
-    <desc lang="en">A chicken farmer and his granddaughter train a dog to protect a penguin sanctuary from foxes.</desc>
+<programme channel="Starz.HD.us2" start="20261010155300 +0000" stop="20261010164200 +0000">
+    <title lang="en">S.W.A.T. Exiles</title>
+    <sub-title lang="en">Burn Zone</sub-title>
+    <desc lang="en">A manhunt pushes the Exiles to their breaking point; when a decision Hondo made to shield his squad from scrutiny comes back to bite him, he realizes someone close to him may know more than they're letting on.</desc>
     <credits>
-      <actor>Alan Tudyk</actor>
-      <actor>Sarah Snook</actor>
-      <actor>Coco Jack Gillies</actor>
-      <director>Stuart McDonald</director>
+      <actor>Shemar Moore</actor>
+      <actor>Lucy Barrett</actor>
+      <actor>Adain Bradley</actor>
     </credits>
-    <date>2015</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Children</category>
-    <category lang="en">Adventure</category>
-    <icon src="http://dtil.tmsimg.com/assets/p12523355_v_h10_ac.jpg?w=960&amp;h=540"/>
-    <previously-shown/>  <rating system="UK Content Provider">
-      <value>U</value>
-    </rating>
-    <rating system="Ontario Film Authority">
-      <value>G</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>G</value>
-    </rating>
-    <rating system="B.C. Film Classification Office">
-      <value>PG</value>
-    </rating>
-    <rating system="Saskatchewan Film and Video Classification Board">
-      <value>PG</value>
-    </rating>
-    <rating system="Alberta's Film Classification Board">
-      <value>G</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>6</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
-    </rating>
-    <rating system="British Board of Film Classification">
-      <value>U</value>
-    </rating>
-    <rating system="Consejo Nacional de Televisión">
-      <value>F</value>
-    </rating>
-  </programme>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Action</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33514499_b_h8_ae.jpg?w=960&amp;h=540"/>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown/></programme>
 <programme channel="Starz.Kids.HD.us2" start="20261009153600 +0000" stop="20261009172800 +0000">
     <title lang="en">Bandslam</title>
     <desc lang="en">A gifted singer/songwriter, Charlotte hires Will Burton, a new guy in town, to manage her fledgling rock band. She wants one thing from him: to help her win a contest against her ex-boyfriend in an upcoming battle of the bands. Charlotte's band comes together and seems to have a real shot at victory, while Will and dynamic guitarist Sa5m begin to make some beautiful music of their own.</desc>
@@ -12415,32 +12351,6 @@
     </rating>
     <star-rating system="TMS">
       <value>7.0/10</value>
-    </star-rating>
-  </programme>
-<programme channel="Starz.Comedy.HD.us2" start="20261009140300 +0000" stop="20261009153300 +0000">
-    <title lang="en">Phat Beach</title>
-    <desc lang="en">A teen Romeo pulls an aspiring-writer pal into his plan to sell cheap sunglasses to Southern California beachgoers.</desc>
-    <credits>
-      <actor>Jermaine Hopkins</actor>
-      <actor>Brian Hooks</actor>
-      <actor>Gregg Vance</actor>
-      <director>Doug Ellin</director>
-    </credits>
-    <date>1996</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Comedy</category>
-    <icon src="http://dtil.tmsimg.com/assets/p18315_v_h10_aa.jpg?w=960&amp;h=540"/>
-    <previously-shown/>  <rating system="Motion Picture Association">
-      <value>R</value>
-    </rating>
-    <rating system="Ontario Film Authority">
-      <value>AA</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <star-rating system="TMS">
-      <value>4.0/10</value>
     </star-rating>
   </programme>
 <programme channel="Starz.Comedy.HD.us2" start="20261009153300 +0000" stop="20261009171200 +0000">
@@ -14248,6 +14158,48 @@
       <value>5.0/10</value>
     </star-rating>
   </programme>
+<programme channel="Starz.Edge.HD.us2" start="20261010155300 +0000" stop="20261010173200 +0000">
+    <title lang="en">Power Ballad</title>
+    <desc lang="en">When Rick, a past-his-prime wedding singer, meets fading boy-band star Danny during a gig, the two bond over music and a late-night jam session. But when Danny turns one of Rick's songs into the hit that reignites his career, Rick sets out to reclaim the recognition he believes he deserves -- even if it means risking everything he cares about.</desc>
+    <credits>
+      <actor>Paul Rudd</actor>
+      <actor>Peter McDonald</actor>
+      <actor>Paul Reid</actor>
+      <director>John Carney</director>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Comedy drama</category>
+    <category lang="en">Music</category>
+    <icon src="http://dtil.tmsimg.com/assets/p30734881_v_h8_ag.jpg?w=960&amp;h=540"/>
+    <previously-shown/>  <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating>
+    <rating system="Alberta's Film Classification Board">
+      <value>14A</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating>
+    <rating system="映倫">
+      <value>G</value>
+    </rating>
+    <rating system="Maritime Film Classification Board">
+      <value>14</value>
+    </rating>
+    <star-rating system="TMS">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
 <programme channel="Starz.in.Black.HD.us2" start="20261009145800 +0000" stop="20261009164500 +0000">
     <title lang="en">Mindhunters</title>
     <desc lang="en">FBI agent Jake Harris (Val Kilmer) escorts a group of cadets to a remote island for simulation training. The cadets, under the leadership of J.D. (Christian Slater), will try to catch an imaginary serial killer within the island's elaborate facility. The FBI, however, is suspicious of Harris' methods and dispatch Gabe Jensen (LL Cool J) to act as an outside observer. What he finds is a simulation exercise that becomes dangerously real and training that becomes a fight for survival.</desc>
@@ -14963,6 +14915,92 @@
     <rating system="Medietilsynet">
       <value>15 år</value>
     </rating>
+  </programme>
+<programme channel="Starz.in.Black.HD.us2" start="20261010160200 +0000" stop="20261010174300 +0000">
+    <title lang="en">Dawn of the Dead</title>
+    <desc lang="en">When her husband is attacked by a zombified neighbor, Ana (Sarah Polley) manages to escape, only to realize her entire Milwaukee neighborhood has been overrun by the walking dead. After being questioned by cautious policeman Kenneth (Ving Rhames), Ana joins him and a small group that gravitates to the local shopping mall as a bastion of safety. Once they convince suspicious security guards that they are not contaminated, the group bands together to fight the undead hordes.</desc>
+    <credits>
+      <actor>Sarah Polley</actor>
+      <actor>Ving Rhames</actor>
+      <actor>Jake Weber</actor>
+      <director>Zack Snyder</director>
+    </credits>
+    <date>2004</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p34181_v_h8_ah.jpg?w=960&amp;h=540"/>
+    <previously-shown/>  <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>18</value>
+    </rating>
+    <rating system="Alberta's Film Classification Board">
+      <value>18A</value>
+    </rating>
+    <rating system="B.C. Film Classification Office">
+      <value>18A</value>
+    </rating>
+    <rating system="Manitoba Film Classification Board">
+      <value>18A</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>18A</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Saskatchewan Film and Video Classification Board">
+      <value>18A</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>18</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>18</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Ministero della Cultura">
+      <value>VM14</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 16</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K18</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>C</value>
+    </rating>
+    <rating system="Statens medieråd">
+      <value>Från 15 år</value>
+    </rating>
+    <rating system="映倫">
+      <value>R15+</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>18 år</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>18+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>R 18+</value>
+    </rating>
+    <star-rating system="TMS">
+      <value>6.0/10</value>
+    </star-rating>
   </programme>
 <programme channel="Starz.Encore.Classic.us2" start="20261009144900 +0000" stop="20261009164800 +0000">
     <title lang="en">Closing the Ring</title>
@@ -15756,63 +15794,6 @@
       <value>7.0/10</value>
     </star-rating>
   </programme>
-<programme channel="Starz.Encore.Westerns.SD.us2" start="20261009134500 +0000" stop="20261009155300 +0000">
-    <title lang="en">McLintock!</title>
-    <desc lang="en">Aging rancher George Washington McLintock, a wealthy self-made man, is forced to deal with numerous personal and professional problems. Seemingly everyone wants a piece of his enormous farmstead, including high-ranking government men, McLintock's own sons and nearby Native Americans. As McLintock tries to juggle his various adversaries, his wife, who left him two years previously, suddenly returns. But she isn't interested in her husband -- she wants custody of their daughter.</desc>
-    <credits>
-      <actor>John Wayne</actor>
-      <actor>Maureen O'Hara</actor>
-      <actor>Yvonne De Carlo</actor>
-      <director>Andrew V. McLaglen</director>
-    </credits>
-    <date>1963</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Western</category>
-    <category lang="en">Comedy</category>
-    <icon src="http://dtil.tmsimg.com/assets/p983_v_h8_ad.jpg?w=960&amp;h=540"/>
-    <previously-shown/>  <rating system="British Board of Film Classification">
-      <value>U</value>
-    </rating>
-    <rating system="Manitoba Film Classification Board">
-      <value>PG</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating>
-    <rating system="Ontario Film Authority">
-      <value>PG</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating>
-    <rating system="Statens medieråd">
-      <value>Från 15 år</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>U</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>6</value>
-    </rating>
-    <star-rating system="TMS">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
 <programme channel="Starz.Encore.Westerns.SD.us2" start="20261009155300 +0000" stop="20261009170000 +0000">
     <title lang="en">Stranger on Horseback</title>
     <desc lang="en">A circuit judge (Joel McCrea) rides in to break a ruthless cattle baron's stranglehold on a frontier town.</desc>
@@ -16436,47 +16417,22 @@
       <value>4.0/10</value>
     </star-rating>
   </programme>
-<programme channel="Starz.Encore.Suspense.us2" start="20261009132700 +0000" stop="20261009152400 +0000">
-    <title lang="en">The Devil You Know</title>
-    <desc lang="en">Ex-con Marcus Cowans is trying to turn over a new leaf with the support of his loving family. After learning that one of his brothers may have been involved in a horrific crime, Marcus grapples with the limits of loyalty. He and his family, increasingly weary of the justice system's failings, soon end up in the crosshairs of a seasoned but jaded detective.</desc>
+<programme channel="Starz.Encore.Westerns.SD.us2" start="20261010152900 +0000" stop="20261010162200 +0000">
+    <title lang="en">Along the Navajo Trail</title>
+    <desc lang="en">Gypsies help a U.S. deputy marshal (Roy Rogers) pose as a singing drifter and bust an oil syndicate.</desc>
     <credits>
-      <actor>Omar Epps</actor>
-      <actor>Michael Ealy</actor>
-      <actor>Will Catlett</actor>
-      <director>Charles Murray</director>
+      <actor>Roy Rogers</actor>
+      <actor>George "Gabby" Hayes</actor>
+      <actor>Dale Evans</actor>
+      <director>Frank McDonald</director>
     </credits>
-    <date>2022</date>
+    <date>1945</date>
     <category lang="en">Movie</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p21430165_v_h8_aa.jpg?w=960&amp;h=540"/>
-    <previously-shown/>  <rating system="Motion Picture Association">
-      <value>R</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="영상물등급위원회">
-      <value>15+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
+    <category lang="en">Western</category>
+    <icon src="http://dtil.tmsimg.com/assets/p42052_v_h10_aa.jpg?w=960&amp;h=540"/>
+    <previously-shown/>  <star-rating system="TMS">
+      <value>4.0/10</value>
+    </star-rating>
   </programme>
 <programme channel="Starz.Encore.Suspense.us2" start="20261009152400 +0000" stop="20261009170200 +0000">
     <title lang="en">Tales From the Hood</title>
@@ -17148,6 +17104,95 @@
     </rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>18</value>
+    </rating>
+    <star-rating system="TMS">
+      <value>5.0/10</value>
+    </star-rating>
+  </programme>
+<programme channel="Starz.Encore.Suspense.us2" start="20261010155100 +0000" stop="20261010175300 +0000">
+    <title lang="en">Underworld</title>
+    <desc lang="en">Under cover of night, vampires engage in an age-old battle with their sworn enemies, the Lycans, a clan of violent werewolves. Selene, a vampire orphaned in the wake of a bloody Lycan attack, works for the vampire clan as a trained killer. When the Lycans take a mysterious interest in Michael Corvin, an exceptional mortal doctor, Selene struggles to save him from Lucian, a ruthless Lycan leader hell-bent on ending the vampire bloodline.</desc>
+    <credits>
+      <actor>Kate Beckinsale</actor>
+      <actor>Scott Speedman</actor>
+      <actor>Michael Sheen</actor>
+      <director>Len Wiseman</director>
+    </credits>
+    <date>2003</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Action</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32955_v_h10_ab.jpg?w=960&amp;h=540"/>
+    <previously-shown/>  <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating>
+    <rating system="Alberta's Film Classification Board">
+      <value>18A</value>
+    </rating>
+    <rating system="B.C. Film Classification Office">
+      <value>18A</value>
+    </rating>
+    <rating system="Manitoba Film Classification Board">
+      <value>18A</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Saskatchewan Film and Video Classification Board">
+      <value>18A</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>14A</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 13</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Statens medieråd">
+      <value>Från 15 år</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="映倫">
+      <value>PG12</value>
+    </rating>
+    <rating system="Medierådet">
+      <value>15</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>18+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
     </rating>
     <star-rating system="TMS">
       <value>5.0/10</value>
@@ -18888,6 +18933,46 @@
     </rating>
     <star-rating system="TMS">
       <value>6.0/10</value>
+    </star-rating>
+  </programme>
+<programme channel="Starz.Encore.Family.SD.us2" start="20261010152500 +0000" stop="20261010171600 +0000">
+    <title lang="en">I Can Only Imagine 2</title>
+    <desc lang="en">After the breakout success of the song "I Can Only Imagine," MercyMe's Bart Millard is living the dream with sold-out arenas, a devoted fan base, and a thriving career. However, Millard's past soon threatens the family he's built, especially the fragile bond with his son, Sam.</desc>
+    <credits>
+      <actor>John Michael Finley</actor>
+      <actor>Milo Ventimiglia</actor>
+      <actor>Dennis Quaid</actor>
+      <director>Andrew Erwin</director>
+      <director>Brent McCorkle</director>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Music</category>
+    <icon src="http://dtil.tmsimg.com/assets/p31638416_v_h8_ac.jpg?w=960&amp;h=540"/>
+    <previously-shown/>  <rating system="Motion Picture Association">
+      <value>PG</value>
+    </rating>
+    <rating system="Alberta's Film Classification Board">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>PG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A10</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>12+</value>
+    </rating>
+    <star-rating system="TMS">
+      <value>5.0/10</value>
     </star-rating>
   </programme>
 <programme channel="Paramount+.with.Showtime.HD.us2" start="20261009144500 +0000" stop="20261009162500 +0000">
@@ -20903,87 +20988,82 @@
       <value>8.0/10</value>
     </star-rating>
   </programme>
-<programme channel="Showtime.Familyzone.HD.us2" start="20261009143500 +0000" stop="20261009160500 +0000">
-    <title lang="en">Hotel Transylvania 2</title>
-    <desc lang="en">Now that Dracula has opened the Hotel Transylvania's doors to humans, things are changing for the better; however, Drac is secretly worried that his half-human grandson, Dennis, isn't showing his vampire side. So, while Mavis and Johnny are away, Drac enlists his friends to help him put the boy through a "monster-in-training" boot camp. But things really get batty when Drac's cantankerous, old-school dad pays an unexpected visit.</desc>
+<programme channel="Showtime.2.HD.us2" start="20261010160000 +0000" stop="20261010180000 +0000">
+    <title lang="en">Indiana Jones and the Temple of Doom</title>
+    <desc lang="en">The second of the Lucas/Spielberg Indiana Jones epics is set a year or so before the events in Raiders of the Lost Ark. Indy needs to retrieve a precious gem and several kidnapped young boys on behalf of a remote East Indian village. This time he teams up with a night club singer and a 12-year old boy.</desc>
     <credits>
-      <actor>Adam Sandler</actor>
-      <actor>Andy Samberg</actor>
-      <actor>Selena Gomez</actor>
-      <director>Genndy Tartakovsky</director>
+      <actor>Harrison Ford</actor>
+      <actor>Kate Capshaw</actor>
+      <actor>Ke Huy Quan</actor>
+      <director>Steven Spielberg</director>
     </credits>
-    <date>2015</date>
+    <date>1984</date>
     <category lang="en">Movie</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Fantasy</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11591956_v_h10_ao.jpg?w=960&amp;h=540"/>
+    <category lang="en">Adventure</category>
+    <category lang="en">Action</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9614_v_h8_be.jpg?w=960&amp;h=540"/>
     <previously-shown/>  <rating system="Motion Picture Association">
       <value>PG</value>
     </rating>
-    <rating system="Alberta's Film Classification Board">
-      <value>G</value>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
     </rating>
-    <rating system="B.C. Film Classification Office">
-      <value>G</value>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
     </rating>
-    <rating system="Saskatchewan Film and Video Classification Board">
-      <value>G</value>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
     </rating>
-    <rating system="Manitoba Film Classification Board">
-      <value>G</value>
-    </rating>
-    <rating system="Ontario Film Authority">
-      <value>G</value>
+    <rating system="Ministero della Cultura">
+      <value>T</value>
     </rating>
     <rating system="Régie du cinéma">
       <value>G</value>
     </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating>
-    <rating system="Maritime Film Classification Board">
-      <value>G</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>U</value>
-    </rating>
-    <rating system="British Board of Film Classification">
-      <value>U</value>
-    </rating>
-    <rating system="Australian Classification Board">
+    <rating system="Ontario Film Authority">
       <value>PG</value>
     </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K7</value>
+    <rating system="British Board of Film Classification">
+      <value>12</value>
     </rating>
     <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
+      <value>SAM 13</value>
     </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>A</value>
-    </rating>
-    <rating system="映倫">
-      <value>G</value>
+    <rating system="Arcom">
+      <value>-10</value>
     </rating>
     <rating system="Kijkwijzer">
-      <value>6</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
+      <value>12</value>
     </rating>
     <rating system="Statens medieråd">
-      <value>Från 7 år</value>
+      <value>Från 15 år</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Alberta's Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>12+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
     </rating>
     <rating system="Medierådet">
-      <value>A</value>
+      <value>11</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>11 år</value>
     </rating>
     <star-rating system="TMS">
-      <value>5.0/10</value>
+      <value>6.0/10</value>
     </star-rating>
   </programme>
 <programme channel="Showtime.Familyzone.HD.us2" start="20261009160500 +0000" stop="20261009180500 +0000">
@@ -21963,97 +22043,6 @@
       <value>4.0/10</value>
     </star-rating>
   </programme>
-<programme channel="MGM+.HD.us2" start="20261009134500 +0000" stop="20261009155000 +0000">
-    <title lang="en">mother!</title>
-    <desc lang="en">A young woman spends her days renovating the Victorian mansion that she lives in with her husband in the countryside. When a stranger knocks on the door one night, he becomes an unexpected guest in their home. Later, his wife and two children also arrive to make themselves welcome. Terror soon strikes when the beleaguered wife tries to figure out why her husband is so seemingly friendly and accommodating to everyone but her.</desc>
-    <credits>
-      <actor>Jennifer Lawrence</actor>
-      <actor>Javier Bardem</actor>
-      <actor>Ed Harris</actor>
-      <director>Darren Aronofsky</director>
-    </credits>
-    <date>2017</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Mystery</category>
-    <icon src="http://dtil.tmsimg.com/assets/p13809835_v_h8_ak.jpg?w=960&amp;h=540"/>
-    <previously-shown/>  <rating system="Motion Picture Association">
-      <value>R</value>
-    </rating>
-    <rating system="Alberta's Film Classification Board">
-      <value>18A</value>
-    </rating>
-    <rating system="Ontario Film Authority">
-      <value>18A</value>
-    </rating>
-    <rating system="Maritime Film Classification Board">
-      <value>14</value>
-    </rating>
-    <rating system="B.C. Film Classification Office">
-      <value>14A</value>
-    </rating>
-    <rating system="Saskatchewan Film and Video Classification Board">
-      <value>14A</value>
-    </rating>
-    <rating system="Manitoba Film Classification Board">
-      <value>14A</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>18</value>
-    </rating>
-    <rating system="British Board of Film Classification">
-      <value>18</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Film &amp; Publication Board">
-      <value>18</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>C</value>
-    </rating>
-    <rating system="Statens medieråd">
-      <value>Från 15 år</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>16+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-    <rating system="Medierådet">
-      <value>15</value>
-    </rating>
-    <rating system="영상물등급위원회">
-      <value>18+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>18</value>
-    </rating>
-    <rating system="Ministero della Cultura">
-      <value>VM14</value>
-    </rating>
-    <star-rating system="TMS">
-      <value>5.0/10</value>
-    </star-rating>
-  </programme>
 <programme channel="MGM+.HD.us2" start="20261009155000 +0000" stop="20261009180500 +0000">
     <title lang="en">King Kong</title>
     <desc lang="en">When a research ship is sent to explore an island thought to be rich in oil, paleontologist Jack Prescott sneaks aboard, having heard strange rumors about the island. En route, the crew rescues Dwan, the sole survivor of a shipwreck. When they arrive, they find native people living in fear of a monster called Kong. The natives kidnap Dwan and sacrifice her to what turns out to be an enormous ape. Dwan is eventually rescued, and the ape captured for a gala exhibit.</desc>
@@ -22748,62 +22737,6 @@
     <star-rating system="TMS">
       <value>5.0/10</value>
     </star-rating>
-  </programme>
-<programme channel="COZI.TV.us2" start="20261009150000 +0000" stop="20261009153000 +0000">
-    <title lang="en">Roseanne</title>
-    <sub-title lang="en">Morning Becomes Obnoxious</sub-title>
-    <desc lang="en">A television news reporter interviews Roseanne in the street.</desc>
-    <credits>
-      <actor>Roseanne</actor>
-      <actor>John Goodman</actor>
-      <actor>Laurie Metcalf</actor>
-      <director>Gail Mancuso</director>
-    </credits>
-    <date>1996</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <icon src="http://dtil.tmsimg.com/assets/p183903_b_h8_ac.jpg?w=960&amp;h=540"/>
-    <episode-num system="onscreen">S8 E21</episode-num>
-    <previously-shown/>  <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-  </programme>
-<programme channel="COZI.TV.us2" start="20261009153000 +0000" stop="20261009160000 +0000">
-    <title lang="en">Roseanne</title>
-    <sub-title lang="en">Ballroom Blitz</sub-title>
-    <desc lang="en">Plans for David and Darlene's wedding are made; Bev is excluded from the wedding preparations and therefore takes part in a seniors dance course.</desc>
-    <credits>
-      <actor>Roseanne</actor>
-      <actor>John Goodman</actor>
-      <actor>Laurie Metcalf</actor>
-      <director>Gail Mancuso</director>
-    </credits>
-    <date>1996</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <icon src="http://dtil.tmsimg.com/assets/p183903_b_h8_ac.jpg?w=960&amp;h=540"/>
-    <episode-num system="onscreen">S8 E22</episode-num>
-    <previously-shown/>  <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
   </programme>
 <programme channel="COZI.TV.us2" start="20261009160000 +0000" stop="20261009163000 +0000">
     <title lang="en">Roseanne</title>
@@ -24196,53 +24129,6 @@
       <value>12</value>
     </rating>
   </programme>
-<programme channel="Bounce.TV.us2" start="20261009150000 +0000" stop="20261009153000 +0000">
-    <title lang="en">Lauren Lake's Paternity Court</title>
-    <sub-title lang="en">Robinson vs. Long</sub-title>
-    <desc lang="en">After finding a forged birth certificate, a 36-year-old Detroit woman brings her potential father to court to discover the truth.</desc>
-    <credits>
-      <actor>Lauren Lake</actor>
-      <director>Stacie Saugen</director>
-    </credits>
-    <date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Law</category>
-    <icon src="http://dtil.tmsimg.com/assets/p13159597_b_h10_aa.jpg?w=960&amp;h=540"/>
-    <episode-num system="onscreen">S4 E92</episode-num>
-    <previously-shown/>  <rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-<programme channel="Bounce.TV.us2" start="20261009153000 +0000" stop="20261009160000 +0000">
-    <title lang="en">Lauren Lake's Paternity Court</title>
-    <sub-title lang="en">Mangram/Mangram vs. Schools</sub-title>
-    <desc lang="en">While her son is dying, a Virginia woman is confronted in the hospital by a young woman claiming to be pregnant with his child.</desc>
-    <credits>
-      <actor>Lauren Lake</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Law</category>
-    <icon src="http://dtil.tmsimg.com/assets/p13159597_b_h10_aa.jpg?w=960&amp;h=540"/>
-    <episode-num system="onscreen">S4 E103</episode-num>
-    <previously-shown/>  <rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating>
-  </programme>
 <programme channel="Bounce.TV.us2" start="20261009160000 +0000" stop="20261009163000 +0000">
     <title lang="en">Lauren Lake's Paternity Court</title>
     <sub-title lang="en">Thompson vs. Smithbey</sub-title>
@@ -25119,85 +25005,53 @@
       <value>AL</value>
     </rating>
   </programme>
-<programme channel="E!.Entertainment.Television.HD.us2" start="20261009140000 +0000" stop="20261009160000 +0000">
-    <title lang="en">The House Bunny</title>
-    <desc lang="en">Sexpot Shelley Darlington (Anna Faris) lives comfortably at the Playboy Mansion, until a jealous rival gets her tossed out on her tail. With nowhere else to go, she winds up at Zeta Alpha Zeta sorority. The seven socially inept Zetas will lose their house unless they can attract more pledges; to do that, they need to learn the ways of makeup and men from an expert.</desc>
+<programme channel="Bounce.TV.us2" start="20261010153000 +0000" stop="20261010160000 +0000">
+    <title lang="en">The Bernie Mac Show</title>
+    <sub-title lang="en">My Privacy</sub-title>
+    <desc lang="en">Bernie realizes Bryana and Jordan are too old to share a room, so he moves her in with Vanessa, who is less than thrilled.</desc>
     <credits>
-      <actor>Anna Faris</actor>
-      <actor>Colin Hanks</actor>
-      <actor>Emma Stone</actor>
-      <director>Fred Wolf</director>
+      <actor>Bernie Mac</actor>
+      <actor>Kellita Smith</actor>
+      <actor>Camille Winbush</actor>
     </credits>
-    <date>2008</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Comedy</category>
-    <icon src="http://dtil.tmsimg.com/assets/p175518_v_h8_an.jpg?w=960&amp;h=540"/>
-    <previously-shown/>  <rating system="Motion Picture Association">
-      <value>PG-13</value>
+    <date>2005</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p184747_b_h8_ac.jpg?w=960&amp;h=540"/>
+    <episode-num system="onscreen">S4 E5</episode-num>
+    <previously-shown/>  <rating system="USA Parental Rating">
+      <value>TVPG</value>
     </rating>
-    <rating system="B.C. Film Classification Office">
+    <rating system="Canadian Parental Rating">
       <value>PG</value>
-    </rating>
-    <rating system="Saskatchewan Film and Video Classification Board">
-      <value>PG</value>
-    </rating>
-    <rating system="Manitoba Film Classification Board">
-      <value>PG</value>
-    </rating>
-    <rating system="Ontario Film Authority">
-      <value>PG</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-    <rating system="Alberta's Film Classification Board">
-      <value>PG</value>
-    </rating>
-    <rating system="Maritime Film Classification Board">
-      <value>PG</value>
-    </rating>
-    <rating system="British Board of Film Classification">
-      <value>12</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>12</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating>
-    <rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-    <rating system="Ministero della Cultura">
-      <value>T</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating>
-    <rating system="映倫">
-      <value>PG12</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating>
-    <rating system="영상물등급위원회">
-      <value>15+</value>
     </rating>
     <rating system="Kijkwijzer">
-      <value>6</value>
+      <value>AL</value>
     </rating>
-    <star-rating system="TMS">
-      <value>4.0/10</value>
-    </star-rating>
+  </programme>
+<programme channel="Bounce.TV.us2" start="20261010160000 +0000" stop="20261010163000 +0000">
+    <title lang="en">The Bernie Mac Show</title>
+    <sub-title lang="en">Who Gives This Bride</sub-title>
+    <desc lang="en">Bernie's sister, Benita, announces her plans to elope in Las Vegas; Wanda offers her the Mac residence as a wedding site.</desc>
+    <credits>
+      <actor>Bernie Mac</actor>
+      <actor>Kellita Smith</actor>
+      <actor>Camille Winbush</actor>
+    </credits>
+    <date>2005</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p184747_b_h8_ac.jpg?w=960&amp;h=540"/>
+    <episode-num system="onscreen">S4 E6</episode-num>
+    <previously-shown/>  <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
   </programme>
 <programme channel="E!.Entertainment.Television.HD.us2" start="20261009160000 +0000" stop="20261009163000 +0000">
     <title lang="en">Cocktail Wars</title>
@@ -26524,56 +26378,6 @@
       <value>4.0/10</value>
     </star-rating>
   </programme>
-<programme channel="SundanceTV.HD.us2" start="20261009150000 +0000" stop="20261009153000 +0000">
-    <title lang="en">The Andy Griffith Show</title>
-    <sub-title lang="en">Mayberry Goes Bankrupt</sub-title>
-    <desc lang="en">A citizen of Mayberry forestalls his eviction by trying to redeem a century-old municipal bond.</desc>
-    <credits>
-      <actor>Andy Griffith</actor>
-      <actor>Ronny Howard</actor>
-      <actor>Don Knotts</actor>
-      <director>Bob Sweeney</director>
-    </credits>
-    <date>1961</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <icon src="http://dtil.tmsimg.com/assets/p183943_b_h8_ab.jpg?w=960&amp;h=540"/>
-    <episode-num system="onscreen">S2 E4</episode-num>
-    <previously-shown/>  <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-  </programme>
-<programme channel="SundanceTV.HD.us2" start="20261009153000 +0000" stop="20261009160000 +0000">
-    <title lang="en">The Andy Griffith Show</title>
-    <sub-title lang="en">Barney on the Rebound</sub-title>
-    <desc lang="en">Barney becomes smitten with Melissa after he helps her cross the street and soon has dinner with her and her supposed dad. Before Barney can realize what is happening, she announces that they are engaged.</desc>
-    <credits>
-      <actor>Andy Griffith</actor>
-      <actor>Ronny Howard</actor>
-      <actor>Frances Bavier</actor>
-      <director>Bob Sweeney</director>
-    </credits>
-    <date>1961</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <icon src="http://dtil.tmsimg.com/assets/p183943_b_h8_ab.jpg?w=960&amp;h=540"/>
-    <episode-num system="onscreen">S2 E5</episode-num>
-    <previously-shown/>  <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-  </programme>
 <programme channel="SundanceTV.HD.us2" start="20261009160000 +0000" stop="20261009163000 +0000">
     <title lang="en">The Andy Griffith Show</title>
     <sub-title lang="en">Opie's Hobo Friend</sub-title>
@@ -27404,87 +27208,6 @@
     </rating>
     <star-rating system="TMS">
       <value>6.0/10</value>
-    </star-rating>
-  </programme>
-<programme channel="Syfy.HD.us2" start="20261009140000 +0000" stop="20261009160000 +0000">
-    <title lang="en">Night Swim</title>
-    <desc lang="en">Forced into early retirement by a degenerative illness, former baseball player Ray Waller moves into a new house with his wife and two children. He hopes that the backyard swimming pool will be fun for the kids and provide physical therapy for himself. However, a dark secret from the home's past soon unleashes a malevolent force that drags the family into the depths of inescapable terror.</desc>
-    <credits>
-      <actor>Wyatt Russell</actor>
-      <actor>Kerry Condon</actor>
-      <actor>Amélie Hoeferle</actor>
-      <director>Bryce McGuire</director>
-    </credits>
-    <date>2024</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p24952036_v_h10_ai.jpg?w=960&amp;h=540"/>
-    <previously-shown/>  <rating system="Motion Picture Association">
-      <value>PG-13</value>
-    </rating>
-    <rating system="Alberta's Film Classification Board">
-      <value>14A</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating>
-    <rating system="Maritime Film Classification Board">
-      <value>14</value>
-    </rating>
-    <rating system="Consejo de Calificación Cinematográfica">
-      <value>14</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Medierådet">
-      <value>15</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-12</value>
-    </rating>
-    <rating system="映倫">
-      <value>G</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-    <rating system="Statens medieråd">
-      <value>Från 15 år</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="영상물등급위원회">
-      <value>12+</value>
-    </rating>
-    <rating system="Central Board of Film Certification">
-      <value>UA</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <star-rating system="TMS">
-      <value>3.0/10</value>
     </star-rating>
   </programme>
 <programme channel="Syfy.HD.us2" start="20261009160000 +0000" stop="20261009180000 +0000">
@@ -28331,62 +28054,85 @@
       <value>12</value>
     </rating>
   </programme>
-<programme channel="TNT.HD.(Pacific).us2" start="20261009150000 +0000" stop="20261009160000 +0000">
-    <title lang="en">FBI</title>
-    <sub-title lang="en">Remorse</sub-title>
-    <desc lang="en">After the president of the NY Fed is gunned down trying to help a young woman in peril, the team races to find the killer and the missing woman.</desc>
+<programme channel="Syfy.HD.us2" start="20261010153000 +0000" stop="20261010180000 +0000">
+    <title lang="en">Con Air</title>
+    <desc lang="en">Just-paroled army ranger Cameron Poe (Nicolas Cage) is headed back to his wife (Monica Potter), but must fly home aboard a prison transport flight dubbed "Jailbird" with some of the worst criminals living. Along with Diamond Dog (Ving Rhames) and Baby-O (Mykelti Williamson), genius serial killer Cyrus "The Virus" Grissom (John Malkovich) unleashes a violent escape plot in mid-flight. Secretly working with U.S. Marshall Vince Larkin (John Cusack), Poe tries to foil Grissom's plan.</desc>
     <credits>
-      <actor>Missy Peregrym</actor>
-      <actor>Zeeko Zaki</actor>
-      <actor>Jeremy Sisto</actor>
-      <director>Carlos Bernard</director>
+      <actor>Nicolas Cage</actor>
+      <actor>John Cusack</actor>
+      <actor>John Malkovich</actor>
+      <director>Simon West</director>
     </credits>
-    <date>2024</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
+    <date>1997</date>
+    <category lang="en">Movie</category>
     <category lang="en">Action</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p15528073_b_h8_bf.jpg?w=960&amp;h=540"/>
-    <episode-num system="onscreen">S6 E2</episode-num>
-    <previously-shown/>  <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+    <icon src="http://dtil.tmsimg.com/assets/p19439_v_h8_ac.jpg?w=960&amp;h=540"/>
+    <previously-shown/>  <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>18</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>R</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>18</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>16</value>
     </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
     </rating>
     <rating system="Australian Classification Board">
       <value>MA 15+</value>
     </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating>
-    <rating system="Consejo Nacional de Televisión">
-      <value>R</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
     <rating system="Medietilsynet">
       <value>15 år</value>
     </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="Film &amp; Publication Board">
+      <value>18</value>
+    </rating>
+    <rating system="Statens medieråd">
+      <value>Från 15 år</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="映倫">
+      <value>G</value>
+    </rating>
+    <rating system="Medierådet">
+      <value>15</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Alberta's Film Classification Board">
+      <value>14A</value>
+    </rating>
+    <rating system="Central Board of Film Certification">
+      <value>A</value>
+    </rating>
+    <star-rating system="TMS">
+      <value>5.0/10</value>
+    </star-rating>
   </programme>
 <programme channel="TNT.HD.(Pacific).us2" start="20261009160000 +0000" stop="20261009170000 +0000">
     <title lang="en">FBI</title>
@@ -29413,62 +29159,23 @@
       <value>14+</value>
     </rating>
   </programme>
-<programme channel="TNT.HD.us2" start="20261009150000 +0000" stop="20261009160000 +0000">
-    <title lang="en">FBI</title>
-    <sub-title lang="en">Sacrifice</sub-title>
-    <desc lang="en">When the director of a Brooklyn migrant center is abducted and held hostage along with his wife, the team must work quickly to meet the demands of their kidnapper; Maggie picks Jessica's brain about motherhood.</desc>
-    <credits>
-      <actor>Missy Peregrym</actor>
-      <actor>Zeeko Zaki</actor>
-      <actor>Jeremy Sisto</actor>
-      <director>Laura Belsey</director>
-    </credits>
-    <date>2024</date>
+<programme channel="TNT.HD.(Pacific).us2" start="20261010153000 +0000" stop="20261010160000 +0000">
+    <title lang="en">Live: Big 12 Football Pregame</title>
+    <desc lang="en">Champ Bailey, Takeo Spikes, Victor Cruz and Adam Lefkoe preview the Big 12 football game of the week.</desc>
+    <date>2026</date>
     <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Action</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p15528073_b_h8_bf.jpg?w=960&amp;h=540"/>
-    <episode-num system="onscreen">S6 E5</episode-num>
-    <previously-shown/>  <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating>
-    <rating system="Consejo Nacional de Televisión">
-      <value>R</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
+    <category lang="en">Football</category>
+    <icon src="http://dtil.tmsimg.com/assets/p31065371_b_h8_ac.jpg?w=960&amp;h=540"/>
+    <episode-num system="onscreen">E6</episode-num>
+    <premiere lang="en"/>
+  </programme>
+<programme channel="TNT.HD.(Pacific).us2" start="20261010160000 +0000" stop="20261010193000 +0000">
+    <title lang="en">Live: College Football</title>
+    <desc lang="en">From Milan Puskar Stadium in Morgantown, W.Va.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0036QGCN.jpg?w=960&amp;h=540"/>
+    <premiere lang="en"/>
   </programme>
 <programme channel="TNT.HD.us2" start="20261009160000 +0000" stop="20261009170000 +0000">
     <title lang="en">FBI</title>
@@ -30486,27 +30193,23 @@
       <value>14+</value>
     </rating>
   </programme>
-<programme channel="truTV.HD.us2" start="20261009150000 +0000" stop="20261009160000 +0000">
-    <title lang="en">World's Dumbest ...</title>
-    <sub-title lang="en">World's Smartest Inventions 5</sub-title>
-    <desc lang="en">Questionably brilliant innovations in portable toilets, beer finding technology, weapon storage, and wigs for newborns.</desc>
-    <credits>
-      <actor>Chip Bolcik</actor>
-    </credits>
-    <date>2011</date>
+<programme channel="TNT.HD.us2" start="20261010153000 +0000" stop="20261010160000 +0000">
+    <title lang="en">Live: Big 12 Football Pregame</title>
+    <desc lang="en">Champ Bailey, Takeo Spikes, Victor Cruz and Adam Lefkoe preview the Big 12 football game of the week.</desc>
+    <date>2026</date>
     <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <icon src="http://dtil.tmsimg.com/assets/p196688_b_h10_ab.jpg?w=960&amp;h=540"/>
-    <episode-num system="onscreen">S11 E12</episode-num>
-    <previously-shown/>  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
+    <category lang="en">Football</category>
+    <icon src="http://dtil.tmsimg.com/assets/p31065371_b_h8_ac.jpg?w=960&amp;h=540"/>
+    <episode-num system="onscreen">E6</episode-num>
+    <premiere lang="en"/>
+  </programme>
+<programme channel="TNT.HD.us2" start="20261010160000 +0000" stop="20261010193000 +0000">
+    <title lang="en">Live: College Football</title>
+    <desc lang="en">From Milan Puskar Stadium in Morgantown, W.Va.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0036QGCN.jpg?w=960&amp;h=540"/>
+    <premiere lang="en"/>
   </programme>
 <programme channel="truTV.HD.us2" start="20261009160000 +0000" stop="20261009163000 +0000">
     <title lang="en">Impractical Jokers</title>
@@ -31824,99 +31527,114 @@
       <value>12</value>
     </rating>
   </programme>
-<programme channel="TBS.HD.(Pacific).us2" start="20261009150000 +0000" stop="20261009153000 +0000">
-    <title lang="en">Young Sheldon</title>
-    <sub-title lang="en">The Wild and Woolly World of Nonlinear Dynamics</sub-title>
-    <desc lang="en">Missy's first disappointment in love triggers a series of events that leads the Cooper family to the edge of an abyss.</desc>
+<programme channel="truTV.HD.us2" start="20261010153000 +0000" stop="20261010160000 +0000">
+    <title lang="en">American Dad!</title>
+    <sub-title lang="en">Demolition Daddy</sub-title>
+    <desc lang="en">Thanks to Roger, Snot discovers his dead father was a demolition derby driver; Hayley takes Steve on a road trip so he can learn to drive.</desc>
     <credits>
-      <actor>Iain Armitage</actor>
-      <actor>Zoe Perry</actor>
-      <actor>Lance Barber</actor>
-      <director>Alex Reid</director>
+      <actor>Seth MacFarlane</actor>
+      <actor>Wendy Schaal</actor>
+      <actor>Rachael MacFarlane</actor>
     </credits>
-    <date>2021</date>
+    <date>2019</date>
     <category lang="en">Series</category>
+    <category lang="en">Animated</category>
     <category lang="en">Sitcom</category>
-    <icon src="http://dtil.tmsimg.com/assets/p13923677_b_h8_ac.jpg?w=960&amp;h=540"/>
-    <episode-num system="onscreen">S4 E18</episode-num>
-    <previously-shown/>  <rating system="Australian Classification Board">
+    <icon src="http://dtil.tmsimg.com/assets/p185040_b_h8_aw.jpg?w=960&amp;h=540"/>
+    <episode-num system="onscreen">S14 E15</episode-num>
+    <previously-shown/>  <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Australian Classification Board">
       <value>M 15+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
     </rating>
     <rating system="Freiwillige Selbstkontrolle Fernsehen">
       <value>12</value>
     </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating>
+    <rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
     </rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
+      <value>14</value>
     </rating>
     <rating system="USA Parental Rating">
-      <value>TVPG</value>
+      <value>TV14</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
     </rating>
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
+      <value>16</value>
     </rating>
     <rating system="방송통신심의위원회">
-      <value>12</value>
+      <value>19</value>
     </rating>
-    <rating system="영상물등급위원회">
-      <value>12+</value>
+    <rating system="Kijkwijzer">
+      <value>12</value>
     </rating>
   </programme>
-<programme channel="TBS.HD.(Pacific).us2" start="20261009153000 +0000" stop="20261009160000 +0000">
-    <title lang="en">Young Sheldon</title>
-    <sub-title lang="en">One Bad Night and Chaos of Selfish Desires</sub-title>
-    <desc lang="en">Sheldon and Missy both run away from home together; Mary gets some upsetting news about her husband, George.</desc>
+<programme channel="truTV.HD.us2" start="20261010160000 +0000" stop="20261010163000 +0000">
+    <title lang="en">American Dad!</title>
+    <sub-title lang="en">Pride Before the Fail</sub-title>
+    <desc lang="en">Roger tries to force Hayley into graduating from community college so he can move into her room; Klaus repairs Francine's car.</desc>
     <credits>
-      <actor>Iain Armitage</actor>
-      <actor>Zoe Perry</actor>
-      <actor>Lance Barber</actor>
-      <director>Alex Reid</director>
+      <actor>Seth MacFarlane</actor>
+      <actor>Wendy Schaal</actor>
+      <actor>Rachael MacFarlane</actor>
     </credits>
-    <date>2021</date>
+    <date>2019</date>
     <category lang="en">Series</category>
+    <category lang="en">Animated</category>
     <category lang="en">Sitcom</category>
-    <icon src="http://dtil.tmsimg.com/assets/p13923677_b_h8_ac.jpg?w=960&amp;h=540"/>
-    <episode-num system="onscreen">S5 E1</episode-num>
-    <previously-shown/>  <rating system="Australian Classification Board">
+    <icon src="http://dtil.tmsimg.com/assets/p185040_b_h8_aw.jpg?w=960&amp;h=540"/>
+    <episode-num system="onscreen">S14 E16</episode-num>
+    <previously-shown/>  <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Australian Classification Board">
       <value>M 15+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
     </rating>
     <rating system="Freiwillige Selbstkontrolle Fernsehen">
       <value>12</value>
     </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating>
+    <rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
     </rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
+      <value>14</value>
     </rating>
     <rating system="USA Parental Rating">
-      <value>TVPG</value>
+      <value>TV14</value>
     </rating>
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>12</value>
     </rating>
-    <rating system="방송통신심의위원회">
-      <value>12</value>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
     </rating>
-    <rating system="영상물등급위원회">
-      <value>12+</value>
+    <rating system="방송통신심의위원회">
+      <value>19</value>
     </rating>
     <rating system="Kijkwijzer">
-      <value>AL</value>
+      <value>12</value>
     </rating>
   </programme>
 <programme channel="TBS.HD.(Pacific).us2" start="20261009160000 +0000" stop="20261009163000 +0000">
@@ -33626,25 +33344,22 @@
       <value>12</value>
     </rating>
   </programme>
-<programme channel="TBS.HD.us2" start="20261009150000 +0000" stop="20261009153000 +0000">
+<programme channel="TBS.HD.(Pacific).us2" start="20261010153000 +0000" stop="20261010160000 +0000">
     <title lang="en">Friends</title>
-    <sub-title lang="en">The One With Ross's Denial</sub-title>
-    <desc lang="en">Ross has Rachel on his mind when he gets between feuding Monica and Chandler; Joey advertises for a specific roommate.</desc>
+    <sub-title lang="en">The One Where Ross Dates a Student</sub-title>
+    <desc lang="en">Ross toys with dating one of his students; a curling iron starts a fire in Phoebe and Rachel's apartment.</desc>
     <credits>
       <actor>Jennifer Aniston</actor>
       <actor>Courteney Cox Arquette</actor>
       <actor>Lisa Kudrow</actor>
     </credits>
-    <date>1999</date>
+    <date>2000</date>
     <category lang="en">Series</category>
     <category lang="en">Sitcom</category>
     <icon src="http://dtil.tmsimg.com/assets/p7892601_b_h10_av.jpg?w=960&amp;h=540"/>
-    <episode-num system="onscreen">S6 E3</episode-num>
+    <episode-num system="onscreen">S6 E18</episode-num>
     <previously-shown/>  <rating system="USA Parental Rating">
       <value>TVPG</value>
-    </rating>
-    <rating system="British Board of Film Classification">
-      <value>12</value>
     </rating>
     <rating system="Freiwillige Selbstkontrolle Fernsehen">
       <value>6</value>
@@ -33677,25 +33392,22 @@
       <value>12</value>
     </rating>
   </programme>
-<programme channel="TBS.HD.us2" start="20261009153000 +0000" stop="20261009160000 +0000">
+<programme channel="TBS.HD.(Pacific).us2" start="20261010160000 +0000" stop="20261010163000 +0000">
     <title lang="en">Friends</title>
-    <sub-title lang="en">The One Where Joey Loses His Insurance</sub-title>
-    <desc lang="en">A hernia-bearing Joey tries to pick up a quick acting gig; Rachel discovers that Ross never had their marriage annulled.</desc>
+    <sub-title lang="en">The One With Joey's Fridge</sub-title>
+    <desc lang="en">Monica and Phoebe compete to find Rachel a date; Joey tries to con his friends into buying him a new refrigerator.</desc>
     <credits>
       <actor>Jennifer Aniston</actor>
       <actor>Courteney Cox Arquette</actor>
       <actor>Lisa Kudrow</actor>
     </credits>
-    <date>1999</date>
+    <date>2000</date>
     <category lang="en">Series</category>
     <category lang="en">Sitcom</category>
     <icon src="http://dtil.tmsimg.com/assets/p7892601_b_h10_av.jpg?w=960&amp;h=540"/>
-    <episode-num system="onscreen">S6 E4</episode-num>
+    <episode-num system="onscreen">S6 E19</episode-num>
     <previously-shown/>  <rating system="USA Parental Rating">
       <value>TVPG</value>
-    </rating>
-    <rating system="British Board of Film Classification">
-      <value>12</value>
     </rating>
     <rating system="Freiwillige Selbstkontrolle Fernsehen">
       <value>6</value>
@@ -35381,85 +35093,101 @@
       <value>12</value>
     </rating>
   </programme>
-<programme channel="FX.HD.us2" start="20261009133000 +0000" stop="20261009160000 +0000">
-    <title lang="en">Predator 2</title>
-    <desc lang="en">Los Angeles is enduring a heat wave and a crime wave, so the pressure on police officer Michael Harrigan to solve a strange string of murders is mounting. Harrigan thinks the culprit can be found among the warring gangs and drug cartels, but FBI Special Agent Peter Keyes knows the horrible truth: Their killer is a fearsome extraterrestrial with keen hunting abilities that include superior night vision and the power to make itself invisible.</desc>
+<programme channel="TBS.HD.us2" start="20261010153000 +0000" stop="20261010160000 +0000">
+    <title lang="en">Friends</title>
+    <sub-title lang="en">The One Where Ross Dates a Student</sub-title>
+    <desc lang="en">Ross toys with dating one of his students; a curling iron starts a fire in Phoebe and Rachel's apartment.</desc>
     <credits>
-      <actor>Danny Glover</actor>
-      <actor>Gary Busey</actor>
-      <actor>Ruben Blades</actor>
-      <director>Stephen Hopkins</director>
+      <actor>Jennifer Aniston</actor>
+      <actor>Courteney Cox Arquette</actor>
+      <actor>Lisa Kudrow</actor>
     </credits>
-    <date>1990</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Science fiction</category>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Horror</category>
-    <icon src="http://dtil.tmsimg.com/assets/p12894_v_h10_ai.jpg?w=960&amp;h=540"/>
-    <previously-shown/>  <rating system="Motion Picture Association">
-      <value>R</value>
+    <date>2000</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p7892601_b_h10_av.jpg?w=960&amp;h=540"/>
+    <episode-num system="onscreen">S6 E18</episode-num>
+    <previously-shown/>  <rating system="USA Parental Rating">
+      <value>TVPG</value>
     </rating>
-    <rating system="British Board of Film Classification">
-      <value>18</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="Film &amp; Publication Board">
-      <value>16</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>18 år</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>18</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Ministero della Cultura">
-      <value>VM14</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>R 18+</value>
-    </rating>
-    <rating system="Ontario Film Authority">
-      <value>R</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-12</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>6</value>
     </rating>
     <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
+      <value>S</value>
     </rating>
-    <rating system="Statens medieråd">
-      <value>Från 15 år</value>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
     </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>C</value>
-    </rating>
-    <rating system="映倫">
-      <value>G</value>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
     </rating>
     <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
+      <value>12</value>
     </rating>
-    <rating system="영상물등급위원회">
-      <value>18+</value>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
     </rating>
-    <rating system="Central Board of Film Certification">
-      <value>UA</value>
+    <rating system="Medierådet">
+      <value>A</value>
     </rating>
-    <star-rating system="TMS">
-      <value>4.0/10</value>
-    </star-rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>7 år</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
+  </programme>
+<programme channel="TBS.HD.us2" start="20261010160000 +0000" stop="20261010163000 +0000">
+    <title lang="en">Friends</title>
+    <sub-title lang="en">The One With Joey's Fridge</sub-title>
+    <desc lang="en">Monica and Phoebe compete to find Rachel a date; Joey tries to con his friends into buying him a new refrigerator.</desc>
+    <credits>
+      <actor>Jennifer Aniston</actor>
+      <actor>Courteney Cox Arquette</actor>
+      <actor>Lisa Kudrow</actor>
+    </credits>
+    <date>2000</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p7892601_b_h10_av.jpg?w=960&amp;h=540"/>
+    <episode-num system="onscreen">S6 E19</episode-num>
+    <previously-shown/>  <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>6</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating>
+    <rating system="Medierådet">
+      <value>A</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>7 år</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
   </programme>
 <programme channel="FX.HD.us2" start="20261009160000 +0000" stop="20261009190000 +0000">
     <title lang="en">Jerry Maguire</title>
@@ -36395,38 +36123,103 @@
       <value>4.0/10</value>
     </star-rating>
   </programme>
-<programme channel="Comedy.Central.HD.us2" start="20261009151500 +0000" stop="20261009155000 +0000">
-    <title lang="en">Mike Judge's Beavis and Butt-Head</title>
-    <sub-title lang="en">Braces &amp; Heart Attack</sub-title>
-    <desc lang="en">Butt-Head loses his braces and realizes he's beautiful; middle-aged Butt-Head suffers a heart attack, and it's up to Beavis to save him.</desc>
+<programme channel="FX.HD.us2" start="20261010154000 +0000" stop="20261010181500 +0000">
+    <title lang="en">Jumanji: The Next Level</title>
+    <desc lang="en">When Spencer goes back into the fantastical world of Jumanji, pals Martha, Fridge and Bethany re-enter the game to bring him home. But the game is now broken -- and fighting back. Everything the friends know about Jumanji is about to change, as they soon discover there's more obstacles and more danger to overcome.</desc>
     <credits>
-      <actor>Mike Judge</actor>
-      <director>Mike Judge</director>
+      <actor>Dwayne Johnson</actor>
+      <actor>Kevin Hart</actor>
+      <actor>Jack Black</actor>
+      <director>Jake Kasdan</director>
     </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Animated</category>
+    <date>2019</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Action</category>
     <category lang="en">Comedy</category>
-    <icon src="http://dtil.tmsimg.com/assets/p30939042_b_h8_ab.jpg?w=960&amp;h=540"/>
-    <episode-num system="onscreen">S3 E1</episode-num>
-    <previously-shown/>  <rating system="USA Parental Rating">
-      <value>TV14</value>
+    <category lang="en">Fantasy</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15446613_v_h10_af.jpg?w=960&amp;h=540"/>
+    <previously-shown/>  <rating system="Motion Picture Association">
+      <value>PG-13</value>
     </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
     </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
+    <rating system="Statens medieråd">
+      <value>Från 11 år</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>12A</value>
+    </rating>
+    <rating system="Alberta's Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Saskatchewan Film and Video Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="B.C. Film Classification Office">
+      <value>PG</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating>
+    <rating system="Manitoba Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Maritime Film Classification Board">
+      <value>PG</value>
     </rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>12</value>
     </rating>
-    <rating system="Kijkwijzer">
-      <value>12</value>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
     </rating>
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>12</value>
     </rating>
+    <rating system="Consejo de Calificación Cinematográfica">
+      <value>TE</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>12</value>
+    </rating>
+    <rating system="映倫">
+      <value>G</value>
+    </rating>
+    <rating system="Medierådet">
+      <value>11</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>12+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="Irish Film Classification Office">
+      <value>12A</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+    <rating system="Central Board of Film Certification">
+      <value>UA</value>
+    </rating>
+    <rating system="Consejo Nacional de Televisión">
+      <value>I12</value>
+    </rating>
+    <star-rating system="TMS">
+      <value>5.0/10</value>
+    </star-rating>
   </programme>
 <programme channel="Comedy.Central.HD.us2" start="20261009155000 +0000" stop="20261009162500 +0000">
     <title lang="en">Mike Judge's Beavis and Butt-Head</title>
@@ -38454,6 +38247,90 @@
       <value>7 år</value>
     </rating>
   </programme>
+<programme channel="Comedy.Central.HD.us2" start="20261010152400 +0000" stop="20261010160000 +0000">
+    <title lang="en">Parks and Recreation</title>
+    <sub-title lang="en">Smallest Park</sub-title>
+    <desc lang="en">Leslie uses her new tourist attraction to spend more time with Ben; Ron and April encourage Andy to further his education; Chris assigns a logo redesign to Tom and Jerry.</desc>
+    <credits>
+      <actor>Amy Poehler</actor>
+      <actor>Rashida Jones</actor>
+      <actor>Aziz Ansari</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p194833_b_h10_at.jpg?w=960&amp;h=540"/>
+    <episode-num system="onscreen">S4 E8</episode-num>
+    <previously-shown/>  <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>6</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>10</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>PG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>7 år</value>
+    </rating>
+  </programme>
+<programme channel="Comedy.Central.HD.us2" start="20261010160000 +0000" stop="20261010163000 +0000">
+    <title lang="en">Parks and Recreation</title>
+    <sub-title lang="en">The Trial of Leslie Knope</sub-title>
+    <desc lang="en">Leslie and Ben defend themselves against Chris' ethics charges.</desc>
+    <credits>
+      <actor>Amy Poehler</actor>
+      <actor>Rashida Jones</actor>
+      <actor>Aziz Ansari</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p194833_b_h10_at.jpg?w=960&amp;h=540"/>
+    <episode-num system="onscreen">S4 E9</episode-num>
+    <previously-shown/>  <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>6</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>10</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>PG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>7 år</value>
+    </rating>
+  </programme>
 <programme channel="AMC.HD.us2" start="20261009150000 +0000" stop="20261009170000 +0000">
     <title lang="en">Friday the 13th -- A New Beginning</title>
     <desc lang="en">Years after Tommy Jarvis (John Shepherd) murdered hockey-masked serial killer Jason Voorhees, he resides in a mental hospital and struggles with the trauma of the experience. When Tommy moves to an isolated halfway house, he has nightmares about Jason's return, and soon one of the patients (Dominick Brascia) is killed. As the body count grows, Tommy begins to question his sanity and wonder if Jason has risen from the dead. But, to determine the killer's identity, Tommy will need to survive.</desc>
@@ -40137,79 +40014,6 @@
     </rating>
     <star-rating system="TMS">
       <value>4.0/10</value>
-    </star-rating>
-  </programme>
-<programme channel="FXX.HD.us2" start="20261009133000 +0000" stop="20261009160000 +0000">
-    <title lang="en">Ghostbusters II</title>
-    <desc lang="en">After saving New York City from a ghost attack, the Ghostbusters -- a team of spirit exterminators -- is disbanded for demolishing parts of the city during the battle. But when Ghostbuster Peter Venkman learns that spirits have taken an interest in his son, the men launch a rogue ghost-chasing mission. The quest quickly goes awry, landing them in court. But when the ghosts turn on the judge, he issues an order allowing the Ghostbusters to get back to work.</desc>
-    <credits>
-      <actor>Bill Murray</actor>
-      <actor>Dan Aykroyd</actor>
-      <actor>Sigourney Weaver</actor>
-      <director>Ivan Reitman</director>
-    </credits>
-    <date>1989</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Adventure</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11728_v_h10_ac.jpg?w=960&amp;h=540"/>
-    <previously-shown/>  <rating system="Motion Picture Association">
-      <value>PG</value>
-    </rating>
-    <rating system="British Board of Film Classification">
-      <value>PG</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>PG</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating>
-    <rating system="Ministero della Cultura">
-      <value>T</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-    <rating system="Ontario Film Authority">
-      <value>PG</value>
-    </rating>
-    <rating system="Statens medieråd">
-      <value>Från 11 år</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>A</value>
-    </rating>
-    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>6</value>
-    </rating>
-    <rating system="영상물등급위원회">
-      <value>All</value>
-    </rating>
-    <rating system="Alberta's Film Classification Board">
-      <value>PG</value>
-    </rating>
-    <star-rating system="TMS">
-      <value>5.0/10</value>
     </star-rating>
   </programme>
 <programme channel="FXX.HD.us2" start="20261009160000 +0000" stop="20261009190000 +0000">
@@ -42108,68 +41912,117 @@
       <value>15</value>
     </rating>
   </programme>
-<programme channel="WE.tv.HD.us2" start="20261009150000 +0000" stop="20261009160000 +0000">
-    <title lang="en">Criminal Minds</title>
-    <sub-title lang="en">In Heat</sub-title>
-    <desc lang="en">Rossi, Hotchner and their team go to Miami to catch a serial killer whose conflicted sexual identity fuels his crime spree; J.J. meets a former colleague who ends up being more than a friend.</desc>
+<programme channel="FXX.HD.us2" start="20261010153000 +0000" stop="20261010160000 +0000">
+    <title lang="en">The Simpsons</title>
+    <sub-title lang="en">Bart Stops to Smell the Roosevelts</sub-title>
+    <desc lang="en">When superintendent Chalmers is fired for taking Bart and his friends on an unauthorized field trip, the boys hold the school hostage until he is reinstated.</desc>
     <credits>
-      <actor>Joe Mantegna</actor>
-      <actor>Thomas Gibson</actor>
-      <actor>Paget Brewster</actor>
-      <director>John Gallagher</director>
+      <actor>Dan Castellaneta</actor>
+      <actor>Julie Kavner</actor>
+      <actor>Nancy Cartwright</actor>
+      <director>Steven Dean Moore</director>
     </credits>
-    <date>2008</date>
+    <date>2011</date>
     <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Drama</category>
-    <icon src="http://dtil.tmsimg.com/assets/p185123_b_h8_ak.jpg?w=960&amp;h=540"/>
-    <episode-num system="onscreen">S3 E17</episode-num>
+    <category lang="en">Animated</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p183872_b_h8_ap.jpg?w=960&amp;h=540"/>
+    <episode-num system="onscreen">S23 E2</episode-num>
     <previously-shown/>  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>16</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
+      <value>TVPG</value>
     </rating>
     <rating system="Film &amp; Publication Board">
-      <value>16</value>
+      <value>13</value>
     </rating>
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Kijkwijzer">
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
       <value>12</value>
     </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
     </rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
+      <value>12</value>
     </rating>
     <rating system="Dirección General de Radio, Televisión y Cinematografía">
       <value>B</value>
     </rating>
-    <rating system="Consejo Nacional de Televisión">
-      <value>R</value>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>6</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
     </rating>
     <rating system="Arcom">
       <value>-10</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+  </programme>
+<programme channel="FXX.HD.us2" start="20261010160000 +0000" stop="20261010163000 +0000">
+    <title lang="en">The Simpsons</title>
+    <sub-title lang="en">Treehouse of Horror XXII</sub-title>
+    <desc lang="en">A boulder traps Homer's arm when he takes a drive through a canyon; a spider bite paralyzes Homer; Flanders becomes a vigilante by night; Bart and Milhouse travel to a distant planet to obtain an extract.</desc>
+    <credits>
+      <actor>Dan Castellaneta</actor>
+      <actor>Julie Kavner</actor>
+      <actor>Nancy Cartwright</actor>
+      <director>Matthew Faughnan</director>
+    </credits>
+    <date>2011</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Holiday</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p183872_b_h8_ap.jpg?w=960&amp;h=540"/>
+    <episode-num system="onscreen">S23 E3</episode-num>
+    <previously-shown/>  <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>6</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
     </rating>
   </programme>
 <programme channel="WE.tv.HD.us2" start="20261009160000 +0000" stop="20261009181600 +0000">
@@ -42936,39 +42789,62 @@
       <value>A16</value>
     </rating>
   </programme>
-<programme channel="A.and.E.HD.East.us2" start="20261009150000 +0000" stop="20261009153000 +0000">
-    <title lang="en">Fugitives Caught on Tape</title>
-    <sub-title lang="en">Episode 16</sub-title>
-    <desc lang="en">A deputy's K-9 partner follows a shooting suspect by jumping off a 40-foot-high bridge; a fugitive in a stolen pick-up truck throws a sledgehammer into the path of pursuing deputies.</desc>
-    <date>2025</date>
+<programme channel="WE.tv.HD.us2" start="20261010160000 +0000" stop="20261010170000 +0000">
+    <title lang="en">NCIS</title>
+    <sub-title lang="en">Engaged, Part 1</sub-title>
+    <desc lang="en">The team finds a problem with the DNA samples collected while investigating the crash of a military plane that was transporting caskets.</desc>
+    <credits>
+      <actor>Mark Harmon</actor>
+      <actor>Michael Weatherly</actor>
+      <actor>Cote de Pablo</actor>
+      <director>James Whitmore</director>
+    </credits>
+    <date>2011</date>
     <category lang="en">Series</category>
-    <category lang="en">Crime</category>
-    <icon src="http://dtil.tmsimg.com/assets/p28275951_b_h8_ac.jpg?w=960&amp;h=540"/>
-    <episode-num system="onscreen">S2 E16</episode-num>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Mystery</category>
+    <icon src="http://dtil.tmsimg.com/assets/p184930_b_h8_aw.jpg?w=960&amp;h=540"/>
+    <episode-num system="onscreen">S9 E8 P1/2</episode-num>
     <previously-shown/>  <rating system="USA Parental Rating">
-      <value>TV14</value>
+      <value>TVPG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
     </rating>
     <rating system="Canadian Parental Rating">
-      <value>14+</value>
+      <value>PG</value>
     </rating>
-  </programme>
-<programme channel="A.and.E.HD.East.us2" start="20261009153000 +0000" stop="20261009160000 +0000">
-    <title lang="en">Fugitives Caught on Tape</title>
-    <sub-title lang="en">Episode 16</sub-title>
-    <desc lang="en">Police exchange gunfire in the streets of Tampa with a man wanted for stabbing his wife; a State Trooper performs a PIT Maneuver on a fleeing hit-and-run suspect; police get in a chase with two men wanted for armed carjacking.</desc>
-    <date>2024</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime</category>
-    <icon src="http://dtil.tmsimg.com/assets/p28275951_b_h8_ac.jpg?w=960&amp;h=540"/>
-    <episode-num system="onscreen">S1 E16</episode-num>
-    <previously-shown/>  <rating system="USA Parental Rating">
-      <value>TV14</value>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
     </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
     </rating>
     <rating system="Kijkwijzer">
       <value>12</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
     </rating>
   </programme>
 <programme channel="A.and.E.HD.East.us2" start="20261009160000 +0000" stop="20261009163000 +0000">
@@ -43897,51 +43773,22 @@
       <value>15</value>
     </rating>
   </programme>
-<programme channel="POP.HD.us2" start="20261009150000 +0000" stop="20261009160000 +0000">
-    <title lang="en">Law &amp; Order</title>
-    <sub-title lang="en">America, Inc</sub-title>
-    <desc lang="en">Detectives believe vengeance is the motive for the shooting of a private military contractor, found dead in his hotel room.</desc>
-    <credits>
-      <actor>Dennis Farina</actor>
-      <actor>Jesse L. Martin</actor>
-      <actor>S. Epatha Merkerson</actor>
-    </credits>
-    <date>2006</date>
+<programme channel="A.and.E.HD.East.us2" start="20261010160000 +0000" stop="20261010163000 +0000">
+    <title lang="en">Betting on Beloit</title>
+    <sub-title lang="en">What Did You Do?</sub-title>
+    <desc lang="en">Park Avenue is Konya's dream purchase, but it's quickly becoming Pete's renovation nightmare. Shocking issues uncovered during demo threaten to derail the timeline and hit the already tight budget. With multiple houses on the market and this project hitting roadblocks, Konya must stay focused on the mission.</desc>
+    <date>2026</date>
     <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dtil.tmsimg.com/assets/p183983_b_h8_cg.jpg?w=960&amp;h=540"/>
-    <episode-num system="onscreen">S16 E17</episode-num>
-    <previously-shown/>  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-18</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
+    <category lang="en">Reality</category>
+    <category lang="en">Home improvement</category>
+    <icon src="http://dtil.tmsimg.com/assets/p30473468_b_h8_ab.jpg?w=960&amp;h=540"/>
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <premiere lang="en"/>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
     </rating>
     <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-    <rating system="Consejo Nacional de Televisión">
-      <value>R</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
+      <value>PG</value>
     </rating>
   </programme>
 <programme channel="POP.HD.us2" start="20261009160000 +0000" stop="20261009170000 +0000">
@@ -45255,73 +45102,85 @@
       <value>15 år</value>
     </rating>
   </programme>
-<programme channel="Boomerang.us2" start="20261009150000 +0000" stop="20261009153000 +0000">
-    <title lang="en">What's New Scooby-Doo?</title>
-    <sub-title lang="en">E-Scream</sub-title>
-    <desc lang="en">The gang has an encounter with some video game characters.</desc>
+<programme channel="POP.HD.us2" start="20261010160000 +0000" stop="20261010180000 +0000">
+    <title lang="en">Colombiana</title>
+    <desc lang="en">In 1992 Bogotá, a little girl watches crime lord Don Luis and his henchman Marco murder her parents. Fifteen years later, the now-grown Cataleya, who is named for a Colombian orchid, works as a contract killer for her Chicago-based uncle. Leaving a lipstick drawing of her namesake on every victim, Cataleya carries out her assignments with efficiency and dreams of avenging her family.</desc>
     <credits>
-      <actor>Frank Welker</actor>
-      <actor>Casey Kasem</actor>
-      <actor>Mindy Cohn</actor>
+      <actor>Zoe Saldana</actor>
+      <actor>Jordi Mollà</actor>
+      <actor>Lennie James</actor>
+      <director>Olivier Megaton</director>
     </credits>
-    <date>2006</date>
-    <category lang="en">Series</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
+    <date>2011</date>
+    <category lang="en">Movie</category>
     <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Comedy</category>
-    <icon src="http://dtil.tmsimg.com/assets/p186155_b_h8_ax.jpg?w=960&amp;h=540"/>
-    <episode-num system="onscreen">S3 E14</episode-num>
-    <previously-shown/>  <rating system="USA Parental Rating">
-      <value>TVY</value>
+    <category lang="en">Thriller</category>
+    <category lang="en">Drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p8609562_v_h10_as.jpg?w=960&amp;h=540"/>
+    <premiere lang="en"/>
+    <rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating>
+    <rating system="Alberta's Film Classification Board">
+      <value>14A</value>
+    </rating>
+    <rating system="Maritime Film Classification Board">
+      <value>14</value>
+    </rating>
+    <rating system="Manitoba Film Classification Board">
+      <value>14A</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>14A</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
     </rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>C</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>G</value>
+      <value>14</value>
     </rating>
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
+      <value>16</value>
     </rating>
-  </programme>
-<programme channel="Boomerang.us2" start="20261009153000 +0000" stop="20261009160000 +0000">
-    <title lang="en">Codename: Kids Next Door</title>
-    <sub-title lang="en">Operation B.U.T.T.; Operation T.R.A.I.N.I.N.G</sub-title>
-    <desc lang="en">The gang forces Numbah One to take a day off; Numbah Two's younger brother goes through training simulations.</desc>
-    <credits>
-      <actor>Dee Bradley Baker</actor>
-      <actor>Ben Diskin</actor>
-      <actor>Lauren Tom</actor>
-    </credits>
-    <date>2004</date>
-    <category lang="en">Series</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Adventure</category>
-    <icon src="http://dtil.tmsimg.com/assets/p9129177_b_h8_aa.jpg?w=960&amp;h=540"/>
-    <episode-num system="onscreen">S3 E5</episode-num>
-    <previously-shown/>  <rating system="USA Parental Rating">
-      <value>TVY7</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>0</value>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
     </rating>
     <rating system="Australian Classification Board">
-      <value>G</value>
+      <value>MA 15+</value>
     </rating>
-    <rating system="Canadian Parental Rating">
-      <value>C8</value>
+    <rating system="Kijkwijzer">
+      <value>16</value>
     </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
+    <rating system="Film &amp; Publication Board">
+      <value>16</value>
     </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
+    <rating system="映倫">
+      <value>PG12</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <star-rating system="TMS">
+      <value>4.0/10</value>
+    </star-rating>
   </programme>
 <programme channel="Boomerang.us2" start="20261009160000 +0000" stop="20261009163000 +0000">
     <title lang="en">Codename: Kids Next Door</title>
@@ -48429,35 +48288,70 @@
       <value>6</value>
     </rating>
   </programme>
-<programme channel="TV.Land.HD.us2" start="20261009150000 +0000" stop="20261009160000 +0000">
-    <title lang="en">Gunsmoke</title>
-    <sub-title lang="en">Blood Money</sub-title>
-    <desc lang="en">The father of a young gunfighter tries to end his son's career by wounding his gun hand.</desc>
+<programme channel="Boomerang.us2" start="20261010153000 +0000" stop="20261010160000 +0000">
+    <title lang="en">Codename: Kids Next Door</title>
+    <sub-title lang="en">Operation T.R.I.C.K.Y.; Operation U.N.C.O.O.L</sub-title>
+    <desc lang="en">Numbuh Four sets off on a Halloween quest for candy; Numbuh Two convinces the KND to journey to the Cyprus Treehouse in the Bayou to rescue Numbuh 78.</desc>
     <credits>
-      <actor>James Arness</actor>
-      <actor>Milburn Stone</actor>
-      <actor>Amanda Blake</actor>
+      <actor>Dee Bradley Baker</actor>
+      <actor>Ben Diskin</actor>
+      <actor>Lauren Tom</actor>
     </credits>
-    <date>1968</date>
+    <date>2004</date>
     <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Western</category>
-    <icon src="http://dtil.tmsimg.com/assets/p7892772_b_h10_aa.jpg?w=960&amp;h=540"/>
-    <episode-num system="onscreen">S13 E19</episode-num>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Adventure</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9129177_b_h8_aa.jpg?w=960&amp;h=540"/>
+    <episode-num system="onscreen">S3 E11</episode-num>
     <previously-shown/>  <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
+      <value>TVY7</value>
     </rating>
     <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
+      <value>0</value>
     </rating>
-    <rating system="Régie du cinéma">
+    <rating system="Australian Classification Board">
       <value>G</value>
     </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
+    <rating system="Canadian Parental Rating">
+      <value>C8</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating>
+  </programme>
+<programme channel="Boomerang.us2" start="20261010160000 +0000" stop="20261010163000 +0000">
+    <title lang="en">Codename: Kids Next Door</title>
+    <sub-title lang="en">Operation S.P.R.O.U.T.; Operation H.O.U.N.D</sub-title>
+    <desc lang="en">Numbah Four accidentally eats a brussels sprout; Numbah Five claims a dog has eaten her homework.</desc>
+    <credits>
+      <actor>Dee Bradley Baker</actor>
+      <actor>Ben Diskin</actor>
+      <actor>Lauren Tom</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Adventure</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9129177_b_h8_aa.jpg?w=960&amp;h=540"/>
+    <episode-num system="onscreen">S3 E13</episode-num>
+    <previously-shown/>  <rating system="USA Parental Rating">
+      <value>TVY7</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>0</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>C8</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
     </rating>
   </programme>
 <programme channel="TV.Land.HD.us2" start="20261009160000 +0000" stop="20261009170000 +0000">
@@ -49815,6 +49709,62 @@
       <value>PG</value>
     </rating>
   </programme>
+<programme channel="TV.Land.HD.us2" start="20261010152400 +0000" stop="20261010160000 +0000">
+    <title lang="en">Roseanne</title>
+    <sub-title lang="en">Less Is More</sub-title>
+    <desc lang="en">Rosanne is suffering from persistent back pain and her doctor suggests a breast-reduction surgery; Rosanne informs Dan about it, who is shocked, but he takes his wife to the hospital; after the surgery, her breasts appear twice as large.</desc>
+    <credits>
+      <actor>Roseanne Arnold</actor>
+      <actor>John Goodman</actor>
+      <actor>Lecy Goranson</actor>
+      <director>Gail Mancuso</director>
+    </credits>
+    <date>1992</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p183903_b_h8_ac.jpg?w=960&amp;h=540"/>
+    <episode-num system="onscreen">S4 E16</episode-num>
+    <previously-shown/>  <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+  </programme>
+<programme channel="TV.Land.HD.us2" start="20261010160000 +0000" stop="20261010163600 +0000">
+    <title lang="en">Roseanne</title>
+    <sub-title lang="en">Breaking Up Is Hard to Do</sub-title>
+    <desc lang="en">Roseanne is overjoyed when Becky breaks up with Mark, but her long-awaited confrontation with him ends in surprise.</desc>
+    <credits>
+      <actor>Roseanne Arnold</actor>
+      <actor>John Goodman</actor>
+      <actor>Lecy Goranson</actor>
+      <director>Andrew D. Weyman</director>
+    </credits>
+    <date>1992</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p183903_b_h8_ac.jpg?w=960&amp;h=540"/>
+    <episode-num system="onscreen">S4 E17</episode-num>
+    <previously-shown/>  <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+  </programme>
 <programme channel="Freeform.HD.us2" start="20261009143000 +0000" stop="20261009170000 +0000">
     <title lang="en">Spider-Man</title>
     <desc lang="en">"Spider-Man" centers on student Peter Parker (Tobey Maguire) who, after being bitten by a genetically-altered spider, gains superhuman strength and the spider-like ability to cling to any surface. He vows to use his abilities to fight crime, coming to understand the words of his beloved Uncle Ben: "With great power comes great responsibility.".</desc>
@@ -50541,61 +50491,90 @@
       <value>U</value>
     </rating>
   </programme>
-<programme channel="CMT.HD.us2" start="20261009150000 +0000" stop="20261009153000 +0000">
-    <title lang="en">Roseanne</title>
-    <sub-title lang="en">Do You Know Where Your Parents Are?</sub-title>
-    <desc lang="en">Dan and Roseanne celebrate an anniversary; Becky and Darlene are grounded.</desc>
+<programme channel="Freeform.HD.us2" start="20261010153500 +0000" stop="20261010173500 +0000">
+    <title lang="en">Scooby-Doo</title>
+    <desc lang="en">Zoinks! Two years after a clash of egos forced Mystery Inc. to close its doors, Scooby-Doo and his clever crime-solving cohorts Fred (Freddie Prinze Jr.), Daphne (Sarah Michelle Gellar), Shaggy (Matthew Lillard) and Velma (Linda Cardellini) are individually summoned to Spooky Island to investigate a series of paranormal incidents at the ultra-hip Spring Break hot spot.</desc>
     <credits>
-      <actor>Roseanne Arnold</actor>
-      <actor>John Goodman</actor>
-      <actor>Lecy Goranson</actor>
-      <director>John Whitesell</director>
+      <actor>Freddie Prinze</actor>
+      <actor>Sarah Michelle Gellar</actor>
+      <actor>Matthew Lillard</actor>
+      <director>Raja Gosnell</director>
     </credits>
-    <date>1990</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <icon src="http://dtil.tmsimg.com/assets/p183903_b_h8_ac.jpg?w=960&amp;h=540"/>
-    <episode-num system="onscreen">S3 E11</episode-num>
-    <previously-shown/>  <rating system="USA Parental Rating">
-      <value>TVPG</value>
+    <date>2002</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Children</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Adventure</category>
+    <icon src="http://dtil.tmsimg.com/assets/p29039_v_h8_ae.jpg?w=960&amp;h=540"/>
+    <previously-shown/>  <rating system="Motion Picture Association">
+      <value>PG</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>PG</value>
+    </rating>
+    <rating system="Alberta's Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="B.C. Film Classification Office">
+      <value>G</value>
+    </rating>
+    <rating system="Manitoba Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Maritime Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Saskatchewan Film and Video Classification Board">
+      <value>G</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>PG</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
     </rating>
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
+      <value>6</value>
     </rating>
     <rating system="Australian Classification Board">
       <value>PG</value>
     </rating>
-  </programme>
-<programme channel="CMT.HD.us2" start="20261009153000 +0000" stop="20261009160000 +0000">
-    <title lang="en">Roseanne</title>
-    <sub-title lang="en">Confessions</sub-title>
-    <desc lang="en">Roseanne expects a fight between Jackie and their mother (Estelle Parsons), but she is surprised instead.</desc>
-    <credits>
-      <actor>Roseanne Arnold</actor>
-      <actor>John Goodman</actor>
-      <actor>Lecy Goranson</actor>
-      <director>John Whitesell</director>
-    </credits>
-    <date>1990</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <icon src="http://dtil.tmsimg.com/assets/p183903_b_h8_ac.jpg?w=960&amp;h=540"/>
-    <episode-num system="onscreen">S3 E12</episode-num>
-    <previously-shown/>  <rating system="USA Parental Rating">
-      <value>TVPG</value>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
     </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+    <rating system="Statens medieråd">
+      <value>Från 7 år</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating>
+    <rating system="Medierådet">
+      <value>11</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>12</value>
     </rating>
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
+    <rating system="Kijkwijzer">
+      <value>6</value>
     </rating>
-    <rating system="Australian Classification Board">
-      <value>PG</value>
+    <rating system="영상물등급위원회">
+      <value>All</value>
     </rating>
+    <rating system="Medietilsynet">
+      <value>11 år</value>
+    </rating>
+    <star-rating system="TMS">
+      <value>4.0/10</value>
+    </star-rating>
   </programme>
 <programme channel="CMT.HD.us2" start="20261009160000 +0000" stop="20261009163000 +0000">
     <title lang="en">Reba</title>
@@ -51580,91 +51559,75 @@
       <value>PG</value>
     </rating>
   </programme>
-<programme channel="IFC.HD.us2" start="20261009130000 +0000" stop="20261009154500 +0000">
-    <title lang="en">The Exorcist</title>
-    <desc lang="en">One of the most profitable horror movies ever made, this tale of an exorcism is based loosely on actual events. When young Regan (Linda Blair) starts acting odd -- levitating, speaking in tongues -- her worried mother (Ellen Burstyn) seeks medical help, only to hit a dead end. A local priest (Jason Miller), however, thinks the girl may be seized by the devil. The priest makes a request to perform an exorcism, and the church sends in an expert (Max von Sydow) to help with the difficult job.</desc>
+<programme channel="CMT.HD.us2" start="20261010160000 +0000" stop="20261010180000 +0000">
+    <title lang="en">Joe Dirt</title>
+    <desc lang="en">He's the wrong person, at the wrong place, at the wrong time. Joe Dirt (David Spade) is a janitor with a mullet hairdo, acid-washed jeans and a dream -- to find the parents that he lost at the Grand Canyon when he was eight. As his wandering, misguided search takes him from one misadventure to another, he finds his way to Los Angeles, where a shock-jock (Dennis Miller) brings Joe on the radio to insult him. But as Joe's story unfolds, jeers turn to cheers, and an entire city is captivated.</desc>
     <credits>
-      <actor>Ellen Burstyn</actor>
-      <actor>Linda Blair</actor>
-      <actor>Max von Sydow</actor>
-      <director>William Friedkin</director>
+      <actor>David Spade</actor>
+      <actor>Dennis Miller</actor>
+      <actor>Brittany Daniel</actor>
+      <director>Dennie Gordon</director>
     </credits>
-    <date>1973</date>
+    <date>2001</date>
     <category lang="en">Movie</category>
-    <category lang="en">Horror</category>
-    <icon src="http://dtil.tmsimg.com/assets/p6107_v_h8_aa.jpg?w=960&amp;h=540"/>
-    <premiere lang="en"/>
-    <rating system="Motion Picture Association">
-      <value>R</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>C</value>
+    <category lang="en">Comedy</category>
+    <icon src="http://dtil.tmsimg.com/assets/p27433_v_h8_ak.jpg?w=960&amp;h=540"/>
+    <previously-shown/>  <rating system="Motion Picture Association">
+      <value>PG-13</value>
     </rating>
     <rating system="British Board of Film Classification">
-      <value>18</value>
-    </rating>
-    <rating system="B.C. Film Classification Office">
-      <value>18A</value>
-    </rating>
-    <rating system="Saskatchewan Film and Video Classification Board">
-      <value>18A</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>18</value>
-    </rating>
-    <rating system="Ontario Film Authority">
-      <value>18A</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-12</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K18</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Ministero della Cultura">
-      <value>VM14</value>
-    </rating>
-    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 16</value>
-    </rating>
-    <rating system="Statens medieråd">
-      <value>Från 15 år</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Irish Film Classification Office">
-      <value>18</value>
-    </rating>
-    <rating system="映倫">
-      <value>G</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>18 år</value>
-    </rating>
-    <rating system="영상물등급위원회">
-      <value>15+</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>18</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>6</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>R 18+</value>
+      <value>12</value>
     </rating>
     <rating system="Alberta's Film Classification Board">
-      <value>18A</value>
+      <value>PG</value>
+    </rating>
+    <rating system="B.C. Film Classification Office">
+      <value>14A</value>
+    </rating>
+    <rating system="Manitoba Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Maritime Film Classification Board">
+      <value>14</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Saskatchewan Film and Video Classification Board">
+      <value>14A</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>10</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating>
+    <rating system="Statens medieråd">
+      <value>Från 7 år</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>11 år</value>
     </rating>
     <star-rating system="TMS">
-      <value>8.0/10</value>
+      <value>2.0/10</value>
     </star-rating>
   </programme>
 <programme channel="IFC.HD.us2" start="20261009154500 +0000" stop="20261009174500 +0000">
@@ -52662,23 +52625,6 @@
       <value>SAM 16</value>
     </rating>
   </programme>
-<programme channel="Fuse.HD.us2" start="20261009143000 +0000" stop="20261009160000 +0000">
-    <title lang="en">The Last 24 Hours: Elvis Presley</title>
-    <desc lang="en">Elvis Presley's Memphis Mafia recounts the true story of his last 24 hours and death.</desc>
-    <credits>
-      <actor>Lamar Fike</actor>
-      <actor>Marty Lacker</actor>
-      <actor>Joe Esposito</actor>
-      <director>Jordan Hill</director>
-    </credits>
-    <date>2019</date>
-    <category lang="en">Special</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Music</category>
-    <category lang="en">Rock</category>
-    <category lang="en">Event</category>
-    <icon src="http://dtil.tmsimg.com/assets/p16677017_b_h8_ab.jpg?w=960&amp;h=540"/>
-    <previously-shown/></programme>
 <programme channel="Fuse.HD.us2" start="20261009160000 +0000" stop="20261009173000 +0000">
     <title lang="en">Stevie Nicks: Wild at Heart</title>
     <desc lang="en">For decades, Stevie Nicks has fronted one of the most successful bands in history, resurrecting them from the ashes; even with the trials and tribulations of being a member of Fleetwood Mac, Stevie has remained a role model.</desc>
@@ -53259,222 +53205,30 @@
     <category lang="en">Documentary</category>
     <icon src="http://dtil.tmsimg.com/assets/p15151668_b_h10_ad.jpg?w=960&amp;h=540"/>
     <previously-shown/></programme>
-<programme channel="GOL.TV.us2" start="20261009143000 +0000" stop="20261009163000 +0000">
-    <title lang="es">Fútbol Portugués Primeira Liga</title>
-    <desc lang="es">Acción con los partidos del campeonato portugués de fútbol de primera división.</desc>
-    <category lang="es">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/p9223539_b_h8_ax.jpg?w=960&amp;h=540"/>
-    <previously-shown/>  <rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating>
-  </programme>
-<programme channel="GOL.TV.us2" start="20261009163000 +0000" stop="20261009170000 +0000">
-    <title lang="en">Go Go Goal</title>
-    <desc lang="es">Los mejores goles de la semana, desde todos los ángulos, de las mejores ligas del mundo.</desc>
+<programme channel="Fuse.HD.us2" start="20261010160000 +0000" stop="20261010163000 +0000">
+    <title lang="en">Cheaters</title>
+    <sub-title lang="en">Tony Brickley</sub-title>
+    <desc lang="en">Tony suspects Lilith may be cheating.</desc>
     <credits>
-      <actor>Giancarlo Granda</actor>
+      <actor>Clark Gable</actor>
+      <actor>Robert Magruder</actor>
     </credits>
-    <date>2019</date>
-    <category lang="en">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/p17559163_b_h10_aa.jpg?w=960&amp;h=540"/>
-    <previously-shown/></programme>
-<programme channel="GOL.TV.us2" start="20261009170000 +0000" stop="20261009190000 +0000">
-    <title lang="es">Fútbol Portugués Primeira Liga</title>
-    <desc lang="es">Acción con los partidos del campeonato portugués de fútbol de primera división.</desc>
-    <category lang="es">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/p9223539_b_h8_ax.jpg?w=960&amp;h=540"/>
-    <previously-shown/>  <rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating>
-  </programme>
-<programme channel="GOL.TV.us2" start="20261009190000 +0000" stop="20261009210000 +0000">
-    <title lang="es">Fútbol Uruguayo Primera División</title>
-    <desc lang="es">Partidos de fútbol de la Primera División de Uruguay.</desc>
-    <category lang="es">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/p7936876_b_h10_ac.jpg?w=960&amp;h=540"/>
-    <previously-shown/></programme>
-<programme channel="GOL.TV.us2" start="20261009210000 +0000" stop="20261009213000 +0000">
-    <title lang="en">Go Go Goal</title>
-    <desc lang="es">Los mejores goles de la semana, desde todos los ángulos, de las mejores ligas del mundo.</desc>
-    <credits>
-      <actor>Giancarlo Granda</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="en">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/p17559163_b_h10_aa.jpg?w=960&amp;h=540"/>
-    <previously-shown/></programme>
-<programme channel="GOL.TV.us2" start="20261009213000 +0000" stop="20261009220000 +0000">
-    <title lang="es">The Football Review</title>
-    <desc lang="es">Las últimas noticias del fútbol y momentos iluminantes de los partidos de todo el mundo.</desc>
-    <date>2013</date>
-    <category lang="es">Football</category>
-    <icon src="http://dtil.tmsimg.com/assets/p9714185_b_h10_ac.jpg?w=960&amp;h=540"/>
-    <previously-shown/></programme>
-<programme channel="GOL.TV.us2" start="20261009220000 +0000" stop="20261010000000 +0000">
-    <title lang="es">Fútbol Peruano Primera División</title>
-    <desc lang="es">Toda la acción y la mejor cobertura de la liga peruana de fútbol.</desc>
-    <category lang="es">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/p7899816_b_h8_ad.jpg?w=960&amp;h=540"/>
-    <previously-shown/></programme>
-<programme channel="GOL.TV.us2" start="20261010000000 +0000" stop="20261010010000 +0000">
-    <title lang="es">Tu Fútbol - Uruguay</title>
-    <desc lang="es">Con lo mejor del fútbol uruguayo.</desc>
-    <credits>
-      <actor>Giancarlo Granda</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="es">Sports talk</category>
-    <category lang="es">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/p10939732_b_h10_ac.jpg?w=960&amp;h=540"/>
-    <previously-shown/></programme>
-<programme channel="GOL.TV.us2" start="20261010010000 +0000" stop="20261010013000 +0000">
-    <title lang="en">Go Go Goal</title>
-    <desc lang="es">Los mejores goles de la semana, desde todos los ángulos, de las mejores ligas del mundo.</desc>
-    <credits>
-      <actor>Giancarlo Granda</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="en">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/p17559163_b_h10_aa.jpg?w=960&amp;h=540"/>
-    <previously-shown/></programme>
-<programme channel="GOL.TV.us2" start="20261010013000 +0000" stop="20261010033000 +0000">
-    <title lang="es">Fútbol Uruguayo Primera División</title>
-    <desc lang="es">Partidos de fútbol de la Primera División de Uruguay.</desc>
-    <category lang="es">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/p7936876_b_h10_ac.jpg?w=960&amp;h=540"/>
-    <previously-shown/></programme>
-<programme channel="GOL.TV.us2" start="20261010033000 +0000" stop="20261010040000 +0000">
-    <title lang="es">The Football Review</title>
-    <desc lang="es">Las últimas noticias del fútbol y momentos iluminantes de los partidos de todo el mundo.</desc>
-    <date>2013</date>
-    <category lang="es">Football</category>
-    <icon src="http://dtil.tmsimg.com/assets/p9714185_b_h10_ac.jpg?w=960&amp;h=540"/>
-    <previously-shown/></programme>
-<programme channel="GOL.TV.us2" start="20261010040000 +0000" stop="20261010060000 +0000">
-    <title lang="es">Fútbol Portugués Primeira Liga</title>
-    <desc lang="es">Acción con los partidos del campeonato portugués de fútbol de primera división.</desc>
-    <category lang="es">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/p9223539_b_h8_ax.jpg?w=960&amp;h=540"/>
-    <previously-shown/>  <rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating>
-  </programme>
-<programme channel="GOL.TV.us2" start="20261010060000 +0000" stop="20261010063000 +0000">
-    <title lang="en">Go Go Goal</title>
-    <desc lang="es">Los mejores goles de la semana, desde todos los ángulos, de las mejores ligas del mundo.</desc>
-    <credits>
-      <actor>Giancarlo Granda</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="en">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/p17559163_b_h10_aa.jpg?w=960&amp;h=540"/>
-    <previously-shown/></programme>
-<programme channel="GOL.TV.us2" start="20261010063000 +0000" stop="20261010070000 +0000">
-    <title lang="es">The Football Review</title>
-    <desc lang="es">Las últimas noticias del fútbol y momentos iluminantes de los partidos de todo el mundo.</desc>
-    <date>2013</date>
-    <category lang="es">Football</category>
-    <icon src="http://dtil.tmsimg.com/assets/p9714185_b_h10_ac.jpg?w=960&amp;h=540"/>
-    <previously-shown/></programme>
-<programme channel="GOL.TV.us2" start="20261010070000 +0000" stop="20261010093000 +0000">
-    <title lang="es">Fútbol Copa AUF Uruguay</title>
-    <desc lang="es">Acción correspondiente al torneo nacional a nivel de clubes en Uruguay.</desc>
-    <category lang="es">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/p22482979_b_h8_aa.jpg?w=960&amp;h=540"/>
-    <previously-shown/></programme>
-<programme channel="GOL.TV.us2" start="20261010093000 +0000" stop="20261010100000 +0000">
-    <title lang="es">The Football Review</title>
-    <desc lang="es">Las últimas noticias del fútbol y momentos iluminantes de los partidos de todo el mundo.</desc>
-    <date>2013</date>
-    <category lang="es">Football</category>
-    <icon src="http://dtil.tmsimg.com/assets/p9714185_b_h10_ac.jpg?w=960&amp;h=540"/>
-    <previously-shown/></programme>
-<programme channel="GOL.TV.us2" start="20261010100000 +0000" stop="20261010130000 +0000">
-    <title lang="es">Programa pagado</title>
-    <desc lang="es">Programa que muestra diversos productos para la venta.</desc>
-    <category lang="es">Consumer</category>
-    <category lang="es">Shopping</category>
-    <category lang="es">Variety</category>
-    <icon src="http://dtil.tmsimg.com/assets/p459763_b_h8_bs.jpg?w=960&amp;h=540"/>
-    <previously-shown/>  <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>A</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>G</value>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p185490_b_h10_aq.jpg?w=960&amp;h=540"/>
+    <episode-num system="onscreen">S16</episode-num>
+    <previously-shown/>  <rating system="Canadian Parental Rating">
+      <value>14+</value>
     </rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
+      <value>12</value>
     </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
     </rating>
-  </programme>
-<programme channel="GOL.TV.us2" start="20261010130000 +0000" stop="20261010133000 +0000">
-    <title lang="es">Programa pagado</title>
-    <desc lang="es">Programa que muestra diversos productos para la venta.</desc>
-    <category lang="es">Consumer</category>
-    <category lang="es">Shopping</category>
-    <category lang="es">Variety</category>
-    <icon src="http://dtil.tmsimg.com/assets/p459763_b_h8_bs.jpg?w=960&amp;h=540"/>
-    <previously-shown/>  <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>A</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>G</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
+    <rating system="Film &amp; Publication Board">
+      <value>16</value>
     </rating>
   </programme>
-<programme channel="GOL.TV.us2" start="20261010133000 +0000" stop="20261010140000 +0000">
-    <title lang="es">Tu Fútbol - Uruguay</title>
-    <desc lang="es">Con lo mejor del fútbol uruguayo.</desc>
-    <credits>
-      <actor>Giancarlo Granda</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="es">Sports talk</category>
-    <category lang="es">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/p10939732_b_h10_ac.jpg?w=960&amp;h=540"/>
-    <previously-shown/></programme>
-<programme channel="GOL.TV.us2" start="20261010140000 +0000" stop="20261010153000 +0000">
-    <title lang="en">Go Go Goal</title>
-    <desc lang="es">Los mejores goles de la semana, desde todos los ángulos, de las mejores ligas del mundo.</desc>
-    <credits>
-      <actor>Giancarlo Granda</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="en">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/p17559163_b_h10_aa.jpg?w=960&amp;h=540"/>
-    <previously-shown/></programme>
 </tv>
