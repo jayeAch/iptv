@@ -2,7 +2,7 @@
 """
 Filters each XMLTV source in epg_urls.txt down to the channels kept in
 the M3U of the same name (output/<NAME>.m3u, produced by filter_m3u.py
-from the matching NAME in m3u_url.txt), and writes it to output/<NAME>.xml (not merged), so
+from the matching NAME in m3u_urls.txt), and writes it to output/<NAME>.xml (not merged), so
 every EPG is named after its streaming service.
 
 Strictly paired: an epg_urls.txt line "NAME = URL" is processed only if

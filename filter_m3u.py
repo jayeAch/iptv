@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 """
-Downloads each M3U URL listed in m3u_url.txt, strips any channel whose
+Downloads each M3U URL listed in m3u_urls.txt, strips any channel whose
 #EXTINF line matches a word/substring in GLOBAL_EXCLUDE_LIST or whose
 group-title exactly matches an entry in CATEGORY_EXCLUDE_LIST, and writes
 each source out as its own file in output/ (one .m3u per line in
-m3u_url.txt, not merged together).
+m3u_urls.txt, not merged together).
 
-m3u_url.txt format (one entry per line, blank lines and lines starting with
+m3u_urls.txt format (one entry per line, blank lines and lines starting with
 # are ignored):
     MyProvider = https://example.com/playlist1.m3u8
     https://example.com/playlist2.m3u8
@@ -22,7 +22,7 @@ from urllib.parse import urlsplit, urlunsplit
 from exclude_list import GLOBAL_EXCLUDE_LIST
 from category_exclude_list import CATEGORY_EXCLUDE_LIST
 
-URLS_FILE = "m3u_url.txt"
+URLS_FILE = "m3u_urls.txt"
 OUTPUT_DIR = "output"
 
 URL_TVG_RE = re.compile(r'url-tvg="([^"]*)"')
