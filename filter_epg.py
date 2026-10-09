@@ -19,6 +19,15 @@ get fully loaded into memory.
 epg_urls.txt format (one per line, blank/# lines ignored):
     TV   = https://example.com/epg.xml.gz
     Plex = https://example.com/plex.xml
+
+Channel matching:
+  1. A <channel id> equal to a tvg-id from the M3U is kept.
+  2. For M3U entries with no tvg-id, or whose tvg-id doesn't exist in the
+     EPG, the tvg-name / title (case- and whitespace-insensitive) is
+     matched against <display-name>. Each name is claimed by only one
+     EPG channel, so duplicate display names can't pull in extra channels.
+
+Time filtering keeps programmes airing in [now, now + WINDOW).
 """
 import gzip
 import io
@@ -33,69 +42,95 @@ M3U_DIR = "output"
 EPG_URLS_FILE = "epg_urls.txt"
 OUTPUT_DIR = "output"
 WINDOW = timedelta(days=1)  # keep only programmes airing within this span from now
+UNKNOWN_STOP_MAX = timedelta(hours=4)  # programme with no stop: dropped if it started longer ago than this
 
-TVG_ID_RE = re.compile(r'tvg-id=["\']([^"\']*)["\']', re.IGNORECASE)
-TVG_NAME_RE = re.compile(r'tvg-name=["\']([^"\']*)["\']', re.IGNORECASE)
+ATTR_RES = {
+    key: re.compile(r'(?<![\w-])' + key + r'=(?:"([^"]*)"|\'([^\']*)\')', re.IGNORECASE)
+    for key in ("tvg-id", "tvg-name")
+}
 SAFE_NAME_RE = re.compile(r'[^A-Za-z0-9_-]+')
-XMLTV_DT_RE = re.compile(r'^(\d{4})(\d{2})(\d{2})(\d{2})(\d{2})(\d{2})\s*([+-]\d{4})?$')
+XMLTV_DT_RE = re.compile(
+    r'^(\d{4})(\d{2})(\d{2})(\d{2})?(\d{2})?(\d{2})?\s*(?:(Z)|([+-])(\d{2}):?(\d{2}))?$',
+    re.IGNORECASE,
+)
+
+
+def norm(s):
+    """Case-insensitive, whitespace-collapsed form used for name matching."""
+    return " ".join((s or "").split()).casefold()
 
 
 def parse_xmltv_dt(value):
-    """Parses an XMLTV datetime ('20260917013000 +0000') into an aware
-    datetime. Returns None if value is missing/unparseable, so callers
-    can fail open (keep the programme) rather than drop good data."""
+    """Parses an XMLTV datetime ('20260917013000 +0000', '20260917013000+00:00',
+    '202609170130', '20260917013000 Z') into an aware datetime. Returns None
+    if missing/unparseable/out of range, so callers can fail open (keep the
+    programme) rather than drop good data or crash."""
     if not value:
         return None
     m = XMLTV_DT_RE.match(value.strip())
     if not m:
         return None
-    y, mo, d, h, mi, s, off = m.groups()
-    dt = datetime(int(y), int(mo), int(d), int(h), int(mi), int(s))
-    if off:
-        sign = 1 if off[0] == "+" else -1
-        off_h, off_m = int(off[1:3]), int(off[3:5])
-        dt = dt.replace(tzinfo=timezone(sign * timedelta(hours=off_h, minutes=off_m)))
-    else:
-        dt = dt.replace(tzinfo=timezone.utc)
-    return dt
+    y, mo, d, h, mi, s, z, sign, oh, om = m.groups()
+    try:
+        tz = timezone.utc
+        if sign:
+            delta = timedelta(hours=int(oh), minutes=int(om))
+            tz = timezone(delta if sign == "+" else -delta)
+        return datetime(int(y), int(mo), int(d), int(h or 0), int(mi or 0), int(s or 0), tzinfo=tz)
+    except ValueError:
+        return None
 
 
-def out_of_window(elem, now, window_end):
-    """A programme is dropped if it has already ended (stop < now), or
-    it starts at/after window_end. Unparseable/missing times keep the
-    programme (fail open) so a malformed timestamp can't wipe good data."""
+def window_status(elem, now, window_end):
+    """Returns 'past' if the programme has ended, 'future' if it starts at or
+    after window_end, else None (keep). A missing stop falls back to start
+    (dropped as 'past' if it began more than UNKNOWN_STOP_MAX ago). Missing or
+    unparseable times keep the programme (fail open)."""
     stop = parse_xmltv_dt(elem.get("stop"))
-    if stop is not None and stop < now:
-        return True
     start = parse_xmltv_dt(elem.get("start"))
+    if stop is not None:
+        if stop < now:
+            return "past"
+    elif start is not None and start < now - UNKNOWN_STOP_MAX:
+        return "past"
     if start is not None and start >= window_end:
-        return True
-    return False
+        return "future"
+    return None
 
 
-def load_retained_ids(paths):
+def get_attr(line, key):
+    m = ATTR_RES[key].search(line)
+    if not m:
+        return ""
+    return (m.group(1) if m.group(1) is not None else m.group(2) or "").strip()
+
+
+def load_m3u_entries(paths):
     """
-    Returns (ids, names, extinf_count, sample_lines) for the given M3U
-    file paths. ids/names are built from tvg-id / tvg-name attributes on
-    kept #EXTINF lines. Both are collected because not every provider
-    populates tvg-id; the caller decides which set to actually match on.
+    Returns (entries, extinf_count) for the given M3U file paths.
+    entries is a list of (tvg_id, names) per #EXTINF line, where names is a
+    set of normalized tvg-name / trailing title values. Quoted attributes
+    may contain the other quote character (e.g. "Bob's Burgers").
     """
-    ids, names, sample_lines = set(), set(), []
+    entries = []
     extinf_count = 0
     for path in paths:
         with open(path, encoding="utf-8") as f:
             for line in f:
-                if line.startswith("#EXTINF"):
-                    extinf_count += 1
-                    if len(sample_lines) < 5:
-                        sample_lines.append(line.strip())
-                    m_id = TVG_ID_RE.search(line)
-                    if m_id and m_id.group(1):
-                        ids.add(m_id.group(1))
-                    m_name = TVG_NAME_RE.search(line)
-                    if m_name and m_name.group(1):
-                        names.add(m_name.group(1))
-    return ids, names, extinf_count, sample_lines
+                if not line.startswith("#EXTINF"):
+                    continue
+                extinf_count += 1
+                tvg_id = get_attr(line, "tvg-id")
+                names = set()
+                tvg_name = norm(get_attr(line, "tvg-name"))
+                if tvg_name:
+                    names.add(tvg_name)
+                title = norm(line.rstrip("\r\n").rsplit(",", 1)[-1]) if "," in line else ""
+                if title:
+                    names.add(title)
+                if tvg_id or names:
+                    entries.append((tvg_id, names))
+    return entries, extinf_count
 
 
 def load_epg_entries(path):
@@ -121,11 +156,13 @@ def safe_m3u_name(name):
 
 
 def fetch_source_bytes(url):
-    """Downloads and fully decompresses the source once, returning raw XML bytes."""
+    """Downloads the source once and returns raw XML bytes, gunzipping when the
+    payload starts with the gzip magic bytes (works for URLs with query strings)."""
     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-    data = urllib.request.urlopen(req, timeout=60).read()
-    if url.endswith(".gz"):
-        return gzip.GzipFile(fileobj=io.BytesIO(data)).read()
+    with urllib.request.urlopen(req, timeout=60) as resp:
+        data = resp.read()
+    if data[:2] == b"\x1f\x8b":
+        data = gzip.GzipFile(fileobj=io.BytesIO(data)).read()
     return data
 
 
@@ -137,64 +174,78 @@ def _clear(elem):
             del parent[0]
 
 
-def stream_filter(url, retained_ids, retained_names, out, now, window_end):
+def stream_filter(url, entries, out, now, window_end):
     """
-    A <channel> is kept if its id matches retained_ids, or one of its
-    <display-name> values matches retained_names (covers providers that
-    leave tvg-id blank in the M3U). Once a channel id is confirmed a
-    match, any <programme channel="..."> referencing that id is kept too
-    -- this is what lets name-only matching still filter programmes,
-    since programme elements only ever carry the channel id, never a name.
+    Pass 1 streams <channel> elements (and clears <programme> elements so they
+    never accumulate in memory), collecting each channel's id, normalized
+    display names and serialized XML. Matching is then resolved against the
+    complete channel list, so source element order doesn't matter.
+    Pass 2 streams <programme> elements, keeping those whose channel matched
+    and which fall inside [now, window_end).
 
-    Two passes over the same buffered bytes, so this does not depend on
-    <channel> elements appearing before the <programme> elements that
-    reference them -- some sources interleave or reverse the order.
-    Pass 1 resolves the complete set of matched channel ids and writes
-    the (deduped) <channel> elements. Pass 2 filters <programme>
-    elements against that now-complete set. Each pass still streams via
-    iterparse + clearing, so peak memory stays bounded by one element at
-    a time, not the whole tree -- only the raw source bytes are held
-    twice (once as downloaded, once per gzip.read() above).
+    Returns (kept_channels, kept_programmes, dropped_past, dropped_future).
     """
     raw = fetch_source_bytes(url)
 
-    # Pass 1: channels only.
-    matched_channel_ids = set(retained_ids)
-    seen_channel_ids = set()
-    kept_channels = 0
-    context = etree.iterparse(io.BytesIO(raw), events=("end",), tag="channel", recover=True)
+    # Pass 1: channels.
+    epg_channels = []  # (cid, normalized display names, xml)
+    context = etree.iterparse(io.BytesIO(raw), events=("end",), tag=("channel", "programme"), recover=True)
     for _, elem in context:
-        cid = elem.get("id")
-        display_names = {(dn.text or "").strip() for dn in elem.findall("display-name")}
-        is_match = cid in retained_ids or bool(display_names & retained_names)
-        if is_match and cid:
-            matched_channel_ids.add(cid)
-            if cid not in seen_channel_ids:
-                out.write(etree.tostring(elem, encoding="unicode"))
-                out.write("\n")
-                seen_channel_ids.add(cid)
-                kept_channels += 1
+        if elem.tag == "channel":
+            cid = (elem.get("id") or "").strip()
+            if cid:
+                dnames = {norm(dn.text) for dn in elem.findall("display-name")}
+                dnames.discard("")
+                xml = etree.tostring(elem, encoding="unicode", with_tail=False)
+                epg_channels.append((cid, dnames, xml))
         _clear(elem)
     del context
 
-    # Pass 2: programmes, against the now-complete matched id set, keeping
-    # only what falls in [now, window_end).
-    kept_programmes = 0
-    dropped_old = 0
+    epg_ids = {cid for cid, _, _ in epg_channels}
+    m3u_ids = {i for i, _ in entries if i}
+    # Name fallback only for M3U entries with no tvg-id or whose tvg-id isn't in this EPG.
+    fallback_names = set()
+    for tvg_id, names in entries:
+        if not tvg_id or tvg_id not in epg_ids:
+            fallback_names |= names
+
+    matched_ids = set()
+    name_owner = {}
+    kept_channels = 0
+    for cid, dnames, xml in epg_channels:
+        if cid in matched_ids:
+            continue  # duplicate <channel> id
+        is_match = cid in m3u_ids
+        if not is_match:
+            claimable = [h for h in (dnames & fallback_names) if name_owner.get(h, cid) == cid]
+            if claimable:
+                is_match = True
+                for h in claimable:
+                    name_owner[h] = cid
+        if is_match:
+            matched_ids.add(cid)
+            out.write(xml)
+            out.write("\n")
+            kept_channels += 1
+
+    # Pass 2: programmes.
+    kept_programmes = dropped_past = dropped_future = 0
     context = etree.iterparse(io.BytesIO(raw), events=("end",), tag="programme", recover=True)
     for _, elem in context:
-        cid = elem.get("channel")
-        if cid in matched_channel_ids:
-            if out_of_window(elem, now, window_end):
-                dropped_old += 1
+        if (elem.get("channel") or "").strip() in matched_ids:
+            status = window_status(elem, now, window_end)
+            if status == "past":
+                dropped_past += 1
+            elif status == "future":
+                dropped_future += 1
             else:
-                out.write(etree.tostring(elem, encoding="unicode"))
+                out.write(etree.tostring(elem, encoding="unicode", with_tail=False))
                 out.write("\n")
                 kept_programmes += 1
         _clear(elem)
     del context
 
-    return kept_channels, kept_programmes, dropped_old
+    return kept_channels, kept_programmes, dropped_past, dropped_future
 
 
 def main():
@@ -210,11 +261,11 @@ def main():
     print(f"Keeping programmes airing between {now.isoformat()} and {window_end.isoformat()} ({WINDOW}).")
 
     os.makedirs(OUTPUT_DIR, exist_ok=True)
-    total_channels = total_programmes = total_dropped = 0
+    total_channels = total_programmes = total_past = total_future = 0
     used_filenames = set()
     processed = 0
 
-    for n, (name, url) in enumerate(entries, start=1):
+    for name, url in entries:
         if not name:
             print(f"[{url}] skipped: no NAME, can't pair with an M3U", file=sys.stderr)
             continue
@@ -226,16 +277,15 @@ def main():
             print(f"[{name}] skipped: {m3u_path} not found", file=sys.stderr)
             continue
 
-        fname = key  # unique per NAME in epg_urls.txt (Plex.xml, SamsungTV_US.xml, ...)
-        if fname in used_filenames:
+        if key in used_filenames:
             print(f"[{name}] skipped: duplicate NAME '{key}' in {EPG_URLS_FILE}", file=sys.stderr)
             continue
-        used_filenames.add(fname)
-        out_path = os.path.join(OUTPUT_DIR, f"{fname}.xml")
+        used_filenames.add(key)
+        out_path = os.path.join(OUTPUT_DIR, f"{key}.xml")
 
-        ids, names, extinf_count, _ = load_retained_ids([m3u_path])
-        if not ids and not names:
-            print(f"[{name}] no tvg-id/tvg-name in {extinf_count} #EXTINF lines of {m3u_path}, "
+        m3u_entries, extinf_count = load_m3u_entries([m3u_path])
+        if not m3u_entries:
+            print(f"[{name}] no tvg-id/tvg-name/title in {extinf_count} #EXTINF lines of {m3u_path}, "
                   f"writing empty EPG -> {out_path}", file=sys.stderr)
             with open(out_path, "w", encoding="utf-8") as out:
                 out.write('<?xml version="1.0" encoding="UTF-8"?>\n<tv>\n</tv>\n')
@@ -245,19 +295,22 @@ def main():
         try:
             with open(out_path, "w", encoding="utf-8") as out:
                 out.write('<?xml version="1.0" encoding="UTF-8"?>\n<tv>\n')
-                c, p, d = stream_filter(url, ids, names, out, now, window_end)
+                c, p, dp, df = stream_filter(url, m3u_entries, out, now, window_end)
                 out.write("</tv>\n")
             total_channels += c
             total_programmes += p
-            total_dropped += d
+            total_past += dp
+            total_future += df
             processed += 1
-            print(f"[{name}] {len(ids)} ids, {len(names)} names from {m3u_path}: "
-                  f"{c} channels, {p} programmes kept, {d} dropped (too old) -> {out_path}")
+            print(f"[{name}] {len(m3u_entries)} M3U entries from {m3u_path}: "
+                  f"{c} channels, {p} programmes kept, {dp} dropped (ended), "
+                  f"{df} dropped (beyond window) -> {out_path}")
         except Exception as e:
             print(f"[{name}] FAILED: {e}", file=sys.stderr)
 
     print(f"Done. {total_channels} channels, {total_programmes} programmes written, "
-          f"{total_dropped} dropped as too old, {processed}/{len(entries)} source(s) processed.")
+          f"{total_past} dropped as ended, {total_future} dropped as beyond window, "
+          f"{processed}/{len(entries)} source(s) processed.")
 
 
 if __name__ == "__main__":
