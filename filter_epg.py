@@ -2,8 +2,8 @@
 """
 Filters each XMLTV source in epg_urls.txt down to the channels kept in
 the M3U of the same name (output/<NAME>.m3u, produced by filter_m3u.py
-from the matching NAME in urls.txt), and writes it to output/ as its own
-.xml (not merged).
+from the matching NAME in urls.txt), and writes it to output/<NAME>.xml (not merged), so
+every EPG is named after its streaming service.
 
 Strictly paired: an epg_urls.txt line "NAME = URL" is processed only if
 output/NAME.m3u exists. Bare URLs, and names with no matching M3U, are
@@ -120,39 +120,6 @@ def safe_m3u_name(name):
     return SAFE_NAME_RE.sub("_", name).strip("_") or "playlist"
 
 
-def _url_path_segments(url):
-    from urllib.parse import urlparse
-    return [p for p in urlparse(url).path.split("/") if p]
-
-
-def _strip_xml_ext(name):
-    for ext in (".xml.gz", ".xml"):
-        if name.endswith(ext):
-            return name[: -len(ext)]
-    return name
-
-
-def safe_filename(url):
-    segments = _url_path_segments(url)
-    base = _strip_xml_ext(segments[-1]) if segments else "epg"
-    cleaned = SAFE_NAME_RE.sub("_", base).strip("_")
-    return cleaned or "epg"
-
-
-def safe_filename_with_parent(url):
-    """Disambiguated fallback for when safe_filename() collides: prefixes
-    the file's parent path segment (e.g. 'Plex/us.xml' -> 'Plex_us'
-    instead of the bare 'us' that 'SamsungTVPlus/us.xml' also produces).
-    Falls back to safe_filename() if there's no parent segment to use."""
-    segments = _url_path_segments(url)
-    if len(segments) < 2:
-        return safe_filename(url)
-    parent = segments[-2]
-    base = _strip_xml_ext(segments[-1])
-    cleaned = SAFE_NAME_RE.sub("_", f"{parent}_{base}").strip("_")
-    return cleaned or safe_filename(url)
-
-
 def fetch_source_bytes(url):
     """Downloads and fully decompresses the source once, returning raw XML bytes."""
     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
@@ -259,13 +226,10 @@ def main():
             print(f"[{name}] skipped: {m3u_path} not found", file=sys.stderr)
             continue
 
-        fname = safe_filename(url)
+        fname = key  # unique per NAME in epg_urls.txt (Plex.xml, SamsungTV_US.xml, ...)
         if fname in used_filenames:
-            candidate = safe_filename_with_parent(url)
-            if candidate not in used_filenames and candidate != fname:
-                fname = candidate
-            else:
-                fname = f"{fname}_{n}"  # last-resort fallback, still guaranteed unique
+            print(f"[{name}] skipped: duplicate NAME '{key}' in {EPG_URLS_FILE}", file=sys.stderr)
+            continue
         used_filenames.add(fname)
         out_path = os.path.join(OUTPUT_DIR, f"{fname}.xml")
 
