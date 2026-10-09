@@ -32,7 +32,7 @@ from lxml import etree
 M3U_DIR = "output"
 EPG_URLS_FILE = "epg_urls.txt"
 OUTPUT_DIR = "output"
-WINDOW = timedelta(days=1)  # keep only programmes airing within this span from now
+WINDOW = timedelta(days=2)  # keep only programmes airing within this span from now
 
 TVG_ID_RE = re.compile(r'tvg-id=["\']([^"\']*)["\']', re.IGNORECASE)
 TVG_NAME_RE = re.compile(r'tvg-name=["\']([^"\']*)["\']', re.IGNORECASE)
@@ -181,20 +181,10 @@ def stream_filter(url, retained_ids, retained_names, out, now, window_end):
     # only what falls in [now, window_end).
     kept_programmes = 0
     dropped_old = 0
-    first_start = last_stop = None
-    airing_now = 0
     context = etree.iterparse(io.BytesIO(raw), events=("end",), tag="programme", recover=True)
     for _, elem in context:
         cid = elem.get("channel")
         if cid in matched_channel_ids:
-            st = parse_xmltv_dt(elem.get("start"))
-            sp = parse_xmltv_dt(elem.get("stop"))
-            if st is not None and (first_start is None or st < first_start):
-                first_start = st
-            if sp is not None and (last_stop is None or sp > last_stop):
-                last_stop = sp
-            if st is not None and sp is not None and st <= now < sp:
-                airing_now += 1
             if out_of_window(elem, now, window_end):
                 dropped_old += 1
             else:
@@ -204,7 +194,7 @@ def stream_filter(url, retained_ids, retained_names, out, now, window_end):
         _clear(elem)
     del context
 
-    return kept_channels, kept_programmes, dropped_old, (first_start, last_stop, airing_now)
+    return kept_channels, kept_programmes, dropped_old
 
 
 def main():
@@ -255,7 +245,7 @@ def main():
         try:
             with open(out_path, "w", encoding="utf-8") as out:
                 out.write('<?xml version="1.0" encoding="UTF-8"?>\n<tv>\n')
-                c, p, d, (first, last, airing) = stream_filter(url, ids, names, out, now, window_end)
+                c, p, d = stream_filter(url, ids, names, out, now, window_end)
                 out.write("</tv>\n")
             total_channels += c
             total_programmes += p
@@ -263,12 +253,6 @@ def main():
             processed += 1
             print(f"[{name}] {len(ids)} ids, {len(names)} names from {m3u_path}: "
                   f"{c} channels, {p} programmes kept, {d} dropped (too old) -> {out_path}")
-            fmt = lambda t: t.strftime("%Y-%m-%d %H:%M UTC") if t else "n/a"
-            print(f"[{name}] source data spans {fmt(first and first.astimezone(timezone.utc))} "
-                  f"to {fmt(last and last.astimezone(timezone.utc))}; "
-                  f"{airing} programme(s) airing right now")
-            if p and airing == 0:
-                print(f"[{name}] WARNING: nothing airing right now, guide will look blank", file=sys.stderr)
         except Exception as e:
             print(f"[{name}] FAILED: {e}", file=sys.stderr)
 
