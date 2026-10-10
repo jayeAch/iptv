@@ -6,7 +6,7 @@ on:
   workflow_dispatch: {}
   push:
     paths:
-      - "urls.txt"
+      - "m3u_urls.txt"
       - "epg_urls.txt"
       - "exclude_list.py"
       - "filter_m3u.py"
