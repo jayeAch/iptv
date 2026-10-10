@@ -229,10 +229,8 @@ def dedupe_items(items, seen_urls):
     return kept, removed
 
 
-def render(items, tvg_url):
-    header = "#EXTM3U"
-    if tvg_url:
-        header += f' url-tvg="{tvg_url}"'
+def render(items, tvg_url=None):
+    header = "#EXTM3U"  # upstream url-tvg intentionally not embedded
     out = [header]
     for item in items:
         if item[0] == "entry":
