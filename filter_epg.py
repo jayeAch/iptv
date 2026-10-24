@@ -44,7 +44,7 @@ M3U_DIR = "output"
 EPG_URLS_FILE = "epg_urls.txt"
 OUTPUT_DIR = "output"
 COMBINED_NAME = "combined"  # output/combined.xml; reserved, no source may use it
-WINDOW = timedelta(days=1)  # keep only programmes airing within this span from now
+WINDOW = timedelta(days=2)  # keep only programmes airing within this span from now
 UNKNOWN_STOP_MAX = timedelta(hours=4)  # programme with no stop: dropped if it started longer ago than this
 
 ATTR_RES = {
