@@ -29,7 +29,6 @@ CATEGORY_EXCLUDE_LIST = [
     "Music Videos",
     "Talkshow",
     "Realityserier",
-    "Ambiance",
     "LocalNow🇺🇸: Nature and Outdoors",
     "LocalNow🇺🇸: My City",
     "LocalNow🇺🇸: Family and Faith",
