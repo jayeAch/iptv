@@ -3,7 +3,8 @@
 Downloads each M3U URL listed in m3u_urls.txt, strips any channel whose
 display name contains (case-insensitive) a term from GLOBAL_EXCLUDE_LIST or
 whose group-title / #EXTGRP matches (case-insensitive, exact) an entry in
-CATEGORY_EXCLUDE_LIST, drops duplicate streams, and writes each source out
+CATEGORY_EXCLUDE_LIST, strips "@feed" suffixes from tvg-ids (AceTV.us@SD -> AceTV.us) so they match
+guide channel ids, drops duplicate streams, and writes each source out
 as its own file in output/ (one .m3u per NAME in m3u_urls.txt; several lines
 sharing a NAME are merged into that one file, in file order), and also
 writes every kept channel from every source to output/combined.m3u
@@ -49,6 +50,9 @@ TRACKING_PARAMS = {
     "utm_source", "utm_medium", "utm_campaign", "utm_term", "utm_content",
     "ad", "ads", "adid", "ad_id", "gdpr", "us_privacy", "cb", "rnd",
 }
+
+# iptv-org ids carry a feed suffix (AceTV.us@SD); guides use the bare id.
+TVG_ID_FEED_RE = re.compile(r'(tvg-id=")([^"@]*)@[^"]*(")')
 
 URL_TVG_RE = re.compile(r'url-tvg="([^"]*)"')
 GROUP_TITLE_RE = re.compile(r'group-title="([^"]*)"')
@@ -168,6 +172,18 @@ def parse_playlist(text):
             i += 1
 
     return items, tvg_url, malformed
+
+
+def strip_feed_suffix(items):
+    """Rewrites tvg-id="Name.us@Feed" to tvg-id="Name.us" on every entry."""
+    out = []
+    for item in items:
+        if item[0] == "entry":
+            _, extinf, tags, url = item
+            extinf = TVG_ID_FEED_RE.sub(r"\1\2\3", extinf, count=1)
+            item = ("entry", extinf, tags, url)
+        out.append(item)
+    return out
 
 
 def entry_name(extinf):
@@ -296,6 +312,7 @@ def main():
 
             items, tvg_url, malformed = parse_playlist(raw)
             items, by_name, by_category = filter_items(items)
+            items = strip_feed_suffix(items)
             items, duplicates = dedupe_items(items, seen)
 
             total_by_name += by_name
