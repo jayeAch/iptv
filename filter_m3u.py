@@ -39,7 +39,7 @@ from category_exclude_list import CATEGORY_EXCLUDE_LIST
 URLS_FILE = "m3u_urls.txt"
 OUTPUT_DIR = "output"
 COMBINED_NAME = "combined"  # output/combined.m3u; reserved, no source may use it
-DEDUPE_ACROSS_SOURCES = True
+DEDUPE_ACROSS_SOURCES = False
 
 # Query params ignored when comparing stream URLs. Everything else is kept,
 # since many providers identify the channel by query (play.php?id=123).
