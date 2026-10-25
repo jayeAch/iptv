@@ -13,6 +13,7 @@ on:
       - "filter_m3u.py"
       - "filter_epg.py"
       - "dedupe_m3u.py"
+      - "align_xumo_epg.py"
       - "prune_playlists.py"
 
 permissions:
@@ -48,6 +49,12 @@ jobs:
         continue-on-error: true
         run: python filter_epg.py
 
+      - name: Align XUMO guide titles with other sources
+        id: align
+        if: ${{ !cancelled() }}
+        continue-on-error: true
+        run: python align_xumo_epg.py
+
       - name: Remove duplicate channels from M3U lists
         id: dedupe
         if: ${{ !cancelled() }}
@@ -73,5 +80,5 @@ jobs:
           fi
 
       - name: Fail job if any filter step failed
-        if: ${{ steps.m3u.outcome == 'failure' || steps.epg.outcome == 'failure' || steps.dedupe.outcome == 'failure' }}
+        if: ${{ steps.m3u.outcome == 'failure' || steps.epg.outcome == 'failure' || steps.align.outcome == 'failure' || steps.dedupe.outcome == 'failure' }}
         run: exit 1
