@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-<channel id="USBD17000117B">
-    <display-name>MovieSphere</display-name>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD17000117B_20241105T024212SQUARE.png"/>
-  </channel>
 <channel id="USBB36000040M">
     <display-name>Crime Zone</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB36000040M_20261001T230639SQUARE.png"/>
@@ -27,10 +23,6 @@
 <channel id="US4100035CD">
     <display-name>Locked Up Abroad</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100035CD_20260421T133643SQUARE.png"/>
-  </channel>
-<channel id="USBB5200022PY">
-    <display-name>Crimes Cults Killers</display-name>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200022PY_20250805T005746SQUARE.png"/>
   </channel>
 <channel id="US1800012MT">
     <display-name>SNL Vault</display-name>
@@ -112,32 +104,6 @@
     <display-name>Halloween Vibes</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3100004DB_20260929T044338SQUARE.png"/>
   </channel>
-<programme channel="USBD17000117B" start="20261025002110 +0000" stop="20261025025747 +0000">
-    <title>Divergent</title>
-    <desc>In a world divided by factions based on virtues, Tris learns she's Divergent and won't fit in.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_537679079_0_20240128T002802071Z_27.jpeg"/>
-    <rating>
-      <value>PG-13</value>
-    </rating>
-  </programme>
-<programme channel="USBD17000117B" start="20261025025747 +0000" stop="20261025050655 +0000">
-    <title>The Divergent Series</title>
-    <sub-title>Insurgent</sub-title>
-    <desc>Tris must confront her inner demons and fight against an alliance which threatens to tear her society apart.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_537679320_1_20240128T002801229Z_80.jpeg"/>
-    <rating>
-      <value>PG-13</value>
-    </rating>
-  </programme>
-<programme channel="USBD17000117B" start="20261025050655 +0000" stop="20261025071703 +0000">
-    <title>The Divergent Series</title>
-    <sub-title>Allegiant</sub-title>
-    <desc>ALLEGIANT takes Tris and Four into a new world, far more dangerous than ever before.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_537679313_0_20240128T002758760Z_35.jpeg"/>
-    <rating>
-      <value>PG-13</value>
-    </rating>
-  </programme>
 <programme channel="USBB36000040M" start="20261025000934 +0000" stop="20261025011047 +0000">
     <title>Luther</title>
     <sub-title>Season 2, Episode 4</sub-title>
@@ -197,14 +163,6 @@
     <sub-title>Willie Inmon, Vigilante Killer</sub-title>
     <desc>A young man complains to the police about investigators interrogating him for murder cases.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550796455_46_20241113T062842755Z_122_imageprocessorclient-tvplus-linear-5dc4fd45f6-kmjnf.jpeg"/>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="USAK3508703A" start="20261024234212 +0000" stop="20261025003306 +0000">
-    <title>The First 48</title>
-    <desc>Hip hop artist Chucky Trill is gunned down on a highway after leaving a club.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3223225053_1_20260721T175511939Z_55_imageprocessorclient-tvplus-linear-9468c5484-8t2sc.jpeg"/>
     <rating>
       <value>TV-14</value>
     </rating>
@@ -631,58 +589,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme channel="USBB5200022PY" start="20261025000500 +0000" stop="20261025012400 +0000">
-    <title>Elizabeth Smart: Autobiography: Part 2</title>
-    <desc>Kidnapping victim Elizabeth Smart tells the story of traveling to Southern California with her abductors, their return to Utah, and how the television show "America's Most Wanted" played a role in her rescue.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_923278153_0_20250228T202143019Z_104_imageprocessorclient-tvplus-linear-b76dd9bbb-dtwnb.jpeg"/>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="USBB5200022PY" start="20261025012400 +0000" stop="20261025021700 +0000">
-    <title>Jodi Arias: Cellmate Secrets</title>
-    <desc>New information comes to light about Jodi Arias and the murder of her ex-boyfriend, Travis Alexander, as her former cellmates and closest confidants give firsthand accounts of their time behind bars with the murderess.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_830926270_1_20250211T012013167Z_82_imageprocessorclient-tvplus-linear-5dc4fd45f6-s46ks.jpeg"/>
-    <episode-num system="onscreen">S04E06</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="USBB5200022PY" start="20261025021700 +0000" stop="20261025040000 +0000">
-    <title>Jonestown: The Women Behind the Massacre</title>
-    <desc>Four women belonging to cult leader Jim Jones' inner circle help plan the 1978 Jonestown massacre in Guyana, which leaves more than 900 people dead.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1267588265_0_20250504T002714772Z_30_imageprocessorclient-tvplus-linear-b76dd9bbb-9jfq9.jpeg"/>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="USBB5200022PY" start="20261025040000 +0000" stop="20261025045200 +0000">
-    <title>Cold Case Files</title>
-    <sub-title>The Voice in the Lake</sub-title>
-    <desc>When 31-year-old real estate appraiser Mike Williams mysteriously vanishes while duck hunting in the Florida swamps in December 2000, authorities suspect he accidentally drowned.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_766930503_0_20250129T044607179Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-f99gb.jpeg"/>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="USBB5200022PY" start="20261025045200 +0000" stop="20261025054300 +0000">
-    <title>Cold Case Files</title>
-    <sub-title>DNA Speaks: Horror in the Dark</sub-title>
-    <desc>Teens Lianna Adank and Eric Goldstrand are found shot to death at an Oregon park in 1977  detectives doggedly pursue leads for 40 years until a single piece of evidence leads them to a suspect three states away.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2688031519_0_20260321T014837153Z_71_imageprocessorclient-tvplus-linear-796646965d-v4wkg.jpeg"/>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="USBB5200022PY" start="20261025054300 +0000" stop="20261025063500 +0000">
-    <title>Cold Case Files</title>
-    <sub-title>DNA Speaks: Justice for Mary</sub-title>
-    <desc>When Mary Scott, 23, is found murdered in her San Diego home in 1969, the case quickly loses steam with few leads  years later, Mary's daughters grow determined to find answers about the mother they barely knew, and a crime that's 50 years cold.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2688031519_0_20260321T014837153Z_71_imageprocessorclient-tvplus-linear-796646965d-v4wkg.jpeg"/>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme channel="US1800012MT" start="20261025001400 +0000" stop="20261025011000 +0000">
     <title>SNL Vault</title>
     <sub-title>Volume 8</sub-title>
@@ -871,14 +777,6 @@
       <value>TV-G</value>
     </rating>
   </programme>
-<programme channel="USBA300019WF" start="20261025000000 +0000" stop="20261025003000 +0000">
-    <title>Lethal Weapons</title>
-    <desc>Phil's quest to land a new client puts the boys in a strip club and Stuart in the hospital.  Holly's new "magic bra" works wonders.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352135A_605370260_0_20241227T225449989Z_18_imageprocessorclient-tvplus-linear-5dc4fd45f6-qbw2m.png"/>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
 <programme channel="USBA300019WF" start="20261025003000 +0000" stop="20261025010000 +0000">
     <title>Shall We Dance?</title>
     <desc>Holly volunteers to help Stuart impress his ex at a ballroom dance competition, but Holly's "talent" hurts more than it helps.  Phil meets his match in a woman who beats him at his own game</desc>
@@ -1064,15 +962,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme channel="US4700029QM" start="20261024233408 +0000" stop="20261025003418 +0000">
-    <title>Gotham Comedy Live</title>
-    <sub-title>Vic Dibitetto</sub-title>
-    <desc>Vic Dibitetto takes the stage for an hour of non-stop comedy live from New York's Gotham Comedy Club. Don't miss Dibitetto along with Forrest Shaw, Jeff Young, Jessica Kirson and Shuli from "The Howard Stern Show."</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2526457988_18_20260210T164700576Z_95_imageprocessorclient-tvplus-linear-584c967455-b7vn5.jpeg"/>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme channel="US4700029QM" start="20261025003418 +0000" stop="20261025013438 +0000">
     <title>Gotham Comedy Live</title>
     <sub-title>Charlie Murphy</sub-title>
@@ -1123,14 +1012,6 @@
     <sub-title>Michael Winslow</sub-title>
     <desc>Michael Winslow takes the stage for an outrageous hour of hilarious stand-up and whacky sounds. Don't miss this rare chance to see Winslow along with Jeff Caldwell, Meghan Hanley and more live from New York's Gotham Comedy Club.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2526457988_18_20260210T164700576Z_95_imageprocessorclient-tvplus-linear-584c967455-b7vn5.jpeg"/>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="USBC1300012VK" start="20261024224524 +0000" stop="20261025003600 +0000">
-    <title>Daybreakers</title>
-    <desc>The year is 2019, and an unknown plague has transformed the world's population into blood-thirsty vampires. As humans and their blood become more scarce, vampires must search for new ways to satisfy their craving.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_722091689_0_20250120T052057846Z_92_imageprocessorclient-tvplus-linear-5dc4fd45f6-jqdl4.jpeg"/>
     <rating>
       <value>TV-14</value>
     </rating>
@@ -1238,15 +1119,6 @@
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2395387369_0_20260109T045742381Z_32_imageprocessorclient-tvplus-linear-584c967455-p9wk7.jpeg"/>
     <rating>
       <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="US4200004KK" start="20261024234148 +0000" stop="20261025003405 +0000">
-    <title>The Haunting Of. . .</title>
-    <sub-title>Dot Jones</sub-title>
-    <desc>Dot Jones seeks Kim Russo's help for her haunting paranormal experiences.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2045047677_1_20251015T234121612Z_1_imageprocessorclient-tvplus-linear-d7c8c765b-zqx8c.jpeg"/>
-    <rating>
-      <value>TV-PG</value>
     </rating>
   </programme>
 <programme channel="US4200004KK" start="20261025003405 +0000" stop="20261025012617 +0000">
@@ -1393,14 +1265,6 @@
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3387319246_1_20260826T233511526Z_55_imageprocessorclient-tvplus-linear-6b56cc9f55-wff4c.jpeg"/>
     <rating>
       <value>TV-G</value>
-    </rating>
-  </programme>
-<programme channel="US1400007V6" start="20261024225200 +0000" stop="20261025003300 +0000">
-    <title>A Day in the Caribbean</title>
-    <desc>Ambient journey featuring pristine beaches, turquoise lagoons, and swaying palms, typically accompanied by a soothing acoustic guitar and light percussion soundtrack to match the tropical atmosphere.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3387307392_0_20260826T233512860Z_68_imageprocessorclient-tvplus-linear-6b56cc9f55-hlb7z.jpeg"/>
-    <rating>
-      <value>NA</value>
     </rating>
   </programme>
 <programme channel="US1400007V6" start="20261025003300 +0000" stop="20261025014000 +0000">
@@ -1639,15 +1503,6 @@
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3295540508_1_20260806T212113750Z_64_imageprocessorclient-tvplus-linear-9468c5484-hptzz.jpeg"/>
     <rating>
       <value>TV-G</value>
-    </rating>
-  </programme>
-<programme channel="USBB1000002TK" start="20261024235930 +0000" stop="20261025002929 +0000">
-    <title>ART In Season</title>
-    <sub-title>Halloween Party—Masquerade</sub-title>
-    <desc>Lose yourself in a world of mystery where masked figures and costumed characters take center stage. From painted portraits to sculpture and mixed media, each piece explores elaborate disguises, rich textures, and an air of playful intrigue.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3507718260_0_20260921T154719210Z_55_imageprocessorclient-tvplus-linear-6b56cc9f55-mx4zz.jpeg"/>
-    <rating>
-      <value>TV-PG</value>
     </rating>
   </programme>
 <programme channel="USBB1000002TK" start="20261025002929 +0000" stop="20261025005928 +0000">
