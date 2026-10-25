@@ -6,17 +6,21 @@ output/NAME.xml written by filter_m3u.py / filter_epg.py, and drops the removed
 channels' guide data from the .xml files so the EPG still matches the playlists.
 
 Two channels are duplicates when the programme airing right now has the same
-title and the same start/stop (within TOLERANCE) on both, and at least
-MIN_EXTRA_MATCHES other programmes also match by title and start (a channel whose
-guide is too thin for that, like Plex's single-programme listings, instead needs
-a matching channel name). Placeholder
-titles (filler, "to be announced", or the channel's own name) never count.
+title (small wording differences between sources are tolerated) and the same
+start/stop (within TOLERANCE) on both, and then either at
+least MIN_EXTRA_MATCHES other programmes also match, or nothing contradicts
+them. So a channel with a shorter guide (say it lists only the current show)
+still counts as a duplicate of one with the full guide, unless a later
+programme on one overlaps a different programme on the other. Placeholder titles
+(filler, "to be announced", or the channel's own name) never count.
 
 Which copy is kept: channels tied to Samsung (source NAME, stream URL or
 #EXTINF line containing "samsung" / "stvp-") are always dropped first, so a
 Samsung channel is only removed when a non-Samsung copy exists. Among the
-rest the earliest source in m3u_urls.txt wins, then the shorter channel name
-("TBS" over "TBS West"), then the channel with more programme data. Channels with no EPG data are never touched.
+rest, a short guide loses to a full one, then the earliest source in
+m3u_urls.txt wins, then the shorter channel name ("TBS" over "TBS West"), then
+the channel with more programme data. Channels with no EPG data are never
+touched.
 
 Run after filter_epg.py. Rewrites output/NAME.m3u, output/NAME.xml,
 output/combined.m3u and output/combined.xml. Idempotent.
@@ -32,6 +36,7 @@ import re
 import sys
 from collections import defaultdict
 from datetime import datetime, timedelta, timezone
+from difflib import SequenceMatcher
 
 from lxml import etree
 
@@ -40,7 +45,9 @@ from filter_epg import _clear, get_attr, merge_epgs, norm, parse_xmltv_dt
 
 OUTPUT_DIR = "output"
 TOLERANCE = timedelta(seconds=120)   # max start/stop difference for "same programme"
-MIN_EXTRA_MATCHES = 1                # matching programmes required besides the current one
+MIN_EXTRA_MATCHES = 1                # other matching programmes that confirm a duplicate
+TITLE_RATIO = 0.85                  # title similarity counted as the same title
+SHORT_GUIDE = 3                      # guides with fewer programmes are kept last
 SAMSUNG_RE = re.compile(r"samsung|(?<![a-z0-9])stvp-", re.IGNORECASE)
 GENERIC_TITLES = {
     "", "filler", "to be announced", "tba", "tbd", "programming",
@@ -107,8 +114,22 @@ def load_programmes(name, wanted):
     return progs
 
 
+def titles_match(a, b):
+    """Same title, tolerating the small wording differences between sources:
+    spacing ("cell mate"/"cellmate"), a subtitle ("the divergent series" vs
+    "the divergent series insurgent"), or a typo."""
+    if a == b:
+        return True
+    sa, sb = a.replace(" ", ""), b.replace(" ", "")
+    short, long_ = sorted((sa, sb), key=len)
+    if len(short) >= 6 and long_.startswith(short):
+        return True
+    return SequenceMatcher(None, sa, sb).ratio() >= TITLE_RATIO
+
+
 def same(a, b):
-    return a[2] == b[2] and abs(a[0] - b[0]) <= TOLERANCE and abs(a[1] - b[1]) <= TOLERANCE
+    return (abs(a[0] - b[0]) <= TOLERANCE and abs(a[1] - b[1]) <= TOLERANCE
+            and titles_match(a[2], b[2]))
 
 
 def usable(prog, names):
@@ -122,28 +143,29 @@ def current(progs, names, now):
     return None
 
 
+def overlaps(p, q):
+    return p[0] < q[1] - TOLERANCE and q[0] < p[1] - TOLERANCE
+
+
 def compare(u, v, now):
-    """Returns the number of matching programmes if u and v air the same
-    thing right now (and enough else), otherwise 0."""
+    """Returns the number of matching programmes if u and v are the same feed,
+    otherwise 0. They must air the same thing right now. After that, either at
+    least MIN_EXTRA_MATCHES other programmes match, or nothing contradicts them:
+    a channel whose guide ends early (or lists only the current programme) is
+    still a duplicate as long as no programme on one overlaps a different
+    programme on the other."""
     cu, cv = current(u["progs"], u["names"], now), current(v["progs"], v["names"], now)
     if not cu or not cv or not same(cu, cv):
         return 0
     names = u["names"] | v["names"]
-    by_title = defaultdict(list)
-    for q in v["progs"]:
-        if usable(q, names):
-            by_title[q[2]].append(q)
-    extra = sum(
-        1 for p in u["progs"]
-        if p is not cu and usable(p, names) and any(same(p, q) for q in by_title.get(p[2], ()))
-    )
+    up = [p for p in u["progs"] if usable(p, names)]
+    vp = [q for q in v["progs"] if usable(q, names)]
+    extra = sum(1 for p in up if p is not cu and any(same(p, q) for q in vp))
     if extra >= MIN_EXTRA_MATCHES:
         return 1 + extra
-    # Thin guide (e.g. Plex lists only the current programme): extra matches are
-    # impossible, so accept the current-programme match if the channel names agree.
-    thin = min(sum(usable(p, names) for p in u["progs"]),
-               sum(usable(p, names) for p in v["progs"])) <= MIN_EXTRA_MATCHES
-    return 1 + extra if thin and (u["names"] & v["names"]) else 0
+    conflict = any(p is not cu and q is not cv and overlaps(p, q) and not same(p, q)
+                   for p in up for q in vp)
+    return 1 + extra if not conflict else 0
 
 
 def rewrite_xml(path, drop_ids):
@@ -194,7 +216,9 @@ def main():
             })
 
     # Non-Samsung first, then source order, then more programme data.
-    allunits.sort(key=lambda u: (u["samsung"], u["order"], len(u["label"]), -len(u["progs"]), u["label"].casefold()))
+    # Samsung last, then short guides, then source order, shorter name, more data.
+    allunits.sort(key=lambda u: (u["samsung"], len(u["progs"]) < SHORT_GUIDE, u["order"],
+                                 len(u["label"]), -len(u["progs"]), u["label"].casefold()))
 
     kept, dropped = [], []
     for u in allunits:
