@@ -3,6 +3,7 @@
 # each channel's category -- unlike exclude_list.py's channel-name substring
 # matching.
 CATEGORY_EXCLUDE_LIST = [
+    "Music & Ambient",
     "Food & Travel",
     "Nature",
     "Ambiance",
