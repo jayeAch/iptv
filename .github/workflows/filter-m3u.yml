@@ -12,6 +12,7 @@ on:
       - "category_exclude_list.py"
       - "filter_m3u.py"
       - "filter_epg.py"
+      - "dedupe_m3u.py"
       - "prune_playlists.py"
 
 permissions:
@@ -47,6 +48,12 @@ jobs:
         continue-on-error: true
         run: python filter_epg.py
 
+      - name: Remove duplicate channels from M3U lists
+        id: dedupe
+        if: ${{ !cancelled() }}
+        continue-on-error: true
+        run: python dedupe_m3u.py
+
       - name: Commit filtered playlists
         if: ${{ !cancelled() }}
         run: |
@@ -66,5 +73,5 @@ jobs:
           fi
 
       - name: Fail job if any filter step failed
-        if: ${{ steps.m3u.outcome == 'failure' || steps.epg.outcome == 'failure' }}
+        if: ${{ steps.m3u.outcome == 'failure' || steps.epg.outcome == 'failure' || steps.dedupe.outcome == 'failure' }}
         run: exit 1
