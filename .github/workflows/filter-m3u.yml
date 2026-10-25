@@ -9,11 +9,16 @@ on:
       - "m3u_urls.txt"
       - "epg_urls.txt"
       - "exclude_list.py"
+      - "category_exclude_list.py"
       - "filter_m3u.py"
       - "filter_epg.py"
 
 permissions:
   contents: write
+
+concurrency:
+  group: filter-m3u
+  cancel-in-progress: false
 
 jobs:
   filter:
@@ -31,12 +36,18 @@ jobs:
         run: pip install lxml
 
       - name: Filter M3U playlists
+        id: m3u
+        continue-on-error: true
         run: python filter_m3u.py
 
       - name: Filter and merge EPG
+        id: epg
+        if: ${{ !cancelled() }}
+        continue-on-error: true
         run: python filter_epg.py
 
       - name: Commit filtered playlists
+        if: ${{ !cancelled() }}
         run: |
           mkdir -p playlists
           cp output/*.m3u playlists/ 2>/dev/null || true
@@ -48,5 +59,10 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "Update filtered playlists $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git pull --rebase
             git push
           fi
+
+      - name: Fail job if any filter step failed
+        if: ${{ steps.m3u.outcome == 'failure' || steps.epg.outcome == 'failure' }}
+        run: exit 1
