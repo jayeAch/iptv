@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+<channel id="freemoviesplus_amg02042c1eng_US">
+    <display-name>Free Movies Plus</display-name>
+  </channel>
 <channel id="theasylummoviechannel_tasmc_US">
     <display-name>The Asylum</display-name>
   </channel>
@@ -12,6 +15,13 @@
 <channel id="tribeca_tribe_US">
     <display-name>Tribeca</display-name>
   </channel>
+<channel id="us-bec_witz_1">
+    <display-name>WITZ-Comedy TV</display-name>
+  </channel>
+<programme start="20261026004252 +0000" stop="20261026031138 +0000" channel="freemoviesplus_amg02042c1eng_US">
+    <title>End of Watch</title>
+    <desc>Two young officers are marked for death after confiscating a small cache of money and firearms from the members of a notorious cartel during a routine traffic stop.</desc>
+  </programme>
 <programme start="20261025231934 +0000" stop="20261026005347 +0000" channel="theasylummoviechannel_tasmc_US">
     <title>Legion of the Dead</title>
     <desc>Mummified remains of an evil Egyptian queen brought back to life resurrects an army of living dead.</desc>
@@ -55,5 +65,21 @@
 <programme start="20261026015035 +0000" stop="20261026040113 +0000" channel="tribeca_tribe_US">
     <title>The Loft</title>
     <desc>Five men share a loft for affairs; a woman’s body changes everything.</desc>
+  </programme>
+<programme start="20261025234716 +0000" stop="20261026004717 +0000" channel="us-bec_witz_1">
+    <title>Jim Breuer: Heavy Metal Comedy</title>
+    <desc>Jim Bruer's Heavy Metal Comedy was born on December 9th, 2000 when Jim unleashed his Rock-n-Comedy assault on an unsuspecting, standing room only crowd at New York City's, Irving Plaza. New routines such as Coming Home at 4am have already become cult faves and Bruer favorites like The Party have received a musical facelift. Jim's uncanny impressions, such as Brian Johnson of AC/DC, are also included.</desc>
+  </programme>
+<programme start="20261026004717 +0000" stop="20261026022529 +0000" channel="us-bec_witz_1">
+    <title>Living Legends Of Comedy: Real Talk</title>
+    <desc>Take a provocative look at Urban comedy. P. Diddy's Bad Boys of Comedy star Rayzor, hosts this tell-all documentary on Urban comedy. See and hear the Kings and Queens of comedy like never before in a jaw-dropping inside glimpse of the raw cut-throat comedy game. This documentary contains exclusive interviews with living legends D.L. Hughley, Earthquake, Sheryl Underwood, Don DC Curry, Charlie Murphy, Kevin Hart, Rich Vos, Donnell Rawlings, Showtime at the Apollo Founder Chuck Sutton and many more. Living Legends also contains hilarious stand-up comedy performances.</desc>
+  </programme>
+<programme start="20261026022529 +0000" stop="20261026025303 +0000" channel="us-bec_witz_1">
+    <title>WITZ Presents: Trailers From Hell</title>
+    <desc>Did you hear the one where the “Bad New Bears” got kicked out of the “Animal House?”</desc>
+  </programme>
+<programme start="20261026025303 +0000" stop="20261026044039 +0000" channel="us-bec_witz_1">
+    <title>Paul Mooney: A Piece Of My Mind</title>
+    <desc>The venomous, no-holds-barred style of standup comedy legend Paul Mooney is on full display in this concert special that finds the vitriolic funnyman sparing no politician or pop culture icon from his scathing wit, including Sarah Palin, Mel Gibson and even golf pro Tiger Woods. Defiant, socially relevant, and always hilarious, it's a legendary Mooney performance.</desc>
   </programme>
 </tv>
