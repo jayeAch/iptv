@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
 Downloads each M3U URL listed in m3u_urls.txt, strips any channel whose
-display name contains (case-insensitive) a term from GLOBAL_EXCLUDE_LIST or
-whose group-title / #EXTGRP matches (case-insensitive, exact) an entry in
+display name contains (case-sensitive) a term from GLOBAL_EXCLUDE_LIST or
+whose group-title / #EXTGRP matches (case-sensitive, exact) an entry in
 CATEGORY_EXCLUDE_LIST, drops duplicate streams, and writes each source out
 as its own file in output/ (one .m3u per NAME in m3u_urls.txt; several lines
 sharing a NAME are merged into that one file, in file order), and also
@@ -58,8 +58,8 @@ SAFE_NAME_RE = re.compile(r'[^A-Za-z0-9_-]+')
 EXTINF_NAME_RE = re.compile(r'^#EXTINF:(?:[^,"]|"[^"]*")*,(.*)$')
 NAMED_URL_RE = re.compile(r'^([^\s=/:?&]+)\s*=\s*(\S+)$')
 
-_EXCLUDE_TERMS = [t.casefold() for t in GLOBAL_EXCLUDE_LIST if t and t.strip()]
-_EXCLUDE_CATEGORIES = {c.strip().casefold() for c in CATEGORY_EXCLUDE_LIST}
+_EXCLUDE_TERMS = [t for t in GLOBAL_EXCLUDE_LIST if t and t.strip()]
+_EXCLUDE_CATEGORIES = {c.strip() for c in CATEGORY_EXCLUDE_LIST}
 
 
 def load_urls(path):
@@ -196,10 +196,10 @@ def filter_items(items):
             continue
         _, extinf, tags, _url = item
         category = entry_category(extinf, tags)
-        if category is not None and category.strip().casefold() in _EXCLUDE_CATEGORIES:
+        if category is not None and category.strip() in _EXCLUDE_CATEGORIES:
             by_category += 1
             continue
-        name = entry_name(extinf).casefold()
+        name = entry_name(extinf)
         if any(term in name for term in _EXCLUDE_TERMS):
             by_name += 1
             continue
