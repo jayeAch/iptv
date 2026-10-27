@@ -48,7 +48,7 @@ from filter_epg import _clear, get_attr, merge_epgs, norm, parse_xmltv_dt
 
 OUTPUT_DIR = "output"
 TOLERANCE = timedelta(seconds=120)   # max start/stop difference for "same programme"
-MIN_EXTRA_MATCHES = 3                # other matching programmes that confirm a duplicate
+MIN_EXTRA_MATCHES = 1                # other matching programmes that confirm a duplicate
 TITLE_RATIO = 0.85                  # title similarity counted as the same title
 SHORT_GUIDE = 3                      # guides with fewer programmes are kept last
 NAME_RATIO = 0.8                     # channel-name similarity counted as the same channel
