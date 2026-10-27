@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-<channel id="CA1500004OB">
-    <display-name>MovieSphere</display-name>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1500004OB_20261023T223855SQUARE.png"/>
-  </channel>
 <channel id="CA35000078O">
     <display-name>Cinevault Westerns</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA35000078O_20260609T034609SQUARE.png"/>
+  </channel>
+<channel id="CABC23000189A">
+    <display-name>Cops</display-name>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC23000189A_20261023T223840SQUARE.png"/>
   </channel>
 <channel id="CABD1200043OK">
     <display-name>CBC Comedy</display-name>
@@ -16,10 +16,6 @@
     <display-name>CTV Laughs</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400005SO_20260505T062255SQUARE.png"/>
   </channel>
-<channel id="CAAJ3400013EH">
-    <display-name>Dry Bar Comedy</display-name>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ3400013EH_20260421T140226SQUARE.png"/>
-  </channel>
 <channel id="CA4700013NG">
     <display-name>Gotham Comedy Live</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4700013NG_20260331T032013SQUARE.png"/>
@@ -28,38 +24,6 @@
     <display-name>FilmRise Horror</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA35000044I_20260303T094706SQUARE.png"/>
   </channel>
-<programme channel="CA1500004OB" start="20261027002524 +0000" stop="20261027022152 +0000">
-    <title>Booksmart</title>
-    <desc>Two overachieving friends decide to cram four years of fun into the eve of their high school graduation.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_2817903120_1_20260420T193657153Z_68_imageprocessorclient-tvplus-linear-796646965d-29zqx.jpeg"/>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="CA1500004OB" start="20261027022152 +0000" stop="20261027041821 +0000">
-    <title>Bridget Jones's Diary</title>
-    <desc>Bridget Jones is determined to improve herself while she looks for love in a year in which she keeps a diary.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_2857175264_0_20260430T021424454Z_1_imageprocessorclient-tvplus-linear-796646965d-pnqz4.jpeg"/>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="CA1500004OB" start="20261027041821 +0000" stop="20261027061858 +0000">
-    <title>Seven Psychopaths</title>
-    <desc>A struggling screenwriter inadvertently becomes entangled in the Los Angeles criminal underworld.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_2985885613_0_20260530T005919941Z_47_imageprocessorclient-tvplus-linear-75df688c49-bb85n.jpeg"/>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="CA1500004OB" start="20261027061858 +0000" stop="20261027080057 +0000">
-    <title>Bachelorette</title>
-    <desc>When it comes to raunchy and riotously inappropriate pre-wedding behavior, why should guys have all the fun?</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_2817903080_0_20260420T193704239Z_18_imageprocessorclient-tvplus-linear-796646965d-2k68x.jpeg"/>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme channel="CA35000078O" start="20261027002002 +0000" stop="20261027021503 +0000">
     <title>The Violent Men</title>
     <desc>An ex-soldier's plans to move east are delayed after his brother is murdered on the orders of a land baron.</desc>
@@ -90,6 +54,114 @@
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_661104859_0_20250108T031529674Z_90_imageprocessorclient-tvplus-linear-5dc4fd45f6-m4dpr.jpeg"/>
     <rating>
       <value>TV-14</value>
+    </rating>
+  </programme>
+<programme channel="CABC23000189A" start="20261027013146 +0000" stop="20261027015722 +0000">
+    <title>Cops</title>
+    <sub-title>Now It's Lawn Furniture</sub-title>
+    <desc>A man handles bad news by throwing his furniture out of the window.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534379571_0_20231027T015205674Z_43.jpeg"/>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="CABC23000189A" start="20261027015722 +0000" stop="20261027022258 +0000">
+    <title>Cops</title>
+    <sub-title>Cop or Cab?</sub-title>
+    <desc>A detective masquerades as a taxi driver in a ‘buy bust' sting operation.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534379571_0_20231027T015205674Z_43.jpeg"/>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="CABC23000189A" start="20261027022258 +0000" stop="20261027024633 +0000">
+    <title>Cops</title>
+    <sub-title>Wreckless Tenants</sub-title>
+    <desc>A manager of an apartment complex is assaulted by their intoxicated tenants.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534379571_0_20231027T015205674Z_43.jpeg"/>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="CABC23000189A" start="20261027024633 +0000" stop="20261027031208 +0000">
+    <title>Cops</title>
+    <sub-title>Leave her Alone</sub-title>
+    <desc>An officer intervenes in a family dispute involving a daughter, boyfriend and $9,000 in warrants.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534379571_0_20231027T015205674Z_43.jpeg"/>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="CABC23000189A" start="20261027031208 +0000" stop="20261027033343 +0000">
+    <title>Cops</title>
+    <sub-title>Under the Bed</sub-title>
+    <desc>A K-9 tracks an auto burglary suspect. Arkansas cops chase a man into a pipe. A wanted man hides under a bed.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534379571_0_20231027T015205674Z_43.jpeg"/>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="CABC23000189A" start="20261027033343 +0000" stop="20261027035814 +0000">
+    <title>Cops</title>
+    <sub-title>Strange Encounters</sub-title>
+    <desc>A man gets more than he bargained for from his new roommate. Cops discover the unexpected consequences of punc</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534379571_0_20231027T015205674Z_43.jpeg"/>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="CABC23000189A" start="20261027035814 +0000" stop="20261027042150 +0000">
+    <title>Cops</title>
+    <sub-title>Ignorance is an Excuse</sub-title>
+    <desc>A couple claims that they didn't know the car they are driving is stolen.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534379571_0_20231027T015205674Z_43.jpeg"/>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="CABC23000189A" start="20261027042150 +0000" stop="20261027044725 +0000">
+    <title>Cops</title>
+    <sub-title>School Zone Chase</sub-title>
+    <desc>Officers intervene in a domestic dispute between a stripper and her boyfriend.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534379571_0_20231027T015205674Z_43.jpeg"/>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="CABC23000189A" start="20261027044725 +0000" stop="20261027051101 +0000">
+    <title>Cops</title>
+    <sub-title>Mamma's House</sub-title>
+    <desc>A man being pursued tells officers he was going to his mother's house.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534379571_0_20231027T015205674Z_43.jpeg"/>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="CABC23000189A" start="20261027051101 +0000" stop="20261027053636 +0000">
+    <title>Cops</title>
+    <sub-title>Change that Evaluation</sub-title>
+    <desc>A sizable amount of cocaine is seized during a routine search.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534379571_0_20231027T015205674Z_43.jpeg"/>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="CABC23000189A" start="20261027053636 +0000" stop="20261027060013 +0000">
+    <title>Cops</title>
+    <sub-title>Alleycat</sub-title>
+    <desc>Officers search for a runaway suspect with a weapons charge.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534379571_0_20231027T015205674Z_43.jpeg"/>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="CABC23000189A" start="20261027060013 +0000" stop="20261027062639 +0000">
+    <title>Cops</title>
+    <sub-title>Bail Fail</sub-title>
+    <desc>During a routine traffic stop, an Officer recognizes the passengers from a prior drug related arrest.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534379571_0_20231027T015205674Z_43.jpeg"/>
+    <rating>
+      <value>TV-PG</value>
     </rating>
   </programme>
 <programme channel="CABD1200043OK" start="20261027013122 +0000" stop="20261027015718 +0000">
@@ -279,78 +351,6 @@
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_3517230694_2_20260923T164840525Z_30_imageprocessorclient-tvplus-linear-6b56cc9f55-t5gd9.jpeg"/>
     <rating>
       <value>NA</value>
-    </rating>
-  </programme>
-<programme channel="CAAJ3400013EH" start="20261027011301 +0000" stop="20261027014247 +0000">
-    <title>Dry Bar Comedy</title>
-    <sub-title>S6 E634</sub-title>
-    <desc>Dwayne returns to Dry Bar Comedy. If you loved his first special, you will certainly love his 2nd! Dwayne Perkins has earned a spot in today's elite class of stand-up comics with appearances on Comedy Central and on Conan.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQU352137A_2733312396_0_20260331T211642834Z_41_imageprocessorclient-tvplus-linear-796646965d-zsr9n.png"/>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme channel="CAAJ3400013EH" start="20261027014247 +0000" stop="20261027022910 +0000">
-    <title>Kim Kerley</title>
-    <sub-title>Do You Know Her?</sub-title>
-    <desc>Having spent much of her teens homeless, Kim Kerley has seen things in life that many never see. She's chosen to find the funny in those situations. A keen observer of life's crazy conditions, her comedy comes from real life. A regular on San Antonio Living, Kim has been performing stand-up comedy for over 13 years. She has traveled extensively in the U.S. and abroad, including an inspiring stint with Armed Forces Entertainment. She was also an actress with the comedy group, Laff Stock. She is an actor with Dramatic Diva Productions, putting on community plays in the San Antonio area. Kim also performed comedy on “The View”.  She helmed San Antonio's number 2 drive-time morning radio show. She also handled production duties for Cox Media in San Antonio and was also on the Y-100 morning show. She has shared the stages with comedy greats like Carlos Mencia, Ron White, Lewis Black and many others.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQU352137A_1078689592_0_20250330T014358404Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-q9jtz.png"/>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme channel="CAAJ3400013EH" start="20261027022910 +0000" stop="20261027031548 +0000">
-    <title>Kortney Shane Williams</title>
-    <sub-title>Unsubstantiated</sub-title>
-    <desc>The master of satire has been a part of The Bridgetown Comedy Festival, Boston Comedy Festival, Laughing Skull Comedy Festival, and Bumbershoot Arts festival. Kortney's self-deprecating humor has won him finalist spots in both Comedy Central's South Beach Comedy Festival Competition and NBC's Stand-Up Showcase.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQU352137A_1078689592_0_20250330T014358404Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-q9jtz.png"/>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme channel="CAAJ3400013EH" start="20261027031548 +0000" stop="20261027034510 +0000">
-    <title>Buddy Fitzpatrick</title>
-    <sub-title>Still in the Driveway</sub-title>
-    <desc>BUDDY FITZPATRICK, a native of Philadelphia, is currently a New York City club favorite sharing his comedy perspective. His act combines the skill of a great monologist with a physical style that brings his observations to life. At the age of 18, he left</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQU352137A_2044675263_0_20251016T043140826Z_26_imageprocessorclient-tvplus-linear-76c46fff7-zv4sf.png"/>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="CAAJ3400013EH" start="20261027034510 +0000" stop="20261027042916 +0000">
-    <title>Patrick Keane</title>
-    <sub-title>long love the keane</sub-title>
-    <desc>Originally from the Midwest, raised in Orange County, college in Montana and a three-year stint in Asia make Patrick Keane a comedian with a background. Why college in Montana? Football scholarship. Why Asia? To get away from football.Since moving to Los Angeles in 2000, Patrick has appeared on Comedy Centrals Live At Gotham, the Late Late Show with Craig Ferguson, the Bob and Tom show, Comics Unleashed, the Montreal Comedy Festival and is a regular at the Improv and Comedy Store in Hollywood. He was also a cast member on My TV Networks Tony Rock Project. (He was the white guy).When not headlining, Patrick is the opening act for comedians such as Nick Swardson, Joel McHale, Kevin Nealon, Kevin Pollok, Bobby Lee, Henry Phillips, Eddie Gossling and Bil Dwyer. While at home in Los Angeles he studies at the UCB theatre and Lesley Kahn institute. Asked what the key is to comedy, this writer/actor/comedian says, I try not to be funny and it usually works. With multiple appearances on the Late Late show with Craig Ferguson, his record setting viewer ship on Comedy Central, and his ability to tell the difference between people from Ireland and people from Northern Ireland, Patrick is the obvious choice to be the next host of the Oprah Winfrey show.His dry, self-deprecating style originates from influences Bill Murray and Gene Wilder. His favorite stand up comedians are Chris Rock, Lewis Black, Gary Shandling, Jerry Seinfeld and many other female comics not from New York.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQU352137A_1078689592_0_20250330T014358404Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-q9jtz.png"/>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme channel="CAAJ3400013EH" start="20261027042916 +0000" stop="20261027051230 +0000">
-    <title>Rahn Hortman</title>
-    <sub-title>Good Game</sub-title>
-    <desc>Rahn credits the earliest influences to his humor to Bill Cosby and Martin Lawrence. Bill Cosby's ability to tackle diverse subject matter without uttering a single curse word, and Martin Lawrence's natural gift of representing the "ordinary guy" combined to form the foundation for Rahn's vision. What resulted is a unique blend of profanity-free banter, with pointed observations about everyday people that leave no one safe.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQU352137A_1078689592_0_20250330T014358404Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-q9jtz.png"/>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme channel="CAAJ3400013EH" start="20261027051230 +0000" stop="20261027055809 +0000">
-    <title>Joe Devito</title>
-    <sub-title>First Of All</sub-title>
-    <desc>Joe DeVito's dead-on timing and unexpected twists make him a favorite at comedy clubs across the USA. His TV appearances include The Late Late Show, Last Comic Standing, Comedy Central, Comics Unleashed, and AXStv's Gotham Comedy Live. He's also a regular on TV news panels, finding the funny in pop culture and current events. Joe's albums First Date with Joe DeVito and Three's Comedy are in regular rotation on SiriusXM radio.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQU352137A_1078689592_0_20250330T014358404Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-q9jtz.png"/>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme channel="CAAJ3400013EH" start="20261027055809 +0000" stop="20261027064335 +0000">
-    <title>Josh Fonokalafi</title>
-    <sub-title>The Specific Islander</sub-title>
-    <desc>Joshua T Fonokalafi is a Utah based comedian from the mean streets of Ogden, Utahs own Compton. Raised in the Northwest and the son of an Islander immigrant, Joshua tells of his hardships growing up as one of the biggest minorities in the country. Joshua was most recently featured at the Idaho Laugh Fest and is preparing to film his very own comedy special with VidAngel. He's acted in Jackie and Ryan with Katherine Heigl, and in Certain Woman with Laura Dern and Kristen Stewart. Joshua's quick wit and humor will give you an amazing abdominal workout.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQU352137A_1078689592_0_20250330T014358404Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-q9jtz.png"/>
-    <rating>
-      <value>TV-PG</value>
     </rating>
   </programme>
 <programme channel="CA4700013NG" start="20261027011549 +0000" stop="20261027021645 +0000">
