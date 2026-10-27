@@ -45,7 +45,7 @@ from filter_epg import _clear, get_attr, merge_epgs, norm, parse_xmltv_dt
 
 OUTPUT_DIR = "output"
 TOLERANCE = timedelta(seconds=120)   # max start/stop difference for "same programme"
-MIN_EXTRA_MATCHES = 1                # other matching programmes that confirm a duplicate
+MIN_EXTRA_MATCHES = 2                # other matching programmes that confirm a duplicate
 TITLE_RATIO = 0.85                  # title similarity counted as the same title
 SHORT_GUIDE = 3                      # guides with fewer programmes are kept last
 SAMSUNG_RE = re.compile(r"samsung|(?<![a-z0-9])stvp-", re.IGNORECASE)
