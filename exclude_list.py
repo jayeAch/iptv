@@ -178,7 +178,7 @@ GLOBAL_EXCLUDE_LIST = [
 "Pluto TV PetrolHeads",
 "Fight Network",
 "Dungeons & Dragons",
-" ET ",
+"ET",
 "Drone TV",
 "No Reservations",
 "Wicked Tuna",
