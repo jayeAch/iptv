@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+<channel id="US8000024G">
+    <display-name>OUTflix Movies</display-name>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US8000024G_20260915T035051SQUARE.png"/>
+  </channel>
 <channel id="US300068X7">
     <display-name>Samsung Television Network</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300068X7_20261023T223618SQUARE.png"/>
@@ -68,13 +72,28 @@
     <display-name>The Asylum</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ17000014C_20260421T141813SQUARE.png"/>
   </channel>
-<programme channel="US300068X7" start="20261027011900 +0000" stop="20261027021006 +0000">
-    <title>Nashville</title>
-    <sub-title>Beneath Still Waters</sub-title>
-    <desc>Daphne struggles with Deacon and Jessie's relationship. The new addition to the boys' band is a hit. Gunnar is into old habits. Scarlett takes an interest in a veteran having equine therapy.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2202835723_1_20251125T020432677Z_46_imageprocessorclient-tvplus-linear-584c967455-z2fx8.jpeg"/>
+<programme channel="US8000024G" start="20261027021800 +0000" stop="20261027040200 +0000">
+    <title>A Vigilante</title>
+    <desc>A vigilante helps victims escape their domestic abusers.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1613431602_0_20250703T032928426Z_26_imageprocessorclient-tvplus-linear-d7c8c765b-97vkd.jpeg"/>
     <rating>
-      <value>TV-PG</value>
+      <value>R</value>
+    </rating>
+  </programme>
+<programme channel="US8000024G" start="20261027040200 +0000" stop="20261027061900 +0000">
+    <title>Lord of Illusions</title>
+    <desc>Private eye Harry D'Amour travels to Los Angeles and meets with a new client, Dorothea Swann. Swann reveals that she and her husband — famed magician Philip Swann — have been targeted by a religious cult experimenting with reincarnation. After Philip dies on stage in the midst of a dangerous trick, D'Amour must struggle to protect Dorothea from the ruthless cult members and their newly reanimated religious leader, Nix.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3595178349_1_20261010T015933832Z_78_imageprocessorclient-tvplus-linear-6b56cc9f55-t79l9.jpeg"/>
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+<programme channel="US8000024G" start="20261027061900 +0000" stop="20261027081200 +0000">
+    <title>Night of the Comet</title>
+    <desc>After a rare comet sighting, teen sisters Regina (Catherine Mary Stewart) and Samantha (Kelli Maroney) find that they're among the only survivors of a zombie attack. The girls partner with another survivor, Hector (Robert Beltran), but as they try to avoid the zombies, they're sought by scientists who want to experiment on their bodies in the hope of finding an antidote. Dodging both the doctors and the undead, they keep moving in the hope that they can continue to stay alive.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3585548983_15_20261008T020302314Z_29_imageprocessorclient-tvplus-linear-6b56cc9f55-7bxq7.jpeg"/>
+    <rating>
+      <value>PG-13</value>
     </rating>
   </programme>
 <programme channel="US300068X7" start="20261027021006 +0000" stop="20261027030000 +0000">
@@ -579,15 +598,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme channel="US4100035CD" start="20261027011300 +0000" stop="20261027020500 +0000">
-    <title>Locked Up Abroad</title>
-    <sub-title>Colombian Kidnap</sub-title>
-    <desc>Held hostage in Colombia, backpackers Erez Eltawil and Reini Weigel form a controversial relationship with their kidnappers.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2211169461_0_20251127T012220873Z_56_imageprocessorclient-tvplus-linear-584c967455-5dc86.jpeg"/>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme channel="US4100035CD" start="20261027020500 +0000" stop="20261027025500 +0000">
     <title>Locked Up Abroad</title>
     <sub-title>Trauma Express</sub-title>
@@ -994,15 +1004,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme channel="US4700029QM" start="20261027011549 +0000" stop="20261027021645 +0000">
-    <title>Gotham Comedy Live</title>
-    <sub-title>David Hasselhoff</sub-title>
-    <desc>David Hasselhoff hosts a hilarious hour of stand-up from New York's Gotham Comedy Club. Don't miss your chance to see Hasselhoff's funny side as he performs with Ester Steinberg, Mike Burton, Marcus Banks and Paul Hooper. We're not KITTing around.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2526457988_18_20260210T164700576Z_95_imageprocessorclient-tvplus-linear-584c967455-b7vn5.jpeg"/>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme channel="US4700029QM" start="20261027021645 +0000" stop="20261027031700 +0000">
     <title>Gotham Comedy Live</title>
     <sub-title>Pamela Anderson</sub-title>
@@ -1160,15 +1161,6 @@
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2395387369_0_20260109T045742381Z_32_imageprocessorclient-tvplus-linear-584c967455-p9wk7.jpeg"/>
     <rating>
       <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="US4200004KK" start="20261027012612 +0000" stop="20261027021828 +0000">
-    <title>The Haunting Of. . .</title>
-    <sub-title>Tom Green</sub-title>
-    <desc>Comedian Tom Green returns to his hometown in Ottawa, Canada to confront a ghost.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2045047677_1_20251015T234121612Z_1_imageprocessorclient-tvplus-linear-d7c8c765b-zqx8c.jpeg"/>
-    <rating>
-      <value>TV-PG</value>
     </rating>
   </programme>
 <programme channel="US4200004KK" start="20261027021828 +0000" stop="20261027030919 +0000">

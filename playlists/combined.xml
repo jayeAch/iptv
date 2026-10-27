@@ -791,6 +791,10 @@
 <channel id="99951468"><display-name>Law &amp; Order</display-name><icon src="https://image.xumo.com/v1/channels/channel/99951468/168x168.png?type=color_onBlack"/></channel>
 <channel id="99951236"><display-name>SNL Vault</display-name><icon src="https://image.xumo.com/v1/channels/channel/99951236/168x168.png?type=color_onBlack"/></channel>
 <channel id="99951244"><display-name>NBC Comedy Vault</display-name><icon src="https://image.xumo.com/v1/channels/channel/99951244/168x168.png?type=color_onBlack"/></channel>
+<channel id="US8000024G">
+    <display-name>OUTflix Movies</display-name>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US8000024G_20260915T035051SQUARE.png"/>
+  </channel>
 <channel id="US300068X7">
     <display-name>Samsung Television Network</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300068X7_20261023T223618SQUARE.png"/>
@@ -863,6 +867,10 @@
     <display-name>Cinevault Westerns</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA35000078O_20260609T034609SQUARE.png"/>
   </channel>
+<channel id="CA3500005NS">
+    <display-name>FilmRise Canadien</display-name>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA3500005NS_20260303T094703SQUARE.png"/>
+  </channel>
 <channel id="CABC23000189A">
     <display-name>Cops</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC23000189A_20261023T223840SQUARE.png"/>
@@ -922,6 +930,7 @@
 <channel id="us-gsn_cinevault_70s_1">
     <display-name>GET Comedy</display-name>
   </channel>
+<channel id="6a1610bebdf296985fd95603-5fc705e2a2236e002d69f36d"><display-name>AMC Thrillers</display-name><icon src="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6e7af423114c9f735d17e142783f233a.png"/></channel>
 <channel id="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643"><display-name>BBC Comedy</display-name><icon src="https://provider-static.plex.tv/epg/cms/production/1e92ab4a-8016-45ef-8f59-1190695f2c6a/BBC_COMEDY_PLEX_BRAND_CHANNEL_Logo_Light_1500X1000_Caitlin_Schiffer.png"/></channel>
 <channel id="6a1610bebdf296985fd95603-66a2bfe594b6a49cb5054d75"><display-name>Crime Scenes</display-name><icon src="https://provider-static.plex.tv/epg/cms/production/0d2a0e73-1ddb-4648-81e9-c333b714aef3/CrimeScenes_Logo_Dark_1500x1000.png"/></channel>
 <channel id="6a1610bebdf296985fd95603-63c97410187b3c9f3581fdf4"><display-name>Crimes Cults Killers</display-name><icon src="https://provider-static.plex.tv/epg/cms/production/7804cef1-a12c-4af6-a6c2-12dc54041980/LG_Crimes_Cults_Killers_STACKED_Color_Logo_1500x1000RDX.png"/></channel>
@@ -1270,7 +1279,6 @@
 <programme channel="400000006" start="20261027185555 +0000" stop="20261027204221 +0000"><title>Dinoshark</title><desc>When a vacation spot is terrorized by the mysterious prehistoric creature Dinoshark, a young man races against time to stop its deadly rampage.</desc></programme>
 <programme channel="400000006" start="20261027204221 +0000" stop="20261027222542 +0000"><title>Dinocroc vs. Supergator</title><desc>An evil investor’s lab experiment fails, creating a crocodile dinosaur that starts snacking on humans before a Supergator is let loose to fight it.</desc></programme>
 <programme channel="400000006" start="20261027222542 +0000" stop="20261028000438 +0000"><title>Camel Spiders</title><desc>A band of fighters make one last stand against the camel spiders that have invaded the deserts of the U.S.</desc></programme>
-<programme channel="400000095" start="20261027012500 +0000" stop="20261027021600 +0000"><title>Taking the Stand</title><desc>An American Dream becomes a tragedy when Texan businesswoman Andreen McDonald vanishes. Four years later, her husband is on trial for her murder.</desc></programme>
 <programme channel="400000095" start="20261027021600 +0000" stop="20261027030800 +0000"><title>Taking the Stand</title><desc>Sasha Skare, 23, is on trial for the murder of her lover Martell DeRouen and has turned down a plea deal; she decides to take the stand to tell her side of the story, saying she was abused and the shooting was unintentional.</desc></programme>
 <programme channel="400000095" start="20261027030800 +0000" stop="20261027040000 +0000"><title>Taking the Stand</title><desc>After 35 years of 12-year-old Jonelle Matthews' disappearance from her home in Greeley, CO, her remains are recovered; investigators charge former Idaho Gubernatorial candidate Steve Pankey with murder; Pankey takes the stand.</desc></programme>
 <programme channel="400000095" start="20261027040000 +0000" stop="20261027045200 +0000"><title>Interrogation Raw</title><desc>A brutal home invasion results in a man being beaten to death and set on fire; as investigators race to find the perpetrator, a shocking 911 call pits two brothers against each other in the interrogation room.</desc></programme>
@@ -1661,11 +1669,6 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
         <desc>When Amy and Mike uncover a centuries-old curse after watching an exclusive film reel, they must quickly track down an infamous filmmaker and navigate a town of hungry zombies before it's too late to break the curse.</desc>
         <icon src="https://images.pluto.tv/series/6ad103c9f579448234eacef4/tile_1792083107414.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-<programme channel="691b023a7613e09a8b209539-CA" start="20261027011200 +0000" stop="20261027020800 +0000">
-        <title>The X-Files</title>
-        <desc>The agents uncover a genetic experiment that has spun out of control.</desc>
-        <icon src="https://images.pluto.tv/series/693ad40063f946a2cea6c6c4/tile_1792429923357.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
 <programme channel="691b023a7613e09a8b209539-CA" start="20261027020800 +0000" stop="20261027030100 +0000">
         <title>The X-Files</title>
         <desc>A mysterious phone call leads Scully to investigate a woman’s suicide.</desc>
@@ -1695,11 +1698,6 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
         <title>Ronin</title>
         <desc>When an international team of former Cold War intelligence adversaries meet in a Warehouse, their venture of friendship, intrigue and betrayal has just begun.</desc>
         <icon src="https://images.pluto.tv/series/69b37c5eb2d615a4c01bf409/tile_1774464301483.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-<programme channel="6a315581df0b6d462c18397e-CA" start="20261027013600 +0000" stop="20261027020600 +0000">
-        <title>The Fresh Prince Of Bel-Air</title>
-        <desc>Will and Carlton compete for a Halloween party date.</desc>
-        <icon src="https://images.pluto.tv/series/6a26dbc3ce1637b4f4185a29/tile_1781281081248.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
 <programme channel="6a315581df0b6d462c18397e-CA" start="20261027020600 +0000" stop="20261027023500 +0000">
         <title>The Fresh Prince Of Bel-Air</title>
@@ -1795,11 +1793,6 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
         <title>Arrow</title>
         <desc>Oliver gets closer to the truth about Prometheus. Meanwhile, Helix refuses to continue helping Felicity until she does a favor for them.</desc>
         <icon src="https://images.pluto.tv/series/6ab54d48da71d9a75f3c7011/tile_1790266900412.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-<programme channel="6abab32a198ce62db3f7e54d-CA" start="20261027015200 +0000" stop="20261027021800 +0000">
-        <title>The New Adventures of Old Christine</title>
-        <desc>Now that Barb is a co-owner of Christine's women's gym, the two women don't always agree on how to run it.  Meanwhile, Matthew helps Ritchie find the perfect nanny to replace him.</desc>
-        <icon src="https://images.pluto.tv/series/6ab54f493830afefd512900e/tile_1790267390928.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
 <programme channel="6abab32a198ce62db3f7e54d-CA" start="20261027021800 +0000" stop="20261027024300 +0000">
         <title>The New Adventures of Old Christine</title>
@@ -1936,11 +1929,6 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
         <desc>Daniel meets a dedicated MSU cowbell ringer, introduces a responsible way to help out children, and puts his efforts into raising money for a cat's butthole.</desc>
         <icon src="https://images.pluto.tv/series/6a70a774de5e723940d0462a/tile_1785767797245.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-<programme channel="64f8a949f5b5e4000862467c-CA" start="20261027014300 +0000" stop="20261027020800 +0000">
-        <title>Daria</title>
-        <desc>When the Morgendorffers visit Jack and Helen's alma mater as part of a college prep course, Daria learns the truth about academia, and Quinn gets a taste of Greek life.</desc>
-        <icon src="https://images.pluto.tv/series/64de4130445a8a00131becc2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
 <programme channel="64f8a949f5b5e4000862467c-CA" start="20261027020800 +0000" stop="20261027023200 +0000">
         <title>Daria</title>
         <desc>Daria questions her relationship with Tom as their six-month anniversary approaches, and Jake pursues a new career with an internet start-up.</desc>
@@ -2001,11 +1989,6 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
         <desc>The roommates encourage Xandir to discover his true sexual identity.</desc>
         <icon src="https://images.pluto.tv/series/64dcefb0a5aa6e0013bf4a2c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-<programme channel="66bb3212fe11e5000883ea6b-CA" start="20261027015400 +0000" stop="20261027021800 +0000">
-        <title>Married... With Children</title>
-        <desc>Peggy must convince Al to come home for a "nooner" in order to win a big radio contest. Meanwhile, Bud and Kelly wait in a very long line to buy concert tickets.</desc>
-        <icon src="https://images.pluto.tv/series/66c363902fca060013453725/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
 <programme channel="66bb3212fe11e5000883ea6b-CA" start="20261027021800 +0000" stop="20261027024300 +0000">
         <title>Married... With Children</title>
         <desc>Al's carpool, consisting of him and three models, is chosen to promote a campaign to clean up Chicago.</desc>
@@ -2040,11 +2023,6 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
         <title>Married... With Children</title>
         <desc>Buck runs away from home and ends up at a dog pound.</desc>
         <icon src="https://images.pluto.tv/series/66c363902fca060013453725/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-<programme channel="62bdaa32a1b2fd00076693e8-CA" start="20261027012000 +0000" stop="20261027021900 +0000">
-        <title>The FBI Files</title>
-        <desc>From California to Kentucky, few living near a railroad felt safe in the summer of 1999.  A serial killer, rode the rails, picking towns and victims at random.  He left behind a trail of bloodshed, but no trace of where he would turn up next.</desc>
-        <icon src="https://images.pluto.tv/series/62d6ffc2677eae00138741a4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
 <programme channel="62bdaa32a1b2fd00076693e8-CA" start="20261027021900 +0000" stop="20261027031900 +0000">
         <title>The FBI Files</title>
@@ -4876,11 +4854,6 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6703a96763292d000836b4fa/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-<programme channel="66c701172630fc00080e520e-DK" start="20261027001800 +0000" stop="20261027020700 +0000">
-        <title>Fredag den 13. - Del VIII: Jason indtager Manhattan</title>
-        <desc>New York er i store problemer, fordi den udødelige djævel,  Jason Voorhees tager på tur til New York og maler byen rød.</desc>
-        <icon src="https://images.pluto.tv/series/629095e406ab7b001a6b3236/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
 <programme channel="69f84f38b56fa4a9fe661fd4-DK" start="20261027010924 +0000" stop="20261027025917 +0000">
         <title>Ghoulies II</title>
         <desc>The Ghoulies are back in this sequel in which they take over a traveling carnival giving a park full of teenagers a night they'll never forget.</desc>
@@ -4890,11 +4863,6 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
         <title>The Killing of a Sacred Deer</title>
         <desc>Steven er dygtig hjertekirurg og gift med Anna, der er respekteret øjenlæge. De lever lykkeligt med deres to børn. Steven er ven med den 16-årige Martin, som er forældreløs. Tingene tager en mørk drejning, da Steven introducerer Martin for familien.</desc>
         <icon src="https://images.pluto.tv/series/6493ea6bfafd830013ff4d75/tile_1768257367023.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-<programme channel="61c095861782bd000780e0ba-DK" start="20261027003918 +0000" stop="20261027021518 +0000">
-        <title>Alcatraz</title>
-        <desc>En gruppe fanger, anført af en meget brutal røver og gangster, forsøger at flygte fra det myteomspundne og berygtede fængsel Alcatraz. Når det er sket tidligere, er det altid endt med en dødelig udgang.</desc>
-        <icon src="https://images.pluto.tv/series/64491eed72e1ff001aaedd78/tile_1768012530106.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
 <programme channel="63dbe7ed51f5d000083e9499-DK" start="20261027010821 +0000" stop="20261027030949 +0000">
         <title>Gøglerkongen</title>
@@ -5135,11 +5103,6 @@ Uhyggen starter kl. 22.00 til tidlig morgen."</desc>
         <desc>For a price, anything's possible. Contract killings arose out of the need to establish the perfect alibi. By hiring someone else to do the dirty work, a person can deflect guilt, at least in theory.</desc>
         <icon src="https://images.pluto.tv/series/619264969f4573001ad5a411/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-<programme channel="61c0989431084d0007eab12d-DK" start="20261027013643 +0000" stop="20261027020643 +0000">
-        <title>Comedy Central Pluto TV</title>
-        <desc>Smil! Comedy Central Pluto TV er kanalen med de bedste komedieserier, de mest ikoniske stand-up-shows, de skøreste tegnefilm og meget mere.</desc>
-        <icon src="https://images.pluto.tv/series/6a9a69876d62a56d3b1f42d0/tile_1788504456120.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
 <programme channel="61c0989431084d0007eab12d-DK" start="20261027020643 +0000" stop="20261027023643 +0000">
         <title>Comedy Central Pluto TV</title>
         <desc>Smil! Comedy Central Pluto TV er kanalen med de bedste komedieserier, de mest ikoniske stand-up-shows, de skøreste tegnefilm og meget mere.</desc>
@@ -5169,11 +5132,6 @@ Uhyggen starter kl. 22.00 til tidlig morgen."</desc>
         <title>Comedy Central Pluto TV</title>
         <desc>Smil! Comedy Central Pluto TV er kanalen med de bedste komedieserier, de mest ikoniske stand-up-shows, de skøreste tegnefilm og meget mere.</desc>
         <icon src="https://images.pluto.tv/series/6a9a69876d62a56d3b1f42d0/tile_1788504456120.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-<programme channel="6391ce99da3fda0008024a96-DK" start="20261027014318 +0000" stop="20261027021018 +0000">
-        <title>Vore værste år: Mr. Empty Pants</title>
-        <desc>Peggy's unflattering cartoon makes Al a reluctant celebrity.</desc>
-        <icon src="https://images.pluto.tv/series/6464d85954afb6001a21bbb2/tile_1785221641806.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
 <programme channel="6391ce99da3fda0008024a96-DK" start="20261027021018 +0000" stop="20261027023718 +0000">
         <title>Vore værste år: You Can't Miss</title>
@@ -5244,11 +5202,6 @@ Uhyggen starter kl. 22.00 til tidlig morgen."</desc>
         <title>Mike Judge's Beavis &amp; Butt-Head: Den sære pige / Tidsrejsende</title>
         <desc>Beavis møder en hemmelig beundrer i skolen./ Beavis and Butt-Head krydser tidslinjen på en udflugt og tror, de kan rejse i tiden.</desc>
         <icon src="https://images.pluto.tv/series/64dc7f498a0f710013b2b0c5/tile.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-<programme channel="65e9766eec9fda0008cb418a-DK" start="20261027015242 +0000" stop="20261027021902 +0000">
-        <title>RENO 911!: Security for Kenny Rogers</title>
-        <desc>Deputy Garcia lives his lifelong dream: leading security for a Kenny Rogers book signing.</desc>
-        <icon src="https://images.pluto.tv/series/65e9890d3d3e4500142f5161/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
 <programme channel="65e9766eec9fda0008cb418a-DK" start="20261027021902 +0000" stop="20261027024506 +0000">
         <title>RENO 911!: More FBI Help</title>
@@ -7940,25 +7893,10 @@ Uhyggen starter kl. 22.00 til tidlig morgen."</desc>
         <desc>Vincent Price, in a role both madcap and touching, stars as an actor taking vengeance on the critics who fail to appreciate his genius, killing them in a series of murders based on Shakespeare. Diana Rigg plays Price’s Cordelia-like daughter.</desc>
         <icon src="https://images.pluto.tv/series/6a2977be0eeacb37233987d2/tile_1781103850991.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-<programme channel="67f4ff72dea1c5e0d5c205fe-GB" start="20261027002525 +0000" stop="20261027021125 +0000">
-        <title>The Burning</title>
-        <desc>A mysterious man emerges from the Argentinean rainforest to help a poor farmer and his daughter, who are threatened by a band of mercenaries hired to force them to sell their land.</desc>
-        <icon src="https://images.pluto.tv/series/61002878d0991b0014463e25/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-<programme channel="67f4ffda8ddd60c57dc24e35-GB" start="20261027004149 +0000" stop="20261027021649 +0000">
-        <title>A Werewolf In England</title>
-        <desc>Two people take refuge from a storm at a remote countryside Inn. They soon uncover a deadly pact between the strange Innkeepers and flesh-hungry werewolves. The guests must band together and fight tooth and nail to survive the night!</desc>
-        <icon src="https://images.pluto.tv/series/63e11b30380e200013b06fca/tile_1766098461107.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
 <programme channel="68b5a7b69ac85c428f54c441-GB" start="20261027004900 +0000" stop="20261027025428 +0000">
         <title>Shirley</title>
         <desc>A famous horror writer finds inspiration for her next book after she and her husband take in a young couple.</desc>
         <icon src="https://images.pluto.tv/series/68f62d41d70c07ace80602e8/tile_1782276863623.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-<programme channel="619247c34a270700077c8415-GB" start="20261027002108 +0000" stop="20261027020604 +0000">
-        <title>Steven Spielberg Presents Taken</title>
-        <desc>Two unusual boys discover their unique destinies and begin to realize their place within the aliens' master plan.</desc>
-        <icon src="https://images.pluto.tv/series/66bb2bd0dc6f2f001306d19d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
 <programme channel="5ad8d3a31b95267e225e4e09-GB" start="20261027040511 +0000" stop="20261027060836 +0000">
         <title>Prime</title>
@@ -8024,11 +7962,6 @@ Uhyggen starter kl. 22.00 til tidlig morgen."</desc>
         <title>The Divergent Series: Insurgent</title>
         <desc>Fugitives Tris and Four search for allies and answers among the ruins of Chicago while arduously trying to evade Jeanine, leader of the Erudite.</desc>
         <icon src="https://images.pluto.tv/series/6a95f99b3830afefd5af03ff/tile_1788213778406.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-<programme channel="66ba1f46d2d50d00084a28c4-GB" start="20261027012200 +0000" stop="20261027021500 +0000">
-        <title>Bitten: Scavenger's Daughter</title>
-        <desc>With Aleister’s Undoing spell activated, Elena, Clay, Paige and Nick try to find him at Clara’s house, only to discover Aleister’s sinister endgame for Savannah once the Undoing is complete.</desc>
-        <icon src="https://images.pluto.tv/series/64367fbe1a5081001ab0cf15/tile_1767213361424.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
 <programme channel="66ba1f46d2d50d00084a28c4-GB" start="20261027021500 +0000" stop="20261027030600 +0000">
         <title>Bitten: Fine Temporum</title>
@@ -8120,11 +8053,6 @@ Uhyggen starter kl. 22.00 til tidlig morgen."</desc>
         <desc>During a newscast, The Astrologer announces that an earthquake is about to devastate the land, and to ensure his prediction comes true, he makes plans to detonate an atomic bomb.</desc>
         <icon src="https://images.pluto.tv/series/675c3b123eea500013e8b2c1/tile_1790722808329.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-<programme channel="685041d936c9361b1921c26c-GB" start="20261027012450 +0000" stop="20261027021558 +0000">
-        <title>Z Nation: Murphy's Law</title>
-        <desc>Some strangers earn their ways into the team, taking a keen interest in Murphy, but things take a deadly turn.</desc>
-        <icon src="https://images.pluto.tv/series/6a437780aac2f7c6ece1a128/tile_1782806401656.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
 <programme channel="685041d936c9361b1921c26c-GB" start="20261027021558 +0000" stop="20261027030706 +0000">
         <title>Z Nation: Doctor of the Dead</title>
         <desc>The team is re-routed to a Colorado viral lab located in a nuclear missile silo in hopes of finding Dr. Merch.</desc>
@@ -8169,11 +8097,6 @@ Uhyggen starter kl. 22.00 til tidlig morgen."</desc>
         <title>Palermo Shooting</title>
         <desc>After the wild life-style of a famous young German photographer almost gets him killed, he goes to Palermo, Sicily to take a break. Can the beautiful city and a beautiful local woman help him calm himself down?</desc>
         <icon src="https://images.pluto.tv/series/6916f7c2f1f80c8151e91fa0/tile_1772124481074.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-<programme channel="66ba1ef5fe11e50008814383-GB" start="20261027014224 +0000" stop="20261027020926 +0000">
-        <title>Mona the Vampire</title>
-        <desc>Charley accidentally awakens the all-powerful Viking god // Mona, Lily and Charley discover that Mr. Piper the substitute music teacher is an ogre</desc>
-        <icon src="https://images.pluto.tv/series/68f37e75d279ff480545d2d9/tile_1785264842158.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
 <programme channel="66ba1ef5fe11e50008814383-GB" start="20261027020926 +0000" stop="20261027023628 +0000">
         <title>Mona the Vampire</title>
@@ -8266,11 +8189,6 @@ Jacob Clarke (Anton Yelchin), but his secret government project is rejuvenated a
         <desc>By means of a powerful Nitron Lamp from Mars, Ming and Azura plot to destroy the Earth. Flash Gordon travels to Mars where the Mar­tians open fire with a powerful ray gun.</desc>
         <icon src="https://images.pluto.tv/series/617fbeee98a65c001bb0d830/tile_1779248161249.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-<programme channel="62f53dc6ee9a0400071dc22b-GB" start="20261027014910 +0000" stop="20261027021710 +0000">
-        <title>Drop The Dead Donkey</title>
-        <desc>Rejected by her married lover, Joy becomes a monster of efficiency.</desc>
-        <icon src="https://images.pluto.tv/series/6984c60ff6a1c14c0932cf6a/tile_1770309136226.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
 <programme channel="62f53dc6ee9a0400071dc22b-GB" start="20261027021710 +0000" stop="20261027024604 +0000">
         <title>Drop The Dead Donkey</title>
         <desc>The team bond during a woods weekend in playing paint-ball.</desc>
@@ -8316,11 +8234,6 @@ Jacob Clarke (Anton Yelchin), but his secret government project is rejuvenated a
         <desc>When the body of nine-year-old Marise Chiverella was discovered in 1964, her Pennsylvania hometown lived in fear that a child predator was hiding in plain sight, but the truth would not be revealed for over 50 years.</desc>
         <icon src="https://images.pluto.tv/series/65cb28f770ac440013e10ac9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-<programme channel="5d2c571faeb3e2738ae27933-GB" start="20261027011320 +0000" stop="20261027020420 +0000">
-        <title>Police Interceptors</title>
-        <desc>Dan is given the runaround by an uninsured driver.</desc>
-        <icon src="https://images.pluto.tv/series/5d3b3627359626e32b78c1d5/tile_1790722816767.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
 <programme channel="5d2c571faeb3e2738ae27933-GB" start="20261027020420 +0000" stop="20261027025520 +0000">
         <title>Police Interceptors: Episode 6</title>
         <desc>The interceptors stop a coach load of cage fighters.</desc>
@@ -8340,11 +8253,6 @@ Jacob Clarke (Anton Yelchin), but his secret government project is rejuvenated a
         <title>Police Interceptors</title>
         <desc>Documentary series following an Essex police unit.</desc>
         <icon src="https://images.pluto.tv/series/5d3b3627359626e32b78c1d5/tile_1790722816767.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-<programme channel="5e393d5c696b3b0009775c8b-GB" start="20261027010900 +0000" stop="20261027020800 +0000">
-        <title>The New Detectives: Without A Trace</title>
-        <desc>Missing Person: Approximately 1.8 million Americans are reported missing each year. Worldwide, the number of missing persons nearly triples.</desc>
-        <icon src="https://images.pluto.tv/series/5b190526c65a064263762545/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
 <programme channel="5e393d5c696b3b0009775c8b-GB" start="20261027020800 +0000" stop="20261027030800 +0000">
         <title>The New Detectives: False Witness</title>
@@ -8380,11 +8288,6 @@ Jacob Clarke (Anton Yelchin), but his secret government project is rejuvenated a
         <title>Born to Kill?</title>
         <desc>Clues to serial killer doctor Harold Shipman's crimes could be found in his background. After being convicted of the murders of 15 elderly patients, it is believed the true number of victims could be as high as 275.</desc>
         <icon src="https://images.pluto.tv/series/6669ce441c02820013392354/tile_1751753141820.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-<programme channel="66ba1e23d2d50d00084a1e57-GB" start="20261027012200 +0000" stop="20261027021800 +0000">
-        <title>Crimes That Shook Britain: The Russell Murders</title>
-        <desc>Bludgeoned to death whilst walking down a country lane, the horrific murders of Lin and Megan Russell made worldwide news. Discover the events of that shocking day.</desc>
-        <icon src="https://images.pluto.tv/series/61efb6ce04ff25001a4f0841/tile_1790723889051.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
 <programme channel="66ba1e23d2d50d00084a1e57-GB" start="20261027021800 +0000" stop="20261027031000 +0000">
         <title>Crimes That Shook Britain: Rochdale Groomers</title>
@@ -8481,11 +8384,6 @@ Jacob Clarke (Anton Yelchin), but his secret government project is rejuvenated a
         <desc>Analysing the evidence, the medical detectives solve real crimes using forensic techniques, alongside reconstructions</desc>
         <icon src="https://images.pluto.tv/series/6596a798478df60013c7c22e/tile_1790722082253.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-<programme channel="69038c2ee0e0c5f8208c033a-GB" start="20261027012336 +0000" stop="20261027021455 +0000">
-        <title>Murdertown: Dundee</title>
-        <desc>Aged 15, Robbie McIntosh walked into a fish and chip shop to announce that a woman had been killed on the iconic Law Hill. Police revealed the victim had been stabbed dozens of times. But they never imagined that the culprit was the teenager.</desc>
-        <icon src="https://images.pluto.tv/series/66c853c88e7691001328393c/tile_1767316285726.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
 <programme channel="69038c2ee0e0c5f8208c033a-GB" start="20261027021455 +0000" stop="20261027030557 +0000">
         <title>Murdertown: Barnsley</title>
         <desc>In 2015, a 69-year-old man is found stabbed in his home. At the scene, forensics uncover a receipt from a nearby cashpoint. CCTV at the bank reveals a woman using the victim's card to withdraw cash. Who is she? And how does she relate to the murder?</desc>
@@ -8560,11 +8458,6 @@ Jacob Clarke (Anton Yelchin), but his secret government project is rejuvenated a
         <title>Crime Exposé with Nancy O'Dell: Crime Exposé with Nancy O'Dell - Season 1 - Episode 093</title>
         <desc>Bianca Devins, 17, was killed by obsessed friend Brandon Clark after her graduation. The two met on Instagram and stayed friends, but Clark’s fixation turned deadly. He posted images of her murder online and was later sentenced to 25 years to life.</desc>
         <icon src="https://images.pluto.tv/series/68ca6eb8fa0f5ccff50c0ac1/tile_1790724251407.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-<programme channel="68c8202f5ec82769fdfcd0a2-GB" start="20261027015100 +0000" stop="20261027021900 +0000">
-        <title>Neighborhood Wars</title>
-        <desc>In Georgia, a parent slaps the school bus driver after the driver refuses to let her kids off the bus; a woman returns to her parked car to find it covered in dog poop; prize-winning anglers are accused of stuffing their catch with weights.</desc>
-        <icon src="https://images.pluto.tv/series/6932b5da82c5f9296df38781/tile_1776788219636.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
 <programme channel="68c8202f5ec82769fdfcd0a2-GB" start="20261027021900 +0000" stop="20261027024600 +0000">
         <title>Neighborhood Wars</title>
@@ -12291,11 +12184,6 @@ Jacob Clarke (Anton Yelchin), but his secret government project is rejuvenated a
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68c8202f5ec82769fdfcd0a2/featuredImage_1765877993411.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-<programme channel="63a19cb7847a090007f230d7-NO" start="20261027002631 +0000" stop="20261027021439 +0000">
-        <title>Prom Night (1980)</title>
-        <desc>I denne klassiske skrekkfilmen med Jamie Lee Curtis (Halloween) i hovedrollen, forfølger en maskert morder fire tenåringer som var ansvarlige for dødsfallet til en lokal jente seks år tidligere. NB Denne filmen vises uten norske undertekster.</desc>
-        <icon src="https://images.pluto.tv/series/68c94da39889a990edc560e8/tile_1784828883638.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
 <programme channel="66c701056838ee00085bee72-NO" start="20261027004100 +0000" stop="20261027023100 +0000">
         <title>Fredag den 13ende del III</title>
         <desc>Etter å ha oversett Camp Crystal Lakes blodige historie, blir de én etter én ofre for den gale Jason, som jager dem nådeløst...</desc>
@@ -12436,11 +12324,6 @@ Jacob Clarke (Anton Yelchin), but his secret government project is rejuvenated a
         <desc>En spenningsserie som handler om det overnaturlige. I hver episode begir fire modige sjeler seg ut på et oppdrag i fare og redsel når de sporer opp og henter tilbake forbannede gjenstander. Mysteriet starter fra kl. 20 hver kveld.</desc>
         <icon src="https://images.pluto.tv/series/67065661d8eb4500087e08f8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-<programme channel="679b5fce97bed7000809cdf2-NO" start="20261027012529 +0000" stop="20261027021745 +0000">
-        <title>Haunted Discoveries</title>
-        <desc>Long before the first funeral home was established in Manchester, Kentucky in 1938, there was the Chestnut House. The Chestnut family dedicated one of the home’s parlors to store the caskets they made.</desc>
-        <icon src="https://images.pluto.tv/series/66d18a1b77deaf0014978ca2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
 <programme channel="679b5fce97bed7000809cdf2-NO" start="20261027021745 +0000" stop="20261027031245 +0000">
         <title>Haunted Discoveries</title>
         <desc>Paranormal enthusiasts have theorized that Somerset County’s enthralling paranormal finds may have more to do with the geomagnetic anomalies present in its unique land that yield results which are fascinating to some and terrifying to others.</desc>
@@ -12551,11 +12434,6 @@ Jacob Clarke (Anton Yelchin), but his secret government project is rejuvenated a
         <desc>Sydney og Nigel drar til Larivee, California for å finne Pioneer's Bear Flag.</desc>
         <icon src="https://images.pluto.tv/series/621c97f7e17acd00139bff56/tile_1776072984727.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-<programme channel="61815067b9802500076e16e0-NO" start="20261027010900 +0000" stop="20261027020700 +0000">
-        <title>The FBI Files: Hunter's Game</title>
-        <desc>In the 1970s and 80s, people went to Alaska looking for a fresh start, to reinvent themselves, or to disappear for a while. Some of those disappearances weren't by choice.</desc>
-        <icon src="https://images.pluto.tv/series/61fa86e342817b001a98ba1d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
 <programme channel="61815067b9802500076e16e0-NO" start="20261027020700 +0000" stop="20261027030600 +0000">
         <title>The FBI Files: Silent Strike</title>
         <desc>Money may not be the root of all evil, but for some men, a million dollars is enough to justify murder. Even men sworn to uphold the law can sometimes be tempted.</desc>
@@ -12570,11 +12448,6 @@ Jacob Clarke (Anton Yelchin), but his secret government project is rejuvenated a
         <title>The FBI Files: Deadly Heist</title>
         <desc>In Arizona, an armored van loaded with cash failed to reach its destination. Authorities suspected an inside job. When the vehicle was recovered with the drivers and the cash missing, those suspicions grew even more.</desc>
         <icon src="https://images.pluto.tv/series/61fa86e342817b001a98ba1d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-<programme channel="6181511c1e13690007b143c2-NO" start="20261027011900 +0000" stop="20261027021600 +0000">
-        <title>The New Detectives: Killing Time</title>
-        <desc>A killer may strike in the middle of the night, and hide clues well. But the police are always there, ready and working, and they will never give up when they're on the trail of criminals who decide it's Killing Time.</desc>
-        <icon src="https://images.pluto.tv/series/61a797ee4b12ef00148fee8c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
 <programme channel="6181511c1e13690007b143c2-NO" start="20261027021600 +0000" stop="20261027031400 +0000">
         <title>The New Detectives: Blind Trust</title>
@@ -12626,11 +12499,6 @@ Jacob Clarke (Anton Yelchin), but his secret government project is rejuvenated a
         <desc>Smil! Comedy Central Pluto TV har underholdning i bøttevis for deg med de beste komedieseriene, de mest legendariske stand-up showene og de villeste seriene og mye mye mer.</desc>
         <icon src="https://images.pluto.tv/series/6a9a6a34198ce62db371b58b/tile_1788504629689.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-<programme channel="6486e8328e3c0a0008e5686c-NO" start="20261027015212 +0000" stop="20261027021453 +0000">
-        <title>Beavis and Butt-Head: Buy Beer / Just For Girls</title>
-        <desc>Beavis and Butt-head get drunk off non-alcoholic beer and fail a sobriety test. / Beavis and Butt-head are allowed to watch a film for girls about teen pregnancy. The titillation ends abruptly during the birthing sequence.</desc>
-        <icon src="https://images.pluto.tv/series/65ccad94b65b8700134e8103/tile_1780480081644.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
 <programme channel="6486e8328e3c0a0008e5686c-NO" start="20261027021453 +0000" stop="20261027024156 +0000">
         <title>Beavis and Butt-Head: Here Comes The Bride's Butt / Skin Trade</title>
         <desc>Beavis and Butt-head crash a wedding in hopes of making out with the bride. / Beavis and Butt-head find a dead animal and try to sell its fur. But Beavis soon becomes attached to the lifeless creature.</desc>
@@ -12660,11 +12528,6 @@ Jacob Clarke (Anton Yelchin), but his secret government project is rejuvenated a
         <title>Beavis and Butt-Head: A great day / Bride of Butt-Head / Special delivery</title>
         <desc>The school closes and makes the best day / Butt-Head phones in a mail-order bride / Burger World launches a home delivery service</desc>
         <icon src="https://images.pluto.tv/series/65ccad94b65b8700134e8103/tile_1780480081644.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-<programme channel="65e977874e01740008c9fb4c-NO" start="20261027014325 +0000" stop="20261027020921 +0000">
-        <title>RENO 911!: Fire Fighters Are Jerks</title>
-        <desc>The accursed Fire Department schedules its Pancake Dinner at the same time as the Policeman's Ball.</desc>
-        <icon src="https://images.pluto.tv/series/65e069f86ef49d001306f002/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
 <programme channel="65e977874e01740008c9fb4c-NO" start="20261027020921 +0000" stop="20261027023554 +0000">
         <title>RENO 911!: Not Without My Mustache</title>
@@ -15006,11 +14869,6 @@ Jacob Clarke (Anton Yelchin), but his secret government project is rejuvenated a
         <desc>Dylan och hans nya flotta från Samväldet tar sig an Drago-Kazovs flotta men finner den mycket större än väntat.</desc>
         <icon src="https://images.pluto.tv/series/61bc89280a7fe8001a07a2f1/tile_1776072601416.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-<programme channel="61814b9a9704450007e52316-SE" start="20261027011300 +0000" stop="20261027021400 +0000">
-        <title>The FBI Files: The Murdering Cowboy</title>
-        <desc>The sun set on the Wild West long ago, but some people refused to notice. Claude Dallas was one of them. A wily trapper, Dallas typified the rugged individualism that forged this country. He went too far when he killed two game wardens in 1981.</desc>
-        <icon src="https://images.pluto.tv/series/61fa87b5fef5db001a0ea299/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
 <programme channel="61814b9a9704450007e52316-SE" start="20261027021400 +0000" stop="20261027031500 +0000">
         <title>The FBI Files: The World Trade Center Bombing</title>
         <desc>Terrorist bombings are what happen in other countries. Not here in the United States. And yet, in 1993, it happened in New York City.</desc>
@@ -15046,11 +14904,6 @@ Jacob Clarke (Anton Yelchin), but his secret government project is rejuvenated a
         <desc>Drug trafficking has spawned a violent and deadly criminal underground. It's providing a challenge to forensic investigators devoted to cracking drug rings.</desc>
         <icon src="https://images.pluto.tv/series/61a7989eeeb8a3001308c5e8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-<programme channel="61c0b550e0d3a700072b6a2a-SE" start="20261027014556 +0000" stop="20261027021556 +0000">
-        <title>Comedy Central Pluto TV</title>
-        <desc>Säg cheese! Comedy Central Pluto TV är kanalen som bjuder på de bästa komediserierna, de mest ikoniska standup-showerna, de galnaste tecknade serierna och mycket mer.</desc>
-        <icon src="https://images.pluto.tv/series/6a9a6ab3815e1932eb26f45f/tile_1788504756483.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
 <programme channel="61c0b550e0d3a700072b6a2a-SE" start="20261027021556 +0000" stop="20261027024556 +0000">
         <title>Comedy Central Pluto TV</title>
         <desc>Säg cheese! Comedy Central Pluto TV är kanalen som bjuder på de bästa komediserierna, de mest ikoniska standup-showerna, de galnaste tecknade serierna och mycket mer.</desc>
@@ -15080,11 +14933,6 @@ Jacob Clarke (Anton Yelchin), but his secret government project is rejuvenated a
         <title>Comedy Central Pluto TV</title>
         <desc>Säg cheese! Comedy Central Pluto TV är kanalen som bjuder på de bästa komediserierna, de mest ikoniska standup-showerna, de galnaste tecknade serierna och mycket mer.</desc>
         <icon src="https://images.pluto.tv/series/6a9a6ab3815e1932eb26f45f/tile_1788504756483.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-<programme channel="6391e0b4bad1970007ee5733-SE" start="20261027014011 +0000" stop="20261027020616 +0000">
-        <title>Våra värsta år: Assault and Batteries</title>
-        <desc>When Al tries to change some batteries, the computer locks him inside a store. Meanwhile, Kelly and Bud celebrate Buck's birthday.</desc>
-        <icon src="https://images.pluto.tv/series/65b0e736debc810013dea69b/tile_1761829156068.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
 <programme channel="6391e0b4bad1970007ee5733-SE" start="20261027020616 +0000" stop="20261027023223 +0000">
         <title>Våra värsta år: Ride Scare</title>
@@ -15120,11 +14968,6 @@ Jacob Clarke (Anton Yelchin), but his secret government project is rejuvenated a
         <title>Våra värsta år: Business Sucks</title>
         <desc>Al refuses to allow breastfeeding in the shoe store.</desc>
         <icon src="https://images.pluto.tv/series/65b0e736debc810013dea69b/tile_1761829156068.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-<programme channel="6486e8b48e3c0a0008e56914-SE" start="20261027013359 +0000" stop="20261027021307 +0000">
-        <title>Beavis and Butt-Head: Bounty Hunters / School Test / Going Down</title>
-        <desc>Beavis and Butt-Head become ace bounty hunters after a chance meeting with a reality TV. / With a big test looming, our favorite idiots receive an education in cheating. / Beavis and Butt-Head find themselves trapped in an elevator with a smokin hot chick</desc>
-        <icon src="https://images.pluto.tv/series/64b79d000a21a3001308a5c3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
 <programme channel="6486e8b48e3c0a0008e56914-SE" start="20261027021307 +0000" stop="20261027024007 +0000">
         <title>Beavis and Butt-Head: Candy Sale  / To the Rescue</title>
@@ -17546,26 +17389,6 @@ Jacob Clarke (Anton Yelchin), but his secret government project is rejuvenated a
         <desc>Russell Crowe stars as Noah in the timeless story of courage, sacrifice, and hope. "This visually stunning, action-adventure is hailed as "one of the most unforgettable Biblical epics ever put on film." *Richard Roeper, Chicago-Sun-Times</desc>
         <icon src="https://images.pluto.tv/series/60a8136bac192300136e1dc2/tile_1791326882061.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-<programme channel="5ba3fb9c4b078e0f37ad34e8-US" start="20261027000000 +0000" stop="20261027021500 +0000">
-        <title>That Thing You Do!</title>
-        <desc>Are you ready to rock n' roll? The Wonders are here to take you back to a simpler time when being famous was a bit more innocent.</desc>
-        <icon src="https://images.pluto.tv/series/616ef020417e0a001ae53c9d/tile_1792614610924.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-<programme channel="5c665db3e6c01b72c4977bc2-US" start="20261027000001 +0000" stop="20261027021501 +0000">
-        <title>Mimic</title>
-        <desc>From Oscar-winning director Guillermo del Toro (THE SHAPE OF WATER) comes the ultimate battle between man and nature.  Once a miracle of genetic engineering, what was created in the lab has evolved to mimic the most dangerous predator of all—humans.</desc>
-        <icon src="https://images.pluto.tv/series/5f88ae067f692c001a4e4e55/tile_1790184602010.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-<programme channel="5c6dc88fcd232425a6e0f06e-US" start="20261027000000 +0000" stop="20261027021500 +0000">
-        <title>Wes Craven Presents: Dracula 2000</title>
-        <desc>Master of horror Wes Craven presents a sexy, modern-day adaptation of the classic Gothic thriller.  After Dracula is awakened from his 100-year slumber, he makes America his first destination, specifically the exotic city of New Orleans.</desc>
-        <icon src="https://images.pluto.tv/series/613fccb6766f2a00142e687d/tile_1789510416356.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-<programme channel="617b37b361e0fd0008cfd8c5-US" start="20261027000000 +0000" stop="20261027021500 +0000">
-        <title>The Crow</title>
-        <desc>Visually stunning and action-packed, this hit movie, based on the comic book series, follows the return from the grave of a young rock guitarist who, along with his fiancée, is brutally killed by a ruthless gang of criminals.</desc>
-        <icon src="https://images.pluto.tv/series/615792f5c7de1b0013705580/tile_1791410409013.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
 <programme channel="64b585f84ea480000838e446-US" start="20261027011500 +0000" stop="20261027041500 +0000">
         <title>Babel</title>
         <desc>From acclaimed Director Alejandro Gonz</desc>
@@ -18026,11 +17849,6 @@ Jacob Clarke (Anton Yelchin), but his secret government project is rejuvenated a
         <desc>Anytime, anywhere, people disappear  kidnapped from their daily routines. Predators always leave clues behind, but chasing them takes time, hampering investigators' attempts to solve these fatal abductions.</desc>
         <icon src="https://images.pluto.tv/series/5ac562a0ea0c647dd15b80d7/tile_1783621442048.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-<programme channel="68bb164fb3900870ec368759-US" start="20261027012529 +0000" stop="20261027021342 +0000">
-        <title>Fear Thy Neighbor</title>
-        <desc>A loner moves onto a social street, and sparks fly with its honorary mayor.</desc>
-        <icon src="https://images.pluto.tv/series/68e80ef5c6fef0ca17afe853/tile_1785196950894.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
 <programme channel="68bb164fb3900870ec368759-US" start="20261027021342 +0000" stop="20261027030155 +0000">
         <title>Fear Thy Neighbor</title>
         <desc>Petty neighbor squabbles escalate into an all-out war in British Columbia.</desc>
@@ -18050,11 +17868,6 @@ Jacob Clarke (Anton Yelchin), but his secret government project is rejuvenated a
         <title>Fear Thy Neighbor</title>
         <desc>A neighbor clash starts with a dog attack and ends with horrific murders.</desc>
         <icon src="https://images.pluto.tv/series/68e80ef5c6fef0ca17afe853/tile_1785196950894.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-<programme channel="5ef3958c66ac540007d6e6a7-US" start="20261027014500 +0000" stop="20261027021500 +0000">
-        <title>Dark Shadows</title>
-        <desc>Nicholas orders Angelique not to see Barnabas again without his permission.</desc>
-        <icon src="https://images.pluto.tv/series/5f4404659025f2001a795b46/tile_1783542241994.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
 <programme channel="5ef3958c66ac540007d6e6a7-US" start="20261027021500 +0000" stop="20261027024500 +0000">
         <title>Dark Shadows</title>
@@ -21498,14 +21311,6 @@ Jacob Clarke (Anton Yelchin), but his secret government project is rejuvenated a
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f9ef2757489f549e9d2e02e0d372e25c/rokuFeed/assets/07792d560a1958eaafb19652c4b5a6d2.jpg"/>
     <rating system="Motion Picture Association of America">UR</rating>
   </programme>
-<programme channel="8abbea29b86a5a5da299c7ef2e288cab" start="20261026233455 +0000" stop="20261027021401 +0000">
-    <title>On Patrol: Live</title>
-    <sub-title>On Patrol: Live</sub-title>
-    <desc>Florida officers search for a possible drowning victim; a high-speed chase in Arkansas.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b96fbcc3226c51d0bfa309b0c22b9903/rokuFeed/assets/2634c7dfe81357beb261f58a39b170f8.jpg"/>
-    <episode-num system="onscreen">S03E10</episode-num>
-    <rating system="USA Parental Rating">TV14</rating>
-  </programme>
 <programme channel="8abbea29b86a5a5da299c7ef2e288cab" start="20261027021401 +0000" stop="20261027045307 +0000">
     <title>On Patrol: Live</title>
     <sub-title>On Patrol: Live</sub-title>
@@ -21852,7 +21657,6 @@ Jacob Clarke (Anton Yelchin), but his secret government project is rejuvenated a
 <programme start="20261028142500 +0000" stop="20261028163500 +0000" channel="XU668093"><title>The Babe</title><desc>Life has changed drastically for thunder buddies John (Mark Wahlberg), now a bachelor, and best pal Ted (Seth MacFarlane), now married to the woman (Jessica Barth) of his dreams. Problems arise when the couple decide to adopt a child, but the law declares Ted to be property and not a person. Angry and dejected, the lovably foulmouthed teddy bear must now seek legal help from a young lawyer (Amanda Seyfried) and a legendary, civil-rights attorney (Morgan Freeman) to get the justice he deserves.</desc><rating system="VCHIP"><value>R</value></rating></programme>
 <programme start="20261028163500 +0000" stop="20261028183300 +0000" channel="XU668093"><title>The Best of Times</title><desc>Life has changed drastically for thunder buddies John (Mark Wahlberg), now a bachelor, and best pal Ted (Seth MacFarlane), now married to the woman (Jessica Barth) of his dreams. Problems arise when the couple decide to adopt a child, but the law declares Ted to be property and not a person. Angry and dejected, the lovably foulmouthed teddy bear must now seek legal help from a young lawyer (Amanda Seyfried) and a legendary, civil-rights attorney (Morgan Freeman) to get the justice he deserves.</desc><rating system="VCHIP"><value>R</value></rating></programme>
 <programme start="20261028183300 +0000" stop="20261028202200 +0000" channel="XU668093"><title>Bustin' Loose</title><desc>Life has changed drastically for thunder buddies John (Mark Wahlberg), now a bachelor, and best pal Ted (Seth MacFarlane), now married to the woman (Jessica Barth) of his dreams. Problems arise when the couple decide to adopt a child, but the law declares Ted to be property and not a person. Angry and dejected, the lovably foulmouthed teddy bear must now seek legal help from a young lawyer (Amanda Seyfried) and a legendary, civil-rights attorney (Morgan Freeman) to get the justice he deserves.</desc><rating system="VCHIP"><value>R</value></rating></programme>
-<programme start="20261027002103 +0000" stop="20261027021806 +0000" channel="FM150165"><title>Blue Steel</title><desc>Join a community of open-minded fans of queer culture and unapologetically loud, fun, fantastical stories. Escape into a world of subversive humor, theatrical tales, killer queens, and everyday divas.</desc><rating system="VCHIP"><value>TV-NR</value></rating></programme>
 <programme start="20261027021806 +0000" stop="20261027040207 +0000" channel="FM150165"><title>A Vigilante</title><desc>Join a community of open-minded fans of queer culture and unapologetically loud, fun, fantastical stories. Escape into a world of subversive humor, theatrical tales, killer queens, and everyday divas.</desc><rating system="VCHIP"><value>TV-NR</value></rating></programme>
 <programme start="20261027040207 +0000" stop="20261027061932 +0000" channel="FM150165"><title>Clive Barker's Lord of Illusions</title><desc>Join a community of open-minded fans of queer culture and unapologetically loud, fun, fantastical stories. Escape into a world of subversive humor, theatrical tales, killer queens, and everyday divas.</desc><rating system="VCHIP"><value>TV-NR</value></rating></programme>
 <programme start="20261027061932 +0000" stop="20261027081200 +0000" channel="FM150165"><title>Night of the Comet</title><desc>Join a community of open-minded fans of queer culture and unapologetically loud, fun, fantastical stories. Escape into a world of subversive humor, theatrical tales, killer queens, and everyday divas.</desc><rating system="VCHIP"><value>TV-NR</value></rating></programme>
@@ -21954,7 +21758,6 @@ Jacob Clarke (Anton Yelchin), but his secret government project is rejuvenated a
 <programme start="20261028142556 +0000" stop="20261028155727 +0000" channel="RK436342"><title>Epic Movie</title><desc>Unstoppable action, 100% free. A selection of thrilling action movies to keep you on the edge of your seat, curated by Rakuten TV. Priceless entertainment, streaming 24/7.</desc><rating system="VCHIP"><value>TV-NR</value></rating></programme>
 <programme start="20261028155727 +0000" stop="20261028172747 +0000" channel="RK436342"><title>Fixed</title><desc>Unstoppable action, 100% free. A selection of thrilling action movies to keep you on the edge of your seat, curated by Rakuten TV. Priceless entertainment, streaming 24/7.</desc><rating system="VCHIP"><value>TV-NR</value></rating></programme>
 <programme start="20261028172747 +0000" stop="20261028191941 +0000" channel="RK436342"><title>Left Behind: The Movie</title><desc>Unstoppable action, 100% free. A selection of thrilling action movies to keep you on the edge of your seat, curated by Rakuten TV. Priceless entertainment, streaming 24/7.</desc><rating system="VCHIP"><value>TV-NR</value></rating></programme>
-<programme start="20261027002007 +0000" stop="20261027020425 +0000" channel="RK802499"><title>A Year And Change</title><desc>The lives of gig economy workers intersect as they try to make ends meet in Chicago. A non binary bike messenger delivers sexy toys, two sisters deliver art, and two roommates sell drugs for their friend while he's on vacation.</desc><rating system="VCHIP"><value/></rating></programme>
 <programme start="20261027020425 +0000" stop="20261027033236 +0000" channel="RK802499"><title>BAM!</title><desc>The lives of gig economy workers intersect as they try to make ends meet in Chicago. A non binary bike messenger delivers sexy toys, two sisters deliver art, and two roommates sell drugs for their friend while he's on vacation.</desc><rating system="VCHIP"><value/></rating></programme>
 <programme start="20261027033236 +0000" stop="20261027053112 +0000" channel="RK802499"><title>The Bromley Boys</title><desc>The lives of gig economy workers intersect as they try to make ends meet in Chicago. A non binary bike messenger delivers sexy toys, two sisters deliver art, and two roommates sell drugs for their friend while he's on vacation.</desc><rating system="VCHIP"><value/></rating></programme>
 <programme start="20261027053112 +0000" stop="20261027071002 +0000" channel="RK802499"><title>Finding Ms. Right</title><desc>The lives of gig economy workers intersect as they try to make ends meet in Chicago. A non binary bike messenger delivers sexy toys, two sisters deliver art, and two roommates sell drugs for their friend while he's on vacation.</desc><rating system="VCHIP"><value/></rating></programme>
@@ -22107,7 +21910,6 @@ Jacob Clarke (Anton Yelchin), but his secret government project is rejuvenated a
 <programme start="20261028140410 +0000" stop="20261028160112 +0000" channel="XU167360"><title>Underdogs</title><desc>Watch thousands of your favorite movies and music videos.</desc><rating system="VCHIP"><value>TV-NR</value></rating></programme>
 <programme start="20261028160112 +0000" stop="20261028175603 +0000" channel="XU167360"><title>Ten Inch Hero</title><desc>Watch thousands of your favorite movies and music videos.</desc><rating system="VCHIP"><value>TV-NR</value></rating></programme>
 <programme start="20261028175603 +0000" stop="20261028202753 +0000" channel="XU167360"><title>Here Be Dragons/Suburban Coffin Double Feature</title><desc>Watch thousands of your favorite movies and music videos.</desc><rating system="VCHIP"><value>TV-NR</value></rating></programme>
-<programme start="20261027000953 +0000" stop="20261027020821 +0000" channel="XU960194"><title>One Night in Tokyo</title><desc>Your go-to source for hilarious, laugh-out-loud comedies.</desc><rating system="VCHIP"><value>TV-NR</value></rating></programme>
 <programme start="20261027020821 +0000" stop="20261027040000 +0000" channel="XU960194"><title>Goon</title><desc>Your go-to source for hilarious, laugh-out-loud comedies.</desc><rating system="VCHIP"><value>TV-NR</value></rating></programme>
 <programme start="20261027040000 +0000" stop="20261027055740 +0000" channel="XU960194"><title>Goon</title><desc>Your go-to source for hilarious, laugh-out-loud comedies.</desc><rating system="VCHIP"><value>TV-NR</value></rating></programme>
 <programme start="20261027055740 +0000" stop="20261027075000 +0000" channel="XU960194"><title>Free Fire</title><desc>Your go-to source for hilarious, laugh-out-loud comedies.</desc><rating system="VCHIP"><value>TV-NR</value></rating></programme>
@@ -22338,7 +22140,6 @@ Jacob Clarke (Anton Yelchin), but his secret government project is rejuvenated a
 <programme start="20261028160000 +0000" stop="20261028170000 +0000" channel="FE446510"><title>Renegade</title><desc>GET is simply Great Entertainment Television.</desc><episode-num system="onscreen">S02E221</episode-num><rating system="VCHIP"><value>TV-NR</value></rating></programme>
 <programme start="20261028170000 +0000" stop="20261028180000 +0000" channel="FE446510"><title>Renegade</title><desc>GET is simply Great Entertainment Television.</desc><episode-num system="onscreen">S02E222</episode-num><rating system="VCHIP"><value>TV-NR</value></rating></programme>
 <programme start="20261028180000 +0000" stop="20261028190000 +0000" channel="FE446510"><title>Walker, Texas Ranger</title><desc>GET is simply Great Entertainment Television.</desc><episode-num system="onscreen">S02E207</episode-num><rating system="VCHIP"><value>TV-NR</value></rating></programme>
-<programme start="20261027010717 +0000" stop="20261027020521 +0000" channel="XU207744"><title>World's Wildest Police Videos</title><desc>High-speed car chases in Texas and California, a riot in Minnesota and an undercover drug bust in Florida. Retired Sheriff John Bunnell hosts this explosive series consisting of the most outrageous police footage: car chases, robberies, riots, arrests and more! #policevideos #policefootage #policechases #clips #bodycam #police #cops #copshow #caughtoncamera #hiddencamera</desc><episode-num system="onscreen">S02E201</episode-num><rating system="VCHIP"><value/></rating></programme>
 <programme start="20261027020521 +0000" stop="20261027030326 +0000" channel="XU207744"><title>World's Wildest Police Videos</title><desc>High-speed car chases in Texas and California, a riot in Minnesota and an undercover drug bust in Florida. Retired Sheriff John Bunnell hosts this explosive series consisting of the most outrageous police footage: car chases, robberies, riots, arrests and more! #policevideos #policefootage #policechases #clips #bodycam #police #cops #copshow #caughtoncamera #hiddencamera</desc><episode-num system="onscreen">S02E202</episode-num><rating system="VCHIP"><value/></rating></programme>
 <programme start="20261027030326 +0000" stop="20261027040000 +0000" channel="XU207744"><title>World's Wildest Police Videos</title><desc>High-speed car chases in Texas and California, a riot in Minnesota and an undercover drug bust in Florida. Retired Sheriff John Bunnell hosts this explosive series consisting of the most outrageous police footage: car chases, robberies, riots, arrests and more! #policevideos #policefootage #policechases #clips #bodycam #police #cops #copshow #caughtoncamera #hiddencamera</desc><episode-num system="onscreen">S02E203</episode-num><rating system="VCHIP"><value/></rating></programme>
 <programme start="20261027040000 +0000" stop="20261027045703 +0000" channel="XU207744"><title>World's Wildest Police Videos</title><desc>High-speed car chases in Texas and California, a riot in Minnesota and an undercover drug bust in Florida. Retired Sheriff John Bunnell hosts this explosive series consisting of the most outrageous police footage: car chases, robberies, riots, arrests and more! #policevideos #policefootage #policechases #clips #bodycam #police #cops #copshow #caughtoncamera #hiddencamera</desc><episode-num system="onscreen">S04E415</episode-num><rating system="VCHIP"><value/></rating></programme>
@@ -22384,7 +22185,6 @@ Jacob Clarke (Anton Yelchin), but his secret government project is rejuvenated a
 <programme start="20261028163646 +0000" stop="20261028173059 +0000" channel="XU207744"><title>World's Wildest Police Videos</title><desc>High-speed car chases in Texas and California, a riot in Minnesota and an undercover drug bust in Florida. Retired Sheriff John Bunnell hosts this explosive series consisting of the most outrageous police footage: car chases, robberies, riots, arrests and more! #policevideos #policefootage #policechases #clips #bodycam #police #cops #copshow #caughtoncamera #hiddencamera</desc><episode-num system="onscreen">S05E511</episode-num><rating system="VCHIP"><value/></rating></programme>
 <programme start="20261028173059 +0000" stop="20261028182512 +0000" channel="XU207744"><title>World's Wildest Police Videos</title><desc>High-speed car chases in Texas and California, a riot in Minnesota and an undercover drug bust in Florida. Retired Sheriff John Bunnell hosts this explosive series consisting of the most outrageous police footage: car chases, robberies, riots, arrests and more! #policevideos #policefootage #policechases #clips #bodycam #police #cops #copshow #caughtoncamera #hiddencamera</desc><episode-num system="onscreen">S05E512</episode-num><rating system="VCHIP"><value/></rating></programme>
 <programme start="20261028182512 +0000" stop="20261028191925 +0000" channel="XU207744"><title>World's Wildest Police Videos</title><desc>High-speed car chases in Texas and California, a riot in Minnesota and an undercover drug bust in Florida. Retired Sheriff John Bunnell hosts this explosive series consisting of the most outrageous police footage: car chases, robberies, riots, arrests and more! #policevideos #policefootage #policechases #clips #bodycam #police #cops #copshow #caughtoncamera #hiddencamera</desc><episode-num system="onscreen">S05E513</episode-num><rating system="VCHIP"><value/></rating></programme>
-<programme start="20261027012019 +0000" stop="20261027021405 +0000" channel="XU191576"><title>World's Most Evil Prisoners</title><desc>Steven Grieveson murdered four teenage boys in 1994 in his reign as the Sunderland Strangler before his capture.</desc><episode-num system="onscreen">S02E03</episode-num><rating system="VCHIP"><value>TV-14</value></rating></programme>
 <programme start="20261027021405 +0000" stop="20261027030755 +0000" channel="XU191576"><title>World's Most Evil Prisoners</title><desc>Steven Grieveson murdered four teenage boys in 1994 in his reign as the Sunderland Strangler before his capture.</desc><episode-num system="onscreen">S02E04</episode-num><rating system="VCHIP"><value>TV-14</value></rating></programme>
 <programme start="20261027030755 +0000" stop="20261027040000 +0000" channel="XU191576"><title>World's Most Evil Prisoners</title><desc>Steven Grieveson murdered four teenage boys in 1994 in his reign as the Sunderland Strangler before his capture.</desc><episode-num system="onscreen">S02E05</episode-num><rating system="VCHIP"><value>TV-14</value></rating></programme>
 <programme start="20261027040000 +0000" stop="20261027045405 +0000" channel="XU191576"><title>World's Most Evil Killers</title><desc>Steven Grieveson murdered four teenage boys in 1994 in his reign as the Sunderland Strangler before his capture.</desc><episode-num system="onscreen">S03E01</episode-num><rating system="VCHIP"><value>TV-14</value></rating></programme>
@@ -22431,7 +22231,6 @@ Jacob Clarke (Anton Yelchin), but his secret government project is rejuvenated a
 <programme start="20261028170125 +0000" stop="20261028175900 +0000" channel="XU191576"><title>World's Most Evil Killers</title><desc>Steven Grieveson murdered four teenage boys in 1994 in his reign as the Sunderland Strangler before his capture.</desc><episode-num system="onscreen">S04E20</episode-num><rating system="VCHIP"><value>TV-14</value></rating></programme>
 <programme start="20261028175900 +0000" stop="20261028185412 +0000" channel="XU191576"><title>World's Most Evil Killers</title><desc>Steven Grieveson murdered four teenage boys in 1994 in his reign as the Sunderland Strangler before his capture.</desc><episode-num system="onscreen">S05E01</episode-num><rating system="VCHIP"><value>TV-14</value></rating></programme>
 <programme start="20261028185412 +0000" stop="20261028195135 +0000" channel="XU191576"><title>World's Most Evil Killers</title><desc>Steven Grieveson murdered four teenage boys in 1994 in his reign as the Sunderland Strangler before his capture.</desc><episode-num system="onscreen">S05E02</episode-num><rating system="VCHIP"><value>TV-14</value></rating></programme>
-<programme start="20261027014949 +0000" stop="20261027021507 +0000" channel="XU003165"><title>America's Dumbest Criminals</title><desc>In this episode, we'll witness joy-riding teenagers desperately in need of driver's education, some best-dressed burglars and a scenario worse than just getting your hand stuck in a toilet.</desc><episode-num system="onscreen">S02E25</episode-num><rating system="VCHIP"><value>TV-14</value></rating></programme>
 <programme start="20261027021507 +0000" stop="20261027024027 +0000" channel="XU003165"><title>America's Dumbest Criminals</title><desc>In this episode, we'll witness joy-riding teenagers desperately in need of driver's education, some best-dressed burglars and a scenario worse than just getting your hand stuck in a toilet.</desc><episode-num system="onscreen">S02E26</episode-num><rating system="VCHIP"><value>TV-14</value></rating></programme>
 <programme start="20261027024027 +0000" stop="20261027030716 +0000" channel="XU003165"><title>America's Dumbest Criminals</title><desc>In this episode, we'll witness joy-riding teenagers desperately in need of driver's education, some best-dressed burglars and a scenario worse than just getting your hand stuck in a toilet.</desc><episode-num system="onscreen">S03E01</episode-num><rating system="VCHIP"><value>TV-14</value></rating></programme>
 <programme start="20261027030716 +0000" stop="20261027033403 +0000" channel="XU003165"><title>America's Dumbest Criminals</title><desc>In this episode, we'll witness joy-riding teenagers desperately in need of driver's education, some best-dressed burglars and a scenario worse than just getting your hand stuck in a toilet.</desc><episode-num system="onscreen">S03E02</episode-num><rating system="VCHIP"><value>TV-14</value></rating></programme>
@@ -22608,7 +22407,6 @@ Jacob Clarke (Anton Yelchin), but his secret government project is rejuvenated a
 <programme start="20261028163834 +0000" stop="20261028173935 +0000" channel="XU353866"><title>The New Detectives</title><desc>Though female killers usually choose less violent methods than their male counterparts, they're equally deadly and often more calculating.</desc><episode-num system="onscreen">S07E05</episode-num><rating system="VCHIP"><value>TV-14</value></rating></programme>
 <programme start="20261028173935 +0000" stop="20261028184036 +0000" channel="XU353866"><title>The New Detectives</title><desc>Though female killers usually choose less violent methods than their male counterparts, they're equally deadly and often more calculating.</desc><episode-num system="onscreen">S07E06</episode-num><rating system="VCHIP"><value>TV-14</value></rating></programme>
 <programme start="20261028184036 +0000" stop="20261028194138 +0000" channel="XU353866"><title>The New Detectives</title><desc>Though female killers usually choose less violent methods than their male counterparts, they're equally deadly and often more calculating.</desc><episode-num system="onscreen">S07E07</episode-num><rating system="VCHIP"><value>TV-14</value></rating></programme>
-<programme start="20261027012856 +0000" stop="20261027021922 +0000" channel="XU642756"><title>Bloodline Detectives hosted by Nancy Grace</title><desc>A community in Utah is shocked when an elderly woman is attacked in her own home and fight to solve the case.</desc><episode-num system="onscreen">S02E07</episode-num><rating system="VCHIP"><value>TV-14</value></rating></programme>
 <programme start="20261027021922 +0000" stop="20261027030952 +0000" channel="XU642756"><title>Bloodline Detectives hosted by Nancy Grace</title><desc>A community in Utah is shocked when an elderly woman is attacked in her own home and fight to solve the case.</desc><episode-num system="onscreen">S02E08</episode-num><rating system="VCHIP"><value>TV-14</value></rating></programme>
 <programme start="20261027030952 +0000" stop="20261027040000 +0000" channel="XU642756"><title>Bloodline Detectives hosted by Nancy Grace</title><desc>A community in Utah is shocked when an elderly woman is attacked in her own home and fight to solve the case.</desc><episode-num system="onscreen">S02E09</episode-num><rating system="VCHIP"><value>TV-14</value></rating></programme>
 <programme start="20261027040000 +0000" stop="20261027045034 +0000" channel="XU642756"><title>Bloodline Detectives</title><desc>A community in Utah is shocked when an elderly woman is attacked in her own home and fight to solve the case.</desc><episode-num system="onscreen">S01E01</episode-num><rating system="VCHIP"><value>TV-14</value></rating></programme>
@@ -22657,7 +22455,6 @@ Jacob Clarke (Anton Yelchin), but his secret government project is rejuvenated a
 <programme start="20261028165432 +0000" stop="20261028174723 +0000" channel="XU642756"><title>Bloodline Detectives</title><desc>A community in Utah is shocked when an elderly woman is attacked in her own home and fight to solve the case.</desc><episode-num system="onscreen">S01E17</episode-num><rating system="VCHIP"><value>TV-14</value></rating></programme>
 <programme start="20261028174723 +0000" stop="20261028184016 +0000" channel="XU642756"><title>Bloodline Detectives</title><desc>A community in Utah is shocked when an elderly woman is attacked in her own home and fight to solve the case.</desc><episode-num system="onscreen">S01E18</episode-num><rating system="VCHIP"><value>TV-14</value></rating></programme>
 <programme start="20261028184016 +0000" stop="20261028193319 +0000" channel="XU642756"><title>Bloodline Detectives</title><desc>A community in Utah is shocked when an elderly woman is attacked in her own home and fight to solve the case.</desc><episode-num system="onscreen">S01E19</episode-num><rating system="VCHIP"><value>TV-14</value></rating></programme>
-<programme start="20261027014155 +0000" stop="20261027021020 +0000" channel="AM570652"><title>Three's A Crowd</title><desc>Against Iris' wishes, Henry submits a design for the interworld Travel Association's logo.</desc><episode-num system="onscreen">S01E109</episode-num><rating system="VCHIP"><value>TV-PG</value></rating></programme>
 <programme start="20261027021020 +0000" stop="20261027023844 +0000" channel="AM570652"><title>Three's A Crowd</title><desc>Against Iris' wishes, Henry submits a design for the interworld Travel Association's logo.</desc><episode-num system="onscreen">S01E110</episode-num><rating system="VCHIP"><value>TV-PG</value></rating></programme>
 <programme start="20261027023844 +0000" stop="20261027030709 +0000" channel="AM570652"><title>Three's A Crowd</title><desc>Against Iris' wishes, Henry submits a design for the interworld Travel Association's logo.</desc><episode-num system="onscreen">S01E111</episode-num><rating system="VCHIP"><value>TV-PG</value></rating></programme>
 <programme start="20261027030709 +0000" stop="20261027033533 +0000" channel="AM570652"><title>Three's A Crowd</title><desc>Against Iris' wishes, Henry submits a design for the interworld Travel Association's logo.</desc><episode-num system="onscreen">S01E112</episode-num><rating system="VCHIP"><value>TV-PG</value></rating></programme>
@@ -22850,7 +22647,6 @@ Jacob Clarke (Anton Yelchin), but his secret government project is rejuvenated a
 <programme start="20261028160428 +0000" stop="20261028165558 +0000" channel="XU336767"><title>Znation</title><desc>A witch turns a group of woodland creatures into giant, demonic, blood-crazed monsters that attack a nearby village. The town, now left with few options, asks a witch hunter slay these monsters - and the witch. With some help, he and a small crew work their way through the forest to stop this evil once and for all.</desc><episode-num system="onscreen">S01E04</episode-num><rating system="VCHIP"><value>TV-14</value></rating></programme>
 <programme start="20261028165558 +0000" stop="20261028174809 +0000" channel="XU336767"><title>Znation</title><desc>A witch turns a group of woodland creatures into giant, demonic, blood-crazed monsters that attack a nearby village. The town, now left with few options, asks a witch hunter slay these monsters - and the witch. With some help, he and a small crew work their way through the forest to stop this evil once and for all.</desc><episode-num system="onscreen">S04E04</episode-num><rating system="VCHIP"><value>TV-14</value></rating></programme>
 <programme start="20261028174809 +0000" stop="20261028193518 +0000" channel="XU336767"><title>Thor: God of Thunder</title><desc>A witch turns a group of woodland creatures into giant, demonic, blood-crazed monsters that attack a nearby village. The town, now left with few options, asks a witch hunter slay these monsters - and the witch. With some help, he and a small crew work their way through the forest to stop this evil once and for all.</desc><rating system="VCHIP"><value>TV-14</value></rating></programme>
-<programme start="20261027000005 +0000" stop="20261027021506 +0000" channel="FE966854"><title>Shin Ultraman</title><desc>It's 25 years later.</desc><rating system="VCHIP"><value>TV-14</value></rating></programme>
 <programme start="20261027021506 +0000" stop="20261027035958 +0000" channel="FE966854"><title>Yuzo The Biggest Battle In Tokyo</title><desc>It's 25 years later.</desc><rating system="VCHIP"><value>TV-14</value></rating></programme>
 <programme start="20261027035958 +0000" stop="20261027061500 +0000" channel="FE966854"><title>Shin Ultraman</title><desc>It's 25 years later.</desc><rating system="VCHIP"><value>TV-14</value></rating></programme>
 <programme start="20261027061500 +0000" stop="20261027075652 +0000" channel="FE966854"><title>Yuzo The Biggest Battle In Tokyo</title><desc>It's 25 years later.</desc><rating system="VCHIP"><value>TV-14</value></rating></programme>
@@ -22899,7 +22695,6 @@ Jacob Clarke (Anton Yelchin), but his secret government project is rejuvenated a
 <programme start="20261028143238 +0000" stop="20261028160103 +0000" channel="WU010416"><title>Beezel</title><desc>Stranded in the aftermath of a deadly outbreak, a brother fights to protect his sister while he desperately searches to find refuge and avoid an infected population with a thirst for blood.</desc><rating system="VCHIP"><value>TV14</value></rating></programme>
 <programme start="20261028160103 +0000" stop="20261028174513 +0000" channel="WU010416"><title>Extremity</title><desc>Stranded in the aftermath of a deadly outbreak, a brother fights to protect his sister while he desperately searches to find refuge and avoid an infected population with a thirst for blood.</desc><rating system="VCHIP"><value>TV14</value></rating></programme>
 <programme start="20261028174513 +0000" stop="20261028192528 +0000" channel="WU010416"><title>Benny Loves You</title><desc>Stranded in the aftermath of a deadly outbreak, a brother fights to protect his sister while he desperately searches to find refuge and avoid an infected population with a thirst for blood.</desc><rating system="VCHIP"><value>TV14</value></rating></programme>
-<programme start="20261027013856 +0000" stop="20261027020446 +0000" channel="XU069721"><title>Wild West Chronicles</title><desc>Garson discovers something about the curse of the Jekyll family that could hold the secret to saving Maggie's life. Dance sets his trap, tempting Robert with an offer of help - but Bulstrode disrupts their meeting.</desc><episode-num system="onscreen">S04E12</episode-num><rating system="VCHIP"><value>TV-MA</value></rating></programme>
 <programme start="20261027020446 +0000" stop="20261027023246 +0000" channel="XU069721"><title>Wild West Chronicles</title><desc>Garson discovers something about the curse of the Jekyll family that could hold the secret to saving Maggie's life. Dance sets his trap, tempting Robert with an offer of help - but Bulstrode disrupts their meeting.</desc><episode-num system="onscreen">S01E01</episode-num><rating system="VCHIP"><value>TV-MA</value></rating></programme>
 <programme start="20261027023246 +0000" stop="20261027042243 +0000" channel="XU069721"><title>Lonesome Dove</title><desc>Garson discovers something about the curse of the Jekyll family that could hold the secret to saving Maggie's life. Dance sets his trap, tempting Robert with an offer of help - but Bulstrode disrupts their meeting.</desc><episode-num system="onscreen">S01E02</episode-num><rating system="VCHIP"><value>TV-MA</value></rating></programme>
 <programme start="20261027042243 +0000" stop="20261027051933 +0000" channel="XU069721"><title>Lone Wolf and Cub</title><desc>Garson discovers something about the curse of the Jekyll family that could hold the secret to saving Maggie's life. Dance sets his trap, tempting Robert with an offer of help - but Bulstrode disrupts their meeting.</desc><episode-num system="onscreen">S02E05</episode-num><rating system="VCHIP"><value>TV-MA</value></rating></programme>
@@ -22949,7 +22744,6 @@ Jacob Clarke (Anton Yelchin), but his secret government project is rejuvenated a
 <programme start="20261028172604 +0000" stop="20261028175600 +0000" channel="XU069721"><title>The Texan</title><desc>Garson discovers something about the curse of the Jekyll family that could hold the secret to saving Maggie's life. Dance sets his trap, tempting Robert with an offer of help - but Bulstrode disrupts their meeting.</desc><episode-num system="onscreen">S01E13</episode-num><rating system="VCHIP"><value>TV-MA</value></rating></programme>
 <programme start="20261028175600 +0000" stop="20261028184818 +0000" channel="XU069721"><title>Street Legal</title><desc>Garson discovers something about the curse of the Jekyll family that could hold the secret to saving Maggie's life. Dance sets his trap, tempting Robert with an offer of help - but Bulstrode disrupts their meeting.</desc><episode-num system="onscreen">S01E02</episode-num><rating system="VCHIP"><value>TV-MA</value></rating></programme>
 <programme start="20261028184818 +0000" stop="20261028194015 +0000" channel="XU069721"><title>Mike Hammer, Private Eye</title><desc>Garson discovers something about the curse of the Jekyll family that could hold the secret to saving Maggie's life. Dance sets his trap, tempting Robert with an offer of help - but Bulstrode disrupts their meeting.</desc><episode-num system="onscreen">S02E05</episode-num><rating system="VCHIP"><value>TV-MA</value></rating></programme>
-<programme start="20261027001137 +0000" stop="20261027021104 +0000" channel="99991337"><title lang="en">Hell Night</title><desc lang="en">Four college pledges are forced to spend the night in a deserted old mansion, where they are stalked by the monstrous survivor of a family massacre years earlier.</desc><episode-num system="dd_assetid">XM0TBU1ITCE3SH</episode-num></programme>
 <programme start="20261027021104 +0000" stop="20261027040000 +0000" channel="99991337"><title lang="en">Body Bags [Broadcast Edit]</title><desc lang="en">A creepy-looking coroner (John Carpenter) introduces three different horror tales involving his current work which are cadavers in "body bags."</desc><episode-num system="dd_assetid">XM06Y8V8D1AU4N</episode-num></programme>
 <programme start="20261027040000 +0000" stop="20261027053806 +0000" channel="99991337"><title lang="en">Flight 666</title><desc lang="en">Passengers on an international flight are attacked by unseen forces. As they fight to stay alive, they realize who is controlling the attacks.</desc><episode-num system="dd_assetid">XM0CYZLRBPS8KC</episode-num></programme>
 <programme start="20261027053806 +0000" stop="20261027072509 +0000" channel="99991337"><title lang="en">The Pit</title><desc lang="en">A solitary and strange preteen boy wreaks vengeance on his harassers when he makes a disturbing discovery in the depths of a forest.</desc><episode-num system="dd_assetid">XM071VCC137V75</episode-num></programme>
@@ -23120,7 +22914,6 @@ Jacob Clarke (Anton Yelchin), but his secret government project is rejuvenated a
 <programme start="20261028234734 +0000" stop="20261029005514 +0000" channel="99991384"><title lang="en">Legalities</title><desc lang="en">Investigators finish the excavation of Gacy's crawlspace and discover there are more bodies on his property. Gacy's trial begins amid rampant homophobia. Chief Prosecutor William Kunkle describes his epic closing argument to the jury.</desc><episode-num system="dd_assetid">XM048XEF6RNU6S</episode-num></programme>
 <programme start="20261029005514 +0000" stop="20261029015226 +0000" channel="99991384"><title lang="en">A Year In Defiance</title><desc lang="en">The people of Defiance, Iowa thought it was strange when Scott Shanahan disappeared, leaving his wife and kids, but Scott had always been unpredictable, and no one gave it much more.</desc><episode-num system="dd_assetid">XM0KEB1LI2V6B0</episode-num></programme>
 <programme start="20261029015226 +0000" stop="20261029024638 +0000" channel="99991384"><title lang="en">Deadly Obsession</title><desc lang="en">Virginia man Earl Bramblett, who was convicted of the murder of four people from the same family, and eventually went to the electric chair in 2003.</desc><episode-num system="dd_assetid">XM08DZA7P6LC7X</episode-num></programme>
-<programme start="20261027015100 +0000" stop="20261027021652 +0000" channel="99991784"><title lang="en">Wild Bill Hickok &amp; the First Quick-Draw Duel</title><desc lang="en">Wild Bill Hickok and his buddy, Davis Tutt, see their friendship fall apart over gambling debts and the affections of a beautiful woman. After Tutt swipes Wild Bill's prized timepiece as payback for a disputed debt, things begin to heat up. Then, when Tutt parades through town with the watch in one hand and Hickok's former girlfriend in the other, Wild Bill's blood begins to boil. Tutt refuses to return the watch, and he continues to flaunt the beautiful woman on his arm.</desc><episode-num system="dd_assetid">XM0DCISQWY7QLL</episode-num></programme>
 <programme start="20261027021652 +0000" stop="20261027041037 +0000" channel="99991784"><title lang="en">Lonesome Dove: Part IV - Return</title><desc lang="en">The cattle drive reaches Nebraska, where Gus and Clara reunite. Drought and Indian attacks take their toll as the drive reaches Montana, and Gus is wounded. Call honors his best friend's request.</desc><episode-num system="dd_assetid">XM02UDTVE7JZ1D</episode-num></programme>
 <programme start="20261027041037 +0000" stop="20261027050710 +0000" channel="99991784"><title lang="en">Lone Wolf and Cub Part 2: Episode 6</title><desc lang="en">The lone wolf is gravely injured during an attack by an assassin group sent by The Yagyus and got separated from Daigoro. In the meantime, Daigoro is being held captive by a corrupt official for assaulting his son.</desc><episode-num system="dd_assetid">XM0Z09MYZOYS1H</episode-num></programme>
 <programme start="20261027050710 +0000" stop="20261027060312 +0000" channel="99991784"><title lang="en">Agatha Christie's Hjerson (Dubbed) S1 E6: Episode 6</title><desc lang="en">The unpublished novel inspires a second murder. Although the killer appears one step ahead of them, after determining a motive, Hjerson and Klara zero in on a suspect.</desc><episode-num system="dd_assetid">XM0V06D77ABQ0T</episode-num></programme>
@@ -23174,7 +22967,7 @@ Jacob Clarke (Anton Yelchin), but his secret government project is rejuvenated a
 <programme start="20261028222517 +0000" stop="20261029001811 +0000" channel="99991784"><title lang="en">The Final Act (Part 2)</title><desc lang="en">DS Tennison has to make one of her toughest decisions. As the truth about Sallie's death emerges, the search for her killer ends in a shattering confrontation.</desc><episode-num system="dd_assetid">XM0BRW0DP5K1GC</episode-num></programme>
 <programme start="20261029001811 +0000" stop="20261029011418 +0000" channel="99991784"><title lang="en">A House Divided</title><desc lang="en">Eager to strike out on his own, Sean Logan (Grayson McCouch) makes a deal to buy an abandoned warehouse in downtown Lexington. He plans to use the warehouse to store tobacco, cutting down on transportation costs and cutting out the middleman. In order to pay for the warehouse, he needs to borrow a thousand dollars from his father, Ned Logan (Brett Cullen).</desc><episode-num system="dd_assetid">XM0RM60PNWIFUH</episode-num></programme>
 <programme start="20261029011418 +0000" stop="20261029021011 +0000" channel="99991784"><title lang="en">Planes, Trains &amp; Automobiles</title><desc lang="en">Sue and the team track a missing 727 airplane and three missing gasoline tankers in a race against the clock. Tara is surprised to find her romance with a famous Hollywood actor.</desc><episode-num system="dd_assetid">XM076UBM47MZT3</episode-num></programme>
-<programme start="20261027003900 +0000" stop="20261027021000 +0000" channel="99991638"><title lang="en">Hi I'm Blake</title><desc lang="en">After a gymnastics accident leaves him severely brain-damaged, Blake Hyland creates a platform to bring awareness and hope to everyone he meets on the road to recovery while his family wrestles to restore him to his former self.</desc><episode-num system="dd_assetid">SH048258570000</episode-num></programme>
+<programme start="20261029021011 +0000" stop="20261029023814 +0000" channel="99991784"><title lang="en">Bat Masterson &amp; the Dodge City Dead Line: Part 2</title><desc lang="en">Legendary gunfighter-turned-newspaperman Bat Masterson looks back on his time as sheriff of Dodge City when he and Wyatt Earp worked together to bring law and order to the notorious frontier town. As they struggle to pacify the rowdy cowhands passing through town, the two men draw their own proverbial line in the sand. South of the railroad track that splits the town, they let the cowboys run wild. But on the north side, they outlaw all guns in an effort to create a zone of civility.</desc><episode-num system="dd_assetid">XM0K4EYJ04PC5A</episode-num></programme>
 <programme start="20261027021000 +0000" stop="20261027040800 +0000" channel="99991638"><title lang="en">I Am (Not) A Monster</title><desc lang="en">Ben Hayoun-Stépanian, founder of the University of the Underground, travels the world to meet a variety of people and organizations.</desc><episode-num system="dd_assetid">MV022116200000</episode-num></programme>
 <programme start="20261027040800 +0000" stop="20261027060800 +0000" channel="99991638"><title lang="en">The House From...</title><desc lang="en">Filmmaker Tommy Avallone examines famous homes from movies and television series and interviews the people who live there in real life.</desc><episode-num system="dd_assetid">MV022899180000</episode-num></programme>
 <programme start="20261027060800 +0000" stop="20261027075200 +0000" channel="99991638"><title lang="en">Hollywood Signs</title><desc lang="en">A celebration of autograph collecting, collectors, and the obsession with celebrities; autograph dealing, the history of the autograph, autograph conventions, and celebrities' points of view is all explored.</desc><episode-num system="dd_assetid">SH044513060000</episode-num></programme>
@@ -23222,6 +23015,7 @@ Jacob Clarke (Anton Yelchin), but his secret government project is rejuvenated a
 <programme start="20261028231800 +0000" stop="20261028235200 +0000" channel="99991638"><title lang="en">Haiti On Fire</title><desc lang="en">"Haiti on Fire" chronicles Haiti's descent into violence and chaos, documenting the rise of Barbecue and the G9 gang alliance.</desc><episode-num system="dd_assetid">SH054568880000</episode-num></programme>
 <programme start="20261028235200 +0000" stop="20261029001600 +0000" channel="99991638"><title lang="en">A Swim Lesson</title><desc lang="en">An ode to an everyday hero: Bill Marsh, a swim teacher who helps children manage their fears.</desc><episode-num system="dd_assetid">MV027455140000</episode-num></programme>
 <programme start="20261029001600 +0000" stop="20261029021300 +0000" channel="99991638"><title lang="en">And Two If by Sea</title><desc lang="en">The story of professional surfers and identical twins CJ and Damien Hobgood, who used their sibling rivalry and struggles to establish their own identities to fuel their careers, but also allowed them to rip their personal lives apart.</desc><episode-num system="dd_assetid">SH034051280000</episode-num></programme>
+<programme start="20261029021300 +0000" stop="20261029040800 +0000" channel="99991638"><title lang="en">Isolated</title><desc lang="en">Five professional surfers travel to New Guinea to find undiscovered waves, and end up finding much more.</desc><episode-num system="dd_assetid">MV004988960000</episode-num></programme>
 <programme start="20261027013942 +0000" stop="20261027033123 +0000" channel="9999615"><title lang="en">Violet &amp; Daisy</title><desc lang="en">Two teenage assassins accept what they think will be a quick-and-easy job, until an unexpected target throws them off their plan.</desc><episode-num system="dd_assetid">XM0PROL796LE80</episode-num></programme>
 <programme start="20261027033123 +0000" stop="20261027055617 +0000" channel="9999615"><title lang="en">Let The Right One In</title><desc lang="en">Oskar, an overlooked and bullied boy, finds love and revenge through Eli, a beautiful but peculiar girl.</desc><episode-num system="dd_assetid">XM0FN3TONTZDZP</episode-num></programme>
 <programme start="20261027055617 +0000" stop="20261027084008 +0000" channel="9999615"><title lang="en">I Saw the Devil (ENG DUB)</title><desc lang="en">On a dark road, taxi driver Kyung-chul comes across a scared female motorist stranded in a broken-down vehicle. He pulls over -- but not to help her. When the woman's head is discovered in a local river, her devastated fiancé, Kim Soo-hyeon, a trained secret agent, becomes obsessed with hunting down her killer. Once he finds Kyung-chul, things get twisted. After brutally beating the murderer, Kim lets him go free, and a demented game of cat and mouse begins.</desc><episode-num system="dd_assetid">XM0V3VF8S6OMJO</episode-num></programme>
@@ -23246,7 +23040,6 @@ Jacob Clarke (Anton Yelchin), but his secret government project is rejuvenated a
 <programme start="20261028210626 +0000" stop="20261028233244 +0000" channel="9999615"><title lang="en">The Endless</title><desc lang="en">Two brothers receive a cryptic video message inspiring them to revisit the UFO death cult they escaped a decade earlier. Hoping to find the closure that they couldn't find as young men, they're forced to reconsider the cult's beliefs when confronted with unexplainable phenomena surrounding the camp. As the members prepare for the coming of a mysterious event, the brothers race to unravel the seemingly impossible truth before their lives become permanently entangled with the cult.</desc><episode-num system="dd_assetid">XM02UDZOZFDVJF</episode-num></programme>
 <programme start="20261028233244 +0000" stop="20261029015115 +0000" channel="9999615"><title lang="en">We Need to Talk About Kevin</title><desc lang="en">Eva Khatchadourian is a travel writer/publisher who gives up her beloved freedom and Bohemian lifestyle to have a child with her husband, Franklin. Pregnancy does not seem to agree with Eva, but what's worse, when she does give birth to a baby boy named Kevin, she can't seem to bond with him. When Kevin grows from a fussy, demanding toddler into a sociopathic teen, Eva is forced to deal with the aftermath of her son's horrific act.</desc><episode-num system="dd_assetid">XM02EDGWD491IJ</episode-num></programme>
 <programme start="20261029015115 +0000" stop="20261029040005 +0000" channel="9999615"><title lang="en">Open Windows</title><desc lang="en">A jilted fan soon finds himself pulled into a deadly game of cat-and-mouse after he accepts the opportunity to spy on his favorite actress via his laptop.</desc><episode-num system="dd_assetid">XM0OJB7NT2XDA1</episode-num></programme>
-<programme start="20261026235100 +0000" stop="20261027021700 +0000" channel="99951377"><title lang="en">They Live in the Grey</title><desc lang="en">While investigating a child abuse case, a young social worker discovers that the family is being tormented by a supernatural entity. In order to save the parents from losing custody of their child, she must stop the malevolent force.</desc><episode-num system="dd_assetid">MV017847760000</episode-num></programme>
 <programme start="20261027021700 +0000" stop="20261027041000 +0000" channel="99951377"><title lang="en">Spoonful of Sugar</title><desc lang="en">A disturbed babysitter experiences a sexual awakening while using LSD to treat a seemingly sick child from a family with dark secrets.</desc><episode-num system="dd_assetid">MV018991900000</episode-num></programme>
 <programme start="20261027041000 +0000" stop="20261027060000 +0000" channel="99951377"><title lang="en">Relic</title><desc lang="en">A woman links her mother's increasingly volatile behavior to an evil presence at their family's decaying country home.</desc><episode-num system="dd_assetid">MV014084290000</episode-num></programme>
 <programme start="20261027060000 +0000" stop="20261027075600 +0000" channel="99951377"><title lang="en">Lake of Death</title><desc lang="en">Lillian and some friends travel back to the remote family cabin where her twin brother died the previous year. Soon, strange things start happening.</desc><episode-num system="dd_assetid">MV014287460000</episode-num></programme>
@@ -23301,7 +23094,6 @@ Jacob Clarke (Anton Yelchin), but his secret government project is rejuvenated a
 <programme start="20261028213938 +0000" stop="20261028232827 +0000" channel="99991300"><title lang="en">Diani &amp; Devine Meet the Apocalypse</title><desc lang="en">A struggling comedy duo discovers surviving the apocalypse is almost as difficult as surviving in Hollywood.</desc><episode-num system="dd_assetid">XM080D76FSHPF3</episode-num></programme>
 <programme start="20261028232827 +0000" stop="20261029010940 +0000" channel="99991300"><title lang="en">Signature Move</title><desc lang="en">Zaynab, a thirty-something Muslim Pakistani lesbian in Chicago takes care of her sweet and TV-obsessed mother. As Zaynab falls for Alma, a bold and very bright Mexican woman, she searches for her identity in life, love and wrestling.</desc><episode-num system="dd_assetid">XM0C9573GQGV6B</episode-num></programme>
 <programme start="20261029010940 +0000" stop="20261029025758 +0000" channel="99991300"><title lang="en">Caroline and Jackie</title><desc lang="en">A birthday celebration exposes the fragile bond between two sisters. Dark secrets surface, unraveling the intricacies of their relationship and the profound impact of hidden truths on their lives.</desc><episode-num system="dd_assetid">XM05W0ZW6UQ25D</episode-num></programme>
-<programme start="20261027000700 +0000" stop="20261027021000 +0000" channel="99951349"><title lang="en">Vicious Fun</title><desc lang="en">A horror film critic finds himself in a sticky situation when he stumbles into a self-help group for serial killers.</desc><episode-num system="dd_assetid">MV015333640000</episode-num></programme>
 <programme start="20261027021000 +0000" stop="20261027035500 +0000" channel="99951349"><title lang="en">Prevenge</title><desc lang="en">A pregnant woman kills an assortment of people.</desc><episode-num system="dd_assetid">MV009475760000</episode-num></programme>
 <programme start="20261027035500 +0000" stop="20261027053500 +0000" channel="99951349"><title lang="en">Random Acts of Violence</title><desc lang="en">Comic book writers discover horrific events are related to a character they created.</desc><episode-num system="dd_assetid">MV013065230000</episode-num></programme>
 <programme start="20261027053500 +0000" stop="20261027075500 +0000" channel="99951349"><title lang="en">Superdeep</title><desc lang="en">In 1984 a Russian research team goes below the surface to find out what secret the world's deepest borehole is hiding. On their expedition, something unexpectedly gruesome awaits the researchers.</desc><episode-num system="dd_assetid">MV015989160000</episode-num></programme>
@@ -23328,7 +23120,6 @@ Jacob Clarke (Anton Yelchin), but his secret government project is rejuvenated a
 <programme start="20261028221600 +0000" stop="20261029001500 +0000" channel="99951349"><title lang="en">The Communion Girl</title><desc lang="en">After moving to a new town, a teenage girl tries to fit in with other teens but meets a terrifying ghost.</desc><episode-num system="dd_assetid">MV020047520000</episode-num></programme>
 <programme start="20261029001500 +0000" stop="20261029015700 +0000" channel="99951349"><title lang="en">Deadstream</title><desc lang="en">A disgraced internet personality tries to win back his followers by livestreaming himself at an abandoned haunted house. When he accidentally unleashes a vengeful spirit, his comeback event becomes a fight for his life.</desc><episode-num system="dd_assetid">MV018934760000</episode-num></programme>
 <programme start="20261029015700 +0000" stop="20261029035000 +0000" channel="99951349"><title lang="en">Elevator Game</title><desc lang="en">A teen links the mysterious disappearance of his sister to a supernatural game that's played in elevators.</desc><episode-num system="dd_assetid">MV020359550000</episode-num></programme>
-<programme start="20261027004700 +0000" stop="20261027020600 +0000" channel="99951403"><title lang="en">Daniel Lobell: Reconquistador</title><desc lang="en">In 1492, Spain kicks out all the Jews. In 2017, Daniel Lobell figures it's probably safe to go back. Throughout this meditative road doc, Lobell's pain is palpable, but so is his joy as he celebrates his past and future, records an album, and gigs across Spain.</desc><episode-num system="dd_assetid">MV024313900000</episode-num></programme>
 <programme start="20261027020600 +0000" stop="20261027030100 +0000" channel="99951403"><title lang="en">Comedy Club Superstars</title><desc lang="en">Clips of early performances and new material of comedians: Tim Allen; Paul Reiser; Rita Rudner; Jerry Seinfeld; George Wallace; Paula Poundstone; Richard Belzer; Carol Leifer; Richard Lewis; Bill Maher; John Mendoza; Larry Miller.</desc><episode-num system="dd_assetid">SH001762680000</episode-num></programme>
 <programme start="20261027030100 +0000" stop="20261027042200 +0000" channel="99951403"><title lang="en">Get Outta' My Way: The Best Of Ollie Joe Prater</title><desc lang="en">Ollie Joe Prater lived the American Dream LARGE. Ollie was the funniest unknown comedian in the 1980s until his premature death shortly thereafter, from problems arising from his 500 lb weight. Watch him and his friends' interviews of the legend.</desc><episode-num system="dd_assetid">SH064310200000</episode-num></programme>
 <programme start="20261027042200 +0000" stop="20261027043400 +0000" channel="99951403"><title lang="en">WITZ Presents: Trailers From Hell - Comedy Volume 5</title><desc lang="en">What do you get when you cross The Pink Panther, with Marx Brothers at the Circus? A great time!</desc><episode-num system="dd_progid">EP056691700005</episode-num></programme>
@@ -23528,7 +23319,7 @@ Jacob Clarke (Anton Yelchin), but his secret government project is rejuvenated a
 <programme start="20261028211843 +0000" stop="20261028225214 +0000" channel="99951593"><title lang="en">Dragons of Camelot</title><desc lang="en">Camelot is plunged into darkness after King Arthur dies. Now the reign of his cruel sorceress sister, Morgana, begins. Commanding three deadly dragons, she hunts the remaining Knights of the Round Table.</desc><episode-num system="dd_assetid">XM0GFGFP2ER0J7</episode-num></programme>
 <programme start="20261028225214 +0000" stop="20261029003228 +0000" channel="99951593"><title lang="en">Mega Lightning 3</title><desc lang="en">As a record storm awakens 'the Woodsman', a woman races to rescue a teen before the lightning and killer consumes them both.</desc><episode-num system="dd_assetid">XM0UF98D35UPV7</episode-num></programme>
 <programme start="20261029003228 +0000" stop="20261029021505 +0000" channel="99951593"><title lang="en">The Green Monster</title><desc lang="en">A Christmas reunion turns to blood and terror when a family inherits their fatherÄôs haunted home Äî and discovers that his most famous creation, the Green Monster, is more than just a story.</desc><episode-num system="dd_assetid">XM096BGEZQBCS3</episode-num></programme>
-<programme start="20261027011118 +0000" stop="20261027020735 +0000" channel="99951544"><title lang="en">World's Wildest Police Videos</title><desc lang="en">This episode features a chase in South Carolina, a deadly showdown in Argentina and a jewelry store robbery. Retired Sheriff John Bunnell hosts this explosive series consisting of the most outrageous police footage: car chases, robberies, riots, arrests and more! #policevideos #policefootage #policechases #clips #bodycam #police #cops #copshow #caughtoncamera #hiddencamera</desc><episode-num system="dd_assetid">XM06UJRJC9PVD5</episode-num></programme>
+<programme start="20261029021505 +0000" stop="20261029040000 +0000" channel="99951593"><title lang="en">Sinkhole</title><desc lang="en">A group of teenagers get trapped in a sinkhole and have to fight for their lives.</desc><episode-num system="dd_assetid">XM074BMM2ER7QC</episode-num></programme>
 <programme start="20261027020735 +0000" stop="20261027030352 +0000" channel="99951544"><title lang="en">World's Wildest Police Videos</title><desc lang="en">A chase in South Carolina, a homeless man who wanders on a highway and a hostage situation in Chicago. Retired Sheriff John Bunnell hosts this explosive series consisting of the most outrageous police footage: car chases, robberies, riots, arrests and more! #policevideos #policefootage #policechases #clips #bodycam #police #cops #copshow #caughtoncamera #hiddencamera</desc><episode-num system="dd_assetid">XM0UXQ437KWBDJ</episode-num></programme>
 <programme start="20261027030352 +0000" stop="20261027040000 +0000" channel="99951544"><title lang="en">World's Wildest Police Videos</title><desc lang="en">This episode features a chase in Arizona, a hostage situation in Brazil and a riot in Wisconsin. Retired Sheriff John Bunnell hosts this explosive series consisting of the most outrageous police footage: car chases, robberies, riots, arrests and more! #policevideos #policefootage #policechases #clips #bodycam #police #cops #copshow #caughtoncamera #hiddencamera</desc><episode-num system="dd_assetid">XM0X9HISUURSYM</episode-num></programme>
 <programme start="20261027040000 +0000" stop="20261027045226 +0000" channel="99951544"><title lang="en">World's Wildest Police Videos</title><desc lang="en">This episode features a police precinct shoot-out, smash-and-grabbers and a bride who tries to hire a hitman. Retired Sheriff John Bunnell hosts this explosive series consisting of the most outrageous police footage: car chases, robberies, riots, arrests and more! #policevideos #policefootage #policechases #clips #bodycam #police #cops #copshow #caughtoncamera #hiddencamera</desc><episode-num system="dd_assetid">XM0CE3JSTUTRT5</episode-num></programme>
@@ -23581,6 +23372,7 @@ Jacob Clarke (Anton Yelchin), but his secret government project is rejuvenated a
 <programme start="20261028231840 +0000" stop="20261029001458 +0000" channel="99951544"><title lang="en">World's Wildest Police Videos</title><desc lang="en">This episode features a chase in Missouri, a gas station robbery and a college football riot. Retired Sheriff John Bunnell hosts this explosive series consisting of the most outrageous police footage: car chases, robberies, riots, arrests and more! #policevideos #policefootage #policechases #clips #bodycam #police #cops #copshow #caughtoncamera #hiddencamera</desc><episode-num system="dd_assetid">XM0CHSKCQX5GLE</episode-num></programme>
 <programme start="20261029001458 +0000" stop="20261029011118 +0000" channel="99951544"><title lang="en">World's Wildest Police Videos</title><desc lang="en">This episode features a chase in South Carolina, a convenience store robbery and rioting in Brazil. Retired Sheriff John Bunnell hosts this explosive series consisting of the most outrageous police footage: car chases, robberies, riots, arrests and more! #policevideos #policefootage #policechases #clips #bodycam #police #cops #copshow #caughtoncamera #hiddencamera</desc><episode-num system="dd_assetid">XM0Y6QTEOQR3XV</episode-num></programme>
 <programme start="20261029011118 +0000" stop="20261029020735 +0000" channel="99951544"><title lang="en">World's Wildest Police Videos</title><desc lang="en">This episode features a chase in South Carolina, a deadly showdown in Argentina and a jewelry store robbery. Retired Sheriff John Bunnell hosts this explosive series consisting of the most outrageous police footage: car chases, robberies, riots, arrests and more! #policevideos #policefootage #policechases #clips #bodycam #police #cops #copshow #caughtoncamera #hiddencamera</desc><episode-num system="dd_assetid">XM06UJRJC9PVD5</episode-num></programme>
+<programme start="20261029020735 +0000" stop="20261029030352 +0000" channel="99951544"><title lang="en">World's Wildest Police Videos</title><desc lang="en">A chase in South Carolina, a homeless man who wanders on a highway and a hostage situation in Chicago. Retired Sheriff John Bunnell hosts this explosive series consisting of the most outrageous police footage: car chases, robberies, riots, arrests and more! #policevideos #policefootage #policechases #clips #bodycam #police #cops #copshow #caughtoncamera #hiddencamera</desc><episode-num system="dd_assetid">XM0UXQ437KWBDJ</episode-num></programme>
 <programme start="20261027014500 +0000" stop="20261027032800 +0000" channel="99951518"><title lang="en">Karen Read: The Perfect Storm</title><desc lang="en">Karen Read answers questions surrounding the night at issue in her controversial trial.</desc><episode-num system="dd_progid">EP000000212101</episode-num></programme>
 <programme start="20261027032800 +0000" stop="20261027051000 +0000" channel="99951518"><title lang="en">The Pointe of No Return</title><desc lang="en">Features an interview with Ashley Benefield, the woman at the center of the so-called "Black Swan Trial."</desc><episode-num system="dd_progid">EP000000212102</episode-num></programme>
 <programme start="20261027051000 +0000" stop="20261027060300 +0000" channel="99951518"><title lang="en">Dangerous Game</title><desc lang="en">An Illinois man jokes on national TV that he regrets his marriage; a couple of months later, his wife is murdered; authorities wonder whether a ghostly figure on a bike caught on surveillance video could be the killer.</desc><episode-num system="dd_progid">EP049901520001</episode-num></programme>
@@ -23617,6 +23409,7 @@ Jacob Clarke (Anton Yelchin), but his secret government project is rejuvenated a
 <programme start="20261028210100 +0000" stop="20261028224300 +0000" channel="99951518"><title lang="en">The Perfect Lie</title><desc lang="en">04/16/2021: A family discusses their seemingly perfect husband and father's deadly secret.</desc><episode-num system="dd_progid">EP000000212247</episode-num></programme>
 <programme start="20261028224300 +0000" stop="20261029002500 +0000" channel="99951518"><title lang="en">The Accused</title><desc lang="en">05/07/2021: New interviews reveal shocking info on a botched murder investigation.</desc><episode-num system="dd_progid">EP000000212237</episode-num></programme>
 <programme start="20261029002500 +0000" stop="20261029020700 +0000" channel="99951518"><title lang="en">One Last Chance: The Trial of Scott Peterson</title><desc lang="en">05/14/2021: Scott Peterson may receive a new trial.</desc><episode-num system="dd_progid">EP000000212239</episode-num></programme>
+<programme start="20261029020700 +0000" stop="20261029034900 +0000" channel="99951518"><title lang="en">If I Can't Have You...</title><desc lang="en">05/21/2021: New details in the case of a missing mom who secretly ran an expensive escort business.</desc><episode-num system="dd_progid">EP000000212241</episode-num></programme>
 <programme start="20261027020400 +0000" stop="20261027025600 +0000" channel="99951468"><title lang="en">Ambitious</title><desc lang="en">When the murder of an audio-system installer links to the mob, McCoy's office must ensure witnesses' safety.</desc><episode-num system="dd_progid">EP000176170224</episode-num></programme>
 <programme start="20261027025600 +0000" stop="20261027034700 +0000" channel="99951468"><title lang="en">Admissions</title><desc lang="en">Briscoe and Curtis investigate the death of a promising mathematician who was involved in a turbulent relationship with a college professor.</desc><episode-num system="dd_progid">EP000176170225</episode-num></programme>
 <programme start="20261027034700 +0000" stop="20261027043900 +0000" channel="99951468"><title lang="en">Refuge</title><desc lang="en">Briscoe and Curtis become entangled in the Russian mafia while investigating two murders with a speechless child as the only witness.</desc><episode-num system="dd_progid">EP000176170220</episode-num></programme>
@@ -23849,13 +23642,29 @@ Jacob Clarke (Anton Yelchin), but his secret government project is rejuvenated a
 <programme start="20261029005600 +0000" stop="20261029011800 +0000" channel="99951244"><title lang="en">Jack's Big Gay Wedding</title><desc lang="en">Jack and Estefan's wedding takes a detour when they're forced to get married at the airport by their friend Miss Coco; Will's worried his relationship may turn long-distance; Grace meets a charming guy; Karen reconsiders her commitment to Nikki.</desc><episode-num system="dd_progid">EP027435700039</episode-num></programme>
 <programme start="20261029011800 +0000" stop="20261029014200 +0000" channel="99951244"><title lang="en">Eat, Pray, Love, Phone, Sex</title><desc lang="en">Grace returns from her European travels a new woman, but her elation is short-lived when she receives life-changing news; Karen teaches Will how to be better at phone sex; Jack has a yard sale to discreetly get rid of Estefan's annoying cuckoo clock.</desc><episode-num system="dd_progid">EP027435700069</episode-num></programme>
 <programme start="20261029014200 +0000" stop="20261029020500 +0000" channel="99951244"><title lang="en">Pappa Mia</title><desc lang="en">When Grace admits she's not sure who's the father of her baby, Karen orchestrates a "Mamma Mia" situation with the potential baby daddies; Will worries what will happen if he has a straight son and enlists Jack to help him prepare.</desc><episode-num system="dd_progid">EP027435700070</episode-num></programme>
-<programme channel="US300068X7" start="20261027011900 +0000" stop="20261027021006 +0000">
-    <title>Nashville</title>
-    <sub-title>Beneath Still Waters</sub-title>
-    <desc>Daphne struggles with Deacon and Jessie's relationship. The new addition to the boys' band is a hit. Gunnar is into old habits. Scarlett takes an interest in a veteran having equine therapy.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2202835723_1_20251125T020432677Z_46_imageprocessorclient-tvplus-linear-584c967455-z2fx8.jpeg"/>
+<programme start="20261029020500 +0000" stop="20261029022800 +0000" channel="99951244"><title lang="en">With Enemies Like These</title><desc lang="en">Will discovers a way to finally get back at Jack for years of mocking his hairline; Grace is determined to prove to Mrs. Timmer she's strong enough to handle being a single mother; Karen squares off against Stan's brother in a poker game.</desc><episode-num system="dd_progid">EP027435700071</episode-num></programme>
+<programme channel="US8000024G" start="20261027021800 +0000" stop="20261027040200 +0000">
+    <title>A Vigilante</title>
+    <desc>A vigilante helps victims escape their domestic abusers.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1613431602_0_20250703T032928426Z_26_imageprocessorclient-tvplus-linear-d7c8c765b-97vkd.jpeg"/>
     <rating>
-      <value>TV-PG</value>
+      <value>R</value>
+    </rating>
+  </programme>
+<programme channel="US8000024G" start="20261027040200 +0000" stop="20261027061900 +0000">
+    <title>Lord of Illusions</title>
+    <desc>Private eye Harry D'Amour travels to Los Angeles and meets with a new client, Dorothea Swann. Swann reveals that she and her husband — famed magician Philip Swann — have been targeted by a religious cult experimenting with reincarnation. After Philip dies on stage in the midst of a dangerous trick, D'Amour must struggle to protect Dorothea from the ruthless cult members and their newly reanimated religious leader, Nix.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3595178349_1_20261010T015933832Z_78_imageprocessorclient-tvplus-linear-6b56cc9f55-t79l9.jpeg"/>
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+<programme channel="US8000024G" start="20261027061900 +0000" stop="20261027081200 +0000">
+    <title>Night of the Comet</title>
+    <desc>After a rare comet sighting, teen sisters Regina (Catherine Mary Stewart) and Samantha (Kelli Maroney) find that they're among the only survivors of a zombie attack. The girls partner with another survivor, Hector (Robert Beltran), but as they try to avoid the zombies, they're sought by scientists who want to experiment on their bodies in the hope of finding an antidote. Dodging both the doctors and the undead, they keep moving in the hope that they can continue to stay alive.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3585548983_15_20261008T020302314Z_29_imageprocessorclient-tvplus-linear-6b56cc9f55-7bxq7.jpeg"/>
+    <rating>
+      <value>PG-13</value>
     </rating>
   </programme>
 <programme channel="US300068X7" start="20261027021006 +0000" stop="20261027030000 +0000">
@@ -24360,15 +24169,6 @@ Jacob Clarke (Anton Yelchin), but his secret government project is rejuvenated a
       <value>TV-14</value>
     </rating>
   </programme>
-<programme channel="US4100035CD" start="20261027011300 +0000" stop="20261027020500 +0000">
-    <title>Locked Up Abroad</title>
-    <sub-title>Colombian Kidnap</sub-title>
-    <desc>Held hostage in Colombia, backpackers Erez Eltawil and Reini Weigel form a controversial relationship with their kidnappers.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2211169461_0_20251127T012220873Z_56_imageprocessorclient-tvplus-linear-584c967455-5dc86.jpeg"/>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme channel="US4100035CD" start="20261027020500 +0000" stop="20261027025500 +0000">
     <title>Locked Up Abroad</title>
     <sub-title>Trauma Express</sub-title>
@@ -24775,15 +24575,6 @@ Jacob Clarke (Anton Yelchin), but his secret government project is rejuvenated a
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme channel="US4700029QM" start="20261027011549 +0000" stop="20261027021645 +0000">
-    <title>Gotham Comedy Live</title>
-    <sub-title>David Hasselhoff</sub-title>
-    <desc>David Hasselhoff hosts a hilarious hour of stand-up from New York's Gotham Comedy Club. Don't miss your chance to see Hasselhoff's funny side as he performs with Ester Steinberg, Mike Burton, Marcus Banks and Paul Hooper. We're not KITTing around.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2526457988_18_20260210T164700576Z_95_imageprocessorclient-tvplus-linear-584c967455-b7vn5.jpeg"/>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme channel="US4700029QM" start="20261027021645 +0000" stop="20261027031700 +0000">
     <title>Gotham Comedy Live</title>
     <sub-title>Pamela Anderson</sub-title>
@@ -24943,15 +24734,6 @@ Jacob Clarke (Anton Yelchin), but his secret government project is rejuvenated a
       <value>TV-14</value>
     </rating>
   </programme>
-<programme channel="US4200004KK" start="20261027012612 +0000" stop="20261027021828 +0000">
-    <title>The Haunting Of. . .</title>
-    <sub-title>Tom Green</sub-title>
-    <desc>Comedian Tom Green returns to his hometown in Ottawa, Canada to confront a ghost.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2045047677_1_20251015T234121612Z_1_imageprocessorclient-tvplus-linear-d7c8c765b-zqx8c.jpeg"/>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
 <programme channel="US4200004KK" start="20261027021828 +0000" stop="20261027030919 +0000">
     <title>The Haunting Of. . .</title>
     <sub-title>Bernie Kopell</sub-title>
@@ -25038,14 +24820,6 @@ Jacob Clarke (Anton Yelchin), but his secret government project is rejuvenated a
       <value>TV-14</value>
     </rating>
   </programme>
-<programme channel="CA35000078O" start="20261027002002 +0000" stop="20261027021503 +0000">
-    <title>The Violent Men</title>
-    <desc>An ex-soldier's plans to move east are delayed after his brother is murdered on the orders of a land baron.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_547568040_0_20240916T012408544Z_98_imageprocessorclient-tvplus-linear-5dc4fd45f6-7xngg.jpeg"/>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme channel="CA35000078O" start="20261027021503 +0000" stop="20261027040000 +0000">
     <title>Santa Fe</title>
     <desc>Four brothers, dispersed after the Civil War, find themselves on opposite sides of a final, deadly showdown.</desc>
@@ -25074,6 +24848,60 @@ Jacob Clarke (Anton Yelchin), but his secret government project is rejuvenated a
     <title>The Blazing Trail</title>
     <desc>The Durango Kid (aka Marshall Steven Allan) tries to figure out who killed a wealthy old land mogul.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_547442701_0_20240913T085707967Z_61_imageprocessorclient-tvplus-linear-5dc4fd45f6-5r449.jpeg"/>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme channel="CA3500005NS" start="20261027021828 +0000" stop="20261027031746 +0000">
+    <title>The FBI Files</title>
+    <sub-title>Attentat à la bombe contre le World Trade Center</sub-title>
+    <desc>Le 26 février 1993, une explosion a secoué le parking du World Trade Center. Six personnes sont mortes et il y a eu plus de 1000 blessés dans l'explosion d'une bombe qui a provoqué un cratère de cinq étages dans le bâtiment.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_2735020834_24_20260401T070617842Z_30_imageprocessorclient-tvplus-linear-796646965d-zkqpw.jpeg"/>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme channel="CA3500005NS" start="20261027031746 +0000" stop="20261027041733 +0000">
+    <title>The FBI Files</title>
+    <sub-title>Conduit à tuer</sub-title>
+    <desc>En 1990, une ado de 14 ans s'enfuit de chez elle au Texas et disparait. Le corps fut retrouvé des mois après.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_2736129761_0_20260401T130651322Z_121_imageprocessorclient-tvplus-linear-796646965d-62x5h.jpeg"/>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme channel="CA3500005NS" start="20261027041733 +0000" stop="20261027051645 +0000">
+    <title>The New Detectives</title>
+    <sub-title>Sang Maculé</sub-title>
+    <desc>Les scientifiques légaux découvrent des indices écrits en sang en enquêtant sur les meurtres de trois femmes assassinées par des hommes qui les ont jadis aimées.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_2735020831_7_20260401T070621436Z_119_imageprocessorclient-tvplus-linear-796646965d-s5xsw.jpeg"/>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme channel="CA3500005NS" start="20261027051645 +0000" stop="20261027061557 +0000">
+    <title>The New Detectives</title>
+    <sub-title>Écrit dans le Sang</sub-title>
+    <desc>Le sang peut être l'indice le plus révélateur d'un meurtre et est souvent la seule chose dont disposent les enquêteurs pour relier un tueur à sa victime.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_2734868280_21_20260401T070616953Z_135_imageprocessorclient-tvplus-linear-796646965d-qvq7l.jpeg"/>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme channel="CA3500005NS" start="20261027061557 +0000" stop="20261027071509 +0000">
+    <title>The New Detectives</title>
+    <sub-title>Témoin Absent</sub-title>
+    <desc>Quand les meurtriers détruisent les restes de leurs victimes, les légistes doivent reconstituer les scènes.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_2735020669_24_20260401T070617842Z_95_imageprocessorclient-tvplus-linear-796646965d-zkqpw.jpeg"/>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme channel="CA3500005NS" start="20261027071509 +0000" stop="20261027081421 +0000">
+    <title>The New Detectives</title>
+    <sub-title>Preuve d'Innocence</sub-title>
+    <desc>Parfois, des innocents condamnés à tort pendant des années voient leur sort inversé grâce à l'analyse ADN menée par des scientifiques légaux.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_2734931112_12_20260401T070612690Z_81_imageprocessorclient-tvplus-linear-796646965d-v2sx8.jpeg"/>
     <rating>
       <value>TV-14</value>
     </rating>
@@ -25420,15 +25248,6 @@ Jacob Clarke (Anton Yelchin), but his secret government project is rejuvenated a
       <value>NA</value>
     </rating>
   </programme>
-<programme channel="CA4700013NG" start="20261027011549 +0000" stop="20261027021645 +0000">
-    <title>Gotham Comedy Live</title>
-    <sub-title>David Hasselhoff</sub-title>
-    <desc>David Hasselhoff hosts a hilarious hour of stand-up from New York's Gotham Comedy Club. Don't miss your chance to see Hasselhoff's funny side as he performs with Ester Steinberg, Mike Burton, Marcus Banks and Paul Hooper. We're not KITTing around.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_2526439310_0_20260210T164707361Z_63_imageprocessorclient-tvplus-linear-584c967455-cth9v.jpeg"/>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme channel="CA4700013NG" start="20261027021645 +0000" stop="20261027031700 +0000">
     <title>Gotham Comedy Live</title>
     <sub-title>Pamela Anderson</sub-title>
@@ -25599,10 +25418,6 @@ Jacob Clarke (Anton Yelchin), but his secret government project is rejuvenated a
     <title lang="en">Forbidden Science - Love Doll</title>
     <desc lang="en">Forbidden Science is a unique blend of noir science fiction and erotic programming. Set in the near future, the stories revolve around the evil corporation, 4Ever Innovations, whose young and brilliant scientists download and sell memories. They replace those we've lost with clones and devise technology that helps us live out our greatest fantasies; from saving a failed relationship, to creating the perfect lover, to being irresistible to the opposite sex - but sometimes our deepest desires come at a terrible price. 4Ever offers customers the opportunity to live out their fantasies in a virtual world but there are secrets within 4Ever Innovations that may cost you your life.</desc>
   </programme>
-<programme start="20261027011527 +0000" stop="20261027021527 +0000" channel="LN_6D30170C-D7B3-46A2-8C1F-302D8399F44D">
-    <title lang="en">Free Movies Plus</title>
-    <desc lang="en">Free Movies Plus is the ultimate channel for movie lovers, featuring blockbuster hits 24/7.</desc>
-  </programme>
 <programme start="20261027021527 +0000" stop="20261027031527 +0000" channel="LN_6D30170C-D7B3-46A2-8C1F-302D8399F44D">
     <title lang="en">Free Movies Plus</title>
     <desc lang="en">Free Movies Plus is the ultimate channel for movie lovers, featuring blockbuster hits 24/7.</desc>
@@ -25643,10 +25458,6 @@ Jacob Clarke (Anton Yelchin), but his secret government project is rejuvenated a
     <title>Brotherhood Of The Wolf</title>
     <desc>In 18th-century France, the Chevalier de Fronsac and his Native American friend Mani are sent to the Gevaudan province.</desc>
   </programme>
-<programme start="20261027014101 +0000" stop="20261027020841 +0000" channel="us-gsn_cinevault_70s_1">
-    <title>Mad About You</title>
-    <desc>Though Paul is getting ready to celebrate, he can't help but think that this birthday will be like so many others -- a disaster.</desc>
-  </programme>
 <programme start="20261027020841 +0000" stop="20261027023620 +0000" channel="us-gsn_cinevault_70s_1">
     <title>Mad About You</title>
     <desc>With Paul spending his nights filming a milkman for his latest film and Jamie committed to endless meetings, the Buchmans are finding it harder than ever to spend time together.</desc>
@@ -25667,8 +25478,6 @@ Jacob Clarke (Anton Yelchin), but his secret government project is rejuvenated a
     <title>Just Shoot Me</title>
     <desc>When Tate Gittling schedules a charity auction on the same night as the one her dad is hosting, Maya suggests getting back at the rival magazine publisher by offering to co-sponsor a joint event.</desc>
   </programme>
-<programme start="20261026234951 +0000" stop="20261027021032 +0000" channel="6a1610bebdf296985fd95603-5eea605674085f0040ddc7a6"><title>The Love Witch</title><sub-title>Episode 1</sub-title><desc>A modern-day witch uses spells and magic to get men to fall in love with her, in a tribute to 1960s Technicolor thrillers.</desc><category>Adrenaline + Sci-Fi</category><episode-num system="onscreen">S1E1</episode-num><episode-num system="xmltv_ns">0.0.</episode-num><rating><value>TV-MA</value></rating></programme>
-<programme start="20261026224206 +0000" stop="20261027020541 +0000" channel="6a1610bebdf296985fd95603-634700569d64afa6830d1521"><title>Brotherhood Of The Wolf (2001)</title><desc>In 18th-century France, the Chevalier de Fronsac and his Native American friend Mani are sent to the Gevaudan province.</desc><category>Action</category><category>Adventure</category><category>Horror</category><category>Drama</category><category>Thriller</category><category>History</category><rating><value>R</value></rating></programme>
 <programme channel="truTV.HD.(Pacific).us2" start="20261027020000 +0000" stop="20261027041500 +0000">
     <title lang="en">Angels in the Outfield</title>
     <desc lang="en">Foster kid Roger (Joseph Gordon-Levitt) loves the Anaheim Angels, even though they're the worst team in the major leagues. His estranged dad promises to reunite the family if the Angels make it to the World Series, so Roger decides to ask for some divine help and prays that his favorite team will turn things around. Soon, a real angel named Al (Christopher Lloyd) shows up in response to Roger's prayers, and Anaheim's hopeless coach (Danny Glover) is shocked to see his team on a winning streak.</desc>
@@ -80485,47 +80294,6 @@ Jacob Clarke (Anton Yelchin), but his secret government project is rejuvenated a
       <value>12</value>
     </rating>
   </programme>
-<programme channel="Boomerang.us2" start="20261027020000 +0000" stop="20261027021500 +0000">
-    <title lang="en">Clarence</title>
-    <sub-title lang="en">Valentimes</sub-title>
-    <desc lang="en">When Clarence notices his teacher Ms. Baker is the only one in class left without a Valentine this year, he decides to enlist the help of Sumo to set her up with Sumo's teacher, Mr. Mozer.</desc>
-    <credits>
-      <actor>Spencer Rothbell</actor>
-      <actor>Tom Kenny</actor>
-      <actor>Sean Giambrone</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <category lang="en">Comedy</category>
-    <icon src="http://dtil.tmsimg.com/assets/p14159541_b_h10_ab.jpg?w=960&amp;h=540"/>
-    <episode-num system="onscreen">S3 E2</episode-num>
-    <previously-shown/>  <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>7</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>6</value>
-    </rating>
-    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A10</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating>
-  </programme>
 <programme channel="Boomerang.us2" start="20261027021500 +0000" stop="20261027023000 +0000">
     <title lang="en">Clarence</title>
     <sub-title lang="en">Clarence for President</sub-title>
@@ -86862,25 +86630,45 @@ Jacob Clarke (Anton Yelchin), but his secret government project is rejuvenated a
       <value>6</value>
     </rating>
   </programme>
-<programme channel="CMT.HD.us2" start="20261027014200 +0000" stop="20261027021600 +0000">
-    <title lang="en">Reba</title>
-    <sub-title lang="en">Hello, I Must Be Going</sub-title>
-    <desc lang="en">Cheyenne's emotions about Van living part-time in Denver boil over when she learns that he lied about having to return to Denver early.</desc>
+<programme channel="Boomerang.us2" start="20261029021500 +0000" stop="20261029023000 +0000">
+    <title lang="en">Clarence</title>
+    <sub-title lang="en">Pool's Out For Summer</sub-title>
+    <desc lang="en">The boys go to the Aberdale Community Pool for a day of wet fun; Jeff wades in the shallow end; Sumo tries to conquer the diving board, redeeming himself from last summer's belly flop; Clarence sneaks past the lifeguards into the hot tub.</desc>
     <credits>
-      <actor>Reba McEntire</actor>
-      <actor>Christopher Rich</actor>
-      <actor>Joanna Garcia</actor>
+      <actor>Spencer Rothbell</actor>
+      <actor>Tom Kenny</actor>
+      <actor>Sean Giambrone</actor>
     </credits>
-    <date>2004</date>
+    <date>2017</date>
     <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <icon src="http://dtil.tmsimg.com/assets/p184735_b_h10_ab.jpg?w=960&amp;h=540"/>
-    <episode-num system="onscreen">S4 E8</episode-num>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Comedy</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14159541_b_h10_ab.jpg?w=960&amp;h=540"/>
+    <episode-num system="onscreen">S3 E11</episode-num>
     <previously-shown/>  <rating system="USA Parental Rating">
       <value>TVPG</value>
     </rating>
-    <rating system="Canadian Parental Rating">
+    <rating system="Australian Classification Board">
       <value>PG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>C8</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>7</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>6</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A10</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
     </rating>
   </programme>
 <programme channel="CMT.HD.us2" start="20261027021600 +0000" stop="20261027025000 +0000">
