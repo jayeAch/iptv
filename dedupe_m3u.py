@@ -12,7 +12,10 @@ least MIN_EXTRA_MATCHES other programmes also match, or nothing contradicts
 them. So a channel with a shorter guide (say it lists only the current show)
 still counts as a duplicate of one with the full guide, unless a later
 programme on one overlaps a different programme on the other. Placeholder titles
-(filler, "to be announced", or the channel's own name) never count.
+(filler, "to be announced", or the channel's own name) never count. The two
+channels must also have alike names (NAME_RATIO, ignoring words like "HD", "TV",
+"West"), so unrelated channels that merely air the same series at the same
+times are not treated as duplicates.
 
 Which copy is kept: channels tied to Samsung (source NAME, stream URL or
 #EXTINF line containing "samsung" / "stvp-") are always dropped first, so a
@@ -48,6 +51,9 @@ TOLERANCE = timedelta(seconds=120)   # max start/stop difference for "same progr
 MIN_EXTRA_MATCHES = 3                # other matching programmes that confirm a duplicate
 TITLE_RATIO = 0.85                  # title similarity counted as the same title
 SHORT_GUIDE = 3                      # guides with fewer programmes are kept last
+NAME_RATIO = 0.8                     # channel-name similarity counted as the same channel
+NAME_NOISE = {"hd", "sd", "uhd", "fhd", "tv", "channel", "the",
+              "east", "west", "pacific", "eastern", "western"}  # ignored when comparing channel names
 SAMSUNG_RE = re.compile(r"samsung|(?<![a-z0-9])stvp-", re.IGNORECASE)
 GENERIC_TITLES = {
     "", "filler", "to be announced", "tba", "tbd", "programming",
@@ -57,6 +63,39 @@ GENERIC_TITLES = {
 
 def title_key(s):
     return re.sub(r"[^a-z0-9]+", " ", (s or "").casefold()).strip()
+
+
+def name_key(s):
+    """Channel name reduced to its distinctive letters/digits: lowercase, no
+    punctuation, and none of the NAME_NOISE words (\"Comet TV\" -> \"comet\",
+    \"TBS West\" -> \"tbs\")."""
+    words = [w for w in re.findall(r"[a-z0-9]+", (s or "").casefold()) if w not in NAME_NOISE]
+    return "".join(words) or re.sub(r"[^a-z0-9]", "", (s or "").casefold())
+
+
+def initials(s):
+    """First letters of each word (\"Great Entertainment Television\" -> \"get\")."""
+    return "".join(w[0] for w in re.findall(r"[a-z0-9]+", (s or "").casefold()) if w != "the")
+
+
+def names_alike(a_names, b_names):
+    """True if any channel name of one side is the same as, a prefix of,
+    NAME_RATIO-similar to, or the initials of any channel name of the other."""
+    for an in a_names:
+        for bn in b_names:
+            a, b = name_key(an), name_key(bn)
+            if not a or not b:
+                continue
+            if a == b:
+                return True
+            short, long_ = sorted((a, b), key=len)
+            if len(short) >= 4 and long_.startswith(short):
+                return True
+            if SequenceMatcher(None, a, b).ratio() >= NAME_RATIO:
+                return True
+            if (len(a) >= 3 and a == initials(bn)) or (len(b) >= 3 and b == initials(an)):
+                return True
+    return False
 
 
 def load_source(name):
@@ -154,6 +193,8 @@ def compare(u, v, now):
     a channel whose guide ends early (or lists only the current programme) is
     still a duplicate as long as no programme on one overlaps a different
     programme on the other."""
+    if not names_alike(u["names"], v["names"]):
+        return 0
     cu, cv = current(u["progs"], u["names"], now), current(v["progs"], v["names"], now)
     if not cu or not cv or not same(cu, cv):
         return 0
