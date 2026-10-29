@@ -19,7 +19,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: filter-m3u
+  group: playlists-push
   cancel-in-progress: false
 
 jobs:
@@ -68,8 +68,13 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "Update filtered playlists $(date -u +'%Y-%m-%d %H:%M UTC')"
-            git pull --rebase
-            git push
+            for i in 1 2 3; do
+              git pull --rebase -X theirs && git push && exit 0
+              git rebase --abort 2>/dev/null || true
+              sleep $((i * 5))
+            done
+            echo "Push failed after 3 attempts" >&2
+            exit 1
           fi
 
       - name: Fail job if any filter step failed
