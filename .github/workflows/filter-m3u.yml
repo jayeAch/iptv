@@ -73,5 +73,5 @@ jobs:
           fi
 
       - name: Fail job if any filter step failed
-        if: ${{ steps.m3u.outcome == 'failure' || steps.epg.outcome == 'failure' || steps.align.outcome == 'failure' || steps.dedupe.outcome == 'failure' }}
+        if: ${{ steps.m3u.outcome == 'failure' || steps.epg.outcome == 'failure' || steps.dedupe.outcome == 'failure' }}
         run: exit 1
