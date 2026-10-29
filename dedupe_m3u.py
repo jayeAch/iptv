@@ -50,6 +50,7 @@ OUTPUT_DIR = "output"
 TOLERANCE = timedelta(seconds=120)   # max start/stop difference for "same programme"
 MIN_EXTRA_MATCHES = 1                # other matching programmes that confirm a duplicate
 TITLE_RATIO = 0.85                  # title similarity counted as the same title
+CONFLICT_OVERLAP = timedelta(minutes=5)  # overlap with a different programme needed to count as a conflict
 MAX_SUBTITLE_WORDS = 2               # extra words allowed when one title is the other plus a subtitle
 SHORT_GUIDE = 3                      # guides with fewer programmes are kept last
 NAME_RATIO = 0.8                     # channel-name similarity counted as the same channel
@@ -189,8 +190,29 @@ def current(progs, names, now):
     return None
 
 
+def aligned(p, q):
+    """Same start and stop within TOLERANCE, whatever the titles say."""
+    return abs(p[0] - q[0]) <= TOLERANCE and abs(p[1] - q[1]) <= TOLERANCE
+
+
+def on_grid(p):
+    """Starts and stops on a whole 5-minute mark. Scheduled-TV feeds (and
+    their time-shifted West copies) all line up on such marks by chance;
+    off-grid times (09:08:00, 03:35:32) matching on two feeds are strong
+    evidence they are one feed."""
+    return all(t.second == 0 and t.minute % 5 == 0 for t in (p[0], p[1]))
+
+
+def agree(p, q):
+    """Same programme: same title and times, or the very same off-grid times
+    with a different title (one source gives the series, the other the episode)."""
+    return same(p, q) or (aligned(p, q) and not on_grid(p))
+
+
 def overlaps(p, q):
-    return p[0] < q[1] - TOLERANCE and q[0] < p[1] - TOLERANCE
+    """A real overlap between different programmes: longer than CONFLICT_OVERLAP,
+    so a couple of minutes of drift between two guides is not a contradiction."""
+    return min(p[1], q[1]) - max(p[0], q[0]) > CONFLICT_OVERLAP
 
 
 def compare(u, v, now):
@@ -202,15 +224,15 @@ def compare(u, v, now):
     if not names_alike(u["names"], v["names"]):
         return 0
     cu, cv = current(u["progs"], u["names"], now), current(v["progs"], v["names"], now)
-    if not cu or not cv or not same(cu, cv):
+    if not cu or not cv or not agree(cu, cv):
         return 0
     names = u["names"] | v["names"]
     up = [p for p in u["progs"] if usable(p, names)]
     vp = [q for q in v["progs"] if usable(q, names)]
-    if any(p is not cu and q is not cv and overlaps(p, q) and not same(p, q)
+    if any(p is not cu and q is not cv and overlaps(p, q) and not agree(p, q)
            for p in up for q in vp):
         return 0
-    extra = sum(1 for p in up if p is not cu and any(same(p, q) for q in vp))
+    extra = sum(1 for p in up if p is not cu and any(agree(p, q) for q in vp))
     return 1 + extra
 
 
