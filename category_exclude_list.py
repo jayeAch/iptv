@@ -4,6 +4,12 @@
 # matching.
 CATEGORY_EXCLUDE_LIST = [
     "Music & Ambient",
+    "Shopping",
+    "Travel",
+    "History",
+    "Home &amp",
+    "Faith",
+    "DIY",
     "Food & Travel",
     "Nature",
     "Ambiance",
