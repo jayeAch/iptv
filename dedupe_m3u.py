@@ -48,8 +48,10 @@ from filter_epg import _clear, get_attr, merge_epgs, norm, parse_xmltv_dt
 
 OUTPUT_DIR = "output"
 TOLERANCE = timedelta(seconds=120)   # max start/stop difference for "same programme"
+TITLE_TOLERANCE = timedelta(minutes=5)  # looser drift allowed when the titles match too
 MIN_EXTRA_MATCHES = 1                # other matching programmes that confirm a duplicate
 TITLE_RATIO = 0.85                  # title similarity counted as the same title
+CONFLICT_SHARE = 0.05                 # conflicts allowed per matching programme (isolated title mismatches)
 CONFLICT_OVERLAP = timedelta(minutes=5)  # overlap with a different programme needed to count as a conflict
 MAX_SUBTITLE_WORDS = 2               # extra words allowed when one title is the other plus a subtitle
 SHORT_GUIDE = 3                      # guides with fewer programmes are kept last
@@ -175,7 +177,9 @@ def titles_match(a, b):
 
 
 def same(a, b):
-    return (abs(a[0] - b[0]) <= TOLERANCE and abs(a[1] - b[1]) <= TOLERANCE
+    """Same programme: titles match and start/stop agree within TITLE_TOLERANCE
+    (guides from different sources drift a couple of minutes)."""
+    return (abs(a[0] - b[0]) <= TITLE_TOLERANCE and abs(a[1] - b[1]) <= TITLE_TOLERANCE
             and titles_match(a[2], b[2]))
 
 
@@ -219,7 +223,7 @@ def compare(u, v, now):
     """Returns the number of matching programmes if u and v are the same feed,
     otherwise 0. They must air the same thing right now, and no programme on
     one may overlap a different programme on the other (this veto always applies,
-    however many other programmes match). A channel whose guide ends early, or
+    unless the conflicts are a tiny share of the matches). A channel whose guide ends early, or
     lists only the current programme, is still a duplicate if nothing conflicts."""
     if not names_alike(u["names"], v["names"]):
         return 0
@@ -229,10 +233,11 @@ def compare(u, v, now):
     names = u["names"] | v["names"]
     up = [p for p in u["progs"] if usable(p, names)]
     vp = [q for q in v["progs"] if usable(q, names)]
-    if any(p is not cu and q is not cv and overlaps(p, q) and not agree(p, q)
-           for p in up for q in vp):
-        return 0
     extra = sum(1 for p in up if p is not cu and any(agree(p, q) for q in vp))
+    conflicts = sum(1 for p in up for q in vp
+                    if p is not cu and q is not cv and overlaps(p, q) and not agree(p, q))
+    if conflicts > int(extra * CONFLICT_SHARE):
+        return 0
     return 1 + extra
 
 
