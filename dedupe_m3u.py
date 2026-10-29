@@ -143,6 +143,11 @@ def load_source(name):
         u = units.setdefault(cid, {"entries": [], "names": set(ids[cid])})
         u["entries"].append(idx)
         u["names"].add(norm(fm.entry_name(extinf)))
+    # Programme titles are compared in title_key form ("law order"), so a name
+    # with punctuation ("law & order") must also be present in that form for the
+    # placeholder checks (usable / wild) to recognise a title that is the name.
+    for u in units.values():
+        u["names"] |= {title_key(n) for n in u["names"]} - {""}
     return items, units
 
 
@@ -252,6 +257,16 @@ def wild(prog, names):
     return prog[2] in names and prog[2] not in GENERIC_TITLES
 
 
+def wild_block(p, q, names, ps, qs):
+    """A placeholder-titled programme that starts together with a programme on
+    the other side is one long block (typically the last slot of a guide, padded
+    out to the end of its window) covering it and whatever follows. Overlapping
+    those later programmes is not a contradiction."""
+    if wild(p, names) and any(abs(p[0] - x[0]) <= TOLERANCE for x in qs):
+        return True
+    return wild(q, names) and any(abs(q[0] - x[0]) <= TOLERANCE for x in ps)
+
+
 def agree_w(p, q, names):
     return agree(p, q) or (aligned(p, q) and (wild(p, names) or wild(q, names)))
 
@@ -282,7 +297,8 @@ def compare_wild(u, v, now):
     if not any(wild(p, names) or any(wild(q, names) and agree_w(p, q, names) for q in vp)
                for p in matched):
         return 0
-    if any(overlaps(p, q) and not agree_w(p, q, names) for p in up for q in vp):
+    if any(overlaps(p, q) and not agree_w(p, q, names) and not wild_block(p, q, names, up, vp)
+           for p in up for q in vp):
         return 0
     return len(matched)
 
@@ -339,7 +355,11 @@ def main():
             })
 
     # Samsung last, then short guides, then source order, shorter name, more data.
-    allunits.sort(key=lambda u: (u["samsung"], len(u["progs"]) < SHORT_GUIDE, u["order"],
+    def placeholder_guide(u):
+        # most slots titled with the channel's own name: tells you nothing about what airs
+        return sum(p[2] in u["names"] for p in u["progs"]) * 2 > len(u["progs"])
+
+    allunits.sort(key=lambda u: (u["samsung"], placeholder_guide(u), len(u["progs"]) < SHORT_GUIDE, u["order"],
                                  len(u["label"]), -len(u["progs"]), u["label"].casefold()))
 
     kept, dropped = [], []
