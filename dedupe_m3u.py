@@ -50,6 +50,7 @@ OUTPUT_DIR = "output"
 TOLERANCE = timedelta(seconds=120)   # max start/stop difference for "same programme"
 MIN_EXTRA_MATCHES = 1                # other matching programmes that confirm a duplicate
 TITLE_RATIO = 0.85                  # title similarity counted as the same title
+MAX_SUBTITLE_WORDS = 2               # extra words allowed when one title is the other plus a subtitle
 SHORT_GUIDE = 3                      # guides with fewer programmes are kept last
 NAME_RATIO = 0.8                     # channel-name similarity counted as the same channel
 NAME_NOISE = {"hd", "sd", "uhd", "fhd", "tv", "channel", "the",
@@ -149,19 +150,25 @@ def load_programmes(name, wanted):
                 progs[cid].append((st, sp, title_key(e.findtext("title"))))
         _clear(e)
     for v in progs.values():
-        v.sort()
+        v[:] = sorted(set(v))   # some guides list a programme twice
     return progs
 
 
 def titles_match(a, b):
     """Same title, tolerating the small wording differences between sources:
-    spacing ("cell mate"/"cellmate"), a subtitle ("the divergent series" vs
-    "the divergent series insurgent"), or a typo."""
+    spacing ("cell mate"/"cellmate"), a short subtitle ("the divergent series"
+    vs "the divergent series insurgent"), or a typo. A title that is merely the
+    start of a much longer one (a bare series name vs an episode title) is NOT
+    a match: different regions often shuffle episodes of the same series."""
     if a == b:
         return True
     sa, sb = a.replace(" ", ""), b.replace(" ", "")
-    short, long_ = sorted((sa, sb), key=len)
-    if len(short) >= 6 and long_.startswith(short):
+    if sa == sb:
+        return True
+    wa, wb = a.split(), b.split()
+    short, long_ = sorted((wa, wb), key=len)
+    if (len("".join(short)) >= 6 and long_[:len(short)] == short
+            and len(long_) - len(short) <= MAX_SUBTITLE_WORDS):
         return True
     return SequenceMatcher(None, sa, sb).ratio() >= TITLE_RATIO
 
@@ -188,11 +195,10 @@ def overlaps(p, q):
 
 def compare(u, v, now):
     """Returns the number of matching programmes if u and v are the same feed,
-    otherwise 0. They must air the same thing right now. After that, either at
-    least MIN_EXTRA_MATCHES other programmes match, or nothing contradicts them:
-    a channel whose guide ends early (or lists only the current programme) is
-    still a duplicate as long as no programme on one overlaps a different
-    programme on the other."""
+    otherwise 0. They must air the same thing right now, and no programme on
+    one may overlap a different programme on the other (this veto always applies,
+    however many other programmes match). A channel whose guide ends early, or
+    lists only the current programme, is still a duplicate if nothing conflicts."""
     if not names_alike(u["names"], v["names"]):
         return 0
     cu, cv = current(u["progs"], u["names"], now), current(v["progs"], v["names"], now)
@@ -201,12 +207,11 @@ def compare(u, v, now):
     names = u["names"] | v["names"]
     up = [p for p in u["progs"] if usable(p, names)]
     vp = [q for q in v["progs"] if usable(q, names)]
+    if any(p is not cu and q is not cv and overlaps(p, q) and not same(p, q)
+           for p in up for q in vp):
+        return 0
     extra = sum(1 for p in up if p is not cu and any(same(p, q) for q in vp))
-    if extra >= MIN_EXTRA_MATCHES:
-        return 1 + extra
-    conflict = any(p is not cu and q is not cv and overlaps(p, q) and not same(p, q)
-                   for p in up for q in vp)
-    return 1 + extra if not conflict else 0
+    return 1 + extra
 
 
 def rewrite_xml(path, drop_ids):
@@ -256,7 +261,6 @@ def main():
                 "label": fm.entry_name(items[u["entries"][0]][1]),
             })
 
-    # Non-Samsung first, then source order, then more programme data.
     # Samsung last, then short guides, then source order, shorter name, more data.
     allunits.sort(key=lambda u: (u["samsung"], len(u["progs"]) < SHORT_GUIDE, u["order"],
                                  len(u["label"]), -len(u["progs"]), u["label"].casefold()))
