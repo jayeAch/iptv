@@ -12,7 +12,11 @@ least MIN_EXTRA_MATCHES other programmes also match, or nothing contradicts
 them. So a channel with a shorter guide (say it lists only the current show)
 still counts as a duplicate of one with the full guide, unless a later
 programme on one overlaps a different programme on the other. Placeholder titles
-(filler, "to be announced", or the channel's own name) never count. The two
+(filler, "to be announced", or the channel's own name) never count as evidence
+on their own. The exception: a guide whose titles are just the channel's own
+name ("SNL Vault" on every slot) is matched on times alone, as a fallback,
+when the names are alike, at least WILDCARD_MIN programmes line up with the
+same start/stop, and nothing on either side contradicts the other. The two
 channels must also have alike names (NAME_RATIO, ignoring words like "HD", "TV",
 "West"), so unrelated channels that merely air the same series at the same
 times are not treated as duplicates.
@@ -55,6 +59,7 @@ CONFLICT_SHARE = 0.05                 # conflicts allowed per matching programme
 CONFLICT_OVERLAP = timedelta(minutes=5)  # overlap with a different programme needed to count as a conflict
 MAX_SUBTITLE_WORDS = 2               # extra words allowed when one title is the other plus a subtitle
 SHORT_GUIDE = 3                      # guides with fewer programmes are kept last
+WILDCARD_MIN = 3                     # time-only matches needed when one guide uses the channel name as title
 NAME_RATIO = 0.8                     # channel-name similarity counted as the same channel
 NAME_NOISE = {"hd", "sd", "uhd", "fhd", "tv", "channel", "the",
               "east", "west", "pacific", "eastern", "western"}  # ignored when comparing channel names
@@ -229,7 +234,7 @@ def compare(u, v, now):
         return 0
     cu, cv = current(u["progs"], u["names"], now), current(v["progs"], v["names"], now)
     if not cu or not cv or not agree(cu, cv):
-        return 0
+        return compare_wild(u, v, now)
     names = u["names"] | v["names"]
     up = [p for p in u["progs"] if usable(p, names)]
     vp = [q for q in v["progs"] if usable(q, names)]
@@ -237,8 +242,53 @@ def compare(u, v, now):
     conflicts = sum(1 for p in up for q in vp
                     if p is not cu and q is not cv and overlaps(p, q) and not agree(p, q))
     if conflicts > int(extra * CONFLICT_SHARE):
-        return 0
+        return compare_wild(u, v, now)
     return 1 + extra
+
+
+def wild(prog, names):
+    """Placeholder that is the channel's own name: says nothing about what is
+    airing, so it matches any programme with the same start/stop."""
+    return prog[2] in names and prog[2] not in GENERIC_TITLES
+
+
+def agree_w(p, q, names):
+    return agree(p, q) or (aligned(p, q) and (wild(p, names) or wild(q, names)))
+
+
+def current_w(progs, now):
+    for p in progs:
+        if p[0] <= now < p[1] and p[2] not in GENERIC_TITLES:
+            return p
+    return None
+
+
+def compare_wild(u, v, now):
+    """Fallback for guides that use the channel's own name as every title.
+    Needs alike names, the same programme slot airing right now, at least
+    WILDCARD_MIN aligned programmes (at least one involving a placeholder
+    title), and zero overlapping-but-different programmes."""
+    if not names_alike(u["names"], v["names"]):
+        return 0
+    names = u["names"] | v["names"]
+    cu, cv = current_w(u["progs"], now), current_w(v["progs"], now)
+    if not cu or not cv or not agree_w(cu, cv, names):
+        return 0
+    up = [p for p in u["progs"] if p[2] not in GENERIC_TITLES]
+    vp = [q for q in v["progs"] if p_ok(q)]
+    matched = [p for p in up if any(agree_w(p, q, names) for q in vp)]
+    if len(matched) < WILDCARD_MIN:
+        return 0
+    if not any(wild(p, names) or any(wild(q, names) and agree_w(p, q, names) for q in vp)
+               for p in matched):
+        return 0
+    if any(overlaps(p, q) and not agree_w(p, q, names) for p in up for q in vp):
+        return 0
+    return len(matched)
+
+
+def p_ok(q):
+    return q[2] not in GENERIC_TITLES
 
 
 def rewrite_xml(path, drop_ids):
