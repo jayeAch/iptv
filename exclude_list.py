@@ -1534,7 +1534,6 @@ GLOBAL_EXCLUDE_LIST = [
 "Sony Canal Escape Perfecto",
 "Soul Flix",
 "Soul Storm",
-"South Park",
 "South Park En Français",
 "Southeastern Channel",
 "Spark TV",
