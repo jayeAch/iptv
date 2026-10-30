@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Downloads each M3U URL listed in m3u_urls.txt, strips any channel whose
-display name contains (case-sensitive) a term from GLOBAL_EXCLUDE_LIST or
+display name contains (case-sensitive, curly quotes folded to straight) a term from GLOBAL_EXCLUDE_LIST or
 whose group-title / #EXTGRP matches an entry in CATEGORY_EXCLUDE_LIST
 (case-insensitive, HTML entities unescaped, whitespace collapsed), drops duplicate streams, and writes each source out
 as its own file in output/ (one .m3u per NAME in m3u_urls.txt; several lines
@@ -64,7 +64,18 @@ SAFE_NAME_RE = re.compile(r'[^A-Za-z0-9_-]+')
 EXTINF_NAME_RE = re.compile(r'^#EXTINF:(?:[^,"]|"[^"]*")*,(.*)$')
 NAMED_URL_RE = re.compile(r'^([^\s=/:?&]+)\s*=\s*(\S+)$')
 
-_EXCLUDE_TERMS = [t for t in GLOBAL_EXCLUDE_LIST if t and t.strip()]
+_QUOTE_MAP = str.maketrans({
+    "\u2018": "'", "\u2019": "'",
+    "\u201c": '"', "\u201d": '"',
+})
+
+
+def norm_quotes(s):
+    """Fold curly quotes to straight ones so exclude terms match either form."""
+    return s.translate(_QUOTE_MAP)
+
+
+_EXCLUDE_TERMS = [norm_quotes(t) for t in GLOBAL_EXCLUDE_LIST if t and t.strip()]
 
 
 def norm_category(c):
@@ -221,7 +232,7 @@ def filter_items(items):
                 and norm_name(name) not in _CATEGORY_EXCEPTIONS):
             by_category += 1
             continue
-        if any(term in name for term in _EXCLUDE_TERMS):
+        if any(term in norm_quotes(name) for term in _EXCLUDE_TERMS):
             by_name += 1
             continue
         kept.append(item)
