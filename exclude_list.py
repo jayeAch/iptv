@@ -9,6 +9,15 @@ GLOBAL_EXCLUDE_LIST = [
 "б", "в", "г", "д", "ё", "ж", "з", "и", "й", "к", "л", "м", "н", "п", "т", "ф", "ц", "ч", "ш", "щ", "ъ", "ы", "ь", "э", "ю", "я", "Б", "В", "Г", "Д", "Ё", "Ж", "З", "И", "Й", "К", "Л", "М", "Н", "П", "Т", "Ф", "Ц", "Ч", "Ш", "Щ", "Ъ", "Ы", "Ь", "Э", "Ю", "Я",
 
 # All other entries (alphabetized, case-sensitive, deduplicated)
+"Cine de Oro",
+"Cine Retro",
+"WeShort",
+"123 Go",
+"Pure Flix",
+"123 Go Spanish",
+"People Are Awesome",
+"Daystar TV",
+"TeenVee Spanish",
 "General Hospital",
 "Arous Beiru",
 "Al Loba",
