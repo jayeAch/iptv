@@ -9,6 +9,10 @@ sharing a NAME are merged into that one file, in file order), and also
 writes every kept channel from every source to output/combined.m3u
 (duplicate streams removed, sources in m3u_urls.txt order).
 
+Channels whose display name is listed in CATEGORY_EXCEPTION_LIST
+(category_exception_list.py) are exempt from the category exclusion only;
+they are still subject to the name filter and to duplicate removal.
+
 m3u_urls.txt format (one entry per line, blank lines and lines starting with
 # are ignored):
     MyProvider = https://example.com/playlist1.m3u8
@@ -36,6 +40,7 @@ import urllib.request
 from urllib.parse import urlsplit, urlunsplit, parse_qsl, urlencode
 from exclude_list import GLOBAL_EXCLUDE_LIST
 from category_exclude_list import CATEGORY_EXCLUDE_LIST
+from category_exception_list import CATEGORY_EXCEPTION_LIST
 
 URLS_FILE = "m3u_urls.txt"
 OUTPUT_DIR = "output"
@@ -67,7 +72,13 @@ def norm_category(c):
     return " ".join(html.unescape(c).split()).casefold()
 
 
+def norm_name(n):
+    """Collapse whitespace runs and casefold a channel display name."""
+    return " ".join(n.split()).casefold()
+
+
 _EXCLUDE_CATEGORIES = {norm_category(c) for c in CATEGORY_EXCLUDE_LIST}
+_CATEGORY_EXCEPTIONS = {norm_name(n) for n in CATEGORY_EXCEPTION_LIST}
 
 
 def load_urls(path):
@@ -203,11 +214,13 @@ def filter_items(items):
             kept.append(item)
             continue
         _, extinf, tags, _url = item
+        name = entry_name(extinf)
         category = entry_category(extinf, tags)
-        if category is not None and norm_category(category) in _EXCLUDE_CATEGORIES:
+        if (category is not None
+                and norm_category(category) in _EXCLUDE_CATEGORIES
+                and norm_name(name) not in _CATEGORY_EXCEPTIONS):
             by_category += 1
             continue
-        name = entry_name(extinf)
         if any(term in name for term in _EXCLUDE_TERMS):
             by_name += 1
             continue
