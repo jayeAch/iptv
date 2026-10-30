@@ -2,8 +2,8 @@
 """
 Downloads each M3U URL listed in m3u_urls.txt, strips any channel whose
 display name contains (case-sensitive) a term from GLOBAL_EXCLUDE_LIST or
-whose group-title / #EXTGRP matches (case-sensitive, exact) an entry in
-CATEGORY_EXCLUDE_LIST, drops duplicate streams, and writes each source out
+whose group-title / #EXTGRP matches an entry in CATEGORY_EXCLUDE_LIST
+(case-insensitive, HTML entities unescaped, whitespace collapsed), drops duplicate streams, and writes each source out
 as its own file in output/ (one .m3u per NAME in m3u_urls.txt; several lines
 sharing a NAME are merged into that one file, in file order), and also
 writes every kept channel from every source to output/combined.m3u
@@ -28,6 +28,7 @@ False to dedupe within each source only.
 Exits nonzero if any source fails to fetch. A failed source's previous
 output file is deleted so stale data is never left behind.
 """
+import html
 import os
 import re
 import sys
@@ -59,7 +60,14 @@ EXTINF_NAME_RE = re.compile(r'^#EXTINF:(?:[^,"]|"[^"]*")*,(.*)$')
 NAMED_URL_RE = re.compile(r'^([^\s=/:?&]+)\s*=\s*(\S+)$')
 
 _EXCLUDE_TERMS = [t for t in GLOBAL_EXCLUDE_LIST if t and t.strip()]
-_EXCLUDE_CATEGORIES = {c.strip() for c in CATEGORY_EXCLUDE_LIST}
+
+
+def norm_category(c):
+    """Unescape HTML entities (&amp; -> &), collapse whitespace runs, casefold."""
+    return " ".join(html.unescape(c).split()).casefold()
+
+
+_EXCLUDE_CATEGORIES = {norm_category(c) for c in CATEGORY_EXCLUDE_LIST}
 
 
 def load_urls(path):
@@ -196,7 +204,7 @@ def filter_items(items):
             continue
         _, extinf, tags, _url = item
         category = entry_category(extinf, tags)
-        if category is not None and category.strip() in _EXCLUDE_CATEGORIES:
+        if category is not None and norm_category(category) in _EXCLUDE_CATEGORIES:
             by_category += 1
             continue
         name = entry_name(extinf)
