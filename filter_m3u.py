@@ -215,6 +215,38 @@ def entry_category(extinf, tags):
     return None
 
 
+# A bare "%" in a value gets encoded to %25 upstream (e.g. content_genre=Crime%25Drama),
+# which servers that decode twice reject with HTTP 400. %25 not followed by two hex
+# digits can only be that mistake, so turn it into the comma it was meant to be.
+BAD_PERCENT_RE = re.compile(r'%25(?![0-9A-Fa-f]{2})')
+
+
+def fix_entry(tags, url):
+    """Per-channel repairs for DRM (DASH) entries; non-DRM entries pass through unchanged."""
+    if ".mpd" not in urlsplit(url).path.lower():
+        return tags, url
+    url = BAD_PERCENT_RE.sub("%2C", url)
+    fixed = []
+    for t in tags:
+        if t.startswith("#KODIPROP:inputstream.adaptive.license_key="):
+            # base64 padding: some players don't URL-decode header values, so keep "=" literal
+            t = t.replace("%3D", "=")
+        fixed.append(t)
+    return fixed, url
+
+
+def fix_items(items):
+    out = []
+    for item in items:
+        if item[0] == "entry":
+            _, extinf, tags, url = item
+            tags, url = fix_entry(tags, url)
+            out.append(("entry", extinf, tags, url))
+        else:
+            out.append(item)
+    return out
+
+
 def filter_items(items):
     """Returns (kept_items, removed_by_name, removed_by_category)."""
     kept = []
@@ -327,6 +359,7 @@ def main():
                 continue
 
             items, tvg_url, malformed = parse_playlist(raw)
+            items = fix_items(items)
             items, by_name, by_category = filter_items(items)
             items, duplicates = dedupe_items(items, seen)
 
