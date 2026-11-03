@@ -12,7 +12,7 @@ GLOBAL_EXCLUDE_LIST = [
 "Henry Danger",
 "AIR & SPACE",
 "Andersens Julehemmelighed",
-"Familijen Thunderman",
+"Familjen Thunderman",
 "Familien Thunderman",
 "South Park",
 "Pluto TV Mistletoe",
