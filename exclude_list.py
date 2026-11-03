@@ -10,6 +10,7 @@ GLOBAL_EXCLUDE_LIST = [
 
 # All other entries (alphabetized, case-sensitive, deduplicated)
 "Henry Danger",
+"AIR & SPACE",
 "Andersens Julehemmelighed",
 "Familijen Thunderman",
 "Familien Thunderman",
