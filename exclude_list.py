@@ -10,6 +10,8 @@ GLOBAL_EXCLUDE_LIST = [
 
 # All other entries (alphabetized, case-sensitive, deduplicated)
 "Henry Danger",
+"Andersens Julehemmelighed",
+"Familijen Thunderman",
 "Familien Thunderman",
 "South Park",
 "Pluto TV Mistletoe",
