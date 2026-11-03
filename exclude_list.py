@@ -9,6 +9,8 @@ GLOBAL_EXCLUDE_LIST = [
 "б", "в", "г", "д", "ё", "ж", "з", "и", "й", "к", "л", "м", "н", "п", "т", "ф", "ц", "ч", "ш", "щ", "ъ", "ы", "ь", "э", "ю", "я", "Б", "В", "Г", "Д", "Ё", "Ж", "З", "И", "Й", "К", "Л", "М", "Н", "П", "Т", "Ф", "Ц", "Ч", "Ш", "Щ", "Ъ", "Ы", "Ь", "Э", "Ю", "Я",
 
 # All other entries (alphabetized, case-sensitive, deduplicated)
+"Henry Danger",
+"Familien Thunderman",
 "South Park",
 "Pluto TV Mistletoe",
 "Whoa! That was Wild!",
