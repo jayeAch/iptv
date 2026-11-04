@@ -712,10 +712,6 @@
     <display-name>World’s Most Evil Killers</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1000002NP_20260421T133710SQUARE.png"/>
   </channel>
-<channel id="US4500009VV">
-    <display-name>BBC Comedy</display-name>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4500009VV_20260421T143330SQUARE.png"/>
-  </channel>
 <channel id="USBA300019WF">
     <display-name>TV Land Sitcoms</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300019WF_20260421T143002SQUARE.png"/>
@@ -793,6 +789,9 @@
   </channel>
 <channel id="MovieSphere LG US_MOVSPLGUS_US">
     <display-name>MovieSphere</display-name>
+  </channel>
+<channel id="freemoviesplus_amg02042c1eng_US">
+    <display-name>Free Movies Plus</display-name>
   </channel>
 <channel id="us-gsn_cinevault_80s_1">
     <display-name>CINEVAULT</display-name>
@@ -1246,7 +1245,6 @@
 <programme channel="400000095" start="20261105230000 +0000" stop="20261105232700 +0000"><title>Interrogation Files</title><desc>An 18-year-old claims she doesn't remember stabbing her foster mother to death; a Los Angeles mechanic is questioned about the serial murders of local sex workers; an Oklahoma state senator is involved in sex trafficking of minors.</desc></programme>
 <programme channel="400000095" start="20261105232700 +0000" stop="20261105235600 +0000"><title>Interrogation Files</title><desc>An army soldier is questioned about the shooting death of his teenage girlfriend; detectives interrogate a Brazilian expatriate about her husband's murder; a woman is questioned about the death of her 17-month-old daughter.</desc></programme>
 <programme channel="400000095" start="20261105235600 +0000" stop="20261106002400 +0000"><title>Interrogation Cam</title><desc>Investigators interrogate a prison inmate about an unsolved serial killer case from the '90s; a former police sergeant is questioned about the murder of his mistress; a detective questions a woman suspected of running someone over with her car.</desc></programme>
-<programme channel="400000093" start="20261104210500 +0000" stop="20261104215300 +0000"><title>World's Most Evil Killers</title><desc>In December 1998, The Railroad Killer, 38-year-old Angel Reséndiz brutally beat Dr. Claudia Benton to death in her own home; he's suspected of murdering at least nine more people; he evades authorities by using a multitude of aliases.</desc></programme>
 <programme channel="400000093" start="20261104215300 +0000" stop="20261104224400 +0000"><title>World's Most Evil Killers</title><desc>Criminologists, forensic pathologists, federal agents, and other experts delve into the lives of the most terrifying and notorious killers in history.</desc></programme>
 <programme channel="400000093" start="20261104224400 +0000" stop="20261104233000 +0000"><title>World's Most Evil Killers</title><desc>Criminologists, forensic pathologists, federal agents, and other experts delve into the lives of the most terrifying and notorious killers in history.</desc></programme>
 <programme channel="400000093" start="20261104233000 +0000" stop="20261105001900 +0000"><title>World's Most Evil Killers</title><desc>Robert Benjamin Rhoades, also known as The Truck Stop Killer, is an American serial killer and rapist.</desc></programme>
@@ -1331,11 +1329,6 @@
         <title>Into the Blue</title>
         <desc>Young vacationers, expecting to have a memorable time diving, find themselves in deep trouble with a druglord when they come upon the illicit cargo of a sunken airplane.</desc>
         <icon src="https://images.pluto.tv/series/69134e0e6e0067f40d7fd2ed/tile_1762963394987.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-<programme channel="62e92178946c8000079a3160-CA" start="20261104212400 +0000" stop="20261104214900 +0000">
-        <title>Rules of Engagement</title>
-        <desc>Jeff and Audrey join Adam and Jen’s healthy cooking class, but it turns into a competition after Jen insults Audrey’s cooking. Meanwhile, Timmy is freaked out by his resemblance to Russell’s new girlfriend, Radha.</desc>
-        <icon src="https://images.pluto.tv/series/637657bbd625330013275540/tile_1790720937997.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
 <programme channel="62e92178946c8000079a3160-CA" start="20261104214900 +0000" stop="20261104221600 +0000">
         <title>Everybody Loves Raymond</title>
@@ -1427,11 +1420,6 @@
         <desc>A sheriff must take matters into his own hands when a notorious drug lord escapes from FBI custody and comes speeding toward a showdown in the lawman's quiet border town.</desc>
         <icon src="https://images.pluto.tv/series/65946485954dcc0014849830/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-<programme channel="66bb3212fe11e5000883ea6b-CA" start="20261104212800 +0000" stop="20261104215300 +0000">
-        <title>Married... With Children</title>
-        <desc>While Al and Peggy are away at a family reunion, Kelly's boyfriend ruins Peggy's couch. Bud and Kelly have to find a new couch similar to the one they had.</desc>
-        <icon src="https://images.pluto.tv/series/66c363902fca060013453725/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
 <programme channel="66bb3212fe11e5000883ea6b-CA" start="20261104215300 +0000" stop="20261104221700 +0000">
         <title>Married... With Children</title>
         <desc>Al is annoyed when the mall hangs a billboard-sized picture of Peggy next to the shoe store.</desc>
@@ -1492,11 +1480,6 @@
         <desc>When two married business executives having an affair are blackmailed by a violent criminal, the two must turn the tables on him to save their families.</desc>
         <icon src="https://images.pluto.tv/series/630fa606bdb41f00136d47b6/tile_1791577442636.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-<programme channel="6a315581df0b6d462c18397e-CA" start="20261104212500 +0000" stop="20261104215000 +0000">
-        <title>Moesha</title>
-        <desc>Dorian’s new older girlfriend is enticing him with promises of a record deal, while Mo and Hakeem fight about trust.</desc>
-        <icon src="https://images.pluto.tv/series/6a4d61cf3aa4669fc7df44a0/tile_1783456208906.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
 <programme channel="6a315581df0b6d462c18397e-CA" start="20261104215000 +0000" stop="20261104221900 +0000">
         <title>The Fresh Prince Of Bel-Air</title>
         <desc>Philip's visiting parents embarrass him.</desc>
@@ -1526,11 +1509,6 @@
         <title>The Fresh Prince Of Bel-Air</title>
         <desc>Will and Carlton compete for a Halloween party date.</desc>
         <icon src="https://images.pluto.tv/series/6a26dbc3ce1637b4f4185a29/tile_1781281081248.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-<programme channel="6a71f490f5f14c2045cd6118-CA" start="20261104212600 +0000" stop="20261104215400 +0000">
-        <title>Full House</title>
-        <desc>Jesse and Rebecca set a wedding date--and location.</desc>
-        <icon src="https://images.pluto.tv/series/6a987d71ed186c2c853a2f3e/tile_1788378502290.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
 <programme channel="6a71f490f5f14c2045cd6118-CA" start="20261104215400 +0000" stop="20261104222200 +0000">
         <title>Family Matters</title>
@@ -1676,11 +1654,6 @@
         <title>Black Books</title>
         <desc>The noise from the construction next door drives Bernard, Manny and Fran up the wall. Fran suggests a holiday.</desc>
         <icon src="https://images.pluto.tv/series/66fee6e0a88a1900135b9b95/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-<programme channel="64f8a408bd341e000818fcda-CA" start="20261104212900 +0000" stop="20261104215100 +0000">
-        <title>Chappelle's Show</title>
-        <desc>Dave considers how recent events would have played out if President Bush were black; special guests Jamie Foxx, Lil John, and music from Outkast's Big Boi.</desc>
-        <icon src="https://images.pluto.tv/series/64de3fc8a5aa6e0013c634d4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
 <programme channel="64f8a408bd341e000818fcda-CA" start="20261104215100 +0000" stop="20261104221600 +0000">
         <title>Kroll Show</title>
@@ -3987,11 +3960,6 @@
         <desc>The Ghoulies are back in this sequel in which they take over a traveling carnival giving a park full of teenagers a night they'll never forget.</desc>
         <icon src="https://images.pluto.tv/series/6a439a287918fece01fbc189/tile_1782815273439.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-<programme channel="61f9598588f86000078ee7d6-DK" start="20261104210603 +0000" stop="20261104215503 +0000">
-        <title>Mutant X: fremtiden afsløret</title>
-        <desc>Ashlocke er desperat efter at finde en kur mod sin dødelige sygdom og infiltrerer fristedet for at afpresse Adam til at få fat i modgiften.</desc>
-        <icon src="https://images.pluto.tv/series/62319602ff21e500131bd183/tile_1767918961365.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
 <programme channel="61f9598588f86000078ee7d6-DK" start="20261104215503 +0000" stop="20261104224403 +0000">
         <title>Mutant X: ingen mand efterladt</title>
         <desc>Et militærfly bliver skudt ned bag fjendens linjer, hvilket får holdet til at gøre et desperat forsøg på at finde det hemmelige regeringsvåben, der er gemt om bord.</desc>
@@ -4112,11 +4080,6 @@
         <desc>The California Coast will have wait when, stranded in a ghost town, the Bundys and the D'Arcys catch "gold fever" and become wary mining partners.</desc>
         <icon src="https://images.pluto.tv/series/6464d85954afb6001a21bbb2/tile_1785221641806.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-<programme channel="6486e8984cfc2c0008b6844e-DK" start="20261104212616 +0000" stop="20261104215219 +0000">
-        <title>Mike Judge's Beavis &amp; Butt-Head: Nyre / Den gode gerning</title>
-        <desc>Midaldrende Beavis ødelægger sine nyrer, men en donor fra Beavis' fortid redder ham./ Beavis og Butt-Head gør deres første godegerning ved at komme DDT i punchen til skolefesten.</desc>
-        <icon src="https://images.pluto.tv/series/64dc7f498a0f710013b2b0c5/tile.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
 <programme channel="6486e8984cfc2c0008b6844e-DK" start="20261104215219 +0000" stop="20261104221931 +0000">
         <title>Beavis and Butt-Head: Oil Change / Whiplash</title>
         <desc>After being instructed to change the oil in the fryer at Burger World, Beavis and Butt-head get the oil from a local gas station. / In an attempt to collect some big insurance money, Butt-head tries to give Beavis a whiplash injury while riding the school</desc>
@@ -4146,11 +4109,6 @@
         <title>Beavis and Butt-Head: Leave it to Beavis/ Butt Flambé / Crying / Doomsday</title>
         <desc>The show parodies Leave It to Beaver / The duo needs to go to a hospital / Beavis cries and is mocked unrelentlessly / Highland experiences a toxic gas leak</desc>
         <icon src="https://images.pluto.tv/series/64b7c6cad264b00013ee9919/tile.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-<programme channel="65e9766eec9fda0008cb418a-DK" start="20261104212037 +0000" stop="20261104214712 +0000">
-        <title>RENO 911!: Burning Man Festival</title>
-        <desc>When the Sheriff's Department receives $1200 to get people off the streets, Garcia helps a hooker, and Dangle heads to Burning Man.</desc>
-        <icon src="https://images.pluto.tv/series/65e9890d3d3e4500142f5161/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
 <programme channel="65e9766eec9fda0008cb418a-DK" start="20261104214712 +0000" stop="20261104221312 +0000">
         <title>RENO 911!: Dangle's Moving Day</title>
@@ -5567,11 +5525,6 @@
         <desc>"The Super Scouts" Part 1. Cylons relentlessly tracking Galactica, attack a freighter ship containing a schoolroom. Most of the pupils are safely returned to the mother ship by shuttle but Troy and Dillon are forced to take the last 12 children to Earth.</desc>
         <icon src="https://images.pluto.tv/series/67a5d8389872a5ec12358b62/tile_1790723179049.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-<programme channel="685041d936c9361b1921c26c-GB" start="20261104210316 +0000" stop="20261104215424 +0000">
-        <title>Z Nation: All Good Things Must Come to an End</title>
-        <desc>In Los Angeles, the team drives to the coordinates of the mobile CDC lab provided by Citizen Z.</desc>
-        <icon src="https://images.pluto.tv/series/6a437780aac2f7c6ece1a128/tile_1782806401656.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
 <programme channel="685041d936c9361b1921c26c-GB" start="20261104215424 +0000" stop="20261104224651 +0000">
         <title>Z Nation: No Mercy (Part 1)</title>
         <desc>In this epic 'flashback movie,' the gang protects the town against a new enemy known as The Man. Part 1.</desc>
@@ -5592,11 +5545,6 @@
         <desc>Murphy's mission gains momentum as he works to establish a new headquarters in Spokane.</desc>
         <icon src="https://images.pluto.tv/series/6a437780aac2f7c6ece1a128/tile_1782806401656.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-<programme channel="5cb6f6f9a461406ffe4022cf-GB" start="20261104204645 +0000" stop="20261104214845 +0000">
-        <title>The FBI Files: Held For Ransom</title>
-        <desc>Wealth has its rewards, but it also brings its dangers.  Kidnapping is one of them.  No ordeal is more horrifying for a family than to have a child taken.</desc>
-        <icon src="https://images.pluto.tv/series/5b1904f2c65a06426375ffca/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
 <programme channel="5cb6f6f9a461406ffe4022cf-GB" start="20261104214845 +0000" stop="20261104225045 +0000">
         <title>The FBI Files: Deadly Mission</title>
         <desc>When a family was murdered in Arkansas, it seemed like an isolated event.  But soon the crime was revealed to be part of an ever-widening circle of violence that defined a new age of domestic terrorism.</desc>
@@ -5612,11 +5560,6 @@
         <desc>Two armed bank robbers hit a Seattle bank taking over 150,000 dollars.  Before they can escape police confront them and the pair splits up.  As authorities search block by block they learn one was a career criminal with a long history of violence.</desc>
         <icon src="https://images.pluto.tv/series/5b1904f2c65a06426375ffca/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-<programme channel="5e393d5c696b3b0009775c8b-GB" start="20261104205500 +0000" stop="20261104215400 +0000">
-        <title>The New Detectives: Deadly Aim</title>
-        <desc>Ballistic analysis is the key to finding killers who turn guns on their victims. Each shot fired leaves its own fingerprint, allowing scientists to target murderers with deadly aim.</desc>
-        <icon src="https://images.pluto.tv/series/5b190526c65a064263762545/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
 <programme channel="5e393d5c696b3b0009775c8b-GB" start="20261104215400 +0000" stop="20261104225200 +0000">
         <title>The New Detectives: Crimes Of Passion</title>
         <desc>When killers are driven by jealousy and desire, their desperation is evident in both the crime and their efforts to avoid detection. But forensic science can reveal even the slightest mistake to solve crimes of passion.</desc>
@@ -5631,11 +5574,6 @@
         <title>The New Detectives: Broken Trust</title>
         <desc>A New York homebuyer gets more than he bargained for when a house inspection turns up a mummified corpse.  For decades, the crime had gone undiscovered.  The victim unmissed, and the killer unpunished.</desc>
         <icon src="https://images.pluto.tv/series/5b190526c65a064263762545/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-<programme channel="615af74dfe3d8e0007524511-GB" start="20261104205300 +0000" stop="20261104215000 +0000">
-        <title>On the Case: Murder at Sunrise</title>
-        <desc>A beautiful young mother is found murdered while walking her dogs. Investigators suspect her killer is someone she knew. Twenty-six years latter police make an arrest but is he the right man?</desc>
-        <icon src="https://images.pluto.tv/series/617ab4eb829284001a95c1ad/tile_1790722089913.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
 <programme channel="615af74dfe3d8e0007524511-GB" start="20261104215000 +0000" stop="20261104224100 +0000">
         <title>On the Case: Path of Tears</title>
@@ -5656,11 +5594,6 @@
         <title>On the Case: A Face with No Name</title>
         <desc>Police have DNA evidence and a videotape of their suspect, yet they still struggle to find a vicious killer.</desc>
         <icon src="https://images.pluto.tv/series/617ab4eb829284001a95c1ad/tile_1790722089913.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-<programme channel="62f53dc6ee9a0400071dc22b-GB" start="20261104211549 +0000" stop="20261104215008 +0000">
-        <title>Letterkenny</title>
-        <desc>Wayne doubles down on finding love.</desc>
-        <icon src="https://images.pluto.tv/series/6aaaad89a586c4b3c9c7bbcd/tile_1789570442987.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
 <programme channel="62f53dc6ee9a0400071dc22b-GB" start="20261104215008 +0000" stop="20261104221954 +0000">
         <title>Letterkenny</title>
@@ -5901,11 +5834,6 @@
         <title>Someone They Knew</title>
         <desc>Ed Dossett and David Leath were friends with a lot in common. Both were well-known around Knoxville. Both married the same woman. And both turned up dead under suspicious circumstances.</desc>
         <icon src="https://images.pluto.tv/series/68e398d6e75d6b4e6ff01d0e/tile_1775198161080.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-<programme channel="68c8202f5ec82769fdfcd0a2-GB" start="20261104212500 +0000" stop="20261104215100 +0000">
-        <title>Parking Wars</title>
-        <desc>Enraged stalker in Philadelphia; woman booted in Detroit during her job interview.</desc>
-        <icon src="https://images.pluto.tv/series/6932b5d482c5f9296df37c8a/tile_1764935330610.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
 <programme channel="68c8202f5ec82769fdfcd0a2-GB" start="20261104215100 +0000" stop="20261104221700 +0000">
         <title>Parking Wars</title>
@@ -8064,11 +7992,6 @@ Director: Wes Craven</desc>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68c8202f5ec82769fdfcd0a2/featuredImage_1765877993411.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-<programme channel="62beb44e3afd120007915d1b-NO" start="20261104200132 +0000" stop="20261104215052 +0000">
-        <title>Barely Lethal</title>
-        <desc>16-år gamle Megan Walsh er i trening for å bli en iskald internasjonal leiemorder, men i hemmelighet lengter hun etter å være en normal tenåring. Hun forfalsker derfor sin egen død.</desc>
-        <icon src="https://images.pluto.tv/series/66226f14a9f2d20013c9ac2d/tile_1788963121916.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
 <programme channel="63dbe80f60bc8f0008aa7c78-NO" start="20261104210346 +0000" stop="20261104235147 +0000">
         <title>I Saw the Devil</title>
         <desc>En hemmelig agent tar hevn på en seriemorder gjennom en serie pågripelser og frigivelser.</desc>
@@ -8154,11 +8077,6 @@ Director: Wes Craven</desc>
         <desc>The Ghoulies are back in this sequel in which they take over a traveling carnival giving a park full of teenagers a night they'll never forget.</desc>
         <icon src="https://images.pluto.tv/series/6a43ac969ee0ad741b87c616/tile_1782819991178.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-<programme channel="61f957e051cca800076f2358-NO" start="20261104210325 +0000" stop="20261104215225 +0000">
-        <title>Andromeda: Siste samtale ved den ødelagte hammeren</title>
-        <desc>Mannskapet ser etter en mistet Commonwealth-leder som har skjult seg.</desc>
-        <icon src="https://images.pluto.tv/series/61bc8a040a7fe8001a080734/tile_1776072601229.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
 <programme channel="61f957e051cca800076f2358-NO" start="20261104215225 +0000" stop="20261104224125 +0000">
         <title>Andromeda: Altfor menneskelig</title>
         <desc>Dylan, Beka og Trance går sammen med Rommie for å finne ut om et våpen som utvikles på en planet som mistro AI.</desc>
@@ -8213,11 +8131,6 @@ Director: Wes Craven</desc>
         <title>The New Detectives: Dead Men Do Talk</title>
         <desc>Profiles the work of world-renowned forensic experts and the procedures they use to solve murders and other mysteries in minutes or centuries after they happen.</desc>
         <icon src="https://images.pluto.tv/series/61a797ee4b12ef00148fee8c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-<programme channel="61c1e7f38413090007c640db-NO" start="20261104212213 +0000" stop="20261104215213 +0000">
-        <title>Comedy Central Pluto TV</title>
-        <desc>Smil! Comedy Central Pluto TV har underholdning i bøttevis for deg med de beste komedieseriene, de mest legendariske stand-up showene og de villeste seriene og mye mye mer.</desc>
-        <icon src="https://images.pluto.tv/series/6a9a6a34198ce62db371b58b/tile_1788504629689.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
 <programme channel="61c1e7f38413090007c640db-NO" start="20261104215213 +0000" stop="20261104222213 +0000">
         <title>Comedy Central Pluto TV</title>
@@ -9439,11 +9352,6 @@ Director: Wes Craven</desc>
         <desc>Säg cheese! Comedy Central Pluto TV är kanalen som bjuder på de bästa komediserierna, de mest ikoniska standup-showerna, de galnaste tecknade serierna och mycket mer.</desc>
         <icon src="https://images.pluto.tv/series/6a9a6ab3815e1932eb26f45f/tile_1788504756483.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-<programme channel="6391e0b4bad1970007ee5733-SE" start="20261104212947 +0000" stop="20261104215520 +0000">
-        <title>Våra värsta år: Rock of Ages</title>
-        <desc>Al and the family try to sneak into the first-class lounge by dressing up like rock stars.</desc>
-        <icon src="https://images.pluto.tv/series/65b0e736debc810013dea69b/tile_1761829156068.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
 <programme channel="6391e0b4bad1970007ee5733-SE" start="20261104215520 +0000" stop="20261104222129 +0000">
         <title>Våra värsta år: Death of a Shoe Salesman</title>
         <desc>Al buys a cemetery plot so that he will be buried next to a western movie star and a mule. But Peggy feels excluded.</desc>
@@ -9513,11 +9421,6 @@ Director: Wes Craven</desc>
         <title>Beavis and Butt-Head: Pool Toys /  Beavis &amp; Butt-Head's Island</title>
         <desc>Beavis and Butt-head help Mr. Anderson build an in-ground swimming pool. / "Beavis and Butt-head get stranded on their own island, while in search of cool chicks, like Ginger.BALL BREAKERS: Just how DO you crack open a bowling ball?"</desc>
         <icon src="https://images.pluto.tv/series/64b79d000a21a3001308a5c3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-<programme channel="65e9781a2873090008b48d8a-SE" start="20261104212119 +0000" stop="20261104214803 +0000">
-        <title>RENO 911!: Dangle's Wedding</title>
-        <desc>Dangle preps for his wedding after his ex-wife's ex-husband proposes, and Wiegel goes into labor while stuck in cake.</desc>
-        <icon src="https://images.pluto.tv/series/65e999125c25f60013741cb0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
 <programme channel="65e9781a2873090008b48d8a-SE" start="20261104214803 +0000" stop="20261104221432 +0000">
         <title>RENO 911!: Jumping the Shark</title>
@@ -14064,7 +13967,7 @@ Director: Wes Craven</desc>
 <programme start="20261106162425 +0000" stop="20261106181330 +0000" channel="99991337"><title lang="en">The Devil's Arithmetic</title><desc lang="en">Hannah Stern (Kirsten Dunst), an American-born Jewish adolescent, is uninterested in the culture, faith and customs of her relatives; however, Hannah begins to reevaluate her heritage when she has a supernatural experience that transports her back to a Nazi death camp in 1941. There, she meets a young girl named Rivkah (Brittany Murphy), a fellow captive in the camp. As Rivkah and Hannah struggle to survive in the face of daily atrocities, they form an unbreakable bond.</desc><episode-num system="dd_assetid">XM0BMYEUD446HA</episode-num></programme>
 <programme start="20261106181330 +0000" stop="20261106200246 +0000" channel="99991337"><title lang="en">Blind Horizon [Broadcast Edit]</title><desc lang="en">Found in the New Mexico desert with a head wound and total amnesia, Frank Kavanaugh (Val Kilmer) is brought to a hospital. When he recovers some of his memory, he begins raving about an upcoming assassination attempt on the president. Despite the man's unstable state, Sheriff Jack Kolb (Sam Shepard) is troubled by Frank's story. Discovering the truth grows more complicated when Chloe Richards (Neve Campbell) arrives and claims to be Frank's fiancée, even though he has no memory of her.</desc><episode-num system="dd_assetid">XM0IZU1IAOW1XQ</episode-num></programme>
 <programme start="20261106200246 +0000" stop="20261106214821 +0000" channel="99991337"><title lang="en">Prom Night</title><desc lang="en">This slasher movie follows a relentless killer who is out to avenge the death of a young girl who died after being bullied and teased by four of her classmates. Now high-school students, the guilt-ridden kids have kept their involvement a secret, but when they start being murdered, one by one, it's clear that someone knows the truth. Also coping with the past are members of the dead girl's family, most notably her prom-queen sister, Kim Hammond.</desc><episode-num system="dd_assetid">XM0IZQHSZJZ3H8</episode-num></programme>
-<programme start="20261104212355 +0000" stop="20261104215244 +0000" channel="99991105"><title lang="en">Lucy Gets A Roommate</title><desc lang="en">Lucy takes in a librarian for a roommate in an attempt to save money.</desc><episode-num system="dd_assetid">XM0RZO4OH03GPP</episode-num></programme>
+<programme start="20261106214821 +0000" stop="20261106233731 +0000" channel="99991337"><title lang="en">The Long Walk Home</title><desc lang="en">Odessa Cotter needs to get to work as a nanny in the home of the affluent Miriam Thompson, but she refuses to take the bus. Odessa is participating in the Montgomery bus boycott, protesting against the inequality between blacks and whites, so Miriam decides to offer Odessa a ride to work every day. Though the community and Miriam's husband insist she not get involved, the relationship between Miriam and Odessa has already changed for the better.</desc><episode-num system="dd_assetid">XM0XGSB25DZD9M</episode-num></programme>
 <programme start="20261104215244 +0000" stop="20261104222142 +0000" channel="99991105"><title lang="en">Lucy And Carol In Palm Springs</title><desc lang="en">Lucy feigns illness for time off to go to Palm Springs.</desc><episode-num system="dd_assetid">XM0AY8P1TQ9JZ1</episode-num></programme>
 <programme start="20261104222142 +0000" stop="20261104224802 +0000" channel="99991105"><title lang="en">Wearing your cake</title><desc lang="en">Newlyweds smear cake on each other, two couples dancing, snowboard acrobatics, too curious, man and dog cross a road, man dances on hands.</desc><episode-num system="dd_assetid">XM0PGM5DVC3J95</episode-num></programme>
 <programme start="20261104224802 +0000" stop="20261104231423 +0000" channel="99991105"><title lang="en">Mess around</title><desc lang="en">girl pummeled by water balloon, birthday cake on the floor, baby sleeping &amp; eating, dolphin splashes kid, Santa Claus tumbles and falls, fold up Christmas tree</desc><episode-num system="dd_assetid">XM0DXI502A81XJ</episode-num></programme>
@@ -14271,6 +14174,7 @@ Director: Wes Craven</desc>
 <programme start="20261106190251 +0000" stop="20261106195956 +0000" channel="99991784"><title lang="en">Cave of Fear</title><desc lang="en">Professor Challenger is taken hostage. To save him, the group, goes into the cave of fear to retrieve bones for a ritual offering. In the process, they revisit the dark corners of their past.</desc><episode-num system="dd_assetid">XM032YI9T23JYL</episode-num></programme>
 <programme start="20261106195956 +0000" stop="20261106205442 +0000" channel="99991784"><title lang="en">Way to Paradise</title><desc lang="en">In the Mauser case, Mat and Sanct interrogate the star coiffeur Oliver Nienaber whose car was seen at Alexander MacDonald's place. Nienaber at first denies knowing MacDonald, but then finally admits it in a rough interrogation. Shortly after, Nienaber falls victim to the Mauser murderer, too.</desc><episode-num system="dd_assetid">XM0XKI54Y7GMPS</episode-num></programme>
 <programme start="20261106205442 +0000" stop="20261106215212 +0000" channel="99991784"><title lang="en">Riptide: S1 E5 - The Mean Green Love Machine</title><desc lang="en">A girl from Mama Jo's crew is afraid something has happened to her father and the Riptide Agency goes to Mexico to find out in what kind of trouble he's in.</desc><episode-num system="dd_assetid">XM0QGB93JCKAFG</episode-num></programme>
+<programme start="20261106215212 +0000" stop="20261106225101 +0000" channel="99991784"><title lang="en">Riptide: S1 E6 - Diamonds Are For Never</title><desc lang="en">While in the theater watching Bambi, Murray encounters an upset woman. It turns out she just witnessed the killing of a good friend of hers who turns out to be a diamond smuggler.</desc><episode-num system="dd_assetid">XM0NTGQUM41CDL</episode-num></programme>
 <programme start="20261104200700 +0000" stop="20261104220100 +0000" channel="99951288"><title lang="en">Backtrack</title><desc lang="en">While fixing a flat tire, artist Anne Benton (Jodie Foster) sees a mob killing. She reports the murder to the local police, but they are unable to protect her from Mafia don Lino Avoca (Vincent Price), who orders hitman Milo (Dennis Hopper) to track her down and kill her. Anne changes her identity, moves to Seattle and builds a new life, while Milo, preparing for his mission, becomes increasingly obsessed with her. When he finally finds Anne, Milo needs to decide what his next move will be.</desc><episode-num system="dd_assetid">MV000341090000</episode-num></programme>
 <programme start="20261104220100 +0000" stop="20261104235800 +0000" channel="99951288"><title lang="en">Blue Steel</title><desc lang="en">When rookie cop Megan Turner (Jamie Lee Curtis) kills a convenience store robber, she does not notice when psychopathic commodities trader Eugene Hunt (Ron Silver) takes the dead man's gun. With no weapon at the crime scene, the police hold Turner accountable for killing an unarmed man. Meanwhile, Hunt uses the stolen weapon to go on a killing spree. Turner teams up with detective Nick Mann (Clancy Brown) to clear her name and catch the killer. An unexpected romance complicates matters.</desc><episode-num system="dd_assetid">MV000285170000</episode-num></programme>
 <programme start="20261104235800 +0000" stop="20261105014400 +0000" channel="99951288"><title lang="en">A Vigilante</title><desc lang="en">A vigilante helps victims escape their domestic abusers.</desc><episode-num system="dd_assetid">MV012306650000</episode-num></programme>
@@ -14431,6 +14335,7 @@ Director: Wes Craven</desc>
 <programme start="20261106162000 +0000" stop="20261106175700 +0000" channel="99951377"><title lang="en">Night's End</title><desc lang="en">After moving into a haunted apartment, a shut-in hires a stranger to perform an exorcism.</desc><episode-num system="dd_assetid">MV018012010000</episode-num></programme>
 <programme start="20261106175700 +0000" stop="20261106195500 +0000" channel="99951377"><title lang="en">Ghost Stories</title><desc lang="en">Professor Phillip Goodman devotes his life to exposing phony psychics and fraudulent supernatural shenanigans. His skepticism soon gets put to the test when he receives news of three chilling and inexplicable cases -- disturbing visions in an abandoned asylum, a car accident deep in the woods and the spirit of an unborn child. Even scarier -- each of the macabre stories seems to have a sinister connection to the professor's own life.</desc><episode-num system="dd_assetid">MV010994890000</episode-num></programme>
 <programme start="20261106195500 +0000" stop="20261106215100 +0000" channel="99951377"><title lang="en">American Fable</title><desc lang="en">With her family's livelihood imperiled by the farm crisis during the 1980s, 11-year-old Gitty loses herself in a world of fantasy and make believe. But she stumbles into her own fairy tale when she makes a startling discovery: a well-dressed mystery man being held captive in her family's silo. It's the beginning of a labyrinthine journey that will turn Gitty's world upside down and force her to question her loyalty to her own family.</desc><episode-num system="dd_assetid">MV009730610000</episode-num></programme>
+<programme start="20261106215100 +0000" stop="20261107000300 +0000" channel="99951377"><title lang="en">Sanitarium</title><desc lang="en">Three patients in an insane asylum experience hallucinations, altered realities and imaginary voices.</desc><episode-num system="dd_assetid">MV004653430000</episode-num></programme>
 <programme start="20261104214549 +0000" stop="20261104234519 +0000" channel="99991300"><title lang="en">Unfinished Sky</title><desc lang="en">An Outback farmer takes in an Afghani woman who has fled from a brothel.</desc><episode-num system="dd_assetid">XM0MMEBV2GLJ2R</episode-num></programme>
 <programme start="20261104234519 +0000" stop="20261105012639 +0000" channel="99991300"><title lang="en">Forty Winks</title><desc lang="en">A struggling hypnotist in New York city is blackmailed into being the world's first hypnotist hitman after a mysterious woman finds out his degree is fake.</desc><episode-num system="dd_assetid">XM0VYNB8AD9EDO</episode-num></programme>
 <programme start="20261105012639 +0000" stop="20261105031029 +0000" channel="99991300"><title lang="en">Asperger's Are Us</title><desc lang="en">In this coming-of-age documentary, four friends on the Autism spectrum who have bonded through humor and performed as the comedy troupe "Asperger's Are Us" will prepare for one final, ambitious show before going their separate ways.</desc><episode-num system="dd_assetid">XM0ATFS6CL01IV</episode-num></programme>
@@ -14834,6 +14739,7 @@ Director: Wes Craven</desc>
 <programme start="20261106191600 +0000" stop="20261106200900 +0000" channel="99951468"><title lang="en">Harvest</title><desc lang="en">Prosecutors question a gunman's culpability when a medical report on the victim of a drive-by shooting raises suspicions about a doctor.</desc><episode-num system="dd_progid">EP000176170180</episode-num></programme>
 <programme start="20261106200900 +0000" stop="20261106210200 +0000" channel="99951468"><title lang="en">Nullification</title><desc lang="en">A deadly robbery leads to a suburban militia; McCoy questions his safety when he faces the group leader in court.</desc><episode-num system="dd_progid">EP000176170181</episode-num></programme>
 <programme start="20261106210200 +0000" stop="20261106215400 +0000" channel="99951468"><title lang="en">Baby, It's You</title><desc lang="en">A teen model's death leads Briscoe and Curtis to her parents in Baltimore; there they enlist detectives Munch and Falsone. (Concluding on "Homicide: Life on the Street.")</desc><episode-num system="dd_progid">EP000176170182</episode-num></programme>
+<programme start="20261106215400 +0000" stop="20261106224700 +0000" channel="99951468"><title lang="en">Blood</title><desc lang="en">Briscoe and Curtis investigate a new mother's death and the disappearance of her baby, leading prosecutors to probe the husband's role in the affair.</desc><episode-num system="dd_progid">EP000176170184</episode-num></programme>
 <programme start="20261104211200 +0000" stop="20261104220000 +0000" channel="99951236"><title lang="en">SNL Vault: Volume 17</title><desc lang="en">Sketches include Leslie Jones on "Weekend Update," "Brian Fellow's Safari Planet", "Wells for Boys" and more.</desc><episode-num system="dd_progid">EP000037101234</episode-num></programme>
 <programme start="20261104220000 +0000" stop="20261104225400 +0000" channel="99951236"><title lang="en">SNL Vault: Volume 18</title><desc lang="en">"SNL's" funniest sketches, like Pete Davidson on Weekend Update, The Corporal, me-Harmony and more.</desc><episode-num system="dd_progid">EP000037101235</episode-num></programme>
 <programme start="20261104225400 +0000" stop="20261104234800 +0000" channel="99951236"><title lang="en">SNL Vault: Volume 19</title><desc lang="en">"SNL's" funniest sketches, like Happy Fun Ball, Doctor's Orders, Casablanca and more.</desc><episode-num system="dd_progid">EP000037101236</episode-num></programme>
@@ -15515,112 +15421,6 @@ Director: Wes Craven</desc>
       <value>TV-14</value>
     </rating>
   </programme>
-<programme channel="US4500009VV" start="20261104212500 +0000" stop="20261104215500 +0000">
-    <title>Red Dwarf: Back to Earth</title>
-    <desc>Katerina, Rimmer's replacement, intends to guide Lister back to his home planet.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3618438973_0_20261014T235309976Z_27_imageprocessorclient-tvplus-linear-6b56cc9f55-d5g9z.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-<programme channel="US4500009VV" start="20261104215500 +0000" stop="20261104222300 +0000">
-    <title>Red Dwarf: Back to Earth</title>
-    <desc>The Dwarfers head to a mysterious address in London.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3618438973_0_20261014T235309976Z_27_imageprocessorclient-tvplus-linear-6b56cc9f55-d5g9z.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-<programme channel="US4500009VV" start="20261104222300 +0000" stop="20261104225800 +0000">
-    <title>Porridge</title>
-    <sub-title>The Go-Between</sub-title>
-    <desc>Fletch helps fellow inmates with appeals and letters.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1362608601_0_20250521T002627918Z_92_imageprocessorclient-tvplus-linear-b76dd9bbb-b7djg.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-<programme channel="US4500009VV" start="20261104225800 +0000" stop="20261104233200 +0000">
-    <title>Porridge</title>
-    <sub-title>The Cake</sub-title>
-    <desc>A prison bad boy wants a favor  a new prisoner on the block.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1362608601_0_20250521T002627918Z_92_imageprocessorclient-tvplus-linear-b76dd9bbb-b7djg.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-<programme channel="US4500009VV" start="20261104233200 +0000" stop="20261105000600 +0000">
-    <title>Porridge</title>
-    <sub-title>The Minder</sub-title>
-    <desc>Fletch gets on the wrong side of a mysterious new inmate.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1362608601_0_20250521T002627918Z_92_imageprocessorclient-tvplus-linear-b76dd9bbb-b7djg.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-<programme channel="US4500009VV" start="20261105000600 +0000" stop="20261105004000 +0000">
-    <title>Porridge</title>
-    <sub-title>The Witness</sub-title>
-    <desc>Dougie Parfitt wants Fletch to join his crew  Fletch tries to broker a peace with Dougie's rival.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1362608601_0_20250521T002627918Z_92_imageprocessorclient-tvplus-linear-b76dd9bbb-b7djg.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-<programme channel="US4500009VV" start="20261105004000 +0000" stop="20261105011500 +0000">
-    <title>Porridge</title>
-    <sub-title>The Listener</sub-title>
-    <desc>A new inmate arrives at Wakeley and Fletch is tasked with keeping an eye on him, but events take an unexpected turn.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1362608601_0_20250521T002627918Z_92_imageprocessorclient-tvplus-linear-b76dd9bbb-b7djg.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-<programme channel="US4500009VV" start="20261105011500 +0000" stop="20261105015000 +0000">
-    <title>Porridge</title>
-    <sub-title>The Rift</sub-title>
-    <desc>Fletch and his cellmate, Joe, are getting on each other's nerves.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1362608601_0_20250521T002627918Z_92_imageprocessorclient-tvplus-linear-b76dd9bbb-b7djg.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-<programme channel="US4500009VV" start="20261105015000 +0000" stop="20261105021700 +0000">
-    <title>Stath Lets Flats</title>
-    <sub-title>A Pushy Boy</sub-title>
-    <desc>Stath needs to lease some apartments to impress his dad, so he steals a viewing from a rival agent.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1207374844_0_20250423T052727866Z_88_imageprocessorclient-tvplus-linear-b76dd9bbb-gph6v.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-<programme channel="US4500009VV" start="20261105021700 +0000" stop="20261105024400 +0000">
-    <title>Stath Lets Flats</title>
-    <sub-title>A Absolutely Garden</sub-title>
-    <desc>Stath is delighted when his father gives him an apartment in a desirable area  thinking that the property will sell itself, Stath only arranges one viewing  Sophie and Al get closer while trying to help Stath with the job.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1207374844_0_20250423T052727866Z_88_imageprocessorclient-tvplus-linear-b76dd9bbb-gph6v.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-<programme channel="US4500009VV" start="20261105024400 +0000" stop="20261105031200 +0000">
-    <title>Stath Lets Flats</title>
-    <sub-title>A Job Is a Change</sub-title>
-    <desc>Stath accidentally burns down a property, prompting a fallout with his exasperated father  he decides to take a job at the agency next door, but struggles to fit in with the company's culture  Al tries to train Sophie as Stath's replacement.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1207374844_0_20250423T052727866Z_88_imageprocessorclient-tvplus-linear-b76dd9bbb-gph6v.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-<programme channel="US4500009VV" start="20261105031200 +0000" stop="20261105034000 +0000">
-    <title>Stath Lets Flats</title>
-    <sub-title>A Completely Football</sub-title>
-    <desc>Stath discovers he is dropped from the team for the annual inter-agency football tournament, and takes desperate measures to get back on the field  Sophie and a friend decide to plan a surprise dance to show off their talents at the tournament.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1207374844_0_20250423T052727866Z_88_imageprocessorclient-tvplus-linear-b76dd9bbb-gph6v.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
 <programme channel="USBA300019WF" start="20261104213000 +0000" stop="20261104220000 +0000">
     <title>Everybody Hates Bomb Threats</title>
     <desc>As punishment for Chris' disruption of history class, Chris and his classmates are given the assignment of memorizing a famous speech from World War II and reciting it in front of the class.</desc>
@@ -16207,15 +16007,6 @@ Director: Wes Craven</desc>
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme channel="CABC23000189A" start="20261104212418 +0000" stop="20261104214848 +0000">
-    <title>Cops</title>
-    <sub-title>Tazed and Confused</sub-title>
-    <desc>Cops are forced to take desperate measures a suspect won't stop fighting. Officers contain a man looking to fl</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534379571_0_20231027T015205674Z_43.jpeg"/>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
 <programme channel="CABC23000189A" start="20261104214848 +0000" stop="20261104221323 +0000">
     <title>Cops</title>
     <sub-title>Fast Food Escape</sub-title>
@@ -16342,15 +16133,6 @@ Director: Wes Craven</desc>
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme channel="CABD1200043OK" start="20261104212522 +0000" stop="20261104215117 +0000">
-    <title>Schitt's Creek</title>
-    <sub-title>Love Letters</sub-title>
-    <desc>A sleep-deprived Moira worries about a stack of old love letters addressed to Johnny.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542518855_0_20240529T062530432Z_24.jpeg"/>
-    <rating>
-      <value>14+</value>
-    </rating>
-  </programme>
 <programme channel="CABD1200043OK" start="20261104215117 +0000" stop="20261104221658 +0000">
     <title>Workin' Moms</title>
     <sub-title>The Man in the Mexican Mask</sub-title>
@@ -16466,15 +16248,6 @@ Director: Wes Craven</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542518855_0_20240529T062530432Z_24.jpeg"/>
     <rating>
       <value>14+</value>
-    </rating>
-  </programme>
-<programme channel="CA1400005SO" start="20261104212125 +0000" stop="20261104214746 +0000">
-    <title>Cash Cab</title>
-    <sub-title>Episode 12</sub-title>
-    <desc>Brian, Dylan, Barbara and Brett are so excited to take a ride in the Cash Cab they clap when Adam takes his first turn! These peppy four...</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_3517230692_3_20260923T164842067Z_63_imageprocessorclient-tvplus-linear-6b56cc9f55-jvt28.jpeg"/>
-    <rating>
-      <value>NA</value>
     </rating>
   </programme>
 <programme channel="CA1400005SO" start="20261104214746 +0000" stop="20261104221407 +0000">
@@ -16685,10 +16458,6 @@ Director: Wes Craven</desc>
     <title lang="en">Horror Machine | Awesome Killer Audition: It’s Murder Being A Star</title>
     <desc lang="en">An open audition turns deadly when a deranged actor brings a real gun. Fame, fantasy, and reality collide in this shocking mockumentary.</desc>
   </programme>
-<programme start="20261104192430 +0000" stop="20261104215359 +0000" channel="LN_6D30170C-D7B3-46A2-8C1F-302D8399F44D">
-    <title lang="en">Sabotage</title>
-    <desc lang="en">Members of an elite DEA task force find themselves being taken down one by one after they rob a drug</desc>
-  </programme>
 <programme start="20261104215359 +0000" stop="20261105003829 +0000" channel="LN_6D30170C-D7B3-46A2-8C1F-302D8399F44D">
     <title lang="en">Point Break</title>
     <desc lang="en">An F.B.I. Agent goes undercover to catch a gang of surfers who may be bank robbers</desc>
@@ -16813,7 +16582,6 @@ Director: Wes Craven</desc>
 <programme start="20261105060000 +0000" stop="20261105090000 +0000" channel="6a1610bebdf296985fd95603-636d46934ea1109a7d205a55"><title>To Be Announced (2026)</title><desc>Program information is not yet available</desc><category>Movies</category><rating><value>NR</value></rating></programme>
 <programme start="20261105090000 +0000" stop="20261105120000 +0000" channel="6a1610bebdf296985fd95603-636d46934ea1109a7d205a55"><title>To Be Announced (2026)</title><desc>Program information is not yet available</desc><category>Movies</category><rating><value>NR</value></rating></programme>
 <programme start="20261105120000 +0000" stop="20261105150000 +0000" channel="6a1610bebdf296985fd95603-636d46934ea1109a7d205a55"><title>To Be Announced (2026)</title><desc>Program information is not yet available</desc><category>Movies</category><rating><value>NR</value></rating></programme>
-<programme start="20261104203000 +0000" stop="20261104215000 +0000" channel="6a1610bebdf296985fd95603-641db53c2f7a0fca29488c99"><title>Movie Tron: Path of Blood (1994)</title><desc>On October 31, 1994, an all-night movie marathon aired in Barrington Colo., beginning with "Path of Blood", a '70s era chanbara samurai film. The broadcast offers clues into the mysterious tragedy that befell the town.</desc><category>Animated</category><category>Horror</category><category>Adventure</category><category>Movies</category><category>Adrenaline + Sci-Fi</category><rating><value>NR</value></rating></programme>
 <programme start="20261104215000 +0000" stop="20261104234000 +0000" channel="6a1610bebdf296985fd95603-641db53c2f7a0fca29488c99"><title>A Mother's Embrace (2024)</title><desc>In 1996, a young firefighter and her team are called to help an old people's home that is at risk of a flood during the worst storm to ever hit Rio de Janeiro.</desc><category>Thriller</category><category>Movies</category><rating><value>NR</value></rating></programme>
 <programme start="20261104234000 +0000" stop="20261105013500 +0000" channel="6a1610bebdf296985fd95603-641db53c2f7a0fca29488c99"><title>Dead and Buried (1981)</title><desc>A sheriff (James Farentino) and his wife (Melody Anderson) realize the town coroner (Jack Albertson) has been creating an army of rural zombies.</desc><category>Horror</category><category>Movies</category><category>Adrenaline + Sci-Fi</category><rating><value>NR</value></rating></programme>
 <programme start="20261105013500 +0000" stop="20261105032000 +0000" channel="6a1610bebdf296985fd95603-641db53c2f7a0fca29488c99"><title>The Prowler (1981)</title><desc>A crazed World War II veteran gets revenge on his ex-girlfriend and her boyfriend, then stalks teens 35 years later.</desc><category>Horror</category><category>Movies</category><category>Adrenaline + Sci-Fi</category><rating><value>NR</value></rating></programme>
@@ -16888,7 +16656,6 @@ Director: Wes Craven</desc>
 <programme start="20261105093000 +0000" stop="20261105111500 +0000" channel="6a1610bebdf296985fd95603-650b38f490baad1963ad96f9"><title>MadS (2024)</title><desc>Romain sees an injured woman and decides to help her, but when she gets in his car, she suddenly smashes her own head against the dashboard, bleeding out until she dies.</desc><category>Horror</category><category>Thriller</category><category>Movies</category><category>Adrenaline + Sci-Fi</category><rating><value>NR</value></rating></programme>
 <programme start="20261105111500 +0000" stop="20261105130500 +0000" channel="6a1610bebdf296985fd95603-650b38f490baad1963ad96f9"><title>Daddy's Head (2024)</title><desc>A boy and his widowed stepmother find themselves in fear for their lives after they are visited by an unexplainable creature which appears to mimic the boy's recently deceased father.</desc><category>Horror</category><category>Movies</category><category>Adrenaline + Sci-Fi</category><rating><value>NR</value></rating></programme>
 <programme start="20261105130500 +0000" stop="20261105145800 +0000" channel="6a1610bebdf296985fd95603-650b38f490baad1963ad96f9"><title>Hunter Hunter (2020)</title><desc>A fur trapper leaves his wife and daughter behind to kill a rogue wolf in the remote wilderness. But they soon become increasingly worried when a severely injured man shows up to disrupt their peaceful existence.</desc><category>Horror</category><category>Thriller</category><category>Movies</category><category>Adrenaline + Sci-Fi</category><rating><value>NR</value></rating></programme>
-<programme start="20261104212557 +0000" stop="20261104215512 +0000" channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643"><title>Red Dwarf</title><sub-title>Back to Earth, Episode 2</sub-title><desc>Rimmer's replacement, Katerina, is determined to guide Lister back to his home planet.</desc><category>Comedy</category><episode-num system="onscreen">S9E2</episode-num><episode-num system="xmltv_ns">8.1.</episode-num><rating><value>TV-PG</value></rating></programme>
 <programme start="20261104215512 +0000" stop="20261104222319 +0000" channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643"><title>Red Dwarf</title><sub-title>Back to Earth, Episode 3</sub-title><desc>Knowing they are destined to die, the Dwarfers head to a mysterious address to plead for life.</desc><category>Comedy</category><episode-num system="onscreen">S9E3</episode-num><episode-num system="xmltv_ns">8.2.</episode-num><rating><value>TV-PG</value></rating></programme>
 <programme start="20261104222319 +0000" stop="20261104225808 +0000" channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643"><title>Porridge (2016)</title><sub-title>The Go-Between</sub-title><desc>Fletch has taken to helping his fellow inmates with appeals, letters home and the like.</desc><category>Comedy</category><episode-num system="onscreen">S1E1</episode-num><episode-num system="xmltv_ns">0.0.</episode-num><rating><value>TV-14</value></rating></programme>
 <programme start="20261104225808 +0000" stop="20261104233249 +0000" channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643"><title>Porridge (2016)</title><sub-title>The Cake</sub-title><desc>Bad boy Dougie Parfitt wants a favor, and there is a new prison officer on the block.</desc><category>Comedy</category><episode-num system="onscreen">S1E2</episode-num><episode-num system="xmltv_ns">0.1.</episode-num><rating><value>TV-PG</value></rating></programme>
@@ -17013,7 +16780,6 @@ Director: Wes Craven</desc>
 <programme start="20261105102515 +0000" stop="20261105113133 +0000" channel="6a1610bebdf296985fd95603-67cbd471cc5136329877e098"><title>The New Detectives</title><sub-title>Faces of Tragedy</sub-title><desc>Using clay, forensic arts place a face on an unidentified skull, recreating the victim's likeness.</desc><category>Crime</category><episode-num system="onscreen">S2E5</episode-num><episode-num system="xmltv_ns">1.4.</episode-num><rating><value>TV-14</value></rating></programme>
 <programme start="20261105113133 +0000" stop="20261105123233 +0000" channel="6a1610bebdf296985fd95603-67cbd471cc5136329877e098"><title>The New Detectives</title><sub-title>Without a Trace</sub-title><desc>Authorities use computer databases to help locate missing persons.</desc><category>Crime</category><episode-num system="onscreen">S2E6</episode-num><episode-num system="xmltv_ns">1.5.</episode-num><rating><value>TV-PG</value></rating></programme>
 <programme start="20261105123233 +0000" stop="20261105133743 +0000" channel="6a1610bebdf296985fd95603-67cbd471cc5136329877e098"><title>The New Detectives</title><sub-title>Burning Evidence</sub-title><desc>New techniques allow investigators to find clues among charred remains.</desc><category>Crime</category><episode-num system="onscreen">S2E7</episode-num><episode-num system="xmltv_ns">1.6.</episode-num><rating><value>TV-PG</value></rating></programme>
-<programme start="20261104212050 +0000" stop="20261104214921 +0000" channel="6a1610bebdf296985fd95603-68db6a852be6c4ceb7947b9a"><title>Kim's Convenience</title><sub-title>New TV</sub-title><desc>Kimchee tries to keep his new girlfriend from meeting Jung. Janet speaks her mind in class.</desc><category>Comedy</category><episode-num system="onscreen">S2E9</episode-num><episode-num system="xmltv_ns">1.8.</episode-num><rating><value>TV-14</value></rating></programme>
 <programme start="20261104214921 +0000" stop="20261104221751 +0000" channel="6a1610bebdf296985fd95603-68db6a852be6c4ceb7947b9a"><title>Kim's Convenience</title><sub-title>Janet's Boyfriend</sub-title><desc>Janet struggles to keep her parents from learning about her relationship with Raj.</desc><category>Comedy</category><episode-num system="onscreen">S2E10</episode-num><episode-num system="xmltv_ns">1.9.</episode-num><rating><value>TV-14</value></rating></programme>
 <programme start="20261104221751 +0000" stop="20261104224621 +0000" channel="6a1610bebdf296985fd95603-68db6a852be6c4ceb7947b9a"><title>Kim's Convenience</title><sub-title>Appa's First Text</sub-title><desc>Appa inherits his daughter's old smartphone. Umma finds a stray dog in the store.</desc><category>Comedy</category><episode-num system="onscreen">S2E12</episode-num><episode-num system="xmltv_ns">1.11.</episode-num><rating><value>TV-14</value></rating></programme>
 <programme start="20261104224621 +0000" stop="20261104231451 +0000" channel="6a1610bebdf296985fd95603-68db6a852be6c4ceb7947b9a"><title>Kim's Convenience</title><sub-title>Handy Graduation</sub-title><desc>At a party to celebrate getting his GED, Jung can't ignore his feelings for Shannon.</desc><category>Comedy</category><episode-num system="onscreen">S2E13</episode-num><episode-num system="xmltv_ns">1.12.</episode-num><rating><value>TV-14</value></rating></programme>
@@ -18237,18 +18003,6 @@ Director: Wes Craven</desc>
     <episode-num system="xmltv_ns">1.5.0/1</episode-num>
     <date>20151024</date>
   </programme>
-<programme start="20261104214020 +0000" stop="20261104215124 +0000" channel="check-it-out-with-dr-steve-brule">
-    <title lang="en">Check It Out! with Dr. Steve Brule</title>
-    <sub-title lang="en">Money</sub-title>
-    <desc lang="en">Dr. Steve gets career advice and goes gambling. Doug Prishpreed gives a sports update.</desc>
-    <category lang="en">Comedy</category>
-    <rating system="VCHIP">
-      <value>TV-14 L</value>
-    </rating>
-    <icon src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321557284-checkitout_202_bim.jpg"/>
-    <episode-num system="xmltv_ns">1.2.0/1</episode-num>
-    <date>20120402</date>
-  </programme>
 <programme start="20261104215124 +0000" stop="20261104220247 +0000" channel="check-it-out-with-dr-steve-brule">
     <title lang="en">Check It Out! with Dr. Steve Brule</title>
     <sub-title lang="en">Space</sub-title>
@@ -18512,18 +18266,6 @@ Director: Wes Craven</desc>
     <icon src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321553308-checkitout_201_bim.jpg"/>
     <episode-num system="xmltv_ns">1.0.0/1</episode-num>
     <date>20120319</date>
-  </programme>
-<programme start="20261104214027 +0000" stop="20261104215221 +0000" channel="infomercials">
-    <title lang="en">Infomercials</title>
-    <sub-title lang="en">A Message from the Future</sub-title>
-    <desc lang="en">The following is a very important announcement that will affect all people of earth.</desc>
-    <category lang="en">Comedy</category>
-    <rating system="VCHIP">
-      <value>TV-14 DLV</value>
-    </rating>
-    <icon src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15282098449926.jpg"/>
-    <episode-num system="xmltv_ns">7.0.0/1</episode-num>
-    <date>20180605</date>
   </programme>
 <programme start="20261104215221 +0000" stop="20261104220637 +0000" channel="infomercials">
     <title lang="en">Infomercials</title>
@@ -21439,18 +21181,6 @@ ABSurveillanceSolutions.com</desc>
     <episode-num system="xmltv_ns">0.11.0/1</episode-num>
     <date>20050516</date>
   </programme>
-<programme start="20261104212755 +0000" stop="20261104215320 +0000" channel="samurai-jack">
-    <title lang="en">Samurai Jack</title>
-    <sub-title lang="en">XL</sub-title>
-    <desc lang="en">Aku sends a Ninja to destroy Jack who is busily helping a port town in distress.</desc>
-    <category lang="en">Comedy</category>
-    <rating system="VCHIP">
-      <value>TV-Y7-FV</value>
-    </rating>
-    <icon src="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471419123-samjack_040.jpg"/>
-    <episode-num system="xmltv_ns">2.13.0/1</episode-num>
-    <date>20030615</date>
-  </programme>
 <programme start="20261104215320 +0000" stop="20261104221854 +0000" channel="samurai-jack">
     <title lang="en">Samurai Jack</title>
     <sub-title lang="en">XLI</sub-title>
@@ -22219,12 +21949,6 @@ ABSurveillanceSolutions.com</desc>
     <episode-num system="xmltv_ns">3.2.0/1</episode-num>
     <date>20031106</date>
   </programme>
-<programme start="20261104214012 +0000" stop="20261104215146 +0000" channel="squidbillies">
-    <title lang="en">Squidbillies</title>
-    <sub-title lang="en">Bunker Down, You Hairy Dawg!</sub-title>
-    <category lang="en">Comedy</category>
-    <icon src="https://media.cdn.adultswim.com/uploads/20211107/21117198155-SquidbilliesMetaThumb420x236.png"/>
-  </programme>
 <programme start="20261104215146 +0000" stop="20261104220307 +0000" channel="squidbillies">
     <title lang="en">Squidbillies</title>
     <sub-title lang="en">Walk to Dignity, A</sub-title>
@@ -22674,18 +22398,6 @@ ABSurveillanceSolutions.com</desc>
     <sub-title lang="en">Jimmy Kimmel; Tyler The Creator</sub-title>
     <category lang="en">Comedy</category>
     <icon src="https://i.cdn.turner.com/adultswim/big/img/2018/03/28/eamarathon.jpg"/>
-  </programme>
-<programme start="20261104211933 +0000" stop="20261104214802 +0000" channel="the-venture-bros">
-    <title lang="en">Venture Brothers, The</title>
-    <sub-title lang="en">Showdown at Cremation Creek (Part 2)</sub-title>
-    <desc lang="en">As Phantom Limb makes his stunning power play, only Brock can rally The Monarch's forces to mount a defense. The fate of almost everyone in the Venture universe hangs in the balance as The Sovereign reveals his true identity and guys and stuff explode all over the place.</desc>
-    <category lang="en">Comedy</category>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-    <icon src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161410145-venture_126.jpg"/>
-    <episode-num system="xmltv_ns">1.12.0/1</episode-num>
-    <date>20061016</date>
   </programme>
 <programme start="20261104214802 +0000" stop="20261104221633 +0000" channel="the-venture-bros">
     <title lang="en">Venture Brothers, The</title>
@@ -23302,15 +23014,6 @@ There's nothing like a party to stir up decades worth of sibling rivalries, bitt
     <icon src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116132626-venture_106.jpg"/>
     <episode-num system="xmltv_ns">0.9.0/1</episode-num>
     <date>20041010</date>
-  </programme>
-<programme start="20261104213832 +0000" stop="20261104215245 +0000" channel="your-pretty-face-is-going-to-hell">
-    <title lang="en">Your Pretty Face Is Going to Hell</title>
-    <sub-title lang="en">Five-Card Duds</sub-title>
-    <desc lang="en">When Gary and Troy go to Vegas to steal some souls, they learn you actually can have too much of a good thing.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155984019589717.jpg"/>
-    <episode-num system="xmltv_ns">3.9.0/1</episode-num>
-    <date>20190608</date>
   </programme>
 <programme start="20261104215245 +0000" stop="20261104220650 +0000" channel="your-pretty-face-is-going-to-hell">
     <title lang="en">Your Pretty Face Is Going to Hell</title>
@@ -24901,6 +24604,11 @@ There's nothing like a party to stir up decades worth of sibling rivalries, bitt
     <desc lang="en">Nat Geo WILD follows The Incredible Dr. Pol as he travels across rural Michigan to care for every family pet and head of livestock in need of his expertise and kindness.</desc>
     <icon src="https://img.vidaahub.com/s3_bucket/60158/live/60158_1072c9b8-2a7b-487a-8e71-ea79b3b01ccd_e7104a4a6-163f-41b6-9425-13fdbddc65b4_1793998649000/83fa5471a3334bba8fe04560fd3e65ee?f=webp&amp;resize=w_480,h_270"/>
   </programme>
+<programme start="20261106215010 +0000" stop="20261106224251 +0000" channel="10509">
+    <title lang="en">The Bark Side</title>
+    <desc lang="en">Nat Geo WILD follows The Incredible Dr. Pol as he travels across rural Michigan to care for every family pet and head of livestock in need of his expertise and kindness.</desc>
+    <icon src="https://img.vidaahub.com/s3_bucket/60158/live/60158_1072c9b8-2a7b-487a-8e71-ea79b3b01ccd_ea9b3f9ed-eea0-42a0-b617-f0179684d725_1794001810000/83fa5471a3334bba8fe04560fd3e65ee?f=webp&amp;resize=w_480,h_270"/>
+  </programme>
 <programme start="20261104214617 +0000" stop="20261104223510 +0000" channel="10511">
     <title lang="en">Woodhouse Family</title>
     <desc lang="en">Ty and the gang build a safe home for a young girl.</desc>
@@ -25191,6 +24899,11 @@ There's nothing like a party to stir up decades worth of sibling rivalries, bitt
     <desc lang="en">Disney animators makeover a hospital's cancer ward.</desc>
     <icon src="https://img.vidaahub.com/s3_bucket/60158/live/60158_47dd4477-0edf-461c-b9f0-6d16eac1148a_e9d4eeac5-75b4-4237-a742-76c65e186882_1793998855000/dd1be4bd6d35e0a795f1a851a15a70f8?f=webp&amp;resize=w_480,h_270"/>
   </programme>
+<programme start="20261106215005 +0000" stop="20261106223906 +0000" channel="10511">
+    <title lang="en">Okvath Family, Part 2</title>
+    <desc lang="en">Disney animators makeover a hospital's cancer ward.</desc>
+    <icon src="https://img.vidaahub.com/s3_bucket/60158/live/60158_47dd4477-0edf-461c-b9f0-6d16eac1148a_e46053beb-72f0-47e2-848c-a82d4fa155c7_1794001805000/dd1be4bd6d35e0a795f1a851a15a70f8?f=webp&amp;resize=w_480,h_270"/>
+  </programme>
 <programme start="20261104213040 +0000" stop="20261104222121 +0000" channel="10516">
     <title lang="en">Bent and Broken</title>
     <desc lang="en">Andy constructs snares to maintain his food supply. Erik and Martha cut up their last moose quarter.</desc>
@@ -25465,11 +25178,6 @@ There's nothing like a party to stir up decades worth of sibling rivalries, bitt
     <title lang="en">Into the Storm</title>
     <desc lang="en">As the weather shifts in the Arctic, Alaskans brace for dark winter’s wrath.</desc>
     <icon src="https://img.vidaahub.com/s3_bucket/60158/live/60158_c1f18fa1-bd08-4485-86d5-ab52a71c218a_ea78fef13-931b-4662-81c9-2f79aeea985a_1794001474000/43f7c81c8cfd343c67d8d7bd0f66b635?f=webp&amp;resize=w_480,h_270"/>
-  </programme>
-<programme start="20261104210526 +0000" stop="20261104215459 +0000" channel="10517">
-    <title lang="en">22 Skidoo</title>
-    <desc lang="en">The detectives hunt for a man who kills minorities to avenge his brother.</desc>
-    <icon src="https://img.vidaahub.com/s3_bucket/60158/live/60158_53ee9b59-581e-4fd2-85b7-51a83adabeca_e0a25d18a-4fa5-475a-8986-2feabb05ec8c_1793826326000/9d0f3f469f9edb1e030b0c7519d606df?f=webp&amp;resize=w_480,h_270"/>
   </programme>
 <programme start="20261104215459 +0000" stop="20261104224427 +0000" channel="10517">
     <title lang="en">Frickin' Fraker</title>
@@ -26046,6 +25754,11 @@ There's nothing like a party to stir up decades worth of sibling rivalries, bitt
     <desc lang="en">A damage-proof cell phone case.</desc>
     <icon src="https://img.vidaahub.com/s3_bucket/60158/live/60158_ac2c4552-7265-49a7-abf8-fd1dce8f8fb7_e471709e7-bcfe-4cbb-a93f-990c71df76f2_1793998527000/3e6374b15cb0571ee9639637a9a1196e?f=webp&amp;resize=w_480,h_270"/>
   </programme>
+<programme start="20261106214707 +0000" stop="20261106223844 +0000" channel="10521">
+    <title lang="en">Season 4 Episode 20</title>
+    <desc lang="en">Two entrepreneurs try to solve the "carmuter triangle."</desc>
+    <icon src="https://img.vidaahub.com/s3_bucket/60158/live/60158_ac2c4552-7265-49a7-abf8-fd1dce8f8fb7_e20231544-bd35-42ce-8e9c-3f4117d580c1_1794001627000/3e6374b15cb0571ee9639637a9a1196e?f=webp&amp;resize=w_480,h_270"/>
+  </programme>
 <programme start="20261104212858 +0000" stop="20261104222312 +0000" channel="10592">
     <title lang="en">Glue</title>
     <desc lang="en">It's Super! It's Krazy!</desc>
@@ -26615,11 +26328,6 @@ There's nothing like a party to stir up decades worth of sibling rivalries, bitt
     <title lang="en">Winter's Wrath</title>
     <desc lang="en">This season opens as a polar vortex sweeps across the nation.</desc>
     <icon src="https://img.vidaahub.com/s3_bucket/60072/live/60072_vidaa_aenetworks_skills_thrills_1_us_hls_wfo_US-TMS-EP015556560027_1793999717000/b6d58482834620bb773ba60fd98415b3?f=webp&amp;resize=w_480,h_270"/>
-  </programme>
-<programme start="20261104205700 +0000" stop="20261104214700 +0000" channel="10626">
-    <title lang="en">Bad Girls Club</title>
-    <desc lang="en">Tiffany and Amber call a truce; Amber B. goes speed dating after she breaks up with her boyfriend back home.</desc>
-    <icon src="https://img.vidaahub.com/s3_bucket/60010/live/60010_2558190189/fbede03995f1873633c21aed32812889?f=webp&amp;resize=w_480,h_270"/>
   </programme>
 <programme start="20261104214700 +0000" stop="20261104223600 +0000" channel="10626">
     <title lang="en">Bad Girls Club</title>
@@ -28291,395 +27999,395 @@ There's nothing like a party to stir up decades worth of sibling rivalries, bitt
     <desc lang="en">Amplia información local, nacional, internacional, vialidad, pronóstico del tiempo, deportes.</desc>
     <icon src="https://img.vidaahub.com/s3_bucket/60142/live/60142_abacaf91-c562-4c70-903a-d91d93a455fa_e1195_1793998800000/1668eb3a7f5b31113fc7b3d06dd06bd0?f=webp&amp;resize=w_480,h_270"/>
   </programme>
-<programme start="20261104214427 +0000" stop="20261104224427 +0000" channel="6454">
+<programme start="20261104215329 +0000" stop="20261104225329 +0000" channel="6454">
     <title lang="en">Lo Mejor de Liga</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261104224427 +0000" stop="20261104234427 +0000" channel="6454">
+<programme start="20261104225329 +0000" stop="20261104235329 +0000" channel="6454">
     <title lang="en">Lo Mejor de Liga</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261104234427 +0000" stop="20261105004427 +0000" channel="6454">
+<programme start="20261104235329 +0000" stop="20261105005329 +0000" channel="6454">
     <title lang="en">Lo Mejor de Liga</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105004427 +0000" stop="20261105014427 +0000" channel="6454">
+<programme start="20261105005329 +0000" stop="20261105015329 +0000" channel="6454">
     <title lang="en">Lo Mejor de Liga</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105014427 +0000" stop="20261105024427 +0000" channel="6454">
+<programme start="20261105015329 +0000" stop="20261105025329 +0000" channel="6454">
     <title lang="en">Lo Mejor de Liga</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105024427 +0000" stop="20261105034427 +0000" channel="6454">
+<programme start="20261105025329 +0000" stop="20261105035329 +0000" channel="6454">
     <title lang="en">Lo Mejor de Liga</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105034427 +0000" stop="20261105044427 +0000" channel="6454">
+<programme start="20261105035329 +0000" stop="20261105045329 +0000" channel="6454">
     <title lang="en">Lo Mejor de Liga</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105044427 +0000" stop="20261105054427 +0000" channel="6454">
+<programme start="20261105045329 +0000" stop="20261105055329 +0000" channel="6454">
     <title lang="en">Lo Mejor de Liga</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105054427 +0000" stop="20261105064427 +0000" channel="6454">
+<programme start="20261105055329 +0000" stop="20261105065329 +0000" channel="6454">
     <title lang="en">Lo Mejor de Liga</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105064427 +0000" stop="20261105074427 +0000" channel="6454">
+<programme start="20261105065329 +0000" stop="20261105075329 +0000" channel="6454">
     <title lang="en">Lo Mejor de Liga</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105074427 +0000" stop="20261105084427 +0000" channel="6454">
+<programme start="20261105075329 +0000" stop="20261105085329 +0000" channel="6454">
     <title lang="en">Lo Mejor de Liga</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105084427 +0000" stop="20261105094427 +0000" channel="6454">
+<programme start="20261105085329 +0000" stop="20261105095329 +0000" channel="6454">
     <title lang="en">Lo Mejor de Liga</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105094427 +0000" stop="20261105104427 +0000" channel="6454">
+<programme start="20261105095329 +0000" stop="20261105105329 +0000" channel="6454">
     <title lang="en">Lo Mejor de Liga</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105104427 +0000" stop="20261105114427 +0000" channel="6454">
+<programme start="20261105105329 +0000" stop="20261105115329 +0000" channel="6454">
     <title lang="en">Lo Mejor de Liga</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105114427 +0000" stop="20261105124427 +0000" channel="6454">
+<programme start="20261105115329 +0000" stop="20261105125329 +0000" channel="6454">
     <title lang="en">Lo Mejor de Liga</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105124427 +0000" stop="20261105134427 +0000" channel="6454">
+<programme start="20261105125329 +0000" stop="20261105135329 +0000" channel="6454">
     <title lang="en">Lo Mejor de Liga</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105134427 +0000" stop="20261105144427 +0000" channel="6454">
+<programme start="20261105135329 +0000" stop="20261105145329 +0000" channel="6454">
     <title lang="en">Lo Mejor de Liga</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105144427 +0000" stop="20261105154427 +0000" channel="6454">
+<programme start="20261105145329 +0000" stop="20261105155329 +0000" channel="6454">
     <title lang="en">Lo Mejor de Liga</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105154427 +0000" stop="20261105164427 +0000" channel="6454">
+<programme start="20261105155329 +0000" stop="20261105165329 +0000" channel="6454">
     <title lang="en">Lo Mejor de Liga</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105164427 +0000" stop="20261105174427 +0000" channel="6454">
+<programme start="20261105165329 +0000" stop="20261105175329 +0000" channel="6454">
     <title lang="en">Lo Mejor de Liga</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105174427 +0000" stop="20261105184427 +0000" channel="6454">
+<programme start="20261105175329 +0000" stop="20261105185329 +0000" channel="6454">
     <title lang="en">Lo Mejor de Liga</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105184427 +0000" stop="20261105194427 +0000" channel="6454">
+<programme start="20261105185329 +0000" stop="20261105195329 +0000" channel="6454">
     <title lang="en">Lo Mejor de Liga</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105194427 +0000" stop="20261105204427 +0000" channel="6454">
+<programme start="20261105195329 +0000" stop="20261105205329 +0000" channel="6454">
     <title lang="en">Lo Mejor de Liga</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105204427 +0000" stop="20261105214427 +0000" channel="6454">
+<programme start="20261105205329 +0000" stop="20261105215329 +0000" channel="6454">
     <title lang="en">Lo Mejor de Liga</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105214427 +0000" stop="20261105224427 +0000" channel="6454">
+<programme start="20261105215329 +0000" stop="20261105225329 +0000" channel="6454">
     <title lang="en">Lo Mejor de Liga</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105224427 +0000" stop="20261105234427 +0000" channel="6454">
+<programme start="20261105225329 +0000" stop="20261105235329 +0000" channel="6454">
     <title lang="en">Lo Mejor de Liga</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105234427 +0000" stop="20261106004427 +0000" channel="6454">
+<programme start="20261105235329 +0000" stop="20261106005329 +0000" channel="6454">
     <title lang="en">Lo Mejor de Liga</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106004427 +0000" stop="20261106014427 +0000" channel="6454">
+<programme start="20261106005329 +0000" stop="20261106015329 +0000" channel="6454">
     <title lang="en">Lo Mejor de Liga</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106014427 +0000" stop="20261106024427 +0000" channel="6454">
+<programme start="20261106015329 +0000" stop="20261106025329 +0000" channel="6454">
     <title lang="en">Lo Mejor de Liga</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106024427 +0000" stop="20261106034427 +0000" channel="6454">
+<programme start="20261106025329 +0000" stop="20261106035329 +0000" channel="6454">
     <title lang="en">Lo Mejor de Liga</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106034427 +0000" stop="20261106044427 +0000" channel="6454">
+<programme start="20261106035329 +0000" stop="20261106045329 +0000" channel="6454">
     <title lang="en">Lo Mejor de Liga</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106044427 +0000" stop="20261106054427 +0000" channel="6454">
+<programme start="20261106045329 +0000" stop="20261106055329 +0000" channel="6454">
     <title lang="en">Lo Mejor de Liga</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106054427 +0000" stop="20261106064427 +0000" channel="6454">
+<programme start="20261106055329 +0000" stop="20261106065329 +0000" channel="6454">
     <title lang="en">Lo Mejor de Liga</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106064427 +0000" stop="20261106074427 +0000" channel="6454">
+<programme start="20261106065329 +0000" stop="20261106075329 +0000" channel="6454">
     <title lang="en">Lo Mejor de Liga</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106074427 +0000" stop="20261106084427 +0000" channel="6454">
+<programme start="20261106075329 +0000" stop="20261106085329 +0000" channel="6454">
     <title lang="en">Lo Mejor de Liga</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106084427 +0000" stop="20261106094427 +0000" channel="6454">
+<programme start="20261106085329 +0000" stop="20261106095329 +0000" channel="6454">
     <title lang="en">Lo Mejor de Liga</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106094427 +0000" stop="20261106104427 +0000" channel="6454">
+<programme start="20261106095329 +0000" stop="20261106105329 +0000" channel="6454">
     <title lang="en">Lo Mejor de Liga</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106104427 +0000" stop="20261106114427 +0000" channel="6454">
+<programme start="20261106105329 +0000" stop="20261106115329 +0000" channel="6454">
     <title lang="en">Lo Mejor de Liga</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106114427 +0000" stop="20261106124427 +0000" channel="6454">
+<programme start="20261106115329 +0000" stop="20261106125329 +0000" channel="6454">
     <title lang="en">Lo Mejor de Liga</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106124427 +0000" stop="20261106134427 +0000" channel="6454">
+<programme start="20261106125329 +0000" stop="20261106135329 +0000" channel="6454">
     <title lang="en">Lo Mejor de Liga</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106134427 +0000" stop="20261106144427 +0000" channel="6454">
+<programme start="20261106135329 +0000" stop="20261106145329 +0000" channel="6454">
     <title lang="en">Lo Mejor de Liga</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106144427 +0000" stop="20261106154427 +0000" channel="6454">
+<programme start="20261106145329 +0000" stop="20261106155329 +0000" channel="6454">
     <title lang="en">Lo Mejor de Liga</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106154427 +0000" stop="20261106164427 +0000" channel="6454">
+<programme start="20261106155329 +0000" stop="20261106165329 +0000" channel="6454">
     <title lang="en">Lo Mejor de Liga</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106164427 +0000" stop="20261106174427 +0000" channel="6454">
+<programme start="20261106165329 +0000" stop="20261106175329 +0000" channel="6454">
     <title lang="en">Lo Mejor de Liga</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106174427 +0000" stop="20261106184427 +0000" channel="6454">
+<programme start="20261106175329 +0000" stop="20261106185329 +0000" channel="6454">
     <title lang="en">Lo Mejor de Liga</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106184427 +0000" stop="20261106194427 +0000" channel="6454">
+<programme start="20261106185329 +0000" stop="20261106195329 +0000" channel="6454">
     <title lang="en">Lo Mejor de Liga</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106194427 +0000" stop="20261106204427 +0000" channel="6454">
+<programme start="20261106195329 +0000" stop="20261106205329 +0000" channel="6454">
     <title lang="en">Lo Mejor de Liga</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106204427 +0000" stop="20261106214427 +0000" channel="6454">
+<programme start="20261106205329 +0000" stop="20261106215329 +0000" channel="6454">
     <title lang="en">Lo Mejor de Liga</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106214427 +0000" stop="20261106224427 +0000" channel="6454">
+<programme start="20261106215329 +0000" stop="20261106225329 +0000" channel="6454">
     <title lang="en">Lo Mejor de Liga</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261104214427 +0000" stop="20261104224427 +0000" channel="6459">
+<programme start="20261104215329 +0000" stop="20261104225329 +0000" channel="6459">
     <title lang="en">Grandes Parejas</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261104224427 +0000" stop="20261104234427 +0000" channel="6459">
+<programme start="20261104225329 +0000" stop="20261104235329 +0000" channel="6459">
     <title lang="en">Grandes Parejas</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261104234427 +0000" stop="20261105004427 +0000" channel="6459">
+<programme start="20261104235329 +0000" stop="20261105005329 +0000" channel="6459">
     <title lang="en">Grandes Parejas</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105004427 +0000" stop="20261105014427 +0000" channel="6459">
+<programme start="20261105005329 +0000" stop="20261105015329 +0000" channel="6459">
     <title lang="en">Grandes Parejas</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105014427 +0000" stop="20261105024427 +0000" channel="6459">
+<programme start="20261105015329 +0000" stop="20261105025329 +0000" channel="6459">
     <title lang="en">Grandes Parejas</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105024427 +0000" stop="20261105034427 +0000" channel="6459">
+<programme start="20261105025329 +0000" stop="20261105035329 +0000" channel="6459">
     <title lang="en">Grandes Parejas</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105034427 +0000" stop="20261105044427 +0000" channel="6459">
+<programme start="20261105035329 +0000" stop="20261105045329 +0000" channel="6459">
     <title lang="en">Grandes Parejas</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105044427 +0000" stop="20261105054427 +0000" channel="6459">
+<programme start="20261105045329 +0000" stop="20261105055329 +0000" channel="6459">
     <title lang="en">Grandes Parejas</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105054427 +0000" stop="20261105064427 +0000" channel="6459">
+<programme start="20261105055329 +0000" stop="20261105065329 +0000" channel="6459">
     <title lang="en">Grandes Parejas</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105064427 +0000" stop="20261105074427 +0000" channel="6459">
+<programme start="20261105065329 +0000" stop="20261105075329 +0000" channel="6459">
     <title lang="en">Grandes Parejas</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105074427 +0000" stop="20261105084427 +0000" channel="6459">
+<programme start="20261105075329 +0000" stop="20261105085329 +0000" channel="6459">
     <title lang="en">Grandes Parejas</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105084427 +0000" stop="20261105094427 +0000" channel="6459">
+<programme start="20261105085329 +0000" stop="20261105095329 +0000" channel="6459">
     <title lang="en">Grandes Parejas</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105094427 +0000" stop="20261105104427 +0000" channel="6459">
+<programme start="20261105095329 +0000" stop="20261105105329 +0000" channel="6459">
     <title lang="en">Grandes Parejas</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105104427 +0000" stop="20261105114427 +0000" channel="6459">
+<programme start="20261105105329 +0000" stop="20261105115329 +0000" channel="6459">
     <title lang="en">Grandes Parejas</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105114427 +0000" stop="20261105124427 +0000" channel="6459">
+<programme start="20261105115329 +0000" stop="20261105125329 +0000" channel="6459">
     <title lang="en">Grandes Parejas</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105124427 +0000" stop="20261105134427 +0000" channel="6459">
+<programme start="20261105125329 +0000" stop="20261105135329 +0000" channel="6459">
     <title lang="en">Grandes Parejas</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105134427 +0000" stop="20261105144427 +0000" channel="6459">
+<programme start="20261105135329 +0000" stop="20261105145329 +0000" channel="6459">
     <title lang="en">Grandes Parejas</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105144427 +0000" stop="20261105154427 +0000" channel="6459">
+<programme start="20261105145329 +0000" stop="20261105155329 +0000" channel="6459">
     <title lang="en">Grandes Parejas</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105154427 +0000" stop="20261105164427 +0000" channel="6459">
+<programme start="20261105155329 +0000" stop="20261105165329 +0000" channel="6459">
     <title lang="en">Grandes Parejas</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105164427 +0000" stop="20261105174427 +0000" channel="6459">
+<programme start="20261105165329 +0000" stop="20261105175329 +0000" channel="6459">
     <title lang="en">Grandes Parejas</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105174427 +0000" stop="20261105184427 +0000" channel="6459">
+<programme start="20261105175329 +0000" stop="20261105185329 +0000" channel="6459">
     <title lang="en">Grandes Parejas</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105184427 +0000" stop="20261105194427 +0000" channel="6459">
+<programme start="20261105185329 +0000" stop="20261105195329 +0000" channel="6459">
     <title lang="en">Grandes Parejas</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105194427 +0000" stop="20261105204427 +0000" channel="6459">
+<programme start="20261105195329 +0000" stop="20261105205329 +0000" channel="6459">
     <title lang="en">Grandes Parejas</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105204427 +0000" stop="20261105214427 +0000" channel="6459">
+<programme start="20261105205329 +0000" stop="20261105215329 +0000" channel="6459">
     <title lang="en">Grandes Parejas</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105214427 +0000" stop="20261105224427 +0000" channel="6459">
+<programme start="20261105215329 +0000" stop="20261105225329 +0000" channel="6459">
     <title lang="en">Grandes Parejas</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105224427 +0000" stop="20261105234427 +0000" channel="6459">
+<programme start="20261105225329 +0000" stop="20261105235329 +0000" channel="6459">
     <title lang="en">Grandes Parejas</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105234427 +0000" stop="20261106004427 +0000" channel="6459">
+<programme start="20261105235329 +0000" stop="20261106005329 +0000" channel="6459">
     <title lang="en">Grandes Parejas</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106004427 +0000" stop="20261106014427 +0000" channel="6459">
+<programme start="20261106005329 +0000" stop="20261106015329 +0000" channel="6459">
     <title lang="en">Grandes Parejas</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106014427 +0000" stop="20261106024427 +0000" channel="6459">
+<programme start="20261106015329 +0000" stop="20261106025329 +0000" channel="6459">
     <title lang="en">Grandes Parejas</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106024427 +0000" stop="20261106034427 +0000" channel="6459">
+<programme start="20261106025329 +0000" stop="20261106035329 +0000" channel="6459">
     <title lang="en">Grandes Parejas</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106034427 +0000" stop="20261106044427 +0000" channel="6459">
+<programme start="20261106035329 +0000" stop="20261106045329 +0000" channel="6459">
     <title lang="en">Grandes Parejas</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106044427 +0000" stop="20261106054427 +0000" channel="6459">
+<programme start="20261106045329 +0000" stop="20261106055329 +0000" channel="6459">
     <title lang="en">Grandes Parejas</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106054427 +0000" stop="20261106064427 +0000" channel="6459">
+<programme start="20261106055329 +0000" stop="20261106065329 +0000" channel="6459">
     <title lang="en">Grandes Parejas</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106064427 +0000" stop="20261106074427 +0000" channel="6459">
+<programme start="20261106065329 +0000" stop="20261106075329 +0000" channel="6459">
     <title lang="en">Grandes Parejas</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106074427 +0000" stop="20261106084427 +0000" channel="6459">
+<programme start="20261106075329 +0000" stop="20261106085329 +0000" channel="6459">
     <title lang="en">Grandes Parejas</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106084427 +0000" stop="20261106094427 +0000" channel="6459">
+<programme start="20261106085329 +0000" stop="20261106095329 +0000" channel="6459">
     <title lang="en">Grandes Parejas</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106094427 +0000" stop="20261106104427 +0000" channel="6459">
+<programme start="20261106095329 +0000" stop="20261106105329 +0000" channel="6459">
     <title lang="en">Grandes Parejas</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106104427 +0000" stop="20261106114427 +0000" channel="6459">
+<programme start="20261106105329 +0000" stop="20261106115329 +0000" channel="6459">
     <title lang="en">Grandes Parejas</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106114427 +0000" stop="20261106124427 +0000" channel="6459">
+<programme start="20261106115329 +0000" stop="20261106125329 +0000" channel="6459">
     <title lang="en">Grandes Parejas</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106124427 +0000" stop="20261106134427 +0000" channel="6459">
+<programme start="20261106125329 +0000" stop="20261106135329 +0000" channel="6459">
     <title lang="en">Grandes Parejas</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106134427 +0000" stop="20261106144427 +0000" channel="6459">
+<programme start="20261106135329 +0000" stop="20261106145329 +0000" channel="6459">
     <title lang="en">Grandes Parejas</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106144427 +0000" stop="20261106154427 +0000" channel="6459">
+<programme start="20261106145329 +0000" stop="20261106155329 +0000" channel="6459">
     <title lang="en">Grandes Parejas</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106154427 +0000" stop="20261106164427 +0000" channel="6459">
+<programme start="20261106155329 +0000" stop="20261106165329 +0000" channel="6459">
     <title lang="en">Grandes Parejas</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106164427 +0000" stop="20261106174427 +0000" channel="6459">
+<programme start="20261106165329 +0000" stop="20261106175329 +0000" channel="6459">
     <title lang="en">Grandes Parejas</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106174427 +0000" stop="20261106184427 +0000" channel="6459">
+<programme start="20261106175329 +0000" stop="20261106185329 +0000" channel="6459">
     <title lang="en">Grandes Parejas</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106184427 +0000" stop="20261106194427 +0000" channel="6459">
+<programme start="20261106185329 +0000" stop="20261106195329 +0000" channel="6459">
     <title lang="en">Grandes Parejas</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106194427 +0000" stop="20261106204427 +0000" channel="6459">
+<programme start="20261106195329 +0000" stop="20261106205329 +0000" channel="6459">
     <title lang="en">Grandes Parejas</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106204427 +0000" stop="20261106214427 +0000" channel="6459">
+<programme start="20261106205329 +0000" stop="20261106215329 +0000" channel="6459">
     <title lang="en">Grandes Parejas</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106214427 +0000" stop="20261106224427 +0000" channel="6459">
+<programme start="20261106215329 +0000" stop="20261106225329 +0000" channel="6459">
     <title lang="en">Grandes Parejas</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
@@ -29237,11 +28945,6 @@ There's nothing like a party to stir up decades worth of sibling rivalries, bitt
     <title lang="en">Aquí y Ahora - El gran golpe</title>
     <desc lang="en">Una banda de asaltantes con armas de juguete se llevó casi veinte millones de dólares de las cajillas de seguridad de un banco, lo sorpendente es que no hubo heridos ni disparos.</desc>
     <icon src="https://img.vidaahub.com/s3_bucket/60110/live/60110_65_3943113_1794001500000/f3fafdafaff717ad09e7da2b7a3015d5?f=webp&amp;resize=w_480,h_270"/>
-  </programme>
-<programme start="20261104205016 +0000" stop="20261104214706 +0000" channel="6462">
-    <title lang="en">Rebelde Capítulo 171</title>
-    <desc lang="en">Mía encuentra a Miguel en su closet. Miguel visita un asilo para preguntar por Gastón y descubre que se llama Juan. Diego le dice a Roberta que le molesta verla con Facundo y la besa. Angelita cita a Miguel para contarle sobre su sobrino.</desc>
-    <icon src="https://img.vidaahub.com/s3_bucket/60110/live/60110_310_4322141_1793825416000/d1a32e0409e852af928be3643679a9fa?f=webp&amp;resize=w_480,h_270"/>
   </programme>
 <programme start="20261104214706 +0000" stop="20261104224356 +0000" channel="6462">
     <title lang="en">Rebelde Capítulo 172</title>
@@ -32393,6 +32096,11 @@ There's nothing like a party to stir up decades worth of sibling rivalries, bitt
     <desc lang="en">When Stacey Castor is suspected of murdering her husband, David Castor, with anti-freeze, she will stop at nothing to cover her tracks, even if it means poisoning and framing her own daughter for the murder.</desc>
     <icon src="https://img.vidaahub.com/s3_bucket/60010/live/60010_2556795110/2dd202db0eff09245c55337c42f3e040?f=webp&amp;resize=w_480,h_270"/>
   </programme>
+<programme start="20261106215315 +0000" stop="20261106222002 +0000" channel="9214">
+    <title lang="en">Crime Files</title>
+    <desc lang="en">Menendez Bros: The product of wealth and privilege, Lyle and Erik Menendez murder their father and mother in their Beverly Hills home to cash in on their inheritance. The crime draws a media firestorm as the case that plays out like a real life Hollywood soap opera.</desc>
+    <icon src="https://img.vidaahub.com/s3_bucket/60010/live/60010_2556795111/fdf3262e93cf935c67067665c31d01ae?f=webp&amp;resize=w_480,h_270"/>
+  </programme>
 <programme start="20261104211947 +0000" stop="20261104222452 +0000" channel="9221">
     <title lang="en">Ancient Megacities</title>
     <desc lang="en">Explore the transformation of a humble village into a formidable ancient city atop Turkey's Hissarlik hill. Despite being rebuilt nine times after fires and earthquakes, Troy remains a masterpiece of defensive architecture. Archaeologists continue to uncover its secrets, inspired by the epic tale of the Iliad. Yet, the mystery persists: how did the Mycenaeans penetrate Troy's impregnable defenses?</desc>
@@ -33303,395 +33011,400 @@ There's nothing like a party to stir up decades worth of sibling rivalries, bitt
     <desc lang="en">Butternut squash and cannellini beans; a quick and easy dessert of strawberries and balsamic; roasted spaghetti squash with spicy tomato sauce.</desc>
     <icon src="https://img.vidaahub.com/s3_bucket/60010/live/60010_2557159984/cf2fbb90116086d1ccb426be719ca265?f=webp&amp;resize=w_480,h_270"/>
   </programme>
-<programme start="20261104214427 +0000" stop="20261104224427 +0000" channel="9763">
+<programme start="20261106215531 +0000" stop="20261106222552 +0000" channel="9669">
+    <title lang="en">Lidia's Kitchen</title>
+    <desc lang="en">Spices impart a lot of flavor to a recipe, and today Lidia shows viewers how to use different spices. First on the menu is Mussels with Fennel and Saffron, an elegant and luxurious way to serve mussels. Lidia loves peperoncino in almost any dish, especially when making Spicy Stuffed Clams. And finally, Lidia makes Chicken and Zucchini Salad with Horseradish Dressing.</desc>
+    <icon src="https://img.vidaahub.com/s3_bucket/60010/live/60010_2557159985/6ddabbf2373d1feb3f8057ebed1085fa?f=webp&amp;resize=w_480,h_270"/>
+  </programme>
+<programme start="20261104215329 +0000" stop="20261104225329 +0000" channel="9763">
     <title lang="en">ONTV4U</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261104224427 +0000" stop="20261104234427 +0000" channel="9763">
+<programme start="20261104225329 +0000" stop="20261104235329 +0000" channel="9763">
     <title lang="en">ONTV4U</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261104234427 +0000" stop="20261105004427 +0000" channel="9763">
+<programme start="20261104235329 +0000" stop="20261105005329 +0000" channel="9763">
     <title lang="en">ONTV4U</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105004427 +0000" stop="20261105014427 +0000" channel="9763">
+<programme start="20261105005329 +0000" stop="20261105015329 +0000" channel="9763">
     <title lang="en">ONTV4U</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105014427 +0000" stop="20261105024427 +0000" channel="9763">
+<programme start="20261105015329 +0000" stop="20261105025329 +0000" channel="9763">
     <title lang="en">ONTV4U</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105024427 +0000" stop="20261105034427 +0000" channel="9763">
+<programme start="20261105025329 +0000" stop="20261105035329 +0000" channel="9763">
     <title lang="en">ONTV4U</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105034427 +0000" stop="20261105044427 +0000" channel="9763">
+<programme start="20261105035329 +0000" stop="20261105045329 +0000" channel="9763">
     <title lang="en">ONTV4U</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105044427 +0000" stop="20261105054427 +0000" channel="9763">
+<programme start="20261105045329 +0000" stop="20261105055329 +0000" channel="9763">
     <title lang="en">ONTV4U</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105054427 +0000" stop="20261105064427 +0000" channel="9763">
+<programme start="20261105055329 +0000" stop="20261105065329 +0000" channel="9763">
     <title lang="en">ONTV4U</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105064427 +0000" stop="20261105074427 +0000" channel="9763">
+<programme start="20261105065329 +0000" stop="20261105075329 +0000" channel="9763">
     <title lang="en">ONTV4U</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105074427 +0000" stop="20261105084427 +0000" channel="9763">
+<programme start="20261105075329 +0000" stop="20261105085329 +0000" channel="9763">
     <title lang="en">ONTV4U</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105084427 +0000" stop="20261105094427 +0000" channel="9763">
+<programme start="20261105085329 +0000" stop="20261105095329 +0000" channel="9763">
     <title lang="en">ONTV4U</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105094427 +0000" stop="20261105104427 +0000" channel="9763">
+<programme start="20261105095329 +0000" stop="20261105105329 +0000" channel="9763">
     <title lang="en">ONTV4U</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105104427 +0000" stop="20261105114427 +0000" channel="9763">
+<programme start="20261105105329 +0000" stop="20261105115329 +0000" channel="9763">
     <title lang="en">ONTV4U</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105114427 +0000" stop="20261105124427 +0000" channel="9763">
+<programme start="20261105115329 +0000" stop="20261105125329 +0000" channel="9763">
     <title lang="en">ONTV4U</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105124427 +0000" stop="20261105134427 +0000" channel="9763">
+<programme start="20261105125329 +0000" stop="20261105135329 +0000" channel="9763">
     <title lang="en">ONTV4U</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105134427 +0000" stop="20261105144427 +0000" channel="9763">
+<programme start="20261105135329 +0000" stop="20261105145329 +0000" channel="9763">
     <title lang="en">ONTV4U</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105144427 +0000" stop="20261105154427 +0000" channel="9763">
+<programme start="20261105145329 +0000" stop="20261105155329 +0000" channel="9763">
     <title lang="en">ONTV4U</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105154427 +0000" stop="20261105164427 +0000" channel="9763">
+<programme start="20261105155329 +0000" stop="20261105165329 +0000" channel="9763">
     <title lang="en">ONTV4U</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105164427 +0000" stop="20261105174427 +0000" channel="9763">
+<programme start="20261105165329 +0000" stop="20261105175329 +0000" channel="9763">
     <title lang="en">ONTV4U</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105174427 +0000" stop="20261105184427 +0000" channel="9763">
+<programme start="20261105175329 +0000" stop="20261105185329 +0000" channel="9763">
     <title lang="en">ONTV4U</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105184427 +0000" stop="20261105194427 +0000" channel="9763">
+<programme start="20261105185329 +0000" stop="20261105195329 +0000" channel="9763">
     <title lang="en">ONTV4U</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105194427 +0000" stop="20261105204427 +0000" channel="9763">
+<programme start="20261105195329 +0000" stop="20261105205329 +0000" channel="9763">
     <title lang="en">ONTV4U</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105204427 +0000" stop="20261105214427 +0000" channel="9763">
+<programme start="20261105205329 +0000" stop="20261105215329 +0000" channel="9763">
     <title lang="en">ONTV4U</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105214427 +0000" stop="20261105224427 +0000" channel="9763">
+<programme start="20261105215329 +0000" stop="20261105225329 +0000" channel="9763">
     <title lang="en">ONTV4U</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105224427 +0000" stop="20261105234427 +0000" channel="9763">
+<programme start="20261105225329 +0000" stop="20261105235329 +0000" channel="9763">
     <title lang="en">ONTV4U</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105234427 +0000" stop="20261106004427 +0000" channel="9763">
+<programme start="20261105235329 +0000" stop="20261106005329 +0000" channel="9763">
     <title lang="en">ONTV4U</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106004427 +0000" stop="20261106014427 +0000" channel="9763">
+<programme start="20261106005329 +0000" stop="20261106015329 +0000" channel="9763">
     <title lang="en">ONTV4U</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106014427 +0000" stop="20261106024427 +0000" channel="9763">
+<programme start="20261106015329 +0000" stop="20261106025329 +0000" channel="9763">
     <title lang="en">ONTV4U</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106024427 +0000" stop="20261106034427 +0000" channel="9763">
+<programme start="20261106025329 +0000" stop="20261106035329 +0000" channel="9763">
     <title lang="en">ONTV4U</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106034427 +0000" stop="20261106044427 +0000" channel="9763">
+<programme start="20261106035329 +0000" stop="20261106045329 +0000" channel="9763">
     <title lang="en">ONTV4U</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106044427 +0000" stop="20261106054427 +0000" channel="9763">
+<programme start="20261106045329 +0000" stop="20261106055329 +0000" channel="9763">
     <title lang="en">ONTV4U</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106054427 +0000" stop="20261106064427 +0000" channel="9763">
+<programme start="20261106055329 +0000" stop="20261106065329 +0000" channel="9763">
     <title lang="en">ONTV4U</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106064427 +0000" stop="20261106074427 +0000" channel="9763">
+<programme start="20261106065329 +0000" stop="20261106075329 +0000" channel="9763">
     <title lang="en">ONTV4U</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106074427 +0000" stop="20261106084427 +0000" channel="9763">
+<programme start="20261106075329 +0000" stop="20261106085329 +0000" channel="9763">
     <title lang="en">ONTV4U</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106084427 +0000" stop="20261106094427 +0000" channel="9763">
+<programme start="20261106085329 +0000" stop="20261106095329 +0000" channel="9763">
     <title lang="en">ONTV4U</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106094427 +0000" stop="20261106104427 +0000" channel="9763">
+<programme start="20261106095329 +0000" stop="20261106105329 +0000" channel="9763">
     <title lang="en">ONTV4U</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106104427 +0000" stop="20261106114427 +0000" channel="9763">
+<programme start="20261106105329 +0000" stop="20261106115329 +0000" channel="9763">
     <title lang="en">ONTV4U</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106114427 +0000" stop="20261106124427 +0000" channel="9763">
+<programme start="20261106115329 +0000" stop="20261106125329 +0000" channel="9763">
     <title lang="en">ONTV4U</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106124427 +0000" stop="20261106134427 +0000" channel="9763">
+<programme start="20261106125329 +0000" stop="20261106135329 +0000" channel="9763">
     <title lang="en">ONTV4U</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106134427 +0000" stop="20261106144427 +0000" channel="9763">
+<programme start="20261106135329 +0000" stop="20261106145329 +0000" channel="9763">
     <title lang="en">ONTV4U</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106144427 +0000" stop="20261106154427 +0000" channel="9763">
+<programme start="20261106145329 +0000" stop="20261106155329 +0000" channel="9763">
     <title lang="en">ONTV4U</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106154427 +0000" stop="20261106164427 +0000" channel="9763">
+<programme start="20261106155329 +0000" stop="20261106165329 +0000" channel="9763">
     <title lang="en">ONTV4U</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106164427 +0000" stop="20261106174427 +0000" channel="9763">
+<programme start="20261106165329 +0000" stop="20261106175329 +0000" channel="9763">
     <title lang="en">ONTV4U</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106174427 +0000" stop="20261106184427 +0000" channel="9763">
+<programme start="20261106175329 +0000" stop="20261106185329 +0000" channel="9763">
     <title lang="en">ONTV4U</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106184427 +0000" stop="20261106194427 +0000" channel="9763">
+<programme start="20261106185329 +0000" stop="20261106195329 +0000" channel="9763">
     <title lang="en">ONTV4U</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106194427 +0000" stop="20261106204427 +0000" channel="9763">
+<programme start="20261106195329 +0000" stop="20261106205329 +0000" channel="9763">
     <title lang="en">ONTV4U</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106204427 +0000" stop="20261106214427 +0000" channel="9763">
+<programme start="20261106205329 +0000" stop="20261106215329 +0000" channel="9763">
     <title lang="en">ONTV4U</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106214427 +0000" stop="20261106224427 +0000" channel="9763">
+<programme start="20261106215329 +0000" stop="20261106225329 +0000" channel="9763">
     <title lang="en">ONTV4U</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261104214427 +0000" stop="20261104224427 +0000" channel="9768">
+<programme start="20261104215329 +0000" stop="20261104225329 +0000" channel="9768">
     <title lang="en">W3</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261104224427 +0000" stop="20261104234427 +0000" channel="9768">
+<programme start="20261104225329 +0000" stop="20261104235329 +0000" channel="9768">
     <title lang="en">W3</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261104234427 +0000" stop="20261105004427 +0000" channel="9768">
+<programme start="20261104235329 +0000" stop="20261105005329 +0000" channel="9768">
     <title lang="en">W3</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105004427 +0000" stop="20261105014427 +0000" channel="9768">
+<programme start="20261105005329 +0000" stop="20261105015329 +0000" channel="9768">
     <title lang="en">W3</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105014427 +0000" stop="20261105024427 +0000" channel="9768">
+<programme start="20261105015329 +0000" stop="20261105025329 +0000" channel="9768">
     <title lang="en">W3</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105024427 +0000" stop="20261105034427 +0000" channel="9768">
+<programme start="20261105025329 +0000" stop="20261105035329 +0000" channel="9768">
     <title lang="en">W3</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105034427 +0000" stop="20261105044427 +0000" channel="9768">
+<programme start="20261105035329 +0000" stop="20261105045329 +0000" channel="9768">
     <title lang="en">W3</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105044427 +0000" stop="20261105054427 +0000" channel="9768">
+<programme start="20261105045329 +0000" stop="20261105055329 +0000" channel="9768">
     <title lang="en">W3</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105054427 +0000" stop="20261105064427 +0000" channel="9768">
+<programme start="20261105055329 +0000" stop="20261105065329 +0000" channel="9768">
     <title lang="en">W3</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105064427 +0000" stop="20261105074427 +0000" channel="9768">
+<programme start="20261105065329 +0000" stop="20261105075329 +0000" channel="9768">
     <title lang="en">W3</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105074427 +0000" stop="20261105084427 +0000" channel="9768">
+<programme start="20261105075329 +0000" stop="20261105085329 +0000" channel="9768">
     <title lang="en">W3</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105084427 +0000" stop="20261105094427 +0000" channel="9768">
+<programme start="20261105085329 +0000" stop="20261105095329 +0000" channel="9768">
     <title lang="en">W3</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105094427 +0000" stop="20261105104427 +0000" channel="9768">
+<programme start="20261105095329 +0000" stop="20261105105329 +0000" channel="9768">
     <title lang="en">W3</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105104427 +0000" stop="20261105114427 +0000" channel="9768">
+<programme start="20261105105329 +0000" stop="20261105115329 +0000" channel="9768">
     <title lang="en">W3</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105114427 +0000" stop="20261105124427 +0000" channel="9768">
+<programme start="20261105115329 +0000" stop="20261105125329 +0000" channel="9768">
     <title lang="en">W3</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105124427 +0000" stop="20261105134427 +0000" channel="9768">
+<programme start="20261105125329 +0000" stop="20261105135329 +0000" channel="9768">
     <title lang="en">W3</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105134427 +0000" stop="20261105144427 +0000" channel="9768">
+<programme start="20261105135329 +0000" stop="20261105145329 +0000" channel="9768">
     <title lang="en">W3</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105144427 +0000" stop="20261105154427 +0000" channel="9768">
+<programme start="20261105145329 +0000" stop="20261105155329 +0000" channel="9768">
     <title lang="en">W3</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105154427 +0000" stop="20261105164427 +0000" channel="9768">
+<programme start="20261105155329 +0000" stop="20261105165329 +0000" channel="9768">
     <title lang="en">W3</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105164427 +0000" stop="20261105174427 +0000" channel="9768">
+<programme start="20261105165329 +0000" stop="20261105175329 +0000" channel="9768">
     <title lang="en">W3</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105174427 +0000" stop="20261105184427 +0000" channel="9768">
+<programme start="20261105175329 +0000" stop="20261105185329 +0000" channel="9768">
     <title lang="en">W3</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105184427 +0000" stop="20261105194427 +0000" channel="9768">
+<programme start="20261105185329 +0000" stop="20261105195329 +0000" channel="9768">
     <title lang="en">W3</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105194427 +0000" stop="20261105204427 +0000" channel="9768">
+<programme start="20261105195329 +0000" stop="20261105205329 +0000" channel="9768">
     <title lang="en">W3</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105204427 +0000" stop="20261105214427 +0000" channel="9768">
+<programme start="20261105205329 +0000" stop="20261105215329 +0000" channel="9768">
     <title lang="en">W3</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105214427 +0000" stop="20261105224427 +0000" channel="9768">
+<programme start="20261105215329 +0000" stop="20261105225329 +0000" channel="9768">
     <title lang="en">W3</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105224427 +0000" stop="20261105234427 +0000" channel="9768">
+<programme start="20261105225329 +0000" stop="20261105235329 +0000" channel="9768">
     <title lang="en">W3</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261105234427 +0000" stop="20261106004427 +0000" channel="9768">
+<programme start="20261105235329 +0000" stop="20261106005329 +0000" channel="9768">
     <title lang="en">W3</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106004427 +0000" stop="20261106014427 +0000" channel="9768">
+<programme start="20261106005329 +0000" stop="20261106015329 +0000" channel="9768">
     <title lang="en">W3</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106014427 +0000" stop="20261106024427 +0000" channel="9768">
+<programme start="20261106015329 +0000" stop="20261106025329 +0000" channel="9768">
     <title lang="en">W3</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106024427 +0000" stop="20261106034427 +0000" channel="9768">
+<programme start="20261106025329 +0000" stop="20261106035329 +0000" channel="9768">
     <title lang="en">W3</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106034427 +0000" stop="20261106044427 +0000" channel="9768">
+<programme start="20261106035329 +0000" stop="20261106045329 +0000" channel="9768">
     <title lang="en">W3</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106044427 +0000" stop="20261106054427 +0000" channel="9768">
+<programme start="20261106045329 +0000" stop="20261106055329 +0000" channel="9768">
     <title lang="en">W3</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106054427 +0000" stop="20261106064427 +0000" channel="9768">
+<programme start="20261106055329 +0000" stop="20261106065329 +0000" channel="9768">
     <title lang="en">W3</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106064427 +0000" stop="20261106074427 +0000" channel="9768">
+<programme start="20261106065329 +0000" stop="20261106075329 +0000" channel="9768">
     <title lang="en">W3</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106074427 +0000" stop="20261106084427 +0000" channel="9768">
+<programme start="20261106075329 +0000" stop="20261106085329 +0000" channel="9768">
     <title lang="en">W3</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106084427 +0000" stop="20261106094427 +0000" channel="9768">
+<programme start="20261106085329 +0000" stop="20261106095329 +0000" channel="9768">
     <title lang="en">W3</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106094427 +0000" stop="20261106104427 +0000" channel="9768">
+<programme start="20261106095329 +0000" stop="20261106105329 +0000" channel="9768">
     <title lang="en">W3</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106104427 +0000" stop="20261106114427 +0000" channel="9768">
+<programme start="20261106105329 +0000" stop="20261106115329 +0000" channel="9768">
     <title lang="en">W3</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106114427 +0000" stop="20261106124427 +0000" channel="9768">
+<programme start="20261106115329 +0000" stop="20261106125329 +0000" channel="9768">
     <title lang="en">W3</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106124427 +0000" stop="20261106134427 +0000" channel="9768">
+<programme start="20261106125329 +0000" stop="20261106135329 +0000" channel="9768">
     <title lang="en">W3</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106134427 +0000" stop="20261106144427 +0000" channel="9768">
+<programme start="20261106135329 +0000" stop="20261106145329 +0000" channel="9768">
     <title lang="en">W3</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106144427 +0000" stop="20261106154427 +0000" channel="9768">
+<programme start="20261106145329 +0000" stop="20261106155329 +0000" channel="9768">
     <title lang="en">W3</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106154427 +0000" stop="20261106164427 +0000" channel="9768">
+<programme start="20261106155329 +0000" stop="20261106165329 +0000" channel="9768">
     <title lang="en">W3</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106164427 +0000" stop="20261106174427 +0000" channel="9768">
+<programme start="20261106165329 +0000" stop="20261106175329 +0000" channel="9768">
     <title lang="en">W3</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106174427 +0000" stop="20261106184427 +0000" channel="9768">
+<programme start="20261106175329 +0000" stop="20261106185329 +0000" channel="9768">
     <title lang="en">W3</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106184427 +0000" stop="20261106194427 +0000" channel="9768">
+<programme start="20261106185329 +0000" stop="20261106195329 +0000" channel="9768">
     <title lang="en">W3</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106194427 +0000" stop="20261106204427 +0000" channel="9768">
+<programme start="20261106195329 +0000" stop="20261106205329 +0000" channel="9768">
     <title lang="en">W3</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106204427 +0000" stop="20261106214427 +0000" channel="9768">
+<programme start="20261106205329 +0000" stop="20261106215329 +0000" channel="9768">
     <title lang="en">W3</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
-<programme start="20261106214427 +0000" stop="20261106224427 +0000" channel="9768">
+<programme start="20261106215329 +0000" stop="20261106225329 +0000" channel="9768">
     <title lang="en">W3</title>
     <desc lang="en">Live schedule not published for this channel by the source.</desc>
   </programme>
@@ -33929,11 +33642,6 @@ There's nothing like a party to stir up decades worth of sibling rivalries, bitt
     <title lang="en">Kirtan Sohela</title>
     <desc lang="en">Night time prayer in Sikhism/  It is a part of worship in a Gurdwara daily rituals</desc>
     <icon src="https://img.vidaahub.com/s3_bucket/60151/live/60151_2b391cfe-204c-4ece-867e-1497c937afc5_KirtanSohela_1794001200000/58598ef7b2de632c0ca3737355260d7a?f=webp&amp;resize=w_480,h_270"/>
-  </programme>
-<programme start="20261104213305 +0000" stop="20261104215232 +0000" channel="9961">
-    <title lang="en">Quick cooking hacks for your kitchen to say "Wow"!</title>
-    <desc lang="en">Fun diy-projects, crafts, experience the joy of doing it yourself!</desc>
-    <icon src="https://img.vidaahub.com/s3_bucket/60076/live/60076_1961_314a805f-d7fe-11f1-b559-0a9c8934df2b/10b4964be65c9e7e0336f9a1e7d2a4d6?f=webp&amp;resize=w_480,h_270"/>
   </programme>
 <programme start="20261104215232 +0000" stop="20261104222253 +0000" channel="9961">
     <title lang="en">Simplify Your Day As A Parent With These Useful Hacks!</title>
@@ -34939,5 +34647,10 @@ There's nothing like a party to stir up decades worth of sibling rivalries, bitt
     <title lang="en">Ideas creativas para padres e hijos</title>
     <desc lang="en">Lustige DIY-Projekte, Bastelideen, erlebe die Freude am Selbermachen!</desc>
     <icon src="https://img.vidaahub.com/s3_bucket/60076/live/60076_1952_89327075-d7fa-11f1-b559-0a9c8934df2b/1d2dacab3bc507c68883d30c01d5d323?f=webp&amp;resize=w_480,h_270"/>
+  </programme>
+<programme start="20261106215324 +0000" stop="20261106221722 +0000" channel="9962">
+    <title lang="en">¡Hora de ordenar! Trucos</title>
+    <desc lang="en">Lustige DIY-Projekte, Bastelideen, erlebe die Freude am Selbermachen!</desc>
+    <icon src="https://img.vidaahub.com/s3_bucket/60076/live/60076_1952_8932766c-d7fa-11f1-b559-0a9c8934df2b/15d5ca0a696249e7eafafaf1d18ecc35?f=webp&amp;resize=w_480,h_270"/>
   </programme>
 </tv>
