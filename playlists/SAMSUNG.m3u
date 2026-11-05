@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="US4300005KC" tvg-name="The Hunger Games" group-title="Movies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4300005KC_20261102T190607SQUARE.png" tvg-chno="1231",The Hunger Games [DRM]
 #KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?drm-type=widevine||R{SSM}|
 https://jmp2.uk/stvp-US4300005KC
@@ -8,11 +9,13 @@ https://jmp2.uk/stvp-US4300005KC
 https://jmp2.uk/stvp-USBA300017PK
 #EXTINF:-1 tvg-id="US300068X7" tvg-name="Samsung Television Network" group-title="Action & Drama" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300068X7_20261103T171625SQUARE.png" tvg-chno="1005",Samsung Television Network [DRM]
 #KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?drm-type=widevine||R{SSM}|
 https://jmp2.uk/stvp-US300068X7
 #EXTINF:-1 tvg-id="USBB36000040M" tvg-name="Crime Zone" group-title="Crime" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB36000040M_20261001T230639SQUARE.png" tvg-chno="1805",Crime Zone [DRM]
 #KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?drm-type=widevine||R{SSM}|
 https://jmp2.uk/stvp-USBB36000040M
@@ -30,6 +33,7 @@ https://jmp2.uk/stvp-USAJ30000039U
 https://jmp2.uk/stvp-US4700029QM
 #EXTINF:-1 tvg-id="USBC1300012VK" tvg-name="Fear Zone" group-title="Sci-Fi & Horror" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1300012VK_20260707T035838SQUARE.png" tvg-chno="3005",Fear Zone [DRM]
 #KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?drm-type=widevine||R{SSM}|
 https://jmp2.uk/stvp-USBC1300012VK
@@ -51,11 +55,13 @@ https://jmp2.uk/stvp-CA1400005SO
 https://jmp2.uk/stvp-CA35000044I
 #EXTINF:-1 tvg-id="GBBC2300003ZQ" tvg-name="Entertainment Hub" group-title="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300003ZQ_20260609T043650SQUARE.png" tvg-chno="4001",Entertainment Hub [DRM]
 #KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://d180olzqm6iw12.cloudfront.net/drm/v3/license?service_id=GBBC2300003ZQ&drm-type=widevine||R{SSM}|
 https://jmp2.uk/stvp-GBBC2300003ZQ
 #EXTINF:-1 tvg-id="GB60000197" tvg-name="Sky Arts" group-title="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB60000197_20260421T123840SQUARE.png" tvg-chno="4039",Sky Arts [DRM]
 #KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://d180olzqm6iw12.cloudfront.net/drm/v3/license?drm-type=widevine||R{SSM}|
 https://jmp2.uk/stvp-GB60000197
@@ -63,6 +69,7 @@ https://jmp2.uk/stvp-GB60000197
 https://jmp2.uk/stvp-GB2700016H5
 #EXTINF:-1 tvg-id="GBBD3100005RX" tvg-name="Challenge" group-title="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3100005RX_20260421T123846SQUARE.png" tvg-chno="4106",Challenge [DRM]
 #KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://d180olzqm6iw12.cloudfront.net/drm/v3/license?drm-type=widevine||R{SSM}|
 https://jmp2.uk/stvp-GBBD3100005RX
@@ -74,6 +81,7 @@ https://jmp2.uk/stvp-GB2800010MI
 https://jmp2.uk/stvp-GB1200013SK
 #EXTINF:-1 tvg-id="GB4200010V1" tvg-name="Who Wants to be a Millionaire" group-title="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4200010V1_20260421T123832SQUARE.png" tvg-chno="4126",Who Wants to be a Millionaire [DRM]
 #KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://d180olzqm6iw12.cloudfront.net/drm/v3/license?service_id=GB4200010V1&drm-type=widevine||R{SSM}|
 https://jmp2.uk/stvp-GB4200010V1
@@ -85,6 +93,7 @@ https://jmp2.uk/stvp-GB1800002FA
 https://jmp2.uk/stvp-GB1500006PK
 #EXTINF:-1 tvg-id="GB300005ZR" tvg-name="Sony One Comedy TV" group-title="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300005ZR_20260421T123818SQUARE.png" tvg-chno="4160",Sony One Comedy TV [DRM]
 #KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://d180olzqm6iw12.cloudfront.net/drm/v3/license?service_id=GB300005ZR&drm-type=widevine||R{SSM}|
 https://jmp2.uk/stvp-GB300005ZR
@@ -98,6 +107,7 @@ https://jmp2.uk/stvp-GB1500005UP
 https://jmp2.uk/stvp-GB120000761
 #EXTINF:-1 tvg-id="GBBD25000038Y" tvg-name="Comedy Hub" group-title="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD25000038Y_20260901T102435SQUARE.png" tvg-chno="4997",Comedy Hub [DRM]
 #KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://d180olzqm6iw12.cloudfront.net/drm/v3/license?service_id=GBBD25000038Y&drm-type=widevine||R{SSM}|
 https://jmp2.uk/stvp-GBBD25000038Y
@@ -105,16 +115,19 @@ https://jmp2.uk/stvp-GBBD25000038Y
 https://jmp2.uk/stvp-GBBC400000345
 #EXTINF:-1 tvg-id="GBBD3100006XM" tvg-name="Sky Mix" group-title="TV Series" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3100006XM_20260421T123849SQUARE.png" tvg-chno="4231",Sky Mix [DRM]
 #KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://d180olzqm6iw12.cloudfront.net/drm/v3/license?drm-type=widevine||R{SSM}|
 https://jmp2.uk/stvp-GBBD3100006XM
 #EXTINF:-1 tvg-id="GB300007J7" tvg-name="Sony One FAVES" group-title="TV Series" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300007J7_20261026T042431SQUARE.png" tvg-chno="4233",Sony One FAVES [DRM]
 #KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://d180olzqm6iw12.cloudfront.net/drm/v3/license?service_id=GB300007J7&drm-type=widevine||R{SSM}|
 https://jmp2.uk/stvp-GB300007J7
 #EXTINF:-1 tvg-id="GB3000061H" tvg-name="Sony One Thriller TV" group-title="TV Series" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3000061H_20260421T123821SQUARE.png" tvg-chno="4235",Sony One Thriller TV [DRM]
 #KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://d180olzqm6iw12.cloudfront.net/drm/v3/license?service_id=GB3000061H&drm-type=widevine||R{SSM}|
 https://jmp2.uk/stvp-GB3000061H
@@ -132,6 +145,7 @@ https://jmp2.uk/stvp-GB4000008O5
 https://jmp2.uk/stvp-GB2400012R9
 #EXTINF:-1 tvg-id="GBBD4100010H1" tvg-name="Crime Network" group-title="Crime" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD4100010H1_20261026T042404SQUARE.png" tvg-chno="4002",Crime Network [DRM]
 #KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://d180olzqm6iw12.cloudfront.net/drm/v3/license?service_id=GBBD4100010H1&drm-type=widevine||R{SSM}|
 https://jmp2.uk/stvp-GBBD4100010H1
@@ -163,6 +177,7 @@ https://jmp2.uk/stvp-GB2600014LQ
 https://jmp2.uk/stvp-GBAJ400042T1
 #EXTINF:-1 tvg-id="GB300003UI" tvg-name="Sony One Comedy HITS" group-title="Movies" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300003UI_20260929T041659SQUARE.png" tvg-chno="4905",Sony One Comedy HITS [DRM]
 #KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://d180olzqm6iw12.cloudfront.net/drm/v3/license?service_id=GB300003UI&drm-type=widevine||R{SSM}|
 https://jmp2.uk/stvp-GB300003UI
@@ -180,6 +195,7 @@ https://jmp2.uk/stvp-GB2600015OS
 https://jmp2.uk/stvp-GBAK3504503A
 #EXTINF:-1 tvg-id="GB3000041I" tvg-name="Sony One Action HITS" group-title="Movies" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3000041I_20261102T070552SQUARE.png" tvg-chno="4996",Sony One Action HITS [DRM]
 #KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://d180olzqm6iw12.cloudfront.net/drm/v3/license?service_id=GB3000041I&drm-type=widevine||R{SSM}|
 https://jmp2.uk/stvp-GB3000041I
