@@ -4,6 +4,7 @@
 # matching.
 CATEGORY_EXCLUDE_LIST = [
     "Music & Ambient",
+    "Science",
     "Western",
     "Outdoors",
     "Shopping",
