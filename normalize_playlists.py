@@ -336,7 +336,7 @@ _RAW_KEYWORD_RULES: list[tuple[tuple[str, ...], str]] = [
     (('sci-fi', 'scifi', 'sci fi', 'science fiction', 'supernatural', 'fantasy'), 'Sci-Fi'),
     (('horror', 'scary'), 'Horror'),
     (('comedy', 'komedi', 'humor', 'sitcom', 'stand-up'), 'Comedy'),
-    (('true crime', 'real crime', 'forensic', 'detective', 'cold case', 'investigat'), 'True Crime'),
+    (('true crime', 'real crime', 'forensic', 'detective', 'cold case', 'investigat', 'locked up abroad', 'to catch a smuggler', 'crime zone', 'love kills'), 'True Crime'),
     (('crime', 'mystery', 'thriller'), 'Crime'),
     (('news', 'business', 'finance', 'weather'), 'News'),
     (('movie', 'film', 'cinema'), 'Movies'),
