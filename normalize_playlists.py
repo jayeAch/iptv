@@ -41,6 +41,7 @@ CANONICAL_CATEGORIES: tuple[str, ...] = (
     'Entertainment',
     'Faith',
     'Food & Travel',
+    'Horror',
     'International',
     'Kids',
     'Latino',
@@ -51,7 +52,7 @@ CANONICAL_CATEGORIES: tuple[str, ...] = (
     'Nature',
     'News',
     'Reality TV',
-    'Sci-Fi & Horror',
+    'Sci-Fi',
     'Sports',
     'True Crime',
 )
