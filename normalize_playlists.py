@@ -61,6 +61,53 @@ CANONICAL_CATEGORIES: tuple[str, ...] = (
     'True Crime',
 )
 
+# ---------------------------------------------------------------------------
+# CHANNEL NAME PINS -- edit these lists to force a category by channel/show name.
+# Checked BEFORE the raw group lookup, so they override whatever group the
+# source playlist (or a previous run) put the channel in.
+# Matching is case/accent-insensitive on whole words/phrases in the channel name.
+# Order matters: first matching list wins. True Crime must stay above Crime.
+# ---------------------------------------------------------------------------
+_NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
+    ('True Crime', (
+        'true crime', 'forensic files', 'cold case files', 'dateline',
+        'the first 48', 'first 48', 'cops', 'court tv', 'law & crime',
+        'law and crime', 'investigation discovery', 'unsolved mysteries',
+        'snapped', 'american justice', 'cold justice', 'live pd',
+        'body cam', 'crime watch daily', 'murder files', 'crime stories',
+        'forensic', 'detective',
+    )),
+    ('Crime', (
+        'csi', 'law & order', 'law and order', 'ncis', 'criminal minds',
+        'monk', 'columbo', 'perry mason', 'murder, she wrote',
+        'murder she wrote', 'matlock', 'rockford files', 'cagney & lacey',
+        'hawaii five-0', 'hawaii five-o', 'in the heat of the night',
+        'diagnosis murder', 'midsomer murders', 'miss marple',
+        'hercule poirot', 'poirot', 'sherlock', 'whodunit', 'mystery',
+        'crime drama', 'crime',
+    )),
+]
+
+
+def _compile_pins() -> list[tuple[str, re.Pattern]]:
+    out = []
+    for label, words in _NAME_PINS:
+        alts = '|'.join(re.escape(w) for w in sorted(words, key=len, reverse=True))
+        out.append((label, re.compile(r'(?<![a-z0-9])(?:' + alts + r')(?![a-z0-9])')))
+    return out
+
+
+_NAME_PIN_RES = _compile_pins()
+
+
+def pinned_category(name: str) -> str | None:
+    text = _fold_accents(name or '').lower()
+    for label, rx in _NAME_PIN_RES:
+        if rx.search(text):
+            return label
+    return None
+
+
 # Values here may be pre-merge names; MERGE (below) folds them into final names.
 _CANONICAL_MAP: dict[str, str] = {
     # Action / adventure: no dedicated category, uncategorizable -> Entertainment
@@ -336,7 +383,7 @@ _RAW_KEYWORD_RULES: list[tuple[tuple[str, ...], str]] = [
     (('sci-fi', 'scifi', 'sci fi', 'science fiction', 'supernatural', 'fantasy'), 'Sci-Fi'),
     (('horror', 'scary'), 'Horror'),
     (('comedy', 'komedi', 'humor', 'sitcom', 'stand-up'), 'Comedy'),
-    (('true crime', 'real crime', 'forensic', 'detective', 'cold case', 'investigat', 'locked up abroad', 'to catch a smuggler', 'crime zone', 'love kills'), 'True Crime'),
+    (('true crime', 'real crime', 'forensic', 'detective', 'cold case', 'investigat'), 'True Crime'),
     (('crime', 'mystery', 'thriller'), 'Crime'),
     (('news', 'business', 'finance', 'weather'), 'News'),
     (('movie', 'film', 'cinema'), 'Movies'),
@@ -373,6 +420,11 @@ def category_for_channel(name: str, raw_category: str | None, source_name: str |
 
     if name_lower in _NAME_OVERRIDES:
         return _NAME_OVERRIDES[name_lower]
+
+    # Channel-name pins win over the raw group (and over groups set by earlier runs).
+    pinned = pinned_category(name_clean)
+    if pinned:
+        return pinned
 
     normalized = normalize_category(raw_category)
     if normalized:
