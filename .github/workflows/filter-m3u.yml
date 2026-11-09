@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     inputs:
       force_rebuild:
-        description: "Force full rebuild (delete output/ and playlists/ first)"
+        description: "Force full rebuild (delete + recommit playlists/)"
         type: boolean
         default: false
   push:
@@ -32,7 +32,7 @@ jobs:
   filter:
     runs-on: ubuntu-latest
     env:
-      FORCE_REBUILD: ${{ inputs.force_rebuild && '1' || '0' }}
+      FORCE_REBUILD: ${{ github.event.inputs.force_rebuild == 'true' && '1' || '0' }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -45,12 +45,24 @@ jobs:
       - name: Install dependencies
         run: pip install lxml
 
-      - name: Force rebuild - delete output and playlists
-        if: ${{ inputs.force_rebuild }}
+      - name: Force rebuild - delete and commit deletion
+        if: ${{ github.event.inputs.force_rebuild == 'true' }}
         run: |
-          echo "Force rebuild requested"
+          set -e
+          echo "FORCE REBUILD ACTIVE"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          echo "Tracked files before:"; git ls-files playlists
+          git rm -rf --ignore-unmatch playlists
+          if git diff --cached --quiet; then
+            echo "ERROR: no tracked files in playlists/ to delete (wrong path/branch?)" >&2
+            exit 1
+          fi
+          git commit -m "Force rebuild: delete playlists $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
           rm -rf output playlists
           mkdir -p output playlists
+          echo "Deletion committed and pushed"
 
       - name: Filter M3U playlists
         id: m3u
