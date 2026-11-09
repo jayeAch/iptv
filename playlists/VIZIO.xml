@@ -28,13 +28,25 @@
     <display-name>OUTflix Movies</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/1736244620/1/267/150/0.jpg"/>
   </channel>
+<channel id="vizio.98wurl_amc_scaresbyshudder_1">
+    <display-name>Scares By Shudder</display-name>
+    <icon src="https://images.vizio.com/v4/btv/1/1653191756/1/267/150/0.jpg"/>
+  </channel>
 <channel id="vizio.98wurl_amc_rushbyamc_1">
     <display-name>AMC Thrillers</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/1646279455/1/267/150/0.jpg"/>
   </channel>
+<channel id="vizio.98wurl_cinedigm_entertainment_corp_screamboxtv_1">
+    <display-name>Screambox TV</display-name>
+    <icon src="https://images.vizio.com/v4/btv/1/1643067198/1/267/150/0.jpg"/>
+  </channel>
 <channel id="vizio.96Station_88885594">
     <display-name>Xumo Horror &amp; Thriller</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/1736242005/1/267/150/0.jpg"/>
+  </channel>
+<channel id="vizio.93amg00136c15">
+    <display-name>Crime Scenes</display-name>
+    <icon src="https://images.vizio.com/v4/btv/1/1736245968/1/267/150/0.jpg"/>
   </channel>
 <channel id="vizio.98wurl_aenetworks_kriminal_1">
     <display-name>Crimes Cults Killers</display-name>
@@ -93,28 +105,6 @@
     <episode-num system="xmltv_ns">4.0.</episode-num>
     <rating>
       <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261109160743 +0000" stop="20261109165917 +0000" channel="vizio.93131">
-    <title lang="en">I (Almost) Got Away With It</title>
-    <sub-title lang="en">Got Caught Via Email</sub-title>
-    <desc lang="en">Three inmates break out of a Florida jail through the plumbing.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%20113034402,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E04</episode-num>
-    <episode-num system="xmltv_ns">1.3.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261109160000 +0000" stop="20261109170000 +0000" channel="vizio.93ELENO">
-    <title lang="en">Almost Paradise</title>
-    <sub-title lang="en">Lone Wolf</sub-title>
-    <desc lang="en">Alex must figure out who is really behind the crime before it's too late.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205168436558,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <rating>
-      <value>TV-PG</value>
     </rating>
   </programme>
 <programme start="20261109155625 +0000" stop="20261109174124 +0000" channel="vizio.93VZAMCA">

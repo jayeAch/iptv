@@ -1176,13 +1176,25 @@
     <display-name>OUTflix Movies</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/1736244620/1/267/150/0.jpg"/>
   </channel>
+<channel id="vizio.98wurl_amc_scaresbyshudder_1">
+    <display-name>Scares By Shudder</display-name>
+    <icon src="https://images.vizio.com/v4/btv/1/1653191756/1/267/150/0.jpg"/>
+  </channel>
 <channel id="vizio.98wurl_amc_rushbyamc_1">
     <display-name>AMC Thrillers</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/1646279455/1/267/150/0.jpg"/>
   </channel>
+<channel id="vizio.98wurl_cinedigm_entertainment_corp_screamboxtv_1">
+    <display-name>Screambox TV</display-name>
+    <icon src="https://images.vizio.com/v4/btv/1/1643067198/1/267/150/0.jpg"/>
+  </channel>
 <channel id="vizio.96Station_88885594">
     <display-name>Xumo Horror &amp; Thriller</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/1736242005/1/267/150/0.jpg"/>
+  </channel>
+<channel id="vizio.93amg00136c15">
+    <display-name>Crime Scenes</display-name>
+    <icon src="https://images.vizio.com/v4/btv/1/1736245968/1/267/150/0.jpg"/>
   </channel>
 <channel id="vizio.98wurl_aenetworks_kriminal_1">
     <display-name>Crimes Cults Killers</display-name>
@@ -1365,7 +1377,6 @@
 <programme channel="400000006" start="20261110195523 +0000" stop="20261110215726 +0000"><title>Halloween II</title><desc>The survivors of Michael Myer's killing spree recover from the chaos, only to be faced with a new terror.</desc></programme>
 <programme channel="400000006" start="20261110215726 +0000" stop="20261110235636 +0000"><title>Lords of Salem</title><desc>Evil forces from a Salem, Massachusetts legend unleash terror upon the modern-day town.</desc></programme>
 <programme channel="400000006" start="20261110235636 +0000" stop="20261111013355 +0000"><title>House of 1000 Corpses</title><desc>Two couples traveling across Texas end up as prisoners of a sadistic backwater family of serial killers.</desc></programme>
-<programme channel="400000095" start="20261109163400 +0000" stop="20261109170000 +0000"><title>Court Cam Presents Under Oath</title><desc>When a woman shoots her pilot husband and flees to Brazil, she sets off a long battle for her extradition and trial in the States; Claudia Hoerig takes the stand to tell a harrowing story about the end of her troubled marriage.</desc></programme>
 <programme channel="400000095" start="20261109170000 +0000" stop="20261109175100 +0000"><title>Taking the Stand</title><desc>After being sucker punched during a campus gathering, Northern Arizona University freshman Steven Jones shoots four fellow students, injuring three and killing one; facing life in prison, Jones tries to convince the jury that it was self defense.</desc></programme>
 <programme channel="400000095" start="20261109175100 +0000" stop="20261109184200 +0000"><title>Taking the Stand</title><desc>A year after discovering her husband's frozen body in the driveway, Lori Phillips faces charges for his death; facing up to 25 years in prison, Lori has decided to testify, hoping to persuade the jury that she was fleeing from an abusive man.</desc></programme>
 <programme channel="400000095" start="20261109184200 +0000" stop="20261109193200 +0000"><title>Court Cam Presents Under Oath</title><desc>A beloved college professor is executed in Tallahassee, Fla.; the investigation leads to murder charges against a trio from Miami; in a risky move, the woman who connected the killers to the people who hired them decides to take the stand.</desc></programme>
@@ -1447,7 +1458,6 @@
 <programme channel="400000093" start="20261110215100 +0000" stop="20261110224100 +0000"><title>World's Most Evil Killers</title><desc>A 23-year-old killer murders 17-year-old former head girl Georgia Williams in 2013.</desc></programme>
 <programme channel="400000093" start="20261110224100 +0000" stop="20261110233100 +0000"><title>World's Most Evil Killers</title><desc>A killer attacks his ex-girlfriend in a jealous frenzy and commits a brutal murder after a campaign of harassment.</desc></programme>
 <programme channel="400000093" start="20261110233100 +0000" stop="20261111001800 +0000"><title>World's Most Evil Killers</title><desc>Stuart Campbell is convicted for the murder of his 15-year-old niece in 2002, even though her body has never been found.</desc></programme>
-<programme channel="715949" start="20261109161409 +0000" stop="20261109170241 +0000"><title>Murder by Numbers</title><desc>A woman is found murdered on a hiking trail, and her husband is missing.</desc></programme>
 <programme channel="715949" start="20261109170241 +0000" stop="20261109175313 +0000"><title>Murder by Numbers</title><desc>Firefighters discover bullet-ridden bodies when responding to a truck fire.</desc></programme>
 <programme channel="715949" start="20261109175313 +0000" stop="20261109184143 +0000"><title>Murder by Numbers</title><desc>Police and neighbors are baffled when a woman is murdered in her home.</desc></programme>
 <programme channel="715949" start="20261109184143 +0000" stop="20261109193015 +0000"><title>Murder by Numbers</title><desc>A predator who's been stalking women escalates from rapist to killer.</desc></programme>
@@ -1486,10 +1496,6 @@
 <programme channel="715949" start="20261110213345 +0000" stop="20261110222215 +0000"><title>The Lake Erie Murders</title><desc>A small town is rocked by the brutal murder of a convenience store clerk.</desc></programme>
 <programme channel="715949" start="20261110222215 +0000" stop="20261110231249 +0000"><title>The Lake Erie Murders</title><desc>Ohio police fear a serial killer is on the loose when two girls go missing.</desc></programme>
 <programme channel="715949" start="20261110231249 +0000" stop="20261111000120 +0000"><title>The Lake Erie Murders</title><desc>An Ohio community seeks answers after a beautiful young woman is murdered.</desc></programme>
-<programme start="20261109163000 +0000" stop="20261109170000 +0000" channel="airy-607">
-    <title>Filler</title>
-    <desc>Filler</desc>
-  </programme>
 <programme start="20261109170000 +0000" stop="20261109180000 +0000" channel="airy-607">
     <title>Filler</title>
     <desc>Filler</desc>
@@ -1513,10 +1519,6 @@
 <programme start="20261109220000 +0000" stop="20261109223000 +0000" channel="airy-607">
     <title>Airwolf </title>
     <desc>Hawke reluctantly agrees with amused Dominic to be hired by cocky Israeli Nazi-hunter Sarah Lebow who seeks revenge on former Dachau camp commandant Helmut Krüger who turned the tables by killing her father under the pseudonym Hans Daubert Hes now an international arms dealer with a fortified estate in Paraguay Archangel strongly advises against meddling with him but fails to holding back the Santini Air team who fields Airwolf risking a confrontation with the prime weapon system on auction right then US quadruple anti-aircraft missile system Thor Archangel gets involved being Krügers main supplier as Hawke suspects with a brilliant patriotic agenda but Sarah stops at nothing - several duels are inevitable</desc>
-  </programme>
-<programme start="20261109163000 +0000" stop="20261109170000 +0000" channel="airy-631">
-    <title>Petticoat Junction S05E28</title>
-    <desc>Petticoat Junction S05E28</desc>
   </programme>
 <programme start="20261109170000 +0000" stop="20261109173000 +0000" channel="airy-631">
     <title>TBH 109</title>
@@ -1554,10 +1556,6 @@
     <title>The Rifleman </title>
     <desc>Lucas is acting deputy in Northfork while Micah is away on business When the bank is robbed Lucas shoots and seriously wounds the robber during his getaway The robber is Rudy Gray from Salinas and Lucas wires the sheriff of Salinas But the telegraph is intercepted by an unscrupulous clerk Dave Foley who decides to travel to Northfork impersonating Rudys brother to bring him back to Salinas before Lucas can find out there is a 2000 reward on his head</desc>
   </programme>
-<programme start="20261109160000 +0000" stop="20261109170000 +0000" channel="airy-605">
-    <title>Friday the 13th The Series</title>
-    <desc>A hot-rod racer uses a cursed necklace to win events by killing his competition and dipping the chain in his victims blood</desc>
-  </programme>
 <programme start="20261109170000 +0000" stop="20261109183000 +0000" channel="airy-605">
     <title>The Strange and Deadly Occurance</title>
     <desc>Something or someone haunts a couples Robert Stack Vera Miles new home in the country</desc>
@@ -1585,10 +1583,6 @@
 <programme start="20261109220000 +0000" stop="20261109223000 +0000" channel="airy-605">
     <title>Werewolf</title>
     <desc>Eric sets out after Janos Skorzeny following the rumors of a Bigfoot sighting After a ferocious battle with a stronger werewolf Eric finds sanctuary in the home with a woman named Mary who has a strange and supernatural secret of her own</desc>
-  </programme>
-<programme start="20261109163000 +0000" stop="20261109170000 +0000" channel="airy-632">
-    <title>Hogans Heroes</title>
-    <desc>The Germans want to safely build a synthetic fuel plant in Stalag 13 but Hogan convinces them that there is oil beneath the camp</desc>
   </programme>
 <programme start="20261109170000 +0000" stop="20261109173000 +0000" channel="airy-632">
     <title>Mchale 231</title>
@@ -1622,10 +1616,6 @@
     <title>BJ and the Bear </title>
     <desc>Deputy Perkins serves BJ a subpoena too appear in court to testify against sheriff Lobo During the trial BJ is arrested Lobo lets BJ escape and tells him to leave town BJ doesnt leave town but instead helps to stop Harry Cunningham who is cutting cost on a dam project by diluting cement</desc>
   </programme>
-<programme start="20261109160000 +0000" stop="20261109170000 +0000" channel="airy-612">
-    <title>Filler</title>
-    <desc>Filler</desc>
-  </programme>
 <programme start="20261109170000 +0000" stop="20261109180000 +0000" channel="airy-612">
     <title>Filler</title>
     <desc>Filler</desc>
@@ -1658,10 +1648,6 @@
     <title>Major Dad</title>
     <desc>MacGillis Holowachuk and Gunny volunteer to do some paper work on All Hallows Eve but General Craig drives them crazy Casey is running a fever so she has to stay home for Halloween and while sleeping she dreams everybody is a monster</desc>
   </programme>
-<programme start="20261109160000 +0000" stop="20261109170000 +0000" channel="airy-649">
-    <title>Space 1999</title>
-    <desc>With Maya now a crew member the Alphans discover a young couple called Cantor and Zova who have been in suspended animation for some while They claim that they are exiles from the planet Golos following an invasion and ask for the help of Alphan crew members to recover the rest of their comrades who are trapped in missile-like canisters in orbit around the moon Helena and Tony convince Koenig that the alien couple are innocent beings and allow them the chance to recover their people However Cantor and Zova abduct Helena and Tony transporting them to the planet Golos where it is apparent that they are not the young innocents they appeared to be</desc>
-  </programme>
 <programme start="20261109170000 +0000" stop="20261109183000 +0000" channel="airy-649">
     <title>Sleepaway Camp</title>
     <desc>Bunks and showers are a mad stabbers beat at a summer camp strictly for teens</desc>
@@ -1685,10 +1671,6 @@
 <programme start="20261109220000 +0000" stop="20261109223000 +0000" channel="airy-649">
     <title>War of the Worlds</title>
     <desc>The Martians encounter another human disease chicken pox which is crippling their invasion plans They decide by harvesting human brains so they can produce a cure that will put the invasion back on track Harrisons team race against time to stop them completing their project</desc>
-  </programme>
-<programme start="20261109160000 +0000" stop="20261109170000 +0000" channel="airy-651">
-    <title>The Fugitive </title>
-    <desc>While working as a delivery driver Kimble rescues a man and a woman from the wreckage of a small airplane All three have a problem the man is a politician the woman is not his wife and Kimble doesnt want publicity as the rescuer</desc>
   </programme>
 <programme start="20261109170000 +0000" stop="20261109180000 +0000" channel="airy-651">
     <title>Big Valley</title>
@@ -1734,10 +1716,6 @@
     <title>Return of the Tiger</title>
     <desc>Return of the Tiger</desc>
   </programme>
-<programme start="20261109153000 +0000" stop="20261109170000 +0000" channel="airy-629">
-    <title>Invincible Super Chan</title>
-    <desc>Invincible Super Chan</desc>
-  </programme>
 <programme start="20261109170000 +0000" stop="20261109193000 +0000" channel="airy-629">
     <title>The Heroes Of Telemark</title>
     <desc>Norwegian resistance tries to stop German efforts to produce an atomic bomb component during World War II</desc>
@@ -1749,10 +1727,6 @@
 <programme start="20261109213000 +0000" stop="20261109223000 +0000" channel="airy-629">
     <title>Captain Newman MD</title>
     <desc>In 1944 an Army doctor is in charge of a neuropsychiatric ward at an Army Air Corps hospital in Arizona and he must deal with a variety of tough cases</desc>
-  </programme>
-<programme start="20261109160000 +0000" stop="20261109170000 +0000" channel="airy-625">
-    <title>Friday the 13th The Series</title>
-    <desc>A hot-rod racer uses a cursed necklace to win events by killing his competition and dipping the chain in his victims blood</desc>
   </programme>
 <programme start="20261109170000 +0000" stop="20261109183000 +0000" channel="airy-625">
     <title>The Strange and Deadly Occurance</title>
@@ -1781,10 +1755,6 @@
 <programme start="20261109220000 +0000" stop="20261109223000 +0000" channel="airy-625">
     <title>Werewolf</title>
     <desc>Eric sets out after Janos Skorzeny following the rumors of a Bigfoot sighting After a ferocious battle with a stronger werewolf Eric finds sanctuary in the home with a woman named Mary who has a strange and supernatural secret of her own</desc>
-  </programme>
-<programme start="20261109150000 +0000" stop="20261109170000 +0000" channel="airy-650">
-    <title>Theater of Blood</title>
-    <desc>A Shakespearean actor takes poetic revenge on the critics who denied him recognition</desc>
   </programme>
 <programme start="20261109170000 +0000" stop="20261109190000 +0000" channel="airy-650">
     <title>Day of the Dead</title>
@@ -1954,11 +1924,6 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
         <desc>Fay is startled by a man searching for her. When a private investigator shows up at Sandpiper Air asking questions and taking her photograph, she begins to imagine people are following her.</desc>
         <icon src="https://images.pluto.tv/series/66b6405a17101c00131b17cd/tile_1776920403108.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-<programme channel="638e11951177840007fdd6b2-CA" start="20261109163000 +0000" stop="20261109165900 +0000">
-        <title>Black Books</title>
-        <desc>A caffeine-fueled Manny is mistaken for a policeman.</desc>
-        <icon src="https://images.pluto.tv/series/66fee6e0a88a1900135b9b95/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
 <programme channel="638e11951177840007fdd6b2-CA" start="20261109165900 +0000" stop="20261109173000 +0000">
         <title>Tracey Ullman's Show</title>
         <desc>Theresa May gets a surprise visit; the Duchess of Cornwall shops for a baby gift; and Angela Merkel wonders how best to reconnect with the German people.</desc>
@@ -1968,11 +1933,6 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
         <title>Tracey Ullman's Show</title>
         <desc>Theresa returns from her "cross party sleaze meeting". New from MP Games: Guess Who's Next? Angela Merkel Skypes with Donald Trump</desc>
         <icon src="https://images.pluto.tv/series/6900cf336fe1b6a13d89aad5/tile_1790721363484.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-<programme channel="64f8a408bd341e000818fcda-CA" start="20261109163800 +0000" stop="20261109170300 +0000">
-        <title>Broad City</title>
-        <desc>Abbi and Ilana resort to desperate and unusual measures to scrape together enough cash for a Lil Wayne concert.</desc>
-        <icon src="https://images.pluto.tv/series/6a70a3181de8a69a111d8cd9/tile_1785766681331.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
 <programme channel="64f8a408bd341e000818fcda-CA" start="20261109170300 +0000" stop="20261109172900 +0000">
         <title>Tosh.0</title>
@@ -1988,11 +1948,6 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
         <title>Tosh.0</title>
         <desc>Daniel analyzes the 2020 presidential election with the best political minds who have appeared on Tosh.0, and he dials up his favorite computer programmer who dresses like a cat.</desc>
         <icon src="https://images.pluto.tv/series/6a70a774de5e723940d0462a/tile_1785767797245.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-<programme channel="64f8a949f5b5e4000862467c-CA" start="20261109164800 +0000" stop="20261109170000 +0000">
-        <title>Beavis and Butt-Head</title>
-        <desc>Beavis and Butt-head sue Kimberly for sexual harassment, since she's giving them wood.</desc>
-        <icon src="https://images.pluto.tv/series/649d8b92e1356600136862ea/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
 <programme channel="64f8a949f5b5e4000862467c-CA" start="20261109170000 +0000" stop="20261109172500 +0000">
         <title>Ugly Americans</title>
@@ -2028,11 +1983,6 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
         <title>The New Detectives</title>
         <desc>To the astute detective and forensic specialist, the biggest clues often hide in plain sight, and what seems trivial to some is in reality Critical Evidence.</desc>
         <icon src="https://images.pluto.tv/series/62d1c1ecbe1ffb0014fb596e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-<programme channel="66166cb1307fa30008f275e7-CA" start="20261109161032 +0000" stop="20261109170032 +0000">
-        <title>The 100</title>
-        <desc>Clarke's determination to protect Madi puts Bellamy in an impossible situation.</desc>
-        <icon src="https://images.pluto.tv/series/6abbc19a7102b85b82e93d57/tile_1790689691046.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
 <programme channel="66166cb1307fa30008f275e7-CA" start="20261109170032 +0000" stop="20261109175132 +0000">
         <title>Fringe</title>
@@ -5529,11 +5479,6 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
         <desc>Josie er en marketingchef, som vender tilbage til sin hjemby, da hun uventet bliver værge for sin niece og nevø. Mens hun er der, genoptager hun kontakten med Cooper, hendes ungdomskæreste.</desc>
         <icon src="https://images.pluto.tv/series/67489388321c190013bb1e22/tile_1788877452309.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-<programme channel="63a1c9790cc44a0007dc8857-DK" start="20261109163143 +0000" stop="20261109170143 +0000">
-        <title>The Twilight Zone: What You Need</title>
-        <desc>A two-bit thug thinks he's found the key to a better life in an old sidewalk salesman who has the uncanny ability to tell people what they need the most.</desc>
-        <icon src="https://images.pluto.tv/series/650bf71acecd3f00138ac9c6/tile_1793901607320.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
 <programme channel="63a1c9790cc44a0007dc8857-DK" start="20261109170143 +0000" stop="20261109173143 +0000">
         <title>The Twilight Zone: The Four of Us are Dying</title>
         <desc>A man who can change his face to resemble others gets into hot water with gangsters.</desc>
@@ -5624,11 +5569,6 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
         <desc>Al entertains notions of greatness when he discovers Kelly's new boyfriend is an influential politician.</desc>
         <icon src="https://images.pluto.tv/series/6464d85954afb6001a21bbb2/tile_1785221641806.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-<programme channel="6486e8984cfc2c0008b6844e-DK" start="20261109163023 +0000" stop="20261109165707 +0000">
-        <title>Beavis and Butt-Head: Substitute / Shopping List</title>
-        <desc>A substitute teacher tries unconventional methods to reach Beavis and Butt-head. / Tom Anderson sends Beavis and Butt-head to the store to pick up a few items. They don't do a very good job.</desc>
-        <icon src="https://images.pluto.tv/series/64b7c6cad264b00013ee9919/tile.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
 <programme channel="6486e8984cfc2c0008b6844e-DK" start="20261109165707 +0000" stop="20261109172242 +0000">
         <title>Beavis and Butt-Head: Holy Cornholio</title>
         <desc>Butt-head is really screwed when a visit to the hospital once again awakens The Great Cornoholio in Beavis. But two rooms over, the leader of a cult has died. Is the Great Cornholio destined to be the cult's idiot savior?</desc>
@@ -5663,11 +5603,6 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
         <title>RENO 911!: Milkshake Man's Death</title>
         <desc>Reno District Attorney Mike Powers investigates the Sheriff's Department.</desc>
         <icon src="https://images.pluto.tv/series/65e9890d3d3e4500142f5161/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-<programme channel="6641fd41b18d700008e7e2b8-DK" start="20261109154655 +0000" stop="20261109165955 +0000">
-        <title>The Roast of Donald Trump</title>
-        <desc>Milliardæren Donald Trump bliver heglet igennem på Comedy Central af Jeffrey Ross, Seth MacFarlane, Gilbert Gottfried, Whitney Cummings, Snoop Dogg, Larry King, Marlee Matlin, Mike 'The Situation' Sorrentino, Lisa Lampanelli og Anthony Jeselnic.</desc>
-        <icon src="https://images.pluto.tv/series/627b74c973a0a1001454b6cf/tile_1777506482271.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
 <programme channel="6641fd41b18d700008e7e2b8-DK" start="20261109165955 +0000" stop="20261109183455 +0000">
         <title>The Roast of Justin Bieber</title>
@@ -7614,11 +7549,6 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6641fd41b18d700008e7e2b8/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-<programme channel="5ad8d3a31b95267e225e4e09-GB" start="20261109144657 +0000" stop="20261109170057 +0000">
-        <title>The Internship</title>
-        <desc>Old-school salesmen Billy (Vince Vaughn) and Nick (Owen Wilson) try to reboot their careers by joining Google’s fiercely competitive internship program — with hilarious results!</desc>
-        <icon src="https://images.pluto.tv/series/63736e64eaede8001374ab6e/tile_1789074361918.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
 <programme channel="5ad8d3a31b95267e225e4e09-GB" start="20261109170057 +0000" stop="20261109190009 +0000">
         <title>Labyrinth</title>
         <desc>Sixteen-year-old Sarah must solve a labyrinth to rescue her baby brother when he is taken by the Goblin King.</desc>
@@ -7754,11 +7684,6 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
         <desc>Paula Zahn examines the tragic case of a trail of blood and broken cornstalks leads police to the body of a young girl.</desc>
         <icon src="https://images.pluto.tv/series/617ab4eb829284001a95c1ad/tile_1790722089913.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-<programme channel="62f53dc6ee9a0400071dc22b-GB" start="20261109163513 +0000" stop="20261109165913 +0000">
-        <title>Are We There Yet?: The Lindsey Dances Episode</title>
-        <desc>Lindsey auditions to dance for a famous rapper's music video, but she later backs out after meeting with the powerful, demanding choreographer.</desc>
-        <icon src="https://images.pluto.tv/series/61925b0929d923001ad479e3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
 <programme channel="62f53dc6ee9a0400071dc22b-GB" start="20261109165913 +0000" stop="20261109172313 +0000">
         <title>Are We There Yet?: The Career Day Episode</title>
         <desc>For Career Day, Nick serves as a guest speaker for Kevin's class, but his message ultimately confuses Kevin's classmates.</desc>
@@ -7783,11 +7708,6 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
         <title>Bloodline Detectives</title>
         <desc>A series of brutal and terrifying sexual assaults occur across northern Utah and Wyoming. With the help of familial DNA, detectives are able to track down and capture a serial rapist.</desc>
         <icon src="https://images.pluto.tv/series/65cb28f770ac440013e10ac9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-<programme channel="650315163a0d700008bb07f8-GB" start="20261109160400 +0000" stop="20261109165700 +0000">
-        <title>Born to Kill?</title>
-        <desc>When investigators in Maryland identified cross-dressing eccentric Hadden Clark as the killer of six-year-old Michelle Dorr and Harvard graduate Laura Houghteling, he not only confessed but claimed that he was also responsible for many other deaths.</desc>
-        <icon src="https://images.pluto.tv/series/6669ce441c02820013392354/tile_1751753141820.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
 <programme channel="650315163a0d700008bb07f8-GB" start="20261109165700 +0000" stop="20261109175000 +0000">
         <title>Born to Kill?</title>
@@ -7888,11 +7808,6 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
         <title>Stalked: Someone's Watching: Above the Law</title>
         <desc>Vicki Kuper finds new love with Jack. But his jealous tendencies soon rise to the surface and Vicki struggles to escape his grasp in this small town nightmare.</desc>
         <icon src="https://images.pluto.tv/series/61b72aab37f2a80013d8e414/tile_1790723165627.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-<programme channel="68c8203efef6d8a2a6f13906-GB" start="20261109163000 +0000" stop="20261109170000 +0000">
-        <title>60 days in jail</title>
-        <desc>60 Days In Jail sends undercover volunteers into jails to expose the real stories of life inside. These harrowing journeys serve a higher purpose, helping those in charge improve conditions. Facing danger and loneliness, can they last?</desc>
-        <icon src="https://images.pluto.tv/series/6993073aae69933185f10feb/tile_1776932725533.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
 <programme channel="68c8203efef6d8a2a6f13906-GB" start="20261109170000 +0000" stop="20261109173000 +0000">
         <title>60 days in jail</title>
@@ -11159,11 +11074,6 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
         <desc>He was a predator, abducting girls and young women from their own front yards in broad daylight. He was a sadist: phoning one victim's family, taunting them, boosting then dashing their hope, and he wouldn't stop until we stopped him.</desc>
         <icon src="https://images.pluto.tv/series/61fa86e342817b001a98ba1d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-<programme channel="6181511c1e13690007b143c2-NO" start="20261109160400 +0000" stop="20261109170200 +0000">
-        <title>The New Detectives: Collective Justice</title>
-        <desc>Philadelphia's Vidocq Society, named after an 18th Century French detective, is one of the world's most unusual crime-solving organizations.</desc>
-        <icon src="https://images.pluto.tv/series/61a797ee4b12ef00148fee8c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
 <programme channel="6181511c1e13690007b143c2-NO" start="20261109170200 +0000" stop="20261109180100 +0000">
         <title>The New Detectives: Without A Trace</title>
         <desc>Missing Person: Approximately 1.8 million Americans are reported missing each year. Worldwide, the number of missing persons nearly triples.</desc>
@@ -11198,11 +11108,6 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
         <title>Beavis and Butt-Head: The Crush / Young, Gifted &amp; Crude</title>
         <desc>Beavis &amp; Butt-head want to hang with a "really cool' bunch of delinquents. / Beavis &amp; Butt-head spend some time with the school's gifted class. Not much time.</desc>
         <icon src="https://images.pluto.tv/series/65ccad94b65b8700134e8103/tile_1780480081644.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-<programme channel="65e977874e01740008c9fb4c-NO" start="20261109163143 +0000" stop="20261109165823 +0000">
-        <title>RENO 911!: Hodgepodge</title>
-        <desc>The Reno Sheriff's Department takes more than seven hours to respond to a liquor store robbery.</desc>
-        <icon src="https://images.pluto.tv/series/65e069f86ef49d001306f002/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
 <programme channel="65e977874e01740008c9fb4c-NO" start="20261109165823 +0000" stop="20261109172503 +0000">
         <title>RENO 911!: Happy Anniversary</title>
@@ -12713,11 +12618,6 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
         <title>John Grisham's The Rainmaker</title>
         <desc>En idealistisk ung advokat tar sig an ett fall där en yngling nekas medicinsk vård av det mäktiga försäkringsbolaget och dör. Advokaten upptäcker ett försäkringsbedrägeri i miljarddollarklassen.</desc>
         <icon src="https://images.pluto.tv/series/69a6d2e0d554a0f20403987d/tile_1772799121644.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-<programme channel="61c0b0688a80a4000703fbcb-SE" start="20261109155951 +0000" stop="20261109170151 +0000">
-        <title>The FBI Files: Human Prey</title>
-        <desc>Thomas Dillon killed five outdoorsmen at random over a period of three years in rural southern Ohio. After a tip led the FBI to the murder weapon, ballistic testing made a match.</desc>
-        <icon src="https://images.pluto.tv/series/61fa87b5fef5db001a0ea299/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
 <programme channel="61c0b0688a80a4000703fbcb-SE" start="20261109170151 +0000" stop="20261109180051 +0000">
         <title>The FBI Files: The C-11 Squad</title>
@@ -14794,11 +14694,6 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
         <desc>Milo is a bounty hunter who gets his dream job when he is assigned to track down his bail-jumping reporter ex-wife. When she gives him the slip so she can chase a lead on a murder cover-up, Milo realizes that nothing ever goes smoothly with her.</desc>
         <icon src="https://images.pluto.tv/series/6adf80179abe27364c79018c/tile_1793032216719.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-<programme channel="5c6dc88fcd232425a6e0f06e-US" start="20261109151500 +0000" stop="20261109170000 +0000">
-        <title>Escape Room</title>
-        <desc>For a birthday celebration, three couples partake in an ESCAPE ROOM, in which they must work together to solve puzzles in order to escape the room—but when the game turns deadly, they quickly learn the only winners are the survivors.</desc>
-        <icon src="https://images.pluto.tv/series/632cac786cb7a00013a83246/tile_1756262413922.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
 <programme channel="5c6dc88fcd232425a6e0f06e-US" start="20261109170000 +0000" stop="20261109190000 +0000">
         <title>Body Cam</title>
         <desc>A police officer (Mary J. Blige) investigating a fellow officer's murder discovers an evil spirit targeting the cops in her unit, uncovering a sinister secret surrounding the shooting and cover-up of an unarmed youth in this intense action thriller.</desc>
@@ -14844,20 +14739,10 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
         <desc>Romantic sparks fly between a wealthy businessman and a struggling single mother who works as a cleaner in his office building.</desc>
         <icon src="https://images.pluto.tv/series/678f2a5dfa70e5001374a55f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-<programme channel="64b585f84ea480000838e446-US" start="20261109150000 +0000" stop="20261109170000 +0000">
-        <title>Austin Powers: International Man of Mystery</title>
-        <desc>Frozen in the '60s, secret agent Austin Powers is thawed back into action to once again battle his archenemy, Dr. Evil. With his sexy sidekick, Ms. Kensington, Austin must stop Dr. Evil's outrageous plot to control the world.</desc>
-        <icon src="https://images.pluto.tv/series/69208140ff9b3a4db72bded9/tile_1793841483727.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
 <programme channel="64b585f84ea480000838e446-US" start="20261109170000 +0000" stop="20261109190000 +0000">
         <title>Austin Powers: The Spy Who Shagged Me</title>
         <desc>The International Man of Mystery must travel back to the Swinging Sixties, track down his stolen mojo, and thwart Dr. Evil's plot to destroy the world.</desc>
         <icon src="https://images.pluto.tv/series/692086e063142c96a9188bd2/tile_1764061840155.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-<programme channel="68fbf8101d26140175db8b58-US" start="20261109140000 +0000" stop="20261109170000 +0000">
-        <title>Transformers</title>
-        <desc>From director Michael Bay and executive producer Steven Spielberg comes a thrilling battle between the heroic Autobots and the evil Decepticons. When their epic struggle comes to Earth, Sam Witwicky becomes mankind's last chance for survival.</desc>
-        <icon src="https://images.pluto.tv/series/663a63b0e42c230013e7c82d/tile_1791472682094.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
 <programme channel="68fbf8101d26140175db8b58-US" start="20261109170000 +0000" stop="20261109201500 +0000">
         <title>Transformers: Revenge of the Fallen</title>
@@ -14878,11 +14763,6 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
         <title>The Virtuoso</title>
         <desc>Danger, lies, and murder ensue for a professional assassin on a job in a remote town in this noir thriller starring Anson Mount, Abbie Cornish, and Oscar® winner Anthony Hopkins.</desc>
         <icon src="https://images.pluto.tv/series/678b3f4897f38d0013624a29/tile_1778875209641.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-<programme channel="5c2d64ffbdf11b71587184b8-US" start="20261109163000 +0000" stop="20261109170000 +0000">
-        <title>Sabrina: The Teenage Witch</title>
-        <desc>Sabrina is put on trial for witchcraft when her class visits historical Salem, Massachusetts.</desc>
-        <icon src="https://images.pluto.tv/series/615c52b5d3fd02001ab1c9d3/tile_1785448801831.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
 <programme channel="5c2d64ffbdf11b71587184b8-US" start="20261109170000 +0000" stop="20261109173000 +0000">
         <title>Sabrina: The Teenage Witch</title>
@@ -14909,11 +14789,6 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
         <desc>Three aliens (Jim Carrey, Damon Wayans, and Jeff Goldblum) crash-land in Los Angeles' San Fernando Valley. A manicurist (Geena Davis) and her boss (the wacky Julie Brown) befriend the threesome, give them makeovers and show them the town.</desc>
         <icon src="https://images.pluto.tv/series/6074c83f3bbc1b001aee307d/tile_1779898322144.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-<programme channel="5ca671f215a62078d2ec0abf-US" start="20261109163000 +0000" stop="20261109170000 +0000">
-        <title>Key &amp; Peele</title>
-        <desc>A detective confronts a serial killer in a funhouse, a blind man identifies a body, and a representative from the Make-A-Wish Foundation encounters an evil child.</desc>
-        <icon src="https://images.pluto.tv/series/60112c1ace98800013ecc1bb/tile_1786441321256.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
 <programme channel="5ca671f215a62078d2ec0abf-US" start="20261109170000 +0000" stop="20261109173000 +0000">
         <title>Key &amp; Peele</title>
         <desc>A detective enters the perverted mind of a perpetrator, a retro action hero infiltrates a crime boss's compound, and President Obama addresses the critics within his party.</desc>
@@ -14928,11 +14803,6 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
         <title>Beavis and Butt-Head</title>
         <desc>Episode 4 includes Late Night with Butt-Head, Pool Toys, The Final Judgement of Beavis, Right On, and Date Bait, handpicked by Mike Judge himself.</desc>
         <icon src="https://images.pluto.tv/series/5cc35a2f07ebeec9f639bf69/tile_1780480081720.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-<programme channel="61325d18f5166c00081b84e0-US" start="20261109163000 +0000" stop="20261109170000 +0000">
-        <title>Family Affair</title>
-        <desc>When a neighboring family has a baby, the children start to ask questions about where babies come from. Uncle Bill has to explain.</desc>
-        <icon src="https://images.pluto.tv/series/600a450fce98800013ec44ed/tile_1783546201744.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
 <programme channel="61325d18f5166c00081b84e0-US" start="20261109170000 +0000" stop="20261109173000 +0000">
         <title>The Brady Bunch</title>
@@ -14949,11 +14819,6 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
         <desc>Jan wears a brunette wig in hopes of being noticed.</desc>
         <icon src="https://images.pluto.tv/series/613e2e4062aa0500144f6cd0/tile_1790883362027.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-<programme channel="6132619f9ddaa50007e7dd86-US" start="20261109163000 +0000" stop="20261109170000 +0000">
-        <title>Wings</title>
-        <desc>Brian saves the day when he lands a plane.</desc>
-        <icon src="https://images.pluto.tv/series/5fb343b3b2427e001a7beb8a/tile_1785361321658.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
 <programme channel="6132619f9ddaa50007e7dd86-US" start="20261109170000 +0000" stop="20261109173000 +0000">
         <title>Wings</title>
         <desc>Brian is heartbroken when he learns his dream girl is twelve years old. Antonio is put incharge of Joe and Helen's safety.</desc>
@@ -14969,11 +14834,6 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
         <desc>As Lisa struggles with a story from the White House, a misunderstanding leads Joe to seek revenge on a noisy upstairs neighbor; Catherine sets out to undermine Bill's latest commercial endorsement.</desc>
         <icon src="https://images.pluto.tv/series/6213eb0c33b8100013bb7305/tile_1785269163236.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-<programme channel="633354b63df9700007f6a1b7-US" start="20261109163000 +0000" stop="20261109170000 +0000">
-        <title>The Neighborhood</title>
-        <desc>When Dave decides to disconnect the Johnson home from the grid, he inadvertently causes a community-wide power outage, much to Calvin's frustration on the fifth season premiere.</desc>
-        <icon src="https://images.pluto.tv/series/66bd10a994a1840013620c7f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
 <programme channel="633354b63df9700007f6a1b7-US" start="20261109170000 +0000" stop="20261109173000 +0000">
         <title>The Neighborhood</title>
         <desc>When Calvin takes Dave's suggestion to try a new method of promoting his business, he soon comes to regret it. Also, Gemma recruits Tina to rescue her struggling after-school music program.</desc>
@@ -14988,11 +14848,6 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
         <title>The New Adventures of Old Christine</title>
         <desc>When Christine realizes she can't afford the newly raised tuition at Ritchie's school, she tries to get help from everyone except the person who is offering it freely: Barb.</desc>
         <icon src="https://images.pluto.tv/series/667b0e10946b3600134336dc/tile_1785436562349.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-<programme channel="5b4fc274694c027be6ed3eea-US" start="20261109160000 +0000" stop="20261109170000 +0000">
-        <title>Continuum (2012)</title>
-        <desc>Kellogg meets his personal bodyguard sent from the ranks of his future soldiers.</desc>
-        <icon src="https://images.pluto.tv/series/673f9de8882f6d0013cd567f/tile_1790637122039.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
 <programme channel="5b4fc274694c027be6ed3eea-US" start="20261109170000 +0000" stop="20261109180000 +0000">
         <title>Continuum (2012)</title>
@@ -15019,11 +14874,6 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
         <desc>The Munsters unknowingly rent their spare bedroom to a policeman.</desc>
         <icon src="https://images.pluto.tv/series/66ed9c93d404600013992c36/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-<programme channel="6913e381b6bf26bb6e798c13-US" start="20261109160000 +0000" stop="20261109170000 +0000">
-        <title>The X-Files</title>
-        <desc>A blind woman may possess the ability to see through a killer's eyes.</desc>
-        <icon src="https://images.pluto.tv/series/692fa4e06a5d6e386082d27f/tile_1786046051250.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
 <programme channel="6913e381b6bf26bb6e798c13-US" start="20261109170000 +0000" stop="20261109180000 +0000">
         <title>The X-Files</title>
         <desc>The death of a girl unveils a prophetic struggle between good and evil.</desc>
@@ -15033,11 +14883,6 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
         <title>The X-Files</title>
         <desc>Mulder goes undercover to infiltrate a militia group.</desc>
         <icon src="https://images.pluto.tv/series/692fa4e06a5d6e386082d27f/tile_1786046051250.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-<programme channel="69d7ebb726eeec84158e28cb-US" start="20261109160000 +0000" stop="20261109170000 +0000">
-        <title>The 100</title>
-        <desc>Searching for a peaceful way to handle things, Kane soon realizes that he may be forced to resort to drastic measures.  Meanwhile, Pike suspects a leak within the walls of Arkadia.</desc>
-        <icon src="https://images.pluto.tv/series/69c2fcbb2a202dc93bc0dfc7/tile_1790708879757.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
 <programme channel="69d7ebb726eeec84158e28cb-US" start="20261109170000 +0000" stop="20261109180000 +0000">
         <title>The 100</title>
@@ -15059,11 +14904,6 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
         <desc>When a family crosses paths with a stranger, all their lives go haywire.</desc>
         <icon src="https://images.pluto.tv/series/68e80ef7bf34c0e79c969518/tile_1790436373012.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-<programme channel="6ac5067030fb504db0658842-US" start="20261109163000 +0000" stop="20261109170000 +0000">
-        <title>PD True</title>
-        <desc>When a rookie cop is shot point blank in Brooklyn, thousands of NYPD officers pull out all the stops to hunt the men who killed one of their own.</desc>
-        <icon src="https://images.pluto.tv/series/6ad2a9a37a5624e68de26973/tile_1792190884436.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
 <programme channel="6ac5067030fb504db0658842-US" start="20261109170000 +0000" stop="20261109173000 +0000">
         <title>PD True</title>
         <desc>Detectives investigate the murder of a vibrant social media manager in her upscale apartment. Evidence points to a trusted figure with a violent past.</desc>
@@ -15079,11 +14919,6 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
         <desc>After the shocking acquittal of Miami's drug kingpins, authorities suspect that they conspired to infiltrate and obstruct the justice system. Through informants and undercover ops, the FBI uncovers a vast web of money, murder, and corruption.</desc>
         <icon src="https://images.pluto.tv/series/6acffccba586c4b3c9d0f3a0/tile_1792015606634.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-<programme channel="6ad7a23d0f04c58afc0110ad-US" start="20261109160743 +0000" stop="20261109165917 +0000">
-        <title>I (Almost) Got Away With It</title>
-        <desc>Three inmates break out of a Florida jail through the plumbing.</desc>
-        <icon src="https://images.pluto.tv/series/6ae24cfbe2d1f544c5be3255/tile_1793216033272.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
 <programme channel="6ad7a23d0f04c58afc0110ad-US" start="20261109165917 +0000" stop="20261109174851 +0000">
         <title>I (Almost) Got Away With It</title>
         <desc>An ex-cop is arrested, skips bail, and alters her appearance on the run.</desc>
@@ -15093,11 +14928,6 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
         <title>I (Almost) Got Away With It</title>
         <desc>An assault suspect skips town, and is out partying as police close in.</desc>
         <icon src="https://images.pluto.tv/series/6ae24cfbe2d1f544c5be3255/tile_1793216033272.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-<programme channel="5aea40b35126c2157123aa64-US" start="20261109160000 +0000" stop="20261109170000 +0000">
-        <title>The New Detectives</title>
-        <desc>Some people do get away with murderat least for a while. Flush with their success, serial killers murder again and again. But each time they kill, they leave behind a few more clues, which ultimately lead to their capture.</desc>
-        <icon src="https://images.pluto.tv/series/5ac562a0ea0c647dd15b80d7/tile_1783621442048.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
 <programme channel="5aea40b35126c2157123aa64-US" start="20261109170000 +0000" stop="20261109180000 +0000">
         <title>The New Detectives</title>
@@ -18592,6 +18422,14 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
     <episode-num system="onscreen">S2021E203</episode-num>
     <rating system="USA Parental Rating">TV14</rating>
   </programme>
+<programme channel="9349c516ca6456b9b5ed7e20cb1c1384" start="20261111165800 +0000" stop="20261111175300 +0000">
+    <title>Saturday Night Live</title>
+    <sub-title>Saturday Night Live</sub-title>
+    <desc>SNL's funniest sketches, including "Sports Talk," "The Rock Obama," Ladies' Billiards and more.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/79eceea8bd4753cf847cee07ccf8df4c/rokuFeed/assets/89d2913f720e56b0acca475e8d11b201.jpg"/>
+    <episode-num system="onscreen">S2021E203</episode-num>
+    <rating system="USA Parental Rating">TV14</rating>
+  </programme>
 <programme channel="349e0f0840cf21b888bff327b41a2413" start="20261109161414 +0000" stop="20261109175815 +0000">
     <title>The Cellar</title>
     <desc>A woman must confront an ancient and powerful entity after her daughter vanishes in the cellar.</desc>
@@ -19000,11 +18838,6 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
     <episode-num system="onscreen">S04E27</episode-num>
     <rating system="USA Parental Rating">TV14</rating>
   </programme>
-<programme start="20261109150300 +0000" stop="20261109170300 +0000" channel="99951349">
-    <title lang="en">A Dark Song</title>
-    <desc lang="en">A young woman and a damaged occultist risk their souls to perform a ritual.</desc>
-    <episode-num system="dd_assetid">MV009317110000</episode-num>
-  </programme>
 <programme start="20261109170300 +0000" stop="20261109185200 +0000" channel="99951349">
     <title lang="en">The Pact</title>
     <desc lang="en">Disturbing visions and her sister's disappearance lead a woman (Caity Lotz) to call a cop (Casper Van Dien) and a psychic to her childhood home.</desc>
@@ -19404,6 +19237,11 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
     <title lang="en">Charm City</title>
     <desc lang="en">A subway-station bombing prompts the squad to seek help from detectives in Baltimore where their prime suspect is wanted.</desc>
     <episode-num system="dd_progid">EP000176170141</episode-num>
+  </programme>
+<programme start="20261111165800 +0000" stop="20261111175100 +0000" channel="99951468">
+    <title lang="en">Custody</title>
+    <desc lang="en">Paul Robinette returns as a defense attorney representing a crack-addicted black woman accused of kidnapping her son from his adoptive parents.</desc>
+    <episode-num system="dd_progid">EP000176170142</episode-num>
   </programme>
 <programme start="20261109165300 +0000" stop="20261109171700 +0000" channel="99951244">
     <title lang="en">Three Wise Men</title>
@@ -20020,6 +19858,11 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
     <desc lang="en">At the gym, Will sees a man (Patrick Breen) who seems familiar, while Jack tries to popularize a new saying.</desc>
     <episode-num system="dd_progid">EP002704300080</episode-num>
   </programme>
+<programme start="20261111170200 +0000" stop="20261111172600 +0000" channel="99951244">
+    <title lang="en">Jingle Balls</title>
+    <desc lang="en">Grace is hired to decorate the windows at Barney's; Will meets a ballet dancer and is too embarrassed to introduce his friends.</desc>
+    <episode-num system="dd_progid">EP002704300081</episode-num>
+  </programme>
 <programme start="20261109160900 +0000" stop="20261109175100 +0000" channel="99951518">
     <title lang="en">Unholy Matrimony</title>
     <desc lang="en">04/07/23: An open marriage, a secret affair and a sinister plot for murder.</desc>
@@ -20169,11 +20012,6 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
     <title lang="en">Into the Darkness</title>
     <desc lang="en">More than a decade after a teenage girl vanishes from a popular tourist destination, her killer is brought to justice; interviews with the FBI team who broke the case wide open and identified her killer.</desc>
     <episode-num system="dd_progid">EP000000212086</episode-num>
-  </programme>
-<programme start="20261109163000 +0000" stop="20261109170000 +0000" channel="99951232">
-    <title lang="en">Lucy and Pat Collins</title>
-    <desc lang="en">Lucy and Mr. Mooney serve as volunteers in a hypnotist's nightclub act.</desc>
-    <episode-num system="dd_progid">EP000027050027</episode-num>
   </programme>
 <programme start="20261109170000 +0000" stop="20261109173000 +0000" channel="99951232">
     <title lang="en">Jed Throws a Wingding</title>
@@ -20634,6 +20472,11 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
     <title lang="en">Viv Visits Lucy</title>
     <desc lang="en">Search for supposed derelict.</desc>
     <episode-num system="dd_progid">EP000027050031</episode-num>
+  </programme>
+<programme start="20261111170000 +0000" stop="20261111173000 +0000" channel="99951232">
+    <title lang="en">Jed Pays His Income Tax</title>
+    <desc lang="en">Grannie manages to chase away an IRS agent with a shotgun, prompting a story from Mr. Drysdale about how the family came to live in Beverly Hills in the first place.</desc>
+    <episode-num system="dd_progid">EP000005520021</episode-num>
   </programme>
 <programme start="20261109160800 +0000" stop="20261109174400 +0000" channel="99991621">
     <title lang="en">Child's Play 2</title>
@@ -21435,6 +21278,11 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
     <desc lang="en">A Chicago fireman holds onto his dream of owning a tropical island resort.</desc>
     <episode-num system="dd_assetid">XT0SFTBU0MIL5E</episode-num>
   </programme>
+<programme start="20261111165708 +0000" stop="20261111185932 +0000" channel="99951603">
+    <title lang="en">8 Seconds</title>
+    <desc lang="en">Lane Frost is a cowboy who rises to become a professional bull-riding champion in the 1980s. Along the way, he endures injuries and the ups and downs of married life.</desc>
+    <episode-num system="dd_assetid">XT09A0JUKPV207</episode-num>
+  </programme>
 <programme start="20261109164711 +0000" stop="20261109174728 +0000" channel="99991784">
     <title lang="en">Dark Star</title>
     <desc lang="en">A gypsy girl believes she is a witch as she was born under a dark star. Banished from her people, Little Joe tries to help.</desc>
@@ -21719,11 +21567,6 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
     <title lang="en">Showdown</title>
     <desc lang="en">A gang of outlaws make off with nearly all of the money from Virginia City's Banks, after they break in and rob it.</desc>
     <episode-num system="dd_assetid">XM0B1YYTEHOFTW</episode-num>
-  </programme>
-<programme start="20261109162941 +0000" stop="20261109165825 +0000" channel="99991105">
-    <title lang="en">If Mama Ain't Happy</title>
-    <desc lang="en">Jillian's mother comes to town for a visit as James and Brenda are dealing with their own unwanted visitor.</desc>
-    <episode-num system="dd_assetid">XM01QZ5ENE6296</episode-num>
   </programme>
 <programme start="20261109165825 +0000" stop="20261109172712 +0000" channel="99991105">
     <title lang="en">Sticky Fingers</title>
@@ -22174,6 +22017,11 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
     <title lang="en">Junk in the Trunk</title>
     <desc lang="en">Gary is convinced Jillian found a treasure map in the bottom of an old trunk she bought at a yard sale.</desc>
     <episode-num system="dd_assetid">XM0DJXWXLASWF7</episode-num>
+  </programme>
+<programme start="20261111165659 +0000" stop="20261111172543 +0000" channel="99991105">
+    <title lang="en">Take 'Em to Church</title>
+    <desc lang="en">Jillian invites the pastor over for dinner, and Gary immediately becomes territorial when he discovers that the pastor is a handsome catch with an eye for Jillian.</desc>
+    <episode-num system="dd_assetid">XM0N4UAXB93Z7R</episode-num>
   </programme>
 <programme start="20261109160255 +0000" stop="20261109175117 +0000" channel="99951593">
     <title lang="en">Sand Sharks</title>
@@ -23690,10 +23538,6 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
     <title>Ape vs. Mecha Ape</title>
     <desc>Recognizing the destructive power of its captive giant Ape, the military makes its own battle-ready Mecha Ape.</desc>
   </programme>
-<programme start="20261109151032 +0000" stop="20261109170035 +0000" channel="us-cinedigm_entertainment_corp_screamboxtv_1">
-    <title>Little Dead Rotting Hood (Edited Version)</title>
-    <desc>For years, the old woman in the woods has secretly kept the wolves of the forest at bay. But when the woman dies, the creatures suddenly attack the residents of a nearby small town. As more and more people turn up dead, the townsfolk discover something far more sinister than wolves lurking in the backwoods, and fight to save their home from evil by waging a bloody battle against the ruthless creatures. But as the wolves begin to overpower the town, only the womans granddaughter may have the key to stopping the bloodbath before its too late.</desc>
-  </programme>
 <programme start="20261109170035 +0000" stop="20261109192042 +0000" channel="us-cinedigm_entertainment_corp_screamboxtv_1">
     <title>The Girl Who Got Away</title>
     <desc>Elizabeth Caulfield, a woman who kidnapped five young girls and pretended they were her own, is sent to jail. Only one girl, Christina Bowden, managed to get away. 20 years later, Caulfield has escaped from prison in search for Christina.</desc>
@@ -23717,10 +23561,6 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
 <programme start="20261109192400 +0000" stop="20261109212052 +0000" channel="tribeca_tribe_US">
     <title>Assault On Precinct 13</title>
     <desc>An LA precinct is under siege by a bloodthirsty street gang.</desc>
-  </programme>
-<programme start="20261109163000 +0000" stop="20261109170000 +0000" channel="us-scripps_laffmore_1">
-    <title>The Lucy Show</title>
-    <desc>Lucy and Mr. Mooney serve as volunteers in a hypnotist's nightclub act.</desc>
   </programme>
 <programme start="20261109170000 +0000" stop="20261109173000 +0000" channel="us-scripps_laffmore_1">
     <title>The Beverly Hillbillies</title>
@@ -23864,7 +23704,6 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
 <programme start="20261110112808 +0000" stop="20261110122938 +0000" channel="6a1610bebdf296985fd95603-61d738b5a7b7c7f703418514"><title>ACTION- Trailers From Hell</title><sub-title>ACTION!!! Vol. 1</sub-title><desc>Get rowdy with Big Trouble in Little China, Rambo, Dirty Harry, Mad Max, and more kick ass movies!</desc><category>Daytime TV + Games</category><episode-num system="onscreen">S1E15</episode-num><episode-num system="xmltv_ns">0.14.</episode-num><rating><value>TV-PG</value></rating></programme>
 <programme start="20261110122938 +0000" stop="20261110130958 +0000" channel="6a1610bebdf296985fd95603-61d738b5a7b7c7f703418514"><title>ACTION- Trailers From Hell</title><sub-title>ACTION!!! Vol. 2</sub-title><desc>Your favorite filmmakers discuss iconic cult classics The Warriors, Innerspace, and more!</desc><category>Daytime TV + Games</category><episode-num system="onscreen">S1E16</episode-num><episode-num system="xmltv_ns">0.15.</episode-num><rating><value>TV-PG</value></rating></programme>
 <programme start="20261110130958 +0000" stop="20261110150042 +0000" channel="6a1610bebdf296985fd95603-61d738b5a7b7c7f703418514"><title>Mitchell (2022)</title><desc>A disheveled and occasionally drunk police detective must sober up in time to stop the mob from smuggling stolen heroin into Los Angeles.</desc><category>Daytime TV + Games</category><rating><value>TV-PG</value></rating></programme>
-<programme start="20261109160000 +0000" stop="20261109170000 +0000" channel="6a1610bebdf296985fd95603-621671d05abdd3d5556a1baf"><title>Watch it SCREAM</title><desc>The most terrifying visions in horror, curated from festivals around the world, sit back relax and Watch it Scream!</desc><category>Adrenaline + Sci-Fi</category><rating><value>NR</value></rating></programme>
 <programme start="20261109170000 +0000" stop="20261109180000 +0000" channel="6a1610bebdf296985fd95603-621671d05abdd3d5556a1baf"><title>Watch it SCREAM</title><desc>The most terrifying visions in horror, curated from festivals around the world, sit back relax and Watch it Scream!</desc><category>Adrenaline + Sci-Fi</category><rating><value>NR</value></rating></programme>
 <programme start="20261109180000 +0000" stop="20261109190000 +0000" channel="6a1610bebdf296985fd95603-621671d05abdd3d5556a1baf"><title>Watch it SCREAM</title><desc>The most terrifying visions in horror, curated from festivals around the world, sit back relax and Watch it Scream!</desc><category>Adrenaline + Sci-Fi</category><rating><value>NR</value></rating></programme>
 <programme start="20261109190000 +0000" stop="20261109200000 +0000" channel="6a1610bebdf296985fd95603-621671d05abdd3d5556a1baf"><title>Watch it SCREAM</title><desc>The most terrifying visions in horror, curated from festivals around the world, sit back relax and Watch it Scream!</desc><category>Adrenaline + Sci-Fi</category><rating><value>NR</value></rating></programme>
@@ -23887,7 +23726,6 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
 <programme start="20261110120000 +0000" stop="20261110130000 +0000" channel="6a1610bebdf296985fd95603-621671d05abdd3d5556a1baf"><title>Watch it SCREAM</title><desc>The most terrifying visions in horror, curated from festivals around the world, sit back relax and Watch it Scream!</desc><category>Adrenaline + Sci-Fi</category><rating><value>NR</value></rating></programme>
 <programme start="20261110130000 +0000" stop="20261110140000 +0000" channel="6a1610bebdf296985fd95603-621671d05abdd3d5556a1baf"><title>Watch it SCREAM</title><desc>The most terrifying visions in horror, curated from festivals around the world, sit back relax and Watch it Scream!</desc><category>Adrenaline + Sci-Fi</category><rating><value>NR</value></rating></programme>
 <programme start="20261110140000 +0000" stop="20261110150000 +0000" channel="6a1610bebdf296985fd95603-621671d05abdd3d5556a1baf"><title>Watch it SCREAM</title><desc>The most terrifying visions in horror, curated from festivals around the world, sit back relax and Watch it Scream!</desc><category>Adrenaline + Sci-Fi</category><rating><value>NR</value></rating></programme>
-<programme start="20261109160000 +0000" stop="20261109170000 +0000" channel="6a1610bebdf296985fd95603-621674502c2627c068e73ada"><title>FrightFlix</title><desc>Cult Horror, Sci-Fi and Grindhouse features that deliver shivers!</desc><category>Adrenaline + Sci-Fi</category><rating><value>NR</value></rating></programme>
 <programme start="20261109170000 +0000" stop="20261109180000 +0000" channel="6a1610bebdf296985fd95603-621674502c2627c068e73ada"><title>FrightFlix</title><desc>Cult Horror, Sci-Fi and Grindhouse features that deliver shivers!</desc><category>Adrenaline + Sci-Fi</category><rating><value>NR</value></rating></programme>
 <programme start="20261109180000 +0000" stop="20261109190000 +0000" channel="6a1610bebdf296985fd95603-621674502c2627c068e73ada"><title>FrightFlix</title><desc>Cult Horror, Sci-Fi and Grindhouse features that deliver shivers!</desc><category>Adrenaline + Sci-Fi</category><rating><value>NR</value></rating></programme>
 <programme start="20261109190000 +0000" stop="20261109200000 +0000" channel="6a1610bebdf296985fd95603-621674502c2627c068e73ada"><title>FrightFlix</title><desc>Cult Horror, Sci-Fi and Grindhouse features that deliver shivers!</desc><category>Adrenaline + Sci-Fi</category><rating><value>NR</value></rating></programme>
@@ -23934,7 +23772,6 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
 <programme start="20261110060000 +0000" stop="20261110090000 +0000" channel="6a1610bebdf296985fd95603-636d46934ea1109a7d205a55"><title>To Be Announced (2026)</title><desc>Program information is not yet available</desc><category>Movies</category><rating><value>NR</value></rating></programme>
 <programme start="20261110090000 +0000" stop="20261110120000 +0000" channel="6a1610bebdf296985fd95603-636d46934ea1109a7d205a55"><title>To Be Announced (2026)</title><desc>Program information is not yet available</desc><category>Movies</category><rating><value>NR</value></rating></programme>
 <programme start="20261110120000 +0000" stop="20261110150000 +0000" channel="6a1610bebdf296985fd95603-636d46934ea1109a7d205a55"><title>To Be Announced (2026)</title><desc>Program information is not yet available</desc><category>Movies</category><rating><value>NR</value></rating></programme>
-<programme start="20261109163424 +0000" stop="20261109170001 +0000" channel="6a1610bebdf296985fd95603-63c97410187b3c9f3581fdf4"><title>Taking the Stand</title><sub-title>Claudia Hoerig</sub-title><desc>Woman shoots pilot husband, flees to Brazil, ignites extradition battle.</desc><category>Crime</category><episode-num system="onscreen">S1E13</episode-num><episode-num system="xmltv_ns">0.12.</episode-num><rating><value>TV-14</value></rating></programme>
 <programme start="20261109170001 +0000" stop="20261109175122 +0000" channel="6a1610bebdf296985fd95603-63c97410187b3c9f3581fdf4"><title>Taking the Stand</title><sub-title>Steven Jones</sub-title><desc>Steven Jones shoots four fellow students, injuring three and killing one.</desc><category>Crime</category><episode-num system="onscreen">S4E7</episode-num><episode-num system="xmltv_ns">3.6.</episode-num><rating><value>TV-14</value></rating></programme>
 <programme start="20261109175122 +0000" stop="20261109184242 +0000" channel="6a1610bebdf296985fd95603-63c97410187b3c9f3581fdf4"><title>Taking the Stand</title><sub-title>Lori Phillips</sub-title><desc>Will Lori's story of fear and abuse be enough to sway the jury?</desc><category>Crime</category><episode-num system="onscreen">S4E4</episode-num><episode-num system="xmltv_ns">3.3.</episode-num><rating><value>TV-14</value></rating></programme>
 <programme start="20261109184242 +0000" stop="20261109193208 +0000" channel="6a1610bebdf296985fd95603-63c97410187b3c9f3581fdf4"><title>Taking the Stand</title><sub-title>Katie Magbanua</sub-title><desc>A beloved college professor is executed in Tallahassee, Florida.</desc><category>Crime</category><episode-num system="onscreen">S1E12</episode-num><episode-num system="xmltv_ns">0.11.</episode-num><rating><value>TV-14</value></rating></programme>
@@ -23967,7 +23804,6 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
 <programme start="20261110124330 +0000" stop="20261110133505 +0000" channel="6a1610bebdf296985fd95603-63c97410187b3c9f3581fdf4"><title>Murder in the 21st</title><sub-title>Beneath the Surface</sub-title><desc>A vibrant, 15-year-old girl goes missing in a small town.</desc><category>Crime</category><episode-num system="onscreen">S1E10</episode-num><episode-num system="xmltv_ns">0.9.</episode-num><rating><value>TV-14</value></rating></programme>
 <programme start="20261110133505 +0000" stop="20261110142641 +0000" channel="6a1610bebdf296985fd95603-63c97410187b3c9f3581fdf4"><title>Murder in the 21st</title><sub-title>Vigilante Justice</sub-title><desc>When a 19-year-old goes missing, her family kicks into high gear to find her.</desc><category>Crime</category><episode-num system="onscreen">S1E2</episode-num><episode-num system="xmltv_ns">0.1.</episode-num><rating><value>TV-14</value></rating></programme>
 <programme start="20261110142641 +0000" stop="20261110151816 +0000" channel="6a1610bebdf296985fd95603-63c97410187b3c9f3581fdf4"><title>Murder in the 21st</title><sub-title>In Plain Sight</sub-title><desc>A horrific quadruple homicide goes unsolved for over a decade.</desc><category>Crime</category><episode-num system="onscreen">S1E5</episode-num><episode-num system="xmltv_ns">0.4.</episode-num><rating><value>TV-14</value></rating></programme>
-<programme start="20261109151000 +0000" stop="20261109170000 +0000" channel="6a1610bebdf296985fd95603-641db53c2f7a0fca29488c99"><title>Little Dead Rotting Hood (2016)</title><desc>The residents of a small town realize that something is killing wolves and people in the woods.</desc><category>Horror</category><category>Movies</category><category>Thriller</category><rating><value>NR</value></rating></programme>
 <programme start="20261109170000 +0000" stop="20261109192000 +0000" channel="6a1610bebdf296985fd95603-641db53c2f7a0fca29488c99"><title>The Girl Who Got Away (2021)</title><desc>A female serial killer who killed four young girls is sent away to prison, but a fifth victim escaped with her life. Twenty years later, the killer escapes and begins hunting for the one who got away.</desc><category>Horror</category><category>Thriller</category><category>Movies</category><category>Adrenaline + Sci-Fi</category><rating><value>NR</value></rating></programme>
 <programme start="20261109192000 +0000" stop="20261109205500 +0000" channel="6a1610bebdf296985fd95603-641db53c2f7a0fca29488c99"><title>The Slumber Party Massacre (1982)</title><desc>Someone with a power drill shows up uninvited to Trish's (Michele Michaels) high-school pajama party.</desc><category>Horror</category><category>Movies</category><category>Adrenaline + Sci-Fi</category><rating><value>NR</value></rating></programme>
 <programme start="20261109205500 +0000" stop="20261109230000 +0000" channel="6a1610bebdf296985fd95603-641db53c2f7a0fca29488c99"><title>Auntie Lee's Meat Pies (1992)</title><desc>A devil-worshiping woman sends out her four beautiful nieces to find young men, who are lured back to her place so they can be killed, ground up, and sold as meat pies.</desc><category>Comedy</category><category>Fantasy</category><category>Horror</category><category>Movies</category><category>Adrenaline + Sci-Fi</category><rating><value>NR</value></rating></programme>
@@ -24157,7 +23993,6 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
 <programme start="20261110122347 +0000" stop="20261110132856 +0000" channel="6a1610bebdf296985fd95603-67cbd471cc5136329877e098"><title>The New Detectives</title><sub-title>Deadly Chemistry</sub-title><desc>Developing new techniques to capture killers who use poisons.</desc><category>Crime</category><episode-num system="onscreen">S1E3</episode-num><episode-num system="xmltv_ns">0.2.</episode-num><rating><value>TV-PG</value></rating></programme>
 <programme start="20261110132856 +0000" stop="20261110143752 +0000" channel="6a1610bebdf296985fd95603-67cbd471cc5136329877e098"><title>The New Detectives</title><sub-title>Mind Hunters</sub-title><desc>Journey into the dark recesses and calculated madness present in the minds of serial killers.</desc><category>Crime</category><episode-num system="onscreen">S2E1</episode-num><episode-num system="xmltv_ns">1.0.</episode-num><rating><value>TV-PG</value></rating></programme>
 <programme start="20261110143752 +0000" stop="20261110154302 +0000" channel="6a1610bebdf296985fd95603-67cbd471cc5136329877e098"><title>The New Detectives</title><sub-title>Camera Clues</sub-title><desc>Forensic photographers are among the first people at a crime scene, capturing vital clues on film.</desc><category>Crime</category><episode-num system="onscreen">S2E2</episode-num><episode-num system="xmltv_ns">1.1.</episode-num><rating><value>TV-PG</value></rating></programme>
-<programme start="20261109163208 +0000" stop="20261109170038 +0000" channel="6a1610bebdf296985fd95603-68db6a852be6c4ceb7947b9a"><title>Kim's Convenience</title><sub-title>New TV</sub-title><desc>Kimchee tries to keep his new girlfriend from meeting Jung. Janet speaks her mind in class.</desc><category>Comedy</category><episode-num system="onscreen">S2E9</episode-num><episode-num system="xmltv_ns">1.8.</episode-num><rating><value>TV-14</value></rating></programme>
 <programme start="20261109170038 +0000" stop="20261109172909 +0000" channel="6a1610bebdf296985fd95603-68db6a852be6c4ceb7947b9a"><title>Kim's Convenience</title><sub-title>Janet's Boyfriend</sub-title><desc>Janet struggles to keep her parents from learning about her relationship with Raj.</desc><category>Comedy</category><episode-num system="onscreen">S2E10</episode-num><episode-num system="xmltv_ns">1.9.</episode-num><rating><value>TV-14</value></rating></programme>
 <programme start="20261109172909 +0000" stop="20261109175739 +0000" channel="6a1610bebdf296985fd95603-68db6a852be6c4ceb7947b9a"><title>Kim's Convenience</title><sub-title>Good Neighbours</sub-title><desc>Kim's Convenience gets a noisy new neighbor. Jung becomes smitten with a new co-worker.</desc><category>Comedy</category><episode-num system="onscreen">S2E11</episode-num><episode-num system="xmltv_ns">1.10.</episode-num><rating><value>TV-14</value></rating></programme>
 <programme start="20261109175739 +0000" stop="20261109182609 +0000" channel="6a1610bebdf296985fd95603-68db6a852be6c4ceb7947b9a"><title>Kim's Convenience</title><sub-title>Handy Graduation</sub-title><desc>At a party to celebrate getting his GED, Jung can't ignore his feelings for Shannon.</desc><category>Comedy</category><episode-num system="onscreen">S2E13</episode-num><episode-num system="xmltv_ns">1.12.</episode-num><rating><value>TV-14</value></rating></programme>
@@ -24184,7 +24019,6 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
 <programme start="20261110132328 +0000" stop="20261110135203 +0000" channel="6a1610bebdf296985fd95603-68db6a852be6c4ceb7947b9a"><title>Above Average Presents</title><sub-title>They've Never Had a Picture Where They're all Smiling</sub-title><desc>The age-old middle class male struggle; how to prepare for a blizzard; application for parenthood.</desc><category>Comedy</category><episode-num system="onscreen">S6E12</episode-num><episode-num system="xmltv_ns">5.11.</episode-num><rating><value>TV-14</value></rating></programme>
 <programme start="20261110135203 +0000" stop="20261110142121 +0000" channel="6a1610bebdf296985fd95603-68db6a852be6c4ceb7947b9a"><title>Above Average Presents</title><sub-title>Maybe You Need a Break, Some Exercise</sub-title><desc>Ingrid Michaelson gets advice. A family-friendly coffee commercial. Storytime with Jonathan Ames.</desc><category>Comedy</category><episode-num system="onscreen">S6E8</episode-num><episode-num system="xmltv_ns">5.7.</episode-num><rating><value>TV-14</value></rating></programme>
 <programme start="20261110142121 +0000" stop="20261110145112 +0000" channel="6a1610bebdf296985fd95603-68db6a852be6c4ceb7947b9a"><title>The Kids in the Hall</title><sub-title>Kids In The Hall 419</sub-title><desc>Sketches: Atrium, People: Winnipeg Chick, Art Studio, People: Hopeless Romantic, Surrogate.</desc><category>Comedy</category><episode-num system="onscreen">S4E19</episode-num><episode-num system="xmltv_ns">3.18.</episode-num><rating><value>TV-14</value></rating></programme>
-<programme start="20261109160722 +0000" stop="20261109165711 +0000" channel="6a1610bebdf296985fd95603-6aa77752fc710687a8b4db43"><title>Saving Hope</title><sub-title>The Heartbreak Kid</sub-title><desc>Alex and Charlie try to find their rhythm when teaming up on a teenage girl’s double_surgery.</desc><category>Bingeworthy</category><episode-num system="onscreen">S3E8</episode-num><episode-num system="xmltv_ns">2.7.</episode-num><rating><value>TV-14</value></rating></programme>
 <programme start="20261109165711 +0000" stop="20261109174701 +0000" channel="6a1610bebdf296985fd95603-6aa77752fc710687a8b4db43"><title>Saving Hope</title><sub-title>The Other Side of Midnight</sub-title><desc>Alex and Joel’s relationship is tested during a marathon surgery of an injured race car driver.</desc><category>Bingeworthy</category><episode-num system="onscreen">S3E9</episode-num><episode-num system="xmltv_ns">2.8.</episode-num><rating><value>TV-14</value></rating></programme>
 <programme start="20261109174701 +0000" stop="20261109183650 +0000" channel="6a1610bebdf296985fd95603-6aa77752fc710687a8b4db43"><title>Saving Hope</title><sub-title>Days of Heaven</sub-title><desc>Celebrated neurosurgeon Thor MacLeod gives Alex an offer; Charlie deals with a fatigued spirit.</desc><category>Bingeworthy</category><episode-num system="onscreen">S3E10</episode-num><episode-num system="xmltv_ns">2.9.</episode-num><rating><value>TV-14</value></rating></programme>
 <programme start="20261109183650 +0000" stop="20261109192640 +0000" channel="6a1610bebdf296985fd95603-6aa77752fc710687a8b4db43"><title>Saving Hope</title><sub-title>The Parent Trap</sub-title><desc>Charlie plays referee while treating two aggressive female MMA fighters.</desc><category>Bingeworthy</category><episode-num system="onscreen">S3E11</episode-num><episode-num system="xmltv_ns">2.10.</episode-num><rating><value>TV-14</value></rating></programme>
@@ -24210,18 +24044,6 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
 <programme start="20261110131107 +0000" stop="20261110135955 +0000" channel="6a1610bebdf296985fd95603-6aa77752fc710687a8b4db43"><title>Rookie Blue</title><sub-title>Perfect Family</sub-title><desc>Andy debates her future with Sam after learning the heart-breaking news that Marlo is pregnant with his baby.</desc><category>Bingeworthy</category><episode-num system="onscreen">S5E13</episode-num><episode-num system="xmltv_ns">4.12.</episode-num><rating><value>TV-14</value></rating></programme>
 <programme start="20261110135955 +0000" stop="20261110144843 +0000" channel="6a1610bebdf296985fd95603-6aa77752fc710687a8b4db43"><title>Rookie Blue</title><sub-title>Uprising</sub-title><desc>A riot breaks out at a women’s prison while Andy, Juliet, Nick, and Gail are there to transfer prisoners.</desc><category>Bingeworthy</category><episode-num system="onscreen">S5E14</episode-num><episode-num system="xmltv_ns">4.13.</episode-num><rating><value>TV-14</value></rating></programme>
 <programme start="20261110144843 +0000" stop="20261110153746 +0000" channel="6a1610bebdf296985fd95603-6aa77752fc710687a8b4db43"><title>Rookie Blue</title><sub-title>Letting Go</sub-title><desc>Nick’s estranged older brother emerges with new information on someone from their tragic past.</desc><category>Bingeworthy</category><episode-num system="onscreen">S5E15</episode-num><episode-num system="xmltv_ns">4.14.</episode-num><rating><value>TV-14</value></rating></programme>
-<programme start="20261109164956 +0000" stop="20261109170402 +0000" channel="aqua-teen-hunger-force">
-    <title lang="en">Aqua Teen Hunger Force</title>
-    <sub-title lang="en">Juggalo</sub-title>
-    <desc lang="en">When a vengeful angel makes him pay for his misdeeds, Shake looks to the forces of darkness for help.</desc>
-    <category lang="en">Comedy</category>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-    <icon src="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_2022595949-athf_098_BIM.jpg"/>
-    <episode-num system="xmltv_ns">6.7.0/1</episode-num>
-    <date>20100405</date>
-  </programme>
 <programme start="20261109170402 +0000" stop="20261109171813 +0000" channel="aqua-teen-hunger-force">
     <title lang="en">Aqua Teen Hunger Force</title>
     <sub-title lang="en">Multiple Meat</sub-title>
@@ -25738,18 +25560,6 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
     <icon src="https://media.cdn.adultswim.com/uploads/20190710/197101518217-channel5thumb.jpg"/>
     <episode-num system="xmltv_ns">0.7.0/1</episode-num>
   </programme>
-<programme start="20261109164845 +0000" stop="20261109170006 +0000" channel="check-it-out-with-dr-steve-brule">
-    <title lang="en">Check It Out! with Dr. Steve Brule</title>
-    <sub-title lang="en">Crime</sub-title>
-    <desc lang="en">Dr. Steven Brule investigates what crime is also if crime pays?</desc>
-    <category lang="en">Comedy</category>
-    <rating system="VCHIP">
-      <value>TV-14 L</value>
-    </rating>
-    <icon src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321621344-checkitout_406_dup-20160321.jpg"/>
-    <episode-num system="xmltv_ns">3.5.0/1</episode-num>
-    <date>20160730</date>
-  </programme>
 <programme start="20261109170006 +0000" stop="20261109171115 +0000" channel="check-it-out-with-dr-steve-brule">
     <title lang="en">Check It Out! with Dr. Steve Brule</title>
     <sub-title lang="en">Food</sub-title>
@@ -26729,18 +26539,6 @@ ABSurveillanceSolutions.com</desc>
     <icon src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15444645561822.jpg"/>
     <episode-num system="xmltv_ns">7.2.0/1</episode-num>
     <date>20181211</date>
-  </programme>
-<programme start="20261109163635 +0000" stop="20261109170356 +0000" channel="metalocalypse">
-    <title lang="en">Metalocalypse</title>
-    <sub-title lang="en">Tributeklok</sub-title>
-    <desc lang="en">Dethklok joins their own Dethklok tribute band as a last ditch effort to connect with their rock and roll roots.</desc>
-    <category lang="en">Comedy</category>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-    <icon src="https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311112823-metalocalypse_302_dst_cid-N5E2.jpg"/>
-    <episode-num system="xmltv_ns">2.1.0/1</episode-num>
-    <date>20091116</date>
   </programme>
 <programme start="20261109170356 +0000" stop="20261109173016 +0000" channel="metalocalypse">
     <title lang="en">Metalocalypse</title>
@@ -27966,18 +27764,6 @@ ABSurveillanceSolutions.com</desc>
     <icon src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_203121120505-mrpickles_202_dup-20160304.jpg"/>
     <episode-num system="xmltv_ns">1.1.0/1</episode-num>
     <date>20160425</date>
-  </programme>
-<programme start="20261109163645 +0000" stop="20261109170419 +0000" channel="primal">
-    <title lang="en">Genndy Tartakovsky's Primal</title>
-    <sub-title lang="en">Plague of Madness</sub-title>
-    <desc lang="en">A relentless dinosaur infected with a terrifying disease pursues Spear and Fang.</desc>
-    <category lang="en">Comedy</category>
-    <rating system="VCHIP">
-      <value>TV-MA V</value>
-    </rating>
-    <icon src="https://media.cdn.adultswim.com/uploads/20201006/thumbnails/2_201061139303-Primal_008_dup-20200417.jpg"/>
-    <episode-num system="xmltv_ns">0.6.0/1</episode-num>
-    <date>20200401</date>
   </programme>
 <programme start="20261109170419 +0000" stop="20261109173327 +0000" channel="primal">
     <title lang="en">Genndy Tartakovsky's Primal</title>
@@ -30514,12 +30300,6 @@ ABSurveillanceSolutions.com</desc>
     <episode-num system="xmltv_ns">0.4.0/1</episode-num>
     <date>20010828</date>
   </programme>
-<programme start="20261109164754 +0000" stop="20261109165915 +0000" channel="squidbillies">
-    <title lang="en">Squidbillies</title>
-    <sub-title lang="en">Appalachian Mud Squid, The: Darwin's Dilemma</sub-title>
-    <category lang="en">Comedy</category>
-    <icon src="https://media.cdn.adultswim.com/uploads/20211107/21117198155-SquidbilliesMetaThumb420x236.png"/>
-  </programme>
 <programme start="20261109165915 +0000" stop="20261109171036 +0000" channel="squidbillies">
     <title lang="en">Squidbillies</title>
     <sub-title lang="en">Unbearable Heatness of Fire, The</sub-title>
@@ -31899,18 +31679,6 @@ There's nothing like a party to stir up decades worth of sibling rivalries, bitt
     <icon src="https://i.cdn.turner.com/adultswim/big/img/2019/03/26/vbSearch.jpg"/>
     <episode-num system="xmltv_ns">6.7.0/1</episode-num>
   </programme>
-<programme start="20261109164505 +0000" stop="20261109165921 +0000" channel="your-pretty-face-is-going-to-hell">
-    <title lang="en">Your Pretty Face is Going to Hell</title>
-    <sub-title lang="en">Three Demons and a Demon Baby</sub-title>
-    <desc lang="en">Satan impregnates Gary, and Gary gives birth to an abomination.</desc>
-    <category lang="en">Comedy</category>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-    <icon src="https://i.cdn.turner.com/adultswim/big/video/three-demons-and-a-demon-baby/yourprettyface_304_NoAdsCue_dup-20161103.jpg"/>
-    <episode-num system="xmltv_ns">2.2.0/1</episode-num>
-    <date>20161107</date>
-  </programme>
 <programme start="20261109165921 +0000" stop="20261109171331 +0000" channel="your-pretty-face-is-going-to-hell">
     <title lang="en">Your Pretty Face is Going to Hell</title>
     <sub-title lang="en">Healy</sub-title>
@@ -32811,6 +32579,12 @@ There's nothing like a party to stir up decades worth of sibling rivalries, bitt
     <category lang="en">True Crime</category>
     <icon src="https://img.vidaahub.com/s3_bucket/60158/live/60158_d7437bba-11ff-4f29-9225-b5f2208a93ac_ec452eb36-17e5-4fb2-afca-e69ef74662c8_1794413332000/c24d5ea8dc2e10d80ba78616935923cb?f=webp&amp;resize=w_480,h_270"/>
   </programme>
+<programme start="20261111165854 +0000" stop="20261111174857 +0000" channel="10499">
+    <title lang="en">Million Dollar Ride</title>
+    <desc lang="en">HSI seizes counterfeit cash and vax cards. CBP pulls 205 kilos of meth out of one car.</desc>
+    <category lang="en">True Crime</category>
+    <icon src="https://img.vidaahub.com/s3_bucket/60158/live/60158_d7437bba-11ff-4f29-9225-b5f2208a93ac_e4da522c6-4fe3-4cd4-98a0-25e551353464_1794416334000/c24d5ea8dc2e10d80ba78616935923cb?f=webp&amp;resize=w_480,h_270"/>
+  </programme>
 <programme start="20261109161535 +0000" stop="20261109170807 +0000" channel="10506">
     <title lang="en">Delhi</title>
     <desc lang="en">Dream adventures turn into hellish nightmares for the travelers featured in this series, which recounts through first-hand interviews and re-enactments their experiences of being arrested in a foreign country for drug smuggling, and how they coped with the resulting lengthy prison terms.</desc>
@@ -33152,6 +32926,12 @@ There's nothing like a party to stir up decades worth of sibling rivalries, bitt
     <desc lang="en">Dream adventures turn into hellish nightmares for the travelers featured in this series, which recounts through first-hand interviews and re-enactments their experiences of being arrested in a foreign country for drug smuggling, and how they coped with the resulting lengthy prison terms.</desc>
     <category lang="en">True Crime</category>
     <icon src="https://img.vidaahub.com/s3_bucket/60158/live/60158_904244fb-31cc-4dbb-8dbc-6d4c1223cd58_e2d97d342-748a-40a1-8bcc-4bc4590f9547_1794413541000/4e5def6dddde022f77367d6aed08e29e?f=webp&amp;resize=w_480,h_270"/>
+  </programme>
+<programme start="20261111170351 +0000" stop="20261111175423 +0000" channel="10506">
+    <title lang="en">Love Behind Bars</title>
+    <desc lang="en">Dream adventures turn into hellish nightmares for the travelers featured in this series, which recounts through first-hand interviews and re-enactments their experiences of being arrested in a foreign country for drug smuggling, and how they coped with the resulting lengthy prison terms.</desc>
+    <category lang="en">True Crime</category>
+    <icon src="https://img.vidaahub.com/s3_bucket/60158/live/60158_904244fb-31cc-4dbb-8dbc-6d4c1223cd58_ec90c16d4-c89f-42bf-bde5-a03cb4966a0e_1794416631000/4e5def6dddde022f77367d6aed08e29e?f=webp&amp;resize=w_480,h_270"/>
   </programme>
 <programme start="20261109164903 +0000" stop="20261109174303 +0000" channel="10517">
     <title lang="en">Double Abandando</title>
@@ -33627,6 +33407,12 @@ There's nothing like a party to stir up decades worth of sibling rivalries, bitt
     <category lang="en">Movies</category>
     <icon src="https://img.vidaahub.com/s3_bucket/60010/live/60010_2559205127/3150a41c030a470ffbb919889c373eef?f=webp&amp;resize=w_480,h_270"/>
   </programme>
+<programme start="20261111170316 +0000" stop="20261111184526 +0000" channel="8020">
+    <title lang="en">Hearts in Colombo</title>
+    <desc lang="en">When Rick surprises Shanaya by flying to Sri Lanka for Christmas, meeting her eccentric family leads to chaos, wild antics, and culture clash. Can their relationship survive the ultimate holiday test in this heartwarming Sri Lankan rom-com?</desc>
+    <category lang="en">Movies</category>
+    <icon src="https://img.vidaahub.com/s3_bucket/60010/live/60010_2559205129/43fe309a12c2c71905f6758d19d3b865?f=webp&amp;resize=w_480,h_270"/>
+  </programme>
 <programme start="20261109165344 +0000" stop="20261109184818 +0000" channel="8060">
     <title lang="en">Green Room</title>
     <desc lang="en">After witnessing a shocking crime, a young rock band is unexpectedly thrust into a life-or-death battle to escape the clutches of a diabolical club owner (Patrick Stewart) and his ruthless henchmen in this white-knuckle thriller</desc>
@@ -33945,6 +33731,12 @@ There's nothing like a party to stir up decades worth of sibling rivalries, bitt
     <category lang="en">Movies</category>
     <icon src="https://img.vidaahub.com/s3_bucket/60010/live/60010_2559205124/4b6c708bcb113bd0a03dc54be5bd3995?f=webp&amp;resize=w_480,h_270"/>
   </programme>
+<programme start="20261111170000 +0000" stop="20261111185000 +0000" channel="8090">
+    <title lang="en">Kill Code</title>
+    <desc lang="en">In an AI-ruled future where code decides who lives and dies, one cyber agent uncovers the truth - and only she can rewrite the law.</desc>
+    <category lang="en">Movies</category>
+    <icon src="https://img.vidaahub.com/s3_bucket/60010/live/60010_2559205126/d8a6ddd1ff0b36ed22de0d355044d9ae?f=webp&amp;resize=w_480,h_270"/>
+  </programme>
 <programme start="20261109163352 +0000" stop="20261109184719 +0000" channel="8096">
     <title lang="en">The Assessment</title>
     <desc lang="en">In a not-so-distant future where parenthood is strictly controlled, a couple's mysterious seven-day assessment for the right to have a child unravels into a nightmare, forcing them to question the very foundations of society.</desc>
@@ -34100,12 +33892,6 @@ There's nothing like a party to stir up decades worth of sibling rivalries, bitt
     <desc lang="en">In a society ruled by genetically enhanced elites, outcasts Leon (Tom Felton) and Chloe fight to expose corruption and challenge a system built on genetic disparity. Directed by Timo Vuorensola (Iron Sky), Altered is a gripping sci-fi thriller of resistance, justice, and survival.</desc>
     <category lang="en">Movies</category>
     <icon src="https://img.vidaahub.com/s3_bucket/60010/live/60010_2559205152/297b58edbd010746565cfb2e4c96979b?f=webp&amp;resize=w_480,h_270"/>
-  </programme>
-<programme start="20261109163930 +0000" stop="20261109170300 +0000" channel="9214">
-    <title lang="en">Murderous Affairs</title>
-    <desc lang="en">In Kansas City, Missouri, a married woman falls for a street hustler and pays a devastating price. In Castlerock, Northern Ireland, a married dentist falls for a patient, and comes up with an unusual treatment plan to secure a fresh start.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://img.vidaahub.com/s3_bucket/60010/live/60010_2568223279/17f7b922f6a0b017c4d3713cacf3d69f?f=webp&amp;resize=w_480,h_270"/>
   </programme>
 <programme start="20261109170300 +0000" stop="20261109172630 +0000" channel="9214">
     <title lang="en">Murderous Affairs</title>
@@ -35013,9 +34799,6 @@ There's nothing like a party to stir up decades worth of sibling rivalries, bitt
 <programme start="20261110192440 +0000" stop="20261110210951 +0000" channel="whale.1034986045911343818">
     <title lang="en">Holy Island</title>
   </programme>
-<programme start="20261109151803 +0000" stop="20261109170000 +0000" channel="whale.1088385876566278483">
-    <title lang="en">Our Inlaws</title>
-  </programme>
 <programme start="20261109170000 +0000" stop="20261109182511 +0000" channel="whale.1088385876566278483">
     <title lang="en">Slow Death</title>
   </programme>
@@ -35292,9 +35075,6 @@ There's nothing like a party to stir up decades worth of sibling rivalries, bitt
 <programme start="20261111161601 +0000" stop="20261111171531 +0000" channel="whale.609411515976060398">
     <title lang="en">Stella &amp; Co</title>
   </programme>
-<programme start="20261109160000 +0000" stop="20261109170000 +0000" channel="whale.643123720684571896">
-    <title lang="en">Movie Mania</title>
-  </programme>
 <programme start="20261109170000 +0000" stop="20261109180000 +0000" channel="whale.643123720684571896">
     <title lang="en">Movie Mania</title>
   </programme>
@@ -35437,6 +35217,9 @@ There's nothing like a party to stir up decades worth of sibling rivalries, bitt
     <title lang="en">Movie Mania</title>
   </programme>
 <programme start="20261111160000 +0000" stop="20261111170000 +0000" channel="whale.643123720684571896">
+    <title lang="en">Movie Mania</title>
+  </programme>
+<programme start="20261111170000 +0000" stop="20261111180000 +0000" channel="whale.643123720684571896">
     <title lang="en">Movie Mania</title>
   </programme>
 <programme start="20261109165010 +0000" stop="20261109172020 +0000" channel="whale.672540845069111078">
@@ -35778,28 +35561,6 @@ There's nothing like a party to stir up decades worth of sibling rivalries, bitt
     <episode-num system="xmltv_ns">4.0.</episode-num>
     <rating>
       <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261109160743 +0000" stop="20261109165917 +0000" channel="vizio.93131">
-    <title lang="en">I (Almost) Got Away With It</title>
-    <sub-title lang="en">Got Caught Via Email</sub-title>
-    <desc lang="en">Three inmates break out of a Florida jail through the plumbing.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%20113034402,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E04</episode-num>
-    <episode-num system="xmltv_ns">1.3.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261109160000 +0000" stop="20261109170000 +0000" channel="vizio.93ELENO">
-    <title lang="en">Almost Paradise</title>
-    <sub-title lang="en">Lone Wolf</sub-title>
-    <desc lang="en">Alex must figure out who is really behind the crime before it's too late.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205168436558,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <rating>
-      <value>TV-PG</value>
     </rating>
   </programme>
 <programme start="20261109155625 +0000" stop="20261109174124 +0000" channel="vizio.93VZAMCA">
