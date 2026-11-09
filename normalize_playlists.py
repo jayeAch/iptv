@@ -198,11 +198,13 @@ _CANONICAL_MAP: dict[str, str] = {
     'horror & sci-fi': 'Sci-Fi',
     'sci-fi + fantasy': 'Sci-Fi',
     'sci-fi & supernatural': 'Sci-Fi',
+    'sci-fi & horror': 'Sci-Fi',
     'science fiction': 'Sci-Fi',
     'movie channels': 'Movies',
     'business': 'News',
     'local channels': 'Local News',
     'local news': 'Local News',
+    'food & travel': 'Travel',
 }
 
 _CANONICAL_LOWER: dict[str, str] = {}
