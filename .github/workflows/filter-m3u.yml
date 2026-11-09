@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     inputs:
       force_rebuild:
-        description: "Force full rebuild (clear output/ and ignore caches)"
+        description: "Force full rebuild (delete output/ and playlists/ first)"
         type: boolean
         default: false
   push:
@@ -45,12 +45,12 @@ jobs:
       - name: Install dependencies
         run: pip install lxml
 
-      - name: Force rebuild - clear generated output
+      - name: Force rebuild - delete output and playlists
         if: ${{ inputs.force_rebuild }}
         run: |
           echo "Force rebuild requested"
-          rm -rf output
-          mkdir -p output
+          rm -rf output playlists
+          mkdir -p output playlists
 
       - name: Filter M3U playlists
         id: m3u
