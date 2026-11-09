@@ -76,8 +76,6 @@ _CANONICAL_MAP: dict[str, str] = {
     'anime': 'Anime & Gaming',
     'science': 'Documentary',
     'history': 'Documentary',
-    'sci-fi': 'Sci-Fi & Horror',
-    'horror': 'Sci-Fi & Horror',
     'food': 'Food & Travel',
     'travel': 'Food & Travel',
     'ambiance': 'Ambiance',
