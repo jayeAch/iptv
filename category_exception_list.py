@@ -6,7 +6,6 @@ CATEGORY_EXCEPTION_LIST = [
     "WMBF Myrtle Beach, Florence SC",
     "WPDE ABC 15 News Myrtle Beach, SC",
     "WFXB Myrtle Beach SC (FOX)",
-    "Very Maine by WMTW",
     "Scream Factory TV",
     "Screambox TV",
 ]
