@@ -3,6 +3,9 @@
 # each channel's category -- unlike exclude_list.py's channel-name substring
 # matching.
 CATEGORY_EXCLUDE_LIST = [
+    "WMBF Myrtle Beach, Florence SC",
+    "WPDE ABC 15 News Myrtle Beach, SC",
+    "WFXB Myrtle Beach SC (FOX)",
     "Music & Ambient",
     "Science",
     "Western",
