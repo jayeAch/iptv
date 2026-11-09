@@ -14,6 +14,8 @@ on:
       - "filter_epg.py"
       - "dedupe_m3u.py"
       - "prune_playlists.py"
+      - "normalize_playlists.py"
+      - "category_utils.py"
 
 permissions:
   contents: write
@@ -54,12 +56,20 @@ jobs:
         continue-on-error: true
         run: python dedupe_m3u.py
 
-      - name: Commit filtered playlists
+      - name: Move files to playlists directory
         if: ${{ !cancelled() }}
         run: |
           mkdir -p playlists
           cp output/*.m3u playlists/ 2>/dev/null || true
           cp output/*.xml playlists/ 2>/dev/null || true
+
+      - name: Normalize categories
+        if: ${{ !cancelled() }}
+        run: python normalize_playlists.py --epg 
+
+      - name: Commit filtered playlists
+        if: ${{ !cancelled() }}
+        run: |
           python prune_playlists.py
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -76,9 +86,6 @@ jobs:
             echo "Push failed after 3 attempts" >&2
             exit 1
           fi
-
-      - name: Normalize categories
-        run: python normalize_playlists.py --epg 
 
       - name: Fail job if any filter step failed
         if: ${{ steps.m3u.outcome == 'failure' || steps.epg.outcome == 'failure' || steps.dedupe.outcome == 'failure' }}
