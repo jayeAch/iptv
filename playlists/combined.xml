@@ -955,6 +955,10 @@
     <display-name>Pluto TV Fantastic</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300017PK_20261002T181921SQUARE.png"/>
   </channel>
+<channel id="US18000163F">
+    <display-name>Miramax Movie Channel</display-name>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US18000163F_20261009T160639SQUARE.png"/>
+  </channel>
 <channel id="US300068X7">
     <display-name>Samsung Television Network</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300068X7_20261103T171625SQUARE.png"/>
@@ -24586,7 +24590,6 @@ Director: Wes Craven</desc>
 <programme start="20261110010000 +0000" stop="20261110023000 +0000" channel="6a1610bebdf296985fd95603-5ef4e1b40d9ad000423c4427"><title>Gorgo: Ultimate Collector's Edition (1961)</title><desc>A 250-foot monster wrecks London landmarks to free her baby, found by seamen (Bill Travers, William Sylvester) and put in a circus.</desc><category>Science fiction</category><category>Movies</category><rating><value>NR</value></rating></programme>
 <programme start="20261110023000 +0000" stop="20261110034900 +0000" channel="6a1610bebdf296985fd95603-5ef4e1b40d9ad000423c4427"><title>Kaiju Glam Metal Shark Attack (2024)</title><desc>An accident from space has resulted in the creation of a Kaiju shark man! The wanton destruction has a pair of glam rock loving music fans worried that the concert they have been waiting the whole year for will be cancelled.</desc><category>Science fiction</category><category>Movies</category><rating><value>NR</value></rating></programme>
 <programme start="20261110034900 +0000" stop="20261110050000 +0000" channel="6a1610bebdf296985fd95603-5ef4e1b40d9ad000423c4427"><title>The Great Buddha Arrival (2020)</title><desc>A gigantic statue of Buddha awakens and goes on a trek across Japan while the world watches in awe.</desc><category>Action</category><category>Movies</category><category>Adrenaline + Sci-Fi</category><rating><value>NR</value></rating></programme>
-<programme start="20261109043000 +0000" stop="20261109051900 +0000" channel="6a1610bebdf296985fd95603-5fc705eb052f6f002ef46057"><title>The Making of the Mob: New York</title><sub-title>New Frontiers</sub-title><desc>Luciano takes over Vito Genovese's heroin ring in Italy; Genovese and Gambino plot against mob leadership.</desc><category>Docudrama</category><category>History</category><category>Bingeworthy</category><category>Explore</category><episode-num system="onscreen">S1E7</episode-num><episode-num system="xmltv_ns">0.6.</episode-num><rating><value>NR</value></rating></programme>
 <programme start="20261109051900 +0000" stop="20261109060800 +0000" channel="6a1610bebdf296985fd95603-5fc705eb052f6f002ef46057"><title>The Making of the Mob: New York</title><sub-title>End Game</sub-title><desc>Vito Genovese and Carlo Gambino make their move; when Genovese becomes a liability, Luciano must choose his successor.</desc><category>Docudrama</category><category>History</category><category>Bingeworthy</category><category>Explore</category><episode-num system="onscreen">S1E8</episode-num><episode-num system="xmltv_ns">0.7.</episode-num><rating><value>NR</value></rating></programme>
 <programme start="20261109060800 +0000" stop="20261109080900 +0000" channel="6a1610bebdf296985fd95603-5fc705eb052f6f002ef46057"><title>Citizen Gangster (2011)</title><desc>Unable to support his family on a bus driver's salary, World War II veteran Edwin Boyd finds a way to combine his love of acting and his need for money by robbing banks.</desc><category>Biography</category><category>Crime drama</category><category>Movies</category><category>Explore</category><category>Crime</category><rating><value>NR</value></rating></programme>
 <programme start="20261109080900 +0000" stop="20261109101600 +0000" channel="6a1610bebdf296985fd95603-5fc705eb052f6f002ef46057"><title>Nitram (2021)</title><desc>Living a life of isolation and frustration, a young man develops an unexpected friendship with a reclusive heiress. When that relationship meets its tragic end, his loneliness and anger culminates into the most nihilistic and heinous of acts.</desc><category>Thriller</category><category>Crime drama</category><category>Movies</category><category>Adrenaline + Sci-Fi</category><category>Crime</category><rating><value>NR</value></rating></programme>
@@ -42325,6 +42328,33 @@ There's nothing like a party to stir up decades worth of sibling rivalries, bitt
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352135A_3328550330_0_20260813T235443322Z_71_imageprocessorclient-tvplus-linear-9468c5484-vh9tv.jpeg"/>
     <rating>
       <value>PG-13</value>
+    </rating>
+  </programme>
+<programme channel="US18000163F" start="20261109051900 +0000" stop="20261109071700 +0000">
+    <title>Universal Soldier</title>
+    <desc>During the Vietnam War, soldier Luc Deveraux (Jean-Claude Van Damme) finds that his superior officer, Andrew Scott (Dolph Lundgren), has turned violently deranged, and the two fight to the death. After their bodies are retrieved, they are placed into a secret program in which they are reanimated and trained to become unquestioning killing machines. While Deveraux and Scott initially have no memory of their former lives, glimpses of their pasts start to return, rekindling their intense conflict.</desc>
+    <category lang="en">Movies</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1822991432_0_20250812T152409128Z_1_imageprocessorclient-tvplus-linear-d7c8c765b-t9c8d.jpeg"/>
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+<programme channel="US18000163F" start="20261109071700 +0000" stop="20261109090400 +0000">
+    <title>Escape From Alcatraz</title>
+    <desc>Frank Morris (Clint Eastwood), a hardened con with a history of prison breaks, is sent to serve the rest of his life sentence at Alcatraz -- America's most infamously brutal and inescapable maximum security prison. Morris quickly realizes the prison's dehumanizing effects and clashes with its cruel warden (Patrick McGoohan). Fed up with life at Alcatraz, Morris and two convict brothers (Fred Ward, Jack Thibeau) meticulously plan the unthinkable: an escape from the island.</desc>
+    <category lang="en">Movies</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2961110935_0_20260524T022639279Z_149_imageprocessorclient-tvplus-linear-75df688c49-frrgg.jpeg"/>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+<programme channel="US18000163F" start="20261109090400 +0000" stop="20261109105000 +0000">
+    <title>The Hunted</title>
+    <desc>After its boat capsizes, a group of migrants is rescued by rich Europeans who offer shelter on the island where they are vacationing. The miracle becomes a nightmare when the saviors reveal their true plan and turn into ruthless man hunters.</desc>
+    <category lang="en">Movies</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1558691208_0_20250624T003656814Z_54_imageprocessorclient-tvplus-linear-95576dcd4-qc858.jpeg"/>
+    <rating>
+      <value>R</value>
     </rating>
   </programme>
 <programme channel="US300068X7" start="20261109051751 +0000" stop="20261109061037 +0000">
