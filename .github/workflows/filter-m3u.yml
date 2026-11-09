@@ -54,9 +54,6 @@ jobs:
         continue-on-error: true
         run: python dedupe_m3u.py
 
-      - name: Normalize categories
-        run: python normalize_playlists.py --epg 
-
       - name: Commit filtered playlists
         if: ${{ !cancelled() }}
         run: |
@@ -79,6 +76,9 @@ jobs:
             echo "Push failed after 3 attempts" >&2
             exit 1
           fi
+
+      - name: Normalize categories
+        run: python normalize_playlists.py --epg 
 
       - name: Fail job if any filter step failed
         if: ${{ steps.m3u.outcome == 'failure' || steps.epg.outcome == 'failure' || steps.dedupe.outcome == 'failure' }}
