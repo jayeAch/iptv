@@ -15,7 +15,6 @@ on:
       - "dedupe_m3u.py"
       - "prune_playlists.py"
       - "normalize_playlists.py"
-      - "category_utils.py"
 
 permissions:
   contents: write
