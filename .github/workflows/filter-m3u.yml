@@ -1,91 +1,59 @@
-name: Filter M3U Playlists
+  - name: Set up Python
+    uses: actions/setup-python@v5
+    with:
+      python-version: "3.12"
 
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch: {}
-  push:
-    paths:
-      - "m3u_urls.txt"
-      - "epg_urls.txt"
-      - "exclude_list.py"
-      - "category_exclude_list.py"
-      - "filter_m3u.py"
-      - "filter_epg.py"
-      - "dedupe_m3u.py"
-      - "prune_playlists.py"
-      - "normalize_playlists.py"
+  - name: Install dependencies
+    run: pip install lxml
 
-permissions:
-  contents: write
+  - name: Filter M3U playlists
+    id: m3u
+    continue-on-error: true
+    run: python filter_m3u.py
 
-concurrency:
-  group: playlists-push
-  cancel-in-progress: false
+  - name: Filter and merge EPG
+    id: epg
+    if: ${{ !cancelled() }}
+    continue-on-error: true
+    run: python filter_epg.py
 
-jobs:
-  filter:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+  - name: Remove duplicate channels from M3U lists
+    id: dedupe
+    if: ${{ !cancelled() }}
+    continue-on-error: true
+    run: python dedupe_m3u.py
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
+  - name: Move files to playlists directory
+    if: ${{ !cancelled() }}
+    run: |
+      mkdir -p playlists
+      cp output/*.m3u playlists/ 2>/dev/null || true
+      cp output/*.xml playlists/ 2>/dev/null || true
 
-      - name: Install dependencies
-        run: pip install lxml
+  - name: Normalize categories
+    if: ${{ !cancelled() }}
+    run: python normalize_playlists.py --epg 
 
-      - name: Filter M3U playlists
-        id: m3u
-        continue-on-error: true
-        run: python filter_m3u.py
+  - name: Commit filtered playlists
+    if: ${{ !cancelled() }}
+    run: |
+      python prune_playlists.py
+      git config user.name "github-actions[bot]"
+      git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      git add -A playlists/
+      if git diff --cached --quiet; then
+        echo "No changes to commit"
+      else
+        git commit -m "Update filtered playlists $(date -u +'%Y-%m-%d %H:%M UTC')"
+        for i in 1 2 3; do
+          git pull --rebase -X theirs && git push && exit 0
+          git rebase --abort 2>/dev/null || true
+          sleep $((i * 5))
+        done
+        echo "Push failed after 3 attempts" >&2
+        exit 1
+      fi
 
-      - name: Filter and merge EPG
-        id: epg
-        if: ${{ !cancelled() }}
-        continue-on-error: true
-        run: python filter_epg.py
-
-      - name: Remove duplicate channels from M3U lists
-        id: dedupe
-        if: ${{ !cancelled() }}
-        continue-on-error: true
-        run: python dedupe_m3u.py
-
-      - name: Move files to playlists directory
-        if: ${{ !cancelled() }}
-        run: |
-          mkdir -p playlists
-          cp output/*.m3u playlists/ 2>/dev/null || true
-          cp output/*.xml playlists/ 2>/dev/null || true
-
-      - name: Normalize categories
-        if: ${{ !cancelled() }}
-        run: python normalize_playlists.py --epg 
-
-      - name: Commit filtered playlists
-        if: ${{ !cancelled() }}
-        run: |
-          python prune_playlists.py
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A playlists/
-          if git diff --cached --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "Update filtered playlists $(date -u +'%Y-%m-%d %H:%M UTC')"
-            for i in 1 2 3; do
-              git pull --rebase -X theirs && git push && exit 0
-              git rebase --abort 2>/dev/null || true
-              sleep $((i * 5))
-            done
-            echo "Push failed after 3 attempts" >&2
-            exit 1
-          fi
-
-      - name: Fail job if any filter step failed
-        if: ${{ steps.m3u.outcome == 'failure' || steps.epg.outcome == 'failure' || steps.dedupe.outcome == 'failure' }}
-        run: exit 1
+  - name: Fail job if any filter step failed
+    if: ${{ steps.m3u.outcome == 'failure' || steps.epg.outcome == 'failure' || steps.dedupe.outcome == 'failure' }}
+    run: exit 1
