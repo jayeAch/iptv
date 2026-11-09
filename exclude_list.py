@@ -1877,8 +1877,6 @@ GLOBAL_EXCLUDE_LIST = [
 "World Harvest TV ",
 "World Poker Tour",
 "World Surf League",
-"WPDE",
-"WPDE 15 ABC",
 "WPEC",
 "WPIX",
 "WPTV",
