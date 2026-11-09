@@ -16,10 +16,6 @@
     <display-name>Action Plus</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/3140CA51-BEBB-4FEE-B144-1B94C2B9D108/3-1x1.png"/>
   </channel>
-<channel id="localnow.2C7D3071-F7F4-4039-8FAB-195FA86E22B5">
-    <display-name>Three Stooges+</display-name>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/2C7D3071-F7F4-4039-8FAB-195FA86E22B5/3-1x1.png"/>
-  </channel>
 <channel id="localnow.00C9AEC1-8DF8-4F80-88FD-19DF47C40D53">
     <display-name>Laff More</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/00C9AEC1-8DF8-4F80-88FD-19DF47C40D53/3-1x1.png"/>
@@ -59,6 +55,10 @@
 <channel id="localnow.A0A87EFE-61FA-477E-A0E3-44A88013AE74">
     <display-name>WMBF Myrtle Beach, Florence SC</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/A0A87EFE-61FA-477E-A0E3-44A88013AE74/3-1x1.png"/>
+  </channel>
+<channel id="localnow.7439B766-5F61-43D6-A61B-D58FEF6824FD">
+    <display-name>WPDE ABC 15 News Myrtle Beach, SC</display-name>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7439B766-5F61-43D6-A61B-D58FEF6824FD/3-1x1.png"/>
   </channel>
 <channel id="localnow.72384889-EEEB-4EEA-93B3-F26FF4E12D6B">
     <display-name>WFXB Myrtle Beach SC (FOX)</display-name>
@@ -112,27 +112,6 @@
     <category lang="en">Horror</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/06FFDD3B-A149-4023-8EF8-96685EB19DDE/0-2x3.png"/>
   </programme>
-<programme start="20261109052136 +0000" stop="20261109054342 +0000" channel="localnow.2C7D3071-F7F4-4039-8FAB-195FA86E22B5">
-    <title lang="en">You Nazty Spy</title>
-    <desc lang="en">In this satire of the Nazis the Stooges are paperhangers.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/2C7D3071-F7F4-4039-8FAB-195FA86E22B5/0-2x3.png"/>
-    <episode-num system="dd_progid">program-three-stooges-plus-20261109052136</episode-num>
-  </programme>
-<programme start="20261109054342 +0000" stop="20261109060344 +0000" channel="localnow.2C7D3071-F7F4-4039-8FAB-195FA86E22B5">
-    <title lang="en">Tricky Dicks</title>
-    <desc lang="en">The Stooges are policemen on the trail of a murderer.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/2C7D3071-F7F4-4039-8FAB-195FA86E22B5/0-2x3.png"/>
-    <episode-num system="dd_progid">program-three-stooges-plus-20261109054342</episode-num>
-  </programme>
-<programme start="20261109060344 +0000" stop="20261109062514 +0000" channel="localnow.2C7D3071-F7F4-4039-8FAB-195FA86E22B5">
-    <title lang="en">So Long Mr. Chumps</title>
-    <desc lang="en">The stooges are street cleaners who find some bonds.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/2C7D3071-F7F4-4039-8FAB-195FA86E22B5/0-2x3.png"/>
-    <episode-num system="dd_progid">program-three-stooges-plus-20261109060344</episode-num>
-  </programme>
 <programme start="20261109045839 +0000" stop="20261109072806 +0000" channel="localnow.3140CA51-BEBB-4FEE-B144-1B94C2B9D108">
     <title lang="en">Sabotage</title>
     <desc lang="en">Members of an elite DEA task force find themselves being taken down one by one after they rob a drug</desc>
@@ -184,13 +163,6 @@
     <desc lang="en">Your all-access pass to every kind of funny. From quick-witted sketch and improv series to laugh-out-loud movies and hilarious stand-up specials, Improv Plus has it all. Dive into the ultimate comedy collection and start streaming today!</desc>
     <category lang="en">Comedy</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/37B761C9-8D5B-47E9-8A3E-C3062BAF2D79/0-2x3.png"/>
-  </programme>
-<programme start="20261109030417 +0000" stop="20261109054157 +0000" channel="localnow.421B7C8F-0DF8-4769-BF8F-F79DD74C31E8">
-    <title lang="en">The Road To Wellville</title>
-    <desc lang="en">A story about the ins and outs of one unusual health facility in the early twentieth century, run by the eccentric Dr. John Harvey Kellogg</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/421B7C8F-0DF8-4769-BF8F-F79DD74C31E8/0-2x3.png"/>
-    <episode-num system="dd_progid">program-comedy-plus-20261109030417</episode-num>
   </programme>
 <programme start="20261109054157 +0000" stop="20261109074637 +0000" channel="localnow.421B7C8F-0DF8-4769-BF8F-F79DD74C31E8">
     <title lang="en">Fifty Shades Of Black</title>
@@ -343,12 +315,26 @@
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/72384889-EEEB-4EEA-93B3-F26FF4E12D6B/0-2x3.png"/>
     <episode-num system="dd_progid">program-wfxb-20261109173000</episode-num>
   </programme>
-<programme start="20261109034441 +0000" stop="20261109054720 +0000" channel="localnow.746F014B-ACE1-4DE4-B494-BFAE6DE92608">
-    <title lang="en">Wish Upon</title>
-    <desc lang="en">A magical box grants deadly wishes.</desc>
-    <category lang="en">Horror</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/746F014B-ACE1-4DE4-B494-BFAE6DE92608/0-2x3.png"/>
-    <episode-num system="dd_progid">program-horror-plus-20261109034441</episode-num>
+<programme start="20261109053000 +0000" stop="20261109060000 +0000" channel="localnow.7439B766-5F61-43D6-A61B-D58FEF6824FD">
+    <title lang="en">WPDE News Replay</title>
+    <desc lang="en">Myrtle Beach/Florence News, Weather, Sports, Breaking News</desc>
+    <category lang="en">News</category>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7439B766-5F61-43D6-A61B-D58FEF6824FD/0-2x3.png"/>
+    <episode-num system="dd_progid">program-wpde-myrtle-beach-sc-20261109053000</episode-num>
+  </programme>
+<programme start="20261109060000 +0000" stop="20261109070000 +0000" channel="localnow.7439B766-5F61-43D6-A61B-D58FEF6824FD">
+    <title lang="en">The National News Desk - Weekend Replay</title>
+    <desc lang="en">America's News, Now. Bringing you award-winning local storytelling from the nation's capital.</desc>
+    <category lang="en">News</category>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7439B766-5F61-43D6-A61B-D58FEF6824FD/0-2x3.png"/>
+    <episode-num system="dd_progid">program-wpde-myrtle-beach-sc-20261109060000</episode-num>
+  </programme>
+<programme start="20261109070000 +0000" stop="20261109073000 +0000" channel="localnow.7439B766-5F61-43D6-A61B-D58FEF6824FD">
+    <title lang="en">WPDE News Replay</title>
+    <desc lang="en">Myrtle Beach/Florence News, Weather, Sports, Breaking News</desc>
+    <category lang="en">News</category>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7439B766-5F61-43D6-A61B-D58FEF6824FD/0-2x3.png"/>
+    <episode-num system="dd_progid">program-wpde-myrtle-beach-sc-20261109070000</episode-num>
   </programme>
 <programme start="20261109054720 +0000" stop="20261109080134 +0000" channel="localnow.746F014B-ACE1-4DE4-B494-BFAE6DE92608">
     <title lang="en">Dreamscape</title>
@@ -472,14 +458,6 @@
     <category lang="en">Horror</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/AFE4F17B-882F-4DFF-9014-972E16331779/0-2x3.png"/>
     <episode-num system="dd_progid">program-tricoast_tv_dark_matter_01-2026-11-09-1216</episode-num>
-  </programme>
-<programme start="20261109051340 +0000" stop="20261109053916 +0000" channel="localnow.B55F1141-71F9-463B-9383-3FDF2F34B220">
-    <title lang="en">The Jamie Kennedy Experiment</title>
-    <desc lang="en">Hidden cameras follow Kennedy and his crew as they perform practical jokes on real people. Kennedy poses as a white rapper, a boss with jaw surgery conducting interviews, and a crazy infomercial host.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/B55F1141-71F9-463B-9383-3FDF2F34B220/0-2x3.png"/>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
 <programme start="20261109053916 +0000" stop="20261109060422 +0000" channel="localnow.B55F1141-71F9-463B-9383-3FDF2F34B220">
     <title lang="en">The Jamie Kennedy Experiment</title>
