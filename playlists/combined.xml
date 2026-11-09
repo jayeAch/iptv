@@ -690,10 +690,6 @@
     <display-name>AMC Thrillers</display-name>
     <icon src="https://image.xumo.com/v1/channels/channel/99951377/168x168.png?type=color_onBlack"/>
   </channel>
-<channel id="99991399">
-    <display-name>Magnolia Selects</display-name>
-    <icon src="https://image.xumo.com/v1/channels/channel/99991399/168x168.png?type=color_onBlack"/>
-  </channel>
 <channel id="99991337">
     <display-name>FilmRise</display-name>
     <icon src="https://image.xumo.com/v1/channels/channel/99991337/168x168.png?type=color_onBlack"/>
@@ -730,10 +726,6 @@
     <display-name>OUTflix Movies</display-name>
     <icon src="https://image.xumo.com/v1/channels/channel/99951288/168x168.png?type=color_onBlack"/>
   </channel>
-<channel id="99991638">
-    <display-name>DOCUMENTARY+</display-name>
-    <icon src="https://image.xumo.com/v1/channels/channel/99991638/168x168.png?type=color_onBlack"/>
-  </channel>
 <channel id="9999615">
     <display-name>Dark Matter TV</display-name>
     <icon src="https://image.xumo.com/v1/channels/channel/9999615/168x168.png?type=color_onBlack"/>
@@ -741,6 +733,10 @@
 <channel id="99991384">
     <display-name>Xumo Free Crime TV</display-name>
     <icon src="https://image.xumo.com/v1/channels/channel/99991384/168x168.png?type=color_onBlack"/>
+  </channel>
+<channel id="99951565">
+    <display-name>Jajaja</display-name>
+    <icon src="https://image.xumo.com/v1/channels/channel/99951565/168x168.png?type=color_onBlack"/>
   </channel>
 <channel id="localnow.37B761C9-8D5B-47E9-8A3E-C3062BAF2D79">
     <display-name>Improv Plus</display-name>
@@ -827,9 +823,9 @@
 <channel id="6a1610bebdf296985fd95603-66b136d2a9ef8c41ec0841ae"><display-name>Horror Stories</display-name><icon src="https://provider-static.plex.tv/epg/cms/production/3d71d16f-e5cb-4f46-a91e-bc8a0d37030b/HorrorStories_plex_dark_1500x1000.png"/></channel>
 <channel id="6a1610bebdf296985fd95603-5fc705eb052f6f002ef46057"><display-name>IFC Films Picks</display-name><icon src="https://provider-static.plex.tv/9/epg/channels/logos/gracenote/956bc5f750ddad6a83cc2411a447a984.png"/></channel>
 <channel id="6a1610bebdf296985fd95603-6aa77752fc710687a8b4db43"><display-name>Lionsgate Network</display-name><icon src="https://provider-static.plex.tv/epg/cms/production/b37f858b-d7d1-4456-bc42-871dd4b9c1d9/Plex_LGNetwork_Logo_Light_1500x1000.png"/></channel>
+<channel id="6a1610bebdf296985fd95603-616df1e90dfa27ee465797fa"><display-name>Magnolia Selects</display-name><icon src="https://provider-static.plex.tv/epg/cms/production/784721ba-e71b-47d1-9e85-6477441fa673/MagnoliaSelects_1500x1000.png"/></channel>
 <channel id="6a1610bebdf296985fd95603-5ef4e1b40d9ad000423c4427"><display-name>Midnight Pulp</display-name><icon src="https://provider-static.plex.tv/a/epg/channels/logos/gracenote/a1a2cdc3d6f0714c586e9959732580c7.png"/></channel>
 <channel id="6a1610bebdf296985fd95603-661fca34414d94009d1206ec"><display-name>Miramax Movie Channel</display-name><icon src="https://provider-static.plex.tv/epg/cms/production/39d7cc81-90e2-4ffa-a5f3-8cdc69c86db6/MIRAMAX_LOGO_VARIATION_2_-_Gabe_Evans.png"/></channel>
-<channel id="6a1610bebdf296985fd95603-64aed1e9c6085b5faf20ee1f"><display-name>OUTFLIX MOVIES</display-name><icon src="https://provider-static.plex.tv/epg/cms/production/f95fc27d-0f98-4097-bce5-1ea35a0ce0f0/OUTflix-MOVIES_Logo_1500x1000.png"/></channel>
 <channel id="6a1610bebdf296985fd95603-641db53c2f7a0fca29488c99"><display-name>Screambox TV</display-name><icon src="https://provider-static.plex.tv/epg/cms/production/9bcf51d4-22a5-4271-9445-21f38e29cf57/scream_box_tv_rdx.png"/></channel>
 <channel id="6a1610bebdf296985fd95603-670858335b42d01c9391e325"><display-name>The Kids in the Hall</display-name><icon src="https://provider-static.plex.tv/epg/cms/production/60b4e759-0db0-40cc-ac85-8f0a1d3e2628/FilmRise_KidsInTheHall_Logo_WhiteRDX.png"/></channel>
 <channel id="6a1610bebdf296985fd95603-67cbd471cc5136329877e098"><display-name>The New Detectives</display-name><icon src="https://provider-static.plex.tv/epg/cms/production/a301a4e7-5c14-47c3-a0a0-de3a3145c848/Plex_FilmRiseNewDetectives_WHITELogo.png"/></channel>
@@ -2151,11 +2147,6 @@
         <desc>While working on the school yearbook, Daria takes a liking to a formerly homeschooled student with many eccentricities.</desc>
         <icon src="https://images.pluto.tv/series/64de4130445a8a00131becc2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-<programme channel="62bdaa32a1b2fd00076693e8-CA" start="20261109041300 +0000" stop="20261109051300 +0000">
-        <title>The FBI Files</title>
-        <desc>In Arizona, an armored van loaded with cash failed to reach its destination.  Authorities suspected an inside job.  When the vehicle was recovered with the drivers and the cash missing, those suspicions grew even more.</desc>
-        <icon src="https://images.pluto.tv/series/62d6ffc2677eae00138741a4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
 <programme channel="62bdaa32a1b2fd00076693e8-CA" start="20261109051300 +0000" stop="20261109061300 +0000">
         <title>The FBI Files</title>
         <desc>New York City is not stranger to gang violence.  But when a 12-year-old child was kidnapped, the gangs had crossed a line.  Law enforcement raced to find the missing boy before it was too late.</desc>
@@ -2210,11 +2201,6 @@
         <title>Fringe</title>
         <desc>One week after Peter Bishop saved the day and was then wiped from existence, the truce between the two worlds remains intact, and the two sides are forced to work together.</desc>
         <icon src="https://images.pluto.tv/series/698de820a8f69b2a1deb761c/tile_1789052042241.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-<programme channel="6703a96763292d000836b4fa-CA" start="20261109041800 +0000" stop="20261109051300 +0000">
-        <title>Born to Kill?</title>
-        <desc>Harold Shipman is estimated to have killed 275 people.</desc>
-        <icon src="https://images.pluto.tv/series/67854025d2311cd3138e09e6/tile_1751753411923.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
 <programme channel="6703a96763292d000836b4fa-CA" start="20261109051300 +0000" stop="20261109060600 +0000">
         <title>Born to Kill?</title>
@@ -11414,11 +11400,6 @@ Director: Wes Craven</desc>
         <desc>Robert Redford spiller bankraneren Forrest Tucker. Som 70-åring rømmer han fra fengsel og begår en rekke bankran. Men den ene skatten han virkelig drømmer om er hjertet til Jewel, og det skal vise seg å bli Forrests mest utfordrende kupp noensinne.</desc>
         <icon src="https://images.pluto.tv/series/649c12b012e6ce00136cfd64/tile_1767832923259.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-<programme channel="61c1e3a679a4390007c78136-NO" start="20261109031657 +0000" stop="20261109051257 +0000">
-        <title>Now Add Honey</title>
-        <desc>Carolines liv er i fullstendig fritt fall. Døtrene hennes driver henne til vanvidd og den utakknemlige sjefen hennes kjører ut på henne mens mannen hennes forlater henne.</desc>
-        <icon src="https://images.pluto.tv/series/6450c8aae05e97001afc0a70/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
 <programme channel="61c1e3a679a4390007c78136-NO" start="20261109051257 +0000" stop="20261109072757 +0000">
         <title>Elizabethtown</title>
         <desc>Den fremadstormende designeren Drew Baylor får livet snudd på hodet en skjebnesvanger dag. På vei til Elizabethtown møter Drew Claire, som har bestemt seg for at hun er den rette jenta for å vise Drew veien hjem igjen.</desc>
@@ -18730,14 +18711,6 @@ Director: Wes Craven</desc>
     <episode-num system="onscreen">S01E12</episode-num>
     <rating system="USA Parental Rating">TV14</rating>
   </programme>
-<programme channel="9349c516ca6456b9b5ed7e20cb1c1384" start="20261109041900 +0000" stop="20261109051300 +0000">
-    <title>Saturday Night Live</title>
-    <sub-title>Saturday Night Live</sub-title>
-    <desc>Holiday sketches include Office Christmas Party and Visit With Santa Cold Open.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/79eceea8bd4753cf847cee07ccf8df4c/rokuFeed/assets/89d2913f720e56b0acca475e8d11b201.jpg"/>
-    <episode-num system="onscreen">S2021E333</episode-num>
-    <rating system="USA Parental Rating">TV14</rating>
-  </programme>
 <programme channel="9349c516ca6456b9b5ed7e20cb1c1384" start="20261109051300 +0000" stop="20261109060900 +0000">
     <title>Saturday Night Live</title>
     <sub-title>Saturday Night Live</sub-title>
@@ -19510,6 +19483,14 @@ Director: Wes Craven</desc>
     <desc>Kat Dawn West, found dead across the street from her home, had a second online life.</desc>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/14170c95e7935fbd9681bb5d7b27487a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2Fassets%2Fbanner%2F16_9%2FNone%2F1689627036755_8b7f0e4b-f683-4c86-8427-a51de5f149ff-16x9.jpg"/>
     <episode-num system="onscreen">S13E19</episode-num>
+    <rating system="USA Parental Rating">TV14</rating>
+  </programme>
+<programme channel="8abbea29b86a5a5da299c7ef2e288cab" start="20261111051225 +0000" stop="20261111060630 +0000">
+    <title>Autopsy: The Last Hours Of ...</title>
+    <sub-title>Autopsy: The Last Hours Of ...</sub-title>
+    <desc>Two attractive young women are attacked in their place of work.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/14170c95e7935fbd9681bb5d7b27487a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2Fassets%2Fbanner%2F16_9%2FNone%2F1689627036755_8b7f0e4b-f683-4c86-8427-a51de5f149ff-16x9.jpg"/>
+    <episode-num system="onscreen">S13E17</episode-num>
     <rating system="USA Parental Rating">TV14</rating>
   </programme>
 <programme start="20261109040500 +0000" stop="20261109054300 +0000" channel="99951349">
@@ -21422,141 +21403,6 @@ Director: Wes Craven</desc>
     <desc lang="en">Three patients in an insane asylum experience hallucinations, altered realities and imaginary voices.</desc>
     <episode-num system="dd_assetid">MV004653430000</episode-num>
   </programme>
-<programme start="20261109045200 +0000" stop="20261109064800 +0000" channel="99991399">
-    <title lang="en">Skate Kitchen</title>
-    <desc lang="en">Camille's life as a lonely suburban teenager changes dramatically when she befriends a group of girl skateboarders. As she journeys deeper into this raw New York City subculture, she begins to understand the true meaning of friendship.</desc>
-    <episode-num system="dd_assetid">MV011651010000</episode-num>
-  </programme>
-<programme start="20261109064800 +0000" stop="20261109083300 +0000" channel="99991399">
-    <title lang="en">A Kind of Murder</title>
-    <desc lang="en">Walter Stackhouse is rich, successful and unhappily married to the beautiful but damaged Clara. His desire to be free of her feeds his obsession with Kimmel, a man suspected of brutally murdering his own wife. When Walter and Kimmel's lives become dangerously intertwined, a ruthless police detective becomes convinced he has found the murderer. But as the lines blur between innocence and intent, who, in fact, is the real killer?</desc>
-    <episode-num system="dd_assetid">MV009334080000</episode-num>
-  </programme>
-<programme start="20261109083300 +0000" stop="20261109102500 +0000" channel="99991399">
-    <title lang="en">Cashback</title>
-    <desc lang="en">Would-be artist Ben (Sean Biggerstaff) realizes he has an extraordinary way of dealing with the tedium of his dead-end job stocking shelves at a store - he has acquired the ability to halt time and explore the world while the rest of the earth's population remains frozen in place. Ben's unusual talent helps him forget about a nasty breakup with his ex-girlfriend Suzy (Michelle Ryan), but he begins to stop time so often that he may miss out on a new romance with his coworker Sharon (Emilia Fox).</desc>
-    <episode-num system="dd_assetid">MV001922480000</episode-num>
-  </programme>
-<programme start="20261109102500 +0000" stop="20261109121500 +0000" channel="99991399">
-    <title lang="en">The Good Heart</title>
-    <desc lang="en">Homeless and saved from almost certain death by a hospital staff, Lucas (Paul Dano) has nowhere to turn. The hospital staffers, though, are so taken with his kindness and generosity that they take up a collection to give him a fresh start. But when he's discharged, Lucas meets some fellow homeless people and gives away all the money he's just received. His roommate at the hospital, Jacques (Brian Cox), is also affected by the young man, and offers him a job at his bar.</desc>
-    <episode-num system="dd_assetid">MV002697550000</episode-num>
-  </programme>
-<programme start="20261109121500 +0000" stop="20261109141000 +0000" channel="99991399">
-    <title lang="en">Ondine</title>
-    <desc lang="en">Fisherman Syracuse (Colin Farrell), a recovering alcoholic, lives with his daughter, Annie (Alison Barry), in a small village on the Irish coast. One afternoon, a mystifying and beautiful girl, Ondine (Alicja Bachleda), gets caught in his nets as he wades along the water. Aboard the boat, Ondine brings Syracuse great luck, seemingly drawing the fish towards his nets. However, the fisherman starts to fear that Ondine may not be meant for this life.</desc>
-    <episode-num system="dd_assetid">MV002740160000</episode-num>
-  </programme>
-<programme start="20261109141000 +0000" stop="20261109155600 +0000" channel="99991399">
-    <title lang="en">A Long Way Down</title>
-    <desc lang="en">Four strangers who planned to jump off the same roof on New Year's Eve join together as a kind of family and give themselves six weeks to find valid reasons to live.</desc>
-    <episode-num system="dd_assetid">MV005568020000</episode-num>
-  </programme>
-<programme start="20261109155600 +0000" stop="20261109184800 +0000" channel="99991399">
-    <title lang="en">Mr. Nobody: Extended Director's Cut</title>
-    <desc lang="en">In 2092, the last mortal human on Earth reflects on his long past and thinks about the lives he might have led.</desc>
-    <episode-num system="dd_assetid">MV005542060000</episode-num>
-  </programme>
-<programme start="20261109184800 +0000" stop="20261109202600 +0000" channel="99991399">
-    <title lang="en">Please Stand By</title>
-    <desc lang="en">Wendy sees things differently: she's fiercely independent, with a brilliant mind and a mischievous sense of hilarity. Wendy also has autism. To her, people are an indecipherable code and the world's a confusing place. Inspired by her no-nonsense caregiver, Wendy comes of age and escapes from her care home on the road trip of a lifetime to deliver her 500-page script to a writing competition.</desc>
-    <episode-num system="dd_assetid">MV010573610000</episode-num>
-  </programme>
-<programme start="20261109202600 +0000" stop="20261109220900 +0000" channel="99991399">
-    <title lang="en">Prince Avalanche</title>
-    <desc lang="en">Two road-crew workers (Paul Rudd, Emile Hirsch) spend the summer of 1988 isolated and away from their city lives, eventually finding themselves at odds with each other and their women back home.</desc>
-    <episode-num system="dd_assetid">MV004815170000</episode-num>
-  </programme>
-<programme start="20261109220900 +0000" stop="20261109234200 +0000" channel="99991399">
-    <title lang="en">Nobody Walks</title>
-    <desc lang="en">A young woman's (Olivia Thirlby) arrival sparks a surge of energy into a laid-back, artistic Los Angeles household, forcing the residents to confront their own fears and desires in an intricate dance of lust, denial and deception.</desc>
-    <episode-num system="dd_assetid">MV003846170000</episode-num>
-  </programme>
-<programme start="20261109234200 +0000" stop="20261110012600 +0000" channel="99991399">
-    <title lang="en">Main Street</title>
-    <desc lang="en">A stranger (Colin Firth) becomes involved with the close-knit residents of a North Carolina town after he arrives with a controversial plan to save their crumbling community.</desc>
-    <episode-num system="dd_assetid">MV003667300000</episode-num>
-  </programme>
-<programme start="20261110012600 +0000" stop="20261110030600 +0000" channel="99991399">
-    <title lang="en">Compliance</title>
-    <desc lang="en">A fast-food worker (Dreama Walker) who's accused of theft is put through the wringer as her boss (Ann Dowd), at the direction of a phone caller who says he's a cop, subjects her to increasingly harsh forms of interrogation.</desc>
-    <episode-num system="dd_assetid">MV004007430000</episode-num>
-  </programme>
-<programme start="20261110030600 +0000" stop="20261110050800 +0000" channel="99991399">
-    <title lang="en">360</title>
-    <desc lang="en">A man (Anthony Hopkins) searches for his missing daughter in one of several vignettes dealing with issues of love, loss and betrayal.</desc>
-    <episode-num system="dd_assetid">MV003772010000</episode-num>
-  </programme>
-<programme start="20261110050800 +0000" stop="20261110064100 +0000" channel="99991399">
-    <title lang="en">Lucky</title>
-    <desc lang="en">A 90-year-old atheist has outlived and out-smoked his contemporaries, and as he comes to terms with his own mortality, he searches for ever-elusive enlightenment.</desc>
-    <episode-num system="dd_assetid">MV010050520000</episode-num>
-  </programme>
-<programme start="20261110064100 +0000" stop="20261110083100 +0000" channel="99991399">
-    <title lang="en">Then She Found Me</title>
-    <desc lang="en">Life deals a few heavy blows to April (Helen Hunt), a 39-year-old schoolteacher. Though she is desperate for a baby, her husband (Matthew Broderick) has decided to end their brief marriage. April barely has a chance to recover from the shock, when Bernice (Bette Midler), a brassy and selfish TV personality, barges into her life, claiming to be her mother.</desc>
-    <episode-num system="dd_assetid">MV002101640000</episode-num>
-  </programme>
-<programme start="20261110083100 +0000" stop="20261110100900 +0000" channel="99991399">
-    <title lang="en">Touchy Feely</title>
-    <desc lang="en">A dentist (Josh Pais) gains the ability to heal his patients' physical pain while his sister (Rosemarie DeWitt), a massage therapist, develops an aversion to touching and being touched.</desc>
-    <episode-num system="dd_assetid">MV004577520000</episode-num>
-  </programme>
-<programme start="20261110100900 +0000" stop="20261110114800 +0000" channel="99991399">
-    <title lang="en">Tucker &amp; Dale vs Evil</title>
-    <desc lang="en">Two scruffy pals' (Tyler Labine, Alan Tudyk) backwoods vacation takes a bloody turn when ignorant college students mistake them for a pair of murderous hillbillies.</desc>
-    <episode-num system="dd_assetid">MV002792010000</episode-num>
-  </programme>
-<programme start="20261110114800 +0000" stop="20261110132800 +0000" channel="99991399">
-    <title lang="en">Drinking Buddies</title>
-    <desc lang="en">Although they're both dating other people, two co-workers (Olivia Wilde, Jake Johnson) hang out together in bars and try to ignore their mutual attraction.</desc>
-    <episode-num system="dd_assetid">MV004717820000</episode-num>
-  </programme>
-<programme start="20261110132800 +0000" stop="20261110151100 +0000" channel="99991399">
-    <title lang="en">Life Partners</title>
-    <desc lang="en">A 29-year-old lawyer (Gillian Jacobs) and her lesbian best friend (Leighton Meester) experience a dramatic shift in their longtime bond after one enters a serious relationship.</desc>
-    <episode-num system="dd_assetid">MV005722520000</episode-num>
-  </programme>
-<programme start="20261110151100 +0000" stop="20261110171000 +0000" channel="99991399">
-    <title lang="en">Flawless</title>
-    <desc lang="en">A janitor (Michael Caine) convinces a frustrated executive (Demi Moore) to help him steal gems from their employer, the London Diamond Corp.</desc>
-    <episode-num system="dd_assetid">MV002045750000</episode-num>
-  </programme>
-<programme start="20261110171000 +0000" stop="20261110191400 +0000" channel="99991399">
-    <title lang="en">Zero Days</title>
-    <desc lang="en">The malware worm Stuxnet, famously used against Iranian centrifuges, has been claimed by many to have originated as a joint effort between America and Israel.</desc>
-    <episode-num system="dd_assetid">MV008864460000</episode-num>
-  </programme>
-<programme start="20261110191400 +0000" stop="20261110212100 +0000" channel="99991399">
-    <title lang="en">Casino Jack and the United States of Money</title>
-    <desc lang="en">This documentary tracks the high life and eventual downfall of wealthy lobbyist and businessman Jack Abramoff, who was convicted of conspiracy and fraud, among other charges, in a corruption scandal during the George W. Bush administration. The film details Abramoff's decadent and lavish lifestyle and reveals the shady dealings that led to his getting arrested, which ultimately resulted in a prison sentence for him and tarnished reputations for others.</desc>
-    <episode-num system="dd_assetid">MV002724500000</episode-num>
-  </programme>
-<programme start="20261110212100 +0000" stop="20261110230800 +0000" channel="99991399">
-    <title lang="en">Detour</title>
-    <desc lang="en">Harper (Tye Sheridan), a seemingly naive law student, obsesses over the idea that his shifty stepfather (Stephen Moyer) was involved in the devastating car crash that left his mother hospitalized and comatose. While drowning his suspicions in whiskey, he suddenly finds himself engrossed in a conversation with a volatile grifter (Emory Cohen) and his stripper companion (Bel Powley). As daylight breaks, Harper soon realizes that he's in over his head with this violent duo.</desc>
-    <episode-num system="dd_assetid">MV009530640000</episode-num>
-  </programme>
-<programme start="20261110230800 +0000" stop="20261111005600 +0000" channel="99991399">
-    <title lang="en">Humboldt County</title>
-    <desc lang="en">Aspiring doctor Peter Hadley (Jeremy Strong) gets the shock of his life when his hard-nosed father (Peter Bogdanovich) -- and medical-school professor -- fails him, invalidating his acceptance to an elite residency program. His long-standing life plan suddenly in question, the introverted Hadley stumbles through the streets of Los Angeles, until a one-night stand with singer Bogart (Fairuza Balk) lands him on an unexpected pilgrimage to Humboldt County, the marijuana capital of the West Coast.</desc>
-    <episode-num system="dd_assetid">MV002303100000</episode-num>
-  </programme>
-<programme start="20261111005600 +0000" stop="20261111023600 +0000" channel="99991399">
-    <title lang="en">Ceremony</title>
-    <desc lang="en">An obsessed young man (Michael Angarano) crashes the wedding of his older former lover (Uma Thurman) in a misguided attempt to reignite romantic sparks.</desc>
-    <episode-num system="dd_assetid">MV003419670000</episode-num>
-  </programme>
-<programme start="20261111023600 +0000" stop="20261111042400 +0000" channel="99991399">
-    <title lang="en">Filth</title>
-    <desc lang="en">A drug-addled, manipulative misanthrope (James McAvoy) begins to experience increasingly severe hallucinations as he tries to solve the murder of a Japanese student.</desc>
-    <episode-num system="dd_assetid">MV005137990000</episode-num>
-  </programme>
-<programme start="20261111042400 +0000" stop="20261111054500 +0000" channel="99991399">
-    <title lang="en">Lemon</title>
-    <desc lang="en">After Isaac's blind girlfriend walks out on him, his life goes into free fall, and he directs an unhinged staging of Chekhov's "The Seagull," attends the Passover Seder from hell, and attempts to woo a new flame.</desc>
-    <episode-num system="dd_assetid">MV009941740000</episode-num>
-  </programme>
 <programme start="20261109050000 +0000" stop="20261109065127 +0000" channel="99991337">
     <title lang="en">Blind Horizon [Broadcast Edit]</title>
     <desc lang="en">Found in the New Mexico desert with a head wound and total amnesia, Frank Kavanaugh (Val Kilmer) is brought to a hospital. When he recovers some of his memory, he begins raving about an upcoming assassination attempt on the president. Despite the man's unstable state, Sheriff Jack Kolb (Sam Shepard) is troubled by Frank's story. Discovering the truth grows more complicated when Chloe Richards (Neve Campbell) arrives and claims to be Frank's fiancée, even though he has no memory of her.</desc>
@@ -23392,208 +23238,6 @@ Director: Wes Craven</desc>
     <desc lang="en">Sadie (Lucy Liu), a reporter, investigates an underground cult in Los Angeles which seems to be responsible for a series of grisly murders. While trying to discover the cult's secrets, she becomes a victim herself. Sadie awakes in the morgue with an insatiable craving for blood and revenge, so she joins forces with a grieving detective (Michael Chiklis) to destroy the undead creatures once and for all.</desc>
     <episode-num system="dd_assetid">MV001948120000</episode-num>
   </programme>
-<programme start="20261109044300 +0000" stop="20261109053200 +0000" channel="99991638">
-    <title lang="en">Vanished: The Heather Elvis Case</title>
-    <desc lang="en">The Elvis family endures relentless online harassment and conspiracy theories while continuing their search for Heather.</desc>
-    <episode-num system="dd_progid">EP055563420002</episode-num>
-  </programme>
-<programme start="20261109053200 +0000" stop="20261109064100 +0000" channel="99991638">
-    <title lang="en">Vanished: The Heather Elvis Case</title>
-    <desc lang="en">Tammy and Sidney Moorer stand trial for their involvement in the disappearance of Heather Elvis.</desc>
-    <episode-num system="dd_progid">EP055563420003</episode-num>
-  </programme>
-<programme start="20261109064100 +0000" stop="20261109103100 +0000" channel="99991638">
-    <title lang="en">Girl Forgotten: What Happened to Brianna Wells?</title>
-    <desc lang="en">17-year-old Brianna Wells was found shot multiple times and left in a South Phoenix alley.</desc>
-    <episode-num system="dd_assetid">SH066342770000</episode-num>
-  </programme>
-<programme start="20261109103100 +0000" stop="20261109122700 +0000" channel="99991638">
-    <title lang="en">A Cursed Man</title>
-    <desc lang="en">In this dangerous, dark social experiment, a documentary filmmaker seeks out some of the world's most powerful dark magic practitioners and asks them to put a curse on him.</desc>
-    <episode-num system="dd_assetid">MV025506720000</episode-num>
-  </programme>
-<programme start="20261109122700 +0000" stop="20261109140600 +0000" channel="99991638">
-    <title lang="en">Norman / Norman</title>
-    <desc lang="en">After the murder of his mother 30 years ago, Norman travels to Jamaica to confront the murderer, his father.</desc>
-    <episode-num system="dd_assetid">MV027026770000</episode-num>
-  </programme>
-<programme start="20261109140600 +0000" stop="20261109155700 +0000" channel="99991638">
-    <title lang="en">Separated</title>
-    <desc lang="en">Based on NBC Political and National Correspondent Jacob Soboroff's book, Morris merges explosive interviews with whistleblowing officials and artful narrative vignettes tracing one migrant family's plight. Together, they reveal that the cruelty at the heart of this policy was its very purpose.</desc>
-    <episode-num system="dd_assetid">MV022943100000</episode-num>
-  </programme>
-<programme start="20261109155700 +0000" stop="20261109164900 +0000" channel="99991638">
-    <title lang="en">Chernobyl: The Point of No Return</title>
-    <desc lang="en">A gripping look at the Chernobyl disaster and its lasting human and environmental impact.</desc>
-    <episode-num system="dd_assetid">MV028701400000</episode-num>
-  </programme>
-<programme start="20261109164900 +0000" stop="20261109174300 +0000" channel="99991638">
-    <title lang="en">Chernobyl</title>
-    <desc lang="en">Chernobyl's Reactor 4 explodes, sparking chaos, panic, and the worst nuclear disaster in history.</desc>
-    <episode-num system="dd_progid">EP004625570030</episode-num>
-  </programme>
-<programme start="20261109174300 +0000" stop="20261109181000 +0000" channel="99991638">
-    <title lang="en">Mala Onda</title>
-    <desc lang="en">Farm animals are being killed all across Puerto Rico and no one knows what's going on.</desc>
-    <episode-num system="dd_assetid">MV027454300000</episode-num>
-  </programme>
-<programme start="20261109181000 +0000" stop="20261109200900 +0000" channel="99991638">
-    <title lang="en">In the Dark of the Valley</title>
-    <desc lang="en">A group of mothers discovers that the Santa Susana Field Laboratory was the site of one of the most significant nuclear accidents in United States history and may have exposed their children and their community to cancer-causing hazardous waste.</desc>
-    <episode-num system="dd_assetid">MV016874240000</episode-num>
-  </programme>
-<programme start="20261109200900 +0000" stop="20261109214900 +0000" channel="99991638">
-    <title lang="en">Broca's Aphasia: Sex Doll Hotel</title>
-    <desc lang="en">Showcases the relationships and daily life of Cheng, a man who runs a sex doll service in a hotel with his friends in Taiwan.</desc>
-    <episode-num system="dd_assetid">MV023940630000</episode-num>
-  </programme>
-<programme start="20261109214900 +0000" stop="20261109225300 +0000" channel="99991638">
-    <title lang="en">True Crime Files: Love, Sex And Murder</title>
-    <desc lang="en">A cold case, hidden remains and years of lies led investigators back to Sarah Buzzard.</desc>
-    <episode-num system="dd_assetid">MV028701380000</episode-num>
-  </programme>
-<programme start="20261109225300 +0000" stop="20261109234800 +0000" channel="99991638">
-    <title lang="en">True Crime Files: The Suitcase Murder</title>
-    <desc lang="en">Explore the case of Sarah Boone, convicted of killing her boyfriend after trapping him inside a suitcase. Through interrogation footage, investigative records and courtroom moments, examine the events of that night and the evidence that led to her conviction.</desc>
-    <episode-num system="dd_assetid">MV028102240000</episode-num>
-  </programme>
-<programme start="20261109234800 +0000" stop="20261110004100 +0000" channel="99991638">
-    <title lang="en">The North Face Presents: Trango</title>
-    <desc lang="en">Skiers Christina Lusti and Jim Morrison embark on the first-ever ski descent of the Great Trango Tower.</desc>
-    <episode-num system="dd_assetid">MV027770960000</episode-num>
-  </programme>
-<programme start="20261110004100 +0000" stop="20261110021500 +0000" channel="99991638">
-    <title lang="en">Jeff Lowe's Metanoia</title>
-    <desc lang="en">The life and climbs of legendary alpinist Jeff Lowe.</desc>
-    <episode-num system="dd_assetid">MV008094740000</episode-num>
-  </programme>
-<programme start="20261110021500 +0000" stop="20261110025000 +0000" channel="99991638">
-    <title lang="en">Talking Drum</title>
-    <desc lang="en">Explore the healing power of drumming through community leaders using the universal language of rhythm.</desc>
-    <episode-num system="dd_assetid">MV028042930000</episode-num>
-  </programme>
-<programme start="20261110025000 +0000" stop="20261110031500 +0000" channel="99991638">
-    <title lang="en">A Swim Lesson</title>
-    <desc lang="en">An ode to an everyday hero: Bill Marsh, a swim teacher who helps children manage their fears.</desc>
-    <episode-num system="dd_assetid">MV027455140000</episode-num>
-  </programme>
-<programme start="20261110031500 +0000" stop="20261110050400 +0000" channel="99991638">
-    <title lang="en">State of Firsts</title>
-    <desc lang="en">Sarah McBride's groundbreaking campaign becomes the first transgender Congressional victory amid anti-trans political tension.</desc>
-    <episode-num system="dd_assetid">MV027105250000</episode-num>
-  </programme>
-<programme start="20261110050400 +0000" stop="20261110061800 +0000" channel="99991638">
-    <title lang="en">Beyond Triathlon</title>
-    <desc lang="en">Explore the grueling world of triathlons and one woman's journey to push the sport forward.</desc>
-    <episode-num system="dd_assetid">MV027891180000</episode-num>
-  </programme>
-<programme start="20261110061800 +0000" stop="20261110075800 +0000" channel="99991638">
-    <title lang="en">Tracing the Divide</title>
-    <desc lang="en">Two lifelong friends find purpose as they cycle the Great Divide Mountain Bike Route from Canada to Mexico.</desc>
-    <episode-num system="dd_assetid">MV026930920000</episode-num>
-  </programme>
-<programme start="20261110075800 +0000" stop="20261110083100 +0000" channel="99991638">
-    <title lang="en">Part 1: Disconnection</title>
-    <desc lang="en">Discover this life-affirming journey on the world's most renowned long-distance trek... The Appalachian Trail.</desc>
-    <episode-num system="dd_progid">EP055275840010</episode-num>
-  </programme>
-<programme start="20261110083100 +0000" stop="20261110090800 +0000" channel="99991638">
-    <title lang="en">Part 2: Disintegration</title>
-    <desc lang="en">Discover this life-affirming journey on the world's most renowned long-distance trek, the Appalachian Trail.</desc>
-    <episode-num system="dd_progid">EP055275840007</episode-num>
-  </programme>
-<programme start="20261110090800 +0000" stop="20261110094000 +0000" channel="99991638">
-    <title lang="en">Part 3: Perception</title>
-    <episode-num system="dd_progid">EP055275840013</episode-num>
-  </programme>
-<programme start="20261110094000 +0000" stop="20261110101600 +0000" channel="99991638">
-    <title lang="en">Part 4: Negotiation</title>
-    <desc lang="en">Discover this life-affirming journey on the world's most renowned long-distance trek... The Appalachian Trail.</desc>
-    <episode-num system="dd_progid">EP055275840009</episode-num>
-  </programme>
-<programme start="20261110101600 +0000" stop="20261110105000 +0000" channel="99991638">
-    <title lang="en">Part 5: Habitation</title>
-    <desc lang="en">Discover this life-affirming journey on the world's most renowned long-distance trek, the Appalachian Trail.</desc>
-    <episode-num system="dd_progid">EP055275840012</episode-num>
-  </programme>
-<programme start="20261110105000 +0000" stop="20261110112000 +0000" channel="99991638">
-    <title lang="en">Part 6: Revelation</title>
-    <desc lang="en">Discover this life affirming journey on the world's most renowned long distance trek...The Appalachian Trail.</desc>
-    <episode-num system="dd_progid">EP055275840011</episode-num>
-  </programme>
-<programme start="20261110112000 +0000" stop="20261110115200 +0000" channel="99991638">
-    <title lang="en">Part 7: Reconnection</title>
-    <desc lang="en">Discover this life-affirming journey on the world's most renowned long-distance trek, the Appalachian Trail.</desc>
-    <episode-num system="dd_progid">EP055275840008</episode-num>
-  </programme>
-<programme start="20261110115200 +0000" stop="20261110131500 +0000" channel="99991638">
-    <title lang="en">Azure Dust: Inside Chernobyl's Exclusion Zone</title>
-    <desc lang="en">An up-close look at the vast Exclusion Zone, a Ukrainian area where people are not allowed due to high radioactive contamination caused by the Chernobyl disaster.</desc>
-    <episode-num system="dd_assetid">SH040683090000</episode-num>
-  </programme>
-<programme start="20261110131500 +0000" stop="20261110142900 +0000" channel="99991638">
-    <title lang="en">Drop Zone Everest</title>
-    <desc lang="en">Drop Zone Everest follows a team of former U.S. Special Operators as they skydive into Mt. Everest.</desc>
-    <episode-num system="dd_assetid">SH046092150000</episode-num>
-  </programme>
-<programme start="20261110142900 +0000" stop="20261110160100 +0000" channel="99991638">
-    <title lang="en">Blues on Beale</title>
-    <desc lang="en">Discovering the people who keep the blues alive on Beale Street in Memphis, Tenn., and the powerful international impact of America's musical gift to the world.</desc>
-    <episode-num system="dd_assetid">MV017429820000</episode-num>
-  </programme>
-<programme start="20261110160100 +0000" stop="20261110174400 +0000" channel="99991638">
-    <title lang="en">Breakthrough</title>
-    <desc lang="en">Diving into the life and work of Dr. John Demartini, who travelled over 19 million miles to help many hundreds of thousands of people create breakthroughs over the past five decades.</desc>
-    <episode-num system="dd_assetid">SH053795540000</episode-num>
-  </programme>
-<programme start="20261110174400 +0000" stop="20261110183400 +0000" channel="99991638">
-    <title lang="en">Eighth Year</title>
-    <desc lang="en">Embark on an inspiring journey with Kyle Pugh, conquering an unprecedented 8-year journey in college football. Witness his unwavering dedication, a testament to a young man's extraordinary love for the game.</desc>
-    <episode-num system="dd_assetid">MV026422610000</episode-num>
-  </programme>
-<programme start="20261110183400 +0000" stop="20261110194500 +0000" channel="99991638">
-    <title lang="en">Gentle Giant: The Andre Rodgers Story</title>
-    <desc lang="en">Having never seen a game of baseball, Andre Rodgers, a cricketer from the Bahamas, tries out for the San Francisco Giants in 1954.</desc>
-    <episode-num system="dd_assetid">MV008101220000</episode-num>
-  </programme>
-<programme start="20261110194500 +0000" stop="20261110205800 +0000" channel="99991638">
-    <title lang="en">Losing Grip</title>
-    <desc lang="en">When a top U.S. gymnast suffers a dangerous fall in competition, his Olympic dreams hang in the balance.</desc>
-    <episode-num system="dd_assetid">SH066847910000</episode-num>
-  </programme>
-<programme start="20261110205800 +0000" stop="20261110222200 +0000" channel="99991638">
-    <title lang="en">Matthew Stafford's Band of Champions</title>
-    <desc lang="en">Witnessing an extraordinary group led by Matthew Stafford pursue the top prize in Texas football.</desc>
-    <episode-num system="dd_assetid">MV017964410000</episode-num>
-  </programme>
-<programme start="20261110222200 +0000" stop="20261110231800 +0000" channel="99991638">
-    <title lang="en">The Head in the Closet</title>
-    <desc lang="en">On February 28, 2021, a routine call at the Colorado River leads police into a shocking investigation. As officers retrace Warren Barnes' final movements, bodycam footage reveals the evidence, interviews and revelations that expose what happened...</desc>
-    <episode-num system="dd_assetid">SH065822910000</episode-num>
-  </programme>
-<programme start="20261110231800 +0000" stop="20261111001500 +0000" channel="99991638">
-    <title lang="en">Illuminati: Myth or Master Plan?</title>
-    <episode-num system="dd_assetid">MV028718610000</episode-num>
-  </programme>
-<programme start="20261111001500 +0000" stop="20261111010800 +0000" channel="99991638">
-    <title lang="en">UFO Disclosure: What the Government Knows</title>
-    <episode-num system="dd_assetid">SH066387980000</episode-num>
-  </programme>
-<programme start="20261111010800 +0000" stop="20261111020100 +0000" channel="99991638">
-    <title lang="en">Capturing Gaddafi: Minute by Minute</title>
-    <desc lang="en">As Muammar Gaddafi's 42-year rule collapses, rebel forces close in on his final stronghold. Forced to flee Sirte, Gaddafi's convoy comes under attack, sending him into hiding as opposition fighters search for him. Wounded and surrounded, he is discovered alive and captured, bringing an extraordinary era of Libyan history to a violent end.</desc>
-    <episode-num system="dd_assetid">MV029065120000</episode-num>
-  </programme>
-<programme start="20261111020100 +0000" stop="20261111040000 +0000" channel="99991638">
-    <title lang="en">The Story of Everything</title>
-    <desc lang="en">A journey into the origins of humanity and the cosmos, illuminating mankind's most important scientific discoveries and revealing that everything has been created by a designer.</desc>
-    <episode-num system="dd_assetid">MV027857210000</episode-num>
-  </programme>
-<programme start="20261111040000 +0000" stop="20261111055000 +0000" channel="99991638">
-    <title lang="en">An Honest Liar</title>
-    <desc lang="en">World-renowned magician and escape artist James "the Amazing" Randi dedicates his life to exposing fake psychics and others who claim paranormal powers.</desc>
-    <episode-num system="dd_assetid">MV005699660000</episode-num>
-  </programme>
 <programme start="20261109035418 +0000" stop="20261109053456 +0000" channel="9999615">
     <title lang="en">A Beautiful Prison</title>
     <desc lang="en">Ben, a brain-damaged young man living in Mexico, awakens after a violent accident to a restored intellect and supernatural abilities, which allow him to control the happenings of his world.</desc>
@@ -24028,6 +23672,456 @@ Director: Wes Craven</desc>
     <title lang="en">Under the Influence</title>
     <desc lang="en">A mom is cuffed outside her child's school after police allegedly find her driving with narcotics.</desc>
     <episode-num system="dd_assetid">XM00XFYZ3WC54A</episode-num>
+  </programme>
+<programme start="20261109051300 +0000" stop="20261109054000 +0000" channel="99951565">
+    <title lang="en">La forma del sapolote</title>
+    <desc lang="en">Fran y Borre harán un cortometraje para la universidad en el que Toña y Brayan serán los protagonistas.</desc>
+    <episode-num system="dd_progid">EP024401000095</episode-num>
+  </programme>
+<programme start="20261109054000 +0000" stop="20261109064200 +0000" channel="99951565">
+    <title lang="en">Y Los Ganadores Son</title>
+    <desc lang="en">El escándalo sobre la paternidad de Zacarías se ha vuelto el único tema en los programas de chismes. La banda ha arrasado con todos los premios: Grupo Revelación, Mejor Disco del Año, Mejor Video, Mejor Canción del Año y Mejor Grupo Norteño.</desc>
+    <episode-num system="dd_progid">EP013402590013</episode-num>
+  </programme>
+<programme start="20261109064200 +0000" stop="20261109073900 +0000" channel="99951565">
+    <title lang="en">Un Oscuro Pasado</title>
+    <desc lang="en">Don Pascacio amenaza a los Héroes con publicar las fotos si no recibe una importante suma de dinero. Mientras tanto, Prisca toma la decisión de abandonar a Hassan para siempre.</desc>
+    <episode-num system="dd_progid">EP013402590021</episode-num>
+  </programme>
+<programme start="20261109073900 +0000" stop="20261109083400 +0000" channel="99951565">
+    <title lang="en">Del Cielo Al Infierno</title>
+    <desc lang="en">Escándalo alrededor de los Héroes del Norte acerca de un antro gay. En medio de chismes y amenazas, Doña Olegaria suspende todas las actividades de la banda, que regresa a la mansión y se encuentra con que deben declarar Hacienda urgente.</desc>
+    <episode-num system="dd_progid">EP013402590030</episode-num>
+  </programme>
+<programme start="20261109083400 +0000" stop="20261109093700 +0000" channel="99951565">
+    <title lang="en">La Despedida</title>
+    <desc lang="en">Los Héroes hacen un último concierto para cerrar la deuda que tienen con la Hacienda.</desc>
+    <episode-num system="dd_progid">EP013402590027</episode-num>
+  </programme>
+<programme start="20261109093700 +0000" stop="20261109103500 +0000" channel="99951565">
+    <title lang="en">México llora por sus héroes</title>
+    <desc lang="en">Zacarías asiste al funeral de la banda, mientras el país llora la pérdida. Los Héroes, mientas tanto, creen que son fantasmas y visitan sus propias tumbas.</desc>
+    <episode-num system="dd_progid">EP013402590130</episode-num>
+  </programme>
+<programme start="20261109103500 +0000" stop="20261109110300 +0000" channel="99951565">
+    <title lang="en">A la prima no se la arrima</title>
+    <desc lang="en">Clementina, la prima de Toña, llega para vivir en el departamento de Paco y Fran. Ella es una psíquica que usa sus dones para resolver la vida de todos.</desc>
+    <episode-num system="dd_progid">EP024401000090</episode-num>
+  </programme>
+<programme start="20261109110300 +0000" stop="20261109113100 +0000" channel="99951565">
+    <title lang="en">Grandes en la derrota</title>
+    <desc lang="en">Una final de fútbol provocará una división en el departamento. El resultado deprimirá a Paco, pero un amigo le dará una lección.</desc>
+    <episode-num system="dd_progid">EP024401000091</episode-num>
+  </programme>
+<programme start="20261109113100 +0000" stop="20261109115800 +0000" channel="99951565">
+    <title lang="en">Amores que matan, nunca mueren</title>
+    <desc lang="en">Paco recibe la visita de Merlina, una exalumna que se divorció porque está enamorada de él, y quiere formar una familia.</desc>
+    <episode-num system="dd_progid">EP024401000092</episode-num>
+  </programme>
+<programme start="20261109115800 +0000" stop="20261109122600 +0000" channel="99951565">
+    <title lang="en">Rockero mata todo</title>
+    <desc lang="en">Fran se une a Los Cascabelillos, una banda de rock indie alternativo. Cuando quieren ensayar en el departamento, Paco se enoja, aunque luego cambiará la opinión.</desc>
+    <episode-num system="dd_progid">EP024401000093</episode-num>
+  </programme>
+<programme start="20261109122600 +0000" stop="20261109125400 +0000" channel="99951565">
+    <title lang="en">Ciao, ragazzi</title>
+    <desc lang="en">Llegan estudiantes de intercambio y Fran y el Borre quieren ser los anfitriones para dar asilo a una guapa italiana.</desc>
+    <episode-num system="dd_progid">EP024401000094</episode-num>
+  </programme>
+<programme start="20261109125400 +0000" stop="20261109132200 +0000" channel="99951565">
+    <title lang="en">La forma del sapolote</title>
+    <desc lang="en">Fran y Borre harán un cortometraje para la universidad en el que Toña y Brayan serán los protagonistas.</desc>
+    <episode-num system="dd_progid">EP024401000095</episode-num>
+  </programme>
+<programme start="20261109132200 +0000" stop="20261109135200 +0000" channel="99951565">
+    <title lang="en">El lingo li lingo</title>
+    <desc lang="en">María le lleva un pastel a Doña Lucha por ser su santo, al chino al bajar unos platos encuentra la foto de su padre y le exige a Doña Lucha le confiese la verdad sobre él, ella le cuenta todo lo que vivió a lado de su padre y porque regresó a México.</desc>
+    <episode-num system="dd_progid">EP011732870023</episode-num>
+  </programme>
+<programme start="20261109135200 +0000" stop="20261109142300 +0000" channel="99951565">
+    <title lang="en">Esto es ta-mal</title>
+    <desc lang="en">María cree que está embarazada y Albertano tiene problemas para aceptar que va a ser papá. El Macaco organiza una protesta en contra de la comercialización indebida del tamal.</desc>
+    <episode-num system="dd_progid">EP011732870024</episode-num>
+  </programme>
+<programme start="20261109142300 +0000" stop="20261109145300 +0000" channel="99951565">
+    <title lang="en">Lucha Interna</title>
+    <desc lang="en">Detienen a Doña Lucha al creer que es la jefa de una banda de marchistas, para sacarla de la cárcel, sus hijos juntan sus ahorros con los que comprarían su regalo del 10 de mayo. En la cárcel los policías creen que ella mató a un delincuente.</desc>
+    <episode-num system="dd_progid">EP011732870025</episode-num>
+  </programme>
+<programme start="20261109145300 +0000" stop="20261109152300 +0000" channel="99951565">
+    <title lang="en">Lucha Interna</title>
+    <desc lang="en">Le dan trato preferencial a Lucha y hasta un famoso narcotraficante se pone a sus órdenes porque cree que mató a un delincuente. Albertano se corta un mechón por el cual le dan mucho dinero. Lucha se enoja muchísimo al enterarse.</desc>
+    <episode-num system="dd_progid">EP011732870026</episode-num>
+  </programme>
+<programme start="20261109152300 +0000" stop="20261109155500 +0000" channel="99951565">
+    <title lang="en">Una patita de conejo fresca</title>
+    <desc lang="en">Albertano le manda a María la llave de su cuarto para que saque sus cosas, pero ella entiende que le pide que se mude con él, con su llave tiene una pata de conejo de la buena suerte, pero al ensuciarse, María la tira y le compra una pata nueva.</desc>
+    <episode-num system="dd_progid">EP011732870027</episode-num>
+  </programme>
+<programme start="20261109155500 +0000" stop="20261109162500 +0000" channel="99951565">
+    <title lang="en">Sed de triunfo</title>
+    <desc lang="en">Doña Lucha aprovecha el corte de agua en la colonia para vender unas cubetas que tenía apartadas. María se pone celosa de la nueva ayudante del equipo de fútbol, Citlali, mientras que Albertano se la pasa en la banca por ser mal jugador.</desc>
+    <episode-num system="dd_progid">EP011732870028</episode-num>
+  </programme>
+<programme start="20261109162500 +0000" stop="20261109165500 +0000" channel="99951565">
+    <title lang="en">Niños de Oro</title>
+    <desc lang="en">Ludovico y Federica inscriben a Junior en el concurso Niños de Oro, donde participa cantando ópera, pues desean ganar el gran premio.</desc>
+    <episode-num system="dd_progid">EP006227610104</episode-num>
+  </programme>
+<programme start="20261109165500 +0000" stop="20261109172300 +0000" channel="99951565">
+    <title lang="en">Sueño de telenovela</title>
+    <desc lang="en">Ludovico sueña que está en una telenovela en la que es millonario, su mujer es la villana y termina casándose con una sirvienta.</desc>
+    <episode-num system="dd_progid">EP006227610114</episode-num>
+  </programme>
+<programme start="20261109172300 +0000" stop="20261109175300 +0000" channel="99951565">
+    <title lang="en">Se busca un padre</title>
+    <desc lang="en">Excelsa está embarazada, Ludovico y Federica quieren saber quién es el padre. Ludovico y Federica hacen un casting para ver quién podría ser el padre del hijo de Excelsa.</desc>
+    <episode-num system="dd_progid">EP006227610168</episode-num>
+  </programme>
+<programme start="20261109175300 +0000" stop="20261109182100 +0000" channel="99951565">
+    <title lang="en">Hasta en las mejores familias</title>
+    <desc lang="en">Federica tiene un enamorado secreto. Carmelita Salinas entrevista a Federica y Ludovico Peluche. Federico niega que el hijo de Excelsa sea de él.</desc>
+    <episode-num system="dd_progid">EP006227610165</episode-num>
+  </programme>
+<programme start="20261109182100 +0000" stop="20261109185200 +0000" channel="99951565">
+    <title lang="en">Viva el domingo</title>
+    <desc lang="en">Federica hace planes para comer con sus papás, pero Ludovico muere por ver el fútbol, así que arma una estrategia para regresar temprano a casa. En casa de sus suegros, Ludovico se las ingenia para estar enterado de cómo va el partido.</desc>
+    <episode-num system="dd_progid">EP006227610166</episode-num>
+  </programme>
+<programme start="20261109185200 +0000" stop="20261109192100 +0000" channel="99951565">
+    <title lang="en">Encuentro casual</title>
+    <desc lang="en">Federica se encuentra a su amiga Columba y las indirectas entre ellas no se hacen esperar; Federica quiere vengarse de que Columba y Basilio les ganaron en el dominó, los invitan a una fiesta, pero ellos a cambio de ir les piden varios favores.</desc>
+    <episode-num system="dd_progid">EP006227610219</episode-num>
+  </programme>
+<programme start="20261109192100 +0000" stop="20261109195200 +0000" channel="99951565">
+    <title lang="en">La enfermedad de Federica</title>
+    <desc lang="en">Ludovico está muy triste porque Federica está terriblemente enferma; Ludovico la lleva al hospital para que la operen.</desc>
+    <episode-num system="dd_progid">EP006227610123</episode-num>
+  </programme>
+<programme start="20261109195200 +0000" stop="20261109202100 +0000" channel="99951565">
+    <title lang="en">El atraco</title>
+    <desc lang="en">Ludovico roba a su amigo Flavio y es encerrado; Federica es llevada a la estación de policías a declarar; unos ladrones entran a la casa de la familia Peluche.</desc>
+    <episode-num system="dd_progid">EP006227610122</episode-num>
+  </programme>
+<programme start="20261109202100 +0000" stop="20261109205000 +0000" channel="99951565">
+    <title lang="en">Pueblo guapo</title>
+    <desc lang="en">Vítor y Albertano acompañan a Lupita a la feria de su pueblo, donde la mujer se reencuentra con un pretendiente, quien de inmediato se convierte en un rival de los guapos, resolviendo el conflicto muy a la mexicana.</desc>
+    <episode-num system="dd_progid">EP024732820121</episode-num>
+  </programme>
+<programme start="20261109205000 +0000" stop="20261109214700 +0000" channel="99951565">
+    <title lang="en">Aquí se rompió una taza</title>
+    <desc lang="en">A los héroes no se les hace fácil comenzar una nueva vida, mientras que estrellas del mundo grupero graban un disco en su homenaje. A Zacarías, ya convertido en solista, se le suben los humos.</desc>
+    <episode-num system="dd_progid">EP013402590131</episode-num>
+  </programme>
+<programme start="20261109214700 +0000" stop="20261109221500 +0000" channel="99951565">
+    <title lang="en">Con dinero</title>
+    <desc lang="en">El Vítor recoge una copia de su acta de nacimiento, se da cuenta de que sí tiene papá y descubre que es millonario, por lo que se va de la casa. El dinero pondrá a prueba su gran amistad con Albertano.</desc>
+    <episode-num system="dd_progid">EP024732820122</episode-num>
+  </programme>
+<programme start="20261109221500 +0000" stop="20261109224400 +0000" channel="99951565">
+    <title lang="en">De regreso a la secundaria</title>
+    <desc lang="en">Vítor y Albertano están a punto de conseguir un gran empleo, pero no se los dan porque les hace falta su certificado de estudios y deciden inscribirse en una escuela abierta.</desc>
+    <episode-num system="dd_progid">EP024732820123</episode-num>
+  </programme>
+<programme start="20261109224400 +0000" stop="20261109231200 +0000" channel="99951565">
+    <title lang="en">Gambito de babas</title>
+    <desc lang="en">Al intentar limpiar la computadora de Don Justo, Plutarco compra cientos de acciones a su nombre. Justito descubre que Gaby puede jugar ajedrez y la inscriben en un torneo para así solucionar los problemas económicos de los López.</desc>
+    <episode-num system="dd_progid">EP009112420145</episode-num>
+  </programme>
+<programme start="20261109231200 +0000" stop="20261109234000 +0000" channel="99951565">
+    <title lang="en">Le toca bailar con la más fea</title>
+    <desc lang="en">Don Justo jubila a Plácido y no le da nada de pensión. Los López tratan de buscar una solución para poder vivir ahora que Plácido no tiene trabajo. Plutarco planea exigirle un buen trato a Don Justo.</desc>
+    <episode-num system="dd_progid">EP009112420146</episode-num>
+  </programme>
+<programme start="20261109234000 +0000" stop="20261110000800 +0000" channel="99951565">
+    <title lang="en">Dilema culinario</title>
+    <desc lang="en">Por accidente, Plutarco tira al administrador por las escaleras y Sinforosa decide buscar al responsable del accidente para correrlo del edificio. Renata quiere participar en un concurso de cocina, pero al no poder asistir envían a Carlos disfrazado.</desc>
+    <episode-num system="dd_progid">EP009112420147</episode-num>
+  </programme>
+<programme start="20261110000800 +0000" stop="20261110003600 +0000" channel="99951565">
+    <title lang="en">El futbolito</title>
+    <desc lang="en">Plácido consigue un futbolito y la familia decide organizar un torneo en su casa. Gaby y Plutarco tienen problemas para decidir el nombre de su segundo bebé.</desc>
+    <episode-num system="dd_progid">EP009112420148</episode-num>
+  </programme>
+<programme start="20261110003600 +0000" stop="20261110010800 +0000" channel="99951565">
+    <title lang="en">Domingo en Chapultepec</title>
+    <desc lang="en">El Chino necesita visitar el Museo de Antropología e Historia para un trabajo de la escuela. María se ofrece a acompañarlo y compromete a Albertano a ir con ellos. Sin embargo, los jóvenes pasan una romántica tarde hasta que se acuerdan lo prometido.</desc>
+    <episode-num system="dd_progid">EP011732870036</episode-num>
+  </programme>
+<programme start="20261110010800 +0000" stop="20261110013800 +0000" channel="99951565">
+    <title lang="en">La noche de la langosta</title>
+    <desc lang="en">María decide invitar a Albertano a una cena romántica, pero él quiere ver el juego de fútbol. Doña Lucha invita a los vecinos a ver el clásico América vs. Chivas.</desc>
+    <episode-num system="dd_progid">EP011732870008</episode-num>
+  </programme>
+<programme start="20261110013800 +0000" stop="20261110020900 +0000" channel="99951565">
+    <title lang="en">Los papás de Excelsa</title>
+    <desc lang="en">Excelsa le pide a Federica que le preste a su familia, pues sus padres la visitarán y ellos creen que tiene un esposo millonario. La madre de Excelsa cree que Ludovico la engaña.</desc>
+    <episode-num system="dd_progid">EP006227610157</episode-num>
+  </programme>
+<programme start="20261110020900 +0000" stop="20261110023900 +0000" channel="99951565">
+    <title lang="en">Cartuchos de esposos</title>
+    <desc lang="en">Federica le pide a Ludovico que vayan a comer con sus papas, pero él se niega. Flavio le dice a Ludovico que ha quemado su cartucho de esposo y cuando Federica le pida algo él tendrá que complacerla.</desc>
+    <episode-num system="dd_progid">EP006227610158</episode-num>
+  </programme>
+<programme start="20261110023900 +0000" stop="20261110030700 +0000" channel="99951565">
+    <title lang="en">Ciao, ragazzi</title>
+    <desc lang="en">Llegan estudiantes de intercambio y Fran y el Borre quieren ser los anfitriones para dar asilo a una guapa italiana.</desc>
+    <episode-num system="dd_progid">EP024401000094</episode-num>
+  </programme>
+<programme start="20261110030700 +0000" stop="20261110033500 +0000" channel="99951565">
+    <title lang="en">La forma del sapolote</title>
+    <desc lang="en">Fran y Borre harán un cortometraje para la universidad en el que Toña y Brayan serán los protagonistas.</desc>
+    <episode-num system="dd_progid">EP024401000095</episode-num>
+  </programme>
+<programme start="20261110033500 +0000" stop="20261110040300 +0000" channel="99951565">
+    <title lang="en">Batidora, computadora y secadora</title>
+    <desc lang="en">Frankie le pide a Silvia que le preste su computadora, pero él no sabe usarla y se la regresa destruida; Luis está dispuesto a pagar la deuda de Pedro a cambio de recuperar su juego de cubiertos de plata.</desc>
+    <episode-num system="dd_progid">EP008112010379</episode-num>
+  </programme>
+<programme start="20261110040300 +0000" stop="20261110042800 +0000" channel="99951565">
+    <title lang="en">Ascendiendo a Arturo</title>
+    <desc lang="en">Un amigo de Arturo es promovido a gerente general y Magda lo convence para que le dé un mejor puesto a Arturo, pero no saben que está involucrado en lavado de dinero.</desc>
+    <episode-num system="dd_progid">EP008112010348</episode-num>
+  </programme>
+<programme start="20261110042800 +0000" stop="20261110052500 +0000" channel="99951565">
+    <title lang="en">Aquí se rompió una taza</title>
+    <desc lang="en">A los héroes no se les hace fácil comenzar una nueva vida, mientras que estrellas del mundo grupero graban un disco en su homenaje. A Zacarías, ya convertido en solista, se le suben los humos.</desc>
+    <episode-num system="dd_progid">EP013402590131</episode-num>
+  </programme>
+<programme start="20261110052500 +0000" stop="20261110055400 +0000" channel="99951565">
+    <title lang="en">Con dinero</title>
+    <desc lang="en">El Vítor recoge una copia de su acta de nacimiento, se da cuenta de que sí tiene papá y descubre que es millonario, por lo que se va de la casa. El dinero pondrá a prueba su gran amistad con Albertano.</desc>
+    <episode-num system="dd_progid">EP024732820122</episode-num>
+  </programme>
+<programme start="20261110055400 +0000" stop="20261110062300 +0000" channel="99951565">
+    <title lang="en">De regreso a la secundaria</title>
+    <desc lang="en">Vítor y Albertano están a punto de conseguir un gran empleo, pero no se los dan porque les hace falta su certificado de estudios y deciden inscribirse en una escuela abierta.</desc>
+    <episode-num system="dd_progid">EP024732820123</episode-num>
+  </programme>
+<programme start="20261110062300 +0000" stop="20261110065100 +0000" channel="99951565">
+    <title lang="en">Gambito de babas</title>
+    <desc lang="en">Al intentar limpiar la computadora de Don Justo, Plutarco compra cientos de acciones a su nombre. Justito descubre que Gaby puede jugar ajedrez y la inscriben en un torneo para así solucionar los problemas económicos de los López.</desc>
+    <episode-num system="dd_progid">EP009112420145</episode-num>
+  </programme>
+<programme start="20261110065100 +0000" stop="20261110071900 +0000" channel="99951565">
+    <title lang="en">Le toca bailar con la más fea</title>
+    <desc lang="en">Don Justo jubila a Plácido y no le da nada de pensión. Los López tratan de buscar una solución para poder vivir ahora que Plácido no tiene trabajo. Plutarco planea exigirle un buen trato a Don Justo.</desc>
+    <episode-num system="dd_progid">EP009112420146</episode-num>
+  </programme>
+<programme start="20261110071900 +0000" stop="20261110074700 +0000" channel="99951565">
+    <title lang="en">Dilema culinario</title>
+    <desc lang="en">Por accidente, Plutarco tira al administrador por las escaleras y Sinforosa decide buscar al responsable del accidente para correrlo del edificio. Renata quiere participar en un concurso de cocina, pero al no poder asistir envían a Carlos disfrazado.</desc>
+    <episode-num system="dd_progid">EP009112420147</episode-num>
+  </programme>
+<programme start="20261110074700 +0000" stop="20261110081500 +0000" channel="99951565">
+    <title lang="en">El futbolito</title>
+    <desc lang="en">Plácido consigue un futbolito y la familia decide organizar un torneo en su casa. Gaby y Plutarco tienen problemas para decidir el nombre de su segundo bebé.</desc>
+    <episode-num system="dd_progid">EP009112420148</episode-num>
+  </programme>
+<programme start="20261110081500 +0000" stop="20261110084700 +0000" channel="99951565">
+    <title lang="en">Domingo en Chapultepec</title>
+    <desc lang="en">El Chino necesita visitar el Museo de Antropología e Historia para un trabajo de la escuela. María se ofrece a acompañarlo y compromete a Albertano a ir con ellos. Sin embargo, los jóvenes pasan una romántica tarde hasta que se acuerdan lo prometido.</desc>
+    <episode-num system="dd_progid">EP011732870036</episode-num>
+  </programme>
+<programme start="20261110084700 +0000" stop="20261110091700 +0000" channel="99951565">
+    <title lang="en">La noche de la langosta</title>
+    <desc lang="en">María decide invitar a Albertano a una cena romántica, pero él quiere ver el juego de fútbol. Doña Lucha invita a los vecinos a ver el clásico América vs. Chivas.</desc>
+    <episode-num system="dd_progid">EP011732870008</episode-num>
+  </programme>
+<programme start="20261110091700 +0000" stop="20261110094700 +0000" channel="99951565">
+    <title lang="en">Los papás de Excelsa</title>
+    <desc lang="en">Excelsa le pide a Federica que le preste a su familia, pues sus padres la visitarán y ellos creen que tiene un esposo millonario. La madre de Excelsa cree que Ludovico la engaña.</desc>
+    <episode-num system="dd_progid">EP006227610157</episode-num>
+  </programme>
+<programme start="20261110094700 +0000" stop="20261110101800 +0000" channel="99951565">
+    <title lang="en">Cartuchos de esposos</title>
+    <desc lang="en">Federica le pide a Ludovico que vayan a comer con sus papas, pero él se niega. Flavio le dice a Ludovico que ha quemado su cartucho de esposo y cuando Federica le pida algo él tendrá que complacerla.</desc>
+    <episode-num system="dd_progid">EP006227610158</episode-num>
+  </programme>
+<programme start="20261110101800 +0000" stop="20261110104600 +0000" channel="99951565">
+    <title lang="en">Ciao, ragazzi</title>
+    <desc lang="en">Llegan estudiantes de intercambio y Fran y el Borre quieren ser los anfitriones para dar asilo a una guapa italiana.</desc>
+    <episode-num system="dd_progid">EP024401000094</episode-num>
+  </programme>
+<programme start="20261110104600 +0000" stop="20261110111300 +0000" channel="99951565">
+    <title lang="en">La forma del sapolote</title>
+    <desc lang="en">Fran y Borre harán un cortometraje para la universidad en el que Toña y Brayan serán los protagonistas.</desc>
+    <episode-num system="dd_progid">EP024401000095</episode-num>
+  </programme>
+<programme start="20261110111300 +0000" stop="20261110114100 +0000" channel="99951565">
+    <title lang="en">Batidora, computadora y secadora</title>
+    <desc lang="en">Frankie le pide a Silvia que le preste su computadora, pero él no sabe usarla y se la regresa destruida; Luis está dispuesto a pagar la deuda de Pedro a cambio de recuperar su juego de cubiertos de plata.</desc>
+    <episode-num system="dd_progid">EP008112010379</episode-num>
+  </programme>
+<programme start="20261110114100 +0000" stop="20261110120700 +0000" channel="99951565">
+    <title lang="en">Ascendiendo a Arturo</title>
+    <desc lang="en">Un amigo de Arturo es promovido a gerente general y Magda lo convence para que le dé un mejor puesto a Arturo, pero no saben que está involucrado en lavado de dinero.</desc>
+    <episode-num system="dd_progid">EP008112010348</episode-num>
+  </programme>
+<programme start="20261110120700 +0000" stop="20261110130400 +0000" channel="99951565">
+    <title lang="en">Aquí se rompió una taza</title>
+    <desc lang="en">A los héroes no se les hace fácil comenzar una nueva vida, mientras que estrellas del mundo grupero graban un disco en su homenaje. A Zacarías, ya convertido en solista, se le suben los humos.</desc>
+    <episode-num system="dd_progid">EP013402590131</episode-num>
+  </programme>
+<programme start="20261110130400 +0000" stop="20261110133300 +0000" channel="99951565">
+    <title lang="en">Con dinero</title>
+    <desc lang="en">El Vítor recoge una copia de su acta de nacimiento, se da cuenta de que sí tiene papá y descubre que es millonario, por lo que se va de la casa. El dinero pondrá a prueba su gran amistad con Albertano.</desc>
+    <episode-num system="dd_progid">EP024732820122</episode-num>
+  </programme>
+<programme start="20261110133300 +0000" stop="20261110140100 +0000" channel="99951565">
+    <title lang="en">De regreso a la secundaria</title>
+    <desc lang="en">Vítor y Albertano están a punto de conseguir un gran empleo, pero no se los dan porque les hace falta su certificado de estudios y deciden inscribirse en una escuela abierta.</desc>
+    <episode-num system="dd_progid">EP024732820123</episode-num>
+  </programme>
+<programme start="20261110140100 +0000" stop="20261110142900 +0000" channel="99951565">
+    <title lang="en">Gambito de babas</title>
+    <desc lang="en">Al intentar limpiar la computadora de Don Justo, Plutarco compra cientos de acciones a su nombre. Justito descubre que Gaby puede jugar ajedrez y la inscriben en un torneo para así solucionar los problemas económicos de los López.</desc>
+    <episode-num system="dd_progid">EP009112420145</episode-num>
+  </programme>
+<programme start="20261110142900 +0000" stop="20261110145800 +0000" channel="99951565">
+    <title lang="en">Le toca bailar con la más fea</title>
+    <desc lang="en">Don Justo jubila a Plácido y no le da nada de pensión. Los López tratan de buscar una solución para poder vivir ahora que Plácido no tiene trabajo. Plutarco planea exigirle un buen trato a Don Justo.</desc>
+    <episode-num system="dd_progid">EP009112420146</episode-num>
+  </programme>
+<programme start="20261110145800 +0000" stop="20261110152600 +0000" channel="99951565">
+    <title lang="en">Dilema culinario</title>
+    <desc lang="en">Por accidente, Plutarco tira al administrador por las escaleras y Sinforosa decide buscar al responsable del accidente para correrlo del edificio. Renata quiere participar en un concurso de cocina, pero al no poder asistir envían a Carlos disfrazado.</desc>
+    <episode-num system="dd_progid">EP009112420147</episode-num>
+  </programme>
+<programme start="20261110152600 +0000" stop="20261110155400 +0000" channel="99951565">
+    <title lang="en">El futbolito</title>
+    <desc lang="en">Plácido consigue un futbolito y la familia decide organizar un torneo en su casa. Gaby y Plutarco tienen problemas para decidir el nombre de su segundo bebé.</desc>
+    <episode-num system="dd_progid">EP009112420148</episode-num>
+  </programme>
+<programme start="20261110155400 +0000" stop="20261110162600 +0000" channel="99951565">
+    <title lang="en">Domingo en Chapultepec</title>
+    <desc lang="en">El Chino necesita visitar el Museo de Antropología e Historia para un trabajo de la escuela. María se ofrece a acompañarlo y compromete a Albertano a ir con ellos. Sin embargo, los jóvenes pasan una romántica tarde hasta que se acuerdan lo prometido.</desc>
+    <episode-num system="dd_progid">EP011732870036</episode-num>
+  </programme>
+<programme start="20261110162600 +0000" stop="20261110165600 +0000" channel="99951565">
+    <title lang="en">La noche de la langosta</title>
+    <desc lang="en">María decide invitar a Albertano a una cena romántica, pero él quiere ver el juego de fútbol. Doña Lucha invita a los vecinos a ver el clásico América vs. Chivas.</desc>
+    <episode-num system="dd_progid">EP011732870008</episode-num>
+  </programme>
+<programme start="20261110165600 +0000" stop="20261110172600 +0000" channel="99951565">
+    <title lang="en">Los papás de Excelsa</title>
+    <desc lang="en">Excelsa le pide a Federica que le preste a su familia, pues sus padres la visitarán y ellos creen que tiene un esposo millonario. La madre de Excelsa cree que Ludovico la engaña.</desc>
+    <episode-num system="dd_progid">EP006227610157</episode-num>
+  </programme>
+<programme start="20261110172600 +0000" stop="20261110175700 +0000" channel="99951565">
+    <title lang="en">Cartuchos de esposos</title>
+    <desc lang="en">Federica le pide a Ludovico que vayan a comer con sus papas, pero él se niega. Flavio le dice a Ludovico que ha quemado su cartucho de esposo y cuando Federica le pida algo él tendrá que complacerla.</desc>
+    <episode-num system="dd_progid">EP006227610158</episode-num>
+  </programme>
+<programme start="20261110175700 +0000" stop="20261110182400 +0000" channel="99951565">
+    <title lang="en">Ciao, ragazzi</title>
+    <desc lang="en">Llegan estudiantes de intercambio y Fran y el Borre quieren ser los anfitriones para dar asilo a una guapa italiana.</desc>
+    <episode-num system="dd_progid">EP024401000094</episode-num>
+  </programme>
+<programme start="20261110182400 +0000" stop="20261110185200 +0000" channel="99951565">
+    <title lang="en">La forma del sapolote</title>
+    <desc lang="en">Fran y Borre harán un cortometraje para la universidad en el que Toña y Brayan serán los protagonistas.</desc>
+    <episode-num system="dd_progid">EP024401000095</episode-num>
+  </programme>
+<programme start="20261110185200 +0000" stop="20261110192000 +0000" channel="99951565">
+    <title lang="en">Batidora, computadora y secadora</title>
+    <desc lang="en">Frankie le pide a Silvia que le preste su computadora, pero él no sabe usarla y se la regresa destruida; Luis está dispuesto a pagar la deuda de Pedro a cambio de recuperar su juego de cubiertos de plata.</desc>
+    <episode-num system="dd_progid">EP008112010379</episode-num>
+  </programme>
+<programme start="20261110192000 +0000" stop="20261110194600 +0000" channel="99951565">
+    <title lang="en">Ascendiendo a Arturo</title>
+    <desc lang="en">Un amigo de Arturo es promovido a gerente general y Magda lo convence para que le dé un mejor puesto a Arturo, pero no saben que está involucrado en lavado de dinero.</desc>
+    <episode-num system="dd_progid">EP008112010348</episode-num>
+  </programme>
+<programme start="20261110194600 +0000" stop="20261110201400 +0000" channel="99951565">
+    <title lang="en">Con dinero</title>
+    <desc lang="en">El Vítor recoge una copia de su acta de nacimiento, se da cuenta de que sí tiene papá y descubre que es millonario, por lo que se va de la casa. El dinero pondrá a prueba su gran amistad con Albertano.</desc>
+    <episode-num system="dd_progid">EP024732820122</episode-num>
+  </programme>
+<programme start="20261110201400 +0000" stop="20261110204300 +0000" channel="99951565">
+    <title lang="en">De regreso a la secundaria</title>
+    <desc lang="en">Vítor y Albertano están a punto de conseguir un gran empleo, pero no se los dan porque les hace falta su certificado de estudios y deciden inscribirse en una escuela abierta.</desc>
+    <episode-num system="dd_progid">EP024732820123</episode-num>
+  </programme>
+<programme start="20261110204300 +0000" stop="20261110214300 +0000" channel="99951565">
+    <title lang="en">Un nuevo amor</title>
+    <desc lang="en">Los integrantes de la banda toman caminos separados detrás de sus sueños. Márgara le confiesa a Natasha que todo fue una farsa. Apolinar se entera y termina con ella, para quedarse con Natasha.</desc>
+    <episode-num system="dd_progid">EP013402590163</episode-num>
+  </programme>
+<programme start="20261110214300 +0000" stop="20261110221100 +0000" channel="99951565">
+    <title lang="en">Seguridad privada</title>
+    <desc lang="en">Una serie de crímenes se presentan en la colonia y la casa de Doña Cuca no se salva de los ladrones; Don Nacho, Vítor y Albertano deciden formar un grupo de vigilancia vecinal para tratar de detener al delincuente.</desc>
+    <episode-num system="dd_progid">EP024732820124</episode-num>
+  </programme>
+<programme start="20261110221100 +0000" stop="20261110223800 +0000" channel="99951565">
+    <title lang="en">El ganador</title>
+    <desc lang="en">Albertano encuentra un billete de lotería y gana el premio mayor, Vítor trata de convencerlo de darle una parte del dinero, pero él se niega.</desc>
+    <episode-num system="dd_progid">EP024732820057</episode-num>
+  </programme>
+<programme start="20261110223800 +0000" stop="20261110230500 +0000" channel="99951565">
+    <title lang="en">Santos López... de Santa Anna</title>
+    <desc lang="en">Justito descubre que su familia es descendiente de Antonio López de Santa Anna y todos en el edificio los tachan de traidores a la patria. Gaby y Plutarco quedan encerrados en el baño.</desc>
+    <episode-num system="dd_progid">EP009112420149</episode-num>
+  </programme>
+<programme start="20261110230500 +0000" stop="20261110233300 +0000" channel="99951565">
+    <title lang="en">El nuevo administrador</title>
+    <desc lang="en">Tulio se vuelve el nuevo administrador y le exige a Plácido que pague la renta. Adolfo y Victoria encuentran un tesoro en el departamento y lo ocultan. Martina y la Nena apuestan para ver si Adolfo oculta algo. Silvia Pinal visita a los López.</desc>
+    <episode-num system="dd_progid">EP009112420150</episode-num>
+  </programme>
+<programme start="20261110233300 +0000" stop="20261111000100 +0000" channel="99951565">
+    <title lang="en">Una familia de cien</title>
+    <desc lang="en">Don Justo corre a Plutarco del trabajo. Plácido le exige a la familia que busque trabajo para que puedan pagar la renta y no terminen viviendo en casa de Licha. Los López le hacen una cena a Silvia Pinal para convencerla que no los corra de la casa.</desc>
+    <episode-num system="dd_progid">EP009112420151</episode-num>
+  </programme>
+<programme start="20261111000100 +0000" stop="20261111002900 +0000" channel="99951565">
+    <title lang="en">Yani Lachifle</title>
+    <desc lang="en">Los López son hipnotizados y despiertan disfrazados de personajes de cuento de hadas, además de que Plácido ha desaparecido. Gaby y Plutarco tendrán que descubrir qué fue lo que hizo la familia mientras estuvieron hipnotizados.</desc>
+    <episode-num system="dd_progid">EP009112420152</episode-num>
+  </programme>
+<programme start="20261111002900 +0000" stop="20261111010000 +0000" channel="99951565">
+    <title lang="en">El rap de Doña Juana</title>
+    <desc lang="en">Tras cometer varios destrozos, el gato de Doña Juana parece estar muerto y Doña Lucha tiene que darle la triste noticia.</desc>
+    <episode-num system="dd_progid">EP011732870037</episode-num>
+  </programme>
+<programme start="20261111010000 +0000" stop="20261111013200 +0000" channel="99951565">
+    <title lang="en">Una luz al fondo del tinaco</title>
+    <desc lang="en">María intenta lavar el tanque de agua y queda atrapada en él. En el almacén, Carmelo juega con Delfino y Betza. Doña Lucha no sabe que María está dentro del tinaco y prende la bomba.</desc>
+    <episode-num system="dd_progid">EP011732870010</episode-num>
+  </programme>
+<programme start="20261111013200 +0000" stop="20261111020200 +0000" channel="99951565">
+    <title lang="en">Identidad falsa</title>
+    <desc lang="en">Federica quiere inscribirse al club campestre Peluche porque una amiga de ella es miembro, pero son rechazados. Federica y Ludovico toman el expediente de una familia árabe para poder entrar.</desc>
+    <episode-num system="dd_progid">EP006227610159</episode-num>
+  </programme>
+<programme start="20261111020200 +0000" stop="20261111023300 +0000" channel="99951565">
+    <title lang="en">El Dedotes</title>
+    <desc lang="en">Bibi le dice a sus papás que hay un tipo que quiere sobrepasarse con ella, pero ellos creen que es su enamorado. Bibi invita al Dedotes a comer, Ludovico y Federica quieren casarla con él.</desc>
+    <episode-num system="dd_progid">EP006227610156</episode-num>
+  </programme>
+<programme start="20261111023300 +0000" stop="20261111030100 +0000" channel="99951565">
+    <title lang="en">Entre abogados te veas</title>
+    <desc lang="en">Miranda demanda a Paco por el tiempo perdido en su noviazgo. Unos peculiares abogados tratan de llegar a un acuerdo.</desc>
+    <episode-num system="dd_progid">EP024401000096</episode-num>
+  </programme>
+<programme start="20261111030100 +0000" stop="20261111032900 +0000" channel="99951565">
+    <title lang="en">Que viva el amor</title>
+    <desc lang="en">Toña y Brayan se separan luego de una fuerte discusión. Ella conoce a alguien que la hará olvidar la tristeza, pero Brayan los descubre.</desc>
+    <episode-num system="dd_progid">EP024401000097</episode-num>
+  </programme>
+<programme start="20261111032900 +0000" stop="20261111035600 +0000" channel="99951565">
+    <title lang="en">¿Quién es el padre?</title>
+    <desc lang="en">La exnovia de Luis le pide que cuide a su hija durante el fin de semana, Pedro y Luis creen que la niña puede ser hija de alguno de ellos.</desc>
+    <episode-num system="dd_progid">EP008112010345</episode-num>
+  </programme>
+<programme start="20261111035600 +0000" stop="20261111042300 +0000" channel="99951565">
+    <title lang="en">Martes vecinal</title>
+    <desc lang="en">El delegado visitará la comunidad y Magdalena convence a los vecinos de prepararle una comida con el fin de pedirle que les pongan un elevador en el edificio. El delegado se enamora de Silvia y está dispuesto a hacer lo que sea para complacerla.</desc>
+    <episode-num system="dd_progid">EP008112010378</episode-num>
+  </programme>
+<programme start="20261111042300 +0000" stop="20261111052300 +0000" channel="99951565">
+    <title lang="en">Un nuevo amor</title>
+    <desc lang="en">Los integrantes de la banda toman caminos separados detrás de sus sueños. Márgara le confiesa a Natasha que todo fue una farsa. Apolinar se entera y termina con ella, para quedarse con Natasha.</desc>
+    <episode-num system="dd_progid">EP013402590163</episode-num>
   </programme>
 <programme start="20261109050000 +0000" stop="20261109053000 +0000" channel="localnow.00C9AEC1-8DF8-4F80-88FD-19DF47C40D53">
     <title lang="en">Just for Laughs Gags</title>
@@ -24472,10 +24566,6 @@ Director: Wes Craven</desc>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D0DF28EB-0756-4476-80C4-FD05DE2E4E09/0-2x3.png"/>
     <episode-num system="dd_progid">program-scream-factory-tv-20261109114442</episode-num>
   </programme>
-<programme start="20261109024438 +0000" stop="20261109051222 +0000" channel="freemoviesplus_amg02042c1eng_US">
-    <title>Machete Kills</title>
-    <desc>The U.S. government recruits Machete to battle his way through Mexico.</desc>
-  </programme>
 <programme start="20261109051222 +0000" stop="20261109074151 +0000" channel="freemoviesplus_amg02042c1eng_US">
     <title>Sabotage</title>
     <desc>Members of an elite DEA task force find themselves being taken down one by one after they rob a drug</desc>
@@ -24611,6 +24701,19 @@ Director: Wes Craven</desc>
 <programme start="20261110015800 +0000" stop="20261110024700 +0000" channel="6a1610bebdf296985fd95603-5fc705eb052f6f002ef46057"><title>The Tailor of Sin City</title><sub-title>Monkey in the Middle</sub-title><desc>AJ struggles to balance his fashion empire, mafia ties and cocaine cartel when the police come knocking.</desc><category>Documentary</category><category>Crime</category><category>Bingeworthy</category><category>Explore</category><episode-num system="onscreen">S1E3</episode-num><episode-num system="xmltv_ns">0.2.</episode-num><rating><value>NR</value></rating></programme>
 <programme start="20261110024700 +0000" stop="20261110033800 +0000" channel="6a1610bebdf296985fd95603-5fc705eb052f6f002ef46057"><title>The Tailor of Sin City</title><sub-title>Crash Landing (on Purpose)</sub-title><desc>AJ's empire comes crashing down as the FBI closes in, mob violence spirals out of control, and AJ's closest ally is murdered; after barely surviving an attempt on his life, AJ flees the state and claims to turn over a new leaf.</desc><category>Documentary</category><category>Crime</category><category>Bingeworthy</category><category>Explore</category><episode-num system="onscreen">S1E4</episode-num><episode-num system="xmltv_ns">0.3.</episode-num><rating><value>NR</value></rating></programme>
 <programme start="20261110033800 +0000" stop="20261110044200 +0000" channel="6a1610bebdf296985fd95603-5fc705eb052f6f002ef46057"><title>Monkey on a Stick: Murder, Madness, and the Hare Krishnas</title><sub-title>Monkey on a Stick: Murder, Madness, and the Hare Krishnas</sub-title><desc>The expose of the Hare Krishna movement; investigative journalists uncover a range of criminal activity involving guns, drugs, money laundering, abuse and even murder.</desc><category>Documentary</category><category>Miniseries</category><category>Explore</category><episode-num system="onscreen">S1E1</episode-num><episode-num system="xmltv_ns">0.0.</episode-num><rating><value>NR</value></rating></programme>
+<programme start="20261109045244 +0000" stop="20261109064830 +0000" channel="6a1610bebdf296985fd95603-616df1e90dfa27ee465797fa"><title>Skate Kitchen (2018)</title><desc>Camille's life as a lonely suburban teenager changes when she befriends a group of girl skateboarders.</desc><category>Movies</category><rating><value>R</value></rating></programme>
+<programme start="20261109064830 +0000" stop="20261109083358 +0000" channel="6a1610bebdf296985fd95603-616df1e90dfa27ee465797fa"><title>A Kind of Murder (2017)</title><desc>Patrick Wilson and Jessica Biel star in this Hitchcockian noir based on a novel by Patricia Highsmith (The Talented Mr. Ripley, Carol).</desc><category>Movies</category><rating><value>R</value></rating></programme>
+<programme start="20261109083358 +0000" stop="20261109102534 +0000" channel="6a1610bebdf296985fd95603-616df1e90dfa27ee465797fa"><title>Cashback (2007)</title><desc>After a painful breakup, Ben develops insomnia. To kill time, he starts working the late night shift at the local supermarket, where his artistic imagination runs wild.</desc><category>Movies</category><rating><value>R</value></rating></programme>
+<programme start="20261109102534 +0000" stop="20261109121505 +0000" channel="6a1610bebdf296985fd95603-616df1e90dfa27ee465797fa"><title>The Good Heart (2010)</title><desc>Brian Cox stars as Jacques, the curmudgeonly owner of a gritty New York dive bar that serves as home to a motley assortment of professional drinkers.</desc><category>Movies</category><rating><value>R</value></rating></programme>
+<programme start="20261109121505 +0000" stop="20261109141014 +0000" channel="6a1610bebdf296985fd95603-616df1e90dfa27ee465797fa"><title>Ondine (2010)</title><desc>A fisherman (Colin Farrell) hauls in an unexpected catch when a beautiful and mysterious woman gets tangled in his nets, in this charming and thrilling romance about fairy tales colliding with real life.</desc><category>Movies</category><rating><value>TV-14</value></rating></programme>
+<programme start="20261109141014 +0000" stop="20261109155610 +0000" channel="6a1610bebdf296985fd95603-616df1e90dfa27ee465797fa"><title>A Long Way Down (2014)</title><desc>In this touching comedy based on the acclaimed novel by Nick Hornby, A LONG WAY DOWN centers on four strangers who decide to end it all on New Year's Eve.</desc><category>Movies</category><rating><value>R</value></rating></programme>
+<programme start="20261109155610 +0000" stop="20261109184805 +0000" channel="6a1610bebdf296985fd95603-616df1e90dfa27ee465797fa"><title>Mr. Nobody (Extended Director's Cut) (2013)</title><desc>Mr. Nobody tells the life story of Nemo Nobody, a 118-year-old man who is the last mortal on Earth after the human race has achieved quasi-immortality.</desc><category>Movies</category><rating><value>R</value></rating></programme>
+<programme start="20261109184805 +0000" stop="20261109202622 +0000" channel="6a1610bebdf296985fd95603-616df1e90dfa27ee465797fa"><title>Please Stand By (2018)</title><desc>Wendy is a brilliant young woman with autism. She sneaks out of her group home to submit her script on-time for a screenplay competition not letting anything stop her from achieving her goals.</desc><category>Movies</category><rating><value>PG-13</value></rating></programme>
+<programme start="20261109202622 +0000" stop="20261109220940 +0000" channel="6a1610bebdf296985fd95603-616df1e90dfa27ee465797fa"><title>Prince Avalanche (2013)</title><desc>Alvin and Lance leave the city to repaint traffic lines and develop an unlikely friendship.</desc><category>Movies</category><rating><value>R</value></rating></programme>
+<programme start="20261109220940 +0000" stop="20261109234230 +0000" channel="6a1610bebdf296985fd95603-616df1e90dfa27ee465797fa"><title>Nobody Walks (2012)</title><desc>An artist's arrival ignites desires throughout an entire family forcing them to confront this new territory.</desc><category>Movies</category><rating><value>R</value></rating></programme>
+<programme start="20261109234230 +0000" stop="20261110012630 +0000" channel="6a1610bebdf296985fd95603-616df1e90dfa27ee465797fa"><title>Main Street (2011)</title><desc>MAIN STREET is a contemporary drama about residents of a small Southern city whose lives are changed by the arrival of a stranger with a controversial plan to save their decaying hometown.</desc><category>Movies</category><rating><value>R</value></rating></programme>
+<programme start="20261110012630 +0000" stop="20261110030614 +0000" channel="6a1610bebdf296985fd95603-616df1e90dfa27ee465797fa"><title>Compliance (2012)</title><desc>Inspired by true events, Compliance tells the chilling story of just how far one might go to obey a figure of authority.</desc><category>Movies</category><rating><value>R</value></rating></programme>
+<programme start="20261110030614 +0000" stop="20261110050820 +0000" channel="6a1610bebdf296985fd95603-616df1e90dfa27ee465797fa"><title>360 (2012)</title><desc>A sexy, dramatic thriller about interconnected romantic life in the 21st century.</desc><category>Movies</category><rating><value>R</value></rating></programme>
 <programme start="20261109050052 +0000" stop="20261109053310 +0000" channel="6a1610bebdf296985fd95603-61d738b5a7b7c7f703418514"><title>Trailers From Hell</title><sub-title>Guru Showcase: Josh Olson Volume 2</sub-title><desc>In Vol. 2, screenwriter Josh Olson talks Brian De Palma, Michael Mann, and more!</desc><category>Daytime TV + Games</category><episode-num system="onscreen">S4E6</episode-num><episode-num system="xmltv_ns">3.5.</episode-num><rating><value>TV-PG</value></rating></programme>
 <programme start="20261109053310 +0000" stop="20261109060724 +0000" channel="6a1610bebdf296985fd95603-61d738b5a7b7c7f703418514"><title>Trailers From Hell</title><sub-title>Guru Showcase: Karaszewski Klassics</sub-title><desc>Screenwriter Larry Karaszewski talks about the classic films that have influenced his career.</desc><category>Daytime TV + Games</category><episode-num system="onscreen">S4E3</episode-num><episode-num system="xmltv_ns">3.2.</episode-num><rating><value>TV-PG</value></rating></programme>
 <programme start="20261109060724 +0000" stop="20261109062409 +0000" channel="6a1610bebdf296985fd95603-61d738b5a7b7c7f703418514"><title>Trailers From Hell</title><sub-title>Guru Showcase: Karyn Kusama</sub-title><desc>'Girlfight' director Karyn Kusama joins Trailers from Hell to talk about her favorite films.</desc><category>Daytime TV + Games</category><episode-num system="onscreen">S4E4</episode-num><episode-num system="xmltv_ns">3.3.</episode-num><rating><value>TV-PG</value></rating></programme>
@@ -24747,20 +24850,6 @@ Director: Wes Craven</desc>
 <programme start="20261109235149 +0000" stop="20261110013026 +0000" channel="6a1610bebdf296985fd95603-64a04b8a261d597ce8b4c9ec"><title>Halloween Party (2020)</title><desc>When her best friend dies mysteriously, college student Grace enlists a talented I.T. student, Spencer, to help her investigate. The two soon discover that the school has a terrible secret - their dorm rooms were once used as a hospice to house dying patients, including The Balloon Babies, monstrously disfigured teens who wore masks twenty-four seven for The Halloween Party.</desc><category>Horror</category><rating><value>TV-MA</value></rating></programme>
 <programme start="20261110013026 +0000" stop="20261110025608 +0000" channel="6a1610bebdf296985fd95603-64a04b8a261d597ce8b4c9ec"><title>Book of Monsters (2018)</title><desc>Sophie's 18th birthday becomes a bloodbath when monsters descend upon her house and start to devour the party guests. Sophie and her friends must rally together to send their party crashers back to hell.</desc><category>Comedy</category><category>Horror</category><category>Action</category><rating><value>TV-14</value></rating></programme>
 <programme start="20261110025608 +0000" stop="20261110045339 +0000" channel="6a1610bebdf296985fd95603-64a04b8a261d597ce8b4c9ec"><title>I Will Follow you into the Dark (2012)</title><desc>A young woman who is severely depressed after the deaths of both her parents retreats within herself, only to be drawn out of her depression by an unexpected romance with a man named Adam.</desc><category>Horror</category><category>Drama</category><category>Romance</category><category>Thriller</category><rating><value>TV-14</value></rating></programme>
-<programme start="20261109032213 +0000" stop="20261109051239 +0000" channel="6a1610bebdf296985fd95603-64aed1e9c6085b5faf20ee1f"><title>Night of the Comet (2084)</title><desc>Two sisters survive a comet that vaporizes or zombifies nearly everyone else on Earth.</desc><category>Movies</category><rating><value>PG</value></rating></programme>
-<programme start="20261109051239 +0000" stop="20261109071159 +0000" channel="6a1610bebdf296985fd95603-64aed1e9c6085b5faf20ee1f"><title>Jack Goes Home (2016)</title><desc>Rory Culkin stars as a man who uncovers dark secrets while caring for his mother after his father's death.</desc><category>Movies</category><rating><value>PG-13</value></rating></programme>
-<programme start="20261109071159 +0000" stop="20261109091047 +0000" channel="6a1610bebdf296985fd95603-64aed1e9c6085b5faf20ee1f"><title>The Rage: Carrie 2 (2099)</title><desc>A high school outcast unleashes telekinetic rage after being humiliated over a deadly prank.</desc><category>Movies</category><rating><value>TV-14</value></rating></programme>
-<programme start="20261109091047 +0000" stop="20261109110012 +0000" channel="6a1610bebdf296985fd95603-64aed1e9c6085b5faf20ee1f"><title>Chick Fight (2020)</title><desc>A down-on-her-luck woman joins an underground, all-female fight club.</desc><category>Movies</category><rating><value>PG-13</value></rating></programme>
-<programme start="20261109110012 +0000" stop="20261109125113 +0000" channel="6a1610bebdf296985fd95603-64aed1e9c6085b5faf20ee1f"><title>So Undercover (2012)</title><desc>Miley Cyrus stars as a detective who goes undercover at a sorority to protect a key witness’s daughter.</desc><category>Movies</category><rating><value>PG-13</value></rating></programme>
-<programme start="20261109125113 +0000" stop="20261109145031 +0000" channel="6a1610bebdf296985fd95603-64aed1e9c6085b5faf20ee1f"><title>Drama Drama (2021)</title><desc>Teenage girls form a pop group to take a stand against bullying in their high school.</desc><category>Movies</category><rating><value>14A</value></rating></programme>
-<programme start="20261109145031 +0000" stop="20261109162142 +0000" channel="6a1610bebdf296985fd95603-64aed1e9c6085b5faf20ee1f"><title>Taboo (2002)</title><desc>An unknown killer stalks six friends one year after they played a provocative parlor game.</desc><category>Movies</category><rating><value>PG-13</value></rating></programme>
-<programme start="20261109162142 +0000" stop="20261109181643 +0000" channel="6a1610bebdf296985fd95603-64aed1e9c6085b5faf20ee1f"><title>Blue Steel (1990)</title><desc>Jamie Lee Curtis stars as a rookie cop engaged in a cat-and-mouse game with an obsessed gunman.</desc><category>Movies</category><rating><value>PG-13</value></rating></programme>
-<programme start="20261109181643 +0000" stop="20261109200925 +0000" channel="6a1610bebdf296985fd95603-64aed1e9c6085b5faf20ee1f"><title>Freeway (1996)</title><desc>Reese Witherspoon stars as a delinquent evading a serial killer in this retelling of Little Red Riding Hood.</desc><category>Movies</category><rating><value>PG-13</value></rating></programme>
-<programme start="20261109200925 +0000" stop="20261109214236 +0000" channel="6a1610bebdf296985fd95603-64aed1e9c6085b5faf20ee1f"><title>Taboo (2002)</title><desc>An unknown killer stalks six friends one year after they played a provocative parlor game.</desc><category>Movies</category><rating><value>PG-13</value></rating></programme>
-<programme start="20261109214236 +0000" stop="20261109232621 +0000" channel="6a1610bebdf296985fd95603-64aed1e9c6085b5faf20ee1f"><title>True Crime (1995)</title><desc>Alicia Silverstone stars as a teenage girl who tries to solve the grisly murder of one of her classmates.</desc><category>Movies</category><rating><value>PG-13</value></rating></programme>
-<programme start="20261109232621 +0000" stop="20261110005946 +0000" channel="6a1610bebdf296985fd95603-64aed1e9c6085b5faf20ee1f"><title>Disturbing Behavior (1998)</title><desc>A new kid at Cradle Bay High School discovers the town's disturbing method of transforming its unruly teens.</desc><category>Movies</category><rating><value>PG-13</value></rating></programme>
-<programme start="20261110005946 +0000" stop="20261110030357 +0000" channel="6a1610bebdf296985fd95603-64aed1e9c6085b5faf20ee1f"><title>The Skulls (2000)</title><desc>Students join an elite secret society, until a murder changes everything. Stars Paul Walker &amp; Joshua Jackson.</desc><category>Movies</category><rating><value>PG-13</value></rating></programme>
-<programme start="20261110030357 +0000" stop="20261110044637 +0000" channel="6a1610bebdf296985fd95603-64aed1e9c6085b5faf20ee1f"><title>The Bling Ring (2013)</title><desc>Emma Watson leads a group of fame-obsessed teens who use the internet to track and rob celebrities.</desc><category>Movies</category><rating><value>TV-14</value></rating></programme>
 <programme start="20261109040239 +0000" stop="20261109051605 +0000" channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643"><title>Gavin and Stacey Specials</title><sub-title>Gavin and Stacey: Special: Christmas 2019: A Special Christmas</sub-title><desc>The iconic, multi-award-winning sitcom returns after 10 years for a Christmas special.</desc><category>Comedy</category><episode-num system="onscreen">S1E3</episode-num><episode-num system="xmltv_ns">0.2.</episode-num><rating><value>TV-G</value></rating></programme>
 <programme start="20261109051605 +0000" stop="20261109054315 +0000" channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643"><title>Moone Boy</title><sub-title>Episode 1</sub-title><desc>Martin's birthday takes a bad turn when his new bike gets trashed by the Bonner brothers.</desc><category>Comedy</category><episode-num system="onscreen">S1E1</episode-num><episode-num system="xmltv_ns">0.0.</episode-num><rating><value>TV-14</value></rating></programme>
 <programme start="20261109054315 +0000" stop="20261109060930 +0000" channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643"><title>Moone Boy</title><sub-title>Episode 2</sub-title><desc>Debra hits the campaign trail to support Mary Robinson's bid for the Irish presidency.</desc><category>Comedy</category><episode-num system="onscreen">S1E2</episode-num><episode-num system="xmltv_ns">0.1.</episode-num><rating><value>TV-14</value></rating></programme>
@@ -40740,6 +40829,12 @@ There's nothing like a party to stir up decades worth of sibling rivalries, bitt
     <desc lang="en">Sipowicz tricks a suspected murderer’s mother into giving up her son.</desc>
     <category lang="en">Drama</category>
     <icon src="https://img.vidaahub.com/s3_bucket/60158/live/60158_53ee9b59-581e-4fd2-85b7-51a83adabeca_edae02733-1102-4eb5-9136-ed0c79558a1f_1794370778000/9d0f3f469f9edb1e030b0c7519d606df?f=webp&amp;resize=w_480,h_270"/>
+  </programme>
+<programme start="20261111051221 +0000" stop="20261111060528 +0000" channel="10517">
+    <title lang="en">The Bank Dick</title>
+    <desc lang="en">Russell and Sipowicz track down a man who attacks women at ATM machines.</desc>
+    <category lang="en">Drama</category>
+    <icon src="https://img.vidaahub.com/s3_bucket/60158/live/60158_53ee9b59-581e-4fd2-85b7-51a83adabeca_e08fac7df-2241-435d-9777-eb3827e4cd83_1794373941000/9d0f3f469f9edb1e030b0c7519d606df?f=webp&amp;resize=w_480,h_270"/>
   </programme>
 <programme start="20261109050000 +0000" stop="20261109064500 +0000" channel="8020">
     <title lang="en">Best Man Dead Man</title>
