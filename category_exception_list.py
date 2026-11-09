@@ -4,4 +4,9 @@
 # exclude_list.py's name filter and to dedupe.
 CATEGORY_EXCEPTION_LIST = [
     "Screams TV",
+    "WMTW CBS 13",
+    "WPDE ABC 15",
+    "WFXB FOX 43",
+    "WHMC PBS 23",
+    "WWMB 21",
 ]
