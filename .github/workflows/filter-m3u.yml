@@ -55,7 +55,7 @@ jobs:
         run: python dedupe_m3u.py
 
       - name: Normalize categories
-        run: python normalize_playlists.py --epg playlists/*.m3u
+        run: python normalize_playlists.py --epg 
 
       - name: Commit filtered playlists
         if: ${{ !cancelled() }}
