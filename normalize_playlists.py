@@ -180,6 +180,29 @@ _CANONICAL_MAP: dict[str, str] = {
     'true crime': 'True Crime',
     'western': 'Westerns',
     'westerns': 'Westerns',
+    # Raw names seen in iptv playlists that previously fell through unchanged
+    'tv shows': 'Entertainment',
+    'tv': 'Entertainment',
+    'tv & movies': 'Entertainment',
+    'tv & entertainment': 'Entertainment',
+    'general': 'Entertainment',
+    'bingeworthy': 'Entertainment',
+    'new on pluto tv': 'Entertainment',
+    'daytime tv & games': 'Reality TV',
+    'sitcoms': 'Comedy',
+    'humor': 'Comedy',
+    'komedie': 'Comedy',
+    'crime tv': 'True Crime',
+    'real life adventure': 'Travel',
+    'adrenaline & sci-fi': 'Sci-Fi',
+    'horror & sci-fi': 'Sci-Fi',
+    'sci-fi + fantasy': 'Sci-Fi',
+    'sci-fi & supernatural': 'Sci-Fi',
+    'science fiction': 'Sci-Fi',
+    'movie channels': 'Movies',
+    'business': 'News',
+    'local channels': 'Local News',
+    'local news': 'Local News',
 }
 
 _CANONICAL_LOWER: dict[str, str] = {}
@@ -204,6 +227,8 @@ def _lookup_exact(key: str) -> str | None:
         return _CANONICAL_MAP[key]
     if not _CANONICAL_LOWER:
         _CANONICAL_LOWER.update({c.lower(): c for c in CANONICAL_CATEGORIES})
+        # final merged names (output of MERGE) so a second run recognises them
+        _CANONICAL_LOWER.update({c.lower(): c for c in MERGE.values()})
     return _CANONICAL_LOWER.get(key)
 
 
@@ -263,6 +288,42 @@ def infer_category_from_name(title: str) -> str | None:
     return None
 
 
+DEFAULT_CATEGORY = 'Entertainment'
+
+_RAW_KEYWORD_RULES: list[tuple[tuple[str, ...], str]] = [
+    (('sci-fi', 'scifi', 'science fiction', 'horror', 'supernatural', 'fantasy'), 'Sci-Fi'),
+    (('comedy', 'komedi', 'humor', 'sitcom', 'stand-up'), 'Comedy'),
+    (('crime', 'mystery', 'thriller'), 'True Crime'),
+    (('news', 'business', 'finance', 'weather'), 'News'),
+    (('movie', 'film', 'cinema'), 'Movies'),
+    (('kid', 'family', 'cartoon'), 'Kids'),
+    (('sport', 'soccer', 'football', 'basketball'), 'Sports'),
+    (('music', 'radio'), 'Music'),
+    (('game show', 'daytime', 'reality', 'dating'), 'Reality TV'),
+    (('anime', 'gaming'), 'Anime'),
+    (('food', 'cook', 'travel', 'adventure'), 'Food'),
+    (('doc', 'science', 'history', 'biograph', 'educat'), 'Documentary'),
+    (('drama', 'soap', 'romance', 'telenovela'), 'Drama'),
+    (('nature', 'wildlife', 'animal'), 'Nature'),
+    (('faith', 'relig', 'gospel', 'church'), 'Faith'),
+    (('classic', 'retro', 'vintage', 'nostalgi', 'western'), 'Classic TV'),
+    (('ambian', 'relax', 'fireplace'), 'Ambiance'),
+    (('lifestyle', 'shopping', 'fashion', 'home'), 'Lifestyle'),
+    (('latino', 'latin', 'espa'), 'Latino'),
+    (('local',), 'Local News'),
+]
+
+
+def infer_category_from_raw(raw: str | None) -> str | None:
+    if not raw:
+        return None
+    text = _fold_accents(raw).lower()
+    for keywords, label in _RAW_KEYWORD_RULES:
+        if any(kw in text for kw in keywords):
+            return label
+    return None
+
+
 def category_for_channel(name: str, raw_category: str | None, source_name: str | None = None) -> str | None:
     name_clean = re.sub(r'(?:\s*\([A-Z]{2}\)|\s*\[DRM\])+\s*$', '', (name or '').strip()).strip()
     name_lower = name_clean.lower()
@@ -274,7 +335,13 @@ def category_for_channel(name: str, raw_category: str | None, source_name: str |
     if normalized:
         return normalized
 
-    return infer_category_from_name(name_lower)
+    # Unknown raw group: try keywords in the raw group, then the channel name,
+    # and finally a broad default so no odd raw group name is ever left behind.
+    return (
+        infer_category_from_raw(raw_category)
+        or infer_category_from_name(name_lower)
+        or DEFAULT_CATEGORY
+    )
 
 
 # ---------------------------------------------------------------------------
@@ -326,7 +393,11 @@ def normalize_m3u(path: Path, dry_run: bool) -> tuple[dict[str, dict[str, str]],
         old = html.unescape(m.group(1))
         attrs, name = _split_extinf(line)
         new = category_for_channel(name, old, source) or old
-        new = MERGE.get(new, new)
+        for _ in range(3):
+            merged = MERGE.get(new, new)
+            if merged == new:
+                break
+            new = merged
         if new != old:
             changes[(old, new)] += 1
             line = GROUP_RE.sub(lambda _m: f'group-title="{new.replace(chr(34), "&quot;")}"', line, count=1)
