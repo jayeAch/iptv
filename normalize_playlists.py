@@ -27,12 +27,11 @@ logging.basicConfig(level=logging.WARNING, format="%(levelname)s: %(message)s")
 logger = logging.getLogger(__name__)
 
 # ---------------------------------------------------------------------------
-# Canonical categories & Mapping dictionaries (from category_utils)
+# Final output categories (what ends up in group-title after MERGE)
 # ---------------------------------------------------------------------------
 CANONICAL_CATEGORIES: tuple[str, ...] = (
-    'Action & Adventure',
     'Ambiance',
-    'Anime',
+    'Anime & Gaming',
     'Automotive',
     'Broadcast',
     'Classic TV',
@@ -41,12 +40,7 @@ CANONICAL_CATEGORIES: tuple[str, ...] = (
     'Drama',
     'Entertainment',
     'Faith',
-    'Food',
-    'Game Shows',
-    'Gaming',
-    'History',
-    'Home & DIY',
-    'Horror',
+    'Food & Travel',
     'International',
     'Kids',
     'Latino',
@@ -56,30 +50,42 @@ CANONICAL_CATEGORIES: tuple[str, ...] = (
     'Music',
     'Nature',
     'News',
-    'Outdoors',
     'Reality TV',
-    'Sci-Fi',
-    'Science',
-    'Shopping',
+    'Sci-Fi & Horror',
     'Sports',
-    'Travel',
     'True Crime',
-    'Westerns',
 )
 
+# Values here may be pre-merge names; MERGE (below) folds them into final names.
 _CANONICAL_MAP: dict[str, str] = {
-    'action': 'Action & Adventure',
-    'action & drama': 'Action & Adventure',
-    'action/adventure': 'Action & Adventure',
-    'adventure': 'Action & Adventure',
-    'martial arts': 'Action & Adventure',
-    'action & adventure': 'Action & Adventure',
-    'action and adventure': 'Action & Adventure',
-    
-    'anime & gaming': 'Anime',
-    'gaming & anime': 'Anime',
-    'anime & animation': 'Anime',
-    'animation & anime': 'Anime',
+    # Action / adventure: no dedicated category, uncategorizable -> Entertainment
+    'action': 'Entertainment',
+    'action & drama': 'Entertainment',
+    'action/adventure': 'Entertainment',
+    'adventure': 'Entertainment',
+    'martial arts': 'Entertainment',
+    'action & adventure': 'Entertainment',
+    'action and adventure': 'Entertainment',
+    'real life adventure': 'Entertainment',
+
+    # Pre-merge names seen as raw groups, pinned so they never depend on keywords
+    'outdoors': 'Sports',
+    'shopping': 'Lifestyle',
+    'home & diy': 'Lifestyle',
+    'gaming': 'Anime & Gaming',
+    'anime': 'Anime & Gaming',
+    'science': 'Documentary',
+    'history': 'Documentary',
+    'sci-fi': 'Sci-Fi & Horror',
+    'horror': 'Sci-Fi & Horror',
+    'food': 'Food & Travel',
+    'travel': 'Food & Travel',
+    'ambiance': 'Ambiance',
+
+    'anime & gaming': 'Anime & Gaming',
+    'gaming & anime': 'Anime & Gaming',
+    'anime & animation': 'Anime & Gaming',
+    'animation & anime': 'Anime & Gaming',
 
     'classics': 'Classic TV',
     'classic': 'Classic TV',
@@ -112,9 +118,9 @@ _CANONICAL_MAP: dict[str, str] = {
 
     # Vizio WatchFree+ compound categories
     'kids + family': 'Kids',
-    'food + travel': 'Food',
+    'food + travel': 'Food & Travel',
     'nature + science': 'Nature',
-    'history + docs': 'History',
+    'history + docs': 'Documentary',
     'inspiration + faith': 'Faith',
     'westerns + classics': 'Classic TV',
     'news + opinion': 'News',
@@ -122,7 +128,7 @@ _CANONICAL_MAP: dict[str, str] = {
     'mood + ambiance': 'Ambiance',
     'culture + lifestyle': 'Lifestyle',
     'en español': 'Latino',
-    'home': 'Home & DIY',
+    'home': 'Lifestyle',
     'featured': 'Entertainment',
     'creators': 'Entertainment',
 
@@ -137,7 +143,7 @@ _CANONICAL_MAP: dict[str, str] = {
     'komedi': 'Comedy',
     'crime': 'True Crime',
     'crimen': 'True Crime',
-    'cucina & viaggi': 'Food',
+    'cucina & viaggi': 'Food & Travel',
     'deporte': 'Sports',
     'devotional': 'Faith',
     'divertissement': 'Entertainment',
@@ -150,8 +156,8 @@ _CANONICAL_MAP: dict[str, str] = {
     'film': 'Movies',
     'filme': 'Movies',
     'filmer': 'Movies',
-    'food & travel': 'Food',
-    'game shows': 'Game Shows',
+    'food & travel': 'Food & Travel',
+    'game shows': 'Reality TV',
     'home & food': 'Lifestyle',
     'infotainment': 'Documentary',
     'intrattenimento': 'Entertainment',
@@ -176,10 +182,10 @@ _CANONICAL_MAP: dict[str, str] = {
     'serier': 'Drama',
     'sport': 'Sports',
     'sports': 'Sports',
-    'travel & lifestyle': 'Travel',
+    'travel & lifestyle': 'Food & Travel',
     'true crime': 'True Crime',
-    'western': 'Westerns',
-    'westerns': 'Westerns',
+    'western': 'Classic TV',
+    'westerns': 'Classic TV',
     # Raw names seen in iptv playlists that previously fell through unchanged
     'tv shows': 'Entertainment',
     'tv': 'Entertainment',
@@ -193,21 +199,19 @@ _CANONICAL_MAP: dict[str, str] = {
     'humor': 'Comedy',
     'komedie': 'Comedy',
     'crime tv': 'True Crime',
-    'real life adventure': 'Travel',
-    'adrenaline & sci-fi': 'Sci-Fi',
-    'horror & sci-fi': 'Sci-Fi',
-    'sci-fi + fantasy': 'Sci-Fi',
-    'sci-fi & supernatural': 'Sci-Fi',
-    'sci-fi & horror': 'Sci-Fi',
-    'science fiction': 'Sci-Fi',
+    'adrenaline & sci-fi': 'Sci-Fi & Horror',
+    'horror & sci-fi': 'Sci-Fi & Horror',
+    'sci-fi + fantasy': 'Sci-Fi & Horror',
+    'sci-fi & supernatural': 'Sci-Fi & Horror',
+    'sci-fi & horror': 'Sci-Fi & Horror',
+    'science fiction': 'Sci-Fi & Horror',
     'movie channels': 'Movies',
     'business': 'News',
     'local channels': 'Local News',
     'local news': 'Local News',
-    'food & travel': 'Travel',
 }
 
-_CANONICAL_LOWER: dict[str, str] = {}
+_CANONICAL_LOWER: dict[str, str] = {c.lower(): c for c in CANONICAL_CATEGORIES}
 
 
 def _fold_accents(text: str) -> str:
@@ -217,21 +221,14 @@ def _fold_accents(text: str) -> str:
 def _key_variants(key: str) -> list[str]:
     key = ' '.join(key.split())
     variants = [key]
-    for v in list(variants):
-        folded = _fold_accents(v)
-        if folded not in variants:
-            variants.append(folded)
+    folded = _fold_accents(key)
+    if folded not in variants:
+        variants.append(folded)
     return variants
 
 
 def _lookup_exact(key: str) -> str | None:
-    if key in _CANONICAL_MAP:
-        return _CANONICAL_MAP[key]
-    if not _CANONICAL_LOWER:
-        _CANONICAL_LOWER.update({c.lower(): c for c in CANONICAL_CATEGORIES})
-        # final merged names (output of MERGE) so a second run recognises them
-        _CANONICAL_LOWER.update({c.lower(): c for c in MERGE.values()})
-    return _CANONICAL_LOWER.get(key)
+    return _CANONICAL_MAP.get(key) or _CANONICAL_LOWER.get(key)
 
 
 @lru_cache(maxsize=4096)
@@ -252,11 +249,13 @@ def normalize_category(raw: str | None) -> str | None:
     return _resolve_key(key)
 
 
+# Order matters: first match wins. Local News must precede News.
 _NAME_CATEGORY_RULES: list[tuple[set[str], str]] = [
     ({'sport', 'deportes', 'nfl', 'nba ', 'nhl', 'mlb', 'nascar', 'ufc', 'mma'}, 'Sports'),
     ({'iheart', 'vevo', 'stingray', 'mtv ', 'concerts'}, 'Music'),
     ({'ambient', 'fireplace', 'yule log', 'relaxation', 'lofi', 'slow tv'}, 'Ambiance'),
-    ({'news', 'noticias', 'weather', 'cnn', 'fox local', 'usa today', 'bloomberg'}, 'News'),
+    ({'local news', 'fox local'}, 'Local News'),
+    ({'news', 'noticias', 'weather', 'cnn', 'usa today', 'bloomberg'}, 'News'),
     ({'crime', 'mystery', 'court tv', 'cops', 'law & crime', 'forensic files'}, 'True Crime'),
     ({'horror', 'scary', 'screambox', 'haunt', 'fear zone'}, 'Horror'),
     ({'sci-fi', 'star trek', 'stargate', 'science fiction'}, 'Sci-Fi'),
@@ -269,7 +268,7 @@ _NAME_CATEGORY_RULES: list[tuple[set[str], str]] = [
     ({'drama', 'hallmark', 'law & order', 'csi', 'ncis'}, 'Drama'),
     ({'movies', 'movie', 'cinema', 'film', 'paramount movie'}, 'Movies'),
     ({'western', 'gunsmoke', 'wild west', 'bonanza'}, 'Westerns'),
-    ({'travel', 'adventure', 'journy', 'travelxp'}, 'Travel'),
+    ({'travel', 'journy', 'travelxp'}, 'Travel'),
     ({'history', 'smithsonian', 'ancient aliens'}, 'History'),
     ({'science', 'mythbusters', 'nasa+', 'space'}, 'Science'),
     ({'shopping', 'qvc', 'hsn', 'shop lc'}, 'Shopping'),
@@ -292,7 +291,9 @@ def infer_category_from_name(title: str) -> str | None:
 
 DEFAULT_CATEGORY = 'Entertainment'
 
+# Order matters: first match wins. Local News must precede News.
 _RAW_KEYWORD_RULES: list[tuple[tuple[str, ...], str]] = [
+    (('local', 'regional'), 'Local News'),
     (('sci-fi', 'scifi', 'science fiction', 'horror', 'supernatural', 'fantasy'), 'Sci-Fi'),
     (('comedy', 'komedi', 'humor', 'sitcom', 'stand-up'), 'Comedy'),
     (('crime', 'mystery', 'thriller'), 'True Crime'),
@@ -303,7 +304,7 @@ _RAW_KEYWORD_RULES: list[tuple[tuple[str, ...], str]] = [
     (('music', 'radio'), 'Music'),
     (('game show', 'daytime', 'reality', 'dating'), 'Reality TV'),
     (('anime', 'gaming'), 'Anime'),
-    (('food', 'cook', 'travel', 'adventure'), 'Food'),
+    (('food', 'cook', 'travel'), 'Food'),
     (('doc', 'science', 'history', 'biograph', 'educat'), 'Documentary'),
     (('drama', 'soap', 'romance', 'telenovela'), 'Drama'),
     (('nature', 'wildlife', 'animal'), 'Nature'),
@@ -312,7 +313,6 @@ _RAW_KEYWORD_RULES: list[tuple[tuple[str, ...], str]] = [
     (('ambian', 'relax', 'fireplace'), 'Ambiance'),
     (('lifestyle', 'shopping', 'fashion', 'home'), 'Lifestyle'),
     (('latino', 'latin', 'espa'), 'Latino'),
-    (('local',), 'Local News'),
 ]
 
 
@@ -362,7 +362,6 @@ MERGE: dict[str, str] = {
     "Westerns": "Classic TV",
     "Food": "Food & Travel",
     "Travel": "Food & Travel",
-    "Action & Adventure": "Drama",
     "Game Shows": "Reality TV",
 }
 
