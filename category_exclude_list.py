@@ -3,11 +3,6 @@
 # each channel's category -- unlike exclude_list.py's channel-name substring
 # matching.
 CATEGORY_EXCLUDE_LIST = [
-    "WMTW CBS 13",
-    "WPDE ABC 15",
-    "WFXB FOX 43",
-    "WHMC PBS 23",
-    "WWMB 21",
     "Music & Ambient",
     "Science",
     "Western",
