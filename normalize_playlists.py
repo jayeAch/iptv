@@ -28,6 +28,9 @@ logger = logging.getLogger(__name__)
 
 # ---------------------------------------------------------------------------
 # Final output categories (what ends up in group-title after MERGE)
+#   Crime      = fictional crime dramas / mysteries
+#   True Crime = real crime: forensics, investigations, detective work, court
+#   Sci-Fi and Horror are separate; anything both defaults to Sci-Fi
 # ---------------------------------------------------------------------------
 CANONICAL_CATEGORIES: tuple[str, ...] = (
     'Ambiance',
@@ -124,7 +127,7 @@ _CANONICAL_MAP: dict[str, str] = {
     'inspiration + faith': 'Faith',
     'westerns + classics': 'Classic TV',
     'news + opinion': 'News',
-    'crime + thriller': 'True Crime',
+    'crime + thriller': 'Crime',
     'mood + ambiance': 'Ambiance',
     'culture + lifestyle': 'Lifestyle',
     'en español': 'Latino',
@@ -141,8 +144,7 @@ _CANONICAL_MAP: dict[str, str] = {
     'cinéma': 'Movies',
     'comedia': 'Comedy',
     'komedi': 'Comedy',
-    'crime': 'True Crime',
-    'crimen': 'True Crime',
+    'crimen': 'Crime',
     'cucina & viaggi': 'Travel',
     'deporte': 'Sports',
     'devotional': 'Faith',
@@ -183,9 +185,45 @@ _CANONICAL_MAP: dict[str, str] = {
     'sport': 'Sports',
     'sports': 'Sports',
     'travel & lifestyle': 'Travel',
-    'true crime': 'True Crime',
     'western': 'Classic TV',
     'westerns': 'Classic TV',
+
+    # Crime (fictional crime dramas / mysteries)
+    'crime': 'Crime',
+    'crime tv': 'Crime',
+    'crime drama': 'Crime',
+    'crime dramas': 'Crime',
+    'police dramas': 'Crime',
+    'mystery': 'Crime',
+    'mysteries': 'Crime',
+    'mystery & suspense': 'Crime',
+
+    # True Crime (real crime: forensics, investigations, detective work)
+    'true crime': 'True Crime',
+    'true crime tv': 'True Crime',
+    'real crime': 'True Crime',
+    'forensics': 'True Crime',
+    'investigation': 'True Crime',
+    'investigations': 'True Crime',
+    'detective': 'True Crime',
+    'cold cases': 'True Crime',
+
+    # Sci-Fi / Horror (separate; both together -> Sci-Fi)
+    'sci-fi': 'Sci-Fi',
+    'scifi': 'Sci-Fi',
+    'sci fi': 'Sci-Fi',
+    'fantasy': 'Sci-Fi',
+    'sci-fi & fantasy': 'Sci-Fi',
+    'science fiction': 'Sci-Fi',
+    'sci-fi + fantasy': 'Sci-Fi',
+    'sci-fi & supernatural': 'Sci-Fi',
+    'adrenaline & sci-fi': 'Sci-Fi',
+    'horror & sci-fi': 'Sci-Fi',
+    'sci-fi & horror': 'Sci-Fi',
+    'sci-fi and horror': 'Sci-Fi',
+    'horror': 'Horror',
+    'scary': 'Horror',
+
     # Raw names seen in iptv playlists that previously fell through unchanged
     'tv shows': 'Entertainment',
     'tv': 'Entertainment',
@@ -198,13 +236,6 @@ _CANONICAL_MAP: dict[str, str] = {
     'sitcoms': 'Comedy',
     'humor': 'Comedy',
     'komedie': 'Comedy',
-    'crime tv': 'Crime',
-    'adrenaline & sci-fi': 'Sci-Fi',
-    'horror & sci-fi': 'Sci-Fi',
-    'sci-fi + fantasy': 'Sci-Fi',
-    'sci-fi & supernatural': 'Sci-Fi',
-    'sci-fi & horror': 'Sci-Fi',
-    'science fiction': 'Sci-Fi',
     'movie channels': 'Movies',
     'business': 'News',
     'local channels': 'Local News',
@@ -249,16 +280,21 @@ def normalize_category(raw: str | None) -> str | None:
     return _resolve_key(key)
 
 
-# Order matters: first match wins. Local News must precede News.
+# Order matters: first match wins.
+#   - Local News precedes News.
+#   - True Crime precedes Crime (so "law & crime" is True Crime).
+#   - Sci-Fi precedes Horror (so anything both is Sci-Fi).
 _NAME_CATEGORY_RULES: list[tuple[set[str], str]] = [
     ({'sport', 'deportes', 'nfl', 'nba ', 'nhl', 'mlb', 'nascar', 'ufc', 'mma'}, 'Sports'),
     ({'iheart', 'vevo', 'stingray', 'mtv ', 'concerts'}, 'Music'),
     ({'ambient', 'fireplace', 'yule log', 'relaxation', 'lofi', 'slow tv'}, 'Ambiance'),
     ({'local news', 'fox local'}, 'Local News'),
     ({'news', 'noticias', 'weather', 'cnn', 'usa today', 'bloomberg'}, 'News'),
-    ({'crime', 'mystery', 'court tv', 'cops', 'law & crime', 'forensic files'}, 'True Crime'),
-    ({'horror', 'scary', 'screambox', 'haunt', 'fear zone'}, 'Horror'),
+    ({'true crime', 'court tv', 'cops', 'law & crime', 'forensic', 'dateline',
+      'first 48', 'cold case', 'investigat', 'detective'}, 'True Crime'),
+    ({'crime', 'mystery', 'murder', 'whodunit'}, 'Crime'),
     ({'sci-fi', 'star trek', 'stargate', 'science fiction'}, 'Sci-Fi'),
+    ({'horror', 'scary', 'screambox', 'haunt', 'fear zone'}, 'Horror'),
     ({'anime', 'crunchyroll', 'retrocrush', 'yu-gi-oh'}, 'Anime'),
     ({'food network', 'tastemade', 'cooking', 'kitchen', 'chef'}, 'Food'),
     ({'nature', 'wildlife', 'wildearth', 'love nature', 'national geographic'}, 'Nature'),
@@ -291,12 +327,17 @@ def infer_category_from_name(title: str) -> str | None:
 
 DEFAULT_CATEGORY = 'Entertainment'
 
-# Order matters: first match wins. Local News must precede News.
+# Order matters: first match wins.
+#   - Local News precedes News.
+#   - True Crime precedes Crime.
+#   - Sci-Fi precedes Horror (so anything both is Sci-Fi).
 _RAW_KEYWORD_RULES: list[tuple[tuple[str, ...], str]] = [
     (('local', 'regional'), 'Local News'),
-    (('sci-fi', 'scifi', 'science fiction', 'horror', 'supernatural', 'fantasy'), 'Sci-Fi'),
+    (('sci-fi', 'scifi', 'sci fi', 'science fiction', 'supernatural', 'fantasy'), 'Sci-Fi'),
+    (('horror', 'scary'), 'Horror'),
     (('comedy', 'komedi', 'humor', 'sitcom', 'stand-up'), 'Comedy'),
-    (('crime', 'mystery', 'thriller'), 'True Crime'),
+    (('true crime', 'real crime', 'forensic', 'detective', 'cold case', 'investigat'), 'True Crime'),
+    (('crime', 'mystery', 'thriller'), 'Crime'),
     (('news', 'business', 'finance', 'weather'), 'News'),
     (('movie', 'film', 'cinema'), 'Movies'),
     (('kid', 'family', 'cartoon'), 'Kids'),
@@ -357,8 +398,6 @@ MERGE: dict[str, str] = {
     "Anime": "Anime & Gaming",
     "Science": "Documentary",
     "History": "Documentary",
-    "Sci-Fi": "Sci-Fi & Horror",
-    "Horror": "Sci-Fi & Horror",
     "Westerns": "Classic TV",
     "Food": "Food & Travel",
     "Travel": "Food & Travel",
