@@ -70,7 +70,7 @@ CANONICAL_CATEGORIES: tuple[str, ...] = (
 # ---------------------------------------------------------------------------
 _NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
     ('True Crime', (
-        'true crime', 'forensic files', 'cold case files', 'dateline',
+        'love kills', 'crime up close', 'crime zone', 'to catch a smuggler', 'locked up abroad', 'true crime', 'forensic files', 'cold case files', 'dateline',
         'the first 48', 'first 48', 'cops', 'court tv', 'law & crime',
         'law and crime', 'investigation discovery', 'unsolved mysteries',
         'snapped', 'american justice', 'cold justice', 'live pd',
