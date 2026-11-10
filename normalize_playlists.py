@@ -75,7 +75,7 @@ _NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
         'law and crime', 'investigation discovery', 'unsolved mysteries',
         'snapped', 'american justice', 'cold justice', 'live pd',
         'body cam', 'crime watch daily', 'murder files', 'crime stories',
-        'forensic', 'detective',
+        'forensic', 'detective', 'i (almost) got away with it',
     )),
     ('Crime', (
         'csi', 'law & order', 'law and order', 'ncis', 'criminal minds',
