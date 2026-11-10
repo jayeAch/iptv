@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
+<channel id="US4300005KC">
+    <display-name>The Hunger Games</display-name>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4300005KC_20261109T015533SQUARE.png" />
+  </channel>
 <channel id="US300068X7">
     <display-name>Samsung Television Network</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300068X7_20261103T171625SQUARE.png" />
@@ -20,6 +24,10 @@
     <display-name>World’s Most Evil Killers</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1000002NP_20260421T133710SQUARE.png" />
   </channel>
+<channel id="US4100030YU">
+    <display-name>To Catch a Smuggler</display-name>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100030YU_20260421T133636SQUARE.png" />
+  </channel>
 <channel id="USBA300019WF">
     <display-name>TV Land Sitcoms</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300019WF_20260421T143002SQUARE.png" />
@@ -31,6 +39,10 @@
 <channel id="US4700029QM">
     <display-name>Gotham Comedy Live</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4700029QM_20260421T143107SQUARE.png" />
+  </channel>
+<channel id="USBC1300012VK">
+    <display-name>Fear Zone</display-name>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1300012VK_20260707T035838SQUARE.png" />
   </channel>
 <channel id="US200111SU">
     <display-name>Van Helsing</display-name>
@@ -44,6 +56,26 @@
     <display-name>The Asylum</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ17000014C_20260421T141813SQUARE.png" />
   </channel>
+<programme channel="US4300005KC" start="20261110050505 +0000" stop="20261110072130 +0000">
+    <title>The Hunger Games</title>
+    <sub-title>Mockingjay Part 1</sub-title>
+    <desc>Katniss is rescued by rebels and brought to District 13 where she becomes The Mockingjay.</desc>
+    <category lang="en">Movies</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_536546278_1_20231225T003808631Z_121.jpeg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+<programme channel="US4300005KC" start="20261110072130 +0000" stop="20261110095449 +0000">
+    <title>The Hunger Games</title>
+    <sub-title>Mockingjay Part 2</sub-title>
+    <desc>Katniss and a team of rebels from District 13 prepare for the final battle that will decide the fate of Panem.</desc>
+    <category lang="en">Movies</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_536546149_0_20231225T003826665Z_31.jpeg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
 <programme channel="US300068X7" start="20261110044943 +0000" stop="20261110053949 +0000">
     <title>Drop Dead Diva</title>
     <sub-title>Drop Dead Diva Pilot</sub-title>
@@ -200,16 +232,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme channel="US2001109K" start="20261110043742 +0000" stop="20261110050154 +0000">
-    <title>Killer Mysteries</title>
-    <sub-title>Murdered by Twin Daughters</sub-title>
-    <desc>Teen twins say an intruder broke into their home and killed their mother, but the truth is far more sinister  TWA Flight 800 explodes in flames over Long Island.</desc>
-    <category lang="en">Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2395387559_0_20260109T045742351Z_57_imageprocessorclient-tvplus-linear-584c967455-p9wk7.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme channel="US2001109K" start="20261110050154 +0000" stop="20261110052605 +0000">
     <title>Killer Mysteries</title>
     <sub-title>Murder by Mercedes</sub-title>
@@ -340,6 +362,46 @@
       <value>TV-MA</value>
     </rating>
   </programme>
+<programme channel="US4100030YU" start="20261110050900 +0000" stop="20261110055900 +0000">
+    <title>To Catch a Smuggler</title>
+    <sub-title>Popped for Pills</sub-title>
+    <desc>CBP and HSI track 25,000 ecstasy pills bound for Philadelphia from Germany.</desc>
+    <category lang="en">True Crime</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2468045160_0_20260127T225025020Z_1_imageprocessorclient-tvplus-linear-584c967455-l8ntt.jpeg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme channel="US4100030YU" start="20261110055900 +0000" stop="20261110065000 +0000">
+    <title>To Catch a Smuggler</title>
+    <sub-title>Bananas and Blow</sub-title>
+    <desc>CBP finds 100 kilos of coke in a banana shipment bound for a Philly bodega.</desc>
+    <category lang="en">True Crime</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2468045160_0_20260127T225025020Z_1_imageprocessorclient-tvplus-linear-584c967455-l8ntt.jpeg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme channel="US4100030YU" start="20261110065000 +0000" stop="20261110074000 +0000">
+    <title>To Catch a Smuggler</title>
+    <sub-title>The Coke Eater</sub-title>
+    <desc>CBP detains a man suspected of swallowing drugs  AMO agents find $51 million of coke.</desc>
+    <category lang="en">True Crime</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2468045160_0_20260127T225025020Z_1_imageprocessorclient-tvplus-linear-584c967455-l8ntt.jpeg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme channel="US4100030YU" start="20261110074000 +0000" stop="20261110083000 +0000">
+    <title>To Catch a Smuggler</title>
+    <sub-title>Dope in the Hood</sub-title>
+    <desc>LA HSI executes undercover drug buys  CBP intercepts Coyotes at the border.</desc>
+    <category lang="en">True Crime</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2468045160_0_20260127T225025020Z_1_imageprocessorclient-tvplus-linear-584c967455-l8ntt.jpeg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
 <programme channel="USBA300019WF" start="20261110050000 +0000" stop="20261110053000 +0000">
     <title>Baby Mama</title>
     <desc>Holly tries to get to the bottom of a big secret between Eden and her boss.  Stuart is about to be reunited with his beloved dog - until Phil loses him.</desc>
@@ -463,16 +525,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme channel="US4700029QM" start="20261110040546 +0000" stop="20261110050546 +0000">
-    <title>Gotham Comedy Live</title>
-    <sub-title>Mary Lynn Rajskub</sub-title>
-    <desc>Don't miss this chance to see the brilliant comic and "Larry Sanders Show" star Mary Lynn Rajskub along with four of America's funniest up-and-coming comedians live from New York's legendary Gotham Comedy Club.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2526457988_18_20260210T164700576Z_95_imageprocessorclient-tvplus-linear-584c967455-b7vn5.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme channel="US4700029QM" start="20261110050546 +0000" stop="20261110060558 +0000">
     <title>Gotham Comedy Live</title>
     <sub-title>Carlos Mencia</sub-title>
@@ -511,6 +563,56 @@
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2526457988_18_20260210T164700576Z_95_imageprocessorclient-tvplus-linear-584c967455-b7vn5.jpeg" />
     <rating>
       <value>TV-14</value>
+    </rating>
+  </programme>
+<programme channel="USBC1300012VK" start="20261110043657 +0000" stop="20261110053054 +0000">
+    <title>EVIL ENCOUNTERS</title>
+    <sub-title>Phantom Revenge</sub-title>
+    <desc>A thirst for revenge can be a powerful motivator both in life... and death. The ghosts of those who have been wronged during their time on earth will often remain here in an effort to seek justice, and if they can't locate the actual culprit, then anyone will do....</desc>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_551858640_0_20241128T052843953Z_85_imageprocessorclient-tvplus-linear-5dc4fd45f6-48mnw.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="USBC1300012VK" start="20261110053054 +0000" stop="20261110062450 +0000">
+    <title>EVIL ENCOUNTERS</title>
+    <sub-title>DEADLY LEGENDS</sub-title>
+    <desc>The world is rich in ghost stories and paranormal creature sightings, but some are more steeped in history and horror than others. The more famous the legends, the more danger they present for those that encounter them.</desc>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_551858640_0_20241128T052843953Z_85_imageprocessorclient-tvplus-linear-5dc4fd45f6-48mnw.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="USBC1300012VK" start="20261110062450 +0000" stop="20261110071846 +0000">
+    <title>EVIL ENCOUNTERS</title>
+    <sub-title>GHOST HUNTERS UNDER ATTACK</sub-title>
+    <desc>Those who make their living in the paranormal realm know how incredibly dangerous it can be and strongly advise against amateurs venturing into a world they know nothing about. But sometimes, even being a professional won't save you.</desc>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_551858640_0_20241128T052843953Z_85_imageprocessorclient-tvplus-linear-5dc4fd45f6-48mnw.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="USBC1300012VK" start="20261110071846 +0000" stop="20261110081242 +0000">
+    <title>EVIL ENCOUNTERS</title>
+    <sub-title>Between Two Realms</sub-title>
+    <desc>The spirits of the dead can become trapped in the wilderness of Earth for all kinds of reasons. When they are, crossing their paths can lead to terrifying, even life threatening, experiences.</desc>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_551858640_0_20241128T052843953Z_85_imageprocessorclient-tvplus-linear-5dc4fd45f6-48mnw.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="USBC1300012VK" start="20261110081242 +0000" stop="20261110090638 +0000">
+    <title>EVIL ENCOUNTERS</title>
+    <sub-title>TERROR FROM THE SKY</sub-title>
+    <desc>The remote woods are a good place to get away from it all, and the perfect hiding spot for extraterrestrials who don't want their presence known. When humans stumble across them, the horror they experience may never end.</desc>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_551858640_0_20241128T052843953Z_85_imageprocessorclient-tvplus-linear-5dc4fd45f6-48mnw.jpeg" />
+    <rating>
+      <value>TV-PG</value>
     </rating>
   </programme>
 <programme channel="US200111SU" start="20261110042137 +0000" stop="20261110051223 +0000">
