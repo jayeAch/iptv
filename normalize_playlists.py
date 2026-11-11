@@ -109,6 +109,7 @@ def _words(block: str) -> tuple[str, ...]:
 
 NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
     ('Paranormal', _words("""
+        pluto tv overnaturlig
         a haunting
         alien files
         alien nation
