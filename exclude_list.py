@@ -10,6 +10,7 @@ GLOBAL_EXCLUDE_LIST = [
 
 # All other entries (alphabetized, case-sensitive, deduplicated)
 "#SayWhat?!",
+"Todo Familia",
 "&TV",
 "00s Replay",
 "10 NBC WJAR",
