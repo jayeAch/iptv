@@ -212,6 +212,7 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
     # group lookup so channels sourced under a generic "Movies" group still
     # land in their genre.
     ('Sci-Fi', _words("""
+        the asylum
         dark matter tv
         fantasy & horror
         pluto tv fantastic
