@@ -91,6 +91,18 @@ NAME_OVERRIDES: dict[str, str] = {
 # Order matters: first matching list wins. Paranormal stays on top; True Crime
 # must stay above Crime.
 # ---------------------------------------------------------------------------
+def _fold_accents(text: str) -> str:
+    return ''.join(c for c in unicodedata.normalize('NFKD', text) if not unicodedata.combining(c))
+
+
+_APOSTROPHES = re.compile(r"['\u2018\u2019\u02bc`\u00b4]")
+
+
+def _norm(text: str) -> str:
+    """Lowercase, strip accents and apostrophes (straight or curly) for pin matching."""
+    return _APOSTROPHES.sub('', _fold_accents(text or '').lower())
+
+
 def _words(block: str) -> tuple[str, ...]:
     return tuple(w.strip() for w in block.strip().splitlines() if w.strip())
 
@@ -137,7 +149,7 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
         cops
         court tv
         crime 24/7
-        crime cults killers
+        crimes cults killers
         crime files channel
         crime scenes
         crime stories
@@ -199,7 +211,7 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
 def _compile_pins() -> list[tuple[str, re.Pattern]]:
     out = []
     for label, words in NAME_PINS:
-        alts = '|'.join(re.escape(w) for w in sorted(words, key=len, reverse=True))
+        alts = '|'.join(re.escape(_norm(w)) for w in sorted(words, key=len, reverse=True))
         out.append((label, re.compile(r'(?<![a-z0-9])(?:' + alts + r')(?![a-z0-9])')))
     return out
 
@@ -388,10 +400,6 @@ NAME_KEYWORD_RULES: list[tuple[str, tuple[str, ...]]] = [
 # ---------------------------------------------------------------------------
 # Resolution
 # ---------------------------------------------------------------------------
-def _fold_accents(text: str) -> str:
-    return ''.join(c for c in unicodedata.normalize('NFKD', text) if not unicodedata.combining(c))
-
-
 def _first_match(rules: list[tuple[str, tuple[str, ...]]], text: str) -> str | None:
     for label, keywords in rules:
         if any(kw in text for kw in keywords):
@@ -400,7 +408,7 @@ def _first_match(rules: list[tuple[str, tuple[str, ...]]], text: str) -> str | N
 
 
 def pinned_category(name: str) -> str | None:
-    text = _fold_accents(name or '').lower()
+    text = _norm(name)
     for label, rx in _NAME_PIN_RES:
         if rx.search(text):
             return label
