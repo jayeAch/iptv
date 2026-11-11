@@ -370,7 +370,7 @@ _NAME_CATEGORY_RULES: list[tuple[set[str], str]] = [
       'unexplained'}, 'Paranormal'),
     ({'crime', 'mystery', 'murder', 'whodunit'}, 'Crime'),
     ({'sci-fi', 'star trek', 'stargate', 'science fiction'}, 'Sci-Fi'),
-    ({'horror', 'scary', 'screambox', 'haunt', 'fear zone'}, 'Horror'),
+    ({'horror', 'scary', 'screambox', 'haunt'}, 'Horror'),
     ({'anime', 'crunchyroll', 'retrocrush', 'yu-gi-oh'}, 'Anime'),
     ({'food network', 'tastemade', 'cooking', 'kitchen', 'chef'}, 'Food'),
     ({'nature', 'wildlife', 'wildearth', 'love nature', 'national geographic'}, 'Nature'),
