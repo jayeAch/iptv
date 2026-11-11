@@ -200,6 +200,7 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
         murder, she wrote
         mystery
         ncis
+        nypd blue
         perry mason
         poirot
         rockford files
