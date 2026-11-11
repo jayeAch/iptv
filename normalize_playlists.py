@@ -9,12 +9,20 @@ Usage:
     python normalize_playlists.py playlists/vizio.m3u   # specific files
     python normalize_playlists.py --epg                 # also fix XMLTV <category>
     python normalize_playlists.py --dry-run             # report only
+
+How a channel's category is decided (first hit wins):
+    1. NAME_OVERRIDES   exact channel-name -> category
+    2. NAME_PINS        whole-word channel/show names (edit these to force a category)
+    3. RAW_GROUPS       exact match on the source playlist's group-title
+    4. RAW_KEYWORD_RULES   keyword inside the source group-title
+    5. NAME_KEYWORD_RULES  keyword inside the channel name
+    6. DEFAULT_CATEGORY
+All rules emit final category names directly (no separate merge pass).
 """
 from __future__ import annotations
 
 import argparse
 import html
-import logging
 import re
 import sys
 import unicodedata
@@ -23,11 +31,8 @@ from collections import Counter
 from functools import lru_cache
 from pathlib import Path
 
-logging.basicConfig(level=logging.WARNING, format="%(levelname)s: %(message)s")
-logger = logging.getLogger(__name__)
-
 # ---------------------------------------------------------------------------
-# Final output categories (what ends up in group-title after MERGE)
+# Final output categories (what ends up in group-title)
 #   Crime      = fictional crime dramas / mysteries
 #   True Crime = real crime: forensics, investigations, detective work, court
 #   Paranormal = shows presented as real supernatural events (ghost hunts,
@@ -47,7 +52,7 @@ CANONICAL_CATEGORIES: tuple[str, ...] = (
     'Drama',
     'Entertainment',
     'Faith',
-    'Travel',
+    'Food & Travel',
     'Horror',
     'International',
     'Kids',
@@ -65,54 +70,333 @@ CANONICAL_CATEGORIES: tuple[str, ...] = (
     'True Crime',
 )
 
+DEFAULT_CATEGORY = 'Entertainment'
+
 # ---------------------------------------------------------------------------
-# CHANNEL NAME PINS -- edit these lists to force a category by channel/show name.
+# 1. NAME OVERRIDES -- exact (lowercased) channel name -> category
+# ---------------------------------------------------------------------------
+NAME_OVERRIDES: dict[str, str] = {
+    'comedia': 'Comedy',
+    'komedi': 'Comedy',
+    'sport': 'Sports',
+}
+
+# ---------------------------------------------------------------------------
+# 2. NAME PINS -- force a category by channel/show name.
+# One phrase per line, no quotes or commas needed (apostrophes are fine).
 # Checked BEFORE the raw group lookup, so they override whatever group the
 # source playlist (or a previous run) put the channel in.
-# Matching is case/accent-insensitive on whole words/phrases in the channel name.
+# Matching is case/accent-insensitive on WHOLE words/phrases, so 'ghost hunt'
+# does not match 'ghost hunters' (list both).
 # Order matters: first matching list wins. Paranormal stays on top; True Crime
 # must stay above Crime.
 # ---------------------------------------------------------------------------
-_NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
-    ('Paranormal', (
-        'paranormal', 'ghost hunters', 'ghost adventures', 'ghost hunt',
-        'ghost stories', 'ghost brothers', 'ghost files', 'the dead files',
-        'most haunted', 'haunted collector', 'i was haunted',
-        'finding bigfoot', 'bigfoot', 'monsters are real', 'monsterquest',
-        'destination truth', 'ancient aliens', 'ufo files', 'ufo hunters',
-        'the unexplained', 'unexplained files', 'unexplained mysteries',
-        'long island medium', 'psychic kids', 'ghost dimension',
-        'alien files', 'a haunting', 'haunttv', 'haunt tv', 'alien nation', 'fear zone', 'fear zone [drm]',
-    )),
-    ('True Crime', (
-        'love kills', 'crime up close', 'crime zone', 'to catch a smuggler', 'locked up abroad', 'true crime', 'forensic files', 'cold case files', 'dateline',
-        'the first 48', 'first 48', 'cops', 'court tv', 'law & crime',
-        'law and crime', 'investigation discovery', 'unsolved mysteries',
-        'snapped', 'american justice', 'cold justice', 'live pd',
-        'body cam', 'crime watch daily', 'murder files', 'crime stories',
-        'forensic', 'detective', 'i (almost) got away with it', 'crime cults killers', 'crime scenes', 'pluto tv crime', '20/20', 'world's most evil killers', 'world's wildest police videos', 'crime files channel', 'crime 24/7', 'the new detectives', 'killer mysteries', 'xumo free crime tv', 
-    )),
-    ('Crime', (
-        'csi', 'law & order', 'law and order', 'ncis', 'criminal minds',
-        'monk', 'columbo', 'perry mason', 'murder, she wrote',
-        'murder she wrote', 'matlock', 'rockford files', 'cagney & lacey',
-        'hawaii five-0', 'hawaii five-o', 'in the heat of the night',
-        'diagnosis murder', 'midsomer murders', 'miss marple',
-        'hercule poirot', 'poirot', 'sherlock', 'whodunit', 'mystery',
-        'crime drama', 'crime',
-    )),
+def _words(block: str) -> tuple[str, ...]:
+    return tuple(w.strip() for w in block.strip().splitlines() if w.strip())
+
+
+NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
+    ('Paranormal', _words("""
+        a haunting
+        alien files
+        alien nation
+        ancient aliens
+        bigfoot
+        destination truth
+        fear zone
+        ghost adventures
+        ghost brothers
+        ghost dimension
+        ghost files
+        ghost hunt
+        ghost hunters
+        ghost stories
+        haunt tv
+        haunted collector
+        haunttv
+        i was haunted
+        long island medium
+        monsterquest
+        monsters are real
+        most haunted
+        paranormal
+        psychic kids
+        the dead files
+        the unexplained
+        ufo files
+        ufo hunters
+        unexplained files
+        unexplained mysteries
+    """)),
+    ('True Crime', _words("""
+        20/20
+        american justice
+        body cam
+        cold case files
+        cold justice
+        cops
+        court tv
+        crime 24/7
+        crime cults killers
+        crime files channel
+        crime scenes
+        crime stories
+        crime up close
+        crime watch daily
+        crime zone
+        dateline
+        detective
+        first 48
+        forensic
+        i (almost) got away with it
+        investigation discovery
+        killer mysteries
+        law & crime
+        law and crime
+        live pd
+        locked up abroad
+        love kills
+        murder files
+        pluto tv crime
+        snapped
+        the new detectives
+        to catch a smuggler
+        true crime
+        unsolved mysteries
+        world's most evil killers
+        world's wildest police videos
+        xumo free crime tv
+    """)),
+    ('Crime', _words("""
+        cagney & lacey
+        columbo
+        crime
+        criminal minds
+        csi
+        diagnosis murder
+        hawaii five-0
+        hawaii five-o
+        in the heat of the night
+        law & order
+        law and order
+        matlock
+        midsomer murders
+        miss marple
+        monk
+        murder she wrote
+        murder, she wrote
+        mystery
+        ncis
+        perry mason
+        poirot
+        rockford files
+        sherlock
+        whodunit
+    """)),
 ]
 
 
 def _compile_pins() -> list[tuple[str, re.Pattern]]:
     out = []
-    for label, words in _NAME_PINS:
+    for label, words in NAME_PINS:
         alts = '|'.join(re.escape(w) for w in sorted(words, key=len, reverse=True))
         out.append((label, re.compile(r'(?<![a-z0-9])(?:' + alts + r')(?![a-z0-9])')))
     return out
 
 
 _NAME_PIN_RES = _compile_pins()
+
+# ---------------------------------------------------------------------------
+# 3. RAW GROUPS -- exact (lowercased) source group-title -> category.
+# Written category -> groups so each category's aliases sit together.
+# ---------------------------------------------------------------------------
+RAW_GROUPS: dict[str, tuple[str, ...]] = {
+    'Ambiance': (
+        'ambiance', 'mood + ambiance',
+    ),
+    'Anime & Gaming': (
+        'anime', 'anime & animation', 'anime & gaming', 'animation & anime',
+        'gaming', 'gaming & anime',
+    ),
+    'Automotive': (
+        'auto & motor',
+    ),
+    'Classic TV': (
+        'classic', 'classic tv', 'classic tv & movies', 'classics', 'nostalgia',
+        'retro', 'vintage tv', 'western', 'westerns', 'westerns + classics',
+    ),
+    'Comedy': (
+        'comedia', 'humor', 'komedi', 'komedie', 'sitcoms',
+    ),
+    'Crime': (
+        'crime', 'crime + thriller', 'crime drama', 'crime dramas', 'crime tv',
+        'crimen', 'mysteries', 'mystery', 'mystery & suspense', 'police dramas',
+    ),
+    'Documentary': (
+        'biographies', 'biography', 'docs', 'documentaires', 'documentales',
+        'documentari', 'documentaries', 'documentary & biography',
+        'dokus & wissen', 'education', 'educational', 'factual', 'history',
+        'history + docs', 'infotainment', 'science', 'special interest',
+        'true stories',
+    ),
+    'Drama': (
+        'asian drama', 'drama series', 'dramas', 'k-drama', 'romance', 'serie',
+        'serier', 'series', 'soap operas', 'soaps', 'tv dramas',
+    ),
+    'Entertainment': (
+        'action', 'action & adventure', 'action & drama', 'action and adventure',
+        'action/adventure', 'adventure', 'bingeworthy', 'creators',
+        'divertissement', 'entertainment', 'entretenimiento', 'featured',
+        'general', 'intrattenimento', 'martial arts', 'new on pluto tv',
+        'real life adventure', 'tv', 'tv & entertainment', 'tv & movies',
+        'tv shows',
+    ),
+    'Faith': (
+        'devotional', 'inspiration + faith',
+    ),
+    'Food & Travel': (
+        'cucina & viaggi', 'food', 'food & travel', 'food + travel',
+        'travel', 'travel & lifestyle',
+    ),
+    'Horror': (
+        'horror', 'scary',
+    ),
+    'Kids': (
+        'bambini', 'jeunesse', 'kids', 'kids + family', 'niños',
+    ),
+    'Latino': (
+        'en español', 'latino',
+    ),
+    'Lifestyle': (
+        'culture + lifestyle', 'home', 'home & diy', 'home & food', 'lifestyle',
+        'shopping',
+    ),
+    'Local News': (
+        'local channels', 'local news', 'regional news',
+    ),
+    'Movies': (
+        'cine', 'cinéma', 'film', 'filme', 'filmer', 'movie channels', 'movies',
+    ),
+    'Music': (
+        'musica', 'música', 'musik', 'musique',
+    ),
+    'Nature': (
+        'nature', 'nature + science',
+    ),
+    'News': (
+        'actualités', 'business', 'news', 'news + opinion', 'noticias', 'nyheter',
+    ),
+    'Paranormal': (
+        'ghost hunting', 'ghosts', 'paranormal', 'paranormal & unexplained',
+        'paranormal + unexplained', 'paranormal tv', 'ufo', 'ufos',
+        'ufos & aliens', 'unexplained',
+    ),
+    'Reality TV': (
+        'daytime tv & games', 'game shows', 'reality', 'reality tv',
+    ),
+    'Sci-Fi': (
+        'adrenaline & sci-fi', 'fantasy', 'horror & sci-fi', 'sci fi', 'scifi',
+        'sci-fi', 'sci-fi & fantasy', 'sci-fi & horror', 'sci-fi & supernatural',
+        'sci-fi + fantasy', 'sci-fi and horror', 'science fiction',
+    ),
+    'Sports': (
+        'calcio', 'deporte', 'outdoors', 'sport', 'sports',
+    ),
+    'True Crime': (
+        'cold cases', 'detective', 'forensics', 'investigation', 'investigations',
+        'real crime', 'true crime', 'true crime tv',
+    ),
+}
+
+_CANONICAL_MAP: dict[str, str] = {
+    group: label for label, groups in RAW_GROUPS.items() for group in groups
+}
+assert len(_CANONICAL_MAP) == sum(map(len, RAW_GROUPS.values())), \
+    'RAW_GROUPS: a group name is listed under two categories'
+
+_CANONICAL_LOWER: dict[str, str] = {c.lower(): c for c in CANONICAL_CATEGORIES}
+
+# ---------------------------------------------------------------------------
+# 4. RAW KEYWORD RULES -- substring of the source group-title (fallback when
+# the group is not in RAW_GROUPS). First match wins.
+#   - Local News precedes News.
+#   - Paranormal precedes Sci-Fi (which owns the 'supernatural' keyword).
+#   - Sci-Fi precedes Horror (so anything both is Sci-Fi).
+#   - True Crime precedes Crime.
+# ---------------------------------------------------------------------------
+RAW_KEYWORD_RULES: list[tuple[str, tuple[str, ...]]] = [
+    ('Local News',     ('local', 'regional')),
+    ('Paranormal',     ('paranormal', 'unexplained')),
+    ('Sci-Fi',         ('sci-fi', 'scifi', 'sci fi', 'science fiction', 'supernatural', 'fantasy')),
+    ('Horror',         ('horror', 'scary')),
+    ('Comedy',         ('comedy', 'komedi', 'humor', 'sitcom', 'stand-up')),
+    ('True Crime',     ('true crime', 'real crime', 'forensic', 'detective', 'cold case', 'investigat')),
+    ('Crime',          ('crime', 'mystery', 'thriller')),
+    ('News',           ('news', 'business', 'finance', 'weather')),
+    ('Movies',         ('movie', 'film', 'cinema')),
+    ('Kids',           ('kid', 'family', 'cartoon')),
+    ('Sports',         ('sport', 'soccer', 'football', 'basketball')),
+    ('Music',          ('music', 'radio')),
+    ('Reality TV',     ('game show', 'daytime', 'reality', 'dating')),
+    ('Anime & Gaming', ('anime', 'gaming')),
+    ('Food & Travel',  ('food', 'cook', 'travel')),
+    ('Documentary',    ('doc', 'science', 'history', 'biograph', 'educat')),
+    ('Drama',          ('drama', 'soap', 'romance', 'telenovela')),
+    ('Nature',         ('nature', 'wildlife', 'animal')),
+    ('Faith',          ('faith', 'relig', 'gospel', 'church')),
+    ('Classic TV',     ('classic', 'retro', 'vintage', 'nostalgi', 'western')),
+    ('Ambiance',       ('ambian', 'relax', 'fireplace')),
+    ('Lifestyle',      ('lifestyle', 'shopping', 'fashion', 'home')),
+    ('Latino',         ('latino', 'latin', 'espa')),
+]
+
+# ---------------------------------------------------------------------------
+# 5. NAME KEYWORD RULES -- substring of the channel name (last resort before
+# the default). First match wins. Trailing spaces are intentional.
+#   - Local News precedes News.
+#   - True Crime precedes Crime (so "law & crime" is True Crime).
+#   - Sci-Fi precedes Horror (so anything both is Sci-Fi).
+# ---------------------------------------------------------------------------
+NAME_KEYWORD_RULES: list[tuple[str, tuple[str, ...]]] = [
+    ('Sports',         ('sport', 'deportes', 'nfl', 'nba ', 'nhl', 'mlb', 'nascar', 'ufc', 'mma')),
+    ('Music',          ('iheart', 'vevo', 'stingray', 'mtv ', 'concerts')),
+    ('Ambiance',       ('ambient', 'fireplace', 'yule log', 'relaxation', 'lofi', 'slow tv')),
+    ('Local News',     ('local news', 'fox local')),
+    ('News',           ('news', 'noticias', 'weather', 'cnn', 'usa today', 'bloomberg')),
+    ('True Crime',     ('true crime', 'court tv', 'cops', 'law & crime', 'forensic', 'dateline',
+                        'first 48', 'cold case', 'investigat', 'detective')),
+    ('Paranormal',     ('paranormal', 'ghost hunt', 'haunted', 'bigfoot', 'ufo ', 'ancient aliens',
+                        'unexplained')),
+    ('Crime',          ('crime', 'mystery', 'murder', 'whodunit')),
+    ('Sci-Fi',         ('sci-fi', 'star trek', 'stargate', 'science fiction')),
+    ('Horror',         ('horror', 'scary', 'screambox', 'haunt')),
+    ('Anime & Gaming', ('anime', 'crunchyroll', 'retrocrush', 'yu-gi-oh')),
+    ('Food & Travel',  ('food network', 'tastemade', 'cooking', 'kitchen', 'chef')),
+    ('Nature',         ('nature', 'wildlife', 'wildearth', 'love nature', 'national geographic')),
+    ('Lifestyle',      ('this old house', 'home & diy', 'gardening', 'home improvement')),
+    ('Comedy',         ('comedy', 'laugh', 'sitcom', 'snl', 'mst3k', 'failarmy')),
+    ('Kids',           ('kids', 'family', 'children', 'cartoon', 'junior')),
+    ('Drama',          ('drama', 'hallmark', 'law & order', 'csi', 'ncis')),
+    ('Movies',         ('movies', 'movie', 'cinema', 'film', 'paramount movie')),
+    ('Classic TV',     ('western', 'gunsmoke', 'wild west', 'bonanza')),
+    ('Food & Travel',  ('travel', 'journy', 'travelxp')),
+    ('Documentary',    ('history', 'smithsonian', 'science', 'mythbusters', 'nasa+', 'space')),
+    ('Lifestyle',      ('shopping', 'qvc', 'hsn', 'shop lc')),
+]
+
+
+# ---------------------------------------------------------------------------
+# Resolution
+# ---------------------------------------------------------------------------
+def _fold_accents(text: str) -> str:
+    return ''.join(c for c in unicodedata.normalize('NFKD', text) if not unicodedata.combining(c))
+
+
+def _first_match(rules: list[tuple[str, tuple[str, ...]]], text: str) -> str | None:
+    for label, keywords in rules:
+        if any(kw in text for kw in keywords):
+            return label
+    return None
 
 
 def pinned_category(name: str) -> str | None:
@@ -123,223 +407,11 @@ def pinned_category(name: str) -> str | None:
     return None
 
 
-# Values here may be pre-merge names; MERGE (below) folds them into final names.
-_CANONICAL_MAP: dict[str, str] = {
-    # Action / adventure: no dedicated category, uncategorizable -> Entertainment
-    'action': 'Entertainment',
-    'action & drama': 'Entertainment',
-    'action/adventure': 'Entertainment',
-    'adventure': 'Entertainment',
-    'martial arts': 'Entertainment',
-    'action & adventure': 'Entertainment',
-    'action and adventure': 'Entertainment',
-    'real life adventure': 'Entertainment',
-
-    # Pre-merge names seen as raw groups, pinned so they never depend on keywords
-    'outdoors': 'Sports',
-    'shopping': 'Lifestyle',
-    'home & diy': 'Lifestyle',
-    'gaming': 'Anime & Gaming',
-    'anime': 'Anime & Gaming',
-    'science': 'Documentary',
-    'history': 'Documentary',
-    'food': 'Food & Travel',
-    'travel': 'Food & Travel',
-    'ambiance': 'Ambiance',
-
-    'anime & gaming': 'Anime & Gaming',
-    'gaming & anime': 'Anime & Gaming',
-    'anime & animation': 'Anime & Gaming',
-    'animation & anime': 'Anime & Gaming',
-
-    'classics': 'Classic TV',
-    'classic': 'Classic TV',
-    'classic tv': 'Classic TV',
-    'classic tv & movies': 'Classic TV',
-    'retro': 'Classic TV',
-    'nostalgia': 'Classic TV',
-    'vintage tv': 'Classic TV',
-
-    'documentaries': 'Documentary',
-    'factual': 'Documentary',
-    'docs': 'Documentary',
-    'documentary & biography': 'Documentary',
-    'biography': 'Documentary',
-    'biographies': 'Documentary',
-    'true stories': 'Documentary',
-    'special interest': 'Documentary',
-    'educational': 'Documentary',
-    'education': 'Documentary',
-
-    'tv dramas': 'Drama',
-    'dramas': 'Drama',
-    'drama series': 'Drama',
-    'soap operas': 'Drama',
-    'soaps': 'Drama',
-    'series': 'Drama',
-    'k-drama': 'Drama',
-    'asian drama': 'Drama',
-    'romance': 'Drama',
-
-    # Vizio WatchFree+ compound categories
-    'kids + family': 'Kids',
-    'food + travel': 'Travel',
-    'nature + science': 'Nature',
-    'history + docs': 'Documentary',
-    'inspiration + faith': 'Faith',
-    'westerns + classics': 'Classic TV',
-    'news + opinion': 'News',
-    'crime + thriller': 'Crime',
-    'mood + ambiance': 'Ambiance',
-    'culture + lifestyle': 'Lifestyle',
-    'en español': 'Latino',
-    'home': 'Lifestyle',
-    'featured': 'Entertainment',
-    'creators': 'Entertainment',
-
-    # International / Multilingual variants
-    'actualités': 'News',
-    'auto & motor': 'Automotive',
-    'bambini': 'Kids',
-    'calcio': 'Sports',
-    'cine': 'Movies',
-    'cinéma': 'Movies',
-    'comedia': 'Comedy',
-    'komedi': 'Comedy',
-    'crimen': 'Crime',
-    'cucina & viaggi': 'Travel',
-    'deporte': 'Sports',
-    'devotional': 'Faith',
-    'divertissement': 'Entertainment',
-    'documentaires': 'Documentary',
-    'documentales': 'Documentary',
-    'documentari': 'Documentary',
-    'dokus & wissen': 'Documentary',
-    'entertainment': 'Entertainment',
-    'entretenimiento': 'Entertainment',
-    'film': 'Movies',
-    'filme': 'Movies',
-    'filmer': 'Movies',
-    'food & travel': 'Travel',
-    'game shows': 'Reality TV',
-    'home & food': 'Lifestyle',
-    'infotainment': 'Documentary',
-    'intrattenimento': 'Entertainment',
-    'jeunesse': 'Kids',
-    'kids': 'Kids',
-    'latino': 'Latino',
-    'lifestyle': 'Lifestyle',
-    'movies': 'Movies',
-    'musica': 'Music',
-    'musik': 'Music',
-    'musique': 'Music',
-    'música': 'Music',
-    'nature': 'Nature',
-    'news': 'News',
-    'niños': 'Kids',
-    'noticias': 'News',
-    'nyheter': 'News',
-    'reality': 'Reality TV',
-    'reality tv': 'Reality TV',
-    'regional news': 'Local News',
-    'serie': 'Drama',
-    'serier': 'Drama',
-    'sport': 'Sports',
-    'sports': 'Sports',
-    'travel & lifestyle': 'Travel',
-    'western': 'Classic TV',
-    'westerns': 'Classic TV',
-
-    # Crime (fictional crime dramas / mysteries)
-    'crime': 'Crime',
-    'crime tv': 'Crime',
-    'crime drama': 'Crime',
-    'crime dramas': 'Crime',
-    'police dramas': 'Crime',
-    'mystery': 'Crime',
-    'mysteries': 'Crime',
-    'mystery & suspense': 'Crime',
-
-    # True Crime (real crime: forensics, investigations, detective work)
-    'true crime': 'True Crime',
-    'true crime tv': 'True Crime',
-    'real crime': 'True Crime',
-    'forensics': 'True Crime',
-    'investigation': 'True Crime',
-    'investigations': 'True Crime',
-    'detective': 'True Crime',
-    'cold cases': 'True Crime',
-
-    # Paranormal (purported real supernatural events, not fiction)
-    'paranormal': 'Paranormal',
-    'paranormal tv': 'Paranormal',
-    'paranormal & unexplained': 'Paranormal',
-    'paranormal + unexplained': 'Paranormal',
-    'unexplained': 'Paranormal',
-    'ghosts': 'Paranormal',
-    'ghost hunting': 'Paranormal',
-    'ufo': 'Paranormal',
-    'ufos': 'Paranormal',
-    'ufos & aliens': 'Paranormal',
-
-    # Sci-Fi / Horror (separate; both together -> Sci-Fi)
-    'sci-fi': 'Sci-Fi',
-    'scifi': 'Sci-Fi',
-    'sci fi': 'Sci-Fi',
-    'fantasy': 'Sci-Fi',
-    'sci-fi & fantasy': 'Sci-Fi',
-    'science fiction': 'Sci-Fi',
-    'sci-fi + fantasy': 'Sci-Fi',
-    'sci-fi & supernatural': 'Sci-Fi',
-    'adrenaline & sci-fi': 'Sci-Fi',
-    'horror & sci-fi': 'Sci-Fi',
-    'sci-fi & horror': 'Sci-Fi',
-    'sci-fi and horror': 'Sci-Fi',
-    'horror': 'Horror',
-    'scary': 'Horror',
-
-    # Raw names seen in iptv playlists that previously fell through unchanged
-    'tv shows': 'Entertainment',
-    'tv': 'Entertainment',
-    'tv & movies': 'Entertainment',
-    'tv & entertainment': 'Entertainment',
-    'general': 'Entertainment',
-    'bingeworthy': 'Entertainment',
-    'new on pluto tv': 'Entertainment',
-    'daytime tv & games': 'Reality TV',
-    'sitcoms': 'Comedy',
-    'humor': 'Comedy',
-    'komedie': 'Comedy',
-    'movie channels': 'Movies',
-    'business': 'News',
-    'local channels': 'Local News',
-    'local news': 'Local News',
-}
-
-_CANONICAL_LOWER: dict[str, str] = {c.lower(): c for c in CANONICAL_CATEGORIES}
-
-
-def _fold_accents(text: str) -> str:
-    return ''.join(c for c in unicodedata.normalize('NFKD', text) if not unicodedata.combining(c))
-
-
-def _key_variants(key: str) -> list[str]:
-    key = ' '.join(key.split())
-    variants = [key]
-    folded = _fold_accents(key)
-    if folded not in variants:
-        variants.append(folded)
-    return variants
-
-
-def _lookup_exact(key: str) -> str | None:
-    return _CANONICAL_MAP.get(key) or _CANONICAL_LOWER.get(key)
-
-
 @lru_cache(maxsize=4096)
 def _resolve_key(key: str) -> str | None:
-    for variant in _key_variants(key):
-        hit = _lookup_exact(variant)
+    key = ' '.join(key.split())
+    for variant in (key, _fold_accents(key)):
+        hit = _CANONICAL_MAP.get(variant) or _CANONICAL_LOWER.get(variant)
         if hit:
             return hit
     return None
@@ -350,156 +422,38 @@ def normalize_category(raw: str | None) -> str | None:
         return raw
     cleaned = re.sub(r'\s+presented\s+by\s+.+$', '', raw.strip(), flags=re.IGNORECASE).strip()
     cleaned = re.sub(r'\s*\([A-Za-z]{2}\)\s*$', '', cleaned).strip()
-    key = cleaned.lower()
-    return _resolve_key(key)
-
-
-# Order matters: first match wins.
-#   - Local News precedes News.
-#   - True Crime precedes Crime (so "law & crime" is True Crime).
-#   - Sci-Fi precedes Horror (so anything both is Sci-Fi).
-_NAME_CATEGORY_RULES: list[tuple[set[str], str]] = [
-    ({'sport', 'deportes', 'nfl', 'nba ', 'nhl', 'mlb', 'nascar', 'ufc', 'mma'}, 'Sports'),
-    ({'iheart', 'vevo', 'stingray', 'mtv ', 'concerts'}, 'Music'),
-    ({'ambient', 'fireplace', 'yule log', 'relaxation', 'lofi', 'slow tv'}, 'Ambiance'),
-    ({'local news', 'fox local'}, 'Local News'),
-    ({'news', 'noticias', 'weather', 'cnn', 'usa today', 'bloomberg'}, 'News'),
-    ({'true crime', 'court tv', 'cops', 'law & crime', 'forensic', 'dateline',
-      'first 48', 'cold case', 'investigat', 'detective'}, 'True Crime'),
-    ({'paranormal', 'ghost hunt', 'haunted', 'bigfoot', 'ufo ', 'ancient aliens',
-      'unexplained'}, 'Paranormal'),
-    ({'crime', 'mystery', 'murder', 'whodunit'}, 'Crime'),
-    ({'sci-fi', 'star trek', 'stargate', 'science fiction'}, 'Sci-Fi'),
-    ({'horror', 'scary', 'screambox', 'haunt'}, 'Horror'),
-    ({'anime', 'crunchyroll', 'retrocrush', 'yu-gi-oh'}, 'Anime'),
-    ({'food network', 'tastemade', 'cooking', 'kitchen', 'chef'}, 'Food'),
-    ({'nature', 'wildlife', 'wildearth', 'love nature', 'national geographic'}, 'Nature'),
-    ({'this old house', 'home & diy', 'gardening', 'home improvement'}, 'Home & DIY'),
-    ({'comedy', 'laugh', 'sitcom', 'snl', 'mst3k', 'failarmy'}, 'Comedy'),
-    ({'kids', 'family', 'children', 'cartoon', 'junior'}, 'Kids'),
-    ({'drama', 'hallmark', 'law & order', 'csi', 'ncis'}, 'Drama'),
-    ({'movies', 'movie', 'cinema', 'film', 'paramount movie'}, 'Movies'),
-    ({'western', 'gunsmoke', 'wild west', 'bonanza'}, 'Westerns'),
-    ({'travel', 'journy', 'travelxp'}, 'Travel'),
-    ({'history', 'smithsonian', 'ancient aliens'}, 'History'),
-    ({'science', 'mythbusters', 'nasa+', 'space'}, 'Science'),
-    ({'shopping', 'qvc', 'hsn', 'shop lc'}, 'Shopping'),
-]
-
-_NAME_OVERRIDES: dict[str, str] = {
-    'komedi': 'Comedy',
-    'comedia': 'Comedy',
-    'sport': 'Sports',
-}
-
-
-def infer_category_from_name(title: str) -> str | None:
-    tl = title.lower()
-    for keywords, label in _NAME_CATEGORY_RULES:
-        if any(kw in tl for kw in keywords):
-            return label
-    return None
-
-
-DEFAULT_CATEGORY = 'Entertainment'
-
-# Order matters: first match wins.
-#   - Local News precedes News.
-#   - True Crime precedes Crime.
-#   - Paranormal precedes Sci-Fi (which owns the 'supernatural' keyword).
-#   - Sci-Fi precedes Horror (so anything both is Sci-Fi).
-_RAW_KEYWORD_RULES: list[tuple[tuple[str, ...], str]] = [
-    (('local', 'regional'), 'Local News'),
-    (('paranormal', 'unexplained'), 'Paranormal'),
-    (('sci-fi', 'scifi', 'sci fi', 'science fiction', 'supernatural', 'fantasy'), 'Sci-Fi'),
-    (('horror', 'scary'), 'Horror'),
-    (('comedy', 'komedi', 'humor', 'sitcom', 'stand-up'), 'Comedy'),
-    (('true crime', 'real crime', 'forensic', 'detective', 'cold case', 'investigat'), 'True Crime'),
-    (('crime', 'mystery', 'thriller'), 'Crime'),
-    (('news', 'business', 'finance', 'weather'), 'News'),
-    (('movie', 'film', 'cinema'), 'Movies'),
-    (('kid', 'family', 'cartoon'), 'Kids'),
-    (('sport', 'soccer', 'football', 'basketball'), 'Sports'),
-    (('music', 'radio'), 'Music'),
-    (('game show', 'daytime', 'reality', 'dating'), 'Reality TV'),
-    (('anime', 'gaming'), 'Anime'),
-    (('food', 'cook', 'travel'), 'Food'),
-    (('doc', 'science', 'history', 'biograph', 'educat'), 'Documentary'),
-    (('drama', 'soap', 'romance', 'telenovela'), 'Drama'),
-    (('nature', 'wildlife', 'animal'), 'Nature'),
-    (('faith', 'relig', 'gospel', 'church'), 'Faith'),
-    (('classic', 'retro', 'vintage', 'nostalgi', 'western'), 'Classic TV'),
-    (('ambian', 'relax', 'fireplace'), 'Ambiance'),
-    (('lifestyle', 'shopping', 'fashion', 'home'), 'Lifestyle'),
-    (('latino', 'latin', 'espa'), 'Latino'),
-]
+    return _resolve_key(cleaned.lower())
 
 
 def infer_category_from_raw(raw: str | None) -> str | None:
-    if not raw:
-        return None
-    text = _fold_accents(raw).lower()
-    for keywords, label in _RAW_KEYWORD_RULES:
-        if any(kw in text for kw in keywords):
-            return label
-    return None
+    return _first_match(RAW_KEYWORD_RULES, _fold_accents(raw).lower()) if raw else None
+
+
+def infer_category_from_name(title: str) -> str | None:
+    return _first_match(NAME_KEYWORD_RULES, title.lower())
 
 
 def category_for_channel(name: str, raw_category: str | None, source_name: str | None = None) -> str | None:
+    """Category as it will appear in the output playlist. (source_name is unused; kept for callers.)"""
     name_clean = re.sub(r'(?:\s*\([A-Z]{2}\)|\s*\[DRM\])+\s*$', '', (name or '').strip()).strip()
     name_lower = name_clean.lower()
 
-    if name_lower in _NAME_OVERRIDES:
-        return _NAME_OVERRIDES[name_lower]
-
-    # Channel-name pins win over the raw group (and over groups set by earlier runs).
-    pinned = pinned_category(name_clean)
-    if pinned:
-        return pinned
-
-    normalized = normalize_category(raw_category)
-    if normalized:
-        return normalized
-
-    # Unknown raw group: try keywords in the raw group, then the channel name,
-    # and finally a broad default so no odd raw group name is ever left behind.
     return (
-        infer_category_from_raw(raw_category)
+        NAME_OVERRIDES.get(name_lower)
+        or pinned_category(name_clean)          # pins beat the raw group and earlier runs
+        or normalize_category(raw_category)
+        or infer_category_from_raw(raw_category)
         or infer_category_from_name(name_lower)
-        or DEFAULT_CATEGORY
+        or DEFAULT_CATEGORY                     # no odd raw group is ever left behind
     )
 
 
+final_category = category_for_channel
+
+
 # ---------------------------------------------------------------------------
-# Final player-facing group consolidation pass
+# M3U / EPG rewriting
 # ---------------------------------------------------------------------------
-MERGE: dict[str, str] = {
-    "Outdoors": "Sports",
-    "Shopping": "Lifestyle",
-    "Home & DIY": "Lifestyle",
-    "Gaming": "Anime & Gaming",
-    "Anime": "Anime & Gaming",
-    "Science": "Documentary",
-    "History": "Documentary",
-    "Westerns": "Classic TV",
-    "Food": "Food & Travel",
-    "Travel": "Food & Travel",
-    "Game Shows": "Reality TV",
-}
-
-def final_category(name: str, raw_category: str | None, source_name: str | None = None) -> str | None:
-    """Category as it will appear in the output playlist (resolved, then MERGE-folded)."""
-    new = category_for_channel(name, raw_category, source_name)
-    if not new:
-        return new
-    for _ in range(3):
-        merged = MERGE.get(new, new)
-        if merged == new:
-            break
-        new = merged
-    return new
-
-
 GROUP_RE = re.compile(r'group-title="([^"]*)"')
 TVG_ID_RE = re.compile(r'tvg-id="([^"]*)"')
 
@@ -516,7 +470,6 @@ def _split_extinf(line: str) -> tuple[str, str]:
 
 
 def normalize_m3u(path: Path, dry_run: bool) -> tuple[dict[str, dict[str, str]], Counter]:
-    source = path.stem.lower()
     out: list[str] = []
     by_id: dict[str, dict[str, str]] = {}
     changes: Counter = Counter()
@@ -528,7 +481,7 @@ def normalize_m3u(path: Path, dry_run: bool) -> tuple[dict[str, dict[str, str]],
             continue
         old = html.unescape(m.group(1))
         attrs, name = _split_extinf(line)
-        new = final_category(name, old, source) or old
+        new = category_for_channel(name, old) or old
         if new != old:
             changes[(old, new)] += 1
             line = GROUP_RE.sub(lambda _m: f'group-title="{new.replace(chr(34), "&quot;")}"', line, count=1)
