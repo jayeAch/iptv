@@ -142,6 +142,7 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
         unexplained mysteries
     """)),
     ('True Crime', _words("""
+        60 days in jail
         20/20
         american justice
         body cam
