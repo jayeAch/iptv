@@ -205,6 +205,32 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
         sherlock
         whodunit
     """)),
+    # Sci-Fi above Horror: anything both is Sci-Fi. These sit above the raw
+    # group lookup so channels sourced under a generic "Movies" group still
+    # land in their genre.
+    ('Sci-Fi', _words("""
+        dark matter tv
+        fantasy & horror
+        pluto tv fantastic
+        sci-fi
+        sci fi
+        scifi
+        science fiction
+        stargate
+        star trek
+    """)),
+    ('Horror', _words("""
+        dread tv
+        frightflix
+        horror
+        pluto tv terror
+        scare o ween
+        scares
+        scream factory
+        screambox
+        shudder
+        watch it scream
+    """)),
 ]
 
 
