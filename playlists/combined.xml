@@ -952,10 +952,6 @@
     <display-name>Horror Plus</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/746F014B-ACE1-4DE4-B494-BFAE6DE92608/3-1x1.png" />
   </channel>
-<channel id="localnow.6D30170C-D7B3-46A2-8C1F-302D8399F44D">
-    <display-name>Free Movies Plus</display-name>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/6D30170C-D7B3-46A2-8C1F-302D8399F44D/3-1x1.png" />
-  </channel>
 <channel id="localnow.A0A87EFE-61FA-477E-A0E3-44A88013AE74">
     <display-name>WMBF Myrtle Beach, Florence SC</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/A0A87EFE-61FA-477E-A0E3-44A88013AE74/3-1x1.png" />
@@ -967,6 +963,10 @@
 <channel id="localnow.72384889-EEEB-4EEA-93B3-F26FF4E12D6B">
     <display-name>WFXB Myrtle Beach SC (FOX)</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/72384889-EEEB-4EEA-93B3-F26FF4E12D6B/3-1x1.png" />
+  </channel>
+<channel id="freemoviesplus_amg02042c1eng_US">
+    <display-name>Free Movies Plus</display-name>
+    <icon src="https://preview-amagistv-amg02042-cloudport.now.amagi.tv/Images/S3/FMPLOGOLG.png" />
   </channel>
 <channel id="99992286">
     <display-name>Xumo Free Action Movies</display-name>
@@ -2072,11 +2072,6 @@
         <title>The Dirty Dozen: The Deadly Mission</title>
         <desc>The Dirty Dozen are back! Telly Savalas and Ernest Borgnine lead a motley crew of twelve renegade soldiers as they attempt to thwart a Nazi scheme of establishing a Fourth Reich in this thrilling -- and explosive -- World War II action-adventure!</desc>
         <icon src="https://images.pluto.tv/series/69b373e90fb375a670466acc/tile_1784588403090.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="6a315581df0b6d462c18397e-CA" start="20261111221200 +0000" stop="20261111223900 +0000">
-        <title>The Fresh Prince Of Bel-Air</title>
-        <desc>On wedding day, focus shifts to another couple.</desc>
-        <icon src="https://images.pluto.tv/series/6a26dbc3ce1637b4f4185a29/tile_1781281081248.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="6a315581df0b6d462c18397e-CA" start="20261111223900 +0000" stop="20261111230600 +0000">
         <title>The Fresh Prince Of Bel-Air</title>
@@ -22091,26 +22086,6 @@
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/421B7C8F-0DF8-4769-BF8F-F79DD74C31E8/0-2x3.png" />
     <episode-num system="dd_progid">program-comedy-plus-20261111233840</episode-num>
   </programme>
-<programme start="20261111202621 +0000" stop="20261111223916 +0000" channel="localnow.6D30170C-D7B3-46A2-8C1F-302D8399F44D">
-    <title lang="en">Timecop</title>
-    <desc lang="en">An officer for a security agency that regulates time travel, must fend for his life against a shady politician</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/6D30170C-D7B3-46A2-8C1F-302D8399F44D/0-2x3.png" />
-    <episode-num system="dd_progid">program-foodfree-movie-plus-20261111202621</episode-num>
-  </programme>
-<programme start="20261111223916 +0000" stop="20261112012346 +0000" channel="localnow.6D30170C-D7B3-46A2-8C1F-302D8399F44D">
-    <title lang="en">Point Break</title>
-    <desc lang="en">An F.B.I. Agent goes undercover to catch a gang of surfers who may be bank robbers</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/6D30170C-D7B3-46A2-8C1F-302D8399F44D/0-2x3.png" />
-    <episode-num system="dd_progid">program-foodfree-movie-plus-20261111223916</episode-num>
-  </programme>
-<programme start="20261112012346 +0000" stop="20261112022346 +0000" channel="localnow.6D30170C-D7B3-46A2-8C1F-302D8399F44D">
-    <title lang="en">Free Movies Plus</title>
-    <desc lang="en">Free Movies Plus is the ultimate channel for movie lovers, featuring blockbuster hits 24/7.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/6D30170C-D7B3-46A2-8C1F-302D8399F44D/0-2x3.png" />
-  </programme>
 <programme start="20261111180000 +0000" stop="20261112030000 +0000" channel="localnow.72384889-EEEB-4EEA-93B3-F26FF4E12D6B">
     <title lang="en">FOX Midday News</title>
     <desc lang="en">The latest local, regional, statewide and national news updates of the day are offered by the news team, as well as detailed and timely reports on business and upcoming events, area weather conditions and midday traffic.</desc>
@@ -22309,6 +22284,36 @@
     <episode-num system="dd_progid">XM0XUE1DNFBRJ7</episode-num>
     <rating>
       <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261111223916 +0000" stop="20261112012346 +0000" channel="freemoviesplus_amg02042c1eng_US">
+    <title lang="en">Point Break</title>
+    <desc lang="en">An F.B.I. Agent goes undercover to catch a gang of surfers who may be bank robbers</desc>
+    <category lang="en">Movies</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg02042/resized_images/resized_c9e75306c3d11e9e7b811d147c7dbb6a802c8e58878e728bac48ee4452d08ae0_fmp21157png_768_432.jpeg" />
+    <episode-num system="dd_progid">amg02042c32_AMwXjkj1v2e5Sn3kfneCYnv_us</episode-num>
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+<programme start="20261112012346 +0000" stop="20261112040544 +0000" channel="freemoviesplus_amg02042c1eng_US">
+    <title lang="en">Olympus Has Fallen</title>
+    <desc lang="en">Terrorists seize the White House; ex-agent fights to save the President.</desc>
+    <category lang="en">Movies</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg02042/resized_images/resized_510b7abfc9936daef958ab8cc34b6d1b1e9dc02f2bd601b3c4dd395414b46f60_fmp2218png_768_432.jpeg" />
+    <episode-num system="dd_progid">amg02042c32_AT1n91GTfqNcUaxANUTptPC_us</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+<programme start="20261112040544 +0000" stop="20261112061938 +0000" channel="freemoviesplus_amg02042c1eng_US">
+    <title lang="en">London Has Fallen</title>
+    <desc lang="en">When a national day of mourning in London for a fallen leader turns into a horrific terrorist attack, the clock begins ticking for Mike Banning, a seasoned Secret Service agent, and President Asher. What starts as a solemn funeral quickly devolves into chaos as heavily armed insurgents storm the event, resulting in unprecedented violence across the city. Banning, determined to save the President, navigates through a landscape filled with misinformation and danger, uncovering a deeper conspiracy led by the vengeful arms dealer Aamir Barkawi, whose ties to global terrorism threaten more than just the safety of those physically present. With the breakdown of communication channels and infiltration of key security measures, the protagonist must rely on quick thinking and adrenaline-fueled action to outsmart the enemy. The lives of countless civilians are at stake as Banning engages in a tense battle against time, aiming not only to rescue the President but also to dismantle a profoundly dangerous network designed to sow chaos and destruction worldwide. As the crisis unfolds, it becomes more than just a fight for survival; it's a terrifying examination of the fragility of peace and the price of freedom in a convoluted world.</desc>
+    <category lang="en">Movies</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg02042/resized_images/resized_edb00713040050ac43a349d80db0497628c5fd87162fe07a84b97d9f1356bbb2_fmp2219png_768_432.jpeg" />
+    <episode-num system="dd_progid">amg02042c32_A6zf6JZ2D6LouuridxkMqDG_us</episode-num>
+    <rating>
+      <value>PG</value>
     </rating>
   </programme>
 <programme start="20261111222901 +0000" stop="20261111232152 +0000" channel="haunttvus_hntus_US">
@@ -23701,18 +23706,6 @@
     <icon src="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225105525-aups1_1008_dup-20110719.jpg" />
     <episode-num system="xmltv_ns">7.6.0/1</episode-num>
     <date>20110627</date>
-  </programme>
-<programme start="20261111221419 +0000" stop="20261111223844 +0000" channel="black-jesus">
-    <title lang="en">Black Jesus</title>
-    <sub-title lang="en">The Real Jesus of Compton</sub-title>
-    <desc lang="en">The gang talks Jesus into starring in a reality show after a sleazy producer promises them fame and fortune.  It's a disaster from start to finish, but Jesus is determined to get Pop's good word out as a result.</desc>
-    <category lang="en">Comedy</category>
-    <rating system="VCHIP">
-      <value>TV-MA L</value>
-    </rating>
-    <icon src="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261719314-blackjesus_310_air_cid-3FYN7.jpg" />
-    <episode-num system="xmltv_ns">2.9.0/1</episode-num>
-    <date>20191130</date>
   </programme>
 <programme start="20261111223844 +0000" stop="20261111230401 +0000" channel="black-jesus">
     <title lang="en">Black Jesus</title>
@@ -28227,18 +28220,6 @@ ABSurveillanceSolutions.com</desc>
     <icon src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_20312132323-offtheair_102_orig-20110518.jpg" />
     <episode-num system="xmltv_ns">0.1.0/1</episode-num>
     <date>20110525</date>
-  </programme>
-<programme start="20261111221037 +0000" stop="20261111223904 +0000" channel="primal">
-    <title lang="en">Genndy Tartakovsky's Primal</title>
-    <sub-title lang="en">A Cold Death</sub-title>
-    <desc lang="en">In the harshness of the primordial winter a herd of woolly mammoths hunt for the murderers of one of their own.</desc>
-    <category lang="en">Comedy</category>
-    <rating system="VCHIP">
-      <value>TV-14 V</value>
-    </rating>
-    <icon src="https://media.cdn.adultswim.com/uploads/20191004/thumbnails/2_191041426462-Primal_003_dup-20190815.jpg" />
-    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
-    <date>20191010</date>
   </programme>
 <programme start="20261111223904 +0000" stop="20261111230731 +0000" channel="primal">
     <title lang="en">Genndy Tartakovsky's Primal</title>
