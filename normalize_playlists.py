@@ -82,7 +82,7 @@ _NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
         'destination truth', 'ancient aliens', 'ufo files', 'ufo hunters',
         'the unexplained', 'unexplained files', 'unexplained mysteries',
         'long island medium', 'psychic kids', 'ghost dimension',
-        'alien files', 'a haunting', 'haunttv', 'haunt tv',
+        'alien files', 'a haunting', 'haunttv', 'haunt tv', 'alien nation', 'fear zone',
     )),
     ('True Crime', (
         'love kills', 'crime up close', 'crime zone', 'to catch a smuggler', 'locked up abroad', 'true crime', 'forensic files', 'cold case files', 'dateline',
