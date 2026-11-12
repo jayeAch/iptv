@@ -43,7 +43,6 @@ CATEGORY_EXCLUDE_LIST = [
     "Talkshow",
     "Realityserier",
     "LocalNow🇺🇸: Nature and Outdoors",
-    "LocalNow🇺🇸: My City",
     "LocalNow🇺🇸: Family and Faith",
     "LocalNow🇺🇸: Music and Arts",
     "Sports",
