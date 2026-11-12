@@ -24,16 +24,10 @@
     <display-name>Haunt TV US</display-name>
     <icon src="https://d2y2gft5545ze9.cloudfront.net/HauntTV_200pxHigh_LG_ChannelAssets_White.png"/>
   </channel>
-<programme start="20261111220313 +0000" stop="20261111231207 +0000" channel="99992286">
-    <title lang="en">Jesse James</title>
-    <desc lang="en">Jesse James and his brother Frank race to secure the family's buried gold as members of the James-Younger gang attempt to steal it.</desc>
-    <category lang="en">Movies</category>
-    <icon src="https://image.xumo.com/v1/assets/asset/XM07MUWV3C20LJ/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992286%2F768x432.jpg%3Ftype%3DchannelTile"/>
-    <episode-num system="dd_progid">XM07MUWV3C20LJ</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
+<channel id="us-scripps_laffmore_1">
+    <display-name>Laff More</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/1498/lg/d22c6a/LG-Logo-PNG-100x100_v1.png"/>
+  </channel>
 <programme start="20261111231207 +0000" stop="20261112010104 +0000" channel="99992286">
     <title lang="en">Salvation</title>
     <desc lang="en">A foster child bonds with a snake-handling Pentecostal community but uncovers sinister truths. She must choose between reporting pastor's crimes or preserving her newfound support system, risking personal safety for a sense of belonging.</desc>
@@ -110,16 +104,6 @@
     <category lang="en">Movies</category>
     <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg02042/resized_images/resized_edb00713040050ac43a349d80db0497628c5fd87162fe07a84b97d9f1356bbb2_fmp2219png_768_432.jpeg"/>
     <episode-num system="dd_progid">amg02042c32_A6zf6JZ2D6LouuridxkMqDG_us</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-<programme start="20261111222901 +0000" stop="20261111232152 +0000" channel="haunttvus_hntus_US">
-    <title lang="en">Haunted Discoveries</title>
-    <desc lang="en">Visit a Tennessee prison with a vile history that even the dead can’t escape.</desc>
-    <category lang="en">Quiz show</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/HNTUS/resized_def6e3256e141ad00d8b60d2332e6f488819e4c30bbd460771f117fb77027add_hfa01052500jpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">HNTUS_HF_A01052500_US</episode-num>
     <rating>
       <value>PG</value>
     </rating>
@@ -218,16 +202,6 @@
     <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/HNTUS/resized_ab2f5782de2aba82e3828afe682ae29178d0740131a2c7459271cc51fd93e170_hauntroku1920x1080jpg_768_432.jpeg"/>
     <episode-num system="dd_progid">HNTUS_HF_A01053283_US</episode-num>
   </programme>
-<programme start="20261111221531 +0000" stop="20261111235253 +0000" channel="theasylummoviechannel_tasmc_US">
-    <title lang="en">Road Wars: Max Fury</title>
-    <desc lang="en">In a post-apocalyptic wasteland, sisters try to save their mother armed only with a muscle car and ammo.</desc>
-    <category lang="en">Action</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/tasmc/resized_31b27da8d2d9277d23fcb949c24f1918044a60a69d12e2454a20676552338faf_roadwarsmaxfury1920x1080jpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">tasmc_RoadWarsMaxFury_Feature_2997_20_Clean_US</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme start="20261111235253 +0000" stop="20261112013039 +0000" channel="theasylummoviechannel_tasmc_US">
     <title lang="en">Zoombies 2</title>
     <desc lang="en">A game ranger and poachers forge an uneasy alliance as they work together to stop zombie beasts in the jungle.</desc>
@@ -268,16 +242,6 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-<programme start="20261111211206 +0000" stop="20261111235613 +0000" channel="tribeca_tribe_US">
-    <title lang="en">Jobs</title>
-    <desc lang="en">The story of Steve Jobs' ascension from college dropout into one of the most revered creative entrepreneurs of the 20th century</desc>
-    <category lang="en">ETC</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg02042/resized_images/resized_b1dfecd229a618872ffc25e8f1eda53a1a2cf481315b06e5b7c578b167555a14_fmp21149png_768_432.jpeg"/>
-    <episode-num system="dd_progid">amg02042c61_ASnR2VZM7dVcA4p6N4dA3Ke_us</episode-num>
-    <rating>
-      <value>PG-13</value>
-    </rating>
-  </programme>
 <programme start="20261111235613 +0000" stop="20261112015428 +0000" channel="tribeca_tribe_US">
     <title lang="en">Monty Python and the Holy Grail</title>
     <desc lang="en">King Arthur and his Knights of the Round Table embark on a surreal.</desc>
@@ -308,16 +272,6 @@
       <value>R</value>
     </rating>
   </programme>
-<programme start="20261111222030 +0000" stop="20261112000034 +0000" channel="us-cinedigm_entertainment_corp_screamboxtv_1">
-    <title lang="en">Victor Crowley (Edited Version)</title>
-    <desc lang="en">In 2007, over forty people were brutally torn to pieces in Louisianas Honey Island Swamp. Over the past decade, lone survivor Andrews (Parry Shen) claims that local legend Victor Crowley (Kane Hodder, Friday the 13th series) was responsible for the horrific massacre have been met with great controversy. But when a twist of fate puts him back at the scene of the tragedy, Crowley is mistakenly resurrected and Andrew must face the bloodthirsty ghost from his past. Featuring Laura Ortiz (The Hills Have Eyes), Dave Sheridan (Scary Movie), and Brian Quinn (truTVs Impractical Jokers), writer/director Adam Greens triumphant return to the directors chair proudly assures an all-new, horrifying journey into the haunted, blood-drenched bayou.</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://img.platform.wurl.dev/channel/1845/lg/88167e/LG-768x432_v1.png"/>
-    <episode-num system="dd_progid">US-CineverseEntertainmentCorp-119268738-52541967-52525612</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme start="20261112000034 +0000" stop="20261112015519 +0000" channel="us-cinedigm_entertainment_corp_screamboxtv_1">
     <title lang="en">Itsy Bitsy</title>
     <desc lang="en">A story tangled up in a web of family drama, personal demons, and a horrifying monster.Based on the centuries-old poem, a family moves into a secluded mansion where they soon find themselves being targeted by an ancient entity taking the form of a giant spider.Kara, a private nurse and single mother, moves from the big city to the quiet countryside with her two children, 13-year-old Jesse and 8-year-old Cambria, to live with and take care of an elderly man with multiple sclerosis. Things seem normal enough until Jesse discovers a mysterious old relic in the old man's house, leading to unexpected and horrifying things coming to life.</desc>
@@ -346,6 +300,116 @@
     <episode-num system="dd_progid">US-CineverseEntertainmentCorp-119268741-52541967-52525612</episode-num>
     <rating>
       <value>R</value>
+    </rating>
+  </programme>
+<programme start="20261112000000 +0000" stop="20261112003000 +0000" channel="us-scripps_laffmore_1">
+    <title lang="en">Cold as Balls</title>
+    <desc lang="en">Kevin Hart interviews DeMarcus Cousins and Tony Hawk.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/1498/lg/d22c6a/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120289971-56841249-56817537</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+<programme start="20261112003000 +0000" stop="20261112010000 +0000" channel="us-scripps_laffmore_1">
+    <title lang="en">Cold as Balls</title>
+    <desc lang="en">Kevin Hart interviews basketball player Karl-Anthony Towns and snowboarder Chloe Kim.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/1498/lg/d22c6a/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120290008-56841323-56817537</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261112010000 +0000" stop="20261112013000 +0000" channel="us-scripps_laffmore_1">
+    <title lang="en">Cold as Balls</title>
+    <desc lang="en">Kevin Hart interviews former football players Michael Strahan and Calvin Johnson.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/1498/lg/d22c6a/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120290043-56841323-56817537</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261112013000 +0000" stop="20261112020000 +0000" channel="us-scripps_laffmore_1">
+    <title lang="en">Cold as Balls</title>
+    <desc lang="en">Kevin Hart interviews former football player Jerry Rice and former professional wrestler The Undertaker.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/1498/lg/d22c6a/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120290077-56841323-56817537</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261112020000 +0000" stop="20261112023000 +0000" channel="us-scripps_laffmore_1">
+    <title lang="en">Cold as Balls</title>
+    <desc lang="en">Kevin Hart interviews boxer Deontay Wilder and basketball player A'ja Wilson.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/1498/lg/d22c6a/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120290113-56841323-56817537</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+<programme start="20261112023000 +0000" stop="20261112030000 +0000" channel="us-scripps_laffmore_1">
+    <title lang="en">Cold as Balls</title>
+    <desc lang="en">Kevin Hart interviews Tyreek Hill and Malcolm Jenkins.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/1498/lg/d22c6a/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120290145-56842807-56817537</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+<programme start="20261112030000 +0000" stop="20261112033000 +0000" channel="us-scripps_laffmore_1">
+    <title lang="en">The Beverly Hillbillies</title>
+    <desc lang="en">Love blooms again for Jed when Mlle. Denise returns from Paris to herald the arrival of a litter of poodles.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/1498/lg/d22c6a/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120290171-56783130-56763243</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261112033000 +0000" stop="20261112040000 +0000" channel="us-scripps_laffmore_1">
+    <title lang="en">The Beverly Hillbillies</title>
+    <desc lang="en">The board chairman of Drysdale's bank is determined to meet Jed Clampett, the bank's financial wizard.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/1498/lg/d22c6a/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120290199-56783130-56763243</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261112040000 +0000" stop="20261112043000 +0000" channel="us-scripps_laffmore_1">
+    <title lang="en">Petticoat Junction</title>
+    <desc lang="en">Herby Bates, who is sweet on Billie Jo, won't be seeing much more of her, he has just been drafted.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/1498/lg/d22c6a/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120290244-56782850-56762985</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261112043000 +0000" stop="20261112050000 +0000" channel="us-scripps_laffmore_1">
+    <title lang="en">Petticoat Junction</title>
+    <desc lang="en">Billie Jo discovers that her late father wanted her to be a doctor.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/1498/lg/d22c6a/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120290297-56782850-56762985</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261112050000 +0000" stop="20261112053000 +0000" channel="us-scripps_laffmore_1">
+    <title lang="en">Just for Laughs Gags</title>
+    <desc lang="en">"Head Over Heels Bride"; "Walking the Prank"; "A Hole Lot of Funny."</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/1498/lg/d22c6a/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120290342-56782583-56762738</episode-num>
+    <rating>
+      <value>TV-PG</value>
     </rating>
   </programme>
 </tv>

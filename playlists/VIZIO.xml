@@ -44,6 +44,10 @@
     <display-name>Grit XTRA</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/1646485706/1/267/150/0.jpg"/>
   </channel>
+<channel id="vizio.93AMG02451C1ENG">
+    <display-name>The Three Stooges+</display-name>
+    <icon src="https://images.vizio.com/v4/btv/1/1652535931/1/267/150/0.jpg"/>
+  </channel>
 <channel id="vizio.93amg00136c49">
     <display-name>I Was Haunted</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/1736246022/1/267/150/0.jpg"/>
@@ -52,26 +56,6 @@
     <display-name>Alien Nation</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/1651153505/1/267/150/0.jpg"/>
   </channel>
-<programme start="20261111230000 +0000" stop="20261111233000 +0000" channel="vizio.149station_1648">
-    <title lang="en">Diff'rent Strokes</title>
-    <desc lang="en">Willis takes a big step when he leaves home for college, but he may not be able to handle dorm life.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205164486100,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S08E805</episode-num>
-    <episode-num system="xmltv_ns">7.804.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261111233000 +0000" stop="20261112000000 +0000" channel="vizio.149station_1648">
-    <title lang="en">Diff'rent Strokes</title>
-    <desc lang="en">Arnold's dream of becoming a photojournalist runs headlong into reality when he gets his first job.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205164486096,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S08E806</episode-num>
-    <episode-num system="xmltv_ns">7.805.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
 <programme start="20261112000000 +0000" stop="20261112003000 +0000" channel="vizio.149station_1648">
     <title lang="en">Diff'rent Strokes</title>
     <desc lang="en">Kareem Abdul-Jabbar guest stars as an English teacher who gives Arnold a punishment for "goofing off".</desc>
@@ -282,17 +266,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20261111224603 +0000" stop="20261111233901 +0000" channel="vizio.149station_888">
-    <title lang="en">Evidence Of The Unexplained</title>
-    <sub-title lang="en">Episode 10</sub-title>
-    <desc lang="en">A border_patrol UFO video, a woman's eerie disappearance, and NASA's renewed probe spark questions.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204315081319,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <episode-num system="xmltv_ns">0.9.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme start="20261111233901 +0000" stop="20261112003149 +0000" channel="vizio.149station_888">
     <title lang="en">Evidence Of The Unexplained</title>
     <sub-title lang="en">Episode 1</sub-title>
@@ -414,22 +387,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261111222057 +0000" stop="20261111230843 +0000" channel="vizio.93126">
-    <title lang="en">The Dead Files</title>
-    <sub-title lang="en">Deadly Intentions</sub-title>
-    <desc lang="en">Steve and Amy investigate violent activity at a home-turned-business.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%201357288292,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S10E03</episode-num>
-    <episode-num system="xmltv_ns">9.2.</episode-num>
-  </programme>
-<programme start="20261111230843 +0000" stop="20261111235647 +0000" channel="vizio.93126">
-    <title lang="en">The Dead Files</title>
-    <sub-title lang="en">A Thousand Pieces</sub-title>
-    <desc lang="en">Steve and Amy investigate claims of a vicious entity in Louisiana.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%201436798418,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S10E04</episode-num>
-    <episode-num system="xmltv_ns">9.3.</episode-num>
-  </programme>
 <programme start="20261111235647 +0000" stop="20261112004435 +0000" channel="vizio.93126">
     <title lang="en">The Dead Files</title>
     <sub-title lang="en">The Bethlehem Haunting</sub-title>
@@ -534,15 +491,236 @@
     <episode-num system="onscreen">S11E04</episode-num>
     <episode-num system="xmltv_ns">10.3.</episode-num>
   </programme>
-<programme start="20261111230000 +0000" stop="20261112000000 +0000" channel="vizio.93ELENO">
-    <title lang="en">The Librarians: The Next Chapter</title>
-    <sub-title lang="en">And the Deadly Drekavac</sub-title>
-    <desc lang="en">A Librarian from 200 years ago suddenly appears in the present, bringing danger with him.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205168342433,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
+<programme start="20261112000608 +0000" stop="20261112002721 +0000" channel="vizio.93AMG02451C1ENG">
+    <title lang="en">Listen, Judge</title>
+    <desc lang="en">The Stooges are fix-it men.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205183871272,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
-      <value>TV-PG</value>
+      <value>UR</value>
+    </rating>
+  </programme>
+<programme start="20261112002721 +0000" stop="20261112004712 +0000" channel="vizio.93AMG02451C1ENG">
+    <title lang="en">Stone Age Romeos</title>
+    <desc lang="en">The Stooges hope to collect a reward.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205184377981,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>UR</value>
+    </rating>
+  </programme>
+<programme start="20261112004712 +0000" stop="20261112010713 +0000" channel="vizio.93AMG02451C1ENG">
+    <title lang="en">Vagabond Loafers</title>
+    <desc lang="en">The Stooges are the "Day and Night" plumbers.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205187210060,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>UR</value>
+    </rating>
+  </programme>
+<programme start="20261112010713 +0000" stop="20261112013023 +0000" channel="vizio.93AMG02451C1ENG">
+    <title lang="en">Gents Without Cents</title>
+    <desc lang="en">The Stooges are three small time actors looking for a job.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205187701090,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>UR</value>
+    </rating>
+  </programme>
+<programme start="20261112013023 +0000" stop="20261112015050 +0000" channel="vizio.93AMG02451C1ENG">
+    <title lang="en">Sweet And Hot</title>
+    <desc lang="en">Club performer Larry wants Joe and Tiny to join the act.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205187209800,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>UR</value>
+    </rating>
+  </programme>
+<programme start="20261112015050 +0000" stop="20261112021244 +0000" channel="vizio.93AMG02451C1ENG">
+    <title lang="en">Dizzy Doctors</title>
+    <desc lang="en">The Stooges get a job selling "Brighto".</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205180969465,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>UR</value>
+    </rating>
+  </programme>
+<programme start="20261112021244 +0000" stop="20261112023521 +0000" channel="vizio.93AMG02451C1ENG">
+    <title lang="en">Three Little Pigskins</title>
+    <desc lang="en">The Stooges are mistaken for the "Horsemen of Boulder Dam".</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205184378011,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>UR</value>
+    </rating>
+  </programme>
+<programme start="20261112023521 +0000" stop="20261112025656 +0000" channel="vizio.93AMG02451C1ENG">
+    <title lang="en">Shivering Sherlocks</title>
+    <desc lang="en">The Stooges witness an armed robbery.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205182777909,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>UR</value>
+    </rating>
+  </programme>
+<programme start="20261112025656 +0000" stop="20261112031709 +0000" channel="vizio.93AMG02451C1ENG">
+    <title lang="en">Hula-La-La</title>
+    <desc lang="en">The Stooges are dance instructors.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205178819616,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>UR</value>
+    </rating>
+  </programme>
+<programme start="20261112031709 +0000" stop="20261112033657 +0000" channel="vizio.93AMG02451C1ENG">
+    <title lang="en">Even As Iou</title>
+    <desc lang="en">A destitute mother and child move into the stooge's home.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205178819715,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>UR</value>
+    </rating>
+  </programme>
+<programme start="20261112033657 +0000" stop="20261112035823 +0000" channel="vizio.93AMG02451C1ENG">
+    <title lang="en">Cactus Makes Perfect</title>
+    <desc lang="en">The Stooges are living with their mother.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205188247984,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>UR</value>
+    </rating>
+  </programme>
+<programme start="20261112035823 +0000" stop="20261112041841 +0000" channel="vizio.93AMG02451C1ENG">
+    <title lang="en">Oil's Well That Ends Well</title>
+    <desc lang="en">The Stooges need money for their father's operation.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205187701103,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>UR</value>
+    </rating>
+  </programme>
+<programme start="20261112041841 +0000" stop="20261112044041 +0000" channel="vizio.93AMG02451C1ENG">
+    <title lang="en">Violent Is The Word For Curly</title>
+    <desc lang="en">The Stooges are left in charge of a gas station.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205185290021,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>UR</value>
+    </rating>
+  </programme>
+<programme start="20261112044041 +0000" stop="20261112050252 +0000" channel="vizio.93AMG02451C1ENG">
+    <title lang="en">Mutts To You</title>
+    <desc lang="en">The Stooges,professional dog washers,find a baby.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205188243468,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>UR</value>
+    </rating>
+  </programme>
+<programme start="20261112050252 +0000" stop="20261112052352 +0000" channel="vizio.93AMG02451C1ENG">
+    <title lang="en">3 Dumb Clucks</title>
+    <desc lang="en">The Stooges escape from jail.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205178469233,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>UR</value>
+    </rating>
+  </programme>
+<programme start="20261112052352 +0000" stop="20261112054525 +0000" channel="vizio.93AMG02451C1ENG">
+    <title lang="en">The Hot Scots</title>
+    <desc lang="en">The Stooges apply for job as 'Yard Men' at Scotland Yard.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205187701905,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>UR</value>
+    </rating>
+  </programme>
+<programme start="20261112054525 +0000" stop="20261112060613 +0000" channel="vizio.93AMG02451C1ENG">
+    <title lang="en">Termites Of 1938</title>
+    <desc lang="en">The Stooges are pest exterminators.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205186461891,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>UR</value>
+    </rating>
+  </programme>
+<programme start="20261112060613 +0000" stop="20261112062638 +0000" channel="vizio.93AMG02451C1ENG">
+    <title lang="en">Hokus Pokus</title>
+    <desc lang="en">The Stooges are taking care of their invalid friend.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205187701903,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>UR</value>
+    </rating>
+  </programme>
+<programme start="20261112062638 +0000" stop="20261112064651 +0000" channel="vizio.93AMG02451C1ENG">
+    <title lang="en">Yes, We Have No Bonanza</title>
+    <desc lang="en">The Stooges are working as waiters in a saloon.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205183559941,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>UR</value>
+    </rating>
+  </programme>
+<programme start="20261112064651 +0000" stop="20261112071028 +0000" channel="vizio.93AMG02451C1ENG">
+    <title lang="en">Back To The Woods</title>
+    <desc lang="en">The Stooges are convicted criminals who are banished.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205177691744,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>UR</value>
+    </rating>
+  </programme>
+<programme start="20261112071028 +0000" stop="20261112073018 +0000" channel="vizio.93AMG02451C1ENG">
+    <title lang="en">Spooks (1953)</title>
+    <desc lang="en">The Stooges are private detectives hired to find a girl.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205178819604,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>UR</value>
+    </rating>
+  </programme>
+<programme start="20261112073018 +0000" stop="20261112075055 +0000" channel="vizio.93AMG02451C1ENG">
+    <title lang="en">We Want Our Mummy</title>
+    <desc lang="en">The Stooges go to Egypt in search of a mummy.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205186461901,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>UR</value>
+    </rating>
+  </programme>
+<programme start="20261112075055 +0000" stop="20261112081119 +0000" channel="vizio.93AMG02451C1ENG">
+    <title lang="en">A Ducking They Did Go</title>
+    <desc lang="en">The Stooges are tricked by some con men.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205174307378,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>UR</value>
+    </rating>
+  </programme>
+<programme start="20261112081119 +0000" stop="20261112083120 +0000" channel="vizio.93AMG02451C1ENG">
+    <title lang="en">Musty Musketeers</title>
+    <desc lang="en">The Stooges wish to marry their sweethearts.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205187701074,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>UR</value>
+    </rating>
+  </programme>
+<programme start="20261112083120 +0000" stop="20261112085313 +0000" channel="vizio.93AMG02451C1ENG">
+    <title lang="en">Ants In The Pantry</title>
+    <desc lang="en">The Stooges are pest exterminators.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205188247968,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>UR</value>
+    </rating>
+  </programme>
+<programme start="20261112085313 +0000" stop="20261112091342 +0000" channel="vizio.93AMG02451C1ENG">
+    <title lang="en">Fifi Blows Her Top</title>
+    <desc lang="en">The Stooges reminisce about their wartime romances.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205187701085,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>UR</value>
+    </rating>
+  </programme>
+<programme start="20261112091342 +0000" stop="20261112093432 +0000" channel="vizio.93AMG02451C1ENG">
+    <title lang="en">Some More Of Samoa</title>
+    <desc lang="en">The Stooges are tree surgeons.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205188247971,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>UR</value>
+    </rating>
+  </programme>
+<programme start="20261112093432 +0000" stop="20261112095430 +0000" channel="vizio.93AMG02451C1ENG">
+    <title lang="en">Husbands Beware</title>
+    <desc lang="en">Voice teacher Shemp must marry before six o'clock.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205188247952,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>UR</value>
+    </rating>
+  </programme>
+<programme start="20261112095430 +0000" stop="20261112101436 +0000" channel="vizio.93AMG02451C1ENG">
+    <title lang="en">Gypped In The Penthouse</title>
+    <desc lang="en">Larry and Shemp reminisce about their experiences with Jean.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205188247975,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>UR</value>
     </rating>
   </programme>
 <programme start="20261112000000 +0000" stop="20261112010000 +0000" channel="vizio.93ELENO">
@@ -652,14 +830,6 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-<programme start="20261111205657 +0000" stop="20261111230316 +0000" channel="vizio.93VZAMCA">
-    <title lang="en">Frank and Jesse</title>
-    <desc lang="en">After the murder of their younger brother, Frank and Jesse James seek their own brand of justice.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204713392626,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>R</value>
-    </rating>
-  </programme>
 <programme start="20261111230316 +0000" stop="20261112002754 +0000" channel="vizio.93VZAMCA">
     <title lang="en">Counting Bullets</title>
     <desc lang="en">A group of cavalry soldiers is pinned down in a canyon and forced to rely on each other to survive.</desc>
@@ -716,14 +886,6 @@
       <value>NR (NOT RATED)</value>
     </rating>
   </programme>
-<programme start="20261111212934 +0000" stop="20261111231016 +0000" channel="vizio.93VZONO2">
-    <title lang="en">Dognapped: Hound For The Holidays</title>
-    <desc lang="en">The assistant of an influencer and a charming vet search for a missing puppy before Christmas.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205180505932,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme start="20261111231016 +0000" stop="20261112005320 +0000" channel="vizio.93VZONO2">
     <title lang="en">The Dog Who Saved the Holidays</title>
     <desc lang="en">The Bannisters have a new family addition - a pup named Eve. Eve and Zeus take down some bumbling thieves.</desc>
@@ -778,17 +940,6 @@
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205156618028,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
       <value>TV-G</value>
-    </rating>
-  </programme>
-<programme start="20261111224221 +0000" stop="20261111233355 +0000" channel="vizio.93WBTV133">
-    <title lang="en">Scorned: Love Kills</title>
-    <sub-title lang="en">Addicted to Sex</sub-title>
-    <desc lang="en">Karen Newell has a risky affair that leads down a path of destruction.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%20112493855,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E12</episode-num>
-    <episode-num system="xmltv_ns">1.11.</episode-num>
-    <rating>
-      <value>TV-14</value>
     </rating>
   </programme>
 <programme start="20261111233355 +0000" stop="20261112002228 +0000" channel="vizio.93WBTV133">
@@ -934,17 +1085,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261111225851 +0000" stop="20261111234625 +0000" channel="vizio.93amg00136c44">
-    <title lang="en">Bering Sea Gold</title>
-    <sub-title lang="en">Bigger and Badder</sub-title>
-    <desc lang="en">Shawn and Ken meet to discuss their futures as the largest miners in Nome.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205077474982,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S10E12</episode-num>
-    <episode-num system="xmltv_ns">9.11.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme start="20261111234625 +0000" stop="20261112003400 +0000" channel="vizio.93amg00136c44">
     <title lang="en">Bering Sea Gold</title>
     <sub-title lang="en">Double Down</sub-title>
@@ -1075,17 +1215,6 @@
     <episode-num system="xmltv_ns">11.1.</episode-num>
     <rating>
       <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261111223011 +0000" stop="20261111231920 +0000" channel="vizio.93amg00136c49">
-    <title lang="en">The Haunted</title>
-    <sub-title lang="en">Land of Misery</sub-title>
-    <desc lang="en">A family suspects the paranormal after their animals fall ill.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205078735104,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E06</episode-num>
-    <episode-num system="xmltv_ns">1.5.</episode-num>
-    <rating>
-      <value>TV-PG</value>
     </rating>
   </programme>
 <programme start="20261111231920 +0000" stop="20261112000839 +0000" channel="vizio.93amg00136c49">
@@ -1242,14 +1371,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20261111210705 +0000" stop="20261111232329 +0000" channel="vizio.93amg00353c53">
-    <title lang="en">The Hunger Games: Mockingjay Part 1</title>
-    <desc lang="en">Katniss is rescued by rebels and brought to District 13 where she becomes The Mockingjay.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205161759168,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>PG-13</value>
-    </rating>
-  </programme>
 <programme start="20261111232329 +0000" stop="20261112015648 +0000" channel="vizio.93amg00353c53">
     <title lang="en">The Hunger Games: Mockingjay Part 2</title>
     <desc lang="en">Katniss and a team of rebels from District 13 prepare for the final battle that will decide the fate of Panem.</desc>
@@ -1278,14 +1399,6 @@
     <title lang="en">The Hunger Games: Catching Fire</title>
     <desc lang="en">Katniss and Peeta become targets of the Capitol after their victory in the Hunger Games sparks a rebellion.</desc>
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205161759171,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>PG-13</value>
-    </rating>
-  </programme>
-<programme start="20261111212807 +0000" stop="20261111233902 +0000" channel="vizio.96Station_88885570">
-    <title lang="en">A Little Bit of Heaven</title>
-    <desc lang="en">New Orleans ad executive Marley Corbett (Kate Hudson) is a free-spirited woman who embraces her easy sexuality, shuns commitment, and gains support and strength from a close circle of friends. Then Marley learns she has terminal colon cancer. Despite her determination not to be tied down in a serious relationship, Marley finds herself falling in love with her handsome doctor (Gael García Bernal), even as her health slowly deteriorates.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%203939907852,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
       <value>PG-13</value>
     </rating>
@@ -1336,14 +1449,6 @@
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205170970260,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
       <value>PG-13</value>
-    </rating>
-  </programme>
-<programme start="20261111205148 +0000" stop="20261111231000 +0000" channel="vizio.96Station_88885594">
-    <title lang="en">Men (2022)</title>
-    <desc lang="en">In the aftermath of a personal tragedy, Harper (Jessie Buckley) retreats alone to the beautiful English countryside, hoping to have found a place to heal. But someone or something from the surrounding woods appears to be stalking her. What begins as simmering dread becomes a fully-formed nightmare, inhabited by her darkest memories and fears in visionary filmmaker Alex Garland's (Ex Machina, Annihilation) feverish, shape-shifting horror film.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204952184970,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>R</value>
     </rating>
   </programme>
 <programme start="20261111231000 +0000" stop="20261112010311 +0000" channel="vizio.96Station_88885594">
