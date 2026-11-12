@@ -187,6 +187,7 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
         columbo
         pluto tv crime thrillers
         pluto tv crime dramas
+        pluto tv crime movies
         criminal minds
         csi
         diagnosis murder
