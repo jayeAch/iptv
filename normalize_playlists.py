@@ -172,7 +172,6 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
         locked up abroad
         love kills
         murder files
-        pluto tv crime
         snapped
         the new detectives
         to catch a smuggler
@@ -185,9 +184,7 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
     ('Crime', _words("""
         cagney & lacey
         columbo
-        'pluto tv crime',
-        pluto tv crime drama
-        pluto tv crime thrillers
+        pluto tv crime
         criminal minds
         csi
         diagnosis murder
