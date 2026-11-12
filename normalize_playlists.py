@@ -152,6 +152,7 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
         court tv
         crime 24/7
         crimes cults killers
+        crime cults killers
         crime files channel
         crime scenes
         crime stories
