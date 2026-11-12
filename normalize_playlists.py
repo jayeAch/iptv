@@ -185,6 +185,7 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
     ('Crime', _words("""
         cagney & lacey
         columbo
+        pluto tv crime
         crime
         criminal minds
         csi
