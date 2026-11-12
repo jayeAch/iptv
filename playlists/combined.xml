@@ -843,10 +843,6 @@
     <display-name>Universal Movies</display-name>
     <icon src="https://image.xumo.com/v1/channels/channel/99991621/168x168.png?type=color_onBlack" />
   </channel>
-<channel id="99951375">
-    <display-name>Haunt TV</display-name>
-    <icon src="https://image.xumo.com/v1/channels/channel/99951375/168x168.png?type=color_onBlack" />
-  </channel>
 <channel id="99991331">
     <display-name>The Asylum</display-name>
     <icon src="https://image.xumo.com/v1/channels/channel/99991331/168x168.png?type=color_onBlack" />
@@ -890,10 +886,6 @@
 <channel id="99991638">
     <display-name>DOCUMENTARY+</display-name>
     <icon src="https://image.xumo.com/v1/channels/channel/99991638/168x168.png?type=color_onBlack" />
-  </channel>
-<channel id="99951236">
-    <display-name>SNL Vault</display-name>
-    <icon src="https://image.xumo.com/v1/channels/channel/99951236/168x168.png?type=color_onBlack" />
   </channel>
 <channel id="9999615">
     <display-name>Dark Matter TV</display-name>
@@ -990,6 +982,10 @@
 <channel id="haunttvus_hntus_US">
     <display-name>Haunt TV US</display-name>
     <icon src="https://d2y2gft5545ze9.cloudfront.net/HauntTV_200pxHigh_LG_ChannelAssets_White.png" />
+  </channel>
+<channel id="99993006">
+    <display-name>World's Most Evil Killers</display-name>
+    <icon src="https://image.xumo.com/v1/channels/channel/99993006/400x200.png?type=white_cropped" />
   </channel>
 <channel id="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643"><display-name>BBC Comedy</display-name><icon src="https://provider-static.plex.tv/epg/cms/production/1e92ab4a-8016-45ef-8f59-1190695f2c6a/BBC_COMEDY_PLEX_BRAND_CHANNEL_Logo_Light_1500X1000_Caitlin_Schiffer.png" /></channel>
 <channel id="6a1610bebdf296985fd95603-64d2c6acb18b113e0c61012a"><display-name>Beyond Paranormal</display-name><icon src="https://provider-static.plex.tv/epg/cms/production/896a3833-8bc3-4d75-8562-756070f8c4f0/beyond_paranormal_WHITE_Bryan_Mcdaid.png" /></channel>
@@ -1343,7 +1339,6 @@
 <programme channel="673499" start="20261112174200 +0000" stop="20261112193900 +0000"><title>First Target</title><desc>A Secret Service agent must save the U.S. president when a group of deadly assassins make an elaborate attempt on his life during a park opening.</desc></programme>
 <programme channel="673499" start="20261112193900 +0000" stop="20261112213200 +0000"><title>First Shot</title><desc>After an attack on the U.S. president, a Secret Service agent realizes there's a target on her own back as she tries to prevent further bloodshed.</desc></programme>
 <programme channel="673499" start="20261112213200 +0000" stop="20261113000300 +0000"><title>Awakenings</title><desc>A doctor revives patients who have been catatonic for years, only to discover that the miraculous cure is a fleeting gift that won't last.</desc></programme>
-<programme channel="700406" start="20261112033023 +0000" stop="20261112035833 +0000"><title>Haunted Discoveries: Family Spirits</title><desc>Feel the shock when a tour guide uncovers a haunting connection to her employer.</desc></programme>
 <programme channel="700406" start="20261112035833 +0000" stop="20261112042705 +0000"><title>Haunted Discoveries: Family Spirits</title><desc>Find out how a lost Air Force hero inspired his grandson to dream big.</desc></programme>
 <programme channel="700406" start="20261112042705 +0000" stop="20261112045524 +0000"><title>Haunted Discoveries: Family Spirits</title><desc>Explore the mystical ability that helps a caregiver soothe departing souls.</desc></programme>
 <programme channel="700406" start="20261112045524 +0000" stop="20261112054931 +0000"><title>HF_A01053283</title><desc>Description Unavailable</desc></programme>
@@ -1466,10 +1461,6 @@
     <title>Sing Cowboy Sing</title>
     <desc>Joe and Benny are two cowboys are on tour in the Wild West as a singing duo usually without a penny in their pockets to spare Joe is a talented rodeo-rider which fascinates the little girl Susanne and gives her the wish to have him as a father Her mother Maria however is to marry the evil rich farmer Dave Susanne wants to stop the wedding so she sneaks aboard Joe and Bennys wagon to persuade them to intervene Dave brands them as kidnappers forcing them to flee as outlaws to one of the families tyrannized by Dave Together they strike back at Dave at which point Maria sees that hes the wrong man for her</desc>
   </programme>
-<programme start="20261112030000 +0000" stop="20261112040000 +0000" channel="airy-631">
-    <title>The Fugitive </title>
-    <desc>After injuring his ankle while running from the police Kimble winds up in the care of a natural medicine practitioner Kimble believes another patient of his is seriously ill but is unsure how to save her</desc>
-  </programme>
 <programme start="20261112040000 +0000" stop="20261112043000 +0000" channel="airy-631">
     <title>Sea Hunt </title>
     <desc>Mike travels deep into the jungle areas of a small Latin-American country in search of a sacred pool of water and its secrets held within</desc>
@@ -1478,15 +1469,7 @@
     <title>Sea Hunt </title>
     <desc>Mike attempts a risky rescue of a young girl trapped inside an underwater mine</desc>
   </programme>
-<programme start="20261112030000 +0000" stop="20261112040000 +0000" channel="airy-605">
-    <title>Freddys  Nightmares </title>
-    <desc>A groom to be gets a lesson in monogamy from the stripper from hell at his bachelor party and then his bride is overwhelmed with suspicion and mistrust and busts married men who cheat due to having caught her father step-out on mom when she was a child</desc>
-  </programme>
 <programme start="20261112040000 +0000" stop="20261112050000 +0000" channel="airy-605">
-    <title>Filler</title>
-    <desc>Filler</desc>
-  </programme>
-<programme start="20261112030000 +0000" stop="20261112040000 +0000" channel="airy-632">
     <title>Filler</title>
     <desc>Filler</desc>
   </programme>
@@ -1502,25 +1485,13 @@
     <title>Wheels on Meals</title>
     <desc>Thomas and David who own a mobile restaurant save a thief Sylvia with the help of their detective friend Moby As a result they find themselves pitted against an evil gang</desc>
   </programme>
-<programme start="20261112030000 +0000" stop="20261112040000 +0000" channel="airy-649">
-    <title>Filler</title>
-    <desc>Filler</desc>
-  </programme>
 <programme start="20261112040000 +0000" stop="20261112050000 +0000" channel="airy-649">
     <title>Hercules 209</title>
     <desc>Hercules 209</desc>
   </programme>
-<programme start="20261112030000 +0000" stop="20261112040000 +0000" channel="airy-651">
-    <title>Young Riders</title>
-    <desc>Young Riders</desc>
-  </programme>
 <programme start="20261112040000 +0000" stop="20261112050000 +0000" channel="airy-651">
     <title>Lonesome Dove Outlaw Years</title>
     <desc>Lonesome Dove Outlaw Years</desc>
-  </programme>
-<programme start="20261112030000 +0000" stop="20261112040000 +0000" channel="airy-549">
-    <title>What to See And Do</title>
-    <desc>SKYDIVE NW Florida Fantastic Tandem Sky dive Food Truck Festival Panama City Beach Make Your Own Fragrance andamp;#124; Pensacola Weekend  Trip to Panama City F"</desc>
   </programme>
 <programme start="20261112040000 +0000" stop="20261112043000 +0000" channel="airy-549">
     <title>Outdoors</title>
@@ -1530,25 +1501,13 @@
     <title>Shopping</title>
     <desc>Coastin with Carol at Deep Sea Gypsy Destin Commons Coastin with Carol at Deep Sea Gypsy Destin Commons Coastin With Carol at Willow and Mercer Coastin with Car"</desc>
   </programme>
-<programme start="20261112020000 +0000" stop="20261112040000 +0000" channel="airy-606">
-    <title>The Incredible Hulk Returns</title>
-    <desc>Hopefully on the verge of curing his Hulk condition Banner meets his colleague Don Blake who is mystically linked to a Viking warrior Thor</desc>
-  </programme>
 <programme start="20261112040000 +0000" stop="20261112050000 +0000" channel="airy-606">
     <title>Guyver II Dark Hero</title>
     <desc>Sean Barker unwilling host to an alien bio-armor known as the Guyver must fight the Kronos Corporation again before they discover the secrets of the Guyvers origin</desc>
   </programme>
-<programme start="20261112020000 +0000" stop="20261112040000 +0000" channel="airy-629">
-    <title>Morning Departure </title>
-    <desc>Trouble arises when 12 men realize that only eight of them can escape from the sinking submarine that has collided with a mine left over from the war</desc>
-  </programme>
 <programme start="20261112040000 +0000" stop="20261112050000 +0000" channel="airy-629">
     <title>Genghis Khan</title>
     <desc>During the thirteenth century the shy Mongol boy Temujin Carlo Cura becomes the fearless leader Genghis Khan Omar Sharif who unites all Mongol tribes and conquers most of Asia Europe and the Middle East</desc>
-  </programme>
-<programme start="20261112030000 +0000" stop="20261112040000 +0000" channel="airy-625">
-    <title>Freddys  Nightmares </title>
-    <desc>A groom to be gets a lesson in monogamy from the stripper from hell at his bachelor party and then his bride is overwhelmed with suspicion and mistrust and busts married men who cheat due to having caught her father step-out on mom when she was a child</desc>
   </programme>
 <programme start="20261112040000 +0000" stop="20261112050000 +0000" channel="airy-625">
     <title>Filler</title>
@@ -1562,11 +1521,6 @@
         <title>Django Unchained</title>
         <desc>A former slave (Jamie Foxx) joins forces with the German bounty hunter (Christoph Waltz) who freed him and helps hunt down the South's most-wanted criminals, all in the hope of finding his long-lost wife (Kerry Washington).</desc>
         <icon src="https://images.pluto.tv/series/6728fe0ec814a900133b1108/tile_1730739817802.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="691e0561e32eb094b835c418-CA" start="20261112015100 +0000" stop="20261112040200 +0000">
-        <title>The Lighthouse</title>
-        <desc>Two lighthouse keepers try to maintain their sanity while living on a remote and mysterious New England island in the 1890s.</desc>
-        <icon src="https://images.pluto.tv/series/693ffbd1843d41d249597530/tile_1765800952717.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="62e92178946c8000079a3160-CA" start="20261112034500 +0000" stop="20261112041200 +0000">
         <title>Everybody Loves Raymond</title>
@@ -1728,11 +1682,6 @@
         <desc>Major Wright is threatened with court-martial unless he accepts an assignment to rescue six scientists coerced into developing a nerve gas so lethal that it could change the course of the war.</desc>
         <icon src="https://images.pluto.tv/series/69b373ec0fb375a67046df60/tile_1773368300758.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="6a315581df0b6d462c18397e-CA" start="20261112033800 +0000" stop="20261112040500 +0000">
-        <title>The Fresh Prince Of Bel-Air</title>
-        <desc>Will's encounter with a beautiful woman at the gym leaves his ego bruised; Ashley's job is too demanding.</desc>
-        <icon src="https://images.pluto.tv/series/6a26dbc3ce1637b4f4185a29/tile_1781281081248.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="6a315581df0b6d462c18397e-CA" start="20261112040500 +0000" stop="20261112043100 +0000">
         <title>The Fresh Prince Of Bel-Air</title>
         <desc>The family is taken hostage by a bomb-carrying clown.</desc>
@@ -1808,11 +1757,6 @@
         <desc>Popular Libby manages to turn being a geek into a position of power.</desc>
         <icon src="https://images.pluto.tv/series/6ad7d4f07a5624e68da857b4/tile_1792529648895.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="6abab1c8d33c7e25d227502e-CA" start="20261112031300 +0000" stop="20261112040400 +0000">
-        <title>Arrow</title>
-        <desc>After China White, Cupid, and Liza Warner break out of prison, Oliver tries to stop the girl gang but instead finds the ACU there to arrest the Green Arrow for murder.</desc>
-        <icon src="https://images.pluto.tv/series/6ab54d48da71d9a75f3c7011/tile_1790266900412.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="6abab1c8d33c7e25d227502e-CA" start="20261112040400 +0000" stop="20261112045500 +0000">
         <title>Arrow</title>
         <desc>After Vigilante attacks Oliver while he's acting as mayor, Diggle leads the team in a mission to stop Vigilante once and for all.</desc>
@@ -1872,11 +1816,6 @@
         <title>Teachers</title>
         <desc>It's Valentine's Day at Fillmore and Ms. Snap &amp; Kyle are having trouble communicating. Meanwhile, the school is falling apart and Mrs. Adler takes the responsibility of fixing the repairs herself while Ms. Bennigan deals with a pesky TV cart salesman</desc>
         <icon src="https://images.pluto.tv/series/6a70a6cad8618839a6d9d1b9/tile_1785767627827.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="62e91c3add66e00007eeb24c-CA" start="20261112033600 +0000" stop="20261112040400 +0000">
-        <title>Wings</title>
-        <desc>When an old schoolmate comes to the island for a visit, Joe finds himself in wedding hell doing the Hokey-Pokey.</desc>
-        <icon src="https://images.pluto.tv/series/66b6405a17101c00131b17cd/tile_1776920403108.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="62e91c3add66e00007eeb24c-CA" start="20261112040400 +0000" stop="20261112043100 +0000">
         <title>Becker</title>
@@ -1943,11 +1882,6 @@
         <desc>Mark and Jez both have an eye for their attractive neighbor Toni.</desc>
         <icon src="https://images.pluto.tv/series/66fee2a8b99f8500131a0e74/tile_1790721010096.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="64f8a408bd341e000818fcda-CA" start="20261112033500 +0000" stop="20261112040000 +0000">
-        <title>Drunk History</title>
-        <desc>James Cook "discovers" Hawaii and parties with the natives, Japanese-American Daniel Inouye fights heroically in World War II, and Eddie Aikau becomes one of the world's greatest big wave surfers. Featuring Ken Marino, Jason Mantzoukas and Steven Yeun.</desc>
-        <icon src="https://images.pluto.tv/series/6a70a5f0d8618839a6b9847b/tile_1785767409508.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="64f8a408bd341e000818fcda-CA" start="20261112040000 +0000" stop="20261112042500 +0000">
         <title>Broad City</title>
         <desc>Abbi decides to stop bumming off of Ilana and buy her own weed, and Ilana tries to be an adult by doing her own taxes.</desc>
@@ -1987,11 +1921,6 @@
         <title>Drunk History</title>
         <desc>Baron von Steuben helps train the Continental Army, John Adams and Thomas Jefferson campaign against each other for president, and Benedict Arnold betrays George Washington's army. Featuring Winona Ryder, Chris Parnell, Stephen Merchant and David Cross.</desc>
         <icon src="https://images.pluto.tv/series/6a70a5f0d8618839a6b9847b/tile_1785767409508.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="64f8a949f5b5e4000862467c-CA" start="20261112033500 +0000" stop="20261112040000 +0000">
-        <title>Daria</title>
-        <desc>When Helen takes the family on a trip to look good for her boss, they find themselves subjected to intense psychotherapy to unearth their problems.</desc>
-        <icon src="https://images.pluto.tv/series/64de4130445a8a00131becc2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="64f8a949f5b5e4000862467c-CA" start="20261112040000 +0000" stop="20261112041200 +0000">
         <title>Beavis and Butt-Head</title>
@@ -2153,11 +2082,6 @@
         <desc>An unknown axe murderer still stalks a family he brutally murdered a century ago and then next-door a spirit with a deadly secret haunts a young couple. An off the beaten path bar is stocked with other worldly spirits.</desc>
         <icon src="https://images.pluto.tv/series/65e5e790ea323e0013aaefc8/tile_1790721024330.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="63934c218ef524000757b122-CA" start="20261112031100 +0000" stop="20261112040100 +0000">
-        <title>My Haunted Hometown</title>
-        <desc>Exploring Strathroy, an Ontario community with a dark past plagued by fires, train wrecks and serial killers; confronting the paranormal energy that engulfs the town and makes its residents the uneasy neighbours of poltergeists and phantoms.</desc>
-        <icon src="https://images.pluto.tv/series/6a9f09fc763ed26aa43dcdb4/tile_1788807777797.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="63934c218ef524000757b122-CA" start="20261112040100 +0000" stop="20261112045600 +0000">
         <title>Haunted Hospitals</title>
         <desc>The owner of a haunted hospital exhibit is attacked by a ghost in his own home; a nurse comes face to face with the Angel of Death; a pastor sees an evil entity lurking around the deathbed of an elderly woman.</desc>
@@ -2198,11 +2122,6 @@
         <desc>All hell breaks loose when Clarke and Finn attempt to broker peace with the Grounders.  And tragedy strikes during the Unity Day celebration on the Ark.</desc>
         <icon src="https://images.pluto.tv/series/6abbc19a7102b85b82e93d57/tile_1790689691046.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="6703a96763292d000836b4fa-CA" start="20261112030600 +0000" stop="20261112035900 +0000">
-        <title>Born to Kill</title>
-        <desc>A serial killer known as the Yorkshire Ripper terrorizes women in Northern England for five years until he is finally apprehended.</desc>
-        <icon src="https://images.pluto.tv/series/67854028d2311cd3138e0cf3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="6703a96763292d000836b4fa-CA" start="20261112035900 +0000" stop="20261112045200 +0000">
         <title>Born to Kill?</title>
         <desc>Police discover the private graveyard of a mass murderer who killed more than 100 people.</desc>
@@ -2222,11 +2141,6 @@
         <title>Born to Kill?</title>
         <desc>Ten innocent people were killed, and three were wounded.</desc>
         <icon src="https://images.pluto.tv/series/67854025d2311cd3138e09e6/tile_1751753411923.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="68b9afd66985e192657a2b7f-CA" start="20261112032033 +0000" stop="20261112040003 +0000">
-        <title>Tales from the Rez</title>
-        <desc>A recovering alcoholic tries to save his brother; Two friends stealing from graves face their fate.</desc>
-        <icon src="https://images.pluto.tv/series/69c4da26b8d175fc5b810fb7/tile_1785203908154.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="68b9afd66985e192657a2b7f-CA" start="20261112040003 +0000" stop="20261112043644 +0000">
         <title>Tales from the Rez</title>
@@ -5578,11 +5492,6 @@
         <desc>Liam Neeson er tilbage som den tidligere CIA-agent Bryan Mills, der er ved at blive forsonet med sin ekskone, da hun bliver brutalt myrdet. Mills bliver beskyldt for mordet og tager flugten optændt af raseri og med CIA, FBI og politiet i hælene.</desc>
         <icon src="https://images.pluto.tv/series/660ed421506ec600134f90dd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="6ae1d95ca9b3de1ec838a3e2-DK" start="20261112030745 +0000" stop="20261112040440 +0000">
-        <title>Most Haunted</title>
-        <desc>Step into a stately 1,000-year-old house inhabited by the ghostly Grey Lady.</desc>
-        <icon src="https://images.pluto.tv/series/670e1f43ad16fb00136faae0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="6ae1d95ca9b3de1ec838a3e2-DK" start="20261112040440 +0000" stop="20261112050149 +0000">
         <title>Most Haunted</title>
         <desc>Venture into A-Wing of this notoriously haunted jail and meet an uneasy spirit.</desc>
@@ -5652,11 +5561,6 @@
         <title>The Prince</title>
         <desc>Den pensionerede forbryderkonge og enlige far Paul, tvinges til at vende tilbage til Las Vegas og det kriminelle samfund, da hans datter kidnappes.</desc>
         <icon src="https://images.pluto.tv/series/6613c5c34da6e3001376fd27/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="63a1c9790cc44a0007dc8857-DK" start="20261112033753 +0000" stop="20261112040504 +0000">
-        <title>New Twilight Zone: Our Selina is Dying</title>
-        <desc>A young woman, Debra, comes to live with her mysterious family, including the dying patriarch Selena. After Selena clutches Debra's hand firmly leaving an odd spot on it, Debra begins to age very fast while Selena rejuvenates.</desc>
-        <icon src="https://images.pluto.tv/series/65843dd87864330014f2473d/tile_1779485042513.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="63a1c9790cc44a0007dc8857-DK" start="20261112040504 +0000" stop="20261112043213 +0000">
         <title>New Twilight Zone: The Call</title>
@@ -5923,11 +5827,6 @@
         <desc>Al and Griff try to blackmail their sweatshop-owning boss for a raise.</desc>
         <icon src="https://images.pluto.tv/series/6464d85954afb6001a21bbb2/tile_1785221641806.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="6486e8984cfc2c0008b6844e-DK" start="20261112032145 +0000" stop="20261112040113 +0000">
-        <title>Beavis and Butt-Head: Premature Evacuation (aka Bomb Threat) / Bus Trip / Green Thumbs</title>
-        <desc>Premature Evacuation (aka Bomb Threat) / Bus Trip / Green Thumbs</desc>
-        <icon src="https://images.pluto.tv/series/64b7c6cad264b00013ee9919/tile.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="6486e8984cfc2c0008b6844e-DK" start="20261112040113 +0000" stop="20261112042643 +0000">
         <title>Beavis and Butt-Head: Bathroom Break / The Rat</title>
         <desc>Beavis and Butt-head decide to devote as much of their time at work as possible to bathroom breaks. / A fool and his nachos are soon parted... by a rat? A rat takes up residence and they stop at nothing.</desc>
@@ -5967,11 +5866,6 @@
         <title>Mike Judge's Beavis &amp; Butt-Head: Flinke Butt-Head / Hjemmehjælp</title>
         <desc>Butt-Head får medicin for sin aggressivitet mod Beavis og bliver lidt for flink./ Midaldrende Beavis and Butt-Head løber tør for penge, så Beavis må finde et job.</desc>
         <icon src="https://images.pluto.tv/series/64dc7f498a0f710013b2b0c5/tile.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="65e9766eec9fda0008cb418a-DK" start="20261112033245 +0000" stop="20261112035929 +0000">
-        <title>RENO 911!: Junior Runs for Office</title>
-        <desc>Junior finds a job he really wants: commissioner for animal carcass removal.</desc>
-        <icon src="https://images.pluto.tv/series/65e9890d3d3e4500142f5161/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="65e9766eec9fda0008cb418a-DK" start="20261112035929 +0000" stop="20261112042613 +0000">
         <title>RENO 911!: Undercover Acting Coach</title>
@@ -8123,11 +8017,6 @@
         <desc>A routine military exercise turns into a nightmare in the Scotland wilderness.</desc>
         <icon src="https://images.pluto.tv/series/679b58e0b20f820013537202/tile_1786589281867.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="68b5a7b69ac85c428f54c441-GB" start="20261112003236 +0000" stop="20261112040303 +0000">
-        <title>Blue Is the Warmest Colour</title>
-        <desc>Adèle's life is changed when she meets Emma, a young woman with blue hair, who will allow her to discover desire and to assert herself as a woman and as an adult.</desc>
-        <icon src="https://images.pluto.tv/series/6938112463142c96a91264ab/tile_1765282085333.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="68b5a7b69ac85c428f54c441-GB" start="20261112040303 +0000" stop="20261112061331 +0000">
         <title>The Salt of the Earth</title>
         <desc>Wim Wenders doc on the photographer Sebastiao Salgado and his work.</desc>
@@ -8282,11 +8171,6 @@
         <title>Knight Rider</title>
         <desc>Michael faces murder charges after killing a member of a motorcycle gang to protect an elusive hitchhiker.</desc>
         <icon src="https://images.pluto.tv/series/682c37ef09261e27062ce4d4/tile_1790723170505.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="619247c34a270700077c8415-GB" start="20261112030250 +0000" stop="20261112035935 +0000">
-        <title>Battlerstar Galactica</title>
-        <desc>While Commander Adama leads the rag-tag fleet of ships to the planet Kobol, where he hopes to find clues of Earth's location, Starbuck is taken prisoner by the Cylons as an important part of a renewed peace plan plot by Baltar.</desc>
-        <icon src="https://images.pluto.tv/series/67a4bef88fb894287fefe532/tile_1790723169504.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="619247c34a270700077c8415-GB" start="20261112035935 +0000" stop="20261112045627 +0000">
         <title>Battlerstar Galactica</title>
@@ -8492,11 +8376,6 @@
         <title>The Odd Couple: I Kid, You Not</title>
         <desc>Oscar tries to prove to Charlotte that he can be responsible when he volunteers to take her son, Evan (Caleb Brown), trick-or-treating on Halloween.</desc>
         <icon src="https://images.pluto.tv/series/642191da6113a5001a66a4b4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="63d91cc58795f30008678e9d-GB" start="20261112030900 +0000" stop="20261112040400 +0000">
-        <title>Bloodline Detectives</title>
-        <desc>Years after a murder in 1991, will determination and forensic tools find Danielle Clause's killer?</desc>
-        <icon src="https://images.pluto.tv/series/65cb28f770ac440013e10ac9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="63d91cc58795f30008678e9d-GB" start="20261112040400 +0000" stop="20261112050000 +0000">
         <title>Bloodline Detectives</title>
@@ -8788,11 +8667,6 @@
         <desc>When Dennis Pongratz finds his deceased father's Army belongings, he unlocks a treasure trove of WWII memorabilia, including an armband removed from a Nazi soldier killed in battle. Soon the Pongratz home becomes a battleground between good and evil.</desc>
         <icon src="https://images.pluto.tv/series/6058c27206e132001a6ea724/tile_1773914041220.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="66ba1f16cd0d3100086dcf22-GB" start="20261112030628 +0000" stop="20261112040000 +0000">
-        <title>Alien Files Unsealed: Episode 8</title>
-        <desc>Take a fresh look at some classic alien encounters, UFOs and abductions, and discover several new stories.</desc>
-        <icon src="https://images.pluto.tv/series/66168c008b96a60013f60db1/tile_1790724616666.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="66ba1f16cd0d3100086dcf22-GB" start="20261112040000 +0000" stop="20261112045241 +0000">
         <title>Alien Files Unsealed: Episode 9</title>
         <desc>We have always been told that mankind enjoys free will. Is this really true or have aliens created the means for controlling humanity?</desc>
@@ -8843,11 +8717,6 @@
         <desc>Yvette and Glen: Built on ancient ground, Hack Green Nuclear Bunker is a hot spot for paranormal activity. Yvette and Glen go it alone and soon experience the bunkers reputation first-hand.</desc>
         <icon src="https://images.pluto.tv/series/649aba2812e6ce001365ada0/tile_1775197441109.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="69038c2ee0e0c5f8208c033a-GB" start="20261112031102 +0000" stop="20261112040142 +0000">
-        <title>Murdertown: Tamworth</title>
-        <desc>In 1994, a gang kill a woman who manages a building society and tie up her husband, before robbing the building society of large sums of cash. But despite making a tearful plea for help, the injured husband’s story doesn’t tally.</desc>
-        <icon src="https://images.pluto.tv/series/66c853c88e7691001328393c/tile_1767316285726.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="69038c2ee0e0c5f8208c033a-GB" start="20261112040142 +0000" stop="20261112045138 +0000">
         <title>Murdertown: Watford</title>
         <desc>In 2000, a young woman is stabbed to death while walking her dog in a picturesque park in the town. A suspect is seen running semi-naked across the M1 motorway. It takes detectives weeks to identify the killer as a local man called Leon Amos.</desc>
@@ -8893,11 +8762,6 @@
         <desc>Glyn Dix met Hazel while he was serving a life term for a brutal rape and murder. After convincing her he had been framed, the couple fell for one another. But five years after his release from prison, Glyn finally showed Hazel his true colours.</desc>
         <icon src="https://images.pluto.tv/series/652fa7062a6001001adb80ec/tile_1790723882971.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="692ebafce72f03e07e7df985-GB" start="20261112034317 +0000" stop="20261112040607 +0000">
-        <title>Crime Exposé with Nancy O'Dell: Crime Exposé with Nancy O'Dell - Season 1 - Episode 016</title>
-        <desc>Murder of April Millsap – 14-year-old April was walking her dog when her beaten body was found off a trail. Investigators linked her murder to James VanCallis, who killed her after she rejected his advances.</desc>
-        <icon src="https://images.pluto.tv/series/68ca6eb8fa0f5ccff50c0ac1/tile_1790724251407.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="692ebafce72f03e07e7df985-GB" start="20261112040607 +0000" stop="20261112042857 +0000">
         <title>Crime Exposé with Nancy O'Dell: Crime Exposé with Nancy O'Dell - Season 1 - Episode 002</title>
         <desc>Randy Baker, a loving husband and father, was murdered in a shocking life insurance plot by his wife and sister. Initially thought to be a natural death, the truth emerged through a deeper investigation.</desc>
@@ -8937,11 +8801,6 @@
         <title>72 Hours: Fat Bandit</title>
         <desc>A string of bank robberies in Winnipeg confound local police. Most bank-robbers are addicts, usually quite thin. This new man doesn't fit the profile: this bandit is fat.</desc>
         <icon src="https://images.pluto.tv/series/5c1289cdf5be1b994b46bd05/tile_1790723532350.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="68c8203efef6d8a2a6f13906-GB" start="20261112033000 +0000" stop="20261112040000 +0000">
-        <title>60 days in Jail</title>
-        <desc>60 Days In Jail sends undercover volunteers into jails to expose the real stories of life inside. These harrowing journeys serve a higher purpose, helping those in charge improve conditions. Facing danger and loneliness, can they last?</desc>
-        <icon src="https://images.pluto.tv/series/6993069f38705ecd44c8fbfe/tile_1776932692976.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="68c8203efef6d8a2a6f13906-GB" start="20261112040000 +0000" stop="20261112043000 +0000">
         <title>60 days in Jail</title>
@@ -12663,20 +12522,10 @@
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68c8203efef6d8a2a6f13906/featuredImage_1776871842223.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     </programme>
-<programme channel="61c1e270489a9c000874d209-NO" start="20261112021913 +0000" stop="20261112040213 +0000">
-        <title>Shattered Glass</title>
-        <desc>Hayden Christensen spiller hovedrollen i denne kritikerroste sanne historien om en vanæret journalist, regissert og delvis skrevet av Billy Ray, den Oscar®-nominerte forfatteren av CAPTAIN PHILLIPS.</desc>
-        <icon src="https://images.pluto.tv/series/6232f97b4f80a80014eb702f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="62beb44e3afd120007915d1b-NO" start="20261112024601 +0000" stop="20261112044801 +0000">
         <title>Taken 3</title>
         <desc>Eks-agenten Bryan Mills er forsont med sin tidligere kone, men lykken blir kortvarig når hun brutalt myrdes og han blir beskyldt for udåden.</desc>
         <icon src="https://images.pluto.tv/series/624fd463025eb50013a0989a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="63a19cb7847a090007f230d7-NO" start="20261112020853 +0000" stop="20261112040450 +0000">
-        <title>Dead Again</title>
-        <desc>Mike er en detektiv fra LA med en egen evne til å finne savnede personer. Men han har ingen anelse når han blir ansatt for å hjelpe et offer med hukommelsestap som pines av mareritt. Så fører en hyponotisør Church til en oppsiktsvekkende oppdagelse.</desc>
-        <icon src="https://images.pluto.tv/series/627e63fea6d5630013047703/tile_1783425241947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="69f84f985304e32444f83ed3-NO" start="20261112024222 +0000" stop="20261112042003 +0000">
         <title>Troll</title>
@@ -14578,11 +14427,6 @@
         <desc>Charles Bronson, född Michael Peterson, är Englands mest våldsbenägne intern. Redan som barn drömde han om att bli berömd, men visste inte för vad tills den dagen han rånade ett postkontor.</desc>
         <icon src="https://images.pluto.tv/series/65d4728016305f0013892344/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="63a19e1b9ab2df0007bef7a7-SE" start="20261112022604 +0000" stop="20261112035902 +0000">
-        <title>REC 2</title>
-        <desc>En byggnad är satt i karantän på grund av ett dödligt, okänt virus. Kommer någon levande ut?</desc>
-        <icon src="https://images.pluto.tv/series/659bdf8808d0ab00130df08f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="63dbe8c8a9957100087798a3-SE" start="20261112030116 +0000" stop="20261112053220 +0000">
         <title>The Bells Of St Mary'S</title>
         <desc>At a big city Catholic school, Father O'Malley and Sister Benedict indulge in friendly rivalry, and succeed in extending the school through the gift of a building.</desc>
@@ -14962,11 +14806,6 @@
         <title>Beavis and Butt-Head: Take a number / Stewart moves away / Premature evacuation</title>
         <desc>The duo goes to rock concert / Beavis and Butt-Head breaks into Stewarts house to watch TV / A bomb threat is called into their high school</desc>
         <icon src="https://images.pluto.tv/series/64b79d000a21a3001308a5c3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="65e9781a2873090008b48d8a-SE" start="20261112033853 +0000" stop="20261112040453 +0000">
-        <title>RENO 911!: Dangle's Moving Day</title>
-        <desc>Dangle needs help moving out of his house, and Junior teaches Reno's youth about prison life.</desc>
-        <icon src="https://images.pluto.tv/series/65e999125c25f60013741cb0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="65e9781a2873090008b48d8a-SE" start="20261112040453 +0000" stop="20261112043020 +0000">
         <title>RENO 911!: Terrorist Training Pt. 1</title>
@@ -16812,11 +16651,6 @@ till en tjänstgöring i Europa.</desc>
         <desc>When a sleazy TV exec offers Wayne and Garth a contract to tape their late-night cable-access show at his network, they discover the road to the big time is full of gnarly twists and turns.</desc>
         <icon src="https://images.pluto.tv/series/66317a38d1a91700139f0c9a/tile_1781290442268.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="5b4e69e08291147bd04a9fd7-US" start="20261112010006 +0000" stop="20261112040006 +0000">
-        <title>Man on Fire (2004)</title>
-        <desc>A Marine swears vengeance on those who committed an act against the family he was hired to protect.</desc>
-        <icon src="https://images.pluto.tv/series/6adf9250e92f4736337649c9/tile_1794257305208.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="5b4e69e08291147bd04a9fd7-US" start="20261112040006 +0000" stop="20261112071506 +0000">
         <title>A Time to Kill</title>
         <desc>Old ways die hard. It's the lesson learned by Carl Lee Hailey, a Mississippi factory worker, when two racist thugs brutally assault his ten-year-old daughter on a drunken spree.</desc>
@@ -16826,11 +16660,6 @@ till en tjänstgöring i Europa.</desc>
         <title>G.I. Joe: Retaliation</title>
         <desc>The greatest American Heroes are back, and they've been set up to take the fall for a heinous crime they didn't commit. Roadblock (Dwayne Johnson) leads a new team (including Channing Tatum and Bruce Willis) on this high-octane adventure.</desc>
         <icon src="https://images.pluto.tv/series/60d9ed1266312d0014701f12/tile_1786654082691.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="5ba3fb9c4b078e0f37ad34e8-US" start="20261112010000 +0000" stop="20261112040000 +0000">
-        <title>We Were Soldiers</title>
-        <desc>In 1965, America is at war with North Vietnam, and Lt. Col. Hal Moore prepares his troops for one of the most violent battles in U.S. History: “The Valley of Death.”</desc>
-        <icon src="https://images.pluto.tv/series/5ffc913100da4e001389d3fb/tile_1791479522816.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="5ba3fb9c4b078e0f37ad34e8-US" start="20261112040000 +0000" stop="20261112063000 +0000">
         <title>Hamburger Hill</title>
@@ -16871,26 +16700,6 @@ till en tjänstgöring i Europa.</desc>
         <title>X (2022)</title>
         <desc>A group of actors set out to make an adult film in rural Texas under the noses of their reclusive hosts, but when the elderly couple catches their young guests in the act, the cast finds themselves in a desperate fight for their lives.</desc>
         <icon src="https://images.pluto.tv/series/692ee4386a5d6e386012b501/tile_1790801281994.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="5b4fc274694c027be6ed3eea-US" start="20261112030000 +0000" stop="20261112040000 +0000">
-        <title>iZombie</title>
-        <desc>In the series premiere, a medical resident turned zombie works in the coroner's office. With each brain she eats, she inherits the corpse's memories, helping her solve crimes.</desc>
-        <icon src="https://images.pluto.tv/series/6a59088309ad9261a976cc75/tile_1786044961671.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="6913e381b6bf26bb6e798c13-US" start="20261112030000 +0000" stop="20261112040000 +0000">
-        <title>The X-Files</title>
-        <desc>A mystery involves Mulder and a creature linked to Native American lore.</desc>
-        <icon src="https://images.pluto.tv/series/692fa4e06a5d6e386082d27f/tile_1786046051250.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="69d7ebb726eeec84158e28cb-US" start="20261112030000 +0000" stop="20261112040000 +0000">
-        <title>Arrow</title>
-        <desc>In order to track down Diaz from inside prison, Oliver has to align with an old enemy. And Felicity's attempts to find Diaz are thwarted by Diggle, who's now allegiant to ARGUS.</desc>
-        <icon src="https://images.pluto.tv/series/69cd8fc0a5502149b7cba7fd/tile_1784736001820.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="5aea40b35126c2157123aa64-US" start="20261112030000 +0000" stop="20261112040000 +0000">
-        <title>The New Detectives</title>
-        <desc>Terrorism: Thanks to new technology and, perhaps, the approaching millennium, terrorism is a growing international threat. The Oklahoma City explosion and the bombing of the World Trade Center are just two of the incidents of this growing problem.</desc>
-        <icon src="https://images.pluto.tv/series/5ac562a0ea0c647dd15b80d7/tile_1783621442048.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="561d7d484dc7c8770484914a-US" start="20261112054500 +0000" stop="20261112083000 +0000">
         <title>The Hurt Locker</title>
@@ -16982,11 +16791,6 @@ till en tjänstgöring i Europa.</desc>
         <desc>Sean Penn directs and stars along side his daughter Dylan Penn in this intimate family portrait of a young woman who struggles to reconcile her memories of her loving father with the fact that he was the most notorious counterfeiter in U.S. history.</desc>
         <icon src="https://images.pluto.tv/series/66fac998a88a1900132962a2/tile_1784091614039.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="5c2d64ffbdf11b71587184b8-US" start="20261112033000 +0000" stop="20261112040000 +0000">
-        <title>The New Adventures of Old Christine</title>
-        <desc>Christine realizes that one of the fathers at Ritchie's Parents Orientation was the seventh grade classmate who ruined her reputation, and she decides to take revenge.</desc>
-        <icon src="https://images.pluto.tv/series/667b0e10946b3600134336dc/tile_1785436562349.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="5c2d64ffbdf11b71587184b8-US" start="20261112040000 +0000" stop="20261112043000 +0000">
         <title>Sabrina: The Teenage Witch</title>
         <desc>Sabrina faces the most difficult decision of her life when she must choose between her mom and her magic</desc>
@@ -17032,11 +16836,6 @@ till en tjänstgöring i Europa.</desc>
         <desc>Aspiring movie star and hustler Maxine Minx (Mia Goth) finally gets her big break. But as a mysterious killer stalks the starlets of 1980s Hollywood, a trail of blood threatens to reveal her sinister past.</desc>
         <icon src="https://images.pluto.tv/series/6a7e34891de8a69a11e60d5c/tile_1786655882146.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="5ca671f215a62078d2ec0abf-US" start="20261112033000 +0000" stop="20261112040000 +0000">
-        <title>South Park</title>
-        <desc>Mr. Mackey, the school counselor, is fired and turns to drugs and alcohol. Meanwhile, when the boys find out what it means to be circumcised they try to save Ike from his Bris.</desc>
-        <icon src="https://images.pluto.tv/series/5f051a0cd4495f0013a20ff5/tile_1770068161626.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="5ca671f215a62078d2ec0abf-US" start="20261112040000 +0000" stop="20261112043000 +0000">
         <title>South Park</title>
         <desc>With Pip as their star player, the South Park dodgeball team is off to the championships.</desc>
@@ -17071,11 +16870,6 @@ till en tjänstgöring i Europa.</desc>
         <title>Drunk History</title>
         <desc>Charles Sumner gets caned on the Senate floor, Judge J. Waties Waring helps to end segregation, and a slave named Robert Smalls commandeers a Confederate warship. Featuring Patton Oswalt, Johnny Knoxville, Busy Philipps and Brandon T. Jackson.</desc>
         <icon src="https://images.pluto.tv/series/64122528803fcf00132e083f/tile_1774501201360.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="61325d18f5166c00081b84e0-US" start="20261112033000 +0000" stop="20261112040000 +0000">
-        <title>Mama's Family</title>
-        <desc>When a new town dump is planned for her street, Mama refuses to sell the house. A connection to the town's founder is uncovered, and the mayor reluctantly changes plans.</desc>
-        <icon src="https://images.pluto.tv/series/65415e288026ff001afa75d7/tile_1775763720910.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="61325d18f5166c00081b84e0-US" start="20261112040000 +0000" stop="20261112043000 +0000">
         <title>Mama's Family</title>
@@ -17112,11 +16906,6 @@ till en tjänstgöring i Europa.</desc>
         <desc>To get the money to purchase a new VCR that Al won't buy her, Peggy takes a job in a department store selling clocks.</desc>
         <icon src="https://images.pluto.tv/series/5d434ac4c4a19d3369dc718f/tile_1785274202358.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="6132619f9ddaa50007e7dd86-US" start="20261112033000 +0000" stop="20261112040000 +0000">
-        <title>Just Shoot Me</title>
-        <desc>Finch challenges Maya to play a good practical joke.</desc>
-        <icon src="https://images.pluto.tv/series/6215314d5231f2001387d080/tile_1785447007876.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="6132619f9ddaa50007e7dd86-US" start="20261112040000 +0000" stop="20261112043000 +0000">
         <title>Just Shoot Me</title>
         <desc>Nina is despondent at the retirement of a longtime rival; Jack's desire to gain fame by naming a park after himself backfires.</desc>
@@ -17151,11 +16940,6 @@ till en tjänstgöring i Europa.</desc>
         <title>Wings</title>
         <desc>Joe tries to overcome his fear of the circus. Brian and Casey are dating a mother and son.</desc>
         <icon src="https://images.pluto.tv/series/5fb343b3b2427e001a7beb8a/tile_1785361321658.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="633354b63df9700007f6a1b7-US" start="20261112033000 +0000" stop="20261112040000 +0000">
-        <title>The Neighborhood</title>
-        <desc>When Dave discovers Calvin hasn't seen a physician in nearly a decade, he insists the Butler patriarch schedule a physical stat. But Calvin gets more than he bargained for when Dr. Fisher insists he undergo a routine colonoscopy.</desc>
-        <icon src="https://images.pluto.tv/series/66bd10a994a1840013620c7f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="633354b63df9700007f6a1b7-US" start="20261112040000 +0000" stop="20261112043000 +0000">
         <title>The Neighborhood</title>
@@ -17286,11 +17070,6 @@ till en tjänstgöring i Europa.</desc>
         <title>Arrow</title>
         <desc>While Felicity enlists help in her pursuit of Diaz and Laurel flexes her muscle as the DA, Slabside becomes even more dangerous after a guard is murdered.</desc>
         <icon src="https://images.pluto.tv/series/69cd8fc0a5502149b7cba7fd/tile_1784736001820.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="68bb164fb3900870ec368759-US" start="20261112033745 +0000" stop="20261112040318 +0000">
-        <title>Very Bad Men</title>
-        <desc>A con man targets beautiful women through an online dating service.</desc>
-        <icon src="https://images.pluto.tv/series/68e80ef987869622d14606c9/tile_1785196946581.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="68bb164fb3900870ec368759-US" start="20261112040318 +0000" stop="20261112042851 +0000">
         <title>Very Bad Men</title>
@@ -19804,14 +19583,6 @@ till en tjänstgöring i Europa.</desc>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/360c74f987035c619875530f2f8f57c4/rokuFeed/assets/165afdcb84755c06bd5637bd0b79361d.jpg" />
     <rating system="Motion Picture Association of America">R</rating>
   </programme>
-<programme channel="9349c516ca6456b9b5ed7e20cb1c1384" start="20261112030500 +0000" stop="20261112040000 +0000">
-    <title>Saturday Night Live</title>
-    <sub-title>Saturday Night Live</sub-title>
-    <desc>Holiday sketches include Christmas Special With Robert De Niro and A Burt Reynolds Christmas.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/79eceea8bd4753cf847cee07ccf8df4c/rokuFeed/assets/89d2913f720e56b0acca475e8d11b201.jpg" />
-    <episode-num system="onscreen">S2021E333</episode-num>
-    <rating system="USA Parental Rating">TV14</rating>
-  </programme>
 <programme channel="9349c516ca6456b9b5ed7e20cb1c1384" start="20261112040000 +0000" stop="20261112045600 +0000">
     <title>Saturday Night Live</title>
     <sub-title>Saturday Night Live</sub-title>
@@ -20383,6 +20154,12 @@ till en tjänstgöring i Europa.</desc>
     <desc>A sinister couple hatch a supernatural scheme to resurrect their grandson through a pregnant woman.</desc>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5ecafc463e1e518a95acbd4d7d964b98/images/gracenote/assets/p18902999_v_h8_ab.jpg" />
     <rating system="Motion Picture Association of America">UR</rating>
+  </programme>
+<programme channel="349e0f0840cf21b888bff327b41a2413" start="20261114040039 +0000" stop="20261114054826 +0000">
+    <title>The Babadook</title>
+    <desc>A widow discovers the monster her son fears is real and lurking around the house.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/05ae6476404c5900aecfe4020ec51eb8/rokuFeed/assets/5b1ab9783f985e16a227709f1fe0821e.jpg" />
+    <rating system="USA Parental Rating">TVMA</rating>
   </programme>
 <programme channel="8abbea29b86a5a5da299c7ef2e288cab" start="20261112033621 +0000" stop="20261112043026 +0000">
     <title>Autopsy: The Last Hours Of ...</title>
@@ -21312,11 +21089,6 @@ till en tjänstgöring i Europa.</desc>
     <desc lang="en">A shooting sends police divers into the Hudson River where they find a VW bus linked to a murder case closed in the 1960s during student uprisings.</desc>
     <episode-num system="dd_progid">EP000176170211</episode-num>
   </programme>
-<programme start="20261112033500 +0000" stop="20261112035900 +0000" channel="99951244">
-    <title lang="en">Field of Queens</title>
-    <desc lang="en">Jack convinces Will to join a gay soccer team; Karen is giddy in anticipation of her date with a handsome restaurateur (Andy Garcia).</desc>
-    <episode-num system="dd_progid">EP002704300117</episode-num>
-  </programme>
 <programme start="20261112035900 +0000" stop="20261112042200 +0000" channel="99951244">
     <title lang="en">Fagmalion Part One: Gay It Forward</title>
     <desc lang="en">Grace is puzzled by her new neighbor -- a bizarre bohemian woman.</desc>
@@ -21937,6 +21709,11 @@ till en tjänstgöring i Europa.</desc>
     <desc lang="en">Committed to becoming a father on his own, Will meets a potential surrogate who has stellar reviews, but her lifestyle choices give him doubts; Grace pretends to be a former famous Annie to gain entrance into AnnieCon.</desc>
     <episode-num system="dd_progid">EP027435700083</episode-num>
   </programme>
+<programme start="20261114040200 +0000" stop="20261114042600 +0000" channel="99951244">
+    <title lang="en">What a Dump</title>
+    <desc lang="en">Grace and her neighbor give their romance another shot; however, an embarrassing incident puts Grace's relationship, and her dignity, in jeopardy; Will decides it's time for Jack to grow up and cuts him off financially.</desc>
+    <episode-num system="dd_progid">EP027435700078</episode-num>
+  </programme>
 <programme start="20261112031500 +0000" stop="20261112040700 +0000" channel="99951474">
     <title lang="en">Alien Air Force</title>
     <desc lang="en">Since 2017, the Navy has been releasing photos and videos of unidentified aerial phenomena, and ancient astronaut theorists suggest the images are nearly identical to accounts from centuries ago.</desc>
@@ -22221,11 +21998,6 @@ till en tjänstgöring i Europa.</desc>
     <title lang="en">Destination Chile</title>
     <desc lang="en">The Chilean government questions whether new footage from a Navy helicopter indicates a connection to geoglyphs in the Atacama Desert.</desc>
     <episode-num system="dd_progid">EP012427480218</episode-num>
-  </programme>
-<programme start="20261112033000 +0000" stop="20261112040000 +0000" channel="99951232">
-    <title lang="en">The Clampetts Entertain</title>
-    <desc lang="en">The board chairman of Drysdale's bank is determined to meet Jed Clampett, the bank's financial wizard.</desc>
-    <episode-num system="dd_progid">EP000005520025</episode-num>
   </programme>
 <programme start="20261112040000 +0000" stop="20261112043000 +0000" channel="99951232">
     <title lang="en">Herby Gets Drafted</title>
@@ -22686,6 +22458,11 @@ till en tjänstgöring i Europa.</desc>
     <title lang="en">Granny's Garden</title>
     <desc lang="en">Granny's neighbors try to stop her when she attempts to create a vegetable garden in the front yard of the mansion grounds.</desc>
     <episode-num system="dd_progid">EP000005520033</episode-num>
+  </programme>
+<programme start="20261114040000 +0000" stop="20261114043000 +0000" channel="99951232">
+    <title lang="en">Last Chance Farm</title>
+    <desc lang="en">Uncle Joe convinces two overweight women that the Shady Rest is really a reducing farm, where their loss is management's gain.</desc>
+    <episode-num system="dd_progid">EP000033560170</episode-num>
   </programme>
 <programme start="20261112024600 +0000" stop="20261112045200 +0000" channel="99991399">
     <title lang="en">Take This Waltz</title>
@@ -23207,314 +22984,6 @@ till en tjänstgöring i Europa.</desc>
     <desc lang="en">As youths, Andy McGee and his future wife, Vicky, participated in secret experiments, allowing themselves to be subjected to mysterious medical tests. Years later, the couple's daughter, Charlie, begins to exhibit the ability of setting fires solely with her mind. This volatile talent makes the youngster extremely dangerous, and soon she becomes a target for the enigmatic agency known as "The Shop."</desc>
     <episode-num system="dd_assetid">MV000174380000</episode-num>
   </programme>
-<programme start="20261112033000 +0000" stop="20261112035800 +0000" channel="99951375">
-    <title lang="en">A Postcard From the Past</title>
-    <desc lang="en">Get to know a tour guide who is shocked to discover that she has an ancestral connection to a ghostly figure that's been seen wandering the grounds.</desc>
-    <episode-num system="dd_progid">EP056221790021</episode-num>
-  </programme>
-<programme start="20261112035800 +0000" stop="20261112042700 +0000" channel="99951375">
-    <title lang="en">A Pilot's Dream</title>
-    <desc lang="en">An Air Force hero, who made the ultimate sacrifice during a crucial military exercise, is reunited with his grandson, Chad; he inspires him to dream big.</desc>
-    <episode-num system="dd_progid">EP056221790001</episode-num>
-  </programme>
-<programme start="20261112042700 +0000" stop="20261112045500 +0000" channel="99951375">
-    <title lang="en">The Death Doula</title>
-    <desc lang="en">Learn how caregiver Beth Deering puts her ability to see the dead to work in her job as a death doula; explore the extraordinary paranormal power that she inherited and see why it allows her to provide comfort to patients in their final hours.</desc>
-    <episode-num system="dd_progid">EP056221790003</episode-num>
-  </programme>
-<programme start="20261112045500 +0000" stop="20261112054900 +0000" channel="99951375">
-    <title lang="en">HF_A01053283</title>
-    <episode-num system="dd_assetid">SH066352070000</episode-num>
-  </programme>
-<programme start="20261112054900 +0000" stop="20261112064200 +0000" channel="99951375">
-    <title lang="en">The Ledger</title>
-    <desc lang="en">Chase a cryptid in Harlan, where a man yearns for answers from his ancestors.</desc>
-    <episode-num system="dd_progid">EP048840110041</episode-num>
-  </programme>
-<programme start="20261112064200 +0000" stop="20261112073500 +0000" channel="99951375">
-    <title lang="en">The Dead on the Hill</title>
-    <desc lang="en">Dig into chilling claims in the coal-mining town of Harlan, where a mysterious woman in white has appeared repeatedly; learn how dread has driven off some hard-boiled locals as the team tries to get to the bottom of these supernatural happenings.</desc>
-    <episode-num system="dd_progid">EP048840110043</episode-num>
-  </programme>
-<programme start="20261112073500 +0000" stop="20261112082900 +0000" channel="99951375">
-    <title lang="en">A Homecoming</title>
-    <desc lang="en">Face off with patients in a hospital that's a mecca for ghost hunters; Brandon and Mustafa are at Waverly Hills, where reports of activity spikes have reached an all-time high; experts are wondering if claims of a homecoming effect are true.</desc>
-    <episode-num system="dd_progid">EP048840110021</episode-num>
-  </programme>
-<programme start="20261112082900 +0000" stop="20261112092200 +0000" channel="99951375">
-    <title lang="en">The Seer</title>
-    <desc lang="en">An investigation of ghost activity reports at a historic Tennessee horse farm, where guests keep running into the long-gone founder and his family; the team tries to find out why their psychic connection to this place is so strong, even after death.</desc>
-    <episode-num system="dd_progid">EP048840110022</episode-num>
-  </programme>
-<programme start="20261112092200 +0000" stop="20261112101500 +0000" channel="99951375">
-    <title lang="en">End of the Line</title>
-    <desc lang="en">Tennessee's first maximum-security prison; learning why it was the end of the line for the forced laborers who inhabited it.</desc>
-    <episode-num system="dd_progid">EP048840110023</episode-num>
-  </programme>
-<programme start="20261112101500 +0000" stop="20261112110800 +0000" channel="99951375">
-    <title lang="en">Angel of Death</title>
-    <desc lang="en">The team examines the paranormal clues that have been piling up in the fabled Harriman Hospital and tracks down the source of chilling photos that have been captured in its infamous shadow hallway.</desc>
-    <episode-num system="dd_progid">EP048840110024</episode-num>
-  </programme>
-<programme start="20261112110800 +0000" stop="20261112113600 +0000" channel="99951375">
-    <title lang="en">A Pilot's Dream</title>
-    <desc lang="en">An Air Force hero, who made the ultimate sacrifice during a crucial military exercise, is reunited with his grandson, Chad; he inspires him to dream big.</desc>
-    <episode-num system="dd_progid">EP056221790001</episode-num>
-  </programme>
-<programme start="20261112113600 +0000" stop="20261112120400 +0000" channel="99951375">
-    <title lang="en">The Death Doula</title>
-    <desc lang="en">Learn how caregiver Beth Deering puts her ability to see the dead to work in her job as a death doula; explore the extraordinary paranormal power that she inherited and see why it allows her to provide comfort to patients in their final hours.</desc>
-    <episode-num system="dd_progid">EP056221790003</episode-num>
-  </programme>
-<programme start="20261112120400 +0000" stop="20261112130000 +0000" channel="99951375">
-    <title lang="en">HF_A01053283</title>
-    <episode-num system="dd_assetid">SH066352070000</episode-num>
-  </programme>
-<programme start="20261112130000 +0000" stop="20261112135400 +0000" channel="99951375">
-    <title lang="en">The Demonic Scratch House</title>
-    <desc lang="en">A face-off with an angry demon who scratches a Canadian couple exploring a haunted mansion; meeting a pushy pub poltergeist in the UK; seeing strange footage captured by an Australian man who swears that a ghost has been walking his beloved pooch.</desc>
-    <episode-num system="dd_progid">EP033348760063</episode-num>
-  </programme>
-<programme start="20261112135400 +0000" stop="20261112144900 +0000" channel="99951375">
-    <title lang="en">The Secret Séance in Peru</title>
-    <desc lang="en">An Urban explorer is terrified by a graveyard séance in Peru; in Scarborough, a woman is shocked by a poltergeist throwing noodles in her store; it's all unexplained and caught on camera.</desc>
-    <episode-num system="dd_progid">EP033348760064</episode-num>
-  </programme>
-<programme start="20261112144900 +0000" stop="20261112151600 +0000" channel="99951375">
-    <title lang="en">Crop Circles</title>
-    <desc lang="en">Patterns in fields, which appear overnight and without any warning; examining crop circles, why they appear and what they could possibly signify.</desc>
-    <episode-num system="dd_progid">EP034626390022</episode-num>
-  </programme>
-<programme start="20261112151600 +0000" stop="20261112154300 +0000" channel="99951375">
-    <title lang="en">UFO Paintings</title>
-    <desc lang="en">During the renaissance, advances were made in both science and the arts, but many paintings have a mysterious UFO.</desc>
-    <episode-num system="dd_progid">EP034626390023</episode-num>
-  </programme>
-<programme start="20261112154300 +0000" stop="20261112161100 +0000" channel="99951375">
-    <title lang="en">Curse of the Crying Boy</title>
-    <desc lang="en">A mass-produced series of paintings of crying children, a popular artwork in many houses in the 1980s, is believed to be related to a mysterious series of house fires at the time.</desc>
-    <episode-num system="dd_progid">EP034626390024</episode-num>
-  </programme>
-<programme start="20261112161100 +0000" stop="20261112170800 +0000" channel="99951375">
-    <title lang="en">Her Own Strength; Fright or Flight</title>
-    <desc lang="en">Grotesque figures invade a woman's house in the middle of the night; the spirit of an old man follows a couple home after they visit the site of an airplane crash.</desc>
-    <episode-num system="dd_progid">EP027155970013</episode-num>
-  </programme>
-<programme start="20261112170800 +0000" stop="20261112180500 +0000" channel="99951375">
-    <title lang="en">El Diablo; From the Darkness</title>
-    <desc lang="en">A woman is attacked by a demonic presence in her family's Texas home; a Toronto man receives a frantic message from an unsettling group of ghosts before confronting a dark and powerful entity lurking in his new apartment.</desc>
-    <episode-num system="dd_progid">EP027155970001</episode-num>
-  </programme>
-<programme start="20261112180500 +0000" stop="20261112190100 +0000" channel="99951375">
-    <title lang="en">Devil of a Deal; Awoken</title>
-    <desc lang="en">A young mother is viciously attacked by an evil spirit after attempting to cleanse negative energy from her home; teenage siblings encounter a terrifying demonic figure while house sitting.</desc>
-    <episode-num system="dd_progid">EP027155970002</episode-num>
-  </programme>
-<programme start="20261112190100 +0000" stop="20261112195800 +0000" channel="99951375">
-    <title lang="en">Souls Seeking Revenge</title>
-    <desc lang="en">Standing up to spirits that are hell-bent on punishing the living; pondering the nature of a nighttime intruder, facing off with a vengeful ghost who appears to a nurse's aide, and chasing an aggressive entity targeting a switchboard operator.</desc>
-    <episode-num system="dd_progid">EP030279870089</episode-num>
-  </programme>
-<programme start="20261112195800 +0000" stop="20261112205700 +0000" channel="99951375">
-    <title lang="en">Terror in the Sanitorium, The Break Room, Do Not Enter</title>
-    <desc lang="en">A medical assistant starting a job in a former TB hospital discovers she's not alone in the building; a rookie nurse takes her break in a room rumored to be haunted; a procedural nurse encounters a hostile entity within the walls of an old hospital.</desc>
-    <episode-num system="dd_progid">EP030279870069</episode-num>
-  </programme>
-<programme start="20261112205700 +0000" stop="20261112215300 +0000" channel="99951375">
-    <title lang="en">The Gift, Room 19, The Cooler</title>
-    <desc lang="en">An orderly discovers his frightening gift for seeing spirits of the recently deceased and sensing those who are about to die; a hospice nurse realizes the end-of-life facility where she works is haunted by multiple spirits, including a black dog.</desc>
-    <episode-num system="dd_progid">EP030279870070</episode-num>
-  </programme>
-<programme start="20261112215300 +0000" stop="20261112225000 +0000" channel="99951375">
-    <title lang="en">The Malevolent Boy, Cat</title>
-    <desc lang="en">A nurse in Texas discovers her hospital is haunted by a mischievous boy whose pranks become increasingly malicious; a cook at a county hospital witnesses paranormal events in connection with the long-time janitor.</desc>
-    <episode-num system="dd_progid">EP030279870071</episode-num>
-  </programme>
-<programme start="20261112225000 +0000" stop="20261112234700 +0000" channel="99951375">
-    <title lang="en">Creature, The Vigil, The Exorcist</title>
-    <desc lang="en">A nurse aide discovers that her care facility contains a horrific creature that threatens her elderly patients; encounters in the hospital halls with a nefarious crone compels a teenager to hold vigil by her dying grandmother's bedside.</desc>
-    <episode-num system="dd_progid">EP030279870073</episode-num>
-  </programme>
-<programme start="20261112234700 +0000" stop="20261113004300 +0000" channel="99951375">
-    <title lang="en">Connection, Ghost Interrupted, Terror in the Tunnel</title>
-    <desc lang="en">A nurse assistant observes uncanny coincidences that emerge in connection with a long term care resident. A teenager at a psychiatric facility detects spirits in an abandoned building. While transporting a baby a nurse senses a disturbing presence.</desc>
-    <episode-num system="dd_progid">EP030279870072</episode-num>
-  </programme>
-<programme start="20261113004300 +0000" stop="20261113014000 +0000" channel="99951375">
-    <title lang="en">Kevin Help Us; Ghostman and Robin</title>
-    <desc lang="en">The spirit of a dead cat returns to protect its owners from an unfriendly canine presence; a woman and her young daughter are terrorized by a menacing shadow man.</desc>
-    <episode-num system="dd_progid">EP027155970010</episode-num>
-  </programme>
-<programme start="20261113014000 +0000" stop="20261113023500 +0000" channel="99951375">
-    <title lang="en">Chloe Ferry</title>
-    <desc lang="en">Tallying up the unsettling occurrences in reality star Chloe Ferry's isolated mansion, where things go missing and windows mysteriously shatter in the dead of night; learning about a terrifying shadow man and the home's link to the Geordie Ripper.</desc>
-    <episode-num system="dd_progid">EP042218430017</episode-num>
-  </programme>
-<programme start="20261113023500 +0000" stop="20261113033100 +0000" channel="99951375">
-    <title lang="en">Connection, Ghost Interrupted, Terror in the Tunnel</title>
-    <desc lang="en">A nurse assistant observes uncanny coincidences that emerge in connection with a long term care resident. A teenager at a psychiatric facility detects spirits in an abandoned building. While transporting a baby a nurse senses a disturbing presence.</desc>
-    <episode-num system="dd_progid">EP030279870072</episode-num>
-  </programme>
-<programme start="20261113033100 +0000" stop="20261113043200 +0000" channel="99951375">
-    <title lang="en">Kevin Help Us; Ghostman and Robin</title>
-    <desc lang="en">The spirit of a dead cat returns to protect its owners from an unfriendly canine presence; a woman and her young daughter are terrorized by a menacing shadow man.</desc>
-    <episode-num system="dd_progid">EP027155970010</episode-num>
-  </programme>
-<programme start="20261113043200 +0000" stop="20261113052700 +0000" channel="99951375">
-    <title lang="en">Chloe Ferry</title>
-    <desc lang="en">Tallying up the unsettling occurrences in reality star Chloe Ferry's isolated mansion, where things go missing and windows mysteriously shatter in the dead of night; learning about a terrifying shadow man and the home's link to the Geordie Ripper.</desc>
-    <episode-num system="dd_progid">EP042218430017</episode-num>
-  </programme>
-<programme start="20261113052700 +0000" stop="20261113062300 +0000" channel="99951375">
-    <title lang="en">Souls Seeking Revenge</title>
-    <desc lang="en">Standing up to spirits that are hell-bent on punishing the living; pondering the nature of a nighttime intruder, facing off with a vengeful ghost who appears to a nurse's aide, and chasing an aggressive entity targeting a switchboard operator.</desc>
-    <episode-num system="dd_progid">EP030279870089</episode-num>
-  </programme>
-<programme start="20261113062300 +0000" stop="20261113072000 +0000" channel="99951375">
-    <title lang="en">Terror in the Sanitorium, The Break Room, Do Not Enter</title>
-    <desc lang="en">A medical assistant starting a job in a former TB hospital discovers she's not alone in the building; a rookie nurse takes her break in a room rumored to be haunted; a procedural nurse encounters a hostile entity within the walls of an old hospital.</desc>
-    <episode-num system="dd_progid">EP030279870069</episode-num>
-  </programme>
-<programme start="20261113072000 +0000" stop="20261113081700 +0000" channel="99951375">
-    <title lang="en">The Gift, Room 19, The Cooler</title>
-    <desc lang="en">An orderly discovers his frightening gift for seeing spirits of the recently deceased and sensing those who are about to die; a hospice nurse realizes the end-of-life facility where she works is haunted by multiple spirits, including a black dog.</desc>
-    <episode-num system="dd_progid">EP030279870070</episode-num>
-  </programme>
-<programme start="20261113081700 +0000" stop="20261113091300 +0000" channel="99951375">
-    <title lang="en">The Malevolent Boy, Cat</title>
-    <desc lang="en">A nurse in Texas discovers her hospital is haunted by a mischievous boy whose pranks become increasingly malicious; a cook at a county hospital witnesses paranormal events in connection with the long-time janitor.</desc>
-    <episode-num system="dd_progid">EP030279870071</episode-num>
-  </programme>
-<programme start="20261113091300 +0000" stop="20261113101000 +0000" channel="99951375">
-    <title lang="en">Creature, The Vigil, The Exorcist</title>
-    <desc lang="en">A nurse aide discovers that her care facility contains a horrific creature that threatens her elderly patients; encounters in the hospital halls with a nefarious crone compels a teenager to hold vigil by her dying grandmother's bedside.</desc>
-    <episode-num system="dd_progid">EP030279870073</episode-num>
-  </programme>
-<programme start="20261113101000 +0000" stop="20261113110700 +0000" channel="99951375">
-    <title lang="en">Connection, Ghost Interrupted, Terror in the Tunnel</title>
-    <desc lang="en">A nurse assistant observes uncanny coincidences that emerge in connection with a long term care resident. A teenager at a psychiatric facility detects spirits in an abandoned building. While transporting a baby a nurse senses a disturbing presence.</desc>
-    <episode-num system="dd_progid">EP030279870072</episode-num>
-  </programme>
-<programme start="20261113110700 +0000" stop="20261113120300 +0000" channel="99951375">
-    <title lang="en">Kevin Help Us; Ghostman and Robin</title>
-    <desc lang="en">The spirit of a dead cat returns to protect its owners from an unfriendly canine presence; a woman and her young daughter are terrorized by a menacing shadow man.</desc>
-    <episode-num system="dd_progid">EP027155970010</episode-num>
-  </programme>
-<programme start="20261113120300 +0000" stop="20261113130000 +0000" channel="99951375">
-    <title lang="en">Chloe Ferry</title>
-    <desc lang="en">Tallying up the unsettling occurrences in reality star Chloe Ferry's isolated mansion, where things go missing and windows mysteriously shatter in the dead of night; learning about a terrifying shadow man and the home's link to the Geordie Ripper.</desc>
-    <episode-num system="dd_progid">EP042218430017</episode-num>
-  </programme>
-<programme start="20261113130000 +0000" stop="20261113135600 +0000" channel="99951375">
-    <title lang="en">Evil Intentions</title>
-    <desc lang="en">A tattoo shop is plagued by the ghost of an evil criminal; a mother-in-law returns from beyond the grave; a malevolent spirit puts a man's life in danger.</desc>
-    <episode-num system="dd_progid">EP020943420013</episode-num>
-  </programme>
-<programme start="20261113135600 +0000" stop="20261113145300 +0000" channel="99951375">
-    <title lang="en">An Invitation to Evil</title>
-    <desc lang="en">A woman gets more than she bargained for when she brings home an antique washstand; an evil spirit attaches itself to all those it encounters; a woman accidentally summons demonic beings into her home.</desc>
-    <episode-num system="dd_progid">EP020943420014</episode-num>
-  </programme>
-<programme start="20261113145300 +0000" stop="20261113155000 +0000" channel="99951375">
-    <title lang="en">Messages from Beyond</title>
-    <desc lang="en">TJ Swick's dreams are invaded by the spirit world with life changing consequences; a teen is targeted with demonic messages; a childhood friend returns from the other side to save Robert Salvas's life.</desc>
-    <episode-num system="dd_progid">EP020943420015</episode-num>
-  </programme>
-<programme start="20261113155000 +0000" stop="20261113164700 +0000" channel="99951375">
-    <title lang="en">Possessed</title>
-    <desc lang="en">A teenager becomes obsessed with the ghost of a young girl; a Civil War veteran drives a family to the edge of destruction; a woman is taken over by a mysterious force.</desc>
-    <episode-num system="dd_progid">EP020943420016</episode-num>
-  </programme>
-<programme start="20261113164700 +0000" stop="20261113174000 +0000" channel="99951375">
-    <title lang="en">Bell Island</title>
-    <desc lang="en">Sailing to Bell Island, Newfoundland, where the investigators reach out to the ghosts left by a devastating Nazi U-boat attack during WW II; descending into darkness as the trio reveals a group of ghostly miners trapped underground for 80 years.</desc>
-    <episode-num system="dd_progid">EP060840190007</episode-num>
-  </programme>
-<programme start="20261113174000 +0000" stop="20261113183700 +0000" channel="99951375">
-    <title lang="en">Leap Castle</title>
-    <desc lang="en">Shiver as paranormal investigators Corine, Leanne, and Kelly tap into the bloody history of one of Ireland's ghostliest spots; find out who, or what, is lurking in the shadows of this terrifying fortress, which could be a portal to the underworld.</desc>
-    <episode-num system="dd_progid">EP060840190006</episode-num>
-  </programme>
-<programme start="20261113183700 +0000" stop="20261113193100 +0000" channel="99951375">
-    <title lang="en">The Alamo</title>
-    <desc lang="en">Paranormal investigators Corine Carey, Leanne Sallenback and Kelly Ireland travel to San Antonio, Texas to answer the panicked calls of local residents who have experienced paranormal phenomena tied to the Battle of the Alamo in 1836.</desc>
-    <episode-num system="dd_progid">EP060840190001</episode-num>
-  </programme>
-<programme start="20261113193100 +0000" stop="20261113202600 +0000" channel="99951375">
-    <title lang="en">Montreal</title>
-    <desc lang="en">The team finds startling paranormal links to Montreal's boozy, corrupt past in the 1920s and '30s, such as a man whose corpse became an attraction, a woman haunted by ghost children, and a murder victim in a notorious cabaret.</desc>
-    <episode-num system="dd_progid">EP060840190002</episode-num>
-  </programme>
-<programme start="20261113202600 +0000" stop="20261113212000 +0000" channel="99951375">
-    <title lang="en">Salem</title>
-    <desc lang="en">Hunt for the truth in Massachusetts; Salem's ghosts -- including that of the first woman hanged for witchcraft -- reveal things about the city's infamous witch trials; a message from a man executed in the worst way imaginable.</desc>
-    <episode-num system="dd_progid">EP060840190003</episode-num>
-  </programme>
-<programme start="20261113212000 +0000" stop="20261113214900 +0000" channel="99951375">
-    <title lang="en">Angels on the Highway</title>
-    <desc lang="en">The team investigates claims of angel sightings on a stretch of highway.</desc>
-    <episode-num system="dd_progid">EP007527980133</episode-num>
-  </programme>
-<programme start="20261113214900 +0000" stop="20261113221800 +0000" channel="99951375">
-    <title lang="en">Ghosts in the Blood</title>
-    <desc lang="en">Deborah and Jay both come from families that see spirits, and both have had ghostly encounters of their own.</desc>
-    <episode-num system="dd_progid">EP007527980007</episode-num>
-  </programme>
-<programme start="20261113221800 +0000" stop="20261113224700 +0000" channel="99951375">
-    <title lang="en">The Ghostly Catalyst</title>
-    <desc lang="en">A friendly ghost influences Stephen to end his marriage, while a malicious ghost makes Chris decide to move.</desc>
-    <episode-num system="dd_progid">EP007527980010</episode-num>
-  </programme>
-<programme start="20261113224700 +0000" stop="20261113231600 +0000" channel="99951375">
-    <title lang="en">When Kids See Ghosts</title>
-    <desc lang="en">A girl's father doesn't believe she can see ghosts; a boy's family is accepting of his ability to see spirits.</desc>
-    <episode-num system="dd_progid">EP007527980012</episode-num>
-  </programme>
-<programme start="20261113231600 +0000" stop="20261113234500 +0000" channel="99951375">
-    <title lang="en">The Journey Back From Death</title>
-    <desc lang="en">A neighborhood is plagued with ghostly sightings and strange sounds.</desc>
-    <episode-num system="dd_progid">EP007527980020</episode-num>
-  </programme>
-<programme start="20261113234500 +0000" stop="20261114001400 +0000" channel="99951375">
-    <title lang="en">My Dad's Ghost Saved My Mom's Life</title>
-    <desc lang="en">Barbara and Elsie both get ghostly messages from their long dead fathers.</desc>
-    <episode-num system="dd_progid">EP007527980024</episode-num>
-  </programme>
-<programme start="20261114001400 +0000" stop="20261114004300 +0000" channel="99951375">
-    <title lang="en">Refuge in Rosaries</title>
-    <desc lang="en">Alex turns to Catholic icons for safety; Doris goes to unusual lengths to keep her protective rosary close.</desc>
-    <episode-num system="dd_progid">EP007527980026</episode-num>
-  </programme>
-<programme start="20261114004300 +0000" stop="20261114011600 +0000" channel="99951375">
-    <title lang="en">'Til Death Do Us Part ... or Not</title>
-    <desc lang="en">Talking with Erin Gibb and her sister about ghostly experiences as a child in an old house that was once a wayside inn.</desc>
-    <episode-num system="dd_progid">EP007527980018</episode-num>
-  </programme>
-<programme start="20261114011600 +0000" stop="20261114020500 +0000" channel="99951375">
-    <title lang="en">Billy Meir, The Plejaren and the Multiverse</title>
-    <desc lang="en">Billy Meier claims he's traveled through time and space with an alien race from the Pleiades star cluster; in the decades following his revelation, both skeptics and ufologists say it's a hoax despite Meier providing photographic evidence.</desc>
-    <episode-num system="dd_progid">EP049852040003</episode-num>
-  </programme>
-<programme start="20261114020500 +0000" stop="20261114023300 +0000" channel="99951375">
-    <title lang="en">Curse of Egypt</title>
-    <desc lang="en">A famous inscription leads some to believe that a real curse haunts the original discoverers of Tutankhamun.</desc>
-    <episode-num system="dd_progid">EP034626390025</episode-num>
-  </programme>
-<programme start="20261114023300 +0000" stop="20261114030100 +0000" channel="99951375">
-    <title lang="en">Dover Demon</title>
-    <desc lang="en">Investigating a strange creature seen in a wooded area of rural Massachusetts by three different people who all give similar descriptions.</desc>
-    <episode-num system="dd_progid">EP034626390026</episode-num>
-  </programme>
-<programme start="20261114030100 +0000" stop="20261114032900 +0000" channel="99951375">
-    <title lang="en">Hidden Treasure</title>
-    <desc lang="en">A hoard of golden coins is found in the prospecting district of California; a valuable find in an old piano in rural England.</desc>
-    <episode-num system="dd_progid">EP034626390027</episode-num>
-  </programme>
-<programme start="20261114032900 +0000" stop="20261114042800 +0000" channel="99951375">
-    <title lang="en">The Demonic Scratch House</title>
-    <desc lang="en">A face-off with an angry demon who scratches a Canadian couple exploring a haunted mansion; meeting a pushy pub poltergeist in the UK; seeing strange footage captured by an Australian man who swears that a ghost has been walking his beloved pooch.</desc>
-    <episode-num system="dd_progid">EP033348760063</episode-num>
-  </programme>
 <programme start="20261112025426 +0000" stop="20261112044301 +0000" channel="99991331">
     <title lang="en">Battledogs</title>
     <desc lang="en">The Lupine virus turns Manhattan civilians into wolves. Unless a cure is found, only a nuke can stop it.</desc>
@@ -23944,11 +23413,6 @@ till en tjänstgöring i Europa.</desc>
     <title lang="en">Beautiful Creatures</title>
     <desc lang="en">A small-town teen falls for a witch as the powers of evil try to claim her.</desc>
     <episode-num system="dd_assetid">XT03AGB3QZWGPE</episode-num>
-  </programme>
-<programme start="20261112030637 +0000" stop="20261112040304 +0000" channel="99951544">
-    <title lang="en">World's Wildest Police Videos</title>
-    <desc lang="en">This episode features a chase in Arizona, a drug runner who tries to smuggle cash and a riot in Nicaragua. Retired Sheriff John Bunnell hosts this explosive series consisting of the most outrageous police footage: car chases, robberies, riots, arrests and more! #policevideos #policefootage #policechases #clips #bodycam #police #cops #copshow #caughtoncamera #hiddencamera</desc>
-    <episode-num system="dd_assetid">XM0HLBUVVUYSHF</episode-num>
   </programme>
 <programme start="20261112040304 +0000" stop="20261112050000 +0000" channel="99951544">
     <title lang="en">World's Wildest Police Videos</title>
@@ -25100,11 +24564,6 @@ till en tjänstgöring i Europa.</desc>
     <desc lang="en">Back in Texas, Capt. Call organizes a mustang drive to Montana. He hires a Gideon, a former Texas Ranger, to head the drive. Newt falls into trouble in is rescued by a crusty rancher named Dunnegan.</desc>
     <episode-num system="dd_assetid">XM0AVUZS7FDPI2</episode-num>
   </programme>
-<programme start="20261112025952 +0000" stop="20261112035956 +0000" channel="99991769">
-    <title lang="en">Most Haunted</title>
-    <desc lang="en">The New York Times labeled Bramber in Southern England, the most haunted village. From Bramber Castle's ruins, delve into the tragic tales: starved noble children, medieval lovers' memories, a ghost-solving murder, a lover's accidental killing, and a Victorian author's unfulfilled death wish haunting his hometown.</desc>
-    <episode-num system="dd_assetid">XM05PWMEZH6DEE</episode-num>
-  </programme>
 <programme start="20261112035956 +0000" stop="20261112050000 +0000" channel="99991769">
     <title lang="en">Most Haunted</title>
     <desc lang="en">The New York Times labeled Bramber in Southern England, the most haunted village. From Bramber Castle's ruins, delve into the tragic tales: starved noble children, medieval lovers' memories, a ghost-solving murder, a lover's accidental killing, and a Victorian author's unfulfilled death wish haunting his hometown.</desc>
@@ -25379,6 +24838,11 @@ till en tjänstgöring i Europa.</desc>
     <title lang="en">Most Haunted</title>
     <desc lang="en">The New York Times labeled Bramber in Southern England, the most haunted village. From Bramber Castle's ruins, delve into the tragic tales: starved noble children, medieval lovers' memories, a ghost-solving murder, a lover's accidental killing, and a Victorian author's unfulfilled death wish haunting his hometown.</desc>
     <episode-num system="dd_assetid">XM0JYATGB12HBG</episode-num>
+  </programme>
+<programme start="20261114040546 +0000" stop="20261114050000 +0000" channel="99991769">
+    <title lang="en">Episode 4</title>
+    <desc lang="en">Labyrinth Lodge in Liverpool in the UK is a haunted house in a cemetery. Originally it was a register office, recording births, deaths and marriages. But it seems some previous residents just don't want to leave. Paranormal investigator Jayne Harris is on hand to capture proof for current owners Sean and Bex, who are hoping to understand more about the strange goings on in their home.</desc>
+    <episode-num system="dd_assetid">XM0CRLXDFZC2K3</episode-num>
   </programme>
 <programme start="20261112024700 +0000" stop="20261112044200 +0000" channel="99951288">
     <title lang="en">Bug</title>
@@ -25815,6 +25279,11 @@ till en tjänstgöring i Europa.</desc>
     <desc lang="en">Exploring the crimes of school dropout Dominick McCullock, who killed one woman is Saskatchewan and assaulted several more.</desc>
     <episode-num system="dd_assetid">XM0IB744U7F38D</episode-num>
   </programme>
+<programme start="20261114040250 +0000" stop="20261114045957 +0000" channel="99991384">
+    <title lang="en">William Howell</title>
+    <desc lang="en">William Devin Howell was responsible for the disappearance of women. Opioid addicts, desperate for their next fix, turned to sex to survive, but were seen by a man with an addiction of his own.</desc>
+    <episode-num system="dd_assetid">XM0LF9MUOTPWT7</episode-num>
+  </programme>
 <programme start="20261112033000 +0000" stop="20261112050400 +0000" channel="99991638">
     <title lang="en">Jeff Lowe's Metanoia</title>
     <desc lang="en">The life and climbs of legendary alpinist Jeff Lowe.</desc>
@@ -25994,271 +25463,6 @@ till en tjänstgöring i Europa.</desc>
     <desc lang="en">Angela Madsen, a Paralympian and Marine veteran, set out to be the first paraplegic and oldest woman to row the Pacific Ocean alone.</desc>
     <episode-num system="dd_assetid">MV025619350000</episode-num>
   </programme>
-<programme start="20261112030500 +0000" stop="20261112040000 +0000" channel="99951236">
-    <title lang="en">SNL Vault: Volume 56</title>
-    <desc lang="en">SNL's funniest holiday sketches, including Christmas Special With Robert De Niro, A Burt Reynolds Christmas, Dad's New Girlfriend and more.</desc>
-    <episode-num system="dd_progid">EP000037101341</episode-num>
-  </programme>
-<programme start="20261112040000 +0000" stop="20261112045600 +0000" channel="99951236">
-    <title lang="en">SNL Vault: Volume 57</title>
-    <desc lang="en">SNL's funniest holiday sketches, including Wrappinville Cold Open, Holiday Baking Championship, Weezer and more.</desc>
-    <episode-num system="dd_progid">EP000037101342</episode-num>
-  </programme>
-<programme start="20261112045600 +0000" stop="20261112055200 +0000" channel="99951236">
-    <title lang="en">SNL Vault: Volume 58</title>
-    <desc lang="en">SNL's funniest holiday sketches, including A Christmas Song With The Muppets, Stefon on Christmas, Now That's What I Call Christmas and more.</desc>
-    <episode-num system="dd_progid">EP000037101343</episode-num>
-  </programme>
-<programme start="20261112055200 +0000" stop="20261112064300 +0000" channel="99951236">
-    <title lang="en">SNL Vault: Volume 59</title>
-    <desc lang="en">SNL's funniest holiday sketches, including The Hanukkah Song, Waking Up with Kimye: Holiday Show, Holiday Gig and more.</desc>
-    <episode-num system="dd_progid">EP000037101344</episode-num>
-  </programme>
-<programme start="20261112064300 +0000" stop="20261112073600 +0000" channel="99951236">
-    <title lang="en">SNL Vault: Volume 60</title>
-    <desc lang="en">SNL's funniest holiday sketches, including North Pole News Report, Christmas Toy Joke off With Seth, Amy, Jimmy and Tina.</desc>
-    <episode-num system="dd_progid">EP000037101345</episode-num>
-  </programme>
-<programme start="20261112073600 +0000" stop="20261112082100 +0000" channel="99951236">
-    <title lang="en">SNL Vault: Volume 61</title>
-    <desc lang="en">SNL's funniest holiday sketches, including Michael Bublé Christmas Duets, Home Alone 2, Serial: The Christmas Surprise and more.</desc>
-    <episode-num system="dd_progid">EP000037101346</episode-num>
-  </programme>
-<programme start="20261112082100 +0000" stop="20261112092400 +0000" channel="99951236">
-    <title lang="en">SNL Vault: Volume 62</title>
-    <desc lang="en">Watch SNL's funniest MacGruber sketches, starring Will Forte, Kristen Wiig and more.</desc>
-    <episode-num system="dd_progid">EP000037101348</episode-num>
-  </programme>
-<programme start="20261112092400 +0000" stop="20261112102100 +0000" channel="99951236">
-    <title lang="en">SNL Vault: Volume 63</title>
-    <desc lang="en">SNL's funniest female-led sketches, like Palin Rap, Leslie Jones' Funeral Plans, and more.</desc>
-    <episode-num system="dd_progid">EP000037101367</episode-num>
-  </programme>
-<programme start="20261112102100 +0000" stop="20261112111900 +0000" channel="99951236">
-    <title lang="en">SNL Vault: Volume 64</title>
-    <desc lang="en">SNL's funniest female-led sketches, like Target Lady: Meets Her First Lesbian, Singing Sisters, and more.</desc>
-    <episode-num system="dd_progid">EP000037101368</episode-num>
-  </programme>
-<programme start="20261112111900 +0000" stop="20261112121500 +0000" channel="99951236">
-    <title lang="en">SNL Vault: Volume 65</title>
-    <desc lang="en">SNL's funniest female-led sketches, like Another Close Encounter, Bein' Quirky with Zooey Deschanel, and more.</desc>
-    <episode-num system="dd_progid">EP000037101369</episode-num>
-  </programme>
-<programme start="20261112121500 +0000" stop="20261112131300 +0000" channel="99951236">
-    <title lang="en">SNL Vault: Volume 66</title>
-    <desc lang="en">SNL's funniest female-led sketches, like Tina &amp; Amy's Dope Squad, Debbie Downer Wedding Reception, and more.</desc>
-    <episode-num system="dd_progid">EP000037101370</episode-num>
-  </programme>
-<programme start="20261112131300 +0000" stop="20261112141100 +0000" channel="99951236">
-    <title lang="en">SNL Vault: Volume 67</title>
-    <desc lang="en">SNL's funniest female-led sketches, like Close Encounter, NPR, and more.</desc>
-    <episode-num system="dd_progid">EP000037101371</episode-num>
-  </programme>
-<programme start="20261112141100 +0000" stop="20261112150500 +0000" channel="99951236">
-    <title lang="en">SNL Vault: Volume 68</title>
-    <desc lang="en">SNL's funniest female-led sketches, like The Bush Twins' Secret Language, Handmaids in the City, and more.</desc>
-    <episode-num system="dd_progid">EP000037101372</episode-num>
-  </programme>
-<programme start="20261112150500 +0000" stop="20261112160200 +0000" channel="99951236">
-    <title lang="en">SNL Vault: Volume 69</title>
-    <desc lang="en">SNL's funniest female-led sketches, like Totino's, Huge Jewelry, and more.</desc>
-    <episode-num system="dd_progid">EP000037101373</episode-num>
-  </programme>
-<programme start="20261112160200 +0000" stop="20261112165700 +0000" channel="99951236">
-    <title lang="en">SNL Vault: Volume 70</title>
-    <desc lang="en">SNL's funniest female-led sketches, like Target Lady: Classic Peg, Ethel's Diner, and more.</desc>
-    <episode-num system="dd_progid">EP000037101374</episode-num>
-  </programme>
-<programme start="20261112165700 +0000" stop="20261112175400 +0000" channel="99951236">
-    <title lang="en">SNL Vault: Volume 71</title>
-    <desc lang="en">SNL's funniest female-led sketches, like (Do It In My) Twin Bed, Tina Fey &amp; Amy Poehler Christmas Mash-Up Monologue, and more.</desc>
-    <episode-num system="dd_progid">EP000037101375</episode-num>
-  </programme>
-<programme start="20261112175400 +0000" stop="20261112185700 +0000" channel="99951236">
-    <title lang="en">SNL Vault: Volume 1</title>
-    <desc lang="en">Sketches include "More Cowbell," "James Brown's Celebrity Hot Tub Party" and more.</desc>
-    <episode-num system="dd_progid">EP000037101189</episode-num>
-  </programme>
-<programme start="20261112185700 +0000" stop="20261112200000 +0000" channel="99951236">
-    <title lang="en">SNL Vault: Volume 2</title>
-    <desc lang="en">Sketches include "Celebrity Jeopardy," "D... in a Box," "Stefon" and more.</desc>
-    <episode-num system="dd_progid">EP000037101190</episode-num>
-  </programme>
-<programme start="20261112200000 +0000" stop="20261112210600 +0000" channel="99951236">
-    <title lang="en">SNL Vault: Volume 3</title>
-    <desc lang="en">Sketches include "Matt Foley", "Eddie Murphy's White Like Me," "Friendos" and more.</desc>
-    <episode-num system="dd_progid">EP000037101191</episode-num>
-  </programme>
-<programme start="20261112210600 +0000" stop="20261112220700 +0000" channel="99951236">
-    <title lang="en">SNL Vault: Volume 4</title>
-    <desc lang="en">Sketches include "Debbie Downer," "Chippendales Audition" and more.</desc>
-    <episode-num system="dd_progid">EP000037101192</episode-num>
-  </programme>
-<programme start="20261112220700 +0000" stop="20261112231300 +0000" channel="99951236">
-    <title lang="en">SNL Vault: Volume 5</title>
-    <desc lang="en">Sketches include "The Love-ahs," "Gumby," "David S. Pumpkins" and more.</desc>
-    <episode-num system="dd_progid">EP000037101193</episode-num>
-  </programme>
-<programme start="20261112231300 +0000" stop="20261113002100 +0000" channel="99951236">
-    <title lang="en">SNL Vault: Volume 6</title>
-    <desc lang="en">Sketches include "Bronx Beat," "Laser Cats," "Farewell Mr. Bunting" and more.</desc>
-    <episode-num system="dd_progid">EP000037101194</episode-num>
-  </programme>
-<programme start="20261113002100 +0000" stop="20261113011600 +0000" channel="99951236">
-    <title lang="en">SNL Vault: Volume 7</title>
-    <desc lang="en">Sketches include "MacGruber," "SNL40: Celebrity Jeopardy," "Shy Ronnie" and more.</desc>
-    <episode-num system="dd_progid">EP000037101195</episode-num>
-  </programme>
-<programme start="20261113011600 +0000" stop="20261113021200 +0000" channel="99951236">
-    <title lang="en">SNL Vault: Volume 8</title>
-    <desc lang="en">Sketches include "Mr. Robinson's Neighborhood," "Hobbit Office," "Lincoln Ad" and more.</desc>
-    <episode-num system="dd_progid">EP000037101196</episode-num>
-  </programme>
-<programme start="20261113021200 +0000" stop="20261113031200 +0000" channel="99951236">
-    <title lang="en">SNL Vault: Volume 9</title>
-    <desc lang="en">Sketches include "Black Jeopardy with Drake," "Spartan Cheerleaders" and more.</desc>
-    <episode-num system="dd_progid">EP000037101197</episode-num>
-  </programme>
-<programme start="20261113031200 +0000" stop="20261113041500 +0000" channel="99951236">
-    <title lang="en">SNL Vault: Volume 10</title>
-    <desc lang="en">Sketches include "Coneheads Family Feud," "Vincent Price," "Garth and Kat" and more.</desc>
-    <episode-num system="dd_progid">EP000037101198</episode-num>
-  </programme>
-<programme start="20261113041500 +0000" stop="20261113051200 +0000" channel="99951236">
-    <title lang="en">SNL Vault: Volume 11</title>
-    <desc lang="en">Featuring sketches, like Chad, Chantix, Swiffer Sleepers and more.</desc>
-    <episode-num system="dd_progid">EP000037101227</episode-num>
-  </programme>
-<programme start="20261113051200 +0000" stop="20261113060300 +0000" channel="99951236">
-    <title lang="en">SNL Vault: Volume 12</title>
-    <desc lang="en">Watch SNL's funniest sketches, like The Chris Farley Show, Toilet Death Ejector, Dissing Your Dog and more.</desc>
-    <episode-num system="dd_progid">EP000037101228</episode-num>
-  </programme>
-<programme start="20261113060300 +0000" stop="20261113065700 +0000" channel="99951236">
-    <title lang="en">SNL Vault: Volume 13</title>
-    <desc lang="en">Watch SNL's funniest sketches, like Romano Tours, Colonel Angus Comes Home, Chandeliers and more.</desc>
-    <episode-num system="dd_progid">EP000037101229</episode-num>
-  </programme>
-<programme start="20261113065700 +0000" stop="20261113075000 +0000" channel="99951236">
-    <title lang="en">SNL Vault: Volume 14</title>
-    <desc lang="en">Sketches include "Chad," "Jingleheimer Junction," "Bern Your Enthusiasm" and more.</desc>
-    <episode-num system="dd_progid">EP000037101231</episode-num>
-  </programme>
-<programme start="20261113075000 +0000" stop="20261113083800 +0000" channel="99951236">
-    <title lang="en">SNL Vault: Volume 15</title>
-    <desc lang="en">Sketches include "MacGruber," "The Love-ahs," "Spelling Bee" and more.</desc>
-    <episode-num system="dd_progid">EP000037101232</episode-num>
-  </programme>
-<programme start="20261113083800 +0000" stop="20261113093100 +0000" channel="99951236">
-    <title lang="en">SNL Vault: Volume 16</title>
-    <desc lang="en">Sketches include "Baby Toupee," "Spartan Cheerleaders," "Potato Chip," "Surprise Home Makeover" and more.</desc>
-    <episode-num system="dd_progid">EP000037101233</episode-num>
-  </programme>
-<programme start="20261113093100 +0000" stop="20261113101900 +0000" channel="99951236">
-    <title lang="en">SNL Vault: Volume 17</title>
-    <desc lang="en">Sketches include Leslie Jones on "Weekend Update," "Brian Fellow's Safari Planet", "Wells for Boys" and more.</desc>
-    <episode-num system="dd_progid">EP000037101234</episode-num>
-  </programme>
-<programme start="20261113101900 +0000" stop="20261113111400 +0000" channel="99951236">
-    <title lang="en">SNL Vault: Volume 18</title>
-    <desc lang="en">"SNL's" funniest sketches, like Pete Davidson on Weekend Update, The Corporal, me-Harmony and more.</desc>
-    <episode-num system="dd_progid">EP000037101235</episode-num>
-  </programme>
-<programme start="20261113111400 +0000" stop="20261113120700 +0000" channel="99951236">
-    <title lang="en">SNL Vault: Volume 19</title>
-    <desc lang="en">"SNL's" funniest sketches, like Happy Fun Ball, Doctor's Orders, Casablanca and more.</desc>
-    <episode-num system="dd_progid">EP000037101236</episode-num>
-  </programme>
-<programme start="20261113120700 +0000" stop="20261113130100 +0000" channel="99951236">
-    <title lang="en">SNL Vault: Volume 20</title>
-    <desc lang="en">"SNL's" funniest sketches, like the SNL Digital Short: J*** in My Pants, Stefon on Weekend Update, Chia Head and more.</desc>
-    <episode-num system="dd_progid">EP000037101237</episode-num>
-  </programme>
-<programme start="20261113130100 +0000" stop="20261113140400 +0000" channel="99951236">
-    <title lang="en">SNL Halloween Volume 1</title>
-    <desc lang="en">Funniest Halloween sketches, like A Girl's Halloween, Vincent Price's Halloween Special, The Clintons' Halloween Party and more.</desc>
-    <episode-num system="dd_progid">EP000037101241</episode-num>
-  </programme>
-<programme start="20261113140400 +0000" stop="20261113145400 +0000" channel="99951236">
-    <title lang="en">SNL Halloween Volume 2</title>
-    <desc lang="en">Funniest Halloween sketches, like Trick or Treat with Jon Hamm, Kellywise, Graveyard Song and more.</desc>
-    <episode-num system="dd_progid">EP000037101242</episode-num>
-  </programme>
-<programme start="20261113145400 +0000" stop="20261113155000 +0000" channel="99951236">
-    <title lang="en">SNL Vault: Volume 21</title>
-    <desc lang="en">SNL's funniest sketches, including "Brian Fellow's Safari Planet," "Biden Victory Cold Open" and more.</desc>
-    <episode-num system="dd_progid">EP000037101267</episode-num>
-  </programme>
-<programme start="20261113155000 +0000" stop="20261113164400 +0000" channel="99951236">
-    <title lang="en">SNL Vault: Volume 22</title>
-    <desc lang="en">SNL's funniest sketches, including "Eddie Murphy Monologue," "Tracy's Back," "The U.E.S." and more.</desc>
-    <episode-num system="dd_progid">EP000037101268</episode-num>
-  </programme>
-<programme start="20261113164400 +0000" stop="20261113174000 +0000" channel="99951236">
-    <title lang="en">SNL Vault: Volume 23</title>
-    <desc lang="en">SNL's funniest sketches, including "Getting Freaky With CeeLo," "Pimp Chat: Pretty Tony" and more.</desc>
-    <episode-num system="dd_progid">EP000037101269</episode-num>
-  </programme>
-<programme start="20261113174000 +0000" stop="20261113183400 +0000" channel="99951236">
-    <title lang="en">SNL Vault: Volume 24</title>
-    <desc lang="en">SNL's funniest sketches, including "Bronx Beat," "Raheem," "Love and Leslie," "Maurice" and more.</desc>
-    <episode-num system="dd_progid">EP000037101270</episode-num>
-  </programme>
-<programme start="20261113183400 +0000" stop="20261113192800 +0000" channel="99951236">
-    <title lang="en">SNL Vault: Volume 25</title>
-    <desc lang="en">SNL's funniest sketches, including "Good Times," "Mister Robinson's Neighborhood: Ransom" and more.</desc>
-    <episode-num system="dd_progid">EP000037101271</episode-num>
-  </programme>
-<programme start="20261113192800 +0000" stop="20261113203200 +0000" channel="99951236">
-    <title lang="en">SNL Vault: Volume 26</title>
-    <desc lang="en">SNL's funniest sketches, including "Weekend Update: Leslie Jones," "Can I Play That?" and more.</desc>
-    <episode-num system="dd_progid">EP000037101272</episode-num>
-  </programme>
-<programme start="20261113203200 +0000" stop="20261113212200 +0000" channel="99951236">
-    <title lang="en">SNL Vault: Volume 27</title>
-    <desc lang="en">SNL's funniest sketches, including "Chris Rock Monologue," "Buckwheat Jeans," "Uncle Ben" and more.</desc>
-    <episode-num system="dd_progid">EP000037101273</episode-num>
-  </programme>
-<programme start="20261113212200 +0000" stop="20261113221600 +0000" channel="99951236">
-    <title lang="en">SNL Vault: Volume 28</title>
-    <desc lang="en">SNL's funniest sketches, including "Weekend Update: Gumby Returns," "Cha Cha Slide," "Lunch Run" and more.</desc>
-    <episode-num system="dd_progid">EP000037101274</episode-num>
-  </programme>
-<programme start="20261113221600 +0000" stop="20261113230300 +0000" channel="99951236">
-    <title lang="en">SNL Vault: Volume 29</title>
-    <desc lang="en">SNL's funniest sketches, including "Thirsty Cops," "Speaking Freely: James Brown" and more.</desc>
-    <episode-num system="dd_progid">EP000037101275</episode-num>
-  </programme>
-<programme start="20261113230300 +0000" stop="20261113235800 +0000" channel="99951236">
-    <title lang="en">SNL Vault: Volume 30</title>
-    <desc lang="en">SNL's funniest sketches, including "Them Trumps," "I'm Chillin'," "Dionne Warwick Talk Show" and more.</desc>
-    <episode-num system="dd_progid">EP000037101276</episode-num>
-  </programme>
-<programme start="20261113235800 +0000" stop="20261114005000 +0000" channel="99951236">
-    <title lang="en">SNL Vault: Volume 31</title>
-    <desc lang="en">SNL's funniest sketches, including "Kevin Hart's Son," "Chris Rock Open," "The Ladies Man" and more.</desc>
-    <episode-num system="dd_progid">EP000037101277</episode-num>
-  </programme>
-<programme start="20261114005000 +0000" stop="20261114014700 +0000" channel="99951236">
-    <title lang="en">SNL Vault: Volume 32</title>
-    <desc lang="en">SNL's funniest sketches, including "The Jay Pharoah Show," "Kimye Talk Show," "Zoom Church" and more.</desc>
-    <episode-num system="dd_progid">EP000037101278</episode-num>
-  </programme>
-<programme start="20261114014700 +0000" stop="20261114024900 +0000" channel="99951236">
-    <title lang="en">SNL Vault: Volume 33</title>
-    <desc lang="en">SNL's funniest sketches, including "Vlog With Taraji P. Henson," "Weekend Update: Tyler Perry" and more.</desc>
-    <episode-num system="dd_progid">EP000037101279</episode-num>
-  </programme>
-<programme start="20261114024900 +0000" stop="20261114034900 +0000" channel="99951236">
-    <title lang="en">SNL Vault: Volume 34</title>
-    <desc lang="en">SNL's funniest sketches, including "Principal Frey: Holiday Jam," "Fresh Prince," "Mr. H" and more.</desc>
-    <episode-num system="dd_progid">EP000037101280</episode-num>
-  </programme>
-<programme start="20261114034900 +0000" stop="20261114045000 +0000" channel="99951236">
-    <title lang="en">SNL Vault: Volume 35</title>
-    <desc lang="en">SNL's funniest sketches, including "How's He Doing With Chris Rock," "Russell &amp; Tate" and more.</desc>
-    <episode-num system="dd_progid">EP000037101281</episode-num>
-  </programme>
 <programme start="20261112034926 +0000" stop="20261112054321 +0000" channel="9999615">
     <title lang="en">The West and the Ruthless</title>
     <desc lang="en">Outlaws, wealthy plantation owners, runaway slaves, a half Cherokee girl, a pair of brothel owners and a pregnant woman all end up in a bloody shoot out and running for their lives.</desc>
@@ -26409,14 +25613,6 @@ till en tjänstgöring i Europa.</desc>
     <desc lang="en">A kung fu fighting lady detective travels the bad lands of ancient China bringing criminals to justice.</desc>
     <episode-num system="dd_assetid">XM053NN2CXPM4G</episode-num>
   </programme>
-<programme start="20261112033000 +0000" stop="20261112040000 +0000" channel="localnow.00C9AEC1-8DF8-4F80-88FD-19DF47C40D53">
-    <title lang="en">The Beverly Hillbillies</title>
-    <desc lang="en">The board chairman of Drysdale's bank is determined to meet Jed Clampett.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/00C9AEC1-8DF8-4F80-88FD-19DF47C40D53/0-2x3.png" />
-    <episode-num system="onscreen">S01E31</episode-num>
-    <episode-num system="xmltv_ns">0.30.</episode-num>
-  </programme>
 <programme start="20261112040000 +0000" stop="20261112043000 +0000" channel="localnow.00C9AEC1-8DF8-4F80-88FD-19DF47C40D53">
     <title lang="en">Petticoat Junction</title>
     <desc lang="en">Herby Bates, who is sweet on Billie Jo, won't be seeing much more of her, he has just been drafted.</desc>
@@ -26449,12 +25645,6 @@ till en tjänstgöring i Europa.</desc>
     <episode-num system="onscreen">S01E25</episode-num>
     <episode-num system="xmltv_ns">0.24.</episode-num>
   </programme>
-<programme start="20261112030000 +0000" stop="20261112040000 +0000" channel="localnow.06FFDD3B-A149-4023-8EF8-96685EB19DDE">
-    <title lang="en">Screambox TV</title>
-    <desc lang="en">Your home for horror featuring Screambox exclusives, originals, and curated horror movies and TV to make you scream 24/7.</desc>
-    <category lang="en">Horror</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/06FFDD3B-A149-4023-8EF8-96685EB19DDE/0-2x3.png" />
-  </programme>
 <programme start="20261112040000 +0000" stop="20261112050000 +0000" channel="localnow.06FFDD3B-A149-4023-8EF8-96685EB19DDE">
     <title lang="en">Screambox TV</title>
     <desc lang="en">Your home for horror featuring Screambox exclusives, originals, and curated horror movies and TV to make you scream 24/7.</desc>
@@ -26478,13 +25668,6 @@ till en tjänstgöring i Europa.</desc>
     <desc lang="en">Your home for horror featuring Screambox exclusives, originals, and curated horror movies and TV to make you scream 24/7.</desc>
     <category lang="en">Horror</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/06FFDD3B-A149-4023-8EF8-96685EB19DDE/0-2x3.png" />
-  </programme>
-<programme start="20261112033656 +0000" stop="20261112035824 +0000" channel="localnow.2C7D3071-F7F4-4039-8FAB-195FA86E22B5">
-    <title lang="en">Cactus Makes Perfect</title>
-    <desc lang="en">The Stooges are living with their mother.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/2C7D3071-F7F4-4039-8FAB-195FA86E22B5/0-2x3.png" />
-    <episode-num system="dd_progid">program-three-stooges-plus-20261112033656</episode-num>
   </programme>
 <programme start="20261112035824 +0000" stop="20261112041841 +0000" channel="localnow.2C7D3071-F7F4-4039-8FAB-195FA86E22B5">
     <title lang="en">Oil's Well That Ends Well</title>
@@ -26541,13 +25724,6 @@ till en tjänstgöring i Europa.</desc>
     <category lang="en">Entertainment</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/3140CA51-BEBB-4FEE-B144-1B94C2B9D108/0-2x3.png" />
     <episode-num system="dd_progid">program-action-plus-20261112144042</episode-num>
-  </programme>
-<programme start="20261112033044 +0000" stop="20261112040106 +0000" channel="localnow.37B761C9-8D5B-47E9-8A3E-C3062BAF2D79">
-    <title lang="en">The Weird Al Show - S1:E1 - Bad Influence</title>
-    <desc lang="en">Today's lesson: "Don't follow people who can get you into trouble. Think for yourself."</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/37B761C9-8D5B-47E9-8A3E-C3062BAF2D79/0-2x3.png" />
-    <episode-num system="dd_progid">program-improv-plus-20261112033044</episode-num>
   </programme>
 <programme start="20261112040106 +0000" stop="20261112042348 +0000" channel="localnow.37B761C9-8D5B-47E9-8A3E-C3062BAF2D79">
     <title lang="en">The Whitest Kids U'Know - S2:E6</title>
@@ -26612,14 +25788,6 @@ till en tjänstgöring i Europa.</desc>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/421B7C8F-0DF8-4769-BF8F-F79DD74C31E8/0-2x3.png" />
     <episode-num system="dd_progid">program-comedy-plus-20261112104015</episode-num>
   </programme>
-<programme start="20261112030700 +0000" stop="20261112040300 +0000" channel="localnow.558211BE-E921-43BA-9C55-9DE79921BF9C">
-    <title lang="en">The FBI Files</title>
-    <desc lang="en">Shooters kill a police officer who had made more than 200 arrests in three years.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/558211BE-E921-43BA-9C55-9DE79921BF9C/0-2x3.png" />
-    <episode-num system="onscreen">S06E08</episode-num>
-    <episode-num system="xmltv_ns">5.7.</episode-num>
-  </programme>
 <programme start="20261112040300 +0000" stop="20261112050000 +0000" channel="localnow.558211BE-E921-43BA-9C55-9DE79921BF9C">
     <title lang="en">The FBI Files</title>
     <desc lang="en">Authorities try to gather evidence of murder and drug trafficking by a Washington, D.C., gang.</desc>
@@ -26652,12 +25820,6 @@ till en tjänstgöring i Europa.</desc>
     <episode-num system="onscreen">S06E12</episode-num>
     <episode-num system="xmltv_ns">5.11.</episode-num>
   </programme>
-<programme start="20261112030000 +0000" stop="20261112040000 +0000" channel="localnow.6D30170C-D7B3-46A2-8C1F-302D8399F44D">
-    <title lang="en">Free Movies Plus</title>
-    <desc lang="en">Free Movies Plus is the ultimate channel for movie lovers, featuring blockbuster hits 24/7.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/6D30170C-D7B3-46A2-8C1F-302D8399F44D/0-2x3.png" />
-  </programme>
 <programme start="20261112040000 +0000" stop="20261112050000 +0000" channel="localnow.6D30170C-D7B3-46A2-8C1F-302D8399F44D">
     <title lang="en">Free Movies Plus</title>
     <desc lang="en">Free Movies Plus is the ultimate channel for movie lovers, featuring blockbuster hits 24/7.</desc>
@@ -26681,14 +25843,6 @@ till en tjänstgöring i Europa.</desc>
     <desc lang="en">Free Movies Plus is the ultimate channel for movie lovers, featuring blockbuster hits 24/7.</desc>
     <category lang="en">Entertainment</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/6D30170C-D7B3-46A2-8C1F-302D8399F44D/0-2x3.png" />
-  </programme>
-<programme start="20261112031300 +0000" stop="20261112040600 +0000" channel="localnow.70E6008B-8E98-4B80-8CE2-D721592DF1C1">
-    <title lang="en">World's Most Evil Prisoners</title>
-    <desc lang="en">Robber-turned-killer Erica Jenkins goes on a murder spree in Omaha.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/70E6008B-8E98-4B80-8CE2-D721592DF1C1/0-2x3.png" />
-    <episode-num system="onscreen">S03E04</episode-num>
-    <episode-num system="xmltv_ns">2.3.</episode-num>
   </programme>
 <programme start="20261112040600 +0000" stop="20261112050000 +0000" channel="localnow.70E6008B-8E98-4B80-8CE2-D721592DF1C1">
     <title lang="en">World's Most Evil Prisoners</title>
@@ -26722,13 +25876,6 @@ till en tjänstgöring i Europa.</desc>
     <episode-num system="onscreen">S08E08</episode-num>
     <episode-num system="xmltv_ns">7.7.</episode-num>
   </programme>
-<programme start="20261112033000 +0000" stop="20261112040000 +0000" channel="localnow.72384889-EEEB-4EEA-93B3-F26FF4E12D6B">
-    <title lang="en">Not the News</title>
-    <desc lang="en">Covering regional, state and national news along with the latest breaking news events, road conditions and the weather forecasts.</desc>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/72384889-EEEB-4EEA-93B3-F26FF4E12D6B/0-2x3.png" />
-    <episode-num system="dd_progid">program-wfxb-20261112033000</episode-num>
-  </programme>
 <programme start="20261112040000 +0000" stop="20261112120000 +0000" channel="localnow.72384889-EEEB-4EEA-93B3-F26FF4E12D6B">
     <title lang="en">Not the News</title>
     <desc lang="en">Covering regional, state and national news along with the latest breaking news events, road conditions and the weather forecasts.</desc>
@@ -26756,13 +25903,6 @@ till en tjänstgöring i Europa.</desc>
     <category lang="en">News</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/72384889-EEEB-4EEA-93B3-F26FF4E12D6B/0-2x3.png" />
     <episode-num system="dd_progid">program-wfxb-20261112150000</episode-num>
-  </programme>
-<programme start="20261112033000 +0000" stop="20261112040000 +0000" channel="localnow.7439B766-5F61-43D6-A61B-D58FEF6824FD">
-    <title lang="en">The National News Desk 6p Replay</title>
-    <desc lang="en">America's News, Now. Bringing you award-winning local storytelling from the nation's capital.</desc>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7439B766-5F61-43D6-A61B-D58FEF6824FD/0-2x3.png" />
-    <episode-num system="dd_progid">program-wpde-myrtle-beach-sc-20261112033000</episode-num>
   </programme>
 <programme start="20261112040000 +0000" stop="20261112043000 +0000" channel="localnow.7439B766-5F61-43D6-A61B-D58FEF6824FD">
     <title lang="en">11pm News WPDE</title>
@@ -26861,13 +26001,6 @@ till en tjänstgöring i Europa.</desc>
     <category lang="en">Horror</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/79549FA0-4EBE-48C3-957F-037BA02E827F/0-2x3.png" />
     <episode-num system="dd_progid">program-epg-horror-machine-20261112073000</episode-num>
-  </programme>
-<programme start="20261112030000 +0000" stop="20261112040000 +0000" channel="localnow.A0A87EFE-61FA-477E-A0E3-44A88013AE74">
-    <title lang="en">Uncovered: ANF Investigates</title>
-    <desc lang="en">WMBF News in Myrtle Beach goes into the Grand Strand and Pee Dee communities to provide our viewers with the news, weather and sports they need to know.</desc>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/A0A87EFE-61FA-477E-A0E3-44A88013AE74/0-2x3.png" />
-    <episode-num system="dd_progid">program-wmbf-2026-11-12T03-00-00</episode-num>
   </programme>
 <programme start="20261112040000 +0000" stop="20261112043500 +0000" channel="localnow.A0A87EFE-61FA-477E-A0E3-44A88013AE74">
     <title lang="en">WMBF News at 11 PM</title>
@@ -27043,14 +26176,84 @@ till en tjänstgöring i Europa.</desc>
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261112012346 +0000" stop="20261112040544 +0000" channel="freemoviesplus_amg02042c1eng_US">
-    <title lang="en">Olympus Has Fallen</title>
-    <desc lang="en">Terrorists seize the White House; ex-agent fights to save the President.</desc>
-    <category lang="en">Movies</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg02042/resized_images/resized_510b7abfc9936daef958ab8cc34b6d1b1e9dc02f2bd601b3c4dd395414b46f60_fmp2218png_768_432.jpeg" />
-    <episode-num system="dd_progid">amg02042c32_AT1n91GTfqNcUaxANUTptPC_us</episode-num>
+<programme start="20261112031320 +0000" stop="20261112040656 +0000" channel="99993006">
+    <title lang="en">World's Most Evil Prisoners</title>
+    <desc lang="en">Born into a notorious crime family, robber-turned-killer Erica Jenkins goes on a murder spree in Omaha.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0RB5EJXTJLFK/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993006%2F768x432.jpg%3Ftype%3DchannelTile" />
+    <episode-num system="dd_progid">XM0RB5EJXTJLFK</episode-num>
     <rating>
-      <value>PG</value>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261112040656 +0000" stop="20261112050000 +0000" channel="99993006">
+    <title lang="en">World's Most Evil Prisoners</title>
+    <desc lang="en">Willing to kill for just $20 and drugs, Joshua Gardner commits his first murder at 24. Even behind bars, he can't contain his rage, brutally beating a fellow inmate to death.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM06EJ2J9GIMC5/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993006%2F768x432.jpg%3Ftype%3DchannelTile" />
+    <episode-num system="dd_progid">XM06EJ2J9GIMC5</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261112050000 +0000" stop="20261112055533 +0000" channel="99993006">
+    <title lang="en">World's Most Evil Killers</title>
+    <desc lang="en">New Jersey native Richard Kuklinski ran a burglary ring, distributed pirated pornography and dealt in weapons and drugs. He also claimed to have murdered over 100 people while working as a hit man for New York and New Jersey's crime families.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0XUE1DNFBRJ7/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993006%2F768x432.jpg%3Ftype%3DchannelTile" />
+    <episode-num system="dd_progid">XM0XUE1DNFBRJ7</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261112055533 +0000" stop="20261112065102 +0000" channel="99993006">
+    <title lang="en">World's Most Evil Killers</title>
+    <desc lang="en">Over a 25-year career of murder, Richard Biegenwald killed at least six people, but he is suspected of many more murders. Imprisoned in 1958 aged just 18 for shooting dead a grocery store owner, Biegenwald was released 17 years later.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0WENKVOXKR01/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993006%2F768x432.jpg%3Ftype%3DchannelTile" />
+    <episode-num system="dd_progid">XM0WENKVOXKR01</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261112065102 +0000" stop="20261112074505 +0000" channel="99993006">
+    <title lang="en">World's Most Evil Killers</title>
+    <desc lang="en">Police in Aurora, Colorado found the body of a young man in in his own home with a bullet wound to the head.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0FS09YQXXSZR/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993006%2F768x432.jpg%3Ftype%3DchannelTile" />
+    <episode-num system="dd_progid">XM0FS09YQXXSZR</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261112074505 +0000" stop="20261112083620 +0000" channel="99993006">
+    <title lang="en">World's Most Evil Killers</title>
+    <desc lang="en">Billy Mansfield Jr. moved between Florida and Michigan, targeting vulnerable women and girls. Between 1975 and 1980, Mansfield Jr. murdered at least five victims, burying four of them at his family home in Spring Hill, Florida.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0DDS6GTGD86P/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993006%2F768x432.jpg%3Ftype%3DchannelTile" />
+    <episode-num system="dd_progid">XM0DDS6GTGD86P</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261112083620 +0000" stop="20261112092730 +0000" channel="99993006">
+    <title lang="en">World's Most Evil Killers</title>
+    <desc lang="en">Wayne Adam Ford is an American serial killer who strangled and dismembered three of his four victims. The first body was found in October 1997 and had been so thoroughly dismembered that her identity remains unknown.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0VDP93FQ1S6I/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993006%2F768x432.jpg%3Ftype%3DchannelTile" />
+    <episode-num system="dd_progid">XM0VDP93FQ1S6I</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261112092730 +0000" stop="20261112102228 +0000" channel="99993006">
+    <title lang="en">World's Most Evil Killers</title>
+    <desc lang="en">When Carol Jarvis disappeared, her husband told friends and family that she'd simply gone on a little holiday.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0MQ25PJNPOK5/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993006%2F768x432.jpg%3Ftype%3DchannelTile" />
+    <episode-num system="dd_progid">XM0MQ25PJNPOK5</episode-num>
+    <rating>
+      <value>TV-14</value>
     </rating>
   </programme>
 <programme start="20261112040544 +0000" stop="20261112061938 +0000" channel="freemoviesplus_amg02042c1eng_US">
@@ -27059,16 +26262,6 @@ till en tjänstgöring i Europa.</desc>
     <category lang="en">Movies</category>
     <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg02042/resized_images/resized_edb00713040050ac43a349d80db0497628c5fd87162fe07a84b97d9f1356bbb2_fmp2219png_768_432.jpeg" />
     <episode-num system="dd_progid">amg02042c32_A6zf6JZ2D6LouuridxkMqDG_us</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-<programme start="20261112033023 +0000" stop="20261112035834 +0000" channel="haunttvus_hntus_US">
-    <title lang="en">Haunted Discoveries: Family Spirits</title>
-    <desc lang="en">Feel the shock when a tour guide uncovers a haunting connection to her employer.</desc>
-    <category lang="en">Documentary</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/HNTUS/resized_a0377b109799d56fc3184f60f6485dd071e3abe09c28ac6b3142615023261008_hfa01054956jpg_768_432.jpeg" />
-    <episode-num system="dd_progid">HNTUS_HF_A01054956_US</episode-num>
     <rating>
       <value>PG</value>
     </rating>
@@ -27305,7 +26498,6 @@ till en tjänstgöring i Europa.</desc>
 <programme start="20261112221800 +0000" stop="20261112225100 +0000" channel="6a1610bebdf296985fd95603-5fc705eb052f6f002ef46057"><title>Nimrod Nation</title><sub-title>Nimrod Nation</sub-title><desc>The school year begins with high hope for the Nimrods basketball team.</desc><category>Documentary</category><category>Basketball</category><category>Entertainment</category><category>History + Science</category><episode-num system="onscreen">S1E1</episode-num><episode-num system="xmltv_ns">0.0.</episode-num><rating><value>NR</value></rating></programme>
 <programme start="20261112225100 +0000" stop="20261112232300 +0000" channel="6a1610bebdf296985fd95603-5fc705eb052f6f002ef46057"><title>Nimrod Nation</title><sub-title>Nimrod Nation</sub-title><desc>Questions arise when an American Indian player isn't recognized by the local paper.</desc><category>Documentary</category><category>Basketball</category><category>Entertainment</category><category>History + Science</category><episode-num system="onscreen">S1E2</episode-num><episode-num system="xmltv_ns">0.1.</episode-num><rating><value>NR</value></rating></programme>
 <programme start="20261112232300 +0000" stop="20261112235500 +0000" channel="6a1610bebdf296985fd95603-5fc705eb052f6f002ef46057"><title>Nimrod Nation</title><sub-title>Nimrod Nation</sub-title><desc>A motivational speaker talks to students about smoking, drinking, drugs and sex.</desc><category>Documentary</category><category>Basketball</category><category>Entertainment</category><category>History + Science</category><episode-num system="onscreen">S1E3</episode-num><episode-num system="xmltv_ns">0.2.</episode-num><rating><value>NR</value></rating></programme>
-<programme start="20261112030000 +0000" stop="20261112040000 +0000" channel="6a1610bebdf296985fd95603-621671d05abdd3d5556a1baf"><title>Watch it SCREAM</title><desc>The most terrifying visions in horror, curated from festivals around the world, sit back relax and Watch it Scream!</desc><category>Adrenaline + Sci-Fi</category><rating><value>NR</value></rating></programme>
 <programme start="20261112040000 +0000" stop="20261112050000 +0000" channel="6a1610bebdf296985fd95603-621671d05abdd3d5556a1baf"><title>Watch it SCREAM</title><desc>The most terrifying visions in horror, curated from festivals around the world, sit back relax and Watch it Scream!</desc><category>Adrenaline + Sci-Fi</category><rating><value>NR</value></rating></programme>
 <programme start="20261112050000 +0000" stop="20261112060000 +0000" channel="6a1610bebdf296985fd95603-621671d05abdd3d5556a1baf"><title>Watch it SCREAM</title><desc>The most terrifying visions in horror, curated from festivals around the world, sit back relax and Watch it Scream!</desc><category>Adrenaline + Sci-Fi</category><rating><value>NR</value></rating></programme>
 <programme start="20261112060000 +0000" stop="20261112070000 +0000" channel="6a1610bebdf296985fd95603-621671d05abdd3d5556a1baf"><title>Watch it SCREAM</title><desc>The most terrifying visions in horror, curated from festivals around the world, sit back relax and Watch it Scream!</desc><category>Adrenaline + Sci-Fi</category><rating><value>NR</value></rating></programme>
@@ -27326,7 +26518,6 @@ till en tjänstgöring i Europa.</desc>
 <programme start="20261112210000 +0000" stop="20261112220000 +0000" channel="6a1610bebdf296985fd95603-621671d05abdd3d5556a1baf"><title>Watch it SCREAM</title><desc>The most terrifying visions in horror, curated from festivals around the world, sit back relax and Watch it Scream!</desc><category>Adrenaline + Sci-Fi</category><rating><value>NR</value></rating></programme>
 <programme start="20261112220000 +0000" stop="20261112230000 +0000" channel="6a1610bebdf296985fd95603-621671d05abdd3d5556a1baf"><title>Watch it SCREAM</title><desc>The most terrifying visions in horror, curated from festivals around the world, sit back relax and Watch it Scream!</desc><category>Adrenaline + Sci-Fi</category><rating><value>NR</value></rating></programme>
 <programme start="20261112230000 +0000" stop="20261113000000 +0000" channel="6a1610bebdf296985fd95603-621671d05abdd3d5556a1baf"><title>Watch it SCREAM</title><desc>The most terrifying visions in horror, curated from festivals around the world, sit back relax and Watch it Scream!</desc><category>Adrenaline + Sci-Fi</category><rating><value>NR</value></rating></programme>
-<programme start="20261112030000 +0000" stop="20261112040000 +0000" channel="6a1610bebdf296985fd95603-621674502c2627c068e73ada"><title>FrightFlix</title><desc>Cult Horror, Sci-Fi and Grindhouse features that deliver shivers!</desc><category>Adrenaline + Sci-Fi</category><rating><value>NR</value></rating></programme>
 <programme start="20261112040000 +0000" stop="20261112050000 +0000" channel="6a1610bebdf296985fd95603-621674502c2627c068e73ada"><title>FrightFlix</title><desc>Cult Horror, Sci-Fi and Grindhouse features that deliver shivers!</desc><category>Adrenaline + Sci-Fi</category><rating><value>NR</value></rating></programme>
 <programme start="20261112050000 +0000" stop="20261112060000 +0000" channel="6a1610bebdf296985fd95603-621674502c2627c068e73ada"><title>FrightFlix</title><desc>Cult Horror, Sci-Fi and Grindhouse features that deliver shivers!</desc><category>Adrenaline + Sci-Fi</category><rating><value>NR</value></rating></programme>
 <programme start="20261112060000 +0000" stop="20261112070000 +0000" channel="6a1610bebdf296985fd95603-621674502c2627c068e73ada"><title>FrightFlix</title><desc>Cult Horror, Sci-Fi and Grindhouse features that deliver shivers!</desc><category>Adrenaline + Sci-Fi</category><rating><value>NR</value></rating></programme>
@@ -27373,7 +26564,6 @@ till en tjänstgöring i Europa.</desc>
 <programme start="20261112204942 +0000" stop="20261112221219 +0000" channel="6a1610bebdf296985fd95603-64a04b8a261d597ce8b4c9ec"><title>Artik (2019)</title><desc>A comic book obsessed serial killer teaches his son how to get away with a series of brutal murders until the boy befriends a mysterious man who threatens to expose everything.</desc><category>Horror</category><category>Thriller</category><rating><value>TV-14</value></rating></programme>
 <programme start="20261112221219 +0000" stop="20261112233733 +0000" channel="6a1610bebdf296985fd95603-64a04b8a261d597ce8b4c9ec"><title>Old 37 (2015)</title><desc>Disguised as paramedics, two psychopaths intercept 911 calls and hunt down unsuspecting teenage accident victims in a stolen ambulance known as Old 37.</desc><category>Horror</category><category>Drama</category><rating><value>TV-14</value></rating></programme>
 <programme start="20261112233733 +0000" stop="20261113012143 +0000" channel="6a1610bebdf296985fd95603-64a04b8a261d597ce8b4c9ec"><title>Extremity (2018)</title><desc>A young woman obsessed with horror subjects herself to hours of grueling torment inside an extreme haunt in an attempt to confront her fears and conquer the tragic past that haunts her.</desc><category>Horror</category><category>Mystery</category><rating><value>TV-14</value></rating></programme>
-<programme start="20261112033318 +0000" stop="20261112040323 +0000" channel="6a1610bebdf296985fd95603-64d2c6acb18b113e0c61012a"><title>Aliens Uncovered</title><sub-title>Aliens Uncovered: The Golden Record Part 2</sub-title><desc>In the late 1970s, the US government sent a message to our distant neighbors. Twenty years later, the response we received sparked the biggest UFO sighting in history.</desc><category>Paranormal</category><episode-num system="onscreen">S1E29</episode-num><episode-num system="xmltv_ns">0.28.</episode-num><rating><value>PG-13</value></rating></programme>
 <programme start="20261112040323 +0000" stop="20261112050454 +0000" channel="6a1610bebdf296985fd95603-64d2c6acb18b113e0c61012a"><title>Psychic Witness</title><sub-title>Lost Youth</sub-title><desc>A relaxing weekend in the country turns into a nightmare for an Arkansas family when their teen son never shows up. After an exhaustive, days-long search, the young man is still missing. His parents turn to psychic Carol Pate who offers them a vision of hope-if they can find their son in time. Halfway across the country, in California, another beloved son goes missing. Suspecting foul play, his parents contact psychic Rosemarie Kerr. The psychic describes a desperate struggle unlike anything the boy's parents ever imagined-and tells them their son's life hangs in the balance.</desc><category>Paranormal</category><episode-num system="onscreen">S1E8</episode-num><episode-num system="xmltv_ns">0.7.</episode-num><rating><value>PG-13</value></rating></programme>
 <programme start="20261112050454 +0000" stop="20261112053453 +0000" channel="6a1610bebdf296985fd95603-64d2c6acb18b113e0c61012a"><title>Unscripted Paranormal</title><sub-title>Unscripted Paranormal: Bonnie &amp; Clyde Hideout</sub-title><desc>Adrian Lee and The International Paranormal Society explore the site of a 1933 shootout between the Barrow gang and police near Dexter, Iowa. Though Bonnie and Clyde escaped, the confrontation left Buck Barrow critically wounded and his wife Blanche in police custody. The team investigates lingering spirits from this infamous shootout.</desc><category>Paranormal</category><episode-num system="onscreen">S1E8</episode-num><episode-num system="xmltv_ns">0.7.</episode-num><rating><value>PG</value></rating></programme>
 <programme start="20261112053453 +0000" stop="20261112060453 +0000" channel="6a1610bebdf296985fd95603-64d2c6acb18b113e0c61012a"><title>Sir Spooks</title><sub-title>These Scary Videos Will Make You Horrified</sub-title><desc>Analysis and presentations of scary videos featuring ghosts, creatures and other mysterious subjects.</desc><category>Paranormal</category><episode-num system="onscreen">S1E3</episode-num><episode-num system="xmltv_ns">0.2.</episode-num><rating><value>PG-13</value></rating></programme>
@@ -27402,7 +26592,6 @@ till en tjänstgöring i Europa.</desc>
 <programme start="20261112212807 +0000" stop="20261112222846 +0000" channel="6a1610bebdf296985fd95603-64d2c6acb18b113e0c61012a"><title>Nightmares</title><sub-title>Nightmares</sub-title><desc>Explore the realm of bad dreams in the gripping documentary Nightmares. Delving into the origins and impact of these powerful phenomena, this film offers expert analysis and firsthand accounts. Get ready to uncover the secrets of the mind in Nightmares.</desc><category>Paranormal</category><episode-num system="onscreen">S1E1</episode-num><episode-num system="xmltv_ns">0.0.</episode-num><rating><value>PG-13</value></rating></programme>
 <programme start="20261112222846 +0000" stop="20261112232849 +0000" channel="6a1610bebdf296985fd95603-64d2c6acb18b113e0c61012a"><title>Smile for the Dead: An Examination of Spirit Photography</title><sub-title>Smile for the Dead: An Examination of Spirit Photography</sub-title><desc>1869: William H Mumler stood trial for fraud in New York for claiming to photograph spirits of customers' deceased loved ones. Mumler walked free as experts of the day could not figure his methods. Was he a fraud? Or could he truly photograph the dead?</desc><category>Paranormal</category><episode-num system="onscreen">S1E1</episode-num><episode-num system="xmltv_ns">0.0.</episode-num><rating><value>PG-13</value></rating></programme>
 <programme start="20261112232849 +0000" stop="20261112235854 +0000" channel="6a1610bebdf296985fd95603-64d2c6acb18b113e0c61012a"><title>Aliens Uncovered</title><sub-title>Aliens Uncovered: The Golden Record Part 4</sub-title><desc>In the late 1970s, the US government sent a message to our distant neighbors. Twenty years later, the response we received sparked the biggest UFO sighting in history.</desc><category>Paranormal</category><episode-num system="onscreen">S1E31</episode-num><episode-num system="xmltv_ns">0.30.</episode-num><rating><value>PG-13</value></rating></programme>
-<programme start="20261112032803 +0000" stop="20261112040257 +0000" channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643"><title>Red Dwarf</title><sub-title>Thanks for the Memory</sub-title><desc>Lister and Cat wake up with their legs in plaster. What's going on?</desc><category>Comedy</category><episode-num system="onscreen">S2E3</episode-num><episode-num system="xmltv_ns">1.2.</episode-num><rating><value>TV-14</value></rating></programme>
 <programme start="20261112040257 +0000" stop="20261112043650 +0000" channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643"><title>Red Dwarf</title><sub-title>Stasis Leak</sub-title><desc>The crew of Red Dwarf have found a way to go back in time three million years.</desc><category>Comedy</category><episode-num system="onscreen">S2E4</episode-num><episode-num system="xmltv_ns">1.3.</episode-num><rating><value>TV-14</value></rating></programme>
 <programme start="20261112043650 +0000" stop="20261112051057 +0000" channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643"><title>Red Dwarf</title><sub-title>Queeg</sub-title><desc>Holly has been deposed and the back-up computer Queeg 500 is in control of Red Dwarf.</desc><category>Comedy</category><episode-num system="onscreen">S2E5</episode-num><episode-num system="xmltv_ns">1.4.</episode-num><rating><value>TV-14</value></rating></programme>
 <programme start="20261112051057 +0000" stop="20261112054320 +0000" channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643"><title>Red Dwarf</title><sub-title>Parallel Universe</sub-title><desc>Holly's latest invention takes the crew into a bizarre parallel universe.</desc><category>Comedy</category><episode-num system="onscreen">S2E6</episode-num><episode-num system="xmltv_ns">1.5.</episode-num><rating><value>TV-14</value></rating></programme>
@@ -27440,7 +26629,6 @@ till en tjänstgöring i Europa.</desc>
 <programme start="20261112224238 +0000" stop="20261112231623 +0000" channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643"><title>Coupling</title><sub-title>Circus of the Epidurals</sub-title><desc>Steve finds himself haunted by ghosts while Sally is troubled by a string quartet.</desc><category>Comedy</category><episode-num system="onscreen">S4E4</episode-num><episode-num system="xmltv_ns">3.3.</episode-num><rating><value>TV-14</value></rating></programme>
 <programme start="20261112231623 +0000" stop="20261112234922 +0000" channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643"><title>Coupling</title><sub-title>The Naked Living Room</sub-title><desc>How can you win over a woman when your living room has lost the battle with nudity?</desc><category>Comedy</category><episode-num system="onscreen">S4E5</episode-num><episode-num system="xmltv_ns">3.4.</episode-num><rating><value>TV-14</value></rating></programme>
 <programme start="20261112234922 +0000" stop="20261113001604 +0000" channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643"><title>Friday Night Dinner</title><sub-title>The Sofabed</sub-title><desc>Mum and Dad are having a clear-out, and Dad's been ordered to chuck away all his old junk.</desc><category>Comedy</category><episode-num system="onscreen">S1E1</episode-num><episode-num system="xmltv_ns">0.0.</episode-num><rating><value>TV-14</value></rating></programme>
-<programme start="20261112033626 +0000" stop="20261112040228 +0000" channel="6a1610bebdf296985fd95603-65e87f35335524a69e8e0ce0"><title>The Conspiracy Show with Richard Syrett</title><sub-title>The Water Engine</sub-title><desc>Did Stanley Meyer actually figure out a way to run an internal combustion engine on pure water? And was he killed because his invention threatened Big Oil?</desc><category>Paranormal</category><episode-num system="onscreen">S3E8</episode-num><episode-num system="xmltv_ns">2.7.</episode-num><rating><value>TV-PG</value></rating></programme>
 <programme start="20261112040228 +0000" stop="20261112042436 +0000" channel="6a1610bebdf296985fd95603-65e87f35335524a69e8e0ce0"><title>Unsealed Alien Files</title><sub-title>Alien Implants</sub-title><desc>We have always been told that mankind enjoys free will. Is this really true? Or have aliens created the means for controlling humanity? The shocking truth might just be hidden inside you.</desc><category>Paranormal</category><episode-num system="onscreen">S1E8</episode-num><episode-num system="xmltv_ns">0.7.</episode-num><rating><value>TV-14</value></rating></programme>
 <programme start="20261112042436 +0000" stop="20261112044645 +0000" channel="6a1610bebdf296985fd95603-65e87f35335524a69e8e0ce0"><title>Unsealed Alien Files</title><sub-title>British X-Files</sub-title><desc>Is Britain facing an alien invasion? Does it know more than it’s saying? And is it really dedicated to protecting its citizens? Or is it only protecting itself.</desc><category>Paranormal</category><episode-num system="onscreen">S1E20</episode-num><episode-num system="xmltv_ns">0.19.</episode-num><rating><value>TV-14</value></rating></programme>
 <programme start="20261112044645 +0000" stop="20261112051024 +0000" channel="6a1610bebdf296985fd95603-65e87f35335524a69e8e0ce0"><title>Unsealed Alien Files</title><sub-title>Bedroom Invaders</sub-title><desc>Close encounters. There's no telling where or when they will happen. But of all the possible scenarios, none is more terrifying than the one we're unaware of - until it's too late.</desc><category>Paranormal</category><episode-num system="onscreen">S2E9</episode-num><episode-num system="xmltv_ns">1.8.</episode-num><rating><value>TV-14</value></rating></programme>
@@ -27511,7 +26699,6 @@ till en tjänstgöring i Europa.</desc>
 <programme start="20261112183548 +0000" stop="20261112202354 +0000" channel="6a1610bebdf296985fd95603-6627ab12580825e8a7bc4f04"><title>Death Racers (2008)</title><desc>Criminals compete in a race to the death with the winners earning their freedom.</desc><category>Action</category><category>Adventure</category><category>Comedy</category><category>Science Fiction</category><category>Sport</category><category>Thriller</category><rating><value>NR</value></rating></programme>
 <programme start="20261112202354 +0000" stop="20261112221435 +0000" channel="6a1610bebdf296985fd95603-6627ab12580825e8a7bc4f04"><title>Bermuda Tentacles (2014)</title><desc>When Air Force One crashes in the Bermuda Triangle, a Navy rescue team awakens a deadly creature.</desc><category>Science Fiction</category><category>Horror</category><category>Thriller</category><category>Action</category><category>Adventure</category><category>Comedy</category><rating><value>NR</value></rating></programme>
 <programme start="20261112221435 +0000" stop="20261112235740 +0000" channel="6a1610bebdf296985fd95603-6627ab12580825e8a7bc4f04"><title>Battle of Los Angeles (2011)</title><desc>In February 1942 US forces engaged an unidentified flying object above Los Angeles.</desc><category>Science Fiction</category><category>Thriller</category><category>Action</category><category>Adventure</category><rating><value>NR</value></rating></programme>
-<programme start="20261112021922 +0000" stop="20261112040513 +0000" channel="6a1610bebdf296985fd95603-66b136d2a9ef8c41ec0841ae"><title>Deadly Friend (1986)</title><desc>When a teenage genius implants computer chips into a comatose girl's brain, she goes on a revenge spree.</desc><category>Horror</category><category>Science Fiction</category><category>Thriller</category><category>Drama</category><rating><value>R</value></rating></programme>
 <programme start="20261112040513 +0000" stop="20261112053926 +0000" channel="6a1610bebdf296985fd95603-66b136d2a9ef8c41ec0841ae"><title>Gothika (2003)</title><desc>Halle Berry stars as a psychologist who awakens as a patient in the mental institution where she works.</desc><category>Horror</category><category>Thriller</category><category>Mystery</category><rating><value>R</value></rating></programme>
 <programme start="20261112053926 +0000" stop="20261112074236 +0000" channel="6a1610bebdf296985fd95603-66b136d2a9ef8c41ec0841ae"><title>The Jacket (2005)</title><desc>A Gulf War vet lands in a predicament between his past and his future.</desc><category>Drama</category><category>Mystery</category><category>Thriller</category><category>Fantasy</category><category>Science Fiction</category><episode-num system="onscreen">S1E1</episode-num><episode-num system="xmltv_ns">0.0.</episode-num><rating><value>TV-MA</value></rating></programme>
 <programme start="20261112074236 +0000" stop="20261112083804 +0000" channel="6a1610bebdf296985fd95603-66b136d2a9ef8c41ec0841ae"><title>Max Headroom</title><sub-title>Neurostim</sub-title><desc>Edison investigates a new Zik-Zak giveaway item that may eliminate the need for television advertising.</desc><category>Adrenaline + Sci-Fi</category><episode-num system="onscreen">S2E6</episode-num><episode-num system="xmltv_ns">1.5.</episode-num><rating><value>TV-PG</value></rating></programme>
@@ -27533,7 +26720,6 @@ till en tjänstgöring i Europa.</desc>
 <programme start="20261112211208 +0000" stop="20261112220148 +0000" channel="6a1610bebdf296985fd95603-66b136d2a9ef8c41ec0841ae"><title>The Following</title><sub-title>Silence</sub-title><desc>Joe Carroll puts his final, deadly plan into action.</desc><category>Adrenaline + Sci-Fi</category><episode-num system="onscreen">S2E14</episode-num><episode-num system="xmltv_ns">1.13.</episode-num><rating><value>TV-14</value></rating></programme>
 <programme start="20261112220148 +0000" stop="20261112225346 +0000" channel="6a1610bebdf296985fd95603-66b136d2a9ef8c41ec0841ae"><title>The Following</title><sub-title>Forgive</sub-title><desc>In the season two finale, Mark and Luke turn the tables on both Ryan Hardy and Joe Carroll.</desc><category>Adrenaline + Sci-Fi</category><episode-num system="onscreen">S2E15</episode-num><episode-num system="xmltv_ns">1.14.</episode-num><rating><value>TV-14</value></rating></programme>
 <programme start="20261112225346 +0000" stop="20261113004656 +0000" channel="6a1610bebdf296985fd95603-66b136d2a9ef8c41ec0841ae"><title>Someone's Watching Me! (1978)</title><desc>She just moved into a fancy high-rise apartment, but an ominous feeling makes her believe someone's watching.</desc><category>Horror</category><category>Mystery</category><category>Thriller</category><category>TV Movie</category><rating><value>TV-MA</value></rating></programme>
-<programme start="20261112033532 +0000" stop="20261112040224 +0000" channel="6a1610bebdf296985fd95603-670858335b42d01c9391e325"><title>The Kids in the Hall</title><sub-title>Kids In The Hall 209</sub-title><desc>Sketches: Crushing Hospital, The Leash, Knocked Out, The Leash, The Last Straw, Parenting, Dead Dad.</desc><category>Comedy</category><episode-num system="onscreen">S2E9</episode-num><episode-num system="xmltv_ns">1.8.</episode-num><rating><value>TV-14</value></rating></programme>
 <programme start="20261112040224 +0000" stop="20261112042918 +0000" channel="6a1610bebdf296985fd95603-670858335b42d01c9391e325"><title>The Kids in the Hall</title><sub-title>Kids In The Hall 210</sub-title><desc>A guy who can guess everything but weight; a first date where they get right to the guilt.</desc><category>Comedy</category><episode-num system="onscreen">S2E10</episode-num><episode-num system="xmltv_ns">1.9.</episode-num><rating><value>TV-14</value></rating></programme>
 <programme start="20261112042918 +0000" stop="20261112050000 +0000" channel="6a1610bebdf296985fd95603-670858335b42d01c9391e325"><title>The Kids in the Hall</title><sub-title>Kids In The Hall 211</sub-title><desc>Sketches: That's America, Cuttin' It Close 1, Secret of Broadway, Cuttin' It Close 2, Dead Fish.</desc><category>Comedy</category><episode-num system="onscreen">S2E11</episode-num><episode-num system="xmltv_ns">1.10.</episode-num><rating><value>TV-14</value></rating></programme>
 <programme start="20261112050000 +0000" stop="20261112053118 +0000" channel="6a1610bebdf296985fd95603-670858335b42d01c9391e325"><title>The Kids in the Hall</title><sub-title>Kids In The Hall 212</sub-title><desc>A son asks his father about Vegas; a men's support group; proof that Jesus was a bad carpenter.</desc><category>Comedy</category><episode-num system="onscreen">S2E12</episode-num><episode-num system="xmltv_ns">1.11.</episode-num><rating><value>TV-PG</value></rating></programme>
@@ -27626,7 +26812,6 @@ till en tjänstgöring i Europa.</desc>
 <programme start="20261112221349 +0000" stop="20261112224219 +0000" channel="6a1610bebdf296985fd95603-68db6a852be6c4ceb7947b9a"><title>Kim's Convenience</title><sub-title>Appa's First Text</sub-title><desc>Appa inherits his daughter's old smartphone. Umma finds a stray dog in the store.</desc><category>Comedy</category><episode-num system="onscreen">S2E12</episode-num><episode-num system="xmltv_ns">1.11.</episode-num><rating><value>TV-14</value></rating></programme>
 <programme start="20261112224219 +0000" stop="20261112231050 +0000" channel="6a1610bebdf296985fd95603-68db6a852be6c4ceb7947b9a"><title>Kim's Convenience</title><sub-title>Handy Graduation</sub-title><desc>At a party to celebrate getting his GED, Jung can't ignore his feelings for Shannon.</desc><category>Comedy</category><episode-num system="onscreen">S2E13</episode-num><episode-num system="xmltv_ns">1.12.</episode-num><rating><value>TV-14</value></rating></programme>
 <programme start="20261112231050 +0000" stop="20261113010613 +0000" channel="6a1610bebdf296985fd95603-68db6a852be6c4ceb7947b9a"><title>Avenging Angelo (2002)</title><desc>The daughter of a murdered mafia chieftain seeks revenge with the aid of her father's bodyguard.</desc><category>Comedy</category><category>Crime</category><category>Action</category><category>Romance</category><rating><value>NR</value></rating></programme>
-<programme start="20261112031226 +0000" stop="20261112040028 +0000" channel="6a1610bebdf296985fd95603-69d93ed38061ebfbca58c32a"><title>Mountain Monsters</title><sub-title>The Cherokee Death Cat</sub-title><desc>The AIMS team hunts for a ferocious feline with a deadly curse.</desc><category>Paranormal</category><episode-num system="onscreen">S4E5</episode-num><episode-num system="xmltv_ns">3.4.</episode-num><rating><value>TV-PG</value></rating></programme>
 <programme start="20261112040028 +0000" stop="20261112045030 +0000" channel="6a1610bebdf296985fd95603-69d93ed38061ebfbca58c32a"><title>Mountain Monsters</title><sub-title>Mystery of the Death Cat Barn</sub-title><desc>The team's hunt for the Cherokee Death Cat leads them to a mysterious barn.</desc><category>Paranormal</category><episode-num system="onscreen">S4E6</episode-num><episode-num system="xmltv_ns">3.5.</episode-num><rating><value>TV-PG</value></rating></programme>
 <programme start="20261112045030 +0000" stop="20261112053831 +0000" channel="6a1610bebdf296985fd95603-69d93ed38061ebfbca58c32a"><title>Mountain Monsters</title><sub-title>The Coyote King</sub-title><desc>The AIMS team hunts for an enormous canine known as the Coyote King.</desc><category>Paranormal</category><episode-num system="onscreen">S4E7</episode-num><episode-num system="xmltv_ns">3.6.</episode-num><rating><value>TV-PG</value></rating></programme>
 <programme start="20261112053831 +0000" stop="20261112062631 +0000" channel="6a1610bebdf296985fd95603-69d93ed38061ebfbca58c32a"><title>Mountain Monsters</title><sub-title>The Return of Trapper</sub-title><desc>The team heads back to Ashe County, NC, in search of the Cherokee Devil.</desc><category>Paranormal</category><episode-num system="onscreen">S4E8</episode-num><episode-num system="xmltv_ns">3.7.</episode-num><rating><value>TV-PG</value></rating></programme>
@@ -27651,7 +26836,6 @@ till en tjänstgöring i Europa.</desc>
 <programme start="20261112215408 +0000" stop="20261112224438 +0000" channel="6a1610bebdf296985fd95603-69d93ed38061ebfbca58c32a"><title>Mountain Monsters</title><sub-title>Rumble in the Hills</sub-title><desc>The search is on to find a lost brother when one of the team goes missing.</desc><category>Paranormal</category><episode-num system="onscreen">S6E8</episode-num><episode-num system="xmltv_ns">5.7.</episode-num><rating><value>TV-14</value></rating></programme>
 <programme start="20261112224438 +0000" stop="20261112233308 +0000" channel="6a1610bebdf296985fd95603-69d93ed38061ebfbca58c32a"><title>Mountain Monsters</title><sub-title>1984</sub-title><desc>The AIMS team learns incredible new information about Trapper.</desc><category>Paranormal</category><episode-num system="onscreen">S6E9</episode-num><episode-num system="xmltv_ns">5.8.</episode-num><rating><value>TV-14</value></rating></programme>
 <programme start="20261112233308 +0000" stop="20261113002139 +0000" channel="6a1610bebdf296985fd95603-69d93ed38061ebfbca58c32a"><title>Mountain Monsters</title><sub-title>Bigfoot on Camera</sub-title><desc>The AIMS team uncovers explosive new evidence of Bigfoot.</desc><category>Paranormal</category><episode-num system="onscreen">S6E10</episode-num><episode-num system="xmltv_ns">5.9.</episode-num><rating><value>TV-14</value></rating></programme>
-<programme start="20261112031051 +0000" stop="20261112040431 +0000" channel="6a1610bebdf296985fd95603-6a8767b6c0e9ea735da07fd9"><title>Monsters and Mysteries in America</title><sub-title>Melonheads, Devil Monkey, Blue Albino Woman</sub-title><desc>Vicious monsters are out for revenge.</desc><category>Paranormal</category><episode-num system="onscreen">S2E11</episode-num><episode-num system="xmltv_ns">1.10.</episode-num><rating><value>TV-PG</value></rating></programme>
 <programme start="20261112040431 +0000" stop="20261112050000 +0000" channel="6a1610bebdf296985fd95603-6a8767b6c0e9ea735da07fd9"><title>Monsters and Mysteries in America</title><sub-title>UFO Bigfoot, Lake Pepin Monster, Cajun Werewolf</sub-title><desc>A UFO sighting leads to theories about Bigfoot; an aquatic mega-monster rises from Lake Pepin.</desc><category>Paranormal</category><episode-num system="onscreen">S2E12</episode-num><episode-num system="xmltv_ns">1.11.</episode-num><rating><value>TV-PG</value></rating></programme>
 <programme start="20261112050000 +0000" stop="20261112060236 +0000" channel="6a1610bebdf296985fd95603-6a8767b6c0e9ea735da07fd9"><title>A Haunting</title><sub-title>Casa de los Muertos</sub-title><desc>Eddie Benitez fears the spirit of a dead man who committed suicide is slowly killing his son.</desc><category>Paranormal</category><episode-num system="onscreen">S4E11</episode-num><episode-num system="xmltv_ns">3.10.</episode-num><rating><value>TV-PG</value></rating></programme>
 <programme start="20261112060236 +0000" stop="20261112070512 +0000" channel="6a1610bebdf296985fd95603-6a8767b6c0e9ea735da07fd9"><title>A Haunting</title><sub-title>Monster in the Apartment</sub-title><desc>Morgan Knudsen and her friend, Bob, move into a flat in Edmonton.</desc><category>Paranormal</category><episode-num system="onscreen">S4E12</episode-num><episode-num system="xmltv_ns">3.11.</episode-num><rating><value>TV-PG</value></rating></programme>
@@ -27718,18 +26902,6 @@ till en tjänstgöring i Europa.</desc>
 <programme start="20261112212024 +0000" stop="20261112221322 +0000" channel="6a1610bebdf296985fd95603-6ad6416c17d89423b84560a7"><title>Vikings</title><sub-title>All Change</sub-title><desc>At the behest of King Horik, Ragnar (Travis Fimmel) travels to Gotaland to resolve a land dispute with the area's leader, Jarl Borg (Thorbjorn Harr).</desc><category>Entertainment</category><episode-num system="onscreen">S1E9</episode-num><episode-num system="xmltv_ns">0.8.</episode-num><rating><value>TV-14</value></rating></programme>
 <programme start="20261112221322 +0000" stop="20261112230618 +0000" channel="6a1610bebdf296985fd95603-6ad6416c17d89423b84560a7"><title>Vikings</title><sub-title>Rites Of Passage</sub-title><desc>Ragnar Lothbrok (Travis Fimmel) is a man who dreams of raiding the world! But powerful forces may stand in his way as he marches toward history.</desc><category>Entertainment</category><episode-num system="onscreen">S1E1</episode-num><episode-num system="xmltv_ns">0.0.</episode-num><rating><value>TV-14</value></rating></programme>
 <programme start="20261112230618 +0000" stop="20261112235916 +0000" channel="6a1610bebdf296985fd95603-6ad6416c17d89423b84560a7"><title>Vikings</title><sub-title>Wrath Of The Northmen</sub-title><desc>Ragnar (Travis Fimmel) gathers a crew willing to risk their lives. Meanwhile, Haraldson's (Gabriel Byrne) paranoia reaches frightening new heights.</desc><category>Entertainment</category><episode-num system="onscreen">S1E2</episode-num><episode-num system="xmltv_ns">0.1.</episode-num><rating><value>TV-14</value></rating></programme>
-<programme start="20261112034831 +0000" stop="20261112040251 +0000" channel="aqua-teen-hunger-force">
-    <title lang="en">Aqua Teen Hunger Force</title>
-    <sub-title lang="en">Boost Mobile</sub-title>
-    <desc lang="en">You should go buy a Boost Mobile phone.  They're fantastic!  Really!</desc>
-    <category lang="en">Comedy</category>
-    <rating system="VCHIP">
-      <value>TV-PG L</value>
-    </rating>
-    <icon src="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_20224178156-athf_057_BIM.jpg" />
-    <episode-num system="xmltv_ns">3.1.0/1</episode-num>
-    <date>20051212</date>
-  </programme>
 <programme start="20261112040251 +0000" stop="20261112043147 +0000" channel="aqua-teen-hunger-force">
     <title lang="en">Aqua Teen Hunger Force</title>
     <sub-title lang="en">Aqua Teen Hunger Force Star Studded Christmas Spectacular Starring Rhon Geremi</sub-title>
@@ -30169,18 +29341,6 @@ till en tjänstgöring i Europa.</desc>
     <icon src="https://media.cdn.adultswim.com/uploads/20190710/197101518217-channel5thumb.jpg" />
     <episode-num system="xmltv_ns">4.0.0/1</episode-num>
   </programme>
-<programme start="20261112035236 +0000" stop="20261112040334 +0000" channel="check-it-out-with-dr-steve-brule">
-    <title lang="en">Check It Out! with Dr. Steve Brule</title>
-    <sub-title lang="en">Family</sub-title>
-    <desc lang="en">Dr. Steve discusses the importance of Family. Plus a look at Sports.</desc>
-    <category lang="en">Comedy</category>
-    <rating system="VCHIP">
-      <value>TV-14 D</value>
-    </rating>
-    <icon src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032159376-checkitout_103_bim.jpg" />
-    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
-    <date>20100531</date>
-  </programme>
 <programme start="20261112040334 +0000" stop="20261112041449 +0000" channel="check-it-out-with-dr-steve-brule">
     <title lang="en">Check It Out! with Dr. Steve Brule</title>
     <sub-title lang="en">Health</sub-title>
@@ -31332,18 +30492,6 @@ till en tjänstgöring i Europa.</desc>
     <icon src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032159376-checkitout_103_bim.jpg" />
     <episode-num system="xmltv_ns">0.2.0/1</episode-num>
     <date>20100531</date>
-  </programme>
-<programme start="20261112034338 +0000" stop="20261112035759 +0000" channel="infomercials">
-    <title lang="en">Infomercials</title>
-    <sub-title lang="en">M.O.P.Z.</sub-title>
-    <desc lang="en">A lazy janitor builds a robot to do his dirty work.</desc>
-    <category lang="en">Comedy</category>
-    <rating system="VCHIP">
-      <value>TV-14 LSV</value>
-    </rating>
-    <icon src="https://media.cdn.adultswim.com/uploads/20200902/thumbnails/2_20921511189-infomercials_mopz_1.jpg" />
-    <episode-num system="xmltv_ns">5.1.0/1</episode-num>
-    <date>20160405</date>
   </programme>
 <programme start="20261112035759 +0000" stop="20261112041150 +0000" channel="infomercials">
     <title lang="en">Infomercials</title>
@@ -34747,18 +33895,6 @@ ABSurveillanceSolutions.com</desc>
     <episode-num system="xmltv_ns">3.0.0/1</episode-num>
     <date>20191118</date>
   </programme>
-<programme start="20261112034513 +0000" stop="20261112040045 +0000" channel="off-the-air-smalls">
-    <title lang="en">Off the Air</title>
-    <sub-title lang="en">Sports</sub-title>
-    <desc lang="en">Arbitrary goals, invented glory, permanent brain damage.</desc>
-    <category lang="en">Comedy</category>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-    <icon src="https://media.cdn.adultswim.com/uploads/20200312/thumbnails/2_20312133764-offtheair_403_dup.jpg" />
-    <episode-num system="xmltv_ns">3.1.0/1</episode-num>
-    <date>20141223</date>
-  </programme>
 <programme start="20261112040045 +0000" stop="20261112041735 +0000" channel="off-the-air-smalls">
     <title lang="en">Off the Air</title>
     <sub-title lang="en">Death</sub-title>
@@ -36198,12 +35334,6 @@ KOKOFREAKBEAN</desc>
     <episode-num system="xmltv_ns">1.0.0/1</episode-num>
     <date>20220722</date>
   </programme>
-<programme start="20261112033003 +0000" stop="20261112035818 +0000" channel="rick-and-morty">
-    <title lang="en">Rick and Morty</title>
-    <sub-title lang="en">Pilot</sub-title>
-    <category lang="en">Comedy</category>
-    <icon src="https://media.cdn.adultswim.com/uploads/20210914/219141616186-1910281358343-RAM.jpg" />
-  </programme>
 <programme start="20261112035818 +0000" stop="20261112042638 +0000" channel="rick-and-morty">
     <title lang="en">Rick and Morty</title>
     <sub-title lang="en">Lawnmower Dog</sub-title>
@@ -36522,18 +35652,6 @@ KOKOFREAKBEAN</desc>
     <sub-title lang="en">Rickternal Friendshine of the Spotless Mort</sub-title>
     <category lang="en">Comedy</category>
     <icon src="https://media.cdn.adultswim.com/uploads/20210914/219141616186-1910281358343-RAM.jpg" />
-  </programme>
-<programme start="20261112034358 +0000" stop="20261112035832 +0000" channel="robot-chicken">
-    <title lang="en">Robot Chicken</title>
-    <sub-title lang="en">Tubba Bubba's Now Hubba Hubba</sub-title>
-    <desc lang="en">The Super Friends make way for The Super Pets. The Carmen Sandiego host has girlfriend troubles. Pac-Man learns that he's been living in the Matrix. The car version of Voltron get to the rescue as fast as it can. The Cenobites guest star on Girls Gone Wild. 24 focuses on the night hours as Drac takes down the terrorists.</desc>
-    <category lang="en">Comedy</category>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-    <icon src="https://media.cdn.adultswim.com/uploads/20200401/thumbnails/2_20411143167-robotchicken_042.jpg" />
-    <episode-num system="xmltv_ns">2.1.0/1</episode-num>
-    <date>20080401</date>
   </programme>
 <programme start="20261112035832 +0000" stop="20261112041240 +0000" channel="robot-chicken">
     <title lang="en">Robot Chicken</title>
@@ -38854,18 +37972,6 @@ KOKOFREAKBEAN</desc>
     <episode-num system="xmltv_ns">3.3.0/1</episode-num>
     <date>20031113</date>
   </programme>
-<programme start="20261112034740 +0000" stop="20261112035823 +0000" channel="squidbillies">
-    <title lang="en">Squidbillies</title>
-    <sub-title lang="en">Butt Trouble</sub-title>
-    <desc lang="en">Something strange comes out of Rusty's butt.</desc>
-    <category lang="en">Comedy</category>
-    <rating system="VCHIP">
-      <value>TV-14 DLV</value>
-    </rating>
-    <icon src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131113231-squidbillies_008.jpg" />
-    <episode-num system="xmltv_ns">1.1.0/1</episode-num>
-    <date>20060925</date>
-  </programme>
 <programme start="20261112035823 +0000" stop="20261112040935 +0000" channel="squidbillies">
     <title lang="en">Squidbillies</title>
     <sub-title lang="en">Double Truckin' The Tricky Two</sub-title>
@@ -39687,18 +38793,6 @@ KOKOFREAKBEAN</desc>
     <sub-title lang="en">Thanks-Taking</sub-title>
     <category lang="en">Comedy</category>
     <icon src="https://media.cdn.adultswim.com/uploads/20211107/21117198155-SquidbilliesMetaThumb420x236.png" />
-  </programme>
-<programme start="20261112034559 +0000" stop="20261112040020 +0000" channel="the-eric-andre-show">
-    <title lang="en">Eric Andre Show, The</title>
-    <sub-title lang="en">Jesse Williams; Jillian Michaels</sub-title>
-    <desc lang="en">Interviews with Jesse Williams and Jillian Michaels; Musical guest OG Maco and Tim Janus. Special appearance by Penn Jillette</desc>
-    <category lang="en">Comedy</category>
-    <rating system="VCHIP">
-      <value>TV-MA LS</value>
-    </rating>
-    <icon src="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_2034162095-ericandre_405_dup-20160801.jpg" />
-    <episode-num system="xmltv_ns">3.4.0/1</episode-num>
-    <date>20160910</date>
   </programme>
 <programme start="20261112040020 +0000" stop="20261112041411 +0000" channel="the-eric-andre-show">
     <title lang="en">Eric Andre Show, The</title>
@@ -41326,18 +40420,6 @@ There's nothing like a party to stir up decades worth of sibling rivalries, bitt
     <category lang="en">Comedy</category>
     <icon src="https://i.cdn.turner.com/adultswim/big/img/2019/03/26/vbSearch.jpg" />
     <episode-num system="xmltv_ns">4.4.0/1</episode-num>
-  </programme>
-<programme start="20261112034605 +0000" stop="20261112040032 +0000" channel="your-pretty-face-is-going-to-hell">
-    <title lang="en">Your Pretty Face is Going to Hell</title>
-    <sub-title lang="en">Krampus Nacht</sub-title>
-    <desc lang="en">Gary and Claude bring Krampus out of retirement to help ruin Christmas.</desc>
-    <category lang="en">Comedy</category>
-    <rating system="VCHIP">
-      <value>TV-14 V</value>
-    </rating>
-    <icon src="https://i.cdn.turner.com/adultswim/big/video/krampus-nacht/ypf_ep212_003_ba865801g56qf6qw8s_2.jpg" />
-    <episode-num system="xmltv_ns">1.10.0/1</episode-num>
-    <date>20151005</date>
   </programme>
 <programme start="20261112040032 +0000" stop="20261112041500 +0000" channel="your-pretty-face-is-going-to-hell">
     <title lang="en">Your Pretty Face is Going to Hell</title>
@@ -43481,6 +42563,12 @@ There's nothing like a party to stir up decades worth of sibling rivalries, bitt
     <category lang="en">Crime</category>
     <icon src="https://img.vidaahub.com/s3_bucket/60158/live/60158_53ee9b59-581e-4fd2-85b7-51a83adabeca_eccc98dea-c43f-454c-97ea-5fc252f2618b_1794625782000/9d0f3f469f9edb1e030b0c7519d606df?f=webp&amp;resize=w_480,h_270" />
   </programme>
+<programme start="20261114040054 +0000" stop="20261114045114 +0000" channel="10517">
+    <title lang="en">Is Paris Burning?</title>
+    <desc lang="en">A nervous building superintendent identifies a violent tenant of assault.</desc>
+    <category lang="en">Crime</category>
+    <icon src="https://img.vidaahub.com/s3_bucket/60158/live/60158_53ee9b59-581e-4fd2-85b7-51a83adabeca_e37f9930a-1a80-4150-aed1-210f5501d9f4_1794628854000/9d0f3f469f9edb1e030b0c7519d606df?f=webp&amp;resize=w_480,h_270" />
+  </programme>
 <programme start="20261112031659 +0000" stop="20261112040923 +0000" channel="10592">
     <title lang="en">Gold Mines</title>
     <desc lang="en">The quest for the yellow metal took men across oceans.</desc>
@@ -45467,16 +44555,6 @@ There's nothing like a party to stir up decades worth of sibling rivalries, bitt
       <value>TV-14</value>
     </rating>
   </programme>
-<programme channel="US2001109K" start="20261112033643 +0000" stop="20261112040105 +0000">
-    <title>Killer Mysteries</title>
-    <sub-title>Targeted Teacher</sub-title>
-    <desc>The murder of a respected college professor sends shockwaves through suburban Richmond, Virginia. Cops investigate the homicide nonstop until evidence reveals a cold-blooded killer's premeditated plot.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2395387221_0_20260109T045742778Z_72_imageprocessorclient-tvplus-linear-584c967455-p9wk7.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme channel="US2001109K" start="20261112040105 +0000" stop="20261112042527 +0000">
     <title>Killer Mysteries</title>
     <sub-title>Down in Flames</sub-title>
@@ -45587,16 +44665,6 @@ There's nothing like a party to stir up decades worth of sibling rivalries, bitt
       <value>TV-14</value>
     </rating>
   </programme>
-<programme channel="USBC1000002NP" start="20261112031310 +0000" stop="20261112040545 +0000">
-    <title>World's Most Evil Killers</title>
-    <sub-title>Mark Goudeau</sub-title>
-    <desc>Goudeau terrorized victims in the Phoenix metro area between August 2005 and June 2006.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550791291_20_20241113T060450720Z_119_imageprocessorclient-tvplus-linear-5dc4fd45f6-prfs6.jpeg" />
-    <rating>
-      <value>TV-MA</value>
-    </rating>
-  </programme>
 <programme channel="USBC1000002NP" start="20261112040545 +0000" stop="20261112050103 +0000">
     <title>World's Most Evil Killers</title>
     <sub-title>Jerald Wingeart</sub-title>
@@ -45645,15 +44713,6 @@ There's nothing like a party to stir up decades worth of sibling rivalries, bitt
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550791291_20_20241113T060450720Z_119_imageprocessorclient-tvplus-linear-5dc4fd45f6-prfs6.jpeg" />
     <rating>
       <value>TV-MA</value>
-    </rating>
-  </programme>
-<programme channel="USBA300019WF" start="20261112033000 +0000" stop="20261112040000 +0000">
-    <title>Nobody Nose * Libby Like Sabrina Knows * Libby</title>
-    <desc>An out-of-control magic spaceship lands Sabrina and Salem inside Libby's brain.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352135A_582555762_0_20241223T045718232Z_91_imageprocessorclient-tvplus-linear-5dc4fd45f6-5r449.jpeg" />
-    <rating>
-      <value>TV-G</value>
     </rating>
   </programme>
 <programme channel="USBA300019WF" start="20261112040000 +0000" stop="20261112043000 +0000">
@@ -45805,16 +44864,6 @@ There's nothing like a party to stir up decades worth of sibling rivalries, bitt
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352137A_2733374022_0_20260331T215158841Z_122_imageprocessorclient-tvplus-linear-796646965d-zsr9n.png" />
     <rating>
       <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme channel="US4700029QM" start="20261112030558 +0000" stop="20261112040610 +0000">
-    <title>Gotham Comedy Live</title>
-    <sub-title>Jo Koy</sub-title>
-    <desc>"Gotham Comedy Live" is back with "Chelsea Lately" regular Jo Koy. Don't miss the man Variety calls one of the "Top 10 Comics to Watch" along with Matt Kirshen, Michelle Buteau and James Ponce, live from New York's legendary Gotham Comedy Club.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2526457988_18_20260210T164700576Z_95_imageprocessorclient-tvplus-linear-584c967455-b7vn5.jpeg" />
-    <rating>
-      <value>TV-14</value>
     </rating>
   </programme>
 <programme channel="US4700029QM" start="20261112040610 +0000" stop="20261112050631 +0000">
@@ -46661,9 +45710,6 @@ There's nothing like a party to stir up decades worth of sibling rivalries, bitt
 <programme start="20261114033429 +0000" stop="20261114061830 +0000" channel="whale.609411515976060398">
     <title lang="en">The Bunker</title>
   </programme>
-<programme start="20261112030000 +0000" stop="20261112040000 +0000" channel="whale.643123720684571896">
-    <title lang="en">Movie Mania</title>
-  </programme>
 <programme start="20261112040000 +0000" stop="20261112050000 +0000" channel="whale.643123720684571896">
     <title lang="en">Movie Mania</title>
   </programme>
@@ -46808,9 +45854,8 @@ There's nothing like a party to stir up decades worth of sibling rivalries, bitt
 <programme start="20261114030000 +0000" stop="20261114040000 +0000" channel="whale.643123720684571896">
     <title lang="en">Movie Mania</title>
   </programme>
-<programme start="20261112020355 +0000" stop="20261112040513 +0000" channel="whale.979187723418476859">
-    <title lang="en">Savage Journey</title>
-    <desc lang="en">A story of the settling in the West and the hardship and determination it took to do it.</desc>
+<programme start="20261114040000 +0000" stop="20261114050000 +0000" channel="whale.643123720684571896">
+    <title lang="en">Movie Mania</title>
   </programme>
 <programme start="20261112040513 +0000" stop="20261112055342 +0000" channel="whale.979187723418476859">
     <title lang="en">Devil Rider</title>
@@ -46953,16 +45998,6 @@ There's nothing like a party to stir up decades worth of sibling rivalries, bitt
   </programme>
 <programme start="20261113054420 +0000" stop="20261113075140 +0000" channel="whale.979187723418476860">
     <title lang="en">Hercules</title>
-  </programme>
-<programme start="20261112033000 +0000" stop="20261112040000 +0000" channel="vizio.149station_1648">
-    <title lang="en">The Jeffersons</title>
-    <desc lang="en">Louise's diamond could cost George his life when he vows to risk anything to get it back.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205165691753,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80" />
-    <episode-num system="onscreen">S08E820</episode-num>
-    <episode-num system="xmltv_ns">7.819.</episode-num>
-    <rating>
-      <value>TV-G</value>
-    </rating>
   </programme>
 <programme start="20261112040000 +0000" stop="20261112043000 +0000" channel="vizio.149station_1648">
     <title lang="en">The Jeffersons</title>
@@ -47192,17 +46227,6 @@ There's nothing like a party to stir up decades worth of sibling rivalries, bitt
     <episode-num system="xmltv_ns">2.19.</episode-num>
     <rating>
       <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261112031012 +0000" stop="20261112040116 +0000" channel="vizio.149station_888">
-    <title lang="en">Close Encounters: Down Under</title>
-    <sub-title lang="en">New Zealand and the Bass Strait</sub-title>
-    <desc lang="en">An Australian pilot vanishes over Bass Strait as a New Zealand entrepreneur has an extraordinary beach encounter.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205172019100,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80" />
-    <episode-num system="onscreen">S01E02</episode-num>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <rating>
-      <value>TV-G</value>
     </rating>
   </programme>
 <programme start="20261112040116 +0000" stop="20261112052022 +0000" channel="vizio.149station_888">
@@ -47480,17 +46504,6 @@ There's nothing like a party to stir up decades worth of sibling rivalries, bitt
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261112030000 +0000" stop="20261112040000 +0000" channel="vizio.93ELENO">
-    <title lang="en">The Ark</title>
-    <sub-title lang="en">Museum of Death</sub-title>
-    <desc lang="en">A disturbing rescue mission raises questions about Eva’s past.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205180630568,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80" />
-    <episode-num system="onscreen">S02E05</episode-num>
-    <episode-num system="xmltv_ns">1.4.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
 <programme start="20261112040000 +0000" stop="20261112050000 +0000" channel="vizio.93ELENO">
     <title lang="en">The Ark</title>
     <sub-title lang="en">Pretty Big Deal</sub-title>
@@ -47621,14 +46634,6 @@ There's nothing like a party to stir up decades worth of sibling rivalries, bitt
     <episode-num system="xmltv_ns">0.2.</episode-num>
     <rating>
       <value>TV-MA</value>
-    </rating>
-  </programme>
-<programme start="20261112022007 +0000" stop="20261112035821 +0000" channel="vizio.93VZAMCA">
-    <title lang="en">The Way Of The West (2011)</title>
-    <desc lang="en">A lone mountie has come to town to clean up the corruption and crime. He prepares to take them down one by one in the most vicious showdown the town has ever seen.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204744029204,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80" />
-    <rating>
-      <value>R</value>
     </rating>
   </programme>
 <programme start="20261112035821 +0000" stop="20261112052258 +0000" channel="vizio.93VZAMCA">
