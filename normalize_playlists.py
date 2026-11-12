@@ -408,7 +408,7 @@ NAME_KEYWORD_RULES: list[tuple[str, tuple[str, ...]]] = [
     ('Local News',     ('local news', 'fox local')),
     ('News',           ('news', 'noticias', 'weather', 'cnn', 'usa today', 'bloomberg')),
     ('True Crime',     ('true crime', 'court tv', 'cops', 'law & crime', 'forensic', 'dateline',
-                        'first 48', 'cold case', 'investigat', 'detective')),
+                        'first 48', 'cold case', 'investigat', 'detective', 'pluto tv crime')),
     ('Paranormal',     ('paranormal', 'ghost hunt', 'haunted', 'bigfoot', 'ufo ', 'ancient aliens',
                         'unexplained')),
     ('Crime',          ('crime', 'mystery', 'murder', 'whodunit')),
