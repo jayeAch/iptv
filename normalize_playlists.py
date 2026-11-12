@@ -186,7 +186,7 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
         cagney & lacey
         columbo
         pluto tv crime thrillers
-        pluto tv crime dramas
+        pluto tv crime drama
         pluto tv crime movies
         criminal minds
         csi
