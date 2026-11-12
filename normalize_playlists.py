@@ -145,7 +145,7 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
         60 days in jail
         20/20
         american justice
-        pluto tv crime
+        'pluto tv crime',
         body cam
         cold case files
         cold justice
