@@ -245,8 +245,15 @@ def compare_now(u, v, now):
     up = [p for p in u["progs"] if usable(p, names)]
     vp = [q for q in v["progs"] if usable(q, names)]
     extra = sum(1 for p in up if p is not cu and any(agree(p, q) for q in vp))
+    # Off-grid start/stop times matching on both feeds can't be a coincidence.
+    # With that much proof, a slot with identical times but a different title
+    # (series name on one feed, "Volume 41" on the other) is just wording, not
+    # a contradiction, so it is not counted as a conflict.
+    strong = sum(1 for p in up if not on_grid(p) and any(aligned(p, q) for q in vp))
+    ignore_aligned = strong >= WILDCARD_MIN
     conflicts = sum(1 for p in up for q in vp
-                    if p is not cu and q is not cv and overlaps(p, q) and not agree(p, q))
+                    if p is not cu and q is not cv and overlaps(p, q) and not agree(p, q)
+                    and not (ignore_aligned and aligned(p, q)))
     if conflicts > int(extra * CONFLICT_SHARE):
         return compare_wild(u, v, now)
     return 1 + extra
