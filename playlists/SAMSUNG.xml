@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
+<channel id="US4300005KC">
+    <display-name>The Hunger Games</display-name>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4300005KC_20261109T015533SQUARE.png" />
+  </channel>
 <channel id="USBA300017PK">
     <display-name>Pluto TV Fantastic</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300017PK_20261002T181921SQUARE.png" />
@@ -52,12 +56,21 @@
     <display-name>The Asylum</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ17000014C_20260421T141813SQUARE.png" />
   </channel>
-<programme channel="USBA300017PK" start="20261113024500 +0000" stop="20261113060000 +0000">
-    <title>Transformers</title>
-    <sub-title>Revenge of the Fallen</sub-title>
-    <desc>The battle for Earth continues when college-bound Sam Witwicky learns the truth about the ancient origins of the Transformers and must join in their continued battle against the Decepticons.</desc>
-    <category lang="en">Sci-Fi</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352135A_3585315240_0_20261008T000804282Z_88_imageprocessorclient-tvplus-linear-6b56cc9f55-f5r8j.jpeg" />
+<programme channel="US4300005KC" start="20261113043808 +0000" stop="20261113073700 +0000">
+    <title>The Hunger Games</title>
+    <sub-title>The Ballad of Songbirds and Snakes</sub-title>
+    <desc>A young Coriolanus Snow battles his instincts for both good and evil in the 10th Hunger Games.</desc>
+    <category lang="en">Movies</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3552773765_0_20261001T061040959Z_57_imageprocessorclient-tvplus-linear-6b56cc9f55-b6b8l.jpeg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+<programme channel="US4300005KC" start="20261113073700 +0000" stop="20261113102245 +0000">
+    <title>The Hunger Games</title>
+    <desc>Based on the best-selling book, 16-year-old Katniss volunteers to take her sister's place in the Hunger Games.</desc>
+    <category lang="en">Movies</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_536546486_0_20231225T003811196Z_107.jpeg" />
     <rating>
       <value>PG-13</value>
     </rating>
@@ -70,24 +83,6 @@
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352135A_3585320406_0_20261008T000801856Z_1_imageprocessorclient-tvplus-linear-6b56cc9f55-f5r8j.jpeg" />
     <rating>
       <value>PG-13</value>
-    </rating>
-  </programme>
-<programme channel="US300068X7" start="20261113042453 +0000" stop="20261113044947 +0000">
-    <title>FOS_Replay_20261111</title>
-    <desc>FOS_Replay_20261111</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2766120836_0_20260408T170614212Z_1_imageprocessorclient-tvplus-linear-796646965d-s5xsw.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-<programme channel="US300068X7" start="20261113044947 +0000" stop="20261113063907 +0000">
-    <title>Troop Beverly Hills (1989)</title>
-    <desc>Shelley Long stars as a spoiled Beverly Hills resident who does nothing but shop, prompting her husband to tell her he's fed up with her selfishness. To prove him wrong, she assumes leadership of Troop Beverly Hills in the Girl Scout-like Wilderness Girls organization.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1802828801_0_20250806T185350893Z_49_imageprocessorclient-tvplus-linear-d7c8c765b-7g8cm.jpeg" />
-    <rating>
-      <value>PG</value>
     </rating>
   </programme>
 <programme channel="US300068X7" start="20261113063907 +0000" stop="20261113090000 +0000">
@@ -106,56 +101,6 @@
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2766120836_0_20260408T170614212Z_1_imageprocessorclient-tvplus-linear-796646965d-s5xsw.jpeg" />
     <rating>
       <value>NA</value>
-    </rating>
-  </programme>
-<programme channel="USBB36000040M" start="20261113034737 +0000" stop="20261113044151 +0000">
-    <title>Murdered at First Sight</title>
-    <sub-title>A Senseless Act</sub-title>
-    <desc>Lauren Landavazo and her best friend are walking home from school in Texas. Meanwhile, Kody Lott, a local loner who's become infatuated with Lauren having watched her for months, is getting ready to ensure that if he can't have her no one can.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2712909633_5_20260327T005205861Z_3_imageprocessorclient-tvplus-linear-796646965d-fjzp5.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="USBB36000040M" start="20261113044151 +0000" stop="20261113053644 +0000">
-    <title>Crime Stories</title>
-    <sub-title>The Russians Are Killing</sub-title>
-    <desc>A real estate meeting turns deadly in a Russian-led kidnap scheme.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2350324700_1_20251230T011741813Z_138_imageprocessorclient-tvplus-linear-584c967455-nmqz5.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="USBB36000040M" start="20261113053644 +0000" stop="20261113063126 +0000">
-    <title>Crime Stories</title>
-    <sub-title>A Way With Murder</sub-title>
-    <desc>A serial spousal killer hides behind staged suicides for years.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2350324700_1_20251230T011741813Z_138_imageprocessorclient-tvplus-linear-584c967455-nmqz5.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="USBB36000040M" start="20261113063126 +0000" stop="20261113065542 +0000">
-    <title>Killer Mysteries</title>
-    <sub-title>Nameless in New Jersey</sub-title>
-    <desc>The discovery of a Jane Doe underneath a New Jersey bridge kick starts an intensive investigation to figure out who she is and how she died. Law enforcement use a combination of forensic evidence and eyewitnesses to solve the mystery and bring a murderer to justice.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2395387221_0_20260109T045742778Z_72_imageprocessorclient-tvplus-linear-584c967455-p9wk7.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="USBB36000040M" start="20261113065542 +0000" stop="20261113071957 +0000">
-    <title>Killer Mysteries</title>
-    <sub-title>Targeted Teacher</sub-title>
-    <desc>The murder of a respected college professor sends shockwaves through suburban Richmond, Virginia. Cops investigate the homicide nonstop until evidence reveals a cold-blooded killer's premeditated plot.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2395387221_0_20260109T045742778Z_72_imageprocessorclient-tvplus-linear-584c967455-p9wk7.jpeg" />
-    <rating>
-      <value>TV-14</value>
     </rating>
   </programme>
 <programme channel="USBB36000040M" start="20261113071957 +0000" stop="20261113074412 +0000">
@@ -198,42 +143,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme channel="USAK3508703A" start="20261113040423 +0000" stop="20261113043214 +0000">
-    <title>Court Cam</title>
-    <desc>An overdose in a court bathroom  an arsonist loses his cool.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3222789876_0_20260721T154059758Z_27_imageprocessorclient-tvplus-linear-9468c5484-4j58d.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="USAK3508703A" start="20261113043214 +0000" stop="20261113050000 +0000">
-    <title>Court Cam</title>
-    <desc>A daring escape gone horribly wrong  an armed judge caught on camera.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3222789876_0_20260721T154059758Z_27_imageprocessorclient-tvplus-linear-9468c5484-4j58d.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="USAK3508703A" start="20261113050000 +0000" stop="20261113055118 +0000">
-    <title>Accused: Guilty or Innocent?</title>
-    <desc>A former NFL player and his wife are shot dead in Houston while they sleep.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3226490591_0_20260722T150851921Z_88_imageprocessorclient-tvplus-linear-9468c5484-rnd87.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="USAK3508703A" start="20261113055118 +0000" stop="20261113064235 +0000">
-    <title>Accused: Guilty or Innocent?</title>
-    <desc>Two parents are shot dead as they sleep, and the legal battle deepens.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3226490591_0_20260722T150851921Z_88_imageprocessorclient-tvplus-linear-9468c5484-rnd87.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme channel="USAK3508703A" start="20261113064235 +0000" stop="20261113073352 +0000">
     <title>Accused: Guilty or Innocent?</title>
     <desc>A man suffers a violent beating by his ex-wife's new partner.</desc>
@@ -266,76 +175,6 @@
     <desc>A young father stabs another driver to death during a road rage incident.</desc>
     <category lang="en">True Crime</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3226490591_0_20260722T150851921Z_88_imageprocessorclient-tvplus-linear-9468c5484-rnd87.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="US2001109K" start="20261113041546 +0000" stop="20261113043957 +0000">
-    <title>Killer Mysteries</title>
-    <sub-title>Murder by Tea Cup</sub-title>
-    <desc>Alexander Litvinenko is an exiled spy who is poisoned by Russian federal agents, is the Kremlin actually behind the attack?</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2395387559_0_20260109T045742351Z_57_imageprocessorclient-tvplus-linear-584c967455-p9wk7.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="US2001109K" start="20261113043957 +0000" stop="20261113050409 +0000">
-    <title>Killer Mysteries</title>
-    <sub-title>A TV Icon Accused of Murder</sub-title>
-    <desc>TV icon Robert Blake is accused of murdering his second wife, Bonnie Lee Bakley. After the trial is over, several questions still remain.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2395387559_0_20260109T045742351Z_57_imageprocessorclient-tvplus-linear-584c967455-p9wk7.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="US2001109K" start="20261113050409 +0000" stop="20261113052821 +0000">
-    <title>Killer Mysteries</title>
-    <sub-title>Mass Murder in the Ukraine</sub-title>
-    <desc>The 'Beast of Ukraine' has murdered at least 52 people. He claims he kills due to voices in his head. Plus, it's the most lucrative instance of insider trading when a stock trader is getting ‘tips' on a promising experimental Alzheimer drug.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2395387559_0_20260109T045742351Z_57_imageprocessorclient-tvplus-linear-584c967455-p9wk7.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="US2001109K" start="20261113052821 +0000" stop="20261113055233 +0000">
-    <title>Killer Mysteries</title>
-    <sub-title>A Designer Murder</sub-title>
-    <desc>Andrew Cunanan is on the FBI's most wanted list after a killing spree that ends with the death of fashion icon, Gianni Versace. Plus, Tyco's top brass pilfers hundreds of millions from the company through illegal bonuses, stock inflation and loan forgiveness to themselves.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2395387559_0_20260109T045742351Z_57_imageprocessorclient-tvplus-linear-584c967455-p9wk7.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="US2001109K" start="20261113055233 +0000" stop="20261113061645 +0000">
-    <title>Killer Mysteries</title>
-    <sub-title>The Starlet Murder</sub-title>
-    <desc>A young actress lands her big break in Hollywood, but her dreams are cut short when an obsessed fan fatally shoots her. Plus, when New York's elite need an escort they go to her. Meet 'The Mayflower Madam.'</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2395387559_0_20260109T045742351Z_57_imageprocessorclient-tvplus-linear-584c967455-p9wk7.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="US2001109K" start="20261113061645 +0000" stop="20261113064056 +0000">
-    <title>Killer Mysteries</title>
-    <sub-title>A Death in Staten Island</sub-title>
-    <desc>Eric Garner, a Staten Island father of six, is tragically killed when an NYPD officer puts Garner, into an illegal chokehold. Plus, Kevin Mitnick is one of the most famous hackers of all time. So famous, in fact, he's hunted by the FBI.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2395387559_0_20260109T045742351Z_57_imageprocessorclient-tvplus-linear-584c967455-p9wk7.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="US2001109K" start="20261113064056 +0000" stop="20261113070508 +0000">
-    <title>Killer Mysteries</title>
-    <sub-title>The War Criminal</sub-title>
-    <desc>A high ranking government official authorizes the arrests and subsequent deportations of over 1,400 Jews to Nazi concentration camps where most of them perish. Plus, Enron, the seventh largest company in America, collapses due to creative accounting practices and greed that leave the company broke.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2395387559_0_20260109T045742351Z_57_imageprocessorclient-tvplus-linear-584c967455-p9wk7.jpeg" />
     <rating>
       <value>TV-14</value>
     </rating>
@@ -400,36 +239,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme channel="USBC1000002NP" start="20261113035829 +0000" stop="20261113045052 +0000">
-    <title>World's Most Evil Killers</title>
-    <sub-title>Velma Barfield</sub-title>
-    <desc>Velma Barfield became the first woman to be executed by lethal injection after taking six lives.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550791291_20_20241113T060450720Z_119_imageprocessorclient-tvplus-linear-5dc4fd45f6-prfs6.jpeg" />
-    <rating>
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-<programme channel="USBC1000002NP" start="20261113045052 +0000" stop="20261113054521 +0000">
-    <title>World's Most Evil Killers</title>
-    <sub-title>Charlotte and Linda Mulhall</sub-title>
-    <desc>In March 2005, the gardaí recovered human body parts from the Royal Canal in Dublin.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550791291_20_20241113T060450720Z_119_imageprocessorclient-tvplus-linear-5dc4fd45f6-prfs6.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="USBC1000002NP" start="20261113054521 +0000" stop="20261113063808 +0000">
-    <title>World's Most Evil Killers</title>
-    <sub-title>Chester Turner</sub-title>
-    <desc>The story of the serial killer who took the lives of eleven people during a decade-long murder campaign.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550791291_20_20241113T060450720Z_119_imageprocessorclient-tvplus-linear-5dc4fd45f6-prfs6.jpeg" />
-    <rating>
-      <value>TV-MA</value>
-    </rating>
-  </programme>
 <programme channel="USBC1000002NP" start="20261113063808 +0000" stop="20261113073121 +0000">
     <title>World's Most Evil Killers</title>
     <sub-title>John Shaw and Geoffrey Evans</sub-title>
@@ -466,60 +275,6 @@
     <desc>Todd Kohlhepp was a serial killer who murdered seven people over a thirteen year period.</desc>
     <category lang="en">True Crime</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550791291_20_20241113T060450720Z_119_imageprocessorclient-tvplus-linear-5dc4fd45f6-prfs6.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="USBA300019WF" start="20261113040000 +0000" stop="20261113043000 +0000">
-    <title>A Little Romance</title>
-    <desc>Phil (Donald Faison) uses Holly's assistant to help him land a star jockey as a client, but he's got his eyes on a bigger prize. Haskell (Wayne Knight)  talks Stuart into selling sentimental mementos from his marriage but Stuart has trouble letting go.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352135A_570256870_0_20241220T165907217Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-qtwlw.jpeg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme channel="USBA300019WF" start="20261113043000 +0000" stop="20261113050000 +0000">
-    <title>Lutz And The Real Girl</title>
-    <desc>Haskell (Wayne Knight) panics when his online girlfriend surprises him with a visit because he used Phil's (Donald Faison) picture as his own.  Holly discovers a homeless man in the laundry room and learns appearances can be very deceiving.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352135A_590859977_0_20241224T225706474Z_63_imageprocessorclient-tvplus-linear-5dc4fd45f6-m4dpr.png" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme channel="USBA300019WF" start="20261113050000 +0000" stop="20261113053000 +0000">
-    <title>An Inconvenient Tooth</title>
-    <desc>Stuart's (David Alan Basche) work life is turned upside down when Phil (Donald Faison) sleeps with his dental assistant.  Holly (Kristen Johnston) lends Eden (Kelly Stables) some outfits and soon discovers her clothes have a better social life than her.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352135A_590857791_0_20241224T225706474Z_48_imageprocessorclient-tvplus-linear-5dc4fd45f6-m4dpr.png" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme channel="USBA300019WF" start="20261113053000 +0000" stop="20261113060000 +0000">
-    <title>My Dinner With Phil</title>
-    <desc>When Stuart's favorite restaurant is about to close, he takes Phil along for one last meal, only to bump into Phil's ex-wife who is now engaged. Holly is baffled by mixed signals from a cute co-worker. Haskell starts an online traffic school</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352135A_595604531_0_20241225T225205460Z_71_imageprocessorclient-tvplus-linear-5dc4fd45f6-qbw2m.png" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme channel="USBA300019WF" start="20261113060000 +0000" stop="20261113063000 +0000">
-    <title>Ddong Chim</title>
-    <desc>Jung draws the wrong kind of attention from his boss when he gives Kimchee a Korean wedgie at work. Mr. Kim commissions Janet's friend Gerald to take his photo instead of asking Janet.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352135A_553373811_29_20241217T070206800Z_30_imageprocessorclient-tvplus-linear-5dc4fd45f6-ftks4.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="USBA300019WF" start="20261113063000 +0000" stop="20261113070000 +0000">
-    <title>Frank and Nayoung</title>
-    <desc>Mr. Kim is frustrated with Frank, a repairman who talks too much, while Janet's cousin Nayoung visits from Korea, challenging Janet's sense of what it means to 'be Korean.'</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352135A_553375796_14_20241217T070209490Z_110_imageprocessorclient-tvplus-linear-5dc4fd45f6-7xngg.jpeg" />
     <rating>
       <value>TV-14</value>
     </rating>
@@ -569,54 +324,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme channel="USAJ30000039U" start="20261113035657 +0000" stop="20261113044405 +0000">
-    <title>Karen Rontowski</title>
-    <sub-title>Ridiculous Me</sub-title>
-    <desc>Karen Rontowski's fast-paced, quirky and charmingly optimistic comedy has been featured in clubs, TV, radio, and at corporate events all around the world. Her stand- up showcases endearing, self-effacing and intelligent characters that catch you by surprise every time. Karen uniquely blends comedy with her experience as a Paranormal Investigator and Reiki master. From fun with her family to her travels all over this great country Karen has fun where ever she goes. Her lighthearted confusion entertains kids of all ages. She is fascinated with the “afterlife” is convinced she will someday have a near death experience because, “I never finish anything.” She explains, “Sometimes a ghost will just do the same thing over and over in life. That's why I want to move into a house that is haunted by a maid." Karen's comedy is now featured in the new line of greeting cards called “Frank and Funny” sold at Target stores everywhere and is the comedy writer for “Haunted Magazine.” She is a regular on the Bob and Tom Radio Show and is a featured performer on their CD. Karen has appeared on The Late Show with David Letterman, Sirius Satellite Radio, Comics Unleashed, Comedy.com, Live at Gotham and Comedy Central. She has opened for show biz legends including Bob Hope, Ray Charles, David Brenner and the Monkees.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352137A_1078689679_0_20250330T014358209Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-8r4fl.png" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme channel="USAJ30000039U" start="20261113044405 +0000" stop="20261113051814 +0000">
-    <title>Nikki Carr: I Wish These Were Jokes.</title>
-    <desc>Nikki Carr is 57 and feeling great. After all, she's got the career where all you have to do is be yourself and have a good time . . . two things she subsequently gave up for her goal weight.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352137A_1078689679_0_20250330T014358209Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-8r4fl.png" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme channel="USAJ30000039U" start="20261113051814 +0000" stop="20261113054925 +0000">
-    <title>Heath Harmison: Comedy in COVID</title>
-    <desc>Heath Harmison provides the people relief during these trying times</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352137A_1078689679_0_20250330T014358209Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-8r4fl.png" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme channel="USAJ30000039U" start="20261113054925 +0000" stop="20261113063029 +0000">
-    <title>Spencer James</title>
-    <sub-title>Bullies are Necessary</sub-title>
-    <desc>Spencer has performed all over North America, he has won festivals, and he was recently featured on Fox's television show “Laughs.”  Yet now, with the title as a Las Vegas headliner, he brings all of his talents to the stage for a once in a generation experience.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352137A_1078689679_0_20250330T014358209Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-8r4fl.png" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme channel="USAJ30000039U" start="20261113063029 +0000" stop="20261113071744 +0000">
-    <title>Kellen Erskine</title>
-    <sub-title>Composed</sub-title>
-    <desc>Kellen Erskine was featured on season 7 of NBC's America's Got Talent. His jokes have appeared in many publications including the Reader's Digest. Kellen has been a finalist of both the San Francisco International Comedy Competition and the Great American Comedy Festival. This year he performed at the prestigious Bridgetown Comedy Festival in Portland, Oregon. Kellen opens regularly for Frank Caliendo of FOX's NFL Sunday.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352137A_1078689679_0_20250330T014358209Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-8r4fl.png" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
 <programme channel="USAJ30000039U" start="20261113071744 +0000" stop="20261113074535 +0000">
     <title>Dry Bar Comedy</title>
     <sub-title>S6 E660</sub-title>
@@ -647,36 +354,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme channel="US4700029QM" start="20261113040244 +0000" stop="20261113050254 +0000">
-    <title>Gotham Comedy Live</title>
-    <sub-title>Judah Friedlander</sub-title>
-    <desc>Judah Friedlander hosts a hilarious hour of stand-up at New York's legendary Gotham Comedy Club. Don't miss Judah, Andy Hendrickson, Ruperto Vanderpool, Jena Friedman and Fahim Anwar for a night of over-the-top comedy.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2526457988_18_20260210T164700576Z_95_imageprocessorclient-tvplus-linear-584c967455-b7vn5.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="US4700029QM" start="20261113050254 +0000" stop="20261113060305 +0000">
-    <title>Gotham Comedy Live</title>
-    <sub-title>Jim Breuer</sub-title>
-    <desc>Jim Breuer brings his insane brand of comedy to the stage at New York's Gotham Comedy Club. Don't miss the man Comedy Central calls one of the "100 Greatest Stand-Ups of All Time" along with SNL alum Dean Edwards and Ashley Austin Morris.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2526457988_18_20260210T164700576Z_95_imageprocessorclient-tvplus-linear-584c967455-b7vn5.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="US4700029QM" start="20261113060305 +0000" stop="20261113070213 +0000">
-    <title>Gotham Comedy Live</title>
-    <sub-title>Tim Meadows</sub-title>
-    <desc>Tim Meadows hosts a night of outrageous unedited stand-up. Don't miss the Ladies Man along with comedians Sean Savoy, Leah Bonnema, Erik Myers and Wali Collins in a performance live from New York's Gotham Comedy Club.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2526457988_18_20260210T164700576Z_95_imageprocessorclient-tvplus-linear-584c967455-b7vn5.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme channel="US4700029QM" start="20261113070213 +0000" stop="20261113080237 +0000">
     <title>Gotham Comedy Live</title>
     <sub-title>Harry Anderson</sub-title>
@@ -703,36 +380,6 @@
     <desc>Paula Poundstone takes on the media in a hour of stand-up live from New York's Gotham Comedy Club. Come see Poundstone as she's joined by Daniel Crow, Joe Pontillo, Jermaine Warren and Greg Stone.</desc>
     <category lang="en">Comedy</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2526457988_18_20260210T164700576Z_95_imageprocessorclient-tvplus-linear-584c967455-b7vn5.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="USBC1300012VK" start="20261113040852 +0000" stop="20261113050356 +0000">
-    <title>Most Haunted</title>
-    <sub-title>WIER_MILL</sub-title>
-    <desc>This textile mill is haunted by child ghosts and a 7ft wraith from a satanic ritual. One team member must leave early.</desc>
-    <category lang="en">Paranormal</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2749319267_2_20260404T165820103Z_98_imageprocessorclient-tvplus-linear-796646965d-s5xsw.jpeg" />
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
-<programme channel="USBC1300012VK" start="20261113050356 +0000" stop="20261113055459 +0000">
-    <title>Z Nation</title>
-    <sub-title>Escape from Zona</sub-title>
-    <desc>Driven by her dream of a black rainbow and flesh-eating rain, Warren and Murphy escape Zona, while Doc, 10K and Sarge are pinned down by snipers.</desc>
-    <category lang="en">Paranormal</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2596159272_1_20260227T003728784Z_1_imageprocessorclient-tvplus-linear-584c967455-tgbhs.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="USBC1300012VK" start="20261113055459 +0000" stop="20261113064632 +0000">
-    <title>Z Nation</title>
-    <sub-title>The Vanishing</sub-title>
-    <desc>When Sun Mei and Red vanish, the group must decide whether to keep looking for them or press on to Newmerica.</desc>
-    <category lang="en">Paranormal</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2596159272_1_20260227T003728784Z_1_imageprocessorclient-tvplus-linear-584c967455-tgbhs.jpeg" />
     <rating>
       <value>TV-14</value>
     </rating>
@@ -777,36 +424,6 @@
       <value>NA</value>
     </rating>
   </programme>
-<programme channel="US200111SU" start="20261113041732 +0000" stop="20261113050818 +0000">
-    <title>Van Helsing</title>
-    <sub-title>Outside World</sub-title>
-    <desc>Vanessa, trapped in an abandoned slaughterhouse, wrestles between the light and dark sides of her own self before she can move forward on her path to find the Final Elder.</desc>
-    <category lang="en">Sci-Fi</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2395387369_0_20260109T045742381Z_32_imageprocessorclient-tvplus-linear-584c967455-p9wk7.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="US200111SU" start="20261113050818 +0000" stop="20261113055905 +0000">
-    <title>Van Helsing</title>
-    <sub-title>Been Away</sub-title>
-    <desc>In his hometown, Axel fights both his tragic past and a vicious pack of Daywalkers. Sam can't find Mohamad, and takes his anger out on Chad and Mike.</desc>
-    <category lang="en">Sci-Fi</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2395387369_0_20260109T045742381Z_32_imageprocessorclient-tvplus-linear-584c967455-p9wk7.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="US200111SU" start="20261113055905 +0000" stop="20261113064953 +0000">
-    <title>Van Helsing</title>
-    <sub-title>Christ Pose</sub-title>
-    <desc>Scarlett is reunited with Axel but he is badly injured before they can find Vanessa. A mysterious man helps them find their way. Flesh and Jolene are fugitives on the run from Blaktek.</desc>
-    <category lang="en">Sci-Fi</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2395387369_0_20260109T045742381Z_32_imageprocessorclient-tvplus-linear-584c967455-p9wk7.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme channel="US200111SU" start="20261113064953 +0000" stop="20261113074040 +0000">
     <title>Van Helsing</title>
     <sub-title>Birth Ritual</sub-title>
@@ -837,36 +454,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme channel="US4200004KK" start="20261113040932 +0000" stop="20261113050000 +0000">
-    <title>Ghost Stories</title>
-    <sub-title>(Classics): 20 Most Evil Entities</sub-title>
-    <desc>Cindy Williams chased by a black magic smoke monster.</desc>
-    <category lang="en">Paranormal</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2045047599_0_20251015T234121557Z_35_imageprocessorclient-tvplus-linear-d7c8c765b-7srrw.jpeg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme channel="US4200004KK" start="20261113050000 +0000" stop="20261113054941 +0000">
-    <title>My Ghost Story</title>
-    <sub-title>Caught on Camera: Episode 39</sub-title>
-    <desc>Glowing entity with horns surprises investigators  entities haunt former hospital.</desc>
-    <category lang="en">Paranormal</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2194843504_0_20251123T042514990Z_21_imageprocessorclient-tvplus-linear-584c967455-nhhtv.jpeg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme channel="US4200004KK" start="20261113054941 +0000" stop="20261113064224 +0000">
-    <title>My Ghost Story</title>
-    <sub-title>The Demon in the Mist</sub-title>
-    <desc>A phantom breaches security at a South Carolina government building.</desc>
-    <category lang="en">Paranormal</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2045047606_0_20251015T234127781Z_22_imageprocessorclient-tvplus-linear-d7c8c765b-7srrw.jpeg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
 <programme channel="US4200004KK" start="20261113064224 +0000" stop="20261113073516 +0000">
     <title>My Ghost Story</title>
     <sub-title>The Face in the Window</sub-title>
@@ -895,15 +482,6 @@
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2045047606_0_20251015T234127781Z_22_imageprocessorclient-tvplus-linear-d7c8c765b-7srrw.jpeg" />
     <rating>
       <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme channel="USAJ17000014C" start="20261113041803 +0000" stop="20261113060633 +0000">
-    <title>The 6th Friend</title>
-    <desc>After their graduation party went wrong, friends reunite - but an uninvited guest brings horror and bloodshed.</desc>
-    <category lang="en">Sci-Fi</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2296911285_0_20251217T222444790Z_165_imageprocessorclient-tvplus-linear-584c967455-b7vn5.jpeg" />
-    <rating>
-      <value>TV-14</value>
     </rating>
   </programme>
 <programme channel="USAJ17000014C" start="20261113060633 +0000" stop="20261113075539 +0000">
