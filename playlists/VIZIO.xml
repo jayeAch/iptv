@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-<channel id="vizio.FEATURED5">
-    <display-name>The Hunger Games 5 - Film Collection</display-name>
-    <icon src="https://images.vizio.com/v4/btv/1/200885042811660630/1/267/150/0.jpg"/>
-  </channel>
 <channel id="vizio.149station_1648">
     <display-name>Great Comedy</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/818745074072492974/1/267/150/0.jpg"/>
@@ -23,6 +19,10 @@
 <channel id="vizio.93VZONO2">
     <display-name>FREE Holiday Movies</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/3484385198252894014/1/267/150/0.jpg"/>
+  </channel>
+<channel id="vizio.93amg00353c53">
+    <display-name>The Hunger Games 5 - Film Collection</display-name>
+    <icon src="https://images.vizio.com/v4/btv/1/200885042811660630/1/267/150/0.jpg"/>
   </channel>
 <channel id="vizio.96Station_88885570">
     <display-name>Xumo Free Sci-Fi &amp; Fantasy Movies</display-name>
@@ -44,10 +44,6 @@
     <display-name>Grit XTRA</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/1646485706/1/267/150/0.jpg"/>
   </channel>
-<channel id="vizio.93AMG02451C1ENG">
-    <display-name>The Three Stooges+</display-name>
-    <icon src="https://images.vizio.com/v4/btv/1/1652535931/1/267/150/0.jpg"/>
-  </channel>
 <channel id="vizio.93amg00136c49">
     <display-name>I Was Haunted</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/1736246022/1/267/150/0.jpg"/>
@@ -56,126 +52,6 @@
     <display-name>Alien Nation</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/1651153505/1/267/150/0.jpg"/>
   </channel>
-<programme start="20261112213000 +0000" stop="20261112220000 +0000" channel="vizio.149station_1648">
-    <title lang="en">The Jeffersons</title>
-    <desc lang="en">Louise's diamond could cost George his life when he vows to risk anything to get it back.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205165691753,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S08E820</episode-num>
-    <episode-num system="xmltv_ns">7.819.</episode-num>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
-<programme start="20261112220000 +0000" stop="20261112223000 +0000" channel="vizio.149station_1648">
-    <title lang="en">The Jeffersons</title>
-    <desc lang="en">Florence's choir singing has attracted the ears of a smooth-talking record producer who tantalizes her.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205165691755,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S08E821</episode-num>
-    <episode-num system="xmltv_ns">7.820.</episode-num>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
-<programme start="20261112223000 +0000" stop="20261112230000 +0000" channel="vizio.149station_1648">
-    <title lang="en">The Jeffersons</title>
-    <desc lang="en">Louise and Helen are convinced their efforts at the community help center are useless,.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205165691752,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S08E822</episode-num>
-    <episode-num system="xmltv_ns">7.821.</episode-num>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
-<programme start="20261112230000 +0000" stop="20261112233000 +0000" channel="vizio.149station_1648">
-    <title lang="en">Diff'rent Strokes</title>
-    <desc lang="en">Clarence Clemons guest stars as a music teacher who "backs up" Arnold after he claims to be a sax player.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205165691750,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S08E808</episode-num>
-    <episode-num system="xmltv_ns">7.807.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261112233000 +0000" stop="20261113000000 +0000" channel="vizio.149station_1648">
-    <title lang="en">Diff'rent Strokes</title>
-    <desc lang="en">Father and son are feuding when an outraged Arnold objects to an organization speaking at school.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205165691751,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S08E809</episode-num>
-    <episode-num system="xmltv_ns">7.808.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261113000000 +0000" stop="20261113003000 +0000" channel="vizio.149station_1648">
-    <title lang="en">Diff'rent Strokes</title>
-    <desc lang="en">Arnold succumbs to peer pressure and boasts he went "all the way" with his girlfriend.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205165691754,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S08E810</episode-num>
-    <episode-num system="xmltv_ns">7.809.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261113003000 +0000" stop="20261113010000 +0000" channel="vizio.149station_1648">
-    <title lang="en">Good Times</title>
-    <desc lang="en">James runs into a family rebellion at election time when he and Florida support rival candidates.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205091743304,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S03E309</episode-num>
-    <episode-num system="xmltv_ns">2.308.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261113010000 +0000" stop="20261113013000 +0000" channel="vizio.149station_1648">
-    <title lang="en">Good Times</title>
-    <desc lang="en">Willona begins seeing a man who is deaf. While they have good times, they may want different futures.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205091743294,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S03E310</episode-num>
-    <episode-num system="xmltv_ns">2.309.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261113013000 +0000" stop="20261113020000 +0000" channel="vizio.149station_1648">
-    <title lang="en">Good Times</title>
-    <desc lang="en">When an expensive roast beef gives the family food poisoning, Florida decides to boycott the market.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205091743026,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S03E311</episode-num>
-    <episode-num system="xmltv_ns">2.310.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261113020000 +0000" stop="20261113023000 +0000" channel="vizio.149station_1648">
-    <title lang="en">Sanford and Son</title>
-    <desc lang="en">Fred succumbs to Donna's pressures and agrees to get married, but his family has other ideas.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205091742658,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S03E309</episode-num>
-    <episode-num system="xmltv_ns">2.308.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261113023000 +0000" stop="20261113030000 +0000" channel="vizio.149station_1648">
-    <title lang="en">Sanford and Son</title>
-    <desc lang="en">Fred donates a collection jazz albums to a music library, but regrets it when he finds they are worth $500.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205091742950,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S03E310</episode-num>
-    <episode-num system="xmltv_ns">2.309.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261113030000 +0000" stop="20261113033000 +0000" channel="vizio.149station_1648">
-    <title lang="en">Sanford and Son</title>
-    <desc lang="en">Lamont buys Fred a pool table for a birthday gift and Fred's buddies turn the Sanford home into a pool hall.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205091742804,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S03E311</episode-num>
-    <episode-num system="xmltv_ns">2.310.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
 <programme start="20261113033000 +0000" stop="20261113040000 +0000" channel="vizio.149station_1648">
     <title lang="en">The Jeffersons</title>
     <desc lang="en">Florence slips into a state of depression, convinced that she'll live the rest of her life single.</desc>
@@ -216,79 +92,202 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20261112205511 +0000" stop="20261112214627 +0000" channel="vizio.149station_888">
-    <title lang="en">Alien Corridors by Daniel Oron</title>
-    <sub-title lang="en">Washington State Coast</sub-title>
-    <desc lang="en">Washington state leads in UFO sightings per capita, prompting investigators to search for the unknown.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205112971508,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
+<programme start="20261113053000 +0000" stop="20261113060000 +0000" channel="vizio.149station_1648">
+    <title lang="en">The Steve Harvey Show</title>
+    <desc lang="en">Regina's last minute trip to New York leaves Steve having to throw a surprise baby shower for Lovita.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%2086835180,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S04E420</episode-num>
+    <episode-num system="xmltv_ns">3.419.</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261113060000 +0000" stop="20261113063000 +0000" channel="vizio.149station_1648">
+    <title lang="en">The Steve Harvey Show</title>
+    <desc lang="en">Regina hires an assistant to fill in for Lovita, but after Regina gives the homely girl a killer makeover.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%2086835180,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S04E420</episode-num>
+    <episode-num system="xmltv_ns">3.419.</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261113063000 +0000" stop="20261113070000 +0000" channel="vizio.149station_1648">
+    <title lang="en">Malcolm &amp; Eddie</title>
+    <desc lang="en">After filling in for a few minutes at the bar, Eddie is convinced that he can do Malcolm's job without missing a beat. And when told he could never replace Eddie at the garage, Malcolm bets his half of their tax refund that he can.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205091742640,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S02E207</episode-num>
+    <episode-num system="xmltv_ns">1.206.</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261113070000 +0000" stop="20261113073000 +0000" channel="vizio.149station_1648">
+    <title lang="en">Malcolm &amp; Eddie</title>
+    <desc lang="en">In order to keep Simone from going to work for a competitor, Malcolm agrees to re-do McGee's menu. Upon discovering that translating it into to French allows him to raise the prices and his profits, Malcolm couldn't be happier.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205091742270,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S02E208</episode-num>
+    <episode-num system="xmltv_ns">1.207.</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261113073000 +0000" stop="20261113080000 +0000" channel="vizio.149station_1648">
+    <title lang="en">The Steve Harvey Show</title>
+    <desc lang="en">Steve is a little too enthusiastic over Romeo, Bullethead, and Lydia's impending graduation.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%2086835180,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S04E420</episode-num>
+    <episode-num system="xmltv_ns">3.419.</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261113080000 +0000" stop="20261113083000 +0000" channel="vizio.149station_1648">
+    <title lang="en">The Steve Harvey Show</title>
+    <desc lang="en">Regina's new job in California forces Steve to make a big decision.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%2086835180,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S04E420</episode-num>
+    <episode-num system="xmltv_ns">3.419.</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261113083000 +0000" stop="20261113090000 +0000" channel="vizio.149station_1648">
+    <title lang="en">The Steve Harvey Show</title>
+    <desc lang="en">A musician whose career is on the decline gets a teaching job at a Chicago high school.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205103748972,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S01E101</episode-num>
+    <episode-num system="xmltv_ns">0.100.</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261113090000 +0000" stop="20261113093000 +0000" channel="vizio.149station_1648">
+    <title lang="en">The Steve Harvey Show</title>
+    <desc lang="en">As Cedric arrives looking for a new place to live, Steve must help Bullethead keep his dog out of the pound.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205103748976,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S01E102</episode-num>
+    <episode-num system="xmltv_ns">0.101.</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261113093000 +0000" stop="20261113100000 +0000" channel="vizio.149station_1648">
+    <title lang="en">Malcolm &amp; Eddie</title>
+    <desc lang="en">In preparation for the Kansas City 500, Eddie is helping his friend and champion stock car racer Rusty Shaeffer get ready. With Eddie in his corner, Rusty is certain he can beat rival Trevor Davis and take home his first ever national championship.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205091741294,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S02E209</episode-num>
+    <episode-num system="xmltv_ns">1.208.</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261113100000 +0000" stop="20261113103000 +0000" channel="vizio.149station_1648">
+    <title lang="en">Malcolm &amp; Eddie</title>
+    <desc lang="en">When Malcolm asks him to step in and coach his youth basketball team while he's away, Eddie complains about the team's losing record and turns him down.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205091742283,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S02E210</episode-num>
+    <episode-num system="xmltv_ns">1.209.</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261113103000 +0000" stop="20261113110000 +0000" channel="vizio.149station_1648">
+    <title lang="en">The Steve Harvey Show</title>
+    <desc lang="en">As he and Cedric struggle to work out their differences as roommates, Steve bets Regina that he can put together a school band on short notice.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205103748978,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S01E103</episode-num>
+    <episode-num system="xmltv_ns">0.102.</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261113110000 +0000" stop="20261113113000 +0000" channel="vizio.149station_1648">
+    <title lang="en">227</title>
+    <desc lang="en">Though Brenda's but a week away from her sixteenth birthday, a milestone marking newfound dating freedom, Mary refuses to bend the rules and allow her to accept Calvin's invitation to the party of the year.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205099904776,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S03E18</episode-num>
+    <episode-num system="xmltv_ns">2.17.</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261113113000 +0000" stop="20261113120000 +0000" channel="vizio.149station_1648">
+    <title lang="en">227</title>
+    <desc lang="en">When Brenda's grandfather gives her his treasured collector's blues recording, she accidentally scratches the record and learns first-hand what the blues are all about.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205099904786,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S03E19</episode-num>
+    <episode-num system="xmltv_ns">2.18.</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261113120000 +0000" stop="20261113123000 +0000" channel="vizio.149station_1648">
+    <title lang="en">227</title>
+    <desc lang="en">When Mary and Lester assume the role of temporary foster parents, they're horrified to find Sandra's erotic lifestyle rubbing off on the impressionable co-ed.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205099904779,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S03E20</episode-num>
+    <episode-num system="xmltv_ns">2.19.</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261113123000 +0000" stop="20261113130000 +0000" channel="vizio.149station_1648">
+    <title lang="en">What's Happening!!</title>
+    <desc lang="en">Dwayne gets a job in concessions at games and the owner wants him to handle all of the games all over town.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205096561154,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S03E14</episode-num>
+    <episode-num system="xmltv_ns">2.13.</episode-num>
     <rating>
       <value>TV-G</value>
     </rating>
   </programme>
-<programme start="20261112214627 +0000" stop="20261112223721 +0000" channel="vizio.149station_888">
-    <title lang="en">Alien Corridors by Daniel Oron</title>
-    <sub-title lang="en">UFO Special Report Why Are They Here?</sub-title>
-    <desc lang="en">Explore chilling otherworldly encounters and discover how widespread these incidents have become.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205112971950,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E09</episode-num>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
+<programme start="20261113130000 +0000" stop="20261113133000 +0000" channel="vizio.149station_1648">
+    <title lang="en">What's Happening!!</title>
+    <desc lang="en">Shirley has decided to ask Rob for a raise but he's decided to hire an additional waitress.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205098598734,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S03E15</episode-num>
+    <episode-num system="xmltv_ns">2.14.</episode-num>
     <rating>
       <value>TV-G</value>
     </rating>
   </programme>
-<programme start="20261112223721 +0000" stop="20261112234948 +0000" channel="vizio.149station_888">
-    <title lang="en">Bigfoot: Mountains of Mystery</title>
-    <sub-title lang="en">The Man Who Shot Bigfoot: The Justin Smeja Story</sub-title>
-    <desc lang="en">In 2010, Justin Smeja shot a Sasquatch, buried it, and sparked chaos across the Bigfoot community.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204670108389,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
+<programme start="20261113133000 +0000" stop="20261113140000 +0000" channel="vizio.149station_1648">
+    <title lang="en">What's Happening!!</title>
+    <desc lang="en">Rerun has one of Rob's hamburgers and suddenly becomes ill.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205098598729,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S03E16</episode-num>
+    <episode-num system="xmltv_ns">2.15.</episode-num>
     <rating>
-      <value>TV-14</value>
+      <value>TV-G</value>
     </rating>
   </programme>
-<programme start="20261112234948 +0000" stop="20261113004217 +0000" channel="vizio.149station_888">
-    <title lang="en">Evidence Of The Unexplained</title>
-    <sub-title lang="en">Episode 2</sub-title>
-    <desc lang="en">Einstein, ancient sites, and a buried German case fuel bold claims of alien contact across history.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204236362894,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
+<programme start="20261113140000 +0000" stop="20261113143000 +0000" channel="vizio.149station_1648">
+    <title lang="en">227</title>
+    <desc lang="en">When Mary's best high school chum, a successful television psychologist, pays her a visit, Mary feels somewhat inadequate when compared with her celebrity friend.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205101190221,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S03E21</episode-num>
+    <episode-num system="xmltv_ns">2.20.</episode-num>
     <rating>
-      <value>TV-14</value>
+      <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20261113004217 +0000" stop="20261113013506 +0000" channel="vizio.149station_888">
-    <title lang="en">Evidence Of The Unexplained</title>
-    <sub-title lang="en">Episode 3</sub-title>
-    <desc lang="en">From 1561 to 2020, shocking UFO cases and government blocks reveal a mystery that refuses to fade.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204315078782,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
+<programme start="20261113143000 +0000" stop="20261113150000 +0000" channel="vizio.149station_1648">
+    <title lang="en">227</title>
+    <desc lang="en">The tenants are thrilled when Rose hires a live-in handyman for some much needed repairs, only to find he's handier with the violin than the toolbox.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205101190219,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S03E22</episode-num>
+    <episode-num system="xmltv_ns">2.21.</episode-num>
     <rating>
-      <value>TV-14</value>
+      <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20261113013506 +0000" stop="20261113022748 +0000" channel="vizio.149station_888">
-    <title lang="en">Evidence Of The Unexplained</title>
-    <sub-title lang="en">Episode 4</sub-title>
-    <desc lang="en">Sea‑diving craft, Moon sightings, and bizarre wildlife falls point to a worldwide UFO pattern.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204236362899,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261113022748 +0000" stop="20261113032042 +0000" channel="vizio.149station_888">
-    <title lang="en">Alien Files: Reopened</title>
-    <sub-title lang="en">The Belgian UFO Wave</sub-title>
-    <desc lang="en">Thousands claim to see a massive triangular craft hovering over Belgium in the late 80s and early 90s.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204193533013,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
+<programme start="20261113150000 +0000" stop="20261113153000 +0000" channel="vizio.149station_1648">
+    <title lang="en">227</title>
+    <desc lang="en">Mary has a terrible time trying to be polite to Fox, who is rude and obnoxious yet potentially important to Lester's financial future.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205101190216,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S03E23</episode-num>
+    <episode-num system="xmltv_ns">2.22.</episode-num>
     <rating>
       <value>TV-PG</value>
     </rating>
@@ -326,92 +325,103 @@
       <value>TV-G</value>
     </rating>
   </programme>
-<programme start="20261112213231 +0000" stop="20261112222018 +0000" channel="vizio.93126">
-    <title lang="en">The Dead Files</title>
-    <sub-title lang="en">Last Call</sub-title>
-    <desc lang="en">Steve and Amy investigate violent paranormal activity at a Florida bar.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%202606070811,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S12E06</episode-num>
-    <episode-num system="xmltv_ns">11.5.</episode-num>
+<programme start="20261113055404 +0000" stop="20261113071314 +0000" channel="vizio.149station_888">
+    <title lang="en">Bigfoot: Beyond the Trail</title>
+    <sub-title lang="en">Searching for the Alaskan Sasquatch</sub-title>
+    <desc lang="en">The crew head to the Alaskan interior in search of evidence of the existence of Bigfoot.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204126642712,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S01E15</episode-num>
+    <episode-num system="xmltv_ns">0.14.</episode-num>
     <rating>
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261112222018 +0000" stop="20261112230805 +0000" channel="vizio.93126">
-    <title lang="en">The Dead Files</title>
-    <sub-title lang="en">Detox</sub-title>
-    <desc lang="en">A woman's sobriety is threatened by paranormal activity in North Carolina.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%202606070807,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S12E07</episode-num>
-    <episode-num system="xmltv_ns">11.6.</episode-num>
+<programme start="20261113071314 +0000" stop="20261113081246 +0000" channel="vizio.149station_888">
+    <title lang="en">Weird or What? with William Shatner</title>
+    <sub-title lang="en">Mysterious Vanishings</sub-title>
+    <desc lang="en">Baffling stories of people who disappeared without a trace.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205097540500,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S03E08</episode-num>
+    <episode-num system="xmltv_ns">2.7.</episode-num>
     <rating>
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261112230805 +0000" stop="20261112235553 +0000" channel="vizio.93126">
-    <title lang="en">The Dead Files</title>
-    <sub-title lang="en">Entangled</sub-title>
-    <desc lang="en">A family battles rampant paranormal activity in their Pennsylvania home.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%202606070809,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S12E08</episode-num>
-    <episode-num system="xmltv_ns">11.7.</episode-num>
+<programme start="20261113081246 +0000" stop="20261113091219 +0000" channel="vizio.149station_888">
+    <title lang="en">Weird or What? with William Shatner</title>
+    <sub-title lang="en">Weird Animal Behavior</sub-title>
+    <desc lang="en">Three stories about the supersensory power of animals.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205097449785,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S03E05</episode-num>
+    <episode-num system="xmltv_ns">2.4.</episode-num>
     <rating>
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261112235553 +0000" stop="20261113004340 +0000" channel="vizio.93126">
-    <title lang="en">The Dead Files</title>
-    <sub-title lang="en">Never Human</sub-title>
-    <desc lang="en">A couple's marriage is threatened by dark forces in New Philadelphia, Ohio.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%202606070808,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S12E09</episode-num>
-    <episode-num system="xmltv_ns">11.8.</episode-num>
+<programme start="20261113091219 +0000" stop="20261113095349 +0000" channel="vizio.149station_888">
+    <title lang="en">On the Trail of UFOs</title>
+    <sub-title lang="en">The Changing Face</sub-title>
+    <desc lang="en">Shannon journeys to Arizona to talk with a witness of the most well-known mass UFO sightings in history.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%203438154115,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261113095349 +0000" stop="20261113112722 +0000" channel="vizio.149station_888">
+    <title lang="en">On the Trail of UFOs</title>
+    <sub-title lang="en">Night Visitors</sub-title>
+    <desc lang="en">In the 1960s the cattle mutilation phenomenon became a widespread concern across the American west.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204341088313,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261113112722 +0000" stop="20261113123742 +0000" channel="vizio.149station_888">
+    <title lang="en">Dark Coast: Hunt for the Alaskan Bigfoot</title>
+    <sub-title lang="en">Rainforest Frontier</sub-title>
+    <desc lang="en">The crew broadens their search, exploring the wider Alaskan coastal rainforest.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204757914541,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
     <rating>
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261113004340 +0000" stop="20261113013127 +0000" channel="vizio.93126">
-    <title lang="en">The Dead Files</title>
-    <sub-title lang="en">Deadly Intruder</sub-title>
-    <desc lang="en">A dark entity threatens a couple's marriage in Watertown, WI.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%202644269644,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S12E10</episode-num>
-    <episode-num system="xmltv_ns">11.9.</episode-num>
+<programme start="20261113123742 +0000" stop="20261113140015 +0000" channel="vizio.149station_888">
+    <title lang="en">Sasquatch Unearthed: Mountain State Monsters</title>
+    <sub-title lang="en">The Sound of Terror</sub-title>
+    <desc lang="en">Audio collected across the state of West Virginia is discussed in this episode of Mountain State Monsters.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204323271614,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
     <rating>
-      <value>TV-14</value>
+      <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20261113013127 +0000" stop="20261113021915 +0000" channel="vizio.93126">
-    <title lang="en">The Dead Files</title>
-    <sub-title lang="en">The Visitors</sub-title>
-    <desc lang="en">Mysterious shadow figures threaten to tear a family apart in Coleraine, MN.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%202644269642,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S12E11</episode-num>
-    <episode-num system="xmltv_ns">11.10.</episode-num>
+<programme start="20261113140015 +0000" stop="20261113151244 +0000" channel="vizio.149station_888">
+    <title lang="en">Sasquatch Unearthed: Mountain State Monsters</title>
+    <sub-title lang="en">The Hunter Becomes Hunted</sub-title>
+    <desc lang="en">Deep in the darkened forests of West Virginia, a legend roams. Investigator Russ Jones tracks Bigfoot.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204313186339,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
     <rating>
-      <value>TV-14</value>
+      <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20261113021915 +0000" stop="20261113030901 +0000" channel="vizio.93126">
-    <title lang="en">The Dead Files</title>
-    <sub-title lang="en">The Craving</sub-title>
-    <desc lang="en">Ancient supernatural forces torment a retired cop's family in Tucson, AZ.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%202644270929,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S12E12</episode-num>
-    <episode-num system="xmltv_ns">11.11.</episode-num>
+<programme start="20261113151244 +0000" stop="20261113160552 +0000" channel="vizio.149station_888">
+    <title lang="en">Special Investigations</title>
+    <sub-title lang="en">Abductions</sub-title>
+    <desc lang="en">Three shocking alien abduction cases in the U.S. reveal terrifying testimony and evidence.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204731392002,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
     <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261113030901 +0000" stop="20261113035648 +0000" channel="vizio.93126">
-    <title lang="en">The Dead Files</title>
-    <sub-title lang="en">Damned in the Desert</sub-title>
-    <desc lang="en">Dark forces threaten a New Age couple's sanity and health in Arizona.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%202645948566,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S12E13</episode-num>
-    <episode-num system="xmltv_ns">11.12.</episode-num>
-    <rating>
-      <value>TV-14</value>
+      <value>TV-PG</value>
     </rating>
   </programme>
 <programme start="20261113035648 +0000" stop="20261113044435 +0000" channel="vizio.93126">
@@ -421,9 +431,6 @@
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%203099988949,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <episode-num system="onscreen">S13E01</episode-num>
     <episode-num system="xmltv_ns">12.0.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
   </programme>
 <programme start="20261113044435 +0000" stop="20261113053235 +0000" channel="vizio.93126">
     <title lang="en">The Dead Files</title>
@@ -432,259 +439,110 @@
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204923225015,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <episode-num system="onscreen">S13E02</episode-num>
     <episode-num system="xmltv_ns">12.1.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
   </programme>
-<programme start="20261112212310 +0000" stop="20261112214441 +0000" channel="vizio.93AMG02451C1ENG">
-    <title lang="en">Whoops, I'm an Indian</title>
-    <desc lang="en">Set in the old west,the Stooges are crooked gamblers.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205190412876,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>UR</value>
-    </rating>
+<programme start="20261113053235 +0000" stop="20261113062023 +0000" channel="vizio.93126">
+    <title lang="en">The Dead Files</title>
+    <sub-title lang="en">Marked for Death</sub-title>
+    <desc lang="en">A man-hating spirit turns an Arizona couple's dream home into a nightmare.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%203099993244,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S13E03</episode-num>
+    <episode-num system="xmltv_ns">12.2.</episode-num>
   </programme>
-<programme start="20261112214441 +0000" stop="20261112220452 +0000" channel="vizio.93AMG02451C1ENG">
-    <title lang="en">Love At First Bite</title>
-    <desc lang="en">The Stooges reminisce about the girls they met overseas.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205180968695,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>UR</value>
-    </rating>
+<programme start="20261113062023 +0000" stop="20261113070810 +0000" channel="vizio.93126">
+    <title lang="en">The Dead Files</title>
+    <sub-title lang="en">The Bone Collector</sub-title>
+    <desc lang="en">A ghostly skeleton man stalks the living in California.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%203102774683,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S13E04</episode-num>
+    <episode-num system="xmltv_ns">12.3.</episode-num>
   </programme>
-<programme start="20261112220452 +0000" stop="20261112222502 +0000" channel="vizio.93AMG02451C1ENG">
-    <title lang="en">Pest Man Wins</title>
-    <desc lang="en">The Stooges are pest exterminators.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205177698699,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>UR</value>
-    </rating>
+<programme start="20261113070810 +0000" stop="20261113075610 +0000" channel="vizio.93126">
+    <title lang="en">The Dead Files</title>
+    <sub-title lang="en">Shop of Horrors</sub-title>
+    <desc lang="en">Shadow figures and ghostly attacks plague a California costume shop.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%203102870819,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S13E05</episode-num>
+    <episode-num system="xmltv_ns">12.4.</episode-num>
   </programme>
-<programme start="20261112222502 +0000" stop="20261112224453 +0000" channel="vizio.93AMG02451C1ENG">
-    <title lang="en">Three Hams On Rye</title>
-    <desc lang="en">The Stooges are stagehands.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205179782727,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>UR</value>
-    </rating>
+<programme start="20261113075610 +0000" stop="20261113084358 +0000" channel="vizio.93126">
+    <title lang="en">The Dead Files</title>
+    <sub-title lang="en">The Demon's Quest</sub-title>
+    <desc lang="en">An explosion of demonic activity puts a family on edge in Oregon.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%203103543326,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S13E06</episode-num>
+    <episode-num system="xmltv_ns">12.5.</episode-num>
   </programme>
-<programme start="20261112224453 +0000" stop="20261112230436 +0000" channel="vizio.93AMG02451C1ENG">
-    <title lang="en">They Stooge To Conga</title>
-    <desc lang="en">The Stooges are repairmen who get a job fixing the doorbell.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205190412850,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>UR</value>
-    </rating>
+<programme start="20261113084358 +0000" stop="20261113093145 +0000" channel="vizio.93126">
+    <title lang="en">The Dead Files</title>
+    <sub-title lang="en">The Wanderer</sub-title>
+    <desc lang="en">A mysterious entity has deadly intentions towards a California family.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%203108596487,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S13E07</episode-num>
+    <episode-num system="xmltv_ns">12.6.</episode-num>
   </programme>
-<programme start="20261112230436 +0000" stop="20261112232414 +0000" channel="vizio.93AMG02451C1ENG">
-    <title lang="en">Pardon My Scotch</title>
-    <desc lang="en">The Stooges are running the local drugstore.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205190412838,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>UR</value>
-    </rating>
+<programme start="20261113093145 +0000" stop="20261113101933 +0000" channel="vizio.93126">
+    <title lang="en">The Dead Files</title>
+    <sub-title lang="en">They Come From the Hills</sub-title>
+    <desc lang="en">Sinister shadow figures target a once-happy family in Lake Elsinore, CA.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%203108797281,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S13E08</episode-num>
+    <episode-num system="xmltv_ns">12.7.</episode-num>
   </programme>
-<programme start="20261112232414 +0000" stop="20261112234421 +0000" channel="vizio.93AMG02451C1ENG">
-    <title lang="en">Mummy's Dummies</title>
-    <desc lang="en">Set in ancient Egypt,the Stooges run a used chariot lot.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205187701889,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>UR</value>
-    </rating>
+<programme start="20261113101933 +0000" stop="20261113110720 +0000" channel="vizio.93126">
+    <title lang="en">The Dead Files</title>
+    <sub-title lang="en">Shadowed Evil</sub-title>
+    <desc lang="en">An Iowa mom claims an evil shadow man is tearing her family apart.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%202958576745,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S13E09</episode-num>
+    <episode-num system="xmltv_ns">12.8.</episode-num>
   </programme>
-<programme start="20261112234421 +0000" stop="20261113000549 +0000" channel="vizio.93AMG02451C1ENG">
-    <title lang="en">Three Sappy People</title>
-    <desc lang="en">The Stooges are phone repairmen.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205189606475,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>UR</value>
-    </rating>
+<programme start="20261113110720 +0000" stop="20261113115507 +0000" channel="vizio.93126">
+    <title lang="en">The Dead Files</title>
+    <sub-title lang="en">Mortal Danger</sub-title>
+    <desc lang="en">Dark forces advance upon a terrified man and his mother in San Jose, CA.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%203112376605,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S13E10</episode-num>
+    <episode-num system="xmltv_ns">12.9.</episode-num>
   </programme>
-<programme start="20261113000549 +0000" stop="20261113002549 +0000" channel="vizio.93AMG02451C1ENG">
-    <title lang="en">Don't Throw That Knife</title>
-    <desc lang="en">The Stooges become census takers.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205182766714,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>UR</value>
-    </rating>
+<programme start="20261113115507 +0000" stop="20261113124255 +0000" channel="vizio.93126">
+    <title lang="en">The Dead Files</title>
+    <sub-title lang="en">The Deadly Picture Show</sub-title>
+    <desc lang="en">Sinister spirits threaten the staff at a Los Angeles movie theater.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%203128037449,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S13E11</episode-num>
+    <episode-num system="xmltv_ns">12.10.</episode-num>
   </programme>
-<programme start="20261113002549 +0000" stop="20261113004555 +0000" channel="vizio.93AMG02451C1ENG">
-    <title lang="en">Hugs And Mugs</title>
-    <desc lang="en">The Stooges run a furniture store.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205190412862,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>UR</value>
-    </rating>
+<programme start="20261113124255 +0000" stop="20261113133042 +0000" channel="vizio.93126">
+    <title lang="en">The Dead Files</title>
+    <sub-title lang="en">Death's Gallery</sub-title>
+    <desc lang="en">An evil presence lays siege on a museum and its employees California.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%203128037451,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S13E12</episode-num>
+    <episode-num system="xmltv_ns">12.11.</episode-num>
   </programme>
-<programme start="20261113004555 +0000" stop="20261113010721 +0000" channel="vizio.93AMG02451C1ENG">
-    <title lang="en">Movie Maniacs</title>
-    <desc lang="en">The Stooges arrive in Hollywood hoping to make it.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205182767586,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>UR</value>
-    </rating>
+<programme start="20261113133042 +0000" stop="20261113141829 +0000" channel="vizio.93126">
+    <title lang="en">The Dead Files</title>
+    <sub-title lang="en">Abducted</sub-title>
+    <desc lang="en">An interdimensional being puts a family in serious danger in Arizona.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%203108596492,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S13E13</episode-num>
+    <episode-num system="xmltv_ns">12.12.</episode-num>
   </programme>
-<programme start="20261113010721 +0000" stop="20261113012921 +0000" channel="vizio.93AMG02451C1ENG">
-    <title lang="en">Back From The Front</title>
-    <desc lang="en">Moe,Larry and Curly become sailors and go to sea.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205190412843,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>UR</value>
-    </rating>
+<programme start="20261113141829 +0000" stop="20261113150646 +0000" channel="vizio.93126">
+    <title lang="en">The Dead Files</title>
+    <sub-title lang="en">Victimville</sub-title>
+    <desc lang="en">A woman is terrified a deadly entity will strike again in her home.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%203395147666,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S14E01</episode-num>
+    <episode-num system="xmltv_ns">13.0.</episode-num>
   </programme>
-<programme start="20261113012921 +0000" stop="20261113015139 +0000" channel="vizio.93AMG02451C1ENG">
-    <title lang="en">If A Body Meets A Body</title>
-    <desc lang="en">Curly learns that he is named in the will of his rich uncle.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205187210071,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>UR</value>
-    </rating>
-  </programme>
-<programme start="20261113015139 +0000" stop="20261113021146 +0000" channel="vizio.93AMG02451C1ENG">
-    <title lang="en">Hot Stuff (1956)</title>
-    <desc lang="en">The Stooges are agents entrusted with protecting Sneed.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205188243467,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>UR</value>
-    </rating>
-  </programme>
-<programme start="20261113021146 +0000" stop="20261113023343 +0000" channel="vizio.93AMG02451C1ENG">
-    <title lang="en">Nutty But Nice</title>
-    <desc lang="en">The Stooges are singing waiters.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205189606487,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>UR</value>
-    </rating>
-  </programme>
-<programme start="20261113023343 +0000" stop="20261113025423 +0000" channel="vizio.93AMG02451C1ENG">
-    <title lang="en">Three Dark Horses</title>
-    <desc lang="en">A campaign boss is looking for three delegates.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205179218160,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>UR</value>
-    </rating>
-  </programme>
-<programme start="20261113025423 +0000" stop="20261113031453 +0000" channel="vizio.93AMG02451C1ENG">
-    <title lang="en">Corny Casanovas</title>
-    <desc lang="en">The Stooges don't know it,but they are all engaged to the same girl.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205186459091,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>UR</value>
-    </rating>
-  </programme>
-<programme start="20261113031453 +0000" stop="20261113033502 +0000" channel="vizio.93AMG02451C1ENG">
-    <title lang="en">For Crimin' Out Loud</title>
-    <desc lang="en">The Stooges are detectives hired to protect a politician.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205187209385,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>UR</value>
-    </rating>
-  </programme>
-<programme start="20261113033502 +0000" stop="20261113035527 +0000" channel="vizio.93AMG02451C1ENG">
-    <title lang="en">The Ghost Talks</title>
-    <desc lang="en">The Stooges are movers for an express company.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205186461939,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>UR</value>
-    </rating>
-  </programme>
-<programme start="20261113035527 +0000" stop="20261113041529 +0000" channel="vizio.93AMG02451C1ENG">
-    <title lang="en">Tricky Dicks</title>
-    <desc lang="en">The Stooges are policemen on the trail of a murderer.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205177691748,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>UR</value>
-    </rating>
-  </programme>
-<programme start="20261113041529 +0000" stop="20261113043751 +0000" channel="vizio.93AMG02451C1ENG">
-    <title lang="en">Squareheads Of The Round Table</title>
-    <desc lang="en">The Stooges help their friend Cedric the Blacksmith.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205190412829,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>UR</value>
-    </rating>
-  </programme>
-<programme start="20261113043751 +0000" stop="20261113045724 +0000" channel="vizio.93AMG02451C1ENG">
-    <title lang="en">Quiz Whizz</title>
-    <desc lang="en">Joe wins a contest and is fleeced out of his winnings.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205189606502,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>UR</value>
-    </rating>
-  </programme>
-<programme start="20261113045724 +0000" stop="20261113051719 +0000" channel="vizio.93AMG02451C1ENG">
-    <title lang="en">Self Made Maids</title>
-    <desc lang="en">The Stooges are artists who want to marry their models.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205187701939,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>UR</value>
-    </rating>
-  </programme>
-<programme start="20261112210000 +0000" stop="20261112220000 +0000" channel="vizio.93ELENO">
-    <title lang="en">The Messenger</title>
-    <sub-title lang="en">Episode 1</sub-title>
-    <desc lang="en">Ed is hardly the saviour- until one day, an accidental heroic act changes everything.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205172198847,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <rating>
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-<programme start="20261112220000 +0000" stop="20261112230000 +0000" channel="vizio.93ELENO">
-    <title lang="en">The Messenger</title>
-    <sub-title lang="en">Episode 2</sub-title>
-    <desc lang="en">The card is back, with it a gun.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205172198854,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <rating>
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-<programme start="20261112230000 +0000" stop="20261113000000 +0000" channel="vizio.93ELENO">
-    <title lang="en">The Messenger</title>
-    <sub-title lang="en">Episode 3</sub-title>
-    <desc lang="en">Ed puts his plan for Sophie into action.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205172199682,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <rating>
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-<programme start="20261113000000 +0000" stop="20261113010000 +0000" channel="vizio.93ELENO">
-    <title lang="en">The Messenger</title>
-    <sub-title lang="en">Episode 4</sub-title>
-    <desc lang="en">Ed manages to make amends with Father O’Reilly.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205172198849,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <rating>
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-<programme start="20261113010000 +0000" stop="20261113020000 +0000" channel="vizio.93ELENO">
-    <title lang="en">The Messenger</title>
-    <sub-title lang="en">Episode 5</sub-title>
-    <desc lang="en">After the arrival of the Ace of Spades, Ed begins to see the cards as his true calling.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205172198850,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <rating>
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-<programme start="20261113020000 +0000" stop="20261113030000 +0000" channel="vizio.93ELENO">
-    <title lang="en">The Messenger</title>
-    <sub-title lang="en">Episode 6</sub-title>
-    <desc lang="en">Ed realises his investment in the cards has done damage to his relationships.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205135169608,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <rating>
-      <value>TV-MA</value>
-    </rating>
+<programme start="20261113150646 +0000" stop="20261113155503 +0000" channel="vizio.93126">
+    <title lang="en">The Dead Files</title>
+    <sub-title lang="en">The Thing</sub-title>
+    <desc lang="en">A monstrous entity torments a terrified mother in her childhood home.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%203395148604,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S14E02</episode-num>
+    <episode-num system="xmltv_ns">13.1.</episode-num>
   </programme>
 <programme start="20261113030000 +0000" stop="20261113040000 +0000" channel="vizio.93ELENO">
     <title lang="en">The Messenger</title>
@@ -719,77 +577,133 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20261112203841 +0000" stop="20261112224638 +0000" channel="vizio.93VZAMCA">
-    <title lang="en">Any Bullet Will Do</title>
-    <desc lang="en">Taking place during 1876 in Montana, a ruthless headhunter tracks his own Brother through Big Sky country with the help of a young fur trapper.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204713392596,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-<programme start="20261112224638 +0000" stop="20261113013036 +0000" channel="vizio.93VZAMCA">
-    <title lang="en">The Legend Of Ben Hall</title>
-    <desc lang="en">After two years on the run, infamous outlaw Ben Hall reemerges to continue his crime spree and become the country's most wanted man.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204713392612,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+<programme start="20261113060000 +0000" stop="20261113070000 +0000" channel="vizio.93ELENO">
+    <title lang="en">Leverage</title>
+    <sub-title lang="en">The First David Job</sub-title>
+    <desc lang="en">The team targets the CEO of the company who denied Nate's son's medical treatment and allowed him to die.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205180630552,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S01E12</episode-num>
+    <episode-num system="xmltv_ns">0.11.</episode-num>
     <rating>
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20261113013036 +0000" stop="20261113025908 +0000" channel="vizio.93VZAMCA">
-    <title lang="en">The Outlaws</title>
-    <desc lang="en">In the Wild West, outlaws must unmask a thief who stole their loot, sparking a deadly showdown where trust is scarce and bullets fly.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204733449581,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+<programme start="20261113070000 +0000" stop="20261113090000 +0000" channel="vizio.93ELENO">
+    <title lang="en">Not My Life</title>
+    <desc lang="en">A woman with a perfect life begins to have visions that suggest she isn't who she thinks she is.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205175160926,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
-      <value>R</value>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+<programme start="20261113090000 +0000" stop="20261113100000 +0000" channel="vizio.93ELENO">
+    <title lang="en">The Ark</title>
+    <sub-title lang="en">It Can’t Be True</sub-title>
+    <desc lang="en">After an attempted murder, the crew work together to find out who’s responsible before it’s too late.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205180630575,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S02E07</episode-num>
+    <episode-num system="xmltv_ns">1.6.</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261113100000 +0000" stop="20261113110000 +0000" channel="vizio.93ELENO">
+    <title lang="en">The Ark</title>
+    <sub-title lang="en">We Don’t Kill Our Own</sub-title>
+    <desc lang="en">The Ark is under siege.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205180630570,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S02E08</episode-num>
+    <episode-num system="xmltv_ns">1.7.</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261113110000 +0000" stop="20261113120000 +0000" channel="vizio.93ELENO">
+    <title lang="en">The Librarians: The Next Chapter</title>
+    <sub-title lang="en">And the Ghost Train</sub-title>
+    <desc lang="en">The team races to stop a runaway ghost train before it unleashes destruction.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205168342428,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261113120000 +0000" stop="20261113130000 +0000" channel="vizio.93ELENO">
+    <title lang="en">The Librarians: The Next Chapter</title>
+    <sub-title lang="en">And the Thief of Love</sub-title>
+    <desc lang="en">In Paris, the team joins forces with Cupid to stop a magical artifact stealing hearts.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205168342429,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261113130000 +0000" stop="20261113140000 +0000" channel="vizio.93ELENO">
+    <title lang="en">Leverage Redemption</title>
+    <sub-title lang="en">The Work-Study Job</sub-title>
+    <desc lang="en">After a college professor steals a discovery from his grad student, the Leverage team has to take him down.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205175257431,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S02E10</episode-num>
+    <episode-num system="xmltv_ns">1.9.</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+<programme start="20261113140000 +0000" stop="20261113150000 +0000" channel="vizio.93ELENO">
+    <title lang="en">Leverage Redemption</title>
+    <sub-title lang="en">The Belly of the Beast Job</sub-title>
+    <desc lang="en">The team enlists the help of a naive but ambitious assistant to take down a predatory music producer.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205175257436,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S02E11</episode-num>
+    <episode-num system="xmltv_ns">1.10.</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+<programme start="20261113150000 +0000" stop="20261113170000 +0000" channel="vizio.93ELENO">
+    <title lang="en">Not My Life</title>
+    <desc lang="en">A woman with a perfect life begins to have visions that suggest she isn't who she thinks she is.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205175160926,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>PG-13</value>
     </rating>
   </programme>
 <programme start="20261113025908 +0000" stop="20261113044745 +0000" channel="vizio.93VZAMCA">
     <title lang="en">Wyatt Earp's Revenge</title>
     <desc lang="en">Wyatt Earp hunts down the ruthless Kenedy brothers to avenge his love, Dora Hand.</desc>
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204727803781,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>PG-13</value>
-    </rating>
   </programme>
 <programme start="20261113044745 +0000" stop="20261113073143 +0000" channel="vizio.93VZAMCA">
     <title lang="en">The Legend Of Ben Hall</title>
     <desc lang="en">After two years on the run, infamous outlaw Ben Hall reemerges to continue his crime spree and become the country's most wanted man.</desc>
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204713392612,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
   </programme>
-<programme start="20261112201032 +0000" stop="20261112215359 +0000" channel="vizio.93VZONO2">
-    <title lang="en">A Christmas Less Traveled</title>
-    <desc lang="en">As Desi faces the dilemma of selling her late father's beloved truck, a chance encounter with a handsome stranger leads to a transformative road trip where they find the courage to embrace the future.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205180505869,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-G</value>
-    </rating>
+<programme start="20261113073143 +0000" stop="20261113090015 +0000" channel="vizio.93VZAMCA">
+    <title lang="en">The Outlaws</title>
+    <desc lang="en">In the Wild West, outlaws must unmask a thief who stole their loot, sparking a deadly showdown where trust is scarce and bullets fly.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204733449581,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
   </programme>
-<programme start="20261112215359 +0000" stop="20261112234225 +0000" channel="vizio.93VZONO2">
-    <title lang="en">The Sons Of Mistletoe</title>
-    <desc lang="en">A foster home for boys is in danger of being closed when its benefactor dies.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205180505839,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-G</value>
-    </rating>
+<programme start="20261113090015 +0000" stop="20261113104851 +0000" channel="vizio.93VZAMCA">
+    <title lang="en">Wyatt Earp's Revenge</title>
+    <desc lang="en">Wyatt Earp hunts down the ruthless Kenedy brothers to avenge his love, Dora Hand.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204727803781,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
   </programme>
-<programme start="20261112234225 +0000" stop="20261113012745 +0000" channel="vizio.93VZONO2">
-    <title lang="en">A Holiday Heist</title>
-    <desc lang="en">Over Christmas break, a group of college students apprehend a heist by three bumbling thugs.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205156618033,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
+<programme start="20261113104851 +0000" stop="20261113125511 +0000" channel="vizio.93VZAMCA">
+    <title lang="en">Frank and Jesse</title>
+    <desc lang="en">After the murder of their younger brother, Frank and Jesse James seek their own brand of justice.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204713392626,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
   </programme>
-<programme start="20261113012745 +0000" stop="20261113030804 +0000" channel="vizio.93VZONO2">
-    <title lang="en">My Christmas Hero</title>
-    <desc lang="en">US Army reservist and orthopedic physician Nicole Ramsey serves military members at a base in Lacey, Washington. This Christmas, with the help of dedicated heroes, she's on a mission to honor a fallen soldier and bring healing to her own family.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205180505875,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-G</value>
-    </rating>
+<programme start="20261113125511 +0000" stop="20261113144902 +0000" channel="vizio.93VZAMCA">
+    <title lang="en">Two Deaths Of Henry Baker</title>
+    <desc lang="en">Outlaw Henry Baker seeks a fortune in gold guarded by his son after 20 years in prison. Family secrets ignite a deadly battle against adversaries, culminating in a shocking final act of carnage.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204733449579,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+  </programme>
+<programme start="20261113144902 +0000" stop="20261113163516 +0000" channel="vizio.93VZAMCA">
+    <title lang="en">A Tale Of Two Guns</title>
+    <desc lang="en">In the lawless West, a notorious brotherhood of killers and thieves called The Cowboys reigns over the land with brutal fists and fast guns. Fate finally catches up with them.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204717609195,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
   </programme>
 <programme start="20261113030804 +0000" stop="20261113045206 +0000" channel="vizio.93VZONO2">
     <title lang="en">A Christmas...Present</title>
@@ -807,92 +721,52 @@
       <value>TV-G</value>
     </rating>
   </programme>
-<programme start="20261112210146 +0000" stop="20261112215114 +0000" channel="vizio.93WBTV133">
-    <title lang="en">Deadly Affairs</title>
-    <sub-title lang="en">Generous Betrayal</sub-title>
-    <desc lang="en">Someone gets burned in an affair between a pizza boy and an accountant.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%20113018739,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E04</episode-num>
-    <episode-num system="xmltv_ns">1.3.</episode-num>
+<programme start="20261113063512 +0000" stop="20261113081531 +0000" channel="vizio.93VZONO2">
+    <title lang="en">My Christmas Hero</title>
+    <desc lang="en">US Army reservist and orthopedic physician Nicole Ramsey serves military members at a base in Lacey, Washington. This Christmas, with the help of dedicated heroes, she's on a mission to honor a fallen soldier and bring healing to her own family.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205180505875,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
-      <value>TV-14</value>
+      <value>TV-G</value>
     </rating>
   </programme>
-<programme start="20261112215114 +0000" stop="20261112224040 +0000" channel="vizio.93WBTV133">
-    <title lang="en">Deadly Affairs</title>
-    <sub-title lang="en">Achilles Heel</sub-title>
-    <desc lang="en">A running couple's life is thwarted after he runs into the arms of another.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%20113054050,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E05</episode-num>
-    <episode-num system="xmltv_ns">1.4.</episode-num>
+<programme start="20261113081531 +0000" stop="20261113095933 +0000" channel="vizio.93VZONO2">
+    <title lang="en">A Christmas...Present</title>
+    <desc lang="en">Busy real-estate agent and mom Maggie Larson takes her family to spend Christmas with her brother and his daughter, who have different expectations for their holidays. Along the way, the Larsons learn to reconnect with each other, and with their faith.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205180505854,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
-      <value>TV-14</value>
+      <value>TV-G</value>
     </rating>
   </programme>
-<programme start="20261112224040 +0000" stop="20261112233207 +0000" channel="vizio.93WBTV133">
-    <title lang="en">Deadly Affairs</title>
-    <sub-title lang="en">Tall, Dark and Dangerous</sub-title>
-    <desc lang="en">Wandering eyes turns college sweethearts' relationship to tragedy.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%20112718534,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E06</episode-num>
-    <episode-num system="xmltv_ns">1.5.</episode-num>
+<programme start="20261113095933 +0000" stop="20261113114238 +0000" channel="vizio.93VZONO2">
+    <title lang="en">Home Sweet Christmas</title>
+    <desc lang="en">A successful lawyer returns home after inheriting part of a maple forest farm. As she reconnects with her childhood friend who co-owns the property, she gets a chance to reexamine what matters most.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205180505861,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
-      <value>TV-14</value>
+      <value>TV-G</value>
     </rating>
   </programme>
-<programme start="20261112233207 +0000" stop="20261113002133 +0000" channel="vizio.93WBTV133">
-    <title lang="en">Deadly Affairs</title>
-    <sub-title lang="en">You Reap What You Sow</sub-title>
-    <desc lang="en">A man who lets his wife fool around realizes the error of his ways.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%20112550382,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E07</episode-num>
-    <episode-num system="xmltv_ns">1.6.</episode-num>
+<programme start="20261113114238 +0000" stop="20261113131007 +0000" channel="vizio.93VZONO2">
+    <title lang="en">Santa's Castle</title>
+    <desc lang="en">Set on sabotaging Christmas, a group of creatures kidnap Santa on Christmas eve. But Santa's loyal and magical helpers band together and come up with a plan to save Santa and Christmas before the night is over.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205185155502,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
-      <value>TV-14</value>
+      <value>G</value>
     </rating>
   </programme>
-<programme start="20261113002133 +0000" stop="20261113011100 +0000" channel="vizio.93WBTV133">
-    <title lang="en">Deadly Affairs</title>
-    <sub-title lang="en">Recipe for Disaster</sub-title>
-    <desc lang="en">A musician's marriage goes out of tune when someone else gets involved.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205181415647,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E08</episode-num>
-    <episode-num system="xmltv_ns">1.7.</episode-num>
+<programme start="20261113131007 +0000" stop="20261113144850 +0000" channel="vizio.93VZONO2">
+    <title lang="en">A Prince And Pauper Christmas</title>
+    <desc lang="en">When a down-on-his luck confidential informant in a criminal investigation suddenly goes missing, a desperate young federal agent recruits his doppelganger to play the role.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205185155507,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
-      <value>TV-14</value>
+      <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20261113011100 +0000" stop="20261113020026 +0000" channel="vizio.93WBTV133">
-    <title lang="en">Deadly Affairs</title>
-    <sub-title lang="en">Special Delivery</sub-title>
-    <desc lang="en">A couple's American dream turns into a nightmare with one dead.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%20112971932,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E09</episode-num>
-    <episode-num system="xmltv_ns">1.8.</episode-num>
+<programme start="20261113144850 +0000" stop="20261113163115 +0000" channel="vizio.93VZONO2">
+    <title lang="en">The Search For Secret Santa</title>
+    <desc lang="en">A reporter tries to uncover and bring closure to a long-lost, undelivered gift before Christmas.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205185155510,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261113020026 +0000" stop="20261113024952 +0000" channel="vizio.93WBTV133">
-    <title lang="en">Deadly Affairs</title>
-    <sub-title lang="en">Fool Me Once</sub-title>
-    <desc lang="en">Peaceful suburbia is awakened when a love triangle comes together.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%20112458469,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E10</episode-num>
-    <episode-num system="xmltv_ns">1.9.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261113024952 +0000" stop="20261113034119 +0000" channel="vizio.93WBTV133">
-    <title lang="en">Deadly Affairs</title>
-    <sub-title lang="en">Love is a Battlefield</sub-title>
-    <desc lang="en">A military love affair breaks the rules and ends with deadly consequences.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%20113087482,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E11</episode-num>
-    <episode-num system="xmltv_ns">1.10.</episode-num>
-    <rating>
-      <value>TV-14</value>
+      <value>TV-PG</value>
     </rating>
   </programme>
 <programme start="20261113034119 +0000" stop="20261113043042 +0000" channel="vizio.93WBTV133">
@@ -917,79 +791,145 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261112210829 +0000" stop="20261112215603 +0000" channel="vizio.93amg00136c44">
-    <title lang="en">Bering Sea Gold</title>
-    <sub-title lang="en">Pain in the Ice</sub-title>
-    <desc lang="en">Shawn goes on a marathon dive and Emily takes another shot at TOMCOD gold.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205078527116,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S12E16</episode-num>
-    <episode-num system="xmltv_ns">11.15.</episode-num>
+<programme start="20261113052005 +0000" stop="20261113060929 +0000" channel="vizio.93WBTV133">
+    <title lang="en">Deadly Affairs</title>
+    <sub-title lang="en">Spellbound</sub-title>
+    <desc lang="en">Lies and betrayal tarnish a red-hot love affair for one couple.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%20112653638,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S03E01</episode-num>
+    <episode-num system="xmltv_ns">2.0.</episode-num>
     <rating>
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261112215603 +0000" stop="20261112224338 +0000" channel="vizio.93amg00136c44">
-    <title lang="en">Bering Sea Gold</title>
-    <sub-title lang="en">Total Meltdown</sub-title>
-    <desc lang="en">Suffering possible defeat, Kris wrecks his plan and abandons his crew.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205078527103,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S12E17</episode-num>
-    <episode-num system="xmltv_ns">11.16.</episode-num>
+<programme start="20261113060929 +0000" stop="20261113065852 +0000" channel="vizio.93WBTV133">
+    <title lang="en">Deadly Affairs</title>
+    <sub-title lang="en">Swan Song</sub-title>
+    <desc lang="en">A musician sweeps a young marine's wife off her feet.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%20112606395,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S03E02</episode-num>
+    <episode-num system="xmltv_ns">2.1.</episode-num>
     <rating>
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261112224338 +0000" stop="20261112233112 +0000" channel="vizio.93amg00136c44">
-    <title lang="en">Bering Sea Gold</title>
-    <sub-title lang="en">Cold Man and the Sea</sub-title>
-    <desc lang="en">The clock ticks as Shawn tries to prove the viability of the TOMCOD.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205078527079,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S12E18</episode-num>
-    <episode-num system="xmltv_ns">11.17.</episode-num>
+<programme start="20261113065852 +0000" stop="20261113074815 +0000" channel="vizio.93WBTV133">
+    <title lang="en">Deadly Affairs</title>
+    <sub-title lang="en">Burned by Desire</sub-title>
+    <desc lang="en">Long hours away from home leave a lonely heart burned by betrayal.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%20112862000,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S03E03</episode-num>
+    <episode-num system="xmltv_ns">2.2.</episode-num>
     <rating>
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261112233112 +0000" stop="20261113002716 +0000" channel="vizio.93amg00136c44">
-    <title lang="en">Bering Sea Gold</title>
-    <sub-title lang="en">Freezer Burn</sub-title>
-    <desc lang="en">Shawn fights frozen ground while Kris' plan to beat the cold fizzles out.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205078527080,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S12E19</episode-num>
-    <episode-num system="xmltv_ns">11.18.</episode-num>
+<programme start="20261113074815 +0000" stop="20261113083741 +0000" channel="vizio.93WBTV133">
+    <title lang="en">Deadly Affairs</title>
+    <sub-title lang="en">Blood Ties</sub-title>
+    <desc lang="en">A mother and daughter each learn their lessons in bad romance.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%20112680779,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S03E04</episode-num>
+    <episode-num system="xmltv_ns">2.3.</episode-num>
     <rating>
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261113002716 +0000" stop="20261113011451 +0000" channel="vizio.93amg00136c44">
-    <title lang="en">Bering Sea Gold</title>
-    <sub-title lang="en">Up in Flames</sub-title>
-    <desc lang="en">Kris finds gold under the ice with fire over head and Emily risks it all.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205078527084,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S12E20</episode-num>
-    <episode-num system="xmltv_ns">11.19.</episode-num>
+<programme start="20261113083741 +0000" stop="20261113092615 +0000" channel="vizio.93WBTV133">
+    <title lang="en">Deadly Affairs</title>
+    <sub-title lang="en">Bound and Determined</sub-title>
+    <desc lang="en">A family is rocked by two deaths that leave their small town reeling.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%20113085764,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S03E05</episode-num>
+    <episode-num system="xmltv_ns">2.4.</episode-num>
     <rating>
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261113011451 +0000" stop="20261113020225 +0000" channel="vizio.93amg00136c44">
-    <title lang="en">Bering Sea Gold</title>
-    <sub-title lang="en">No More Mr. Ice Guys</sub-title>
-    <desc lang="en">Shawn pushes his equipment to the edge while others rise from the ashes.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205078527100,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S12E21</episode-num>
-    <episode-num system="xmltv_ns">11.20.</episode-num>
+<programme start="20261113092615 +0000" stop="20261113101739 +0000" channel="vizio.93WBTV133">
+    <title lang="en">Deadly Affairs</title>
+    <sub-title lang="en">Playing with Hearts</sub-title>
+    <desc lang="en">Turbulence awaits a couple when a flight attendant messes around.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%20112746540,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S03E05</episode-num>
+    <episode-num system="xmltv_ns">2.4.</episode-num>
     <rating>
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261113020225 +0000" stop="20261113025159 +0000" channel="vizio.93amg00136c44">
-    <title lang="en">Bering Sea Gold</title>
-    <sub-title lang="en">Winter Take All</sub-title>
-    <desc lang="en">Mr. Gold secures TOMCOD during a final rush before the ice vanishes.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205078527115,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S12E22</episode-num>
-    <episode-num system="xmltv_ns">11.21.</episode-num>
+<programme start="20261113101739 +0000" stop="20261113110702 +0000" channel="vizio.93WBTV133">
+    <title lang="en">Deadly Affairs</title>
+    <sub-title lang="en">The Art of Murder</sub-title>
+    <desc lang="en">Life in the fast lane results in a fiery crash for a high-society couple.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%20112636895,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S03E07</episode-num>
+    <episode-num system="xmltv_ns">2.6.</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261113110702 +0000" stop="20261113115625 +0000" channel="vizio.93WBTV133">
+    <title lang="en">Deadly Affairs</title>
+    <sub-title lang="en">Virtual Lust</sub-title>
+    <desc lang="en">A computer business couple's profession leads to their downfall.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%20112535844,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S03E08</episode-num>
+    <episode-num system="xmltv_ns">2.7.</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261113115625 +0000" stop="20261113124548 +0000" channel="vizio.93WBTV133">
+    <title lang="en">Deadly Affairs</title>
+    <sub-title lang="en">Games People Play</sub-title>
+    <desc lang="en">A man's wife hires a PI to catch him in the act with his mistress.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%20112862683,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S03E08</episode-num>
+    <episode-num system="xmltv_ns">2.7.</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261113124548 +0000" stop="20261113133512 +0000" channel="vizio.93WBTV133">
+    <title lang="en">Deadly Affairs</title>
+    <sub-title lang="en">Three to Tango</sub-title>
+    <desc lang="en">Skinny dipping in the gene pool leads to the downfall of a marriage.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%20112894166,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S03E10</episode-num>
+    <episode-num system="xmltv_ns">2.9.</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261113133512 +0000" stop="20261113142635 +0000" channel="vizio.93WBTV133">
+    <title lang="en">Deadly Affairs</title>
+    <sub-title lang="en">Runaway Murder</sub-title>
+    <desc lang="en">A California businessman's international dalliance has deadly consequences.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%20112555022,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S03E10</episode-num>
+    <episode-num system="xmltv_ns">2.9.</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261113142635 +0000" stop="20261113151502 +0000" channel="vizio.93WBTV133">
+    <title lang="en">Deadly Affairs</title>
+    <sub-title lang="en">Drowned by Love</sub-title>
+    <desc lang="en">A pianist's fairy tale love story ends on a sour note.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%20112750460,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S03E12</episode-num>
+    <episode-num system="xmltv_ns">2.11.</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261113151502 +0000" stop="20261113160425 +0000" channel="vizio.93WBTV133">
+    <title lang="en">Deadly Affairs</title>
+    <sub-title lang="en">To Catch a Cheat</sub-title>
+    <desc lang="en">A Texas heartthrob with a rotating slate of lovers goes missing.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%20112813340,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S03E12</episode-num>
+    <episode-num system="xmltv_ns">2.11.</episode-num>
     <rating>
       <value>TV-14</value>
     </rating>
@@ -1016,81 +956,70 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261112213540 +0000" stop="20261112222341 +0000" channel="vizio.93amg00136c49">
-    <title lang="en">Deadly Possessions</title>
-    <sub-title lang="en">Bela Lugosi's Mirror</sub-title>
-    <desc lang="en">Zak examines a haunted mirror and a TV infused with a killer's dark energy.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205078734940,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261112222341 +0000" stop="20261112231343 +0000" channel="vizio.93amg00136c49">
-    <title lang="en">Deadly Possessions</title>
-    <sub-title lang="en">Ed Gein's Cauldron</sub-title>
-    <desc lang="en">Zak investigates a serial killer's cauldron of death and a cursed painting.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205078735045,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
+<programme start="20261113062345 +0000" stop="20261113080322 +0000" channel="vizio.93amg00136c44">
+    <title lang="en">Bering Sea Gold</title>
+    <sub-title lang="en">Papa's Got a Brand New Dredge</sub-title>
+    <desc lang="en">Kris and crew head to Elim. Emily hopes to add to her all-star squad.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205078527113,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S13E03</episode-num>
+    <episode-num system="xmltv_ns">12.2.</episode-num>
     <rating>
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261112231343 +0000" stop="20261113000345 +0000" channel="vizio.93amg00136c49">
-    <title lang="en">Deadly Possessions</title>
-    <sub-title lang="en">Natalie Wood Relics</sub-title>
-    <desc lang="en">Zak examines the van used by "Dr. Death" and a movie star's untimely death.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205078735028,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
+<programme start="20261113080322 +0000" stop="20261113094100 +0000" channel="vizio.93amg00136c44">
+    <title lang="en">Bering Sea Gold</title>
+    <sub-title lang="en">Ship of Fools</sub-title>
+    <desc lang="en">Kris and crew face one mishap after another in Elim.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205077474985,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S13E04</episode-num>
+    <episode-num system="xmltv_ns">12.3.</episode-num>
     <rating>
-      <value>TV-PG</value>
+      <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261113000345 +0000" stop="20261113005338 +0000" channel="vizio.93amg00136c49">
-    <title lang="en">Fright Club</title>
-    <sub-title lang="en">Hide the Kids, Watch the Skies</sub-title>
-    <desc lang="en">The guys freak each other out with a haunted preschool and sky spiders.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205078735112,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
+<programme start="20261113094100 +0000" stop="20261113111837 +0000" channel="vizio.93amg00136c44">
+    <title lang="en">Bering Sea Gold</title>
+    <sub-title lang="en">Machine Gun Kellys</sub-title>
+    <desc lang="en">The Kellys face gunfire from angry locals in Elim.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205077474967,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S13E05</episode-num>
+    <episode-num system="xmltv_ns">12.4.</episode-num>
     <rating>
-      <value>TV-PG</value>
+      <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261113005338 +0000" stop="20261113014339 +0000" channel="vizio.93amg00136c49">
-    <title lang="en">Fright Club</title>
-    <sub-title lang="en">Phantom Photobomb</sub-title>
-    <desc lang="en">The guys outscare one another with an evil clown doll and a demonic camper.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205078735196,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
+<programme start="20261113111837 +0000" stop="20261113125608 +0000" channel="vizio.93amg00136c44">
+    <title lang="en">Bering Sea Gold</title>
+    <sub-title lang="en">Naked and Unafraid</sub-title>
+    <desc lang="en">Shawn pulls an all-nighter with the revamped Myrtle.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205077474976,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S13E06</episode-num>
+    <episode-num system="xmltv_ns">12.5.</episode-num>
     <rating>
-      <value>TV-PG</value>
+      <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261113014339 +0000" stop="20261113023340 +0000" channel="vizio.93amg00136c49">
-    <title lang="en">Fright Club</title>
-    <sub-title lang="en">Astral Vampire Weekend</sub-title>
-    <desc lang="en">The guys face-off with an Alaskan ice monster and an eerie vampiric entity.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205078735151,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
+<programme start="20261113125608 +0000" stop="20261113143539 +0000" channel="vizio.93amg00136c44">
+    <title lang="en">Bering Sea Gold</title>
+    <sub-title lang="en">The Claim Dating Game</sub-title>
+    <desc lang="en">Zeke hopes to find his perfect claim match.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205077474971,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S13E07</episode-num>
+    <episode-num system="xmltv_ns">12.6.</episode-num>
     <rating>
-      <value>TV-PG</value>
+      <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261113023340 +0000" stop="20261113032340 +0000" channel="vizio.93amg00136c49">
-    <title lang="en">Fright Club</title>
-    <sub-title lang="en">Bigfoot Gets a Pedicure</sub-title>
-    <desc lang="en">The guys strive to scare with doppelgangers and physical proof of Bigfoot.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205078735119,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
+<programme start="20261113143539 +0000" stop="20261113161109 +0000" channel="vizio.93amg00136c44">
+    <title lang="en">Bering Sea Gold</title>
+    <sub-title lang="en">Dredge of Insanity</sub-title>
+    <desc lang="en">Kris tries to save his season with his possibly worst idea yet.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205077474981,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S13E08</episode-num>
+    <episode-num system="xmltv_ns">12.7.</episode-num>
     <rating>
-      <value>TV-PG</value>
+      <value>TV-14</value>
     </rating>
   </programme>
 <programme start="20261113032340 +0000" stop="20261113041341 +0000" channel="vizio.93amg00136c49">
@@ -1126,28 +1055,176 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20261112204622 +0000" stop="20261112223000 +0000" channel="vizio.96Station_88885570">
-    <title lang="en">Unearthed</title>
-    <desc lang="en">A group of archaeologists inadvertently releases an ancient alien killing machine in an isolated town in New Mexico. The monstrous creature causes a car accident, forcing the closing of the only road in and out of the town. The local sheriff, Annie Flynn (Emmanuelle Vaugier), investigates the crash site, which reveals a giant, severed, animal-like limb. Later that night, Annie visits a secluded gas station, where she's forced to battle the creature that caused the accident.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205170970281,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+<programme start="20261113055135 +0000" stop="20261113064136 +0000" channel="vizio.93amg00136c49">
+    <title lang="en">Fright Club</title>
+    <sub-title lang="en">Scary Poppins</sub-title>
+    <desc lang="en">The guys terrorize each other with a nursery phantom and a ghostly monk.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205078735153,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
     <rating>
-      <value>R</value>
+      <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20261112223000 +0000" stop="20261113005009 +0000" channel="vizio.96Station_88885570">
-    <title lang="en">The Assessment</title>
-    <desc lang="en">In a not-so-distant future where parenthood is strictly controlled, a couple's mysterious seven-day assessment for the right to have a child unravels into a nightmare, forcing them to question the very foundations of society.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205170970258,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+<programme start="20261113064136 +0000" stop="20261113073136 +0000" channel="vizio.93amg00136c49">
+    <title lang="en">Fright Club</title>
+    <sub-title lang="en">The Real Werewolves of Florida</sub-title>
+    <desc lang="en">The guys one-up each other with a backyard cryptid and a demonic doll.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205078735133,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
     <rating>
-      <value>R</value>
+      <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20261113005009 +0000" stop="20261113030646 +0000" channel="vizio.96Station_88885570">
-    <title lang="en">Ex Machina</title>
-    <desc lang="en">Alex Garland, writer of 28 Days Later and Sunshine, makes his directorial debut with the stylish and cerebral thriller, EX MACHINA. Caleb Smith (Domhnall Gleeson), a programmer at an internet-search giant, wins a competition to spend a week at the private mountain estate of the company's brilliant and reclusive CEO, Nathan Bateman (Oscar Isaac).</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205170970275,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+<programme start="20261113073136 +0000" stop="20261113082137 +0000" channel="vizio.93amg00136c49">
+    <title lang="en">Fright Club</title>
+    <sub-title lang="en">Scream-Filled Donuts</sub-title>
+    <desc lang="en">The guys freak out over a ghostly intruder and a paranormal love triangle.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205078735142,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
     <rating>
-      <value>R</value>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261113082137 +0000" stop="20261113091159 +0000" channel="vizio.93amg00136c49">
+    <title lang="en">Fright Club</title>
+    <sub-title lang="en">How to Die in a Horror Film</sub-title>
+    <desc lang="en">Howie Mandel weighs in on a ghostly encounter ripped straight from a movie.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205078735113,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S02E01</episode-num>
+    <episode-num system="xmltv_ns">1.0.</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261113091159 +0000" stop="20261113100220 +0000" channel="vizio.93amg00136c49">
+    <title lang="en">Fright Club</title>
+    <sub-title lang="en">Spies in the Sky</sub-title>
+    <desc lang="en">Jack and the Ghost Brothers crack the shell on an avian conspiracy theory.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205078735174,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S02E02</episode-num>
+    <episode-num system="xmltv_ns">1.1.</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261113100220 +0000" stop="20261113105250 +0000" channel="vizio.93amg00136c49">
+    <title lang="en">Fright Club</title>
+    <sub-title lang="en">Bigfoot Got Back</sub-title>
+    <desc lang="en">The guys get to the bottom of Bigfoot's legendary derriere.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205078735193,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S02E03</episode-num>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261113105250 +0000" stop="20261113114314 +0000" channel="vizio.93amg00136c49">
+    <title lang="en">Fright Club</title>
+    <sub-title lang="en">Ghostin' for the Gold</sub-title>
+    <desc lang="en">A gravity-defying baby scores a perfect 10 on the scary scale for the guys.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205078735127,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S02E04</episode-num>
+    <episode-num system="xmltv_ns">1.3.</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261113114314 +0000" stop="20261113123344 +0000" channel="vizio.93amg00136c49">
+    <title lang="en">Fright Club</title>
+    <sub-title lang="en">Little Prop of Horrors</sub-title>
+    <desc lang="en">The guys get a little too close for comfort to a cursed movie prop.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205078735232,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S02E05</episode-num>
+    <episode-num system="xmltv_ns">1.4.</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261113123344 +0000" stop="20261113132407 +0000" channel="vizio.93amg00136c49">
+    <title lang="en">Fright Club</title>
+    <sub-title lang="en">Demon Cyclone</sub-title>
+    <desc lang="en">Jack and the Ghost Brothers get the inside scoop on a real-life Hell house.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205078735230,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S02E06</episode-num>
+    <episode-num system="xmltv_ns">1.5.</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261113132407 +0000" stop="20261113141430 +0000" channel="vizio.93amg00136c49">
+    <title lang="en">Fright Club</title>
+    <sub-title lang="en">Cat Caller</sub-title>
+    <desc lang="en">Jack and the Ghost Brothers reveal the secret lives of cats.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205078735209,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S02E07</episode-num>
+    <episode-num system="xmltv_ns">1.6.</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261113141430 +0000" stop="20261113150252 +0000" channel="vizio.93amg00136c49">
+    <title lang="en">Fright Club</title>
+    <sub-title lang="en">Ghosting With the Stars</sub-title>
+    <desc lang="en">Jack and the Ghost Brothers raise the dead with some spirited moves.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205078735220,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S02E08</episode-num>
+    <episode-num system="xmltv_ns">1.7.</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261113150252 +0000" stop="20261113155315 +0000" channel="vizio.93amg00136c49">
+    <title lang="en">Fright Club</title>
+    <sub-title lang="en">The Nightmare Shift</sub-title>
+    <desc lang="en">Jack and the Ghost Brothers get the full breakdown on a ghostly encounter.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205078735222,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S02E09</episode-num>
+    <episode-num system="xmltv_ns">1.8.</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261113020448 +0000" stop="20261113043808 +0000" channel="vizio.93amg00353c53">
+    <title lang="en">The Hunger Games: Mockingjay Part 2</title>
+    <desc lang="en">Katniss and a team of rebels from District 13 prepare for the final battle that will decide the fate of Panem.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205161759169,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+<programme start="20261113043808 +0000" stop="20261113073700 +0000" channel="vizio.93amg00353c53">
+    <title lang="en">The Hunger Games: The Ballad of Songbirds and Snakes</title>
+    <desc lang="en">A young Coriolanus Snow battles his instincts for both good and evil in the 10th Hunger Games.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205162687481,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+<programme start="20261113073700 +0000" stop="20261113102245 +0000" channel="vizio.93amg00353c53">
+    <title lang="en">The Hunger Games</title>
+    <desc lang="en">Based on the best-selling book, 16-year-old Katniss volunteers to take her sister's place in the Hunger Games.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205161759186,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+<programme start="20261113102245 +0000" stop="20261113130904 +0000" channel="vizio.93amg00353c53">
+    <title lang="en">The Hunger Games: Catching Fire</title>
+    <desc lang="en">Katniss and Peeta become targets of the Capitol after their victory in the Hunger Games sparks a rebellion.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205161759171,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+<programme start="20261113130904 +0000" stop="20261113152528 +0000" channel="vizio.93amg00353c53">
+    <title lang="en">The Hunger Games: Mockingjay Part 1</title>
+    <desc lang="en">Katniss is rescued by rebels and brought to District 13 where she becomes The Mockingjay.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205161759168,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>PG-13</value>
     </rating>
   </programme>
 <programme start="20261113030646 +0000" stop="20261113050000 +0000" channel="vizio.96Station_88885570">
@@ -1166,7 +1243,7 @@
       <value>NR</value>
     </rating>
   </programme>
-<programme start="20261112212501 +0000" stop="20261112225648 +0000" channel="vizio.96Station_88885594">
+<programme start="20261113061610 +0000" stop="20261113074335 +0000" channel="vizio.96Station_88885570">
     <title lang="en">Anaconda: Death Coil</title>
     <desc lang="en">Four friends visit a inherited cabin for nostalgia, but after finding a mutilated ranger and signs of a massive ancient anaconda, they're hunted by the creature and must survive the wilderness and uncover the land's dark history.</desc>
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205068539789,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
@@ -1174,18 +1251,42 @@
       <value>NR</value>
     </rating>
   </programme>
-<programme start="20261112225648 +0000" stop="20261113010238 +0000" channel="vizio.96Station_88885594">
-    <title lang="en">Green Room</title>
-    <desc lang="en">After witnessing a shocking crime, a young rock band is unexpectedly thrust into a life-or-death battle to escape the clutches of a diabolical club owner (Patrick Stewart) and his ruthless henchmen in this white-knuckle thriller</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204740135335,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+<programme start="20261113074335 +0000" stop="20261113093133 +0000" channel="vizio.96Station_88885570">
+    <title lang="en">Season Of The Witch</title>
+    <desc lang="en">His faith broken by many years fighting in the Crusades, a knight named Behman returns to Europe and finds it ravaged by the Black Plague. A dying cardinal orders Behman and his friend, Felson, to take an accused witch to a remote abbey, where monks will destroy her powers and end the pestilence. As Behman and five comrades undertake the dangerous journey, they come to realize that the prisoner is no ordinary girl, and evil forces await at the destination.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205170970282,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+<programme start="20261113093133 +0000" stop="20261113113914 +0000" channel="vizio.96Station_88885570">
+    <title lang="en">Tuesday</title>
+    <desc lang="en">A mother (Julia Louis-Dreyfus) and her daughter must confront Death when it arrives in the form of an astonishing talking bird. A heart-rending fairy tale about the echoes of loss and finding resilience in the unexpected.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204915058380,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
       <value>R</value>
     </rating>
   </programme>
-<programme start="20261113010238 +0000" stop="20261113025407 +0000" channel="vizio.96Station_88885594">
-    <title lang="en">Prey of Wrath</title>
-    <desc lang="en">An elite special forces operative is sent by Russian Intelligence to hunt down former teammates who have hijacked nuclear warheads.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205170970257,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+<programme start="20261113113914 +0000" stop="20261113135250 +0000" channel="vizio.96Station_88885570">
+    <title lang="en">The Assessment</title>
+    <desc lang="en">In a not-so-distant future where parenthood is strictly controlled, a couple's mysterious seven-day assessment for the right to have a child unravels into a nightmare, forcing them to question the very foundations of society.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205170970258,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+<programme start="20261113135250 +0000" stop="20261113150946 +0000" channel="vizio.96Station_88885570">
+    <title lang="en">Lone Star Shark 2</title>
+    <desc lang="en">A new victim has been chosen to face off against a ravenous shark in a Texas lake.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204616425943,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+<programme start="20261113150946 +0000" stop="20261113163711 +0000" channel="vizio.96Station_88885570">
+    <title lang="en">Anaconda: Death Coil</title>
+    <desc lang="en">Four friends visit a inherited cabin for nostalgia, but after finding a mutilated ranger and signs of a massive ancient anaconda, they're hunted by the creature and must survive the wilderness and uncover the land's dark history.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205068539789,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
       <value>NR</value>
     </rating>
@@ -1206,74 +1307,44 @@
       <value>NR</value>
     </rating>
   </programme>
-<programme start="20261112213000 +0000" stop="20261112220000 +0000" channel="vizio.98wurl_scripps_gritxtra_1">
-    <title lang="en">Bat Masterson</title>
-    <desc lang="en">Determined to take over Bat's bank, a greedy saloonkeeper interferes with a crucial gold shipment and triggers a panic among the clientele that threatens to send Bat into financial ruin.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%203810646520,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S03E21</episode-num>
-    <episode-num system="xmltv_ns">2.20.</episode-num>
+<programme start="20261113064945 +0000" stop="20261113084932 +0000" channel="vizio.96Station_88885594">
+    <title lang="en">Men (2022)</title>
+    <desc lang="en">In the aftermath of a personal tragedy, Harper (Jessie Buckley) retreats alone to the beautiful English countryside, hoping to have found a place to heal. But someone or something from the surrounding woods appears to be stalking her. What begins as simmering dread becomes a fully-formed nightmare, inhabited by her darkest memories and fears in visionary filmmaker Alex Garland's (Ex Machina, Annihilation) feverish, shape-shifting horror film.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204952184970,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
-      <value>TV-PG</value>
+      <value>R</value>
     </rating>
   </programme>
-<programme start="20261112220000 +0000" stop="20261112223000 +0000" channel="vizio.98wurl_scripps_gritxtra_1">
-    <title lang="en">Yancy Derringer</title>
-    <desc lang="en">Yancy and Charlie LeBow stage a fake duel to draw out a man who appears to be after LeBow.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204356986540,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E27</episode-num>
-    <episode-num system="xmltv_ns">0.26.</episode-num>
+<programme start="20261113084932 +0000" stop="20261113101050 +0000" channel="vizio.96Station_88885594">
+    <title lang="en">Lone Star Shark 2</title>
+    <desc lang="en">A new victim has been chosen to face off against a ravenous shark in a Texas lake.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204616425943,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
-      <value>TV-G</value>
+      <value>NR</value>
     </rating>
   </programme>
-<programme start="20261112223000 +0000" stop="20261112230000 +0000" channel="vizio.98wurl_scripps_gritxtra_1">
-    <title lang="en">Yancy Derringer</title>
-    <desc lang="en">Coco LaSalle convinces Yancy to back her fighter in an illegal boxing match.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204357820568,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E28</episode-num>
-    <episode-num system="xmltv_ns">0.27.</episode-num>
+<programme start="20261113101050 +0000" stop="20261113122727 +0000" channel="vizio.96Station_88885594">
+    <title lang="en">Ex Machina</title>
+    <desc lang="en">Alex Garland, writer of 28 Days Later and Sunshine, makes his directorial debut with the stylish and cerebral thriller, EX MACHINA. Caleb Smith (Domhnall Gleeson), a programmer at an internet-search giant, wins a competition to spend a week at the private mountain estate of the company's brilliant and reclusive CEO, Nathan Bateman (Oscar Isaac).</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205170970275,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
-      <value>TV-G</value>
+      <value>R</value>
     </rating>
   </programme>
-<programme start="20261112230000 +0000" stop="20261112233000 +0000" channel="vizio.98wurl_scripps_gritxtra_1">
-    <title lang="en">The Texan</title>
-    <desc lang="en">Bill saves a government agent from an ambush; the agent is carrying a list of landowners who are refusing to pay their taxes, and Bill learns the daughter of one of those landowners arranged the ambush.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204031729113,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E27</episode-num>
-    <episode-num system="xmltv_ns">1.26.</episode-num>
+<programme start="20261113122727 +0000" stop="20261113142203 +0000" channel="vizio.96Station_88885594">
+    <title lang="en">Fatal Photo</title>
+    <desc lang="en">When a woman realizes she has taken a photo of an attempted murder, she must use the clues in the image to solve the crime... before she becomes the next victim.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205170970259,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
-      <value>TV-14</value>
+      <value>NR</value>
     </rating>
   </programme>
-<programme start="20261112233000 +0000" stop="20261113000000 +0000" channel="vizio.98wurl_scripps_gritxtra_1">
-    <title lang="en">The Texan</title>
-    <desc lang="en">Bill finds a town engulfed in a feud between two ranchers; he also learns that his former commanding officer is now a doctor who's turned to drinking, and a young man blames him for crippling his arm.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204031729112,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E28</episode-num>
-    <episode-num system="xmltv_ns">1.27.</episode-num>
+<programme start="20261113142203 +0000" stop="20261113154657 +0000" channel="vizio.96Station_88885594">
+    <title lang="en">Lone Star Shark</title>
+    <desc lang="en">A group of virtual hunters unleash a deadly shark in a Texas lake, causing a young couple to fight for their lives during a peaceful fishing trip in a secluded cove.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204495527686,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261113000000 +0000" stop="20261113003000 +0000" channel="vizio.98wurl_scripps_gritxtra_1">
-    <title lang="en">Wanted: Dead or Alive</title>
-    <desc lang="en">Josh brings in a killer suspect and winds up in jail himself.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205069820480,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E13</episode-num>
-    <episode-num system="xmltv_ns">0.12.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261113003000 +0000" stop="20261113010000 +0000" channel="vizio.98wurl_scripps_gritxtra_1">
-    <title lang="en">Wanted: Dead or Alive</title>
-    <desc lang="en">Two killers ambush Josh and his prisoner.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205069820488,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E14</episode-num>
-    <episode-num system="xmltv_ns">0.13.</episode-num>
-    <rating>
-      <value>TV-PG</value>
+      <value>NR</value>
     </rating>
   </programme>
 <programme start="20261113010000 +0000" stop="20261113040000 +0000" channel="vizio.98wurl_scripps_gritxtra_1">
@@ -1290,6 +1361,116 @@
     <title lang="en">Seven Men From Now</title>
     <desc lang="en">A rancher (Randolph Scott) hunts down those responsible for killing his wife during a Wells Fargo holdup.</desc>
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204517711018,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261113060000 +0000" stop="20261113080000 +0000" channel="vizio.98wurl_scripps_gritxtra_1">
+    <title lang="en">Buchanan Rides Alone</title>
+    <desc lang="en">Journeying from Mexico back home to West Texas, mercenary Tom Buchanan takes a break for the night in the border town of Agry. He soon discovers that almost every resident -- from the crooked sheriff to the shifty-eyed innkeeper -- is a member of the prominent Agry family. When Buchanan defends Juan de la Vega, a young man about to be lynched for shooting the town drunk, he himself is accused of murder and must struggle to escape town alive.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205162838474,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261113080000 +0000" stop="20261113083000 +0000" channel="vizio.98wurl_scripps_gritxtra_1">
+    <title lang="en">Zane Grey Theatre</title>
+    <desc lang="en">An Italian officer arrives in town to claim a countryman's mine.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204053577727,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S04E20</episode-num>
+    <episode-num system="xmltv_ns">3.19.</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261113083000 +0000" stop="20261113090000 +0000" channel="vizio.98wurl_scripps_gritxtra_1">
+    <title lang="en">Zane Grey Theatre</title>
+    <desc lang="en">A deputy has an attitude about duty.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204053577728,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S04E21</episode-num>
+    <episode-num system="xmltv_ns">3.20.</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261113090000 +0000" stop="20261113093000 +0000" channel="vizio.98wurl_scripps_gritxtra_1">
+    <title lang="en">Zane Grey Theatre</title>
+    <desc lang="en">A forced marriage compromises a man's ranch and herd.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204053577730,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S04E22</episode-num>
+    <episode-num system="xmltv_ns">3.21.</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261113093000 +0000" stop="20261113100000 +0000" channel="vizio.98wurl_scripps_gritxtra_1">
+    <title lang="en">Zane Grey Theatre</title>
+    <desc lang="en">A town pays the cost of harboring evil.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204053577729,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S04E23</episode-num>
+    <episode-num system="xmltv_ns">3.22.</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261113100000 +0000" stop="20261113103000 +0000" channel="vizio.98wurl_scripps_gritxtra_1">
+    <title lang="en">Zane Grey Theatre</title>
+    <desc lang="en">A lawman is increasingly reluctant to do his duty.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204053577726,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S04E24</episode-num>
+    <episode-num system="xmltv_ns">3.23.</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261113103000 +0000" stop="20261113110000 +0000" channel="vizio.98wurl_scripps_gritxtra_1">
+    <title lang="en">Zane Grey Theatre</title>
+    <desc lang="en">A boy thinks a drifter is the killer sought by a posse.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204053577731,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S04E25</episode-num>
+    <episode-num system="xmltv_ns">3.24.</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261113110000 +0000" stop="20261113113000 +0000" channel="vizio.98wurl_scripps_gritxtra_1">
+    <title lang="en">Hopalong Cassidy</title>
+    <desc lang="en">A murderer frames a rancher to steal his ranch and wife.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%203797677156,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S01E17</episode-num>
+    <episode-num system="xmltv_ns">0.16.</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261113113000 +0000" stop="20261113120000 +0000" channel="vizio.98wurl_scripps_gritxtra_1">
+    <title lang="en">Hopalong Cassidy</title>
+    <desc lang="en">On several occasions, the same three men seem to disappear just after a robbery occurs, and Hopalong Cassidy sets out to prove another man is behind the series of robberies.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%203800590595,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S01E18</episode-num>
+    <episode-num system="xmltv_ns">0.17.</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261113120000 +0000" stop="20261113140000 +0000" channel="vizio.98wurl_scripps_gritxtra_1">
+    <title lang="en">Hangman's Knot</title>
+    <desc lang="en">Major Matt Stewart (Randolph Scott) leads a troop of Confederate soldiers on a raid, targeting a wagon that is transporting Union gold. All the Union soldiers are killed except for one, who informs Stewart that the war had already ended a month ago. Stewart leads the troop into hiding, knowing they could face murder charges. After capturing a coach driven by nurse Molly Hull (Donna Reed), the soldiers try to evade a group of bandits chasing them to steal the gold.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205164607447,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261113140000 +0000" stop="20261113160000 +0000" channel="vizio.98wurl_scripps_gritxtra_1">
+    <title lang="en">Dakota Incident</title>
+    <desc lang="en">Indians trap a bank robber (Dale Robertson), a beauty (Linda Darnell), a bank clerk (John Lund) and other stagecoach passengers in a gully.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204593950842,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <episode-num system="onscreen">S01E01</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <rating>

@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+<channel id="freemoviesplus_amg02042c1eng_US">
+    <display-name>Free Movies Plus</display-name>
+    <icon src="https://preview-amagistv-amg02042-cloudport.now.amagi.tv/Images/S3/FMPLOGOLG.png"/>
+  </channel>
 <channel id="99992286">
     <display-name>Xumo Free Action Movies</display-name>
     <icon src="https://image.xumo.com/v1/channels/channel/99992286/400x200.png?type=white_cropped"/>
@@ -20,15 +24,17 @@
     <display-name>Haunt TV US</display-name>
     <icon src="https://d2y2gft5545ze9.cloudfront.net/HauntTV_200pxHigh_LG_ChannelAssets_White.png"/>
   </channel>
-<channel id="us-scripps_laffmore_1">
-    <display-name>Laff More</display-name>
-    <icon src="http://img.platform.wurl.dev/channel/1498/lg/d22c6a/LG-Logo-PNG-100x100_v1.png"/>
-  </channel>
-<channel id="99993006">
-    <display-name>World's Most Evil Killers</display-name>
-    <icon src="https://image.xumo.com/v1/channels/channel/99993006/400x200.png?type=white_cropped"/>
-  </channel>
-<programme start="20261112212119 +0000" stop="20261112230637 +0000" channel="99992286">
+<programme start="20261113033801 +0000" stop="20261113050000 +0000" channel="99992286">
+    <title lang="en">Pinkerton</title>
+    <desc lang="en">Allan Pinkerton, founder of America's first detective agency, embarks on a mission to capture the notorious outlaw, Jesse James.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0E64NNSDOKGZ/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992285%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM0E64NNSDOKGZ</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261113050000 +0000" stop="20261113064058 +0000" channel="99992286">
     <title lang="en">Best Man Dead Man</title>
     <desc lang="en">A bachelor party in the middle of nowhere quickly turns into a night of murder and mystery when the best man ends up with a knife in his head. Everyone is a suspect; only an eccentric private eye in town can solve the mystery.</desc>
     <category lang="en">Movies</category>
@@ -38,57 +44,107 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261112230637 +0000" stop="20261113003816 +0000" channel="99992286">
-    <title lang="en">Anaconda: Death Coil</title>
-    <desc lang="en">Four friends visit a inherited cabin for nostalgia, but after finding a mutilated ranger and signs of a massive ancient anaconda, they're hunted by the creature and must survive the wilderness and uncover the land's dark history.</desc>
+<programme start="20261113064058 +0000" stop="20261113083153 +0000" channel="99992286">
+    <title lang="en">Kill Code</title>
+    <desc lang="en">In an AI-ruled future where code decides who lives and dies, one cyber agent uncovers the truth - and only she can rewrite the law.</desc>
     <category lang="en">Movies</category>
-    <icon src="https://image.xumo.com/v1/assets/asset/XM060ZO77KN0X6/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992286%2F768x432.jpg%3Ftype%3DchannelTile"/>
-    <episode-num system="dd_progid">XM060ZO77KN0X6</episode-num>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0X89IRMMMDFI/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992288%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM0X89IRMMMDFI</episode-num>
     <rating>
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261112210500 +0000" stop="20261112215817 +0000" channel="99993006">
-    <title lang="en">World's Most Evil Killers</title>
-    <desc lang="en">Cesar Barone was an American serial killer who took the life of four women in and around Hillsboro, Oregon in the 1990s.</desc>
-    <category lang="en">ETC</category>
-    <icon src="https://image.xumo.com/v1/assets/asset/XM0MSH5GSB4OT1/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993006%2F768x432.jpg%3Ftype%3DchannelTile"/>
-    <episode-num system="dd_progid">XM0MSH5GSB4OT1</episode-num>
+<programme start="20261113083153 +0000" stop="20261113101526 +0000" channel="99992286">
+    <title lang="en">Fatal Photo</title>
+    <desc lang="en">When a woman realizes she has taken a photo of an attempted murder, she must use the clues in the image to solve the crime... before she becomes the next victim.</desc>
+    <category lang="en">Movies</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0DNONE653R6I/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992286%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM0DNONE653R6I</episode-num>
     <rating>
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261112215817 +0000" stop="20261112224904 +0000" channel="99993006">
-    <title lang="en">World's Most Evil Killers</title>
-    <desc lang="en">The chilling story of Lee Ford, who killed his wife and four stepchildren in a cold-blooded murder spree over 24 hours in September 2000.</desc>
-    <category lang="en">ETC</category>
-    <icon src="https://image.xumo.com/v1/assets/asset/XM0P6Q3KMFGLXJ/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993006%2F768x432.jpg%3Ftype%3DchannelTile"/>
-    <episode-num system="dd_progid">XM0P6Q3KMFGLXJ</episode-num>
+<programme start="20261113023406 +0000" stop="20261113043836 +0000" channel="freemoviesplus_amg02042c1eng_US">
+    <title lang="en">Before I Go To Sleep</title>
+    <desc lang="en">An amnesiac woman wakes up daily with no memory of her past.</desc>
+    <category lang="en">Movies</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg02042/resized_images/resized_d51f869ba90c727b6e2e6e9c843eb5b340d4bee689bf0cbb05a0bc8e252a09a3_fmp10628png_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg02042c32_ACVEMu7aF17uvxbxkns7eTL_us</episode-num>
     <rating>
-      <value>TV-14</value>
+      <value>R</value>
     </rating>
   </programme>
-<programme start="20261112224904 +0000" stop="20261112234320 +0000" channel="99993006">
-    <title lang="en">World's Most Evil Killers</title>
-    <desc lang="en">The story of the 23-year-old killer who murdered 17-year-old former head girl Georgia Williams in 2013.</desc>
-    <category lang="en">ETC</category>
-    <icon src="https://image.xumo.com/v1/assets/asset/XM0R8MR54UIZOJ/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993006%2F768x432.jpg%3Ftype%3DchannelTile"/>
-    <episode-num system="dd_progid">XM0R8MR54UIZOJ</episode-num>
+<programme start="20261113043836 +0000" stop="20261113064250 +0000" channel="freemoviesplus_amg02042c1eng_US">
+    <title lang="en">Security</title>
+    <desc lang="en">A security guard protects an eleven year-old girl who is being targeted by a gang for participating</desc>
+    <category lang="en">Movies</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg02042/resized_images/resized_a9366a10d5baf6cca8e0a64767be1394c7ac767967c2cc2384780a39fb08c15b_fmp2211png_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg02042c32_AJrDkYLje9eUojecUcF2G9o_us</episode-num>
     <rating>
-      <value>TV-14</value>
+      <value>R</value>
     </rating>
   </programme>
-<programme start="20261112234320 +0000" stop="20261113003730 +0000" channel="99993006">
-    <title lang="en">World's Most Evil Killers</title>
-    <desc lang="en">The story of the killer who attacked his ex-girlfriend in a jealous frenzy and committed a brutal murder.</desc>
-    <category lang="en">ETC</category>
-    <icon src="https://image.xumo.com/v1/assets/asset/XM053O0ZCMUWHZ/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993006%2F768x432.jpg%3Ftype%3DchannelTile"/>
-    <episode-num system="dd_progid">XM053O0ZCMUWHZ</episode-num>
+<programme start="20261113064250 +0000" stop="20261113093504 +0000" channel="freemoviesplus_amg02042c1eng_US">
+    <title lang="en">The Infiltrator</title>
+    <desc lang="en">A U.S. Customs official uncovers a money laundering scheme involving Colombian drug lord Pablo Escobar.</desc>
+    <category lang="en">Movies</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg02042/resized_images/resized_2baf2b5170ac4f42957a64a63c0047a66ad6e16f916dfd133b1f91e9e12b659a_fmp21047png_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg02042c32_ARNryKbR6eyBfmKGN8jycg7_us</episode-num>
     <rating>
-      <value>TV-14</value>
+      <value>R</value>
     </rating>
   </programme>
-<programme start="20261112205717 +0000" stop="20261112215357 +0000" channel="haunttvus_hntus_US">
+<programme start="20261113093504 +0000" stop="20261113114321 +0000" channel="freemoviesplus_amg02042c1eng_US">
+    <title lang="en">The Dark Crystal</title>
+    <desc lang="en">A Gelfling named Jen who sets out to restore balance to his world by finding a missing shard of a magical crystal</desc>
+    <category lang="en">Movies</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg02042/resized_images/resized_f07be8a91f78733f2c2b5822492817b6d7abf6430388c2a39614b7014d76c762_fmp11079png_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg02042c32_APVHuM7VYWKQD3FTfKKMNQm_us</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+<programme start="20261113033154 +0000" stop="20261113043234 +0000" channel="haunttvus_hntus_US">
+    <title lang="en">The Scariest Night Of My Life</title>
+    <desc lang="en">Hunt for disembodied voices and get a sinking feeling with a mom and daughter.</desc>
+    <category lang="en">Documentary</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/HNTUS/resized_a51662e4e2c71f2173e1234f4025d9cb318c7bb71757736b98f2cf52346cf7a4_hfa01032362jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">HNTUS_HF_A01032362_US</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+<programme start="20261113043234 +0000" stop="20261113052711 +0000" channel="haunttvus_hntus_US">
+    <title lang="en">Celebrity Help! My House is Haunted</title>
+    <desc lang="en">Discover a shadow man and links to a vile killer in this reality star’s mansion.</desc>
+    <category lang="en">Quiz show</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/HNTUS/resized_ab2f5782de2aba82e3828afe682ae29178d0740131a2c7459271cc51fd93e170_hauntroku1920x1080jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">HNTUS_HF_A01051778_US</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+<programme start="20261113052711 +0000" stop="20261113062350 +0000" channel="haunttvus_hntus_US">
+    <title lang="en">Haunted Hospitals</title>
+    <desc lang="en">Challenge spirits that are hell-bent on punishing the living and spreading fear.</desc>
+    <category lang="en">Horror</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/HNTUS/resized_959480d94af36f94c6d82eb5482da11b089608d47fb566e1310ebfc1eb652a10_hfa01051555jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">HNTUS_HF_A01051555_US</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+<programme start="20261113062350 +0000" stop="20261113072030 +0000" channel="haunttvus_hntus_US">
+    <title lang="en">Haunted Hospitals</title>
+    <desc lang="en">A young medical assistant starting a new job in a former TB hospital.</desc>
+    <category lang="en">Documentary</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/HNTUS/resized_849387de8ad7010b41e68d79a03ce2e6b2e992532eae48162c76efb0bd641786_hfa01045438jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">HNTUS_HF_A01045438_US</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+<programme start="20261113072030 +0000" stop="20261113081710 +0000" channel="haunttvus_hntus_US">
     <title lang="en">Haunted Hospitals</title>
     <desc lang="en">An orderly discovers his frightening gift.</desc>
     <category lang="en">Documentary</category>
@@ -98,7 +154,7 @@
       <value>PG</value>
     </rating>
   </programme>
-<programme start="20261112215357 +0000" stop="20261112225037 +0000" channel="haunttvus_hntus_US">
+<programme start="20261113081710 +0000" stop="20261113091350 +0000" channel="haunttvus_hntus_US">
     <title lang="en">Haunted Hospitals</title>
     <desc lang="en">A nurse in Texas discovers her hospital is haunted.</desc>
     <category lang="en">Documentary</category>
@@ -108,7 +164,7 @@
       <value>PG</value>
     </rating>
   </programme>
-<programme start="20261112225037 +0000" stop="20261112234717 +0000" channel="haunttvus_hntus_US">
+<programme start="20261113091350 +0000" stop="20261113101030 +0000" channel="haunttvus_hntus_US">
     <title lang="en">Haunted Hospitals</title>
     <desc lang="en">A nurse aide discovers that her care facility contains a horrific creature.</desc>
     <category lang="en">Documentary</category>
@@ -118,154 +174,134 @@
       <value>PG</value>
     </rating>
   </programme>
-<programme start="20261112234717 +0000" stop="20261113004357 +0000" channel="haunttvus_hntus_US">
-    <title lang="en">Haunted Hospitals</title>
-    <desc lang="en">A nurse observes uncanny coincidences in connection with a long term care resident.</desc>
-    <category lang="en">Documentary</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/HNTUS/resized_ca79e13420294b15b3754e4fa0a7f1fbdfb3f6c42a47ca0a223f1c45aa15587f_hfa01045441jpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">HNTUS_HF_A01045441_US</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-<programme start="20261112203606 +0000" stop="20261112221714 +0000" channel="theasylummoviechannel_tasmc_US">
-    <title lang="en">Triassic World</title>
-    <desc lang="en">Dinosaurs used to grow human organs for transplants escape. The scientists that created them must fight back.</desc>
+<programme start="20261113022212 +0000" stop="20261113040319 +0000" channel="theasylummoviechannel_tasmc_US">
+    <title lang="en">Flight 666</title>
+    <desc lang="en">Unseen spirits attack the passengers and crew of an international flight as they try to stop their killer.</desc>
     <category lang="en">Action</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/tasmc/resized_707081481b358cdf277ff185fb7811bdeb62f3a54d5e7035705cee034508f99f_triassicworld1920x1080jpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">tasmc_TriassicWorld_Feature_2997_20_US</episode-num>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/tasmc/resized_adb7eb09a9a4b42ee765c5c8342e9825424692378b975ec5301051d0f0a05e4f_flight6661920x1080jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">tasmc_FLIGHT666_Feature_2997_20_Clean_US</episode-num>
     <rating>
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261112221714 +0000" stop="20261112235543 +0000" channel="theasylummoviechannel_tasmc_US">
-    <title lang="en">The 9/11 Commission Report</title>
-    <desc lang="en">Events from the 9/11 commission expose the missed opportunities that lead to our nation's greatest tragedy.</desc>
+<programme start="20261113040319 +0000" stop="20261113054209 +0000" channel="theasylummoviechannel_tasmc_US">
+    <title lang="en">Blood Lake</title>
+    <desc lang="en">Thousands of carnivorous fish attack citizens of a sleepy lake town, leaving them scrambling to stay alive.</desc>
     <category lang="en">Action</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/tasmc/resized_7ea8bb6b8ff16b761f4a574ec4eebc747a375427dbbd902674f7e2b4a321ad8d_the911commissionreport1920x1080jpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">tasmc_The9-11CommissionReport_Feature_2997_20_US</episode-num>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/tasmc/resized_96b5d7dddc87dc276fb4a90fc2eb994d00d6a60ee165128d7fe6b907d28389c9_bloodlake1920x1080jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">tasmc_BloodLake_Feature_2997_20_Amagi_US</episode-num>
     <rating>
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261112235543 +0000" stop="20261113013238 +0000" channel="theasylummoviechannel_tasmc_US">
-    <title lang="en">The 6th Friend</title>
-    <desc lang="en">After their graduation party went wrong, friends reunite - but an uninvited guest brings horror and bloodshed.</desc>
+<programme start="20261113054209 +0000" stop="20261113072131 +0000" channel="theasylummoviechannel_tasmc_US">
+    <title lang="en">Shark Season</title>
+    <desc lang="en">Three kayakers fight for their lives when a great white shark traps them on a small, sinking island.</desc>
+    <category lang="en">Action</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/tasmc/resized_6c19b35da582c02a00dde18c1de4917be7a272dcd6fe010b0d304f0bbadaa47a_sharkseason1920x1080jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">tasmc_SharkSeason_Feature_2997_20_US</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261113072131 +0000" stop="20261113090504 +0000" channel="theasylummoviechannel_tasmc_US">
+    <title lang="en">The Jolly Monkey</title>
+    <desc lang="en">As they try to sort out what to do with their motel, a family is stalked by a monkey-masked killer.</desc>
     <category lang="en">Horror</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/tasmc/resized_5b8ada29cc49237a745b208c625f13f6079c92767760b791dfb191e366848e96_the6thfriend1920x1080jpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">tasmc_The6thFriend_Feature_2997_20_US</episode-num>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/tasmc/resized_6d604d18c48c81b4e9d8c57e15bd278f40643acbb4653d671546d16ecc03e758_thejollymonkey1920x1080jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">tasmc_TheJollyMonkey_Feature_2997_20_Amagi_US</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261113090504 +0000" stop="20261113104252 +0000" channel="theasylummoviechannel_tasmc_US">
+    <title lang="en">A Haunting in Salem</title>
+    <desc lang="en">The new sheriff of Salem, Mass., discovers he is cursed, and must protect his family from vengeful ghosts.</desc>
+    <category lang="en">Horror</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/tasmc/resized_e23be99e261364ce9ab48ad0ceb63c31f6d6535700f16a2481c315d2ac9fef8d_ahauntinginsalem1920x1080jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">tasmc_AHauntingInSalem_Feature_2997_20_US</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261113031925 +0000" stop="20261113051616 +0000" channel="tribeca_tribe_US">
+    <title lang="en">Assault On Precinct 13</title>
+    <desc lang="en">An LA precinct is under siege by a bloodthirsty street gang.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg02042/resized_images/resized_0e02c9c72731d8bc16eeccafd927aff288b5a0ac9e0acea9c5de38c8c7c618f7_fmp30016png_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg02042c61_A78U8rbkuDJcLirhzMATz4C_us</episode-num>
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+<programme start="20261113051616 +0000" stop="20261113072121 +0000" channel="tribeca_tribe_US">
+    <title lang="en">The Kill Room</title>
+    <desc lang="en">A hitman, his boss, an art dealer and a money-laundering scheme that accidentally turns the assassin</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg02042/resized_images/resized_5aa62351403e90cecc78922eb5894439e929968924c3cabff7d537a30142a8a8_fmp21132png_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg02042c61_AWFsrzwmeRHVLUN7EtNoYEv_us</episode-num>
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+<programme start="20261113072121 +0000" stop="20261113103012 +0000" channel="tribeca_tribe_US">
+    <title lang="en">Paris, Texas</title>
+    <desc lang="en">Travis Henderson, an aimless drifter who has been missing for four years, wanders out of the desert and must reconnect with society, himself, his life, and his family.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg02042/resized_images/resized_eb1b06f46766ad58ebb826500940a8aff6f0779e5ef67196ceddbccd384e6d8d_fmp2006m50png_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg02042c61_AEQnwYUEA6zb4v7ZeiiXSvW_us</episode-num>
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+<programme start="20261113021520 +0000" stop="20261113041030 +0000" channel="us-cinedigm_entertainment_corp_screamboxtv_1">
+    <title lang="en">Nomads (Edited Version)</title>
+    <desc lang="en">A French anthropologist intends to settle peacefully in Los Angeles, but a mystical band of deadly evil spirits(lead by Adam Ant)-- the incarnation of nomads he once studied -- materialize to haunt him.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/1845/lg/88167e/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-CineverseEntertainmentCorp-118135823-52541967-52525612</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261113041030 +0000" stop="20261113060038 +0000" channel="us-cinedigm_entertainment_corp_screamboxtv_1">
+    <title lang="en">The Stepfather (Edited Version)</title>
+    <desc lang="en">After murdering his entire family, a man remarries a widow with a teenage daughter in another town and prepares to do it all over again.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/1845/lg/88167e/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-CineverseEntertainmentCorp-118135828-52541967-52525612</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261113060038 +0000" stop="20261113080000 +0000" channel="us-cinedigm_entertainment_corp_screamboxtv_1">
+    <title lang="en">#Manhole</title>
+    <desc lang="en">On the day before Shunsuke Kawamura's wedding, his colleagues hold a surprise party for him. On his way home from the party, Shunsuke falls into a deep manhole. When he wakes, trapped and horrified by incidents one after another, he gets desperate to escape and uses his only reliable tool, his smartphone. The clock ticks mercilessly and the morning is nearing. Can the groom get out of the hole intact and get married to continue with his successful life?</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/1845/lg/88167e/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-CineverseEntertainmentCorp-118135832-52541967-52525612</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261113080000 +0000" stop="20261113093505 +0000" channel="us-cinedigm_entertainment_corp_screamboxtv_1">
+    <title lang="en">13 Nights of Elvira</title>
+    <desc lang="en">Elvira holiday gift to all of you is this awful lump of coal, straight off the naughty list. Gary Busey stars as the voice of this creepy cookie made from the ashes of a serial killer is a recipe for disaster in this creepy clas-sick</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/1845/lg/88167e/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-CineverseEntertainmentCorp-117520083-56748805-56731219</episode-num>
     <rating>
       <value>TV-MA</value>
     </rating>
   </programme>
-<programme start="20261112195336 +0000" stop="20261112222306 +0000" channel="tribeca_tribe_US">
-    <title lang="en">Triple 9</title>
-    <desc lang="en">Criminals and crooked cops hatch a devious scheme to use an honest lawman as a pawn for a heist.</desc>
-    <category lang="en">ETC</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg02042/resized_images/resized_bbfca7fcc4e18ac233052a6a2f47b1915aabc3b4f2c7c09f466b0602981b6377_fmp2215png_768_432.jpeg"/>
-    <episode-num system="dd_progid">amg02042c61_AE5XXxcXpJXgheAq4P879nZ_us</episode-num>
-    <rating>
-      <value>R</value>
-    </rating>
-  </programme>
-<programme start="20261112222306 +0000" stop="20261113010139 +0000" channel="tribeca_tribe_US">
-    <title lang="en">Two For the Money</title>
-    <desc lang="en">Brandon Lang loves football: an injury keeps him from the pros.</desc>
-    <category lang="en">ETC</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg02042/resized_images/resized_3e1902347273d8d4ae5d7db1384ef39e0be682560878c31a3a4d38d54c2b2e42_fmp21165png_768_432.jpeg"/>
-    <episode-num system="dd_progid">amg02042c61_APLhh8EVzKDUeoZLyeNXXYt_us</episode-num>
-    <rating>
-      <value>R</value>
-    </rating>
-  </programme>
-<programme start="20261112194537 +0000" stop="20261112214040 +0000" channel="us-cinedigm_entertainment_corp_screamboxtv_1">
-    <title lang="en">The Deeper You Dig (Edited Version)</title>
-    <desc lang="en">14-year old Echo and her mother Ivy, a tarot card reader, live a quiet life in a rural area. When reclusive Kurt moves down the road to restore an abandoned farmhouse, an accident leads to Echos murder, and suddenly three lives collide in mysterious and wicked ways. Kurt assumes he can hide his secret under the ground. But Echo burrows into his head until he can feel her in his bones. As she haunts his every move, trying to reach her mother from beyond, Ivy must dig deep to see the signs and prove that love wont stay buried.</desc>
+<programme start="20261113093505 +0000" stop="20261113114011 +0000" channel="us-cinedigm_entertainment_corp_screamboxtv_1">
+    <title lang="en">13 Nights of Elvira</title>
+    <desc lang="en">Fly the fiendish skies with Elvira on a trip to Oblivion. Its Cowboys and Aliens, as a gang of futuristic desperadoes , including cult faves Julie Newmar and George Takei, attempt to turn a town into their own private playground.</desc>
     <category lang="en">Drama</category>
     <icon src="http://img.platform.wurl.dev/channel/1845/lg/88167e/LG-768x432_v1.png"/>
-    <episode-num system="dd_progid">US-CineverseEntertainmentCorp-118135804-52541967-52525612</episode-num>
+    <episode-num system="dd_progid">US-CineverseEntertainmentCorp-117520085-56800150-56778834</episode-num>
     <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261112214040 +0000" stop="20261112233047 +0000" channel="us-cinedigm_entertainment_corp_screamboxtv_1">
-    <title lang="en">Maniac Cop 2</title>
-    <desc lang="en">The Maniac Cop is back from the dead and stalking the streets of New York once more. Officer Matt Cordell was once a hero, but after being framed by corrupt superiors and brutally assaulted in prison, he sets out on a macabre mission of vengeance, teaming up with a vicious serial killer to track down those that wronged him and make them pay... with their lives!</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://img.platform.wurl.dev/channel/1845/lg/88167e/LG-768x432_v1.png"/>
-    <episode-num system="dd_progid">US-CineverseEntertainmentCorp-118135809-52541967-52525612</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261112233047 +0000" stop="20261113011051 +0000" channel="us-cinedigm_entertainment_corp_screamboxtv_1">
-    <title lang="en">Victor Crowley (Edited Version)</title>
-    <desc lang="en">In 2007, over forty people were brutally torn to pieces in Louisianas Honey Island Swamp. Over the past decade, lone survivor Andrews (Parry Shen) claims that local legend Victor Crowley (Kane Hodder, Friday the 13th series) was responsible for the horrific massacre have been met with great controversy. But when a twist of fate puts him back at the scene of the tragedy, Crowley is mistakenly resurrected and Andrew must face the bloodthirsty ghost from his past. Featuring Laura Ortiz (The Hills Have Eyes), Dave Sheridan (Scary Movie), and Brian Quinn (truTVs Impractical Jokers), writer/director Adam Greens triumphant return to the directors chair proudly assures an all-new, horrifying journey into the haunted, blood-drenched bayou.</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://img.platform.wurl.dev/channel/1845/lg/88167e/LG-768x432_v1.png"/>
-    <episode-num system="dd_progid">US-CineverseEntertainmentCorp-118135813-52541967-52525612</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261112213000 +0000" stop="20261112220000 +0000" channel="us-scripps_laffmore_1">
-    <title lang="en">Mann &amp; Wife</title>
-    <desc lang="en">The Mann's cousin Barry comes for a visit and goes undercover to help break up a crime ring; rival detectives compete with Hobbs and Mann to solve the cold case.</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://img.platform.wurl.dev/channel/1498/lg/d22c6a/LG-768x432_v1.png"/>
-    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120291401-56851741-56762773</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261112220000 +0000" stop="20261112223000 +0000" channel="us-scripps_laffmore_1">
-    <title lang="en">Home Improvement</title>
-    <desc lang="en">Tim (Tim Allen) and Bob Vila face off in a handyman auction and also compete in an auto race. With Bob Vila as himself.</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://img.platform.wurl.dev/channel/1498/lg/d22c6a/LG-768x432_v1.png"/>
-    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120291432-56782456-56762611</episode-num>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
-<programme start="20261112223000 +0000" stop="20261112230000 +0000" channel="us-scripps_laffmore_1">
-    <title lang="en">Home Improvement</title>
-    <desc lang="en">When Jill is laid off from work, Tim is less than considerate.</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://img.platform.wurl.dev/channel/1498/lg/d22c6a/LG-768x432_v1.png"/>
-    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120291460-56783261-56762611</episode-num>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
-<programme start="20261112230000 +0000" stop="20261112233000 +0000" channel="us-scripps_laffmore_1">
-    <title lang="en">Home Improvement</title>
-    <desc lang="en">After Tim (Tim Allen) criticizes Jill (Patricia Richardson) for the car getting scratched, he nearly totals it himself.</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://img.platform.wurl.dev/channel/1498/lg/d22c6a/LG-768x432_v1.png"/>
-    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120291503-56783261-56762611</episode-num>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
-<programme start="20261112233000 +0000" stop="20261113000000 +0000" channel="us-scripps_laffmore_1">
-    <title lang="en">Home Improvement</title>
-    <desc lang="en">Tim is less than thrilled about turning 40 when his friend has a heart attack.</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://img.platform.wurl.dev/channel/1498/lg/d22c6a/LG-768x432_v1.png"/>
-    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120291523-56783261-56762611</episode-num>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
-<programme start="20261113000000 +0000" stop="20261113003000 +0000" channel="us-scripps_laffmore_1">
-    <title lang="en">The Jeff Foxworthy Show</title>
-    <desc lang="en">Trey wants to impress a potential client by re-enacting a Civil War battle; Jeff's bank believes he is dead.</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://img.platform.wurl.dev/channel/1498/lg/d22c6a/LG-768x432_v1.png"/>
-    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120365115-56851847-56827083</episode-num>
-    <rating>
-      <value>TV-G</value>
+      <value>TV-MA</value>
     </rating>
   </programme>
 </tv>
