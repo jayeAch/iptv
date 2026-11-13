@@ -39,6 +39,8 @@ from pathlib import Path
 #                hauntings, UFOs, cryptids); NOT supernatural dramas/fiction,
 #                which stay in Sci-Fi / Horror / Drama
 #   Sci-Fi and Horror are separate; anything both defaults to Sci-Fi
+#   Toons      = cartoons / animated series (incl. adult animation); sits above
+#                Comedy and Kids so animated comedies land here
 # ---------------------------------------------------------------------------
 CANONICAL_CATEGORIES: tuple[str, ...] = (
     'Ambiance',
@@ -67,6 +69,7 @@ CANONICAL_CATEGORIES: tuple[str, ...] = (
     'Reality TV',
     'Sci-Fi',
     'Sports',
+    'Toons',
     'True Crime',
 )
 
@@ -237,6 +240,52 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
         shudder
         watch it scream
     """)),
+    # Toons above Comedy/Kids: animated shows (incl. adult animation) stay here.
+    ('Toons', _words("""
+        aqua teen hunger force
+        archer
+        american dad
+        beavis and butt-head
+        beavis and butthead
+        bobs burgers
+        boomerang
+        cartoon
+        cartoons
+        cartoon network
+        comedy central animation
+        family guy
+        futurama
+        king of the hill
+        looney tunes
+        metalocalypse
+        mr. pickles
+        primal
+        rick and morty
+        robot chicken
+        samurai jack
+        south park
+        spongebob
+        squidbillies
+        the simpsons
+        the venture bros.
+        toon goggles
+        toonami
+        toons
+        tom and jerry
+        your pretty face is going to hell
+    """)),
+    ('Comedy', _words("""
+        comedy central
+        comedy vault
+        dry bar comedy
+        great comedy
+        laff more
+        mst3k
+        mystery science theater
+        sitcom
+        sitcoms
+        snl vault
+    """)),
 ]
 
 
@@ -343,6 +392,9 @@ RAW_GROUPS: dict[str, tuple[str, ...]] = {
         'sci-fi', 'sci-fi & fantasy', 'sci-fi & horror', 'sci-fi & supernatural',
         'sci-fi + fantasy', 'sci-fi and horror', 'science fiction',
     ),
+    'Toons': (
+        'animated', 'animation', 'cartoon', 'cartoons', 'toons',
+    ),
     'Sports': (
         'calcio', 'deporte', 'outdoors', 'sport', 'sports',
     ),
@@ -378,7 +430,8 @@ RAW_KEYWORD_RULES: list[tuple[str, tuple[str, ...]]] = [
     ('Crime',          ('crime', 'mystery', 'thriller')),
     ('News',           ('news', 'business', 'finance', 'weather')),
     ('Movies',         ('movie', 'film', 'cinema')),
-    ('Kids',           ('kid', 'family', 'cartoon')),
+    ('Toons',          ('cartoon', 'toons', 'animation')),
+    ('Kids',           ('kid', 'family')),
     ('Sports',         ('sport', 'soccer', 'football', 'basketball')),
     ('Music',          ('music', 'radio')),
     ('Reality TV',     ('game show', 'daytime', 'reality', 'dating')),
@@ -419,7 +472,8 @@ NAME_KEYWORD_RULES: list[tuple[str, tuple[str, ...]]] = [
     ('Nature',         ('nature', 'wildlife', 'wildearth', 'love nature', 'national geographic')),
     ('Lifestyle',      ('this old house', 'home & diy', 'gardening', 'home improvement')),
     ('Comedy',         ('comedy', 'laugh', 'sitcom', 'snl', 'mst3k', 'failarmy')),
-    ('Kids',           ('kids', 'family', 'children', 'cartoon', 'junior')),
+    ('Toons',          ('cartoon', 'toonami', 'toon goggles', 'looney tunes')),
+    ('Kids',           ('kids', 'family', 'children', 'junior')),
     ('Drama',          ('drama', 'hallmark', 'law & order', 'csi', 'ncis')),
     ('Movies',         ('movies', 'movie', 'cinema', 'film', 'paramount movie')),
     ('Classic TV',     ('western', 'gunsmoke', 'wild west', 'bonanza')),
