@@ -2,7 +2,7 @@ name: Filter M3U Playlists
 
 on:
   schedule:
-    - cron: "25 * * * *"
+    - cron: "15  */3 * * *"
   workflow_dispatch:
     inputs:
       force_rebuild:
