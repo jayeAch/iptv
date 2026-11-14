@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-<channel id="freemoviesplus_amg02042c1eng_US">
-    <display-name>Free Movies Plus</display-name>
-    <icon src="https://preview-amagistv-amg02042-cloudport.now.amagi.tv/Images/S3/FMPLOGOLG.png"/>
-  </channel>
 <channel id="99992286">
     <display-name>Xumo Free Action Movies</display-name>
     <icon src="https://image.xumo.com/v1/channels/channel/99992286/400x200.png?type=white_cropped"/>
@@ -24,36 +20,14 @@
     <display-name>Haunt TV US</display-name>
     <icon src="https://d2y2gft5545ze9.cloudfront.net/HauntTV_200pxHigh_LG_ChannelAssets_White.png"/>
   </channel>
-<programme start="20261113221915 +0000" stop="20261114001010 +0000" channel="99992286">
-    <title lang="en">Kill Code</title>
-    <desc lang="en">In an AI-ruled future where code decides who lives and dies, one cyber agent uncovers the truth - and only she can rewrite the law.</desc>
-    <category lang="en">Movies</category>
-    <icon src="https://image.xumo.com/v1/assets/asset/XM0X89IRMMMDFI/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992286%2F768x432.jpg%3Ftype%3DchannelTile"/>
-    <episode-num system="dd_progid">XM0X89IRMMMDFI</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261114001010 +0000" stop="20261114014220 +0000" channel="99992286">
-    <title lang="en">Buckskin 2</title>
-    <desc lang="en">After the events of the first film, Eli Porter is asked to return to the cursed Buckskin woods in the hopes of finding a young lady who is wanted by rival tribes and business men alike in the west.</desc>
-    <category lang="en">ETC</category>
-    <icon src="https://image.xumo.com/v1/assets/asset/XM0VQ27QAEERCP/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992285%2F768x432.jpg%3Ftype%3DchannelTile"/>
-    <episode-num system="dd_progid">XM0VQ27QAEERCP</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261114014220 +0000" stop="20261114031640 +0000" channel="99992286">
-    <title lang="en">Prey of Wrath</title>
-    <desc lang="en">An elite special forces operative is sent by Russian Intelligence to hunt down former teammates who have hijacked nuclear warheads.</desc>
-    <category lang="en">Movies</category>
-    <icon src="https://image.xumo.com/v1/assets/asset/XM0O3DBA74F505/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992286%2F768x432.jpg%3Ftype%3DchannelTile"/>
-    <episode-num system="dd_progid">XM0O3DBA74F505</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
+<channel id="us-scripps_laffmore_1">
+    <display-name>Laff More</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/1498/lg/d22c6a/LG-Logo-PNG-100x100_v1.png"/>
+  </channel>
+<channel id="99993006">
+    <display-name>World's Most Evil Killers</display-name>
+    <icon src="https://image.xumo.com/v1/channels/channel/99993006/400x200.png?type=white_cropped"/>
+  </channel>
 <programme start="20261114031640 +0000" stop="20261114050000 +0000" channel="99992286">
     <title lang="en">Joe Baby</title>
     <desc lang="en">A money collector for a private investigator is hired to track down 10 million dollars stolen in a dodgy real estate deal, opening a complex can of worms.</desc>
@@ -74,114 +48,44 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261113220116 +0000" stop="20261114003433 +0000" channel="freemoviesplus_amg02042c1eng_US">
-    <title lang="en">Beauty And The Beast</title>
-    <desc lang="en">A modern retelling of the classic fairy tale.</desc>
-    <category lang="en">Movies</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg02042/resized_images/resized_e5fe20fa3880518b6cf05be76001883d39009f3bc4b742bc712b87bf68fb3e39_fmp109763png_768_432.jpeg"/>
-    <episode-num system="dd_progid">amg02042c32_AANidNqhLzJ6dwwyRZpbavj_us</episode-num>
+<programme start="20261114031359 +0000" stop="20261114040804 +0000" channel="99993006">
+    <title lang="en">World's Most Evil Prisoners</title>
+    <desc lang="en">Convicted of shooting a man and 21 other felonies, Miti Maugaotega Jr. receives one of the longest prison sentences in Hawaiʻi history. Behind bars, he joins a prison gang and becomes a tornado of death and destruction.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0WUP66X5F6M8/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993006%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM0WUP66X5F6M8</episode-num>
     <rating>
-      <value>PG-13</value>
+      <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261114003433 +0000" stop="20261114031542 +0000" channel="freemoviesplus_amg02042c1eng_US">
-    <title lang="en">Mother's Day</title>
-    <desc lang="en">Moms, daughters and sons in Atlanta cross paths in the days leading up to Mother's Day.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg02042/resized_images/resized_f7e00d0eb2bf974dccdd80620be5d05768e9a4ebe0f23740200f9073fe2eca11_fmp2006m49png_768_432.jpeg"/>
-    <episode-num system="dd_progid">amg02042c32_ALWjPRjirjPKvRQn7LkjFGG_us</episode-num>
+<programme start="20261114040804 +0000" stop="20261114050000 +0000" channel="99993006">
+    <title lang="en">World's Most Evil Prisoners</title>
+    <desc lang="en">After shooting two people, Rodney Berget kidnaps and sexually assaults a gas station clerk. Prison struggles to contain him: an escape expert, his final attempt involves the sadistic murder of a corrections officer.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0AFVOW02Y2L1/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993006%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM0AFVOW02Y2L1</episode-num>
     <rating>
-      <value>PG-13</value>
+      <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261114031542 +0000" stop="20261114054821 +0000" channel="freemoviesplus_amg02042c1eng_US">
-    <title lang="en">Georgia Rule</title>
-    <desc lang="en">A troubled young woman is sent to live with her grandmother for the summer, while hiding a secret that could potentially tear her family apart.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg02042/resized_images/resized_43321e38bdf38b90a446fd64be5616fa9f02b40287dfd589922f02c9b150b939_fmp210802x3png_768_432.jpeg"/>
-    <episode-num system="dd_progid">amg02042c32_AS8n9QT32D16TG1MCQLuLTq_us</episode-num>
+<programme start="20261114050000 +0000" stop="20261114055515 +0000" channel="99993006">
+    <title lang="en">World's Most Evil Killers</title>
+    <desc lang="en">Catherine Nevin and her husband Tom were successful publicans and property developers in the Dublin and Wicklow areas. Catherine reported a break-in and violent attack at their pub one night in 1996, which left Tom dead.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM006BAU25U0QO/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993006%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM006BAU25U0QO</episode-num>
     <rating>
-      <value>R</value>
+      <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261114054821 +0000" stop="20261114075251 +0000" channel="freemoviesplus_amg02042c1eng_US">
-    <title lang="en">Before I Go To Sleep</title>
-    <desc lang="en">An amnesiac woman wakes up daily with no memory of her past.</desc>
-    <category lang="en">Movies</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg02042/resized_images/resized_d51f869ba90c727b6e2e6e9c843eb5b340d4bee689bf0cbb05a0bc8e252a09a3_fmp10628png_768_432.jpeg"/>
-    <episode-num system="dd_progid">amg02042c32_ACVEMu7aF17uvxbxkns7eTL_us</episode-num>
+<programme start="20261114055515 +0000" stop="20261114064717 +0000" channel="99993006">
+    <title lang="en">World's Most Evil Killers</title>
+    <desc lang="en">Dublin man Eric Locke refused to accept it when Sonia Blount, a mother of one, ended their relationship. After resorting to begging, stalking, threats and manipulation, he created a fake social media profile, posing as a potential love interest.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0JKQHKHTET6O/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993006%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM0JKQHKHTET6O</episode-num>
     <rating>
-      <value>R</value>
-    </rating>
-  </programme>
-<programme start="20261113231626 +0000" stop="20261113234520 +0000" channel="haunttvus_hntus_US">
-    <title lang="en">Ghostly Encounters</title>
-    <desc lang="en">Hear from two people who’ve been to the other side and lived to tell the tale.</desc>
-    <category lang="en">Documentary</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/HNTUS/resized_a76b4f533722299fa10cf9f28ccd9f5ff5a8657b11afa12bfce9df630aff7acc_hfa01032589jpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">HNTUS_HF_A01032589_US</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-<programme start="20261113234520 +0000" stop="20261114001414 +0000" channel="haunttvus_hntus_US">
-    <title lang="en">Ghostly Encounters</title>
-    <desc lang="en">Meet two women who receive ghostly messages that save their mothers’ lives.</desc>
-    <category lang="en">Documentary</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/HNTUS/resized_2df3c3562310d11ec4046747cba2598cf102c89f6ebbd68645290c383b797d9a_hfa01032590jpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">HNTUS_HF_A01032590_US</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-<programme start="20261114001414 +0000" stop="20261114004309 +0000" channel="haunttvus_hntus_US">
-    <title lang="en">Ghostly Encounters</title>
-    <desc lang="en">See how people turn to religious symbols when faced with supernatural threats.</desc>
-    <category lang="en">Documentary</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/HNTUS/resized_ef724246b793447ec969da114cd324c23fcf9fbf9c380031f89a3095244a9a36_hfa01032591jpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">HNTUS_HF_A01032591_US</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-<programme start="20261114004309 +0000" stop="20261114011657 +0000" channel="haunttvus_hntus_US">
-    <title lang="en">Ghostly Encounters</title>
-    <desc lang="en">Learn about Fred and Pansy’s ghostly relationships with their dead spouses.</desc>
-    <category lang="en">Documentary</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/HNTUS/resized_9673ad759be2d33d11f239db26d5b1e9367691be0c5afb03b23c56a4b70fd0ef_hfa01032592jpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">HNTUS_HF_A01032592_US</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-<programme start="20261114011657 +0000" stop="20261114020524 +0000" channel="haunttvus_hntus_US">
-    <title lang="en">Alien Files Reopened</title>
-    <desc lang="en">Revisit a Swiss man’s meeting with an alien race from the Pleiades star cluster.</desc>
-    <category lang="en">Documentary</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/HNTUS/resized_dcd6754559e5bedab683e550716aa05da0757b35935aa681ad9ba61ff7bbae6b_hfa01052969jpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">HNTUS_HF_A01052969_US</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-<programme start="20261114020524 +0000" stop="20261114023313 +0000" channel="haunttvus_hntus_US">
-    <title lang="en">World's Most Unexplained</title>
-    <desc lang="en">The famous inscription warns: "Death comes to him who disturbs the King."</desc>
-    <category lang="en">Documentary</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/HNTUS/resized_fa63b49e594a0edc3a0f6d01d4bbf037414cc75d4ac0e450b65860b506976b40_hfa01041802jpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">HNTUS_HF_A01041802_US</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-<programme start="20261114023313 +0000" stop="20261114030111 +0000" channel="haunttvus_hntus_US">
-    <title lang="en">World's Most Unexplained</title>
-    <desc lang="en">Could a strange creature seen by three people in rural Massachusetts be a coincidence?</desc>
-    <category lang="en">Documentary</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/HNTUS/resized_8df554cda8edb813ff2f7ace0669f2e23850ab5859c0f4871cb914994e715f53_hfa01041803jpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">HNTUS_HF_A01041803_US</episode-num>
-    <rating>
-      <value>PG</value>
+      <value>TV-14</value>
     </rating>
   </programme>
 <programme start="20261114030111 +0000" stop="20261114032902 +0000" channel="haunttvus_hntus_US">
@@ -234,36 +138,6 @@
       <value>PG</value>
     </rating>
   </programme>
-<programme start="20261113221831 +0000" stop="20261114000129 +0000" channel="theasylummoviechannel_tasmc_US">
-    <title lang="en">The Bell Witch Haunting</title>
-    <desc lang="en">Sheriff's Dept. released found footage of murder/suicide connected with a supernatural event from the 1800s.</desc>
-    <category lang="en">Horror</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/tasmc/resized_826e63c287e9657c299936f5dba958751e19af79a80f71b269b8eac377846f6c_thebellwitchhaunting1920x1080jpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">tasmc_TheBellWitchHaunting_Feature_2997_20_US</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261114000129 +0000" stop="20261114013825 +0000" channel="theasylummoviechannel_tasmc_US">
-    <title lang="en">The Exorcists</title>
-    <desc lang="en">When his child is possessed by an unrelenting evil, a father hires three expert exorcists to purge the demon.</desc>
-    <category lang="en">Horror</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/tasmc/resized_a4e4ea34ee54d389415764bae25b4fd5eee34b05089bd0c74afdf99067dcf543_theexorcists1920x1080jpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">tasmc_TheExorcists_FEATURE_2997_20_US</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261114013825 +0000" stop="20261114022628 +0000" channel="theasylummoviechannel_tasmc_US">
-    <title lang="en">Z Nation</title>
-    <desc lang="en">Our Heroes come upon a group of evil "Zuggalo" clown-style bandits torturing a captive.</desc>
-    <category lang="en">Action</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/tasmc/resized_1b5e1129e10e2f9f8fb757867c26572d46cc47241885862393a3684c10c9a4ca_stationcoverart1920x1080lgjpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">tasmc_ZNation_407_2997_20_US</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme start="20261114022628 +0000" stop="20261114040340 +0000" channel="theasylummoviechannel_tasmc_US">
     <title lang="en">Halloween Night</title>
     <desc lang="en">Based on a true story, a man breaks free from an asylum on Halloween night and slaughters more victims.</desc>
@@ -294,16 +168,6 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-<programme start="20261113231618 +0000" stop="20261114014809 +0000" channel="tribeca_tribe_US">
-    <title lang="en">Arlington Road</title>
-    <desc lang="en">Man begins to suspect his neighbors are not what they appear to be and their secrets could be deadly</desc>
-    <category lang="en">Action</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg02042/resized_images/resized_471da7a7c8773737a0dcf09e11f7c54a16a8464a7c9cdd09923e4a6ecdbbe87c_fmp2212png_768_432.jpeg"/>
-    <episode-num system="dd_progid">amg02042c61_A9vmkELzzeCRr36KCnQKfrP_us</episode-num>
-    <rating>
-      <value>R</value>
-    </rating>
-  </programme>
 <programme start="20261114014809 +0000" stop="20261114040024 +0000" channel="tribeca_tribe_US">
     <title lang="en">Pacific Heights</title>
     <desc lang="en">A couple work hard to renovate their dream house and become landlords to pay for it.</desc>
@@ -322,76 +186,6 @@
     <episode-num system="dd_progid">amg02042c61_ASY6EJZx7uF26sjUvdDHcWx_us</episode-num>
     <rating>
       <value>R</value>
-    </rating>
-  </programme>
-<programme start="20261113220539 +0000" stop="20261113233547 +0000" channel="us-cinedigm_entertainment_corp_screamboxtv_1">
-    <title lang="en">Another Cabin In The Woods Movie</title>
-    <desc lang="en">A wedding party full of horror-savvy characters finds themselves trapped in yet another cabin in the woods. They must navigate a maze of murder and mystery to uncover who will stop at nothing for their twisted happily ever after.</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://img.platform.wurl.dev/channel/1845/lg/88167e/LG-768x432_v1.png"/>
-    <episode-num system="dd_progid">US-CineverseEntertainmentCorp-117520097-52541967-52525612</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261113233547 +0000" stop="20261114010052 +0000" channel="us-cinedigm_entertainment_corp_screamboxtv_1">
-    <title lang="en">The White Reindeer</title>
-    <desc lang="en">The debut feature film by Finnish documentarian Erik Blomberg, this eerie and spectacularly filmed horror experience (Mondo Digital) remains a pioneering shocker of shamanism, vampirism and female sexuality: Unknowingly born a witch, a frustrated young Lapland wife (co-writer Mirjami Kuosmanen) shapeshifts into a bloodthirsty white reindeer with an insatiable appetite for the local herdsmen.</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://img.platform.wurl.dev/channel/1845/lg/88167e/LG-768x432_v1.png"/>
-    <episode-num system="dd_progid">US-CineverseEntertainmentCorp-117520098-52541967-52525612</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261114010052 +0000" stop="20261114012554 +0000" channel="us-cinedigm_entertainment_corp_screamboxtv_1">
-    <title lang="en">Bloody Bites</title>
-    <desc lang="en">Streaming exclusively from Bloody Disgusting and Scotchworthy Productions, Bloody Bites is a compilation of snack-sized horror films that will terrorize, astonish, disturb, and excite genre fans across the globe.</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://img.platform.wurl.dev/channel/1845/lg/88167e/LG-768x432_v1.png"/>
-    <episode-num system="dd_progid">US-CineverseEntertainmentCorp-117520099-56748801-56731215</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261114012554 +0000" stop="20261114015559 +0000" channel="us-cinedigm_entertainment_corp_screamboxtv_1">
-    <title lang="en">Bloody Bites</title>
-    <desc lang="en">Streaming exclusively from Bloody Disgusting and Scotchworthy Productions, Bloody Bites is a compilation of snack-sized horror films that will terrorize, astonish, disturb, and excite genre fans across the globe.</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://img.platform.wurl.dev/channel/1845/lg/88167e/LG-768x432_v1.png"/>
-    <episode-num system="dd_progid">US-CineverseEntertainmentCorp-117520100-56748801-56731215</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261114015559 +0000" stop="20261114022602 +0000" channel="us-cinedigm_entertainment_corp_screamboxtv_1">
-    <title lang="en">Bloody Bites</title>
-    <desc lang="en">Streaming exclusively from Bloody Disgusting and Scotchworthy Productions, Bloody Bites is a compilation of snack-sized horror films that will terrorize, astonish, disturb, and excite genre fans across the globe.</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://img.platform.wurl.dev/channel/1845/lg/88167e/LG-768x432_v1.png"/>
-    <episode-num system="dd_progid">US-CineverseEntertainmentCorp-117520101-56748801-56731215</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261114022602 +0000" stop="20261114025605 +0000" channel="us-cinedigm_entertainment_corp_screamboxtv_1">
-    <title lang="en">Bloody Bites</title>
-    <desc lang="en">Streaming exclusively from Bloody Disgusting and Scotchworthy Productions, Bloody Bites is a compilation of snack-sized horror films that will terrorize, astonish, disturb, and excite genre fans across the globe.</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://img.platform.wurl.dev/channel/1845/lg/88167e/LG-768x432_v1.png"/>
-    <episode-num system="dd_progid">US-CineverseEntertainmentCorp-117520102-56748801-56731215</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261114025605 +0000" stop="20261114032111 +0000" channel="us-cinedigm_entertainment_corp_screamboxtv_1">
-    <title lang="en">Bloody Bites</title>
-    <desc lang="en">Streaming exclusively from Bloody Disgusting and Scotchworthy Productions, Bloody Bites is a compilation of snack-sized horror films that will terrorize, astonish, disturb, and excite genre fans across the globe.</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://img.platform.wurl.dev/channel/1845/lg/88167e/LG-768x432_v1.png"/>
-    <episode-num system="dd_progid">US-CineverseEntertainmentCorp-117520103-56748801-56731215</episode-num>
-    <rating>
-      <value>TV-14</value>
     </rating>
   </programme>
 <programme start="20261114032111 +0000" stop="20261114035115 +0000" channel="us-cinedigm_entertainment_corp_screamboxtv_1">
@@ -452,6 +246,76 @@
     <episode-num system="dd_progid">US-CineverseEntertainmentCorp-117520109-56748801-56731215</episode-num>
     <rating>
       <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261114030000 +0000" stop="20261114033000 +0000" channel="us-scripps_laffmore_1">
+    <title lang="en">The Beverly Hillbillies</title>
+    <desc lang="en">Granny defies medical opposition to her own brand of mountain medicine.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/1498/lg/d22c6a/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120443992-56786036-56763243</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261114033000 +0000" stop="20261114040000 +0000" channel="us-scripps_laffmore_1">
+    <title lang="en">The Beverly Hillbillies</title>
+    <desc lang="en">Granny's neighbors try to stop her when she attempts to create a vegetable garden in the front yard of the mansion grounds.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/1498/lg/d22c6a/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120444025-56786036-56763243</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261114040000 +0000" stop="20261114043000 +0000" channel="us-scripps_laffmore_1">
+    <title lang="en">Petticoat Junction</title>
+    <desc lang="en">Uncle Joe convinces two overweight women that the Shady Rest is really a reducing farm, where their loss is management's gain.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/1498/lg/d22c6a/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120444068-56782850-56762985</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261114043000 +0000" stop="20261114050000 +0000" channel="us-scripps_laffmore_1">
+    <title lang="en">Petticoat Junction</title>
+    <desc lang="en">Railroad executive Homer Bedloe arrives in Hooterville with a railroad tycoon, who is determined to purchase the Cannonball.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/1498/lg/d22c6a/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120444111-56782850-56762985</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261114050000 +0000" stop="20261114053000 +0000" channel="us-scripps_laffmore_1">
+    <title lang="en">Just for Laughs Gags</title>
+    <desc lang="en">"Port-A-Party"; "Killer Comedy"; "Princess of Pranks."</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/1498/lg/d22c6a/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120444147-56782583-56762738</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261114053000 +0000" stop="20261114060000 +0000" channel="us-scripps_laffmore_1">
+    <title lang="en">Just for Laughs Gags</title>
+    <desc lang="en">"Bye-Bye Bride"; "Cream Pie Wars"; "The Pond Prankster."</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/1498/lg/d22c6a/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120444182-56782583-56762738</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261114060000 +0000" stop="20261114063000 +0000" channel="us-scripps_laffmore_1">
+    <title lang="en">Just for Laughs Gags</title>
+    <desc lang="en">"Sons of Barbie"; "The Potty-razzi"; "When Ink Cartridges Attack."</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/1498/lg/d22c6a/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120444216-56782583-56762738</episode-num>
+    <rating>
+      <value>TV-PG</value>
     </rating>
   </programme>
 </tv>
