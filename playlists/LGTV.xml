@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+<channel id="MovieSphere LG US_MOVSPLGUS_US">
+    <display-name>MovieSphere</display-name>
+    <icon src="https://db6iftd8li11q.cloudfront.net/Moviesphere/MovieSphere_LG_White_800x200.png"/>
+  </channel>
+<channel id="us-gsn_cinevault_80s_1">
+    <display-name>CINEVAULT</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/691/lg/e11147/LG-Logo-PNG-100x100_v1.png"/>
+  </channel>
 <channel id="99992286">
     <display-name>Xumo Free Action Movies</display-name>
     <icon src="https://image.xumo.com/v1/channels/channel/99992286/400x200.png?type=white_cropped"/>
@@ -12,154 +20,42 @@
     <display-name>Screambox TV</display-name>
     <icon src="http://img.platform.wurl.dev/channel/1845/lg/88167e/LG-Logo-PNG-100x100_v1.png"/>
   </channel>
+<channel id="otspr_otspr_US">
+    <display-name>Outersphere</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Outersphere/Outersphere_log.png"/>
+  </channel>
 <channel id="tribeca_tribe_US">
     <display-name>Tribeca</display-name>
     <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/tribeca/Tribeca_Logo_800w200h.png"/>
+  </channel>
+<channel id="FREQ874">
+    <display-name>Horror by ALTER</display-name>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/gunpowderandsky/channels/Horror-By-ALTER_white_logo_800x200.png"/>
+  </channel>
+<channel id="FREQ190-US">
+    <display-name>Reelz Famous &amp; Infamous</display-name>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/reelz/channels/190-FamousInfamousLogo_WhiteStacked_400x200.png"/>
   </channel>
 <channel id="haunttvus_hntus_US">
     <display-name>Haunt TV US</display-name>
     <icon src="https://d2y2gft5545ze9.cloudfront.net/HauntTV_200pxHigh_LG_ChannelAssets_White.png"/>
   </channel>
-<programme start="20261114153526 +0000" stop="20261114165400 +0000" channel="99992286">
-    <title lang="en">Pinkerton</title>
-    <desc lang="en">Allan Pinkerton, founder of America's first detective agency, embarks on a mission to capture the notorious outlaw, Jesse James.</desc>
-    <category lang="en">ETC</category>
-    <icon src="https://image.xumo.com/v1/assets/asset/XM0E64NNSDOKGZ/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992285%2F768x432.jpg%3Ftype%3DchannelTile"/>
-    <episode-num system="dd_progid">XM0E64NNSDOKGZ</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261114165400 +0000" stop="20261114180254 +0000" channel="99992286">
-    <title lang="en">Jesse James</title>
-    <desc lang="en">Jesse James and his brother Frank race to secure the family's buried gold as members of the James-Younger gang attempt to steal it.</desc>
-    <category lang="en">ETC</category>
-    <icon src="https://image.xumo.com/v1/assets/asset/XM07MUWV3C20LJ/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992285%2F768x432.jpg%3Ftype%3DchannelTile"/>
-    <episode-num system="dd_progid">XM07MUWV3C20LJ</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261114180254 +0000" stop="20261114194941 +0000" channel="99992286">
-    <title lang="en">Salvation</title>
-    <desc lang="en">A foster child bonds with a snake-handling Pentecostal community but uncovers sinister truths. She must choose between reporting pastor's crimes or preserving her newfound support system, risking personal safety for a sense of belonging.</desc>
-    <category lang="en">Movies</category>
-    <icon src="https://image.xumo.com/v1/assets/asset/XM0PE6G3B34FJ7/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992286%2F768x432.jpg%3Ftype%3DchannelTile"/>
-    <episode-num system="dd_progid">XM0PE6G3B34FJ7</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261114194941 +0000" stop="20261114211910 +0000" channel="99992286">
-    <title lang="en">Anaconda: Death Coil</title>
-    <desc lang="en">Four friends visit a inherited cabin for nostalgia, but after finding a mutilated ranger and signs of a massive ancient anaconda, they're hunted by the creature and must survive the wilderness and uncover the land's dark history.</desc>
-    <category lang="en">Movies</category>
-    <icon src="https://image.xumo.com/v1/assets/asset/XM060ZO77KN0X6/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992286%2F768x432.jpg%3Ftype%3DchannelTile"/>
-    <episode-num system="dd_progid">XM060ZO77KN0X6</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261114154415 +0000" stop="20261114163639 +0000" channel="haunttvus_hntus_US">
-    <title lang="en">Alien Files Reopened</title>
-    <desc lang="en">Dig into counter-intelligence programs designed to discredit and disinform.</desc>
-    <category lang="en">Documentary</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/HNTUS/resized_b20055cb8c207a9497c1cf681ee6fa38b7515d36320ca786236ea3ea11d1b152_hfa01052970jpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">HNTUS_HF_A01052970_US</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-<programme start="20261114163639 +0000" stop="20261114173005 +0000" channel="haunttvus_hntus_US">
-    <title lang="en">Alien Files Reopened</title>
-    <desc lang="en">Get a look at a NATO base’s UFO visitor, documented by a military night patrol.</desc>
-    <category lang="en">Documentary</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/HNTUS/resized_a2781c2a6d2fd7666172ff56907ca647a07595cf391ed7e2b3b1103e920fab0b_hfa01052971jpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">HNTUS_HF_A01052971_US</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-<programme start="20261114173005 +0000" stop="20261114182224 +0000" channel="haunttvus_hntus_US">
-    <title lang="en">Alien Files Reopened</title>
-    <desc lang="en">See eyewitness photos of an incredible, two-year-long mass sighting of UFOs.</desc>
-    <category lang="en">Documentary</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/HNTUS/resized_131142aa1cbb0e7cba02389668da9aa4918ac056543541a54f3cb567d54def63_hfa01052972jpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">HNTUS_HF_A01052972_US</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-<programme start="20261114182224 +0000" stop="20261114191619 +0000" channel="haunttvus_hntus_US">
-    <title lang="en">Alien Files Reopened</title>
-    <desc lang="en">Re-examine a schoolyard close encounter that captured imaginations in the 1990s.</desc>
-    <category lang="en">Documentary</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/HNTUS/resized_898ed4e29832f0ed553b6bbac93d800e88086a978d0f3316a30187c19535612d_hfa01052973jpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">HNTUS_HF_A01052973_US</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-<programme start="20261114191619 +0000" stop="20261114200553 +0000" channel="haunttvus_hntus_US">
-    <title lang="en">Alien Files Reopened</title>
-    <desc lang="en">Spy repeat visitors that may have been aliens watching Navy training exercises.</desc>
-    <category lang="en">Documentary</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/HNTUS/resized_dc6163afe99c9f7a590506fac349719cd89b1a829d3bd2148c11b73bd677e28f_hfa01052974jpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">HNTUS_HF_A01052974_US</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-<programme start="20261114200553 +0000" stop="20261114203315 +0000" channel="haunttvus_hntus_US">
-    <title lang="en">World's Most Unexplained</title>
-    <desc lang="en">What would you do for your faith? Volunteer at church? Add some money to the collection plate?</desc>
-    <category lang="en">Documentary</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/HNTUS/resized_369b0d36ca422086dd52aeae9641ca187d23be78544c67aebd291d230ffbc942_hfa01040855jpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">HNTUS_HF_A01040855_US</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-<programme start="20261114203315 +0000" stop="20261114210034 +0000" channel="haunttvus_hntus_US">
-    <title lang="en">World's Most Unexplained</title>
-    <desc lang="en">Could a strange creature seen by three people in rural Massachusetts be a coincidence?</desc>
-    <category lang="en">Documentary</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/HNTUS/resized_8df554cda8edb813ff2f7ace0669f2e23850ab5859c0f4871cb914994e715f53_hfa01041803jpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">HNTUS_HF_A01041803_US</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-<programme start="20261114154020 +0000" stop="20261114171916 +0000" channel="theasylummoviechannel_tasmc_US">
-    <title lang="en">Triassic Hunt</title>
-    <desc lang="en">When two dinosaurs break out of a lab, a ragtag group of mercenaries is called in to contain the creatures.</desc>
-    <category lang="en">Action</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/tasmc/resized_448a30de94b1b7de4aaf52af9a5d6beb7561e6886da154aaf93d15bfa716900c_triassichunt1920x1080jpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">tasmc_TriassicHunt_FEATURE_2997_20_US</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261114171916 +0000" stop="20261114185920 +0000" channel="theasylummoviechannel_tasmc_US">
-    <title lang="en">The Land That Time Forgot</title>
-    <desc lang="en">A modern adaptation of the classic novel about survivors of a shipwreck trapped on an island with dinosaurs.</desc>
-    <category lang="en">Movies</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/tasmc/resized_a561d395c24dd3e3ac7ac17a46eafc4f4bd6479bfa11d22e63e1eccb1f21d2c1_thelandthattimeforgot1920x1080jpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">tasmc_TheLandThatTimeForgot_Feature_2997_20_US</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261114185920 +0000" stop="20261114204157 +0000" channel="theasylummoviechannel_tasmc_US">
-    <title lang="en">Bad Girl</title>
-    <desc lang="en">A problem teen tries to do right by her adoptive parents, until she meets the wrong girl.</desc>
-    <category lang="en">Mystery</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/tasmc/resized_f5371b7acc0494caed90bb5e93f4fa29cbaa918b1f33b28e2023ae5014ba0cb5_badgirl1920x1080jpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">tasmc_BadGirl_Feature_2997_20_Amagi_US</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
+<channel id="us-scripps_laffmore_1">
+    <display-name>Laff More</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/1498/lg/d22c6a/LG-Logo-PNG-100x100_v1.png"/>
+  </channel>
+<channel id="99993006">
+    <display-name>World's Most Evil Killers</display-name>
+    <icon src="https://image.xumo.com/v1/channels/channel/99993006/400x200.png?type=white_cropped"/>
+  </channel>
+<channel id="99992257">
+    <display-name>Unsolved Mysteries</display-name>
+    <icon src="https://image.xumo.com/v1/channels/channel/99992257/400x200.png?type=white_cropped"/>
+  </channel>
+<channel id="us-aenetworks_kriminal_1">
+    <display-name>Crimes Cults Killers  by A&amp;E</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/1055/lg/22f210/LG-Logo-PNG-100x100_v2.png"/>
+  </channel>
 <programme start="20261114204157 +0000" stop="20261114222315 +0000" channel="theasylummoviechannel_tasmc_US">
     <title lang="en">Planet of the Sharks</title>
     <desc lang="en">In the future, sharks dominate the planet, led by a mutated alpha shark, as human survivors live in terror.</desc>
@@ -170,36 +66,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261114132443 +0000" stop="20261114160315 +0000" channel="tribeca_tribe_US">
-    <title lang="en">Two For the Money</title>
-    <desc lang="en">Brandon Lang loves football: an injury keeps him from the pros.</desc>
-    <category lang="en">ETC</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg02042/resized_images/resized_3e1902347273d8d4ae5d7db1384ef39e0be682560878c31a3a4d38d54c2b2e42_fmp21165png_768_432.jpeg"/>
-    <episode-num system="dd_progid">amg02042c61_APLhh8EVzKDUeoZLyeNXXYt_us</episode-num>
-    <rating>
-      <value>R</value>
-    </rating>
-  </programme>
-<programme start="20261114160315 +0000" stop="20261114181942 +0000" channel="tribeca_tribe_US">
-    <title lang="en">Serenity</title>
-    <desc lang="en">A fishing boat captain juggles facing his mysterious past and finding himself ensnared in a reality where nothing is what it seems.</desc>
-    <category lang="en">Mystery</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg02042/resized_images/resized_277cc7592e481c533138d7e57d2ea590ef4418384413b428035b0a0a5a5874cd_fmp10990png_768_432.jpeg"/>
-    <episode-num system="dd_progid">amg02042c61_AUQqEuDetkDXGr94JSLMqWT_us</episode-num>
-    <rating>
-      <value>R</value>
-    </rating>
-  </programme>
-<programme start="20261114181942 +0000" stop="20261114205030 +0000" channel="tribeca_tribe_US">
-    <title lang="en">Bleed for This</title>
-    <desc lang="en">The inspirational story of World Champion Boxer Vinny Pazienza who, after a near fatal car crash which left him not knowing if he'd ever walk again, made one of sports' most incredible comebacks.</desc>
-    <category lang="en">ETC</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg02042/resized_images/resized_75327dc8237a5f0f3aee27d08b30e5fc669bc939f5ea1a58802f9a0d7a2b2bbf_fmp30007png_768_432.jpeg"/>
-    <episode-num system="dd_progid">amg02042c61_A9o2hZixMvg3LYQfpN8p8ii_us</episode-num>
-    <rating>
-      <value>R</value>
-    </rating>
-  </programme>
 <programme start="20261114205030 +0000" stop="20261114232244 +0000" channel="tribeca_tribe_US">
     <title lang="en">Marshall</title>
     <desc lang="en">Thurgood Marshall, the first African-American Supreme Court Justice, battles through one of his career-defining cases.</desc>
@@ -208,46 +74,6 @@
     <episode-num system="dd_progid">amg02042c61_ANUsavAwPA7DKkicSVryVnK_us</episode-num>
     <rating>
       <value>PG-13</value>
-    </rating>
-  </programme>
-<programme start="20261114140511 +0000" stop="20261114155035 +0000" channel="us-cinedigm_entertainment_corp_screamboxtv_1">
-    <title lang="en">H.P. Lovecraft'S The Deep Ones</title>
-    <desc lang="en">A married couple rents a beach side Airbnb only to be surrounded by peculiar neighbors and occurrences. They soon discover to be in the grips of a mysterious cult and their ancient sea god.</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://img.platform.wurl.dev/channel/1845/lg/88167e/LG-768x432_v1.png"/>
-    <episode-num system="dd_progid">US-CineverseEntertainmentCorp-119268863-52541967-52525612</episode-num>
-    <rating>
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-<programme start="20261114155035 +0000" stop="20261114174049 +0000" channel="us-cinedigm_entertainment_corp_screamboxtv_1">
-    <title lang="en">Pigs</title>
-    <desc lang="en">Not since the introduction of Spam has there been such a taste of true terror!!! A small town is rocked by the brutal murder of a father by his daughter Lynn (Toni Lawrence), who claims he viciously raped her. Lynn escapes from the confines of a mental institution and travels deep into farm country to hide from her pursuers, only to find carnage that comes from the most unlikely of species. Lynn gets a job at a small diner run by farmer Zambrini (Marc Lawrence), who harbors his own dark recipe for murder. Soon local yokels begin to disappear and Zambrini's pig farm begins to mysteriously multiply. What secrets does Zambrini hold in that pig pen? Find out when you watch Pigs, a tasty treat any home cookin' horror fan can enjoy.</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://img.platform.wurl.dev/channel/1845/lg/88167e/LG-768x432_v1.png"/>
-    <episode-num system="dd_progid">US-CineverseEntertainmentCorp-119268864-52541967-52525612</episode-num>
-    <rating>
-      <value>R</value>
-    </rating>
-  </programme>
-<programme start="20261114174049 +0000" stop="20261114201055 +0000" channel="us-cinedigm_entertainment_corp_screamboxtv_1">
-    <title lang="en">Deep Red</title>
-    <desc lang="en">It stars David Hemmings as a musician who investigates a series of murders performed by a mysterious figure wearing black leather gloves.</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://img.platform.wurl.dev/channel/1845/lg/88167e/LG-768x432_v1.png"/>
-    <episode-num system="dd_progid">US-CineverseEntertainmentCorp-119268865-52541967-52525612</episode-num>
-    <rating>
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-<programme start="20261114201055 +0000" stop="20261114220102 +0000" channel="us-cinedigm_entertainment_corp_screamboxtv_1">
-    <title lang="en">Maniac Cop 2</title>
-    <desc lang="en">The Maniac Cop is back from the dead and stalking the streets of New York once more. Officer Matt Cordell was once a hero, but after being framed by corrupt superiors and brutally assaulted in prison, he sets out on a macabre mission of vengeance, teaming up with a vicious serial killer to track down those that wronged him and make them pay... with their lives!</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://img.platform.wurl.dev/channel/1845/lg/88167e/LG-768x432_v1.png"/>
-    <episode-num system="dd_progid">US-CineverseEntertainmentCorp-119268866-52541967-52525612</episode-num>
-    <rating>
-      <value>TV-14</value>
     </rating>
   </programme>
 </tv>
