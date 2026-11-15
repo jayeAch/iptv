@@ -92,6 +92,10 @@
     <display-name>Bargain Hunt</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/1736246223/1/267/150/0.jpg"/>
   </channel>
+<channel id="vizio.93amg27048c3">
+    <display-name>It’s Anime</display-name>
+    <icon src="https://images.vizio.com/v4/btv/1/1736244477/1/267/150/0.jpg"/>
+  </channel>
 <channel id="vizio.93amg00136c49">
     <display-name>I Was Haunted</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/1736246022/1/267/150/0.jpg"/>
@@ -107,6 +111,10 @@
 <channel id="vizio.98wurl_dangertv">
     <display-name>DangerTV</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/1646281495/1/267/150/0.jpg"/>
+  </channel>
+<channel id="vizio.93SC8UP">
+    <display-name>Sensical Gaming</display-name>
+    <icon src="https://images.vizio.com/v4/btv/1/1643239132/1/267/150/0.jpg"/>
   </channel>
 <channel id="vizio.96Station_88885600">
     <display-name>ZHC</display-name>
@@ -852,17 +860,6 @@
       <value>UR</value>
     </rating>
   </programme>
-<programme start="20261115224721 +0000" stop="20261115233746 +0000" channel="vizio.93DARKS">
-    <title lang="en">Dark Side of the 90s</title>
-    <sub-title lang="en">Secrets of the Runway</sub-title>
-    <desc lang="en">Supermodels in the '90s were part rock stars and royalty dusted heavily in cocaine.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205161877698,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E09</episode-num>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme start="20261115233746 +0000" stop="20261116002818 +0000" channel="vizio.93DARKS">
     <title lang="en">Dark Side of Comedy</title>
     <sub-title lang="en">Ellen DeGeneres</sub-title>
@@ -1028,6 +1025,54 @@
     <episode-num system="xmltv_ns">5.10.</episode-num>
     <rating>
       <value>NR (NOT RATED)</value>
+    </rating>
+  </programme>
+<programme start="20261115230000 +0000" stop="20261116000000 +0000" channel="vizio.93SC8UP">
+    <title lang="en">Super Mario Galaxy 2</title>
+    <desc lang="en">Join AbdallahSmash, Mario, Lubba, and Yoshi aboard Starship Mario on an epic quest to reclaim the Power Stars in Super Mario Galaxy 2 on Nintendo Switch 2!</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205153543060,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+<programme start="20261116000000 +0000" stop="20261116010000 +0000" channel="vizio.93SC8UP">
+    <title lang="en">Super Mario Galaxy 2</title>
+    <desc lang="en">Join AbdallahSmash, Mario, Lubba, and Yoshi aboard Starship Mario on an epic quest to reclaim the Power Stars in Super Mario Galaxy 2 on Nintendo Switch 2!</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205178485243,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+<programme start="20261116010000 +0000" stop="20261116020000 +0000" channel="vizio.93SC8UP">
+    <title lang="en">ItsFunneh: Krewcraft</title>
+    <desc lang="en">This is a modded Minecraft survival series where the Krew survive and venture into the magical modded world!</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205178481854,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+<programme start="20261116020000 +0000" stop="20261116030000 +0000" channel="vizio.93SC8UP">
+    <title lang="en">ItsFunneh: Krewcraft</title>
+    <desc lang="en">This is a modded Minecraft survival series where the Krew survive and venture into the magical modded world!</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205166286079,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+<programme start="20261116030000 +0000" stop="20261116040000 +0000" channel="vizio.93SC8UP">
+    <title lang="en">Roblox Obbys with KREW</title>
+    <desc lang="en">Krew plays Roblox Obbys!</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205152120638,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+<programme start="20261116040000 +0000" stop="20261116050000 +0000" channel="vizio.93SC8UP">
+    <title lang="en">Roblox Obbys with KREW</title>
+    <desc lang="en">Krew plays Roblox Obbys!</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205152120629,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>TV-Y7</value>
     </rating>
   </programme>
 <programme start="20261115233144 +0000" stop="20261116001733 +0000" channel="vizio.93TPRDS">
@@ -1744,6 +1789,105 @@
       <value>PG</value>
     </rating>
   </programme>
+<programme start="20261115233030 +0000" stop="20261116000030 +0000" channel="vizio.93amg27048c3">
+    <title lang="en">My Hero Academia</title>
+    <sub-title lang="en">Encounter (English Dubbed)</sub-title>
+    <desc lang="en">Class 1-A goes shopping for training camp supplies, but Izuku is suddenly pulled aside by a villain.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205070578966,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S02E25</episode-num>
+    <episode-num system="xmltv_ns">1.24.</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+<programme start="20261116000030 +0000" stop="20261116003030 +0000" channel="vizio.93amg27048c3">
+    <title lang="en">TOUGEN ANKI: Nikko Kegon Falls Arc</title>
+    <sub-title lang="en">Let the Training Begin!</sub-title>
+    <desc lang="en">Shiki and his fellow Rasetsu Academy students face a new training challenge: climbing a mountain in a freezing blizzard. Every student must reach the summit within 24 hours, but part-time instructors Hagure Nekosaki and Yu Innami have been brought in to stand in their way.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205122700137,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S02E01</episode-num>
+    <episode-num system="xmltv_ns">1.0.</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261116003030 +0000" stop="20261116010030 +0000" channel="vizio.93amg27048c3">
+    <title lang="en">TOUGEN ANKI: Nikko Kegon Falls Arc</title>
+    <sub-title lang="en">The Path to Growing Strong</sub-title>
+    <desc lang="en">Shiki passes out after protecting Homare while the rest of the students battle Innami and Nekosaki.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205133413021,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S02E02</episode-num>
+    <episode-num system="xmltv_ns">1.1.</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261116010030 +0000" stop="20261116013030 +0000" channel="vizio.93amg27048c3">
+    <title lang="en">TOUGEN ANKI: Nikko Kegon Falls Arc</title>
+    <sub-title lang="en">Purpose</sub-title>
+    <desc lang="en">Everyone but Jin and an impatient Yaoroshi have reached the summit when Nekosaki and Innami appear.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205144941330,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S02E03</episode-num>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261116013030 +0000" stop="20261116020030 +0000" channel="vizio.93amg27048c3">
+    <title lang="en">TOUGEN ANKI: Nikko Kegon Falls Arc</title>
+    <sub-title lang="en">Child of Kishin: Hayate Todoroki</sub-title>
+    <desc lang="en">The Oni Brigade wants to recruit Shiki, who rejects their ideals. However, they interest Yaoroshi.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205154960058,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S02E04</episode-num>
+    <episode-num system="xmltv_ns">1.3.</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261116020030 +0000" stop="20261116023030 +0000" channel="vizio.93amg27048c3">
+    <title lang="en">TOUGEN ANKI: Nikko Kegon Falls Arc</title>
+    <sub-title lang="en">New Blood</sub-title>
+    <desc lang="en">The Oni Brigade members, including Yaoroshi, set their sights on the Momotaro base at Kegon Falls.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205166662966,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S02E05</episode-num>
+    <episode-num system="xmltv_ns">1.4.</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261116023030 +0000" stop="20261116030030 +0000" channel="vizio.93amg27048c3">
+    <title lang="en">TOUGEN ANKI: Nikko Kegon Falls Arc</title>
+    <sub-title lang="en">Out of Focus</sub-title>
+    <desc lang="en">Yaoroshi finds himself questioning his decision to join the Oni Brigade when he sees them in action.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205177730119,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S02E06</episode-num>
+    <episode-num system="xmltv_ns">1.5.</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261116030030 +0000" stop="20261116033030 +0000" channel="vizio.93amg27048c3">
+    <title lang="en">TOUGEN ANKI: Nikko Kegon Falls Arc</title>
+    <sub-title lang="en">The General's Back</sub-title>
+    <desc lang="en">While battling Shingi, Torikai recalls his first meeting with Todoroki, General of the Oni Brigade.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205190101492,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S02E07</episode-num>
+    <episode-num system="xmltv_ns">1.6.</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261116033030 +0000" stop="20261116043030 +0000" channel="vizio.93amg27048c3">
+    <title lang="en">Tomodachi Talks</title>
+    <sub-title lang="en">Episode 2: Ray Chase</sub-title>
+    <desc lang="en">Meet Ray Chase!</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205177730120,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
 <programme start="20261115233228 +0000" stop="20261115234619 +0000" channel="vizio.93amg35360c1">
     <title lang="en">Training W/ Dana White ($120,000 Morning Routine)</title>
     <desc lang="en">I trained with Dana White and followed his $120,000 morning routine.</desc>
@@ -1854,14 +1998,6 @@
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204961709429,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
       <value>PG</value>
-    </rating>
-  </programme>
-<programme start="20261115231815 +0000" stop="20261115233713 +0000" channel="vizio.93amg35360c2">
-    <title lang="en">Mystery Penalty Challenge vs Vlahović (Shocking)</title>
-    <desc lang="en">I challenged Dušan Vlahović to take 10 mystery penalties. Can the Juventus player score all of them?</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204961709342,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>G</value>
     </rating>
   </programme>
 <programme start="20261115233713 +0000" stop="20261115235025 +0000" channel="vizio.93amg35360c2">
@@ -2150,17 +2286,6 @@
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205052568641,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
       <value>PG</value>
-    </rating>
-  </programme>
-<programme start="20261115224017 +0000" stop="20261115233725 +0000" channel="vizio.96Station_88885565">
-    <title lang="en">World's Most Evil Killers</title>
-    <sub-title lang="en">Richard Roszkowski</sub-title>
-    <desc lang="en">A profile of Richard Roszkowski, the Connecticut triple-murderer who killed his ex-girlfriend, her nine-year-old daughter and another man in a brutal attack in 2006.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%203415915594,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S05E19</episode-num>
-    <episode-num system="xmltv_ns">4.18.</episode-num>
-    <rating>
-      <value>NR</value>
     </rating>
   </programme>
 <programme start="20261115233725 +0000" stop="20261116003500 +0000" channel="vizio.96Station_88885565">
@@ -2456,17 +2581,6 @@
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204927845395,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <episode-num system="onscreen">S09E07</episode-num>
     <episode-num system="xmltv_ns">8.6.</episode-num>
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-<programme start="20261115225103 +0000" stop="20261115233407 +0000" channel="vizio.96Station_88885598">
-    <title lang="en">Sam and Colby</title>
-    <sub-title lang="en">Exploring an Abandoned High School in a Ghost Town</sub-title>
-    <desc lang="en">Join the team as they search for the lost treasure of Little Bighorn in Montana. Afterwards, the group attempts to explore an abandoned school, but it turns out to be too dangerous!</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204927845278,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S05E10</episode-num>
-    <episode-num system="xmltv_ns">4.9.</episode-num>
     <rating>
       <value>NR</value>
     </rating>
@@ -3138,17 +3252,6 @@
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204979979122,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <episode-num system="onscreen">S17E13</episode-num>
     <episode-num system="xmltv_ns">16.12.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261115231021 +0000" stop="20261115233548 +0000" channel="vizio.98wurl_playworks_digital_theroyaltyfamily_1">
-    <title lang="en">The Royalty Family</title>
-    <sub-title lang="en">Puppies Left At Our Door</sub-title>
-    <desc lang="en">The Royalty Family finds adorable puppies left on their doorstep and sets out to find their owner.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204979978912,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S03E02</episode-num>
-    <episode-num system="xmltv_ns">2.1.</episode-num>
     <rating>
       <value>TV-PG</value>
     </rating>
