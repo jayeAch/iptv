@@ -218,6 +218,7 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
     # land in their genre.
     ('Sci-Fi', _words("""
         the asylum
+        outersphere
         dark matter tv
         fantasy & horror
         pluto tv fantastic
