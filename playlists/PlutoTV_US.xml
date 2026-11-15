@@ -40,6 +40,11 @@
         <lcn>50</lcn>
         <icon src="https://images.pluto.tv/channels/5a4d3a00ad95e4718ae8d8db/colorLogoPNG_1731836724642.png"/>
     </channel>
+<channel id="5b4e92e4694c027be6ecece1-US">
+        <display-name>Pluto TV Drama</display-name>
+        <lcn>60</lcn>
+        <icon src="https://images.pluto.tv/channels/5b4e92e4694c027be6ecece1/colorLogoPNG.png"/>
+    </channel>
 <channel id="5f4d8594eb979c0007706de7-US">
         <display-name>Pluto TV Crime Movies</display-name>
         <lcn>120</lcn>
@@ -64,6 +69,11 @@
         <display-name>Pluto TV Recent Releases</display-name>
         <lcn>155</lcn>
         <icon src="https://images.pluto.tv/channels/6aa043fe0c9f5239c2c508c2/colorLogoPNG_1790615745625.png"/>
+    </channel>
+<channel id="5f4d878d3d19b30007d2e782-US">
+        <display-name>70s Cinema</display-name>
+        <lcn>190</lcn>
+        <icon src="https://images.pluto.tv/channels/5f4d878d3d19b30007d2e782/colorLogoPNG.png"/>
     </channel>
 <channel id="5cb0cae7a461406ffe3f5213-US">
         <display-name>Paramount Movie Channel</display-name>
@@ -355,6 +365,16 @@
         <desc>A murder in the Louvre and clues in Da Vinci's paintings lead to the discovery of a religious mystery protected by a secret society for two thousand years -- one that could shake the foundations of Christianity.</desc>
         <icon src="https://images.pluto.tv/series/6adf8cb3e92f47363375ca38/tile_1793035444932.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+<programme channel="5b4e92e4694c027be6ecece1-US" start="20261115063000 +0000" stop="20261115091500 +0000">
+        <title>Selena</title>
+        <desc>Young. Beautiful. Enormously gifted. At 23, Selena shone as a fresh star in a vibrantly new musical field. But just as she was poised to be the next pop-music sensation, her life was tragically cut short.</desc>
+        <icon src="https://images.pluto.tv/series/650a1f806930bb0013693fc8/tile_1793919966584.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+<programme channel="5b4e92e4694c027be6ecece1-US" start="20261115091500 +0000" stop="20261115110000 +0000">
+        <title>The Bling Ring</title>
+        <desc>A teenager and his gang of fame-obsessed youths use the Internet to track the whereabouts of celebrities, then rob their homes.</desc>
+        <icon src="https://images.pluto.tv/series/69a20e4021d4521a83662949/tile_1772228160942.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
 <programme channel="5b64a245a202b3337f09e51d-US" start="20261115053000 +0000" stop="20261115080000 +0000">
         <title>Teenage Mutant Ninja Turtles: Out of the Shadows</title>
         <desc>The Turtles are back to battle a bigger threat alongside April O'Neil and vigilante Casey Jones. As they prepare to take on supervillain Shredder and his henchmen, Bebop and Rocksteady, they find themselves facing an even greater evil: the sinister Krang.</desc>
@@ -419,6 +439,16 @@
         <title>Rolling Thunder</title>
         <desc>William Devane and Tommy Lee Jones star as two former P.O.W.s out for revenge in this neo-noir action-thriller that Quentin Tarantino cites as one of his favorite films. Written by genre masters Paul Schrader and Heywood Gould. John Flynn directs.</desc>
         <icon src="https://images.pluto.tv/series/5fda550d48bae9001a2e397c/tile_1783104841976.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+<programme channel="5f4d878d3d19b30007d2e782-US" start="20261115044500 +0000" stop="20261115084500 +0000">
+        <title>The Godfather Part II</title>
+        <desc>The continuing saga of a young Vito Corleone growing up in Sicily and New York during the 1910s, then following Michael Corleone in the 1950s as he tries to expand the family business.</desc>
+        <icon src="https://images.pluto.tv/series/6137eed762aa0500144d8676/tile_1791417962310.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+<programme channel="5f4d878d3d19b30007d2e782-US" start="20261115084500 +0000" stop="20261115113000 +0000">
+        <title>Chinatown</title>
+        <desc>Jake Gittes, a private eye, uncovers a web of personal and political scandals while he is hired by a beautiful socialite to investigate her husband's extra marital affair.</desc>
+        <icon src="https://images.pluto.tv/series/5c9c08cfc8ccd6797db6809a/tile_1782739801592.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
 <programme channel="617b37b361e0fd0008cfd8c5-US" start="20261115063000 +0000" stop="20261115081500 +0000">
         <title>Cloverfield</title>
@@ -765,11 +795,6 @@
         <desc>A 30-year-old woman is robbed and murdered in her own home.</desc>
         <icon src="https://images.pluto.tv/series/68e80ef5e0212e3b784a82d7/tile_1793222614938.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-<programme channel="6ac5067030fb504db0658842-US" start="20261115060000 +0000" stop="20261115064500 +0000">
-        <title>PD True</title>
-        <desc>In '90s Miami, Sgt. Nelson Andreu and Det. Carlos Avila pursue a ritualistic serial killer preying on unhoused women.</desc>
-        <icon src="https://images.pluto.tv/series/6ad2a9a37a5624e68de26973/tile_1792190884436.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
 <programme channel="6ac5067030fb504db0658842-US" start="20261115064500 +0000" stop="20261115073000 +0000">
         <title>PD True</title>
         <desc>In 1989, Detectives Brian Jarvis and David Taylor race to solve a string of murders targeting middle-aged men along Florida highways.</desc>
@@ -829,11 +854,6 @@
         <title>The New Detectives</title>
         <desc>Terrorism: Thanks to new technology and, perhaps, the approaching millennium, terrorism is a growing international threat. The Oklahoma City explosion and the bombing of the World Trade Center are just two of the incidents of this growing problem.</desc>
         <icon src="https://images.pluto.tv/series/5ac562a0ea0c647dd15b80d7/tile_1783621442048.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-<programme channel="654930a8346f420008d3b0b8-US" start="20261115055900 +0000" stop="20261115064800 +0000">
-        <title>An Unexpected Killer</title>
-        <desc>A devoted mother about to begin a new life is murdered in her own home; detectives follow the evidence through a tangled web of relationships to unmask the killer.</desc>
-        <icon src="https://images.pluto.tv/series/655e8f23620638001378959d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
 <programme channel="654930a8346f420008d3b0b8-US" start="20261115064800 +0000" stop="20261115073800 +0000">
         <title>An Unexpected Killer</title>
@@ -1195,6 +1215,21 @@
         <desc>Academy Award nominees Leonardo DiCaprio and Djimon Hounsou join Academy Award winner Jennifer Connelly in this action drama from Ed Zwick, the filmmaker behind The Last Samurai.</desc>
         <icon src="https://images.pluto.tv/series/5bad6afbbddffa3d2c472c8a/tile_1773441361040.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+<programme channel="5b4e92e4694c027be6ecece1-US" start="20261115063000 +0000" stop="20261115091500 +0000">
+        <title>Selena</title>
+        <desc>Young. Beautiful. Enormously gifted. At 23, Selena shone as a fresh star in a vibrantly new musical field. But just as she was poised to be the next pop-music sensation, her life was tragically cut short.</desc>
+        <icon src="https://images.pluto.tv/series/650a1f806930bb0013693fc8/tile_1793919966584.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+<programme channel="5b4e92e4694c027be6ecece1-US" start="20261115091500 +0000" stop="20261115110000 +0000">
+        <title>The Bling Ring</title>
+        <desc>A teenager and his gang of fame-obsessed youths use the Internet to track the whereabouts of celebrities, then rob their homes.</desc>
+        <icon src="https://images.pluto.tv/series/69a20e4021d4521a83662949/tile_1772228160942.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+<programme channel="5b4e92e4694c027be6ecece1-US" start="20261115110000 +0000" stop="20261115140000 +0000">
+        <title>The Fisher King</title>
+        <desc>Parry, a homeless history professor, lives in a fantasy world full of castles, Red Knights, and damsels in distress. Bridges co-stars as Jack, New York's #1 shock deejay, whose offhand arrogance triggers a tragedy that ruins his career. Rated: R</desc>
+        <icon src="https://images.pluto.tv/series/5b7d82a1a07e609113d78375/tile_1791417602106.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
 <programme channel="5b64a245a202b3337f09e51d-US" start="20261115080000 +0000" stop="20261115101500 +0000">
         <title>The Last Airbender</title>
         <desc>Air, Water, Earth, Fire. Four nations are tied by destiny when Fire launches war against the others. Caught between the war, one Avatar discovers he's able to manipulate all four elements.</desc>
@@ -1289,6 +1324,21 @@
         <title>American Gigolo (1980)</title>
         <desc>Julian Kay has it all: the Mercedes, the clothes, access to Beverly Hills' swankiest establishments, and a stable of rich, female clients. But it all falls apart after he does a favor for his former pimp and the trick turns up dead a short while later.</desc>
         <icon src="https://images.pluto.tv/series/5902318f8bf7fa972b6dc068/tile_1787698210236.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+<programme channel="5f4d878d3d19b30007d2e782-US" start="20261115044500 +0000" stop="20261115084500 +0000">
+        <title>The Godfather Part II</title>
+        <desc>The continuing saga of a young Vito Corleone growing up in Sicily and New York during the 1910s, then following Michael Corleone in the 1950s as he tries to expand the family business.</desc>
+        <icon src="https://images.pluto.tv/series/6137eed762aa0500144d8676/tile_1791417962310.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+<programme channel="5f4d878d3d19b30007d2e782-US" start="20261115084500 +0000" stop="20261115113000 +0000">
+        <title>Chinatown</title>
+        <desc>Jake Gittes, a private eye, uncovers a web of personal and political scandals while he is hired by a beautiful socialite to investigate her husband's extra marital affair.</desc>
+        <icon src="https://images.pluto.tv/series/5c9c08cfc8ccd6797db6809a/tile_1782739801592.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+<programme channel="5f4d878d3d19b30007d2e782-US" start="20261115113000 +0000" stop="20261115151500 +0000">
+        <title>The Godfather</title>
+        <desc>A chilling portrait of the Corleone family's rise and near fall from power in America, along with the story of the Sicilian clan's ugly crime business in which they are engaged.</desc>
+        <icon src="https://images.pluto.tv/series/6137ee7bc79f030013e056c9/tile_1791417602306.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
 <programme channel="617b37b361e0fd0008cfd8c5-US" start="20261115063000 +0000" stop="20261115081500 +0000">
         <title>Cloverfield</title>
@@ -2670,6 +2720,21 @@
         <desc>Leonardo Di Caprio and Academy Award winner Russell Crowe star in director Ridley Scott's adaptation of the best-selling post-9/11 espionage thriller.</desc>
         <icon src="https://images.pluto.tv/series/627964b59431740013495bfe/tile_1765410878771.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+<programme channel="5b4e92e4694c027be6ecece1-US" start="20261115110000 +0000" stop="20261115140000 +0000">
+        <title>The Fisher King</title>
+        <desc>Parry, a homeless history professor, lives in a fantasy world full of castles, Red Knights, and damsels in distress. Bridges co-stars as Jack, New York's #1 shock deejay, whose offhand arrogance triggers a tragedy that ruins his career. Rated: R</desc>
+        <icon src="https://images.pluto.tv/series/5b7d82a1a07e609113d78375/tile_1791417602106.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+<programme channel="5b4e92e4694c027be6ecece1-US" start="20261115140000 +0000" stop="20261115164500 +0000">
+        <title>The Social Network</title>
+        <desc>The film focuses on the evolution of Facebook, the online social network created in 2004 on the Harvard campus, and how overnight success and wealth changed the lives of the classmates who created it.</desc>
+        <icon src="https://images.pluto.tv/series/67113cf318d3ba001372c8b8/tile_1779459121793.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+<programme channel="5b4e92e4694c027be6ecece1-US" start="20261115164500 +0000" stop="20261115194500 +0000">
+        <title>The Remains of the Day</title>
+        <desc>Oscar®-winners Anthony Hopkins (The Silence of the Lambs) and Emma Thompson (Howards End) reunite with the acclaimed Merchant Ivory filmmaking team for this extraordinary and moving story of blind devotion and repressed love. Rated PG</desc>
+        <icon src="https://images.pluto.tv/series/5e0e3dc867e53ebb46554207/tile_1791419041928.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
 <programme channel="5b64a245a202b3337f09e51d-US" start="20261115101500 +0000" stop="20261115123000 +0000">
         <title>Teenage Mutant Ninja Turtles (2014)</title>
         <desc>When New York City is in trouble, it’s up to the four ninja-fighting, pizza-loving brothers to save it. Aided by determined reporter April O’Neil and their wise master Splinter, these unlikely heroes must face their ultimate nemesis - the evil Shredder.</desc>
@@ -2759,6 +2824,21 @@
         <title>Taxi Driver</title>
         <desc>Paul Schrader's gritty screenplay depicts the ever-deepening alienation of Vietnam Veteran Travis Bickle (Robert De Niro in a tour de force performance). This psychotic cab driver obsessively cruises the mean streets of Manhattan.</desc>
         <icon src="https://images.pluto.tv/series/6707fa03b99f8500138e9984/tile_1793377551146.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+<programme channel="5f4d878d3d19b30007d2e782-US" start="20261115113000 +0000" stop="20261115151500 +0000">
+        <title>The Godfather</title>
+        <desc>A chilling portrait of the Corleone family's rise and near fall from power in America, along with the story of the Sicilian clan's ugly crime business in which they are engaged.</desc>
+        <icon src="https://images.pluto.tv/series/6137ee7bc79f030013e056c9/tile_1791417602306.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+<programme channel="5f4d878d3d19b30007d2e782-US" start="20261115151500 +0000" stop="20261115191500 +0000">
+        <title>The Godfather Part II</title>
+        <desc>The continuing saga of a young Vito Corleone growing up in Sicily and New York during the 1910s, then following Michael Corleone in the 1950s as he tries to expand the family business.</desc>
+        <icon src="https://images.pluto.tv/series/6137eed762aa0500144d8676/tile_1791417962310.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+<programme channel="5f4d878d3d19b30007d2e782-US" start="20261115191500 +0000" stop="20261115211500 +0000">
+        <title>White Lightning</title>
+        <desc>In one of his most memorable roles, Burt Reynolds portrays a moonshine whiskey runner who turns state's witness to avenge the murder of a boy no one understood.</desc>
+        <icon src="https://images.pluto.tv/series/5b3aec75bbacc7ee58f53150/tile_1771603921219.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
 <programme channel="617b37b361e0fd0008cfd8c5-US" start="20261115103000 +0000" stop="20261115131500 +0000">
         <title>The Fifth Element</title>
@@ -4150,6 +4230,21 @@
         <desc>Academy Award winners Julia Roberts and Denzel Washington star in this thriller about a young law student whose theory about the recent deaths of two Supreme Court justices embroils her in a web of greed, corruption, and murder.</desc>
         <icon src="https://images.pluto.tv/series/650b59206930bb0013718699/tile_1793034361844.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+<programme channel="5b4e92e4694c027be6ecece1-US" start="20261115140000 +0000" stop="20261115164500 +0000">
+        <title>The Social Network</title>
+        <desc>The film focuses on the evolution of Facebook, the online social network created in 2004 on the Harvard campus, and how overnight success and wealth changed the lives of the classmates who created it.</desc>
+        <icon src="https://images.pluto.tv/series/67113cf318d3ba001372c8b8/tile_1779459121793.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+<programme channel="5b4e92e4694c027be6ecece1-US" start="20261115164500 +0000" stop="20261115194500 +0000">
+        <title>The Remains of the Day</title>
+        <desc>Oscar®-winners Anthony Hopkins (The Silence of the Lambs) and Emma Thompson (Howards End) reunite with the acclaimed Merchant Ivory filmmaking team for this extraordinary and moving story of blind devotion and repressed love. Rated PG</desc>
+        <icon src="https://images.pluto.tv/series/5e0e3dc867e53ebb46554207/tile_1791419041928.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+<programme channel="5b4e92e4694c027be6ecece1-US" start="20261115194500 +0000" stop="20261115221500 +0000">
+        <title>Antwone Fisher</title>
+        <desc>A troubled sailor who embarks on a remarkable journey to confront his past.</desc>
+        <icon src="https://images.pluto.tv/series/6adf7a727a5624e68d6a3c70/tile_1793913122065.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
 <programme channel="5b64a245a202b3337f09e51d-US" start="20261115150000 +0000" stop="20261115174500 +0000">
         <title>Stardust</title>
         <desc>In hopes of wooing a girl, Tristan promises to bring her a falling star. He soon discovers the star is actually a celestial beauty named Yvaine. When an old witch Lamia attempts to steal Yvaine's youth, Tristan must protect her.</desc>
@@ -4239,6 +4334,21 @@
         <title>First Reformed</title>
         <desc>The pastor (Ethan Hawke) of a small church in upstate New York spirals out of control after a soul-shaking encounter with an unstable environmental activist and his pregnant wife (Amanda Seyfried) in this taut, chilling thriller.</desc>
         <icon src="https://images.pluto.tv/series/631ba25f8e1485001396630a/tile_1756175019394.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+<programme channel="5f4d878d3d19b30007d2e782-US" start="20261115151500 +0000" stop="20261115191500 +0000">
+        <title>The Godfather Part II</title>
+        <desc>The continuing saga of a young Vito Corleone growing up in Sicily and New York during the 1910s, then following Michael Corleone in the 1950s as he tries to expand the family business.</desc>
+        <icon src="https://images.pluto.tv/series/6137eed762aa0500144d8676/tile_1791417962310.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+<programme channel="5f4d878d3d19b30007d2e782-US" start="20261115191500 +0000" stop="20261115211500 +0000">
+        <title>White Lightning</title>
+        <desc>In one of his most memorable roles, Burt Reynolds portrays a moonshine whiskey runner who turns state's witness to avenge the murder of a boy no one understood.</desc>
+        <icon src="https://images.pluto.tv/series/5b3aec75bbacc7ee58f53150/tile_1771603921219.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+<programme channel="5f4d878d3d19b30007d2e782-US" start="20261115211500 +0000" stop="20261116010000 +0000">
+        <title>The Godfather</title>
+        <desc>A chilling portrait of the Corleone family's rise and near fall from power in America, along with the story of the Sicilian clan's ugly crime business in which they are engaged.</desc>
+        <icon src="https://images.pluto.tv/series/6137ee7bc79f030013e056c9/tile_1791417602306.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
 <programme channel="617b37b361e0fd0008cfd8c5-US" start="20261115131500 +0000" stop="20261115161500 +0000">
         <title>Speed Racer</title>
@@ -5605,6 +5715,21 @@
         <desc>Academy Award nominees Leonardo DiCaprio and Djimon Hounsou join Academy Award winner Jennifer Connelly in this action drama from Ed Zwick, the filmmaker behind The Last Samurai.</desc>
         <icon src="https://images.pluto.tv/series/5bad6afbbddffa3d2c472c8a/tile_1773441361040.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+<programme channel="5b4e92e4694c027be6ecece1-US" start="20261115194500 +0000" stop="20261115221500 +0000">
+        <title>Antwone Fisher</title>
+        <desc>A troubled sailor who embarks on a remarkable journey to confront his past.</desc>
+        <icon src="https://images.pluto.tv/series/6adf7a727a5624e68d6a3c70/tile_1793913122065.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+<programme channel="5b4e92e4694c027be6ecece1-US" start="20261115221500 +0000" stop="20261116010000 +0000">
+        <title>Selena</title>
+        <desc>Young. Beautiful. Enormously gifted. At 23, Selena shone as a fresh star in a vibrantly new musical field. But just as she was poised to be the next pop-music sensation, her life was tragically cut short.</desc>
+        <icon src="https://images.pluto.tv/series/650a1f806930bb0013693fc8/tile_1793919966584.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+<programme channel="5b4e92e4694c027be6ecece1-US" start="20261116010000 +0000" stop="20261116040000 +0000">
+        <title>A Star Is Born (2018)</title>
+        <desc>In this new take on the tragic love story, musician Jackson Maine discovers—and falls in love with—struggling artist Ally. But even as Ally's career takes off, their relationship is breaking down.</desc>
+        <icon src="https://images.pluto.tv/series/6aa9c2b2fb1489fc5c868b3b/tile_1793726499027.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
 <programme channel="5b64a245a202b3337f09e51d-US" start="20261115200000 +0000" stop="20261115224500 +0000">
         <title>The Host (2013)</title>
         <desc>When an unseen enemy threatens mankind by taking over humans' bodies and erasing their minds, Melanie Stryder risks everything to protect the people she cares about most, proving that love can conquer all in a dangerous new world.</desc>
@@ -5694,6 +5819,21 @@
         <title>30 Days of Night</title>
         <desc>Josh Hartnett (The Black Dahlia, Pearl Harbor) crosses over to the dark side in this bone-chilling adaptation of the cult-hit graphic novel, brought to the screen in all its demonic glory.</desc>
         <icon src="https://images.pluto.tv/series/6058cdafb58b22001a46e0ff/tile_1778248082139.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+<programme channel="5f4d878d3d19b30007d2e782-US" start="20261115191500 +0000" stop="20261115211500 +0000">
+        <title>White Lightning</title>
+        <desc>In one of his most memorable roles, Burt Reynolds portrays a moonshine whiskey runner who turns state's witness to avenge the murder of a boy no one understood.</desc>
+        <icon src="https://images.pluto.tv/series/5b3aec75bbacc7ee58f53150/tile_1771603921219.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+<programme channel="5f4d878d3d19b30007d2e782-US" start="20261115211500 +0000" stop="20261116010000 +0000">
+        <title>The Godfather</title>
+        <desc>A chilling portrait of the Corleone family's rise and near fall from power in America, along with the story of the Sicilian clan's ugly crime business in which they are engaged.</desc>
+        <icon src="https://images.pluto.tv/series/6137ee7bc79f030013e056c9/tile_1791417602306.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+<programme channel="5f4d878d3d19b30007d2e782-US" start="20261116010000 +0000" stop="20261116050000 +0000">
+        <title>The Godfather Part II</title>
+        <desc>The continuing saga of a young Vito Corleone growing up in Sicily and New York during the 1910s, then following Michael Corleone in the 1950s as he tries to expand the family business.</desc>
+        <icon src="https://images.pluto.tv/series/6137eed762aa0500144d8676/tile_1791417962310.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
 <programme channel="617b37b361e0fd0008cfd8c5-US" start="20261115191500 +0000" stop="20261115221500 +0000">
         <title>The Matrix Reloaded</title>
@@ -7080,6 +7220,21 @@
         <desc>Academy Award nominees Leonardo DiCaprio and Djimon Hounsou join Academy Award winner Jennifer Connelly in this action drama from Ed Zwick, the filmmaker behind The Last Samurai.</desc>
         <icon src="https://images.pluto.tv/series/5bad6afbbddffa3d2c472c8a/tile_1773441361040.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+<programme channel="5b4e92e4694c027be6ecece1-US" start="20261115221500 +0000" stop="20261116010000 +0000">
+        <title>Selena</title>
+        <desc>Young. Beautiful. Enormously gifted. At 23, Selena shone as a fresh star in a vibrantly new musical field. But just as she was poised to be the next pop-music sensation, her life was tragically cut short.</desc>
+        <icon src="https://images.pluto.tv/series/650a1f806930bb0013693fc8/tile_1793919966584.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+<programme channel="5b4e92e4694c027be6ecece1-US" start="20261116010000 +0000" stop="20261116040000 +0000">
+        <title>A Star Is Born (2018)</title>
+        <desc>In this new take on the tragic love story, musician Jackson Maine discovers—and falls in love with—struggling artist Ally. But even as Ally's career takes off, their relationship is breaking down.</desc>
+        <icon src="https://images.pluto.tv/series/6aa9c2b2fb1489fc5c868b3b/tile_1793726499027.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+<programme channel="5b4e92e4694c027be6ecece1-US" start="20261116040000 +0000" stop="20261116064500 +0000">
+        <title>The Social Network</title>
+        <desc>The film focuses on the evolution of Facebook, the online social network created in 2004 on the Harvard campus, and how overnight success and wealth changed the lives of the classmates who created it.</desc>
+        <icon src="https://images.pluto.tv/series/67113cf318d3ba001372c8b8/tile_1779459121793.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
 <programme channel="5b64a245a202b3337f09e51d-US" start="20261115224500 +0000" stop="20261116010000 +0000">
         <title>The Last Airbender</title>
         <desc>Air, Water, Earth, Fire. Four nations are tied by destiny when Fire launches war against the others. Caught between the war, one Avatar discovers he's able to manipulate all four elements.</desc>
@@ -7164,6 +7319,16 @@
         <title>40 Dates and 40 Nights</title>
         <desc>Burned out on dating and ready to quit, Leah takes her eccentric grandma's outrageous challenge—40 dates in 40 nights for a full year of paid rent.</desc>
         <icon src="https://images.pluto.tv/series/6a95b8b1763ed26aa4059f33/tile_1791469441963.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+<programme channel="5f4d878d3d19b30007d2e782-US" start="20261115211500 +0000" stop="20261116010000 +0000">
+        <title>The Godfather</title>
+        <desc>A chilling portrait of the Corleone family's rise and near fall from power in America, along with the story of the Sicilian clan's ugly crime business in which they are engaged.</desc>
+        <icon src="https://images.pluto.tv/series/6137ee7bc79f030013e056c9/tile_1791417602306.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+<programme channel="5f4d878d3d19b30007d2e782-US" start="20261116010000 +0000" stop="20261116050000 +0000">
+        <title>The Godfather Part II</title>
+        <desc>The continuing saga of a young Vito Corleone growing up in Sicily and New York during the 1910s, then following Michael Corleone in the 1950s as he tries to expand the family business.</desc>
+        <icon src="https://images.pluto.tv/series/6137eed762aa0500144d8676/tile_1791417962310.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
 <programme channel="617b37b361e0fd0008cfd8c5-US" start="20261115221500 +0000" stop="20261116010000 +0000">
         <title>The Matrix Revolutions</title>
@@ -8510,6 +8675,16 @@
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5b4e69e08291147bd04a9fd7/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
+<programme channel="5b4e92e4694c027be6ecece1-US" start="20261116040000 +0000" stop="20261116064500 +0000">
+        <title>The Social Network</title>
+        <desc>The film focuses on the evolution of Facebook, the online social network created in 2004 on the Harvard campus, and how overnight success and wealth changed the lives of the classmates who created it.</desc>
+        <icon src="https://images.pluto.tv/series/67113cf318d3ba001372c8b8/tile_1779459121793.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+<programme channel="5b4e92e4694c027be6ecece1-US" start="20261116064500 +0000" stop="20261116080000 +0000">
+        <title>Pluto TV Drama</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/5b4e92e4694c027be6ecece1/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    </programme>
 <programme channel="5b64a245a202b3337f09e51d-US" start="20261116031500 +0000" stop="20261116054500 +0000">
         <title>Teenage Mutant Ninja Turtles: Out of the Shadows</title>
         <desc>The Turtles are back to battle a bigger threat alongside April O'Neil and vigilante Casey Jones. As they prepare to take on supervillain Shredder and his henchmen, Bebop and Rocksteady, they find themselves facing an even greater evil: the sinister Krang.</desc>
@@ -8569,6 +8744,16 @@
         <title>Pluto TV Staff Picks</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f4d863b98b41000076cd061/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    </programme>
+<programme channel="5f4d878d3d19b30007d2e782-US" start="20261116010000 +0000" stop="20261116050000 +0000">
+        <title>The Godfather Part II</title>
+        <desc>The continuing saga of a young Vito Corleone growing up in Sicily and New York during the 1910s, then following Michael Corleone in the 1950s as he tries to expand the family business.</desc>
+        <icon src="https://images.pluto.tv/series/6137eed762aa0500144d8676/tile_1791417962310.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+<programme channel="5f4d878d3d19b30007d2e782-US" start="20261116050000 +0000" stop="20261116080000 +0000">
+        <title>70s Cinema</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/5f4d878d3d19b30007d2e782/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
 <programme channel="617b37b361e0fd0008cfd8c5-US" start="20261116040000 +0000" stop="20261116070000 +0000">
         <title>The Matrix</title>

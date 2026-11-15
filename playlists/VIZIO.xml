@@ -12,6 +12,10 @@
     <display-name>ElectricNow</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/1708400523/1/267/150/0.jpg"/>
   </channel>
+<channel id="vizio.96Station_88885576">
+    <display-name>Filmrise Z Nation</display-name>
+    <icon src="https://images.vizio.com/v4/btv/1/1707605980/1/267/150/0.jpg"/>
+  </channel>
 <channel id="vizio.93amg00136c44">
     <display-name>All-Out Alaska</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/1736245790/1/267/150/0.jpg"/>
@@ -934,17 +938,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20261115055010 +0000" stop="20261115064807 +0000" channel="vizio.93NMS4K">
-    <title lang="en">Nature Moments</title>
-    <sub-title lang="en">Winter Approaches</sub-title>
-    <desc lang="en">Forage for the last of autumn’s bounty with bears, squirrels, and caribou.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205194877798,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E11</episode-num>
-    <episode-num system="xmltv_ns">0.10.</episode-num>
-    <rating>
-      <value>NR (NOT RATED)</value>
-    </rating>
-  </programme>
 <programme start="20261115064807 +0000" stop="20261115071954 +0000" channel="vizio.93NMS4K">
     <title lang="en">Nature Scenes</title>
     <sub-title lang="en">Bolivia Landscapes</sub-title>
@@ -1471,14 +1464,6 @@
       <value>TV-Y</value>
     </rating>
   </programme>
-<programme start="20261115053347 +0000" stop="20261115064853 +0000" channel="vizio.93amg00346c32">
-    <title lang="en">Prairie Heartland</title>
-    <desc lang="en">A charming red barn and windmill overlook rolling golden prairies beneath a beautiful sunset sky.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205158109921,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>NR (NOT RATED)</value>
-    </rating>
-  </programme>
 <programme start="20261115064853 +0000" stop="20261115080358 +0000" channel="vizio.93amg00346c32">
     <title lang="en">Adirondack Lake</title>
     <desc lang="en">Fall colors surround a beautiful lake with a mountain view.</desc>
@@ -1578,6 +1563,94 @@
     <title lang="en">Lone Star Shark 2</title>
     <desc lang="en">A new victim has been chosen to face off against a ravenous shark in a Texas lake.</desc>
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204616425943,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+  </programme>
+<programme start="20261115064350 +0000" stop="20261115073751 +0000" channel="vizio.96Station_88885576">
+    <title lang="en">Z Nation</title>
+    <sub-title lang="en">A New Life</sub-title>
+    <desc lang="en">In the outpost Altura, 10K searches for Red, Warren discovers George is an old friend, Murphy encounters Sun Mei in her new lab and Doc runs into Citizen Z.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204279150664,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S05E02</episode-num>
+    <episode-num system="xmltv_ns">4.1.</episode-num>
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+<programme start="20261115073751 +0000" stop="20261115083122 +0000" channel="vizio.96Station_88885576">
+    <title lang="en">Z Nation</title>
+    <sub-title lang="en">Escape from Altura</sub-title>
+    <desc lang="en">Panic and anti-talker sentiments flare after an explosion derails the vote - and rumors blame a talker. 10K, Sarge and Red are attacked by old-school zombies and suffer devastating losses, and Murphy finds his loyal blends are still out there.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204279150644,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S05E03</episode-num>
+    <episode-num system="xmltv_ns">4.2.</episode-num>
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+<programme start="20261115083122 +0000" stop="20261115092453 +0000" channel="vizio.96Station_88885576">
+    <title lang="en">Z Nation</title>
+    <sub-title lang="en">Pacifica</sub-title>
+    <desc lang="en">10K and Red attend a ceremony for those lost in Altura. Warren, Doc, Citizen Z and George arrive in Pacifica.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204279150666,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S05E04</episode-num>
+    <episode-num system="xmltv_ns">4.3.</episode-num>
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+<programme start="20261115092453 +0000" stop="20261115101724 +0000" channel="vizio.96Station_88885576">
+    <title lang="en">Z Nation</title>
+    <sub-title lang="en">Killing All the Books</sub-title>
+    <desc lang="en">A new spate of terrorist bombings hit Pacifica. In order to follow his vision for human-talker unity, George seeks those responsible for the attacks.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204279150478,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S05E05</episode-num>
+    <episode-num system="xmltv_ns">4.4.</episode-num>
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+<programme start="20261115101724 +0000" stop="20261115111125 +0000" channel="vizio.96Station_88885576">
+    <title lang="en">Z Nation</title>
+    <sub-title lang="en">Limbo</sub-title>
+    <desc lang="en">Warren and the group wind up at a wild casino and shelter for fugitive talkers run by Murphy and his blends.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204279150471,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S05E06</episode-num>
+    <episode-num system="xmltv_ns">4.5.</episode-num>
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+<programme start="20261115111125 +0000" stop="20261115120526 +0000" channel="vizio.96Station_88885576">
+    <title lang="en">Z Nation</title>
+    <sub-title lang="en">Doc's Stoned History</sub-title>
+    <desc lang="en">Doc breaks out special medicine to treat George's injury and explains the Founding Fathers, the Bill of Rights and more.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204279150450,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S05E07</episode-num>
+    <episode-num system="xmltv_ns">4.6.</episode-num>
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+<programme start="20261115120526 +0000" stop="20261115125926 +0000" channel="vizio.96Station_88885576">
+    <title lang="en">Z Nation</title>
+    <sub-title lang="en">Heartland</sub-title>
+    <desc lang="en">The group arrives at the farming outpost that produces flour for Z-bizkuits, but it is overrun by zombies, Pandora and starving talkers laying in wait to kill them.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204279150481,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S05E08</episode-num>
+    <episode-num system="xmltv_ns">4.7.</episode-num>
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+<programme start="20261115125926 +0000" stop="20261115135327 +0000" channel="vizio.96Station_88885576">
+    <title lang="en">Z Nation</title>
+    <sub-title lang="en">Water Keepers</sub-title>
+    <desc lang="en">The group is reunited with old Native friends who are defending a dam that controls Newmerica's water from talkers. In order to help, Doc and Warren undertake spiritual journeys.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204279150662,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S05E09</episode-num>
+    <episode-num system="xmltv_ns">4.8.</episode-num>
+    <rating>
+      <value>NR</value>
+    </rating>
   </programme>
 <programme start="20261115060000 +0000" stop="20261115070000 +0000" channel="vizio.96Station_88885586">
     <title lang="en">Stingray Country Greats</title>
