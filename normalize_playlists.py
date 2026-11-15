@@ -546,6 +546,7 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
         western
         grit xtra
         circle
+        circle country
         westerns
         wild west
         bonanza
@@ -775,6 +776,7 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
     """)),
     ('Comedy', _words("""
         comedy central
+        rifftrax
         just for laughs comedy
         comedy vault
         spin city
