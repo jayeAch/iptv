@@ -149,6 +149,7 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
         kung fu
         kungfu
         martial art
+        hi-yah!
         martial arts
         wu tang collection
         wu-tang collection
@@ -545,6 +546,7 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
     # Non-crime dramas (crime dramas stay in Crime above).
     ('Drama', _words("""
         more tv drama
+        filmrise drama
         nip/tuck
         pluto tv drama
         teen wolf
