@@ -52,6 +52,10 @@
     <display-name>BBC Top Gear</display-name>
     <icon src="https://d2i0hcnfudruct.cloudfront.net/BBCTopGear/LG_TopGear_New_800x200.png"/>
   </channel>
+<channel id="FREQ1287-US">
+    <display-name>On Patrol: Live</display-name>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/reelz/channels/1287-400x200.png"/>
+  </channel>
 <channel id="haunttvus_hntus_US">
     <display-name>Haunt TV US</display-name>
     <icon src="https://d2y2gft5545ze9.cloudfront.net/HauntTV_200pxHigh_LG_ChannelAssets_White.png"/>
@@ -400,6 +404,26 @@
       <value>TV-14</value>
     </rating>
   </programme>
+<programme start="20261115103824 +0000" stop="20261115131928 +0000" channel="FREQ1287-US">
+    <title lang="en">On Patrol: Live</title>
+    <desc lang="en">An officer responds to a man who found a tracking device on his vehicle.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/1dxlct0kg2zma1n7mfqeasktk/w1920_h1080/1dxlct0kg2zma1n7mfqeasktk.jpg"/>
+    <episode-num system="dd_progid">7328447</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261115131928 +0000" stop="20261115160035 +0000" channel="FREQ1287-US">
+    <title lang="en">On Patrol: Live</title>
+    <desc lang="en">An officer is dispatched after a man disturbs a trick or treating event.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/7i1bcb5hifau10mvswrl2ms0j/w1920_h1080/7i1bcb5hifau10mvswrl2ms0j.jpg"/>
+    <episode-num system="dd_progid">7328455</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
 <programme start="20261115100000 +0000" stop="20261115110007 +0000" channel="FREQ896">
     <title lang="en">Sue Thomas: F.B.Eye</title>
     <desc lang="en">Our team goes into high gear when a violent fugitive escapes from a prison van and heads straight for D.C.</desc>
@@ -438,16 +462,6 @@
     <episode-num system="dd_progid">9418905</episode-num>
     <rating>
       <value>TV-G</value>
-    </rating>
-  </programme>
-<programme start="20261115100016 +0000" stop="20261115103025 +0000" channel="FREQ901">
-    <title lang="en">Yu-Gi-Oh!</title>
-    <desc lang="en">Zorc’s incredible shadow energies have resurrected the bandit Bakura and his Diabound.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/w82ymu72a2i716qjdiaorujgx/w1920_h1080/w82ymu72a2i716qjdiaorujgx.jpg"/>
-    <episode-num system="dd_progid">9484203</episode-num>
-    <rating>
-      <value>TV-PG</value>
     </rating>
   </programme>
 <programme start="20261115103025 +0000" stop="20261115110019 +0000" channel="FREQ901">
@@ -538,16 +552,6 @@
     <episode-num system="dd_progid">9484225</episode-num>
     <rating>
       <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261115093710 +0000" stop="20261115102040 +0000" channel="FREQ918-US">
-    <title lang="en">Burnt Face Man</title>
-    <desc lang="en">The worlds only hero. The best man to ever wear orange. Still smells a bit of charred skin.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/1gdlbq3dhb7u911sm4h10mxo7/w1920_h1080/1gdlbq3dhb7u911sm4h10mxo7.jpg"/>
-    <episode-num system="dd_progid">4473442</episode-num>
-    <rating>
-      <value>TV-14</value>
     </rating>
   </programme>
 <programme start="20261115102040 +0000" stop="20261115105039 +0000" channel="FREQ918-US">
@@ -935,16 +939,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261115092734 +0000" stop="20261115102132 +0000" channel="haunttvus_hntus_US">
-    <title lang="en">Destination Haunted</title>
-    <desc lang="en">Dig up a treasure trove of pirate ghosts who ran this port city in the 1700s.</desc>
-    <category lang="en">Documentary</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/HNTUS/resized_eeca750df8fd8049fce38394ab0b6e0bfaac4aefd24b9a8df9038cac09b9038c_hfa01055287jpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">HNTUS_HF_A01055287_US</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
 <programme start="20261115102132 +0000" stop="20261115111303 +0000" channel="haunttvus_hntus_US">
     <title lang="en">Destination Haunted</title>
     <desc lang="en">Cross paths with lost souls that wander the stormy streets of the Big Easy.</desc>
@@ -1003,16 +997,6 @@
     <episode-num system="dd_progid">HNTUS_HF_A01051346_US</episode-num>
     <rating>
       <value>PG</value>
-    </rating>
-  </programme>
-<programme start="20261115093205 +0000" stop="20261115102927 +0000" channel="historyandwarfarenowmainus_amg01515c89_us">
-    <title lang="en">Hidden Histories of WWII</title>
-    <desc lang="en">Search for the traitor who gave up the leader of the French Resistance.</desc>
-    <category lang="en">History</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01515/resized_images/resized_965c0d2de4b8051a2d6eab2f19fc10ebdd69e4752d0c4bdd51c7d66c18f14d05_mtvhiddenhistoriesofwwiis1e0216x9jpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">amg01515c89_amg01515c89_MTV_HiddenHistoriesOfWorldWar2_S1_E02_en_20261115093205_us</episode-num>
-    <rating>
-      <value>TV-PG</value>
     </rating>
   </programme>
 <programme start="20261115102927 +0000" stop="20261115112336 +0000" channel="historyandwarfarenowmainus_amg01515c89_us">
@@ -1205,16 +1189,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261115092115 +0000" stop="20261115101935 +0000" channel="portraittv_amg30859c1_us">
-    <title lang="en">3G's</title>
-    <desc lang="en">Felipe Esparza slides on the G’s with wild tales about a deaf carjacker while Erik, Jesus, and Sasha beat up a stunt man.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg30859/resized_images/resized_199f11d80a74966d35d3124138d19252492df428b58a98f602cf735b0c6f3c94_felipeesparzaandsashastimbsjpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">amg30859c1_AFdmPmxnwRnuPJrdDwUdwyR_us</episode-num>
-    <rating>
-      <value>TV-MA</value>
-    </rating>
-  </programme>
 <programme start="20261115101935 +0000" stop="20261115104509 +0000" channel="portraittv_amg30859c1_us">
     <title lang="en">Go Big or Go Home</title>
     <desc lang="en">Chris Spencer quizzes people in downtown Atlanta for a chance to win up to $600 in prize cash.</desc>
@@ -1335,16 +1309,6 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-<programme start="20261115080727 +0000" stop="20261115102343 +0000" channel="tribeca_tribe_US">
-    <title lang="en">Rock the Kasbah</title>
-    <desc lang="en">Bill Murray stars as a down-on-his-luck rock manager stranded in Kabul who discovers a gifted young Afghan woman with an extraordinary voice, then risks everything to get her onto a national TV singing competition. A ragged culture-clash comedy wrapped around an underdog story.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg02042/resized_images/resized_d0dda3c7a0c43dffd55226dc658d4e8e233b547e2212bdf8c5d919fc608ca505_tribecathumbnail1920x1080jpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">amg02042c61_ACaUjjphNk1UE2toJG8itEc_us</episode-num>
-    <rating>
-      <value>R</value>
-    </rating>
-  </programme>
 <programme start="20261115102343 +0000" stop="20261115122151 +0000" channel="tribeca_tribe_US">
     <title lang="en">Fifty Shades Of Black</title>
     <desc lang="en">An inexperienced college student meets a wealthy businessman whose sexual practices put a strain on their relationship.</desc>
@@ -1451,16 +1415,6 @@
     <category lang="en">Drama</category>
     <icon src="http://img.platform.wurl.dev/channel/1180/lg/f13d7e/LG-768x432_v1.png"/>
     <episode-num system="dd_progid">US-RAINBOWMEDIAHOLDINGSLLC-117747068-56810503-56788473</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261115094724 +0000" stop="20261115101721 +0000" channel="us-amc_anime_x_hidive_1">
-    <title lang="en">The Eminence in Shadow</title>
-    <desc lang="en">Cid and Claire receive an invitation to a tournament. At the festivities, Cid receives more attention than a background character desires.</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://img.platform.wurl.dev/channel/1398/lg/ab8828/LG-768x432_v1.png"/>
-    <episode-num system="dd_progid">US-RAINBOWMEDIAHOLDINGSLLC-117149100-56826743-56804169</episode-num>
     <rating>
       <value>TV-14</value>
     </rating>
@@ -1645,16 +1599,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261115095959 +0000" stop="20261115102959 +0000" channel="us-gsn_cinevault_70s_1">
-    <title lang="en">I Dream Of Jeannie</title>
-    <desc lang="en">Nostalgia grips Jeannie when she learns the local museum is showing an exhibit from Bukistan, her old home. At the museum, she sees a pair of ancient slippers in a case and tells Tony the slippers were stolen from her.</desc>
-    <category lang="en">Talk show &amp; Entertainment</category>
-    <icon src="http://img.platform.wurl.dev/episodemeta/55303907/lg/24b9fe/lg_episode_thumbnail768x432_v2.jpg"/>
-    <episode-num system="dd_progid">US-GAMESHOWNETWORKLLC-55327283-43401927-43386560</episode-num>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
 <programme start="20261115102959 +0000" stop="20261115105959 +0000" channel="us-gsn_cinevault_70s_1">
     <title lang="en">I Dream Of Jeannie</title>
     <desc lang="en">Tony is assigned to assure Princess Tarji a good time during her visit to the country, since the US is anxious to make a deal for oil with her father.</desc>
@@ -1755,16 +1699,6 @@
       <value>TV-G</value>
     </rating>
   </programme>
-<programme start="20261115100002 +0000" stop="20261115103003 +0000" channel="us-gsn_crunchyroll_1">
-    <title lang="en">Raven of the Inner Palace</title>
-    <desc lang="en">Court lady An Huilan comes to make a request. She claims she can hear the voice of a dead consort coming from within the water. Xi Wanlin, the Magpie Consort during Yandi's reign, drowned herself in the lake on the day the emperor was to visit her. The voice within the water is allegedly hers. Huilan asks Shouxue to save Wanlin, but Shouxue realizes there is more to the story than what Huilan is telling her.</desc>
-    <category lang="en">Talk show &amp; Entertainment</category>
-    <icon src="http://img.platform.wurl.dev/episodemeta/52892125/lg/b707bc/lg_episode_thumbnail768x432_v3.jpg"/>
-    <episode-num system="dd_progid">US-GAMESHOWNETWORKLLC-52908844-44098205-44082794</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme start="20261115103003 +0000" stop="20261115110003 +0000" channel="us-gsn_crunchyroll_1">
     <title lang="en">Raven of the Inner Palace</title>
     <desc lang="en">Gaojun uncharacteristically appears lonely. Though Shouxue is concerned, she is unable to ask why. Several days later, Gaojun visits Ye Ming Palace to show her a haunted mask. The ghost haunting the mask apparently responds to a type of foreign lute. The problem is solved when Gaojun is able to provide such a lute. Gaojun tries to leave, but he is stopped by Shouxue.</desc>
@@ -1855,16 +1789,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261115074121 +0000" stop="20261115103242 +0000" channel="us-maverick_maverick_black_cinema_2">
-    <title lang="en">New Year New Us 2: #LoveGoals</title>
-    <desc lang="en">On a mission to maintain a successful marriage in a city full of temptation, Bakari &amp; Imani are trying their best to get on the same page. But just when things seem to be getting back on track, secrets and lies threaten to tear down everything they've built.</desc>
-    <category lang="en">Movies</category>
-    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/24678-26726/50554136-default_v1.jpg"/>
-    <episode-num system="dd_progid">US-MaverickEntertainmentGroup-50868878-580496-572993</episode-num>
-    <rating>
-      <value>R</value>
-    </rating>
-  </programme>
 <programme start="20261115103242 +0000" stop="20261115115700 +0000" channel="us-maverick_maverick_black_cinema_2">
     <title lang="en">Tilt</title>
     <desc lang="en">When a local drug dealer is arrested and put in jail, he asks his daughter Diamond to run his operation. Diamond takes control of the empire, however it doesn’t sit well with members of the crew. Diamond gets word, from her trusted sources, that two members of the crew are plotting to overthrow her Father’s drug empire. Diamond must get rid of the two disloyal members of the crew before they take control of the operation.</desc>
@@ -1893,16 +1817,6 @@
     <episode-num system="dd_progid">US-MaverickEntertainmentGroup-101647408-580496-572993</episode-num>
     <rating>
       <value>R</value>
-    </rating>
-  </programme>
-<programme start="20261115100000 +0000" stop="20261115103000 +0000" channel="us-scripps_laffmore_1">
-    <title lang="en">Funniest Pets &amp; People</title>
-    <desc lang="en">Cat puts food in water then eats it; cat eats cereal; squirrel jumps on man's head and takes his food from his mouth.</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://img.platform.wurl.dev/channel/1498/lg/d22c6a/LG-768x432_v1.png"/>
-    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120520012-56782599-56762753</episode-num>
-    <rating>
-      <value>TV-PG</value>
     </rating>
   </programme>
 <programme start="20261115103000 +0000" stop="20261115110000 +0000" channel="us-scripps_laffmore_1">
