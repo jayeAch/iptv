@@ -40,6 +40,10 @@
     <display-name>Tribeca</display-name>
     <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/tribeca/Tribeca_Logo_800w200h.png"/>
   </channel>
+<channel id="electricnoweng_eleno_US">
+    <display-name>Electric Now</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/electric/ENOW_White_logo_800x200.png"/>
+  </channel>
 <channel id="portraittv_amg30859c1_us">
     <display-name>Portrait TV</display-name>
     <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Portrait-TV_Logo_400x200.png"/>
@@ -324,16 +328,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20261115100340 +0000" stop="20261115105931 +0000" channel="99993103">
-    <title lang="en">Monsters and Mysteries in America</title>
-    <desc lang="en">In the desolate Badlands, uncover tales of the Devil's Highway, menacing black-eyed children and more.</desc>
-    <category lang="en">ETC</category>
-    <icon src="https://image.xumo.com/v1/assets/asset/XM05SD9KRFO7G1/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993103%2F768x432.jpg%3Ftype%3DchannelTile"/>
-    <episode-num system="dd_progid">XM05SD9KRFO7G1</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
 <programme start="20261115105931 +0000" stop="20261115115500 +0000" channel="99993103">
     <title lang="en">Monsters and Mysteries in America</title>
     <desc lang="en">The Ozarks' dark forests teem with mystery as locals share chilling tales of the Fouke Monster and more.</desc>
@@ -404,16 +398,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261115100000 +0000" stop="20261115110007 +0000" channel="FREQ896">
-    <title lang="en">Sue Thomas: F.B.Eye</title>
-    <desc lang="en">Our team goes into high gear when a violent fugitive escapes from a prison van and heads straight for D.C.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/8r16s8zyxons1xwfullpxfl7w/w1920_h1080/8r16s8zyxons1xwfullpxfl7w.jpg"/>
-    <episode-num system="dd_progid">9418909</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
 <programme start="20261115110007 +0000" stop="20261115124513 +0000" channel="FREQ896">
     <title lang="en">Love Amongst the Stars</title>
     <desc lang="en">Heidi is convinced that a rare planetary alignment which occurs every couple thousand years.</desc>
@@ -442,16 +426,6 @@
     <episode-num system="dd_progid">9418905</episode-num>
     <rating>
       <value>TV-G</value>
-    </rating>
-  </programme>
-<programme start="20261115103025 +0000" stop="20261115110019 +0000" channel="FREQ901">
-    <title lang="en">Yu-Gi-Oh!</title>
-    <desc lang="en">The hope of mankind rests on Yugi’s shoulders as he arrives at the final temple chamber.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/re6mjiw320k31syjupusnjhkk/w1920_h1080/re6mjiw320k31syjupusnjhkk.jpg"/>
-    <episode-num system="dd_progid">9484450</episode-num>
-    <rating>
-      <value>TV-PG</value>
     </rating>
   </programme>
 <programme start="20261115110019 +0000" stop="20261115113011 +0000" channel="FREQ901">
@@ -729,16 +703,6 @@
     <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/bbctgsf/resized_466f348c553ed615b2893a96e19a485e89710d15d86c2c71d82a314b408c0bef_bbcstopgears025scid45001keyartlangenglishwfnivt9o50jpg_768_432.jpeg"/>
     <episode-num system="dd_progid">bbctgsf_311755_US</episode-num>
   </programme>
-<programme start="20261115090957 +0000" stop="20261115110103 +0000" channel="clasicos_amg00658c9eng_US">
-    <title lang="en">Muchachas que Trabajan</title>
-    <desc lang="en">Cuatro jóvenes valientes desafían las reglas en busca de amor y libertad.</desc>
-    <category lang="en">Drama</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/AMG00658C9ENG/resized_e59cee18ad9329e9c02531f66bff5814e82cbec129fe2c121556273a9110eb65_818edb5654014cb9958ef0a9c6736a33ctvmuchachasquetrabajanjainerpng_768_432.jpeg"/>
-    <episode-num system="dd_progid">AMG00658C9ENG_818edb56-5401-4cb9-958e-f0a9c6736a33_US</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
 <programme start="20261115110103 +0000" stop="20261115124854 +0000" channel="clasicos_amg00658c9eng_US">
     <title lang="en">Departamento de Soltero</title>
     <desc lang="en">Mauricio, un médico muy mujeriego, decide traspasar su departamento de soltero a su amigo Luis.</desc>
@@ -829,14 +793,54 @@
       <value>TV-G</value>
     </rating>
   </programme>
-<programme start="20261115100001 +0000" stop="20261115110000 +0000" channel="estrellagames_estgm_US">
-    <title lang="en">La Mascara Del Amor</title>
-    <desc lang="en">Programa donde un protagonista viene a buscar el amor entre 5 pretendientes enmascarados</desc>
-    <category lang="en">Talk show &amp; Entertainment</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/estgm/resized_57f316853e1088916517b127d0b90da25f054a731a1fdd53589820f369e89912_estrellagamesdefaultjpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">estgm_AAMK0025_US</episode-num>
+<programme start="20261115110000 +0000" stop="20261115120000 +0000" channel="electricnoweng_eleno_US">
+    <title lang="en">Leverage</title>
+    <desc lang="en">Parker is trapped in an unknown location.</desc>
+    <category lang="en">Crime</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/ELENO/resized_26d2dbdfa8985c1b2c53382d5dedb940088849bbf13435f6856397deb4080559_leveragehorizontaljpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">ELENO_ElectricEnt-Leverage_EP305-HD-2398-6CHMONO-EN_1_US</episode-num>
     <rating>
-      <value>TV-14</value>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261115120000 +0000" stop="20261115130000 +0000" channel="electricnoweng_eleno_US">
+    <title lang="en">Leverage</title>
+    <desc lang="en">The Leverage team has to time their heist to a symphony concert.</desc>
+    <category lang="en">Crime</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/ELENO/resized_26d2dbdfa8985c1b2c53382d5dedb940088849bbf13435f6856397deb4080559_leveragehorizontaljpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">ELENO_ElectricEnt-Leverage_EP302-HD-2398-6CHMONO-EN_1_US</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261115130000 +0000" stop="20261115140000 +0000" channel="electricnoweng_eleno_US">
+    <title lang="en">Leverage</title>
+    <desc lang="en">Nate and the team infiltrate the world of Big Pharma.</desc>
+    <category lang="en">Crime</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/ELENO/resized_26d2dbdfa8985c1b2c53382d5dedb940088849bbf13435f6856397deb4080559_leveragehorizontaljpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">ELENO_ElectricEnt-Leverage_EP304-HD-2398-6CHMONO-EN_1_US</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261115140000 +0000" stop="20261115150000 +0000" channel="electricnoweng_eleno_US">
+    <title lang="en">Leverage</title>
+    <desc lang="en">Leverage infiltrates the work of Country &amp; Western music.</desc>
+    <category lang="en">Crime</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/ELENO/resized_26d2dbdfa8985c1b2c53382d5dedb940088849bbf13435f6856397deb4080559_leveragehorizontaljpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">ELENO_ElectricEnt-Leverage_EP306-HD-2398-6CHMONO-EN_1_US</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261115150000 +0000" stop="20261115160000 +0000" channel="electricnoweng_eleno_US">
+    <title lang="en">Leverage</title>
+    <desc lang="en">The team goes after a greedy debt collector who rips off taxpayers.</desc>
+    <category lang="en">Crime</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/ELENO/resized_26d2dbdfa8985c1b2c53382d5dedb940088849bbf13435f6856397deb4080559_leveragehorizontaljpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">ELENO_ElectricEnt-Leverage_EP307-HD-2398-6CHMONO-EN_1_US</episode-num>
+    <rating>
+      <value>TV-PG</value>
     </rating>
   </programme>
 <programme start="20261115110000 +0000" stop="20261115120000 +0000" channel="estrellagames_estgm_US">
@@ -1199,16 +1203,6 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-<programme start="20261115105546 +0000" stop="20261115110000 +0000" channel="theasylummoviechannel_tasmc_US">
-    <title lang="en">Apocalypse Pompeii</title>
-    <desc lang="en">When Mt. Vesuvius erupts, a vacationing former SPECIAL OPS commando must rescue his trapped wife and daughter.</desc>
-    <category lang="en">Action</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/tasmc/resized_a7713e90b9395e221a0e01b33462aef644bd46d203fe4bcade37bc01c3dad797_apocalypsepompeii1920x1080jpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">tasmc_ApocalypsePompeii_Feature_2997_20_US</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme start="20261115110000 +0000" stop="20261115123521 +0000" channel="theasylummoviechannel_tasmc_US">
     <title lang="en">Apocalypse Pompeii</title>
     <desc lang="en">When Mt. Vesuvius erupts, a vacationing former SPECIAL OPS commando must rescue his trapped wife and daughter.</desc>
@@ -1499,16 +1493,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261115102959 +0000" stop="20261115105959 +0000" channel="us-gsn_cinevault_70s_1">
-    <title lang="en">I Dream Of Jeannie</title>
-    <desc lang="en">Tony is assigned to assure Princess Tarji a good time during her visit to the country, since the US is anxious to make a deal for oil with her father.</desc>
-    <category lang="en">Talk show &amp; Entertainment</category>
-    <icon src="http://img.platform.wurl.dev/episodemeta/55303906/lg/affd2b/lg_episode_thumbnail768x432_v1.jpg"/>
-    <episode-num system="dd_progid">US-GAMESHOWNETWORKLLC-55327282-43401927-43386560</episode-num>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
 <programme start="20261115105959 +0000" stop="20261115112739 +0000" channel="us-gsn_cinevault_70s_1">
     <title lang="en">Just Shoot Me</title>
     <desc lang="en">Despite the staff's efforts to celebrate, Finch has no intention of being recognized on Secretary's Day. And while Jack insists on a gift to mark the occasion, Finch does his best to make it clear that he doesn't consider himself a secretary.</desc>
@@ -1597,16 +1581,6 @@
     <episode-num system="dd_progid">US-GAMESHOWNETWORKLLC-56161683-46949882-43386560</episode-num>
     <rating>
       <value>TV-G</value>
-    </rating>
-  </programme>
-<programme start="20261115103003 +0000" stop="20261115110003 +0000" channel="us-gsn_crunchyroll_1">
-    <title lang="en">Raven of the Inner Palace</title>
-    <desc lang="en">Gaojun uncharacteristically appears lonely. Though Shouxue is concerned, she is unable to ask why. Several days later, Gaojun visits Ye Ming Palace to show her a haunted mask. The ghost haunting the mask apparently responds to a type of foreign lute. The problem is solved when Gaojun is able to provide such a lute. Gaojun tries to leave, but he is stopped by Shouxue.</desc>
-    <category lang="en">Talk show &amp; Entertainment</category>
-    <icon src="http://img.platform.wurl.dev/episodemeta/52892123/lg/985590/lg_episode_thumbnail768x432_v2.jpg"/>
-    <episode-num system="dd_progid">US-GAMESHOWNETWORKLLC-52908842-44098205-44082794</episode-num>
-    <rating>
-      <value>TV-14</value>
     </rating>
   </programme>
 <programme start="20261115110003 +0000" stop="20261115113003 +0000" channel="us-gsn_crunchyroll_1">
@@ -1717,16 +1691,6 @@
     <episode-num system="dd_progid">US-MaverickEntertainmentGroup-101647408-580496-572993</episode-num>
     <rating>
       <value>R</value>
-    </rating>
-  </programme>
-<programme start="20261115103000 +0000" stop="20261115110000 +0000" channel="us-scripps_laffmore_1">
-    <title lang="en">Funniest Pets &amp; People</title>
-    <desc lang="en">Duck chases young boy around yard; cow has an itch: finds a way to get a good scratch; cowboy lassos horse that just stands there and doesn't run.</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://img.platform.wurl.dev/channel/1498/lg/d22c6a/LG-768x432_v1.png"/>
-    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120520058-56782599-56762753</episode-num>
-    <rating>
-      <value>TV-PG</value>
     </rating>
   </programme>
 <programme start="20261115110000 +0000" stop="20261115113000 +0000" channel="us-scripps_laffmore_1">
