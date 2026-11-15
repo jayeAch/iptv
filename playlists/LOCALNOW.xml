@@ -1,9 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
-<channel id="localnow.D0DF28EB-0756-4476-80C4-FD05DE2E4E09">
-    <display-name>Scream Factory TV</display-name>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D0DF28EB-0756-4476-80C4-FD05DE2E4E09/3-1x1.png" />
-  </channel>
 <channel id="localnow.CC63F1D9-7CF2-41EB-B97D-984C1320E32B">
     <display-name>Sports Illustrated TV</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/CC63F1D9-7CF2-41EB-B97D-984C1320E32B/3-1x1.png" />
@@ -188,6 +184,10 @@
     <display-name>Cornhole TV</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/6E6E57BD-F5B8-4204-8162-AA89CA95E122/3-1x1.png" />
   </channel>
+<channel id="localnow.751FE3AB-AF53-420D-83F3-EBBE00F560DF">
+    <display-name>Billiard TV</display-name>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/751FE3AB-AF53-420D-83F3-EBBE00F560DF/3-1x1.png" />
+  </channel>
 <channel id="localnow.C2C6DDAF-C202-44A1-AE9E-FEA0666F20DC">
     <display-name>TNA Wrestling</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/C2C6DDAF-C202-44A1-AE9E-FEA0666F20DC/3-1x1.png" />
@@ -238,13 +238,6 @@
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/081016AD-69A3-4236-A8A0-75391DB6F522/0-2x3.png" />
     <episode-num system="dd_progid">program-mystery-science-theater-3000-20261115085638</episode-num>
   </programme>
-<programme start="20261115055620 +0000" stop="20261115082518 +0000" channel="localnow.3140CA51-BEBB-4FEE-B144-1B94C2B9D108">
-    <title lang="en">End of Watch</title>
-    <desc lang="en">Two young officers are marked for death after confiscating a small cache of money and firearms from the members of a notorious cartel during a routine traffic stop.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/3140CA51-BEBB-4FEE-B144-1B94C2B9D108/0-2x3.png" />
-    <episode-num system="dd_progid">program-action-plus-20261115055620</episode-num>
-  </programme>
 <programme start="20261115082518 +0000" stop="20261115103912 +0000" channel="localnow.3140CA51-BEBB-4FEE-B144-1B94C2B9D108">
     <title lang="en">London Has Fallen</title>
     <desc lang="en">When a national day of mourning in London for a fallen leader turns into a horrific terrorist attack, the clock begins ticking for Mike Banning, a seasoned Secret Service agent, and President Asher. What starts as a solemn funeral quickly devolves into chaos as heavily armed insurgents storm the event, resulting in unprecedented violence across the city. Banning, determined to save the President, navigates through a landscape filled with misinformation and danger, uncovering a deeper conspiracy led by the vengeful arms dealer Aamir Barkawi, whose ties to global terrorism threaten more than just the safety of those physically present. With the breakdown of communication channels and infiltration of key security measures, the protagonist must rely on quick thinking and adrenaline-fueled action to outsmart the enemy. The lives of countless civilians are at stake as Banning engages in a tense battle against time, aiming not only to rescue the President but also to dismantle a profoundly dangerous network designed to sow chaos and destruction worldwide. As the crisis unfolds, it becomes more than just a fight for survival; it's a terrifying examination of the fragility of peace and the price of freedom in a convoluted world.</desc>
@@ -279,13 +272,6 @@
     <category lang="en">Comedy</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/421B7C8F-0DF8-4769-BF8F-F79DD74C31E8/0-2x3.png" />
     <episode-num system="dd_progid">program-comedy-plus-20261115111909</episode-num>
-  </programme>
-<programme start="20261115080000 +0000" stop="20261115083000 +0000" channel="localnow.49FEA0F7-7177-48B1-A3B2-46FE867C214F">
-    <title lang="en">WSL Competition Highlights</title>
-    <desc lang="en">See all the best scores from the WSL surfing season.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/49FEA0F7-7177-48B1-A3B2-46FE867C214F/0-2x3.png" />
-    <episode-num system="dd_progid">program-world-surf-league-20261115080000</episode-num>
   </programme>
 <programme start="20261115083000 +0000" stop="20261115093000 +0000" channel="localnow.49FEA0F7-7177-48B1-A3B2-46FE867C214F">
     <title lang="en">Tournotes</title>
@@ -378,14 +364,6 @@
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7DB404D9-5CF0-414C-9A60-A05839756563/0-2x3.png" />
     <episode-num system="dd_progid">program-epg-kung-fu-movies-20261115070642</episode-num>
   </programme>
-<programme start="20261115062600 +0000" stop="20261115082600 +0000" channel="localnow.AFE4F17B-882F-4DFF-9014-972E16331779">
-    <title lang="en">Meek's Cutoff</title>
-    <desc lang="en">Settlers traveling through the Oregon desert in 1845 find themselves stranded in harsh conditions.</desc>
-    <category lang="en">Sci-Fi</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/AFE4F17B-882F-4DFF-9014-972E16331779/0-2x3.png" />
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
 <programme start="20261115082600 +0000" stop="20261115101600 +0000" channel="localnow.AFE4F17B-882F-4DFF-9014-972E16331779">
     <title lang="en">Monsters</title>
     <desc lang="en">After Earth has suffered an alien invasion a journalist escort an American tourist through an infected zone.</desc>
@@ -393,13 +371,6 @@
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/AFE4F17B-882F-4DFF-9014-972E16331779/0-2x3.png" />
     <episode-num system="onscreen">S01E01</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-<programme start="20261115070124 +0000" stop="20261115083302 +0000" channel="localnow.B55F1141-71F9-463B-9383-3FDF2F34B220">
-    <title lang="en">Heckler (R)</title>
-    <desc lang="en">Comedian Jamie Kennedy shows just how nasty and mean the fight is between those in the spotlight and those in the dark.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/B55F1141-71F9-463B-9383-3FDF2F34B220/0-2x3.png" />
-    <episode-num system="dd_progid">program-B55F1141-71F9-463B-9383-3FDF2F34B220-2026-11-15-2026-11-15T070124Z</episode-num>
   </programme>
 <programme start="20261115040000 +0000" stop="20261115100000 +0000" channel="localnow.CC63F1D9-7CF2-41EB-B97D-984C1320E32B">
     <title lang="en">Badminton: '26 Japan Open</title>
@@ -422,13 +393,6 @@
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/CC63F1D9-7CF2-41EB-B97D-984C1320E32B/0-2x3.png" />
     <episode-num system="dd_progid">program-sports-illustrated-tv-20261115114500</episode-num>
   </programme>
-<programme start="20261115080000 +0000" stop="20261115083000 +0000" channel="localnow.CCC9932C-997F-4E2D-893B-0345D1BC1DC8">
-    <title lang="en">Beyond The Courts: LA Xtreme - Powered by Organics Ocean</title>
-    <desc lang="en">LA Xtreme gives you an inside look at their team and processes</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/CCC9932C-997F-4E2D-893B-0345D1BC1DC8/0-2x3.png" />
-    <episode-num system="dd_progid">program-pickleballtv-20261115080000</episode-num>
-  </programme>
 <programme start="20261115083000 +0000" stop="20261115103000 +0000" channel="localnow.CCC9932C-997F-4E2D-893B-0345D1BC1DC8">
     <title lang="en">MLP Champions Series</title>
     <desc lang="en">MLP Champions Series: Columbus TeamBattle Part 4 - Houston vs. Seattle</desc>
@@ -449,26 +413,5 @@
     <category lang="en">Sports</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/CCC9932C-997F-4E2D-893B-0345D1BC1DC8/0-2x3.png" />
     <episode-num system="dd_progid">program-pickleballtv-20261115110000</episode-num>
-  </programme>
-<programme start="20261115070149 +0000" stop="20261115083149 +0000" channel="localnow.D0DF28EB-0756-4476-80C4-FD05DE2E4E09">
-    <title lang="en">The Loreley's Grasp [English-Language Version]</title>
-    <desc lang="en">A girl's boarding school is terrorized by the monster Laurelai, who stalks and devours human hearts.</desc>
-    <category lang="en">Horror</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D0DF28EB-0756-4476-80C4-FD05DE2E4E09/0-2x3.png" />
-    <episode-num system="dd_progid">program-scream-factory-tv-20261115070149</episode-num>
-  </programme>
-<programme start="20261115083149 +0000" stop="20261115102325 +0000" channel="localnow.D0DF28EB-0756-4476-80C4-FD05DE2E4E09">
-    <title lang="en">Lisa And The Devil [English-Language Version]</title>
-    <desc lang="en">A tourist spends the night in a derelict Spanish villa seemingly held in the supernatural grip of an eccentric butler.</desc>
-    <category lang="en">Horror</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D0DF28EB-0756-4476-80C4-FD05DE2E4E09/0-2x3.png" />
-    <episode-num system="dd_progid">program-scream-factory-tv-20261115083149</episode-num>
-  </programme>
-<programme start="20261115102325 +0000" stop="20261115122325 +0000" channel="localnow.D0DF28EB-0756-4476-80C4-FD05DE2E4E09">
-    <title lang="en">Flesh Eaters</title>
-    <desc lang="en">A group of young adults trapped on a desert island find the water inhabited by flesh-eating organisms.</desc>
-    <category lang="en">Horror</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D0DF28EB-0756-4476-80C4-FD05DE2E4E09/0-2x3.png" />
-    <episode-num system="dd_progid">program-scream-factory-tv-20261115102325</episode-num>
   </programme>
 </tv>
