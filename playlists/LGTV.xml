@@ -24,6 +24,10 @@
     <display-name>World's Most Evil Killers</display-name>
     <icon src="https://image.xumo.com/v1/channels/channel/99993006/400x200.png?type=white_cropped"/>
   </channel>
+<channel id="99992255">
+    <display-name>Forensic Files</display-name>
+    <icon src="https://image.xumo.com/v1/channels/channel/99992255/400x200.png?type=white_cropped"/>
+  </channel>
 <channel id="Stingray190ADS">
     <display-name>Stingray Today's Latin Pop</display-name>
     <icon src="https://epg.sam.stingray.com/IMAGE/190ADS/lg-direct/Channel_Logo_296x200.png"/>
@@ -44,6 +48,36 @@
     <display-name>Yule Log TV</display-name>
     <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/ottstudios/YuleLogTV_by_ChristmasPlus/YL-LOGO.png"/>
   </channel>
+<programme start="20261115065627 +0000" stop="20261115072438 +0000" channel="99992255">
+    <title lang="en">Forensic Files</title>
+    <desc lang="en">A man disappears one year to the day after beginning an affair with his friend's wife. 15 years later, with the help of a metal detector, police find evidence that would prove what had happened and who was responsible.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0Y93MDGSQY58/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992255%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM0Y93MDGSQY58</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261115072438 +0000" stop="20261115075249 +0000" channel="99992255">
+    <title lang="en">Forensic Files</title>
+    <desc lang="en">A patrolman was dispatched to what he thought would be a routine traffic call until he looked in the car.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0U420SOQEIW3/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992255%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM0U420SOQEIW3</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261115075249 +0000" stop="20261115082126 +0000" channel="99992255">
+    <title lang="en">Forensic Files</title>
+    <desc lang="en">In 1993, the state of Florida was known for more than just Disney World. Worldwide attention focused on a rash of robberies which targeted tourists.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM048WPP8Z4T8N/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992255%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM048WPP8Z4T8N</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
 <programme start="20261115061855 +0000" stop="20261115080503 +0000" channel="99992286">
     <title lang="en">Joe Baby</title>
     <desc lang="en">A money collector for a private investigator is hired to track down 10 million dollars stolen in a dodgy real estate deal, opening a complex can of worms.</desc>
@@ -168,13 +202,6 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-<programme start="20261115060000 +0000" stop="20261115070000 +0000" channel="thecountrynetworkus_cinetcnus_US">
-    <title lang="en">Country Under the Stars</title>
-    <desc lang="en">Country Under the Stars</desc>
-    <category lang="en">Music</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/CINETCNUS/resized_df27568244565c2689da7450f7ce114e2a88228bafd8f53dba10513dbe53c7cc_p33939431bh8aajpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">CINETCNUS_amg-SH065839340000_US</episode-num>
-  </programme>
 <programme start="20261115070000 +0000" stop="20261115080000 +0000" channel="thecountrynetworkus_cinetcnus_US">
     <title lang="en">Keep it Country</title>
     <desc lang="en">Keep it Country</desc>
@@ -197,16 +224,6 @@
     <episode-num system="dd_progid">amg02042c61_AUFZ2xJdoWEag3CeGASyo4C_us</episode-num>
     <rating>
       <value>R</value>
-    </rating>
-  </programme>
-<programme start="20261115063000 +0000" stop="20261115070000 +0000" channel="us-scripps_laffmore_1">
-    <title lang="en">Just for Laughs Gags</title>
-    <desc lang="en">"Parallel Pranking"; "Cream of Prank Soup"; "Bring Your Gorilla to Work Day."</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://img.platform.wurl.dev/channel/1498/lg/d22c6a/LG-768x432_v1.png"/>
-    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120519781-56782583-56762738</episode-num>
-    <rating>
-      <value>TV-PG</value>
     </rating>
   </programme>
 <programme start="20261115070000 +0000" stop="20261115073000 +0000" channel="us-scripps_laffmore_1">

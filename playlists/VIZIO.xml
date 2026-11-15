@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+<channel id="vizio.FEATURED2">
+    <display-name>ION</display-name>
+    <icon src="https://images.vizio.com/v4/btv/1/1699788993/1/267/150/0.jpg"/>
+  </channel>
 <channel id="vizio.149station_1648">
     <display-name>Great Comedy</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/818745074072492974/1/267/150/0.jpg"/>
@@ -68,6 +72,10 @@
     <display-name>Stingray Flashback '70s</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/1731001330/1/267/150/0.jpg"/>
   </channel>
+<channel id="vizio.96Station_88885587">
+    <display-name>Stingray Remember The '80s</display-name>
+    <icon src="https://images.vizio.com/v4/btv/1/1731001309/1/267/150/0.jpg"/>
+  </channel>
 <channel id="vizio.96Station_88885588">
     <display-name>Stingray Nothin' But '90s</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/1731001315/1/267/150/0.jpg"/>
@@ -75,6 +83,10 @@
 <channel id="vizio.96Station_88885586">
     <display-name>Stingray Country Greats</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/1731001302/1/267/150/0.jpg"/>
+  </channel>
+<channel id="vizio.96Station_9993044">
+    <display-name>Stingray Hot Country</display-name>
+    <icon src="https://images.vizio.com/v4/btv/1/1731224226/1/267/150/0.jpg"/>
   </channel>
 <channel id="vizio.96Station_9993045">
     <display-name>Stingray Classic Rock</display-name>
@@ -91,6 +103,10 @@
 <channel id="vizio.96Station_88885590">
     <display-name>Stingray SPA</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/1731001336/1/267/150/0.jpg"/>
+  </channel>
+<channel id="vizio.93VIZIO">
+    <display-name>FREE Vibes Fireplace</display-name>
+    <icon src="https://images.vizio.com/v4/btv/1/5193759142011371264/1/267/150/0.jpg"/>
   </channel>
 <channel id="vizio.93amg00346c31">
     <display-name>FREE Vibes Scenery</display-name>
@@ -120,16 +136,6 @@
     <display-name>Stingray Naturescape</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/1648003466/1/267/150/0.jpg"/>
   </channel>
-<programme start="20261115063000 +0000" stop="20261115070000 +0000" channel="vizio.149station_1648">
-    <title lang="en">Malcolm &amp; Eddie</title>
-    <desc lang="en">Needing someone to babysit her son while she goes to St. Louis for a job interview, Paige asks her cousin Eddie for help. And though Eddie agrees to keep an eye on little Bradley, he immediately shifts all the responsibility to Malcolm.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205091741887,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E211</episode-num>
-    <episode-num system="xmltv_ns">1.210.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
 <programme start="20261115070000 +0000" stop="20261115073000 +0000" channel="vizio.149station_1648">
     <title lang="en">Malcolm &amp; Eddie</title>
     <desc lang="en">When Simone complains about Eddie storing car parts in her refrigerator, Malcolm wants an explanation. As the discussion causes a rift between the two friends, Simone suggests Malcolm is just as much to blame for allowing Eddie's behavior to go unchecked.</desc>
@@ -248,17 +254,6 @@
     <episode-num system="xmltv_ns">2.19.</episode-num>
     <rating>
       <value>TV-G</value>
-    </rating>
-  </programme>
-<programme start="20261115060519 +0000" stop="20261115065910 +0000" channel="vizio.149station_888">
-    <title lang="en">Alien Files: Reopened</title>
-    <sub-title lang="en">Negative Energy</sub-title>
-    <desc lang="en">A Navy pilot goes public about his encounter with unexplained aerial phenomena off the East Coast of the US.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204200226280,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <episode-num system="xmltv_ns">0.6.</episode-num>
-    <rating>
-      <value>TV-PG</value>
     </rating>
   </programme>
 <programme start="20261115065910 +0000" stop="20261115075150 +0000" channel="vizio.149station_888">
@@ -426,14 +421,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261115060140 +0000" stop="20261115070141 +0000" channel="vizio.93AMG01888C5ENG">
-    <title lang="en">Above the Tulip Fields</title>
-    <desc lang="en">Holland</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205131736296,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
 <programme start="20261115070141 +0000" stop="20261115080140 +0000" channel="vizio.93AMG01888C5ENG">
     <title lang="en">North Island's Waterfalls: New Zealand</title>
     <desc lang="en">North Island's Waterfalls: New Zealand</desc>
@@ -486,14 +473,6 @@
     <title lang="en">Beachside Hut: Dominican Republic - Music</title>
     <desc lang="en">Playa Coson, Dominican Republic</desc>
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205131736299,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
-<programme start="20261115062944 +0000" stop="20261115065944 +0000" channel="vizio.93AMG01888C7ENG">
-    <title lang="en">Bookstore café</title>
-    <desc lang="en">Curl up with a good read beside this book lovers' café and its downtempo soundtrack.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205172743676,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
       <value>TV-G</value>
     </rating>
@@ -602,14 +581,6 @@
       <value>TV-G</value>
     </rating>
   </programme>
-<programme start="20261115062926 +0000" stop="20261115065926 +0000" channel="vizio.93AMG01888C8ENG">
-    <title lang="en">Campsite by starlight</title>
-    <desc lang="en">Marvel at clear, starlit skies as the bonfire roars and immersive, ambient sound sets the mood.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205149848123,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
 <programme start="20261115065926 +0000" stop="20261115072926 +0000" channel="vizio.93AMG01888C8ENG">
     <title lang="en">Desert lightshow</title>
     <desc lang="en">Catch a shooting star over a peacefully arid landscape, set to a gentle ambient soundtrack.</desc>
@@ -712,14 +683,6 @@
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205149846556,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
       <value>TV-G</value>
-    </rating>
-  </programme>
-<programme start="20261115064051 +0000" stop="20261115070022 +0000" channel="vizio.93AMG02451C1ENG">
-    <title lang="en">Knutzy Knights</title>
-    <desc lang="en">The Stooges help their friend Cedric.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205174307356,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>UR</value>
     </rating>
   </programme>
 <programme start="20261115070022 +0000" stop="20261115072052 +0000" channel="vizio.93AMG02451C1ENG">
@@ -866,15 +829,6 @@
       <value>UR</value>
     </rating>
   </programme>
-<programme start="20261115060000 +0000" stop="20261115070000 +0000" channel="vizio.93ELENO">
-    <title lang="en">Leverage</title>
-    <sub-title lang="en">The Future Job</sub-title>
-    <desc lang="en">The team goes after a con man masquerading as a psychic medium.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205193645952,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
 <programme start="20261115070000 +0000" stop="20261115080000 +0000" channel="vizio.93ELENO">
     <title lang="en">Leverage</title>
     <sub-title lang="en">The Three Strikes Job</sub-title>
@@ -1015,16 +969,6 @@
       <value>NR (NOT RATED)</value>
     </rating>
   </programme>
-<programme start="20261115050000 +0000" stop="20261115070000 +0000" channel="vizio.93VEVHH">
-    <title lang="en">Caribbean Vibes</title>
-    <desc lang="en">The hottest videos coming out of the Caribbean.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205177034692,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S93E683</episode-num>
-    <episode-num system="xmltv_ns">92.682.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme start="20261115070000 +0000" stop="20261115080000 +0000" channel="vizio.93VEVHH">
     <title lang="en">Riddim Rewind</title>
     <desc lang="en">Certified dancehall classics- pull up, wheel up, run it back!</desc>
@@ -1083,6 +1027,54 @@
     <episode-num system="xmltv_ns">92.696.</episode-num>
     <rating>
       <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261115055728 +0000" stop="20261115070933 +0000" channel="vizio.93VIZIO">
+    <title lang="en">Fall Fireplace</title>
+    <desc lang="en">A roaring fireplace surrounded by pumpkins, glowing candles, and festive fall decorations creates a cozy autumn atmosphere.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205173778057,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>NR (NOT RATED)</value>
+    </rating>
+  </programme>
+<programme start="20261115070933 +0000" stop="20261115082139 +0000" channel="vizio.93VIZIO">
+    <title lang="en">Crackling Fireplace</title>
+    <desc lang="en">A roaring fire crackles inside a rustic stone fireplace.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205156618020,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>NR (NOT RATED)</value>
+    </rating>
+  </programme>
+<programme start="20261115082139 +0000" stop="20261115093344 +0000" channel="vizio.93VIZIO">
+    <title lang="en">Rustic Fireplace</title>
+    <desc lang="en">A warm stone fireplace glows beside stacked firewood in a cozy rustic retreat.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205156618025,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>NR (NOT RATED)</value>
+    </rating>
+  </programme>
+<programme start="20261115093344 +0000" stop="20261115104549 +0000" channel="vizio.93VIZIO">
+    <title lang="en">Fall Fireplace</title>
+    <desc lang="en">A roaring fireplace surrounded by pumpkins, glowing candles, and festive fall decorations creates a cozy autumn atmosphere.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205173778057,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>NR (NOT RATED)</value>
+    </rating>
+  </programme>
+<programme start="20261115104549 +0000" stop="20261115115754 +0000" channel="vizio.93VIZIO">
+    <title lang="en">Crackling Fireplace</title>
+    <desc lang="en">A roaring fire crackles inside a rustic stone fireplace.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205156618020,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>NR (NOT RATED)</value>
+    </rating>
+  </programme>
+<programme start="20261115115754 +0000" stop="20261115130959 +0000" channel="vizio.93VIZIO">
+    <title lang="en">Rustic Fireplace</title>
+    <desc lang="en">A warm stone fireplace glows beside stacked firewood in a cozy rustic retreat.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205156618025,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>NR (NOT RATED)</value>
     </rating>
   </programme>
 <programme start="20261115054732 +0000" stop="20261115073310 +0000" channel="vizio.93VZAMCA">
@@ -1504,14 +1496,6 @@
       <value>NR (NOT RATED)</value>
     </rating>
   </programme>
-<programme start="20261115060000 +0000" stop="20261115070000 +0000" channel="vizio.96Station_88885568">
-    <title lang="en">Soaring With the Night Sky</title>
-    <desc lang="en">Soothing narration in the beginning and a picture that darkens over time.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204489247953,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
 <programme start="20261115070000 +0000" stop="20261115090000 +0000" channel="vizio.96Station_88885568">
     <title lang="en">My Best Sleep Ever</title>
     <desc lang="en">Slip into a deep and optimal sleep without light.</desc>
@@ -1652,11 +1636,6 @@
       <value>NR</value>
     </rating>
   </programme>
-<programme start="20261115060000 +0000" stop="20261115070000 +0000" channel="vizio.96Station_88885586">
-    <title lang="en">Stingray Country Greats</title>
-    <desc lang="en">"Before today’s Hot Country and the New Country trends of the ‘90s was Classic Country from the early-‘50s up to the mid-‘80s. "</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204560079932,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-  </programme>
 <programme start="20261115070000 +0000" stop="20261115080000 +0000" channel="vizio.96Station_88885586">
     <title lang="en">Stingray Country Greats</title>
     <desc lang="en">"Before today’s Hot Country and the New Country trends of the ‘90s was Classic Country from the early-‘50s up to the mid-‘80s. "</desc>
@@ -1692,10 +1671,18 @@
     <desc lang="en">"Before today’s Hot Country and the New Country trends of the ‘90s was Classic Country from the early-‘50s up to the mid-‘80s. "</desc>
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204560079932,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
   </programme>
-<programme start="20261115060000 +0000" stop="20261115070000 +0000" channel="vizio.96Station_88885588">
-    <title lang="en">Stingray Nothin' But '90s</title>
-    <desc lang="en">Take a journey through the last decade of the 20th century with this engaging mix of pop and alternative music.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204569431814,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+<programme start="20261115070000 +0000" stop="20261115110000 +0000" channel="vizio.96Station_88885587">
+    <title lang="en">Stingray Remember the '80s</title>
+    <desc lang="en">Relive the decade of perms and shoulder pads! The unmistakable synth pop sound of artists such as Michael Jackson, George Michael, and Whitney Houston is bound to remind you of all your greatest '80s memories!</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204560077866,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+<programme start="20261115110000 +0000" stop="20261115150000 +0000" channel="vizio.96Station_88885587">
+    <title lang="en">Stingray Remember the '80s</title>
+    <desc lang="en">Relive the decade of perms and shoulder pads! The unmistakable synth pop sound of artists such as Michael Jackson, George Michael, and Whitney Houston is bound to remind you of all your greatest '80s memories!</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204560077866,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
       <value>NR</value>
     </rating>
@@ -1756,14 +1743,6 @@
       <value>NR</value>
     </rating>
   </programme>
-<programme start="20261115030000 +0000" stop="20261115070000 +0000" channel="vizio.96Station_88885589">
-    <title lang="en">Stingray Flashback '70s</title>
-    <desc lang="en">Relive an explosive decade in music: Boogie Nights, Motown and soul, Woodstock and beyond. The best moments from 1968 to 1978: Abba, Jackson 5, Kool and the Gang, the Bee Gees, KC and the Sunshine Band, Carole King and more.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204560079933,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
 <programme start="20261115070000 +0000" stop="20261115110000 +0000" channel="vizio.96Station_88885589">
     <title lang="en">Stingray Flashback '70s</title>
     <desc lang="en">Relive an explosive decade in music: Boogie Nights, Motown and soul, Woodstock and beyond. The best moments from 1968 to 1978: Abba, Jackson 5, Kool and the Gang, the Bee Gees, KC and the Sunshine Band, Carole King and more.</desc>
@@ -1776,14 +1755,6 @@
     <title lang="en">Stingray Flashback '70s</title>
     <desc lang="en">Relive an explosive decade in music: Boogie Nights, Motown and soul, Woodstock and beyond. The best moments from 1968 to 1978: Abba, Jackson 5, Kool and the Gang, the Bee Gees, KC and the Sunshine Band, Carole King and more.</desc>
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204560079933,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-<programme start="20261115060000 +0000" stop="20261115070000 +0000" channel="vizio.96Station_88885590">
-    <title lang="en">Stingray SPA</title>
-    <desc lang="en">Calm your soul, soothe your body, and inspire your mind with purely instrumental electro-acoustic music.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204560077865,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
       <value>NR</value>
     </rating>
@@ -1840,14 +1811,6 @@
     <title lang="en">Stingray SPA</title>
     <desc lang="en">Calm your soul, soothe your body, and inspire your mind with purely instrumental electro-acoustic music.</desc>
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204560077865,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-<programme start="20261115060000 +0000" stop="20261115070000 +0000" channel="vizio.96Station_88885591">
-    <title lang="en">Stingray Easy Listening</title>
-    <desc lang="en">Settle in for pure relaxation with easy-listening hits by chart-topping artists you love.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204560077864,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
       <value>NR</value>
     </rating>
@@ -1932,14 +1895,6 @@
     <title lang="en">Trafficked</title>
     <desc lang="en">Inspired by real characters, three girls attempt a daring escape from an elaborate human trafficking network.</desc>
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205170970277,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-  </programme>
-<programme start="20261115050000 +0000" stop="20261115070000 +0000" channel="vizio.96Station_88885601">
-    <title lang="en">Christian Hits</title>
-    <desc lang="en">From celebrated bands to emerging solo acts, this Christian pop and rock mix brings songs of praise and hope.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205181823168,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>NR</value>
-    </rating>
   </programme>
 <programme start="20261115070000 +0000" stop="20261115090000 +0000" channel="vizio.96Station_88885601">
     <title lang="en">Christian Hits</title>
@@ -2048,10 +2003,21 @@
       <value>NR</value>
     </rating>
   </programme>
-<programme start="20261115060000 +0000" stop="20261115070000 +0000" channel="vizio.96Station_9993045">
-    <title lang="en">Stingray Classic Rock</title>
-    <desc lang="en">Return to the classic rock revolution of the ’60, ‘70s, and ’80 with legends like Janis Joplin, Peter Frampton, and The Rolling Stones</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204079550279,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+<programme start="20261115070000 +0000" stop="20261115110000 +0000" channel="vizio.96Station_9993044">
+    <title lang="en">Stingray Hot Country</title>
+    <desc lang="en">Today's country music is on fire, and it keeps getting hotter. Hot Country rounds up your favorite hits of the past decade from the biggest stars: Taylor Swift, Blake Shelton, Lady Antebellum, Carrie Underwood, Keith Urban, and more.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%203970892371,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+<programme start="20261115110000 +0000" stop="20261115150000 +0000" channel="vizio.96Station_9993044">
+    <title lang="en">Stingray Hot Country</title>
+    <desc lang="en">Today's country music is on fire, and it keeps getting hotter. Hot Country rounds up your favorite hits of the past decade from the biggest stars: Taylor Swift, Blake Shelton, Lady Antebellum, Carrie Underwood, Keith Urban, and more.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%203970892371,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>NR</value>
+    </rating>
   </programme>
 <programme start="20261115070000 +0000" stop="20261115080000 +0000" channel="vizio.96Station_9993045">
     <title lang="en">Stingray Classic Rock</title>
@@ -2087,16 +2053,6 @@
     <title lang="en">Stingray Classic Rock</title>
     <desc lang="en">Return to the classic rock revolution of the ’60, ‘70s, and ’80 with legends like Janis Joplin, Peter Frampton, and The Rolling Stones</desc>
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204079550279,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-  </programme>
-<programme start="20261115063000 +0000" stop="20261115070000 +0000" channel="vizio.98wurl_scripps_gritxtra_1">
-    <title lang="en">Zane Grey Theatre</title>
-    <desc lang="en">A woman returning to her childhood home is greeted by her bitter father, who rejects her.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204056405469,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S05E03</episode-num>
-    <episode-num system="xmltv_ns">4.2.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
   </programme>
 <programme start="20261115070000 +0000" stop="20261115073000 +0000" channel="vizio.98wurl_scripps_gritxtra_1">
     <title lang="en">Zane Grey Theatre</title>

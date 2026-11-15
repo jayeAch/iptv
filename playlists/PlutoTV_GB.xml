@@ -60,6 +60,11 @@
         <lcn>25</lcn>
         <icon src="https://images.pluto.tv/channels/6a5e2f0b7ac97ec200c8ab02/colorLogoPNG_1785738435655.png"/>
     </channel>
+<channel id="5bd8282253ed2c6334ea10fa-GB">
+        <display-name>Fireplace</display-name>
+        <lcn>33</lcn>
+        <icon src="https://images.pluto.tv/channels/5bd8282253ed2c6334ea10fa/colorLogoPNG.png"/>
+    </channel>
 <channel id="65a6a7a00c7ff50008cba07b-GB">
         <display-name>Pluto TV Crime Drama</display-name>
         <lcn>203</lcn>
@@ -210,15 +215,20 @@
         <lcn>906</lcn>
         <icon src="https://images.pluto.tv/channels/69c3c6c912e978ee49277dc7/colorLogoPNG_1779185580246.png"/>
     </channel>
-<programme channel="5ad8d3a31b95267e225e4e09-GB" start="20261115045915 +0000" stop="20261115070600 +0000">
-        <title>Monte Carlo</title>
-        <desc>Grace becomes a princess when a summer trip to Paris turns into the fantasy of a lifetime.</desc>
-        <icon src="https://images.pluto.tv/series/67da7ae85c4a51b28b509273/tile_1766214983663.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
 <programme channel="5ad8d3a31b95267e225e4e09-GB" start="20261115070600 +0000" stop="20261115092700 +0000">
         <title>Runaway Jury</title>
         <desc>In this suspenseful thriller, a high-priced and ruthless jury "consultant" will stop at nothing to secure a verdict on an explosive trial.</desc>
         <icon src="https://images.pluto.tv/series/60643014e52b47001bb06d69/tile_1766803321371.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+<programme channel="5bd8282253ed2c6334ea10fa-GB" start="20261115061956 +0000" stop="20261115072400 +0000">
+        <title>Crackling Fireplace</title>
+        <desc>Cozy up to the special edition fireplace, just in time for the Holidays. The soft crackling of burning wood will turn your home into a calming retreat.</desc>
+        <icon src="https://images.pluto.tv/series/6720daf552be200013a9feef/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+<programme channel="5bd8282253ed2c6334ea10fa-GB" start="20261115072400 +0000" stop="20261115082804 +0000">
+        <title>Festive Fireplace</title>
+        <desc>Cozy up to the special edition fireplace, just in time for the Holidays. The soft crackling of burning wood will turn your home into a calming retreat.</desc>
+        <icon src="https://images.pluto.tv/series/6720dc8252be200013aa0663/tile_1793301894012.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
 <programme channel="5c363c2411c5ca053f198f97-GB" start="20261115052043 +0000" stop="20261115071743 +0000">
         <title>Girl Most Likely</title>
@@ -240,11 +250,6 @@
         <desc>A couple of adventurers go into the wilds of British Columbia in search of a lost colleague, but when their plane crashes they find themselves at the mercy of an isolated, crazy miner.</desc>
         <icon src="https://images.pluto.tv/series/64e343be334a8a0013f91bba/tile_1785274922194.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-<programme channel="5dbfeb961b411c00090b52b3-GB" start="20261115045142 +0000" stop="20261115065942 +0000">
-        <title>Dragon Warriors</title>
-        <desc>An evil wizard, Lord Tensley, seeks the hand and heart of the beautiful princess. When she refuses, he locks her away and releases a deadly dragon to terrorize the land. Starring: James Marsters, Kaitlin Doubleday, Luke Perry</desc>
-        <icon src="https://images.pluto.tv/series/5ba1fd9976b8cadd30e811f2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
 <programme channel="5dbfeb961b411c00090b52b3-GB" start="20261115065942 +0000" stop="20261115084655 +0000">
         <title>The Crocodile Hunter: Collision Course</title>
         <desc>The Crocodile Hunter (Steve Irwin) is trying to save a feisty croc from poachers. What he doesn't know is that the crocodile has swallowed a top secret U.S. satellite beacon, and the poachers are actually American special agents sent to retrieve it.</desc>
@@ -259,11 +264,6 @@
         <title>Avengers Grimm: Time Wars</title>
         <desc>An Evil Queen enlists Rumpelstiltskin to help her send the Avengers Grimm back in time. The Avengers will need to work together if they are to return to the present and thwart the Queen before she can carry out her evil plan.</desc>
         <icon src="https://images.pluto.tv/series/66715f50de235800138f1a9e/tile_1766789286887.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-<programme channel="612cda102f5f18000705e0bf-GB" start="20261115063519 +0000" stop="20261115070557 +0000">
-        <title>Colonel March of Scotland Yard: The New Invisible Man</title>
-        <desc>Colonel March receives a queer complaint: a pair of disembodied gloves killed a manand there is no corpse, no blood, and no evidence of wrongdoing,</desc>
-        <icon src="https://images.pluto.tv/series/5b190520c65a0642637620b5/tile_1788383161163.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
 <programme channel="612cda102f5f18000705e0bf-GB" start="20261115070557 +0000" stop="20261115073701 +0000">
         <title>Colonel March of Scotland Yard: Passage At Arms</title>
@@ -535,11 +535,6 @@
         <desc>A haunted honky tonk bar in Kentucky has a terrifying past, including murder, suicide, and even a beheading.</desc>
         <icon src="https://images.pluto.tv/series/68c321d0ffda357d9d4b9ee8/tile_1757618641977.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-<programme channel="60804d85858bd00007c5d591-GB" start="20261115064200 +0000" stop="20261115070700 +0000">
-        <title>Paranormal State: The Cemetery</title>
-        <desc>PRS visits a gothic graveyard, where a jealous spirit seems to be preying on the newlywed wife of the cemetery's caretaker. Ryan traces the haunting to a mysterious, unclaimed cremation urn on the grounds.</desc>
-        <icon src="https://images.pluto.tv/series/5b190521c65a06426376216a/tile.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
 <programme channel="60804d85858bd00007c5d591-GB" start="20261115070700 +0000" stop="20261115073300 +0000">
         <title>Paranormal State: If I Should Die...</title>
         <desc>Proven paranormal investigator Ken Arrington leads a new class of characters as they try to help a family cope with what appears to be a demonic spirit in their home.</desc>
@@ -612,11 +607,6 @@ be under attack and something is trying to get through a door…but what?</desc>
         <desc>Part 2 sees Gregg venture ever deeper into the depths of Dorchester Prison and finds himself lost.</desc>
         <icon src="https://images.pluto.tv/series/649aba2812e6ce001365ada0/tile_1775197441109.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-<programme channel="69038c2ee0e0c5f8208c033a-GB" start="20261115060855 +0000" stop="20261115065957 +0000">
-        <title>Murdertown: Barnsley</title>
-        <desc>In 2015, a 69-year-old man is found stabbed in his home. At the scene, forensics uncover a receipt from a nearby cashpoint. CCTV at the bank reveals a woman using the victim's card to withdraw cash. Who is she? And how does she relate to the murder?</desc>
-        <icon src="https://images.pluto.tv/series/66c853c88e7691001328393c/tile_1767316285726.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
 <programme channel="69038c2ee0e0c5f8208c033a-GB" start="20261115065957 +0000" stop="20261115075002 +0000">
         <title>Murdertown: Pontypridd</title>
         <desc>In 2014, a woman goes missing after a night drinking in the local pubs. CCTV finds her walking home arm in arm with another drinker. He just happens to be a former butcher. Police soon realise he has put his trade to use by dismembering his victim.</desc>
@@ -652,11 +642,6 @@ be under attack and something is trying to get through a door…but what?</desc>
         <desc>The bizarre murder of a world-renowned anthropologist over the Christmas holidays shocks staff and students at the university where she teaches.</desc>
         <icon src="https://images.pluto.tv/series/5c1289cdf5be1b994b46bd05/tile_1790723532350.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-<programme channel="68c8203efef6d8a2a6f13906-GB" start="20261115063000 +0000" stop="20261115070000 +0000">
-        <title>60 days in jail</title>
-        <desc>60 Days In Jail sends undercover volunteers into jails to expose the real stories of life inside. These harrowing journeys serve a higher purpose, helping those in charge improve conditions. Facing danger and loneliness, can they last?</desc>
-        <icon src="https://images.pluto.tv/series/6993073aae69933185f10feb/tile_1776932725533.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
 <programme channel="68c8203efef6d8a2a6f13906-GB" start="20261115070000 +0000" stop="20261115073000 +0000">
         <title>60 days in jail</title>
         <desc>60 Days In Jail sends undercover volunteers into jails to expose the real stories of life inside. These harrowing journeys serve a higher purpose, helping those in charge improve conditions. Facing danger and loneliness, can they last?</desc>
@@ -671,11 +656,6 @@ be under attack and something is trying to get through a door…but what?</desc>
         <title>60 days in jail</title>
         <desc>60 Days In Jail sends undercover volunteers into jails to expose the real stories of life inside. These harrowing journeys serve a higher purpose, helping those in charge improve conditions. Facing danger and loneliness, can they last?</desc>
         <icon src="https://images.pluto.tv/series/6993073aae69933185f10feb/tile_1776932725533.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-<programme channel="69c3c6c912e978ee49277dc7-GB" start="20261115063000 +0000" stop="20261115070000 +0000">
-        <title>That's 60s</title>
-        <desc>Your premier hub for the timeless legends of the swinging sixties. Includes classics from The Beatles, Elvis Presley, Aretha Franklin, The Rolling Stones, Bob Dylan, James Brown, and many more.</desc>
-        <icon src="https://images.pluto.tv/series/6a50c7806b6cb3bb81fefdc5/tile_1783678871050.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
 <programme channel="69c3c6c912e978ee49277dc7-GB" start="20261115070000 +0000" stop="20261115073000 +0000">
         <title>That's 60s</title>
@@ -706,6 +686,31 @@ be under attack and something is trying to get through a door…but what?</desc>
         <title>Meet Dave</title>
         <desc>A crew of miniature aliens operate a spaceship that has a human form</desc>
         <icon src="https://images.pluto.tv/series/67da7c5067a072c8ad20e00a/tile_1778256002478.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+<programme channel="5bd8282253ed2c6334ea10fa-GB" start="20261115072400 +0000" stop="20261115082804 +0000">
+        <title>Festive Fireplace</title>
+        <desc>Cozy up to the special edition fireplace, just in time for the Holidays. The soft crackling of burning wood will turn your home into a calming retreat.</desc>
+        <icon src="https://images.pluto.tv/series/6720dc8252be200013aa0663/tile_1793301894012.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+<programme channel="5bd8282253ed2c6334ea10fa-GB" start="20261115082804 +0000" stop="20261115093208 +0000">
+        <title>Crackling Fireplace</title>
+        <desc>Cozy up to the special edition fireplace, just in time for the Holidays. The soft crackling of burning wood will turn your home into a calming retreat.</desc>
+        <icon src="https://images.pluto.tv/series/6720daf552be200013a9feef/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+<programme channel="5bd8282253ed2c6334ea10fa-GB" start="20261115093208 +0000" stop="20261115103612 +0000">
+        <title>Festive Fireplace</title>
+        <desc>Cozy up to the special edition fireplace, just in time for the Holidays. The soft crackling of burning wood will turn your home into a calming retreat.</desc>
+        <icon src="https://images.pluto.tv/series/6720dc8252be200013aa0663/tile_1793301894012.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+<programme channel="5bd8282253ed2c6334ea10fa-GB" start="20261115103612 +0000" stop="20261115114016 +0000">
+        <title>Crackling Fireplace</title>
+        <desc>Cozy up to the special edition fireplace, just in time for the Holidays. The soft crackling of burning wood will turn your home into a calming retreat.</desc>
+        <icon src="https://images.pluto.tv/series/6720daf552be200013a9feef/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+<programme channel="5bd8282253ed2c6334ea10fa-GB" start="20261115114016 +0000" stop="20261115124420 +0000">
+        <title>Festive Fireplace</title>
+        <desc>Cozy up to the special edition fireplace, just in time for the Holidays. The soft crackling of burning wood will turn your home into a calming retreat.</desc>
+        <icon src="https://images.pluto.tv/series/6720dc8252be200013aa0663/tile_1793301894012.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
 <programme channel="5c363c2411c5ca053f198f97-GB" start="20261115071743 +0000" stop="20261115092347 +0000">
         <title>Lost In London</title>
@@ -1956,6 +1961,31 @@ most notorious criminals in British history.</desc>
         <title>Reuniting the Rubins</title>
         <desc>Lenny Rubins, (Timothy Spall - The King's Speech) an up-tight lawyer, has to put his dream retirement on hold when his ailing mother (Honor Blackman - Goldfinger) emotionally blackmails him into reuniting his estranged children for a Jewish holiday.</desc>
         <icon src="https://images.pluto.tv/series/6a26a650812ca10016649ec2/tile_1780917841802.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+<programme channel="5bd8282253ed2c6334ea10fa-GB" start="20261115114016 +0000" stop="20261115124420 +0000">
+        <title>Festive Fireplace</title>
+        <desc>Cozy up to the special edition fireplace, just in time for the Holidays. The soft crackling of burning wood will turn your home into a calming retreat.</desc>
+        <icon src="https://images.pluto.tv/series/6720dc8252be200013aa0663/tile_1793301894012.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+<programme channel="5bd8282253ed2c6334ea10fa-GB" start="20261115124420 +0000" stop="20261115134824 +0000">
+        <title>Crackling Fireplace</title>
+        <desc>Cozy up to the special edition fireplace, just in time for the Holidays. The soft crackling of burning wood will turn your home into a calming retreat.</desc>
+        <icon src="https://images.pluto.tv/series/6720daf552be200013a9feef/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+<programme channel="5bd8282253ed2c6334ea10fa-GB" start="20261115134824 +0000" stop="20261115145228 +0000">
+        <title>Festive Fireplace</title>
+        <desc>Cozy up to the special edition fireplace, just in time for the Holidays. The soft crackling of burning wood will turn your home into a calming retreat.</desc>
+        <icon src="https://images.pluto.tv/series/6720dc8252be200013aa0663/tile_1793301894012.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+<programme channel="5bd8282253ed2c6334ea10fa-GB" start="20261115145228 +0000" stop="20261115155632 +0000">
+        <title>Crackling Fireplace</title>
+        <desc>Cozy up to the special edition fireplace, just in time for the Holidays. The soft crackling of burning wood will turn your home into a calming retreat.</desc>
+        <icon src="https://images.pluto.tv/series/6720daf552be200013a9feef/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+<programme channel="5bd8282253ed2c6334ea10fa-GB" start="20261115155632 +0000" stop="20261115170036 +0000">
+        <title>Festive Fireplace</title>
+        <desc>Cozy up to the special edition fireplace, just in time for the Holidays. The soft crackling of burning wood will turn your home into a calming retreat.</desc>
+        <icon src="https://images.pluto.tv/series/6720dc8252be200013aa0663/tile_1793301894012.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
 <programme channel="5c363c2411c5ca053f198f97-GB" start="20261115112947 +0000" stop="20261115132647 +0000">
         <title>Mortdecai</title>
@@ -3270,6 +3300,26 @@ trying to get his attention.</desc>
         <title>Push</title>
         <desc>Superhumans defy a government plot to harness and abuse their powers. Chris Evans and Dakota Fanning (the TWILIGHT films) team in a pulse-pounding paranormal thriller.</desc>
         <icon src="https://images.pluto.tv/series/6846beb0590c735140369d1c/tile_1749466802648.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+<programme channel="5bd8282253ed2c6334ea10fa-GB" start="20261115155632 +0000" stop="20261115170036 +0000">
+        <title>Festive Fireplace</title>
+        <desc>Cozy up to the special edition fireplace, just in time for the Holidays. The soft crackling of burning wood will turn your home into a calming retreat.</desc>
+        <icon src="https://images.pluto.tv/series/6720dc8252be200013aa0663/tile_1793301894012.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+<programme channel="5bd8282253ed2c6334ea10fa-GB" start="20261115170036 +0000" stop="20261115180440 +0000">
+        <title>Crackling Fireplace</title>
+        <desc>Cozy up to the special edition fireplace, just in time for the Holidays. The soft crackling of burning wood will turn your home into a calming retreat.</desc>
+        <icon src="https://images.pluto.tv/series/6720daf552be200013a9feef/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+<programme channel="5bd8282253ed2c6334ea10fa-GB" start="20261115180440 +0000" stop="20261115190844 +0000">
+        <title>Festive Fireplace</title>
+        <desc>Cozy up to the special edition fireplace, just in time for the Holidays. The soft crackling of burning wood will turn your home into a calming retreat.</desc>
+        <icon src="https://images.pluto.tv/series/6720dc8252be200013aa0663/tile_1793301894012.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+<programme channel="5bd8282253ed2c6334ea10fa-GB" start="20261115190844 +0000" stop="20261115201248 +0000">
+        <title>Crackling Fireplace</title>
+        <desc>Cozy up to the special edition fireplace, just in time for the Holidays. The soft crackling of burning wood will turn your home into a calming retreat.</desc>
+        <icon src="https://images.pluto.tv/series/6720daf552be200013a9feef/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
 <programme channel="5c363c2411c5ca053f198f97-GB" start="20261115150646 +0000" stop="20261115165508 +0000">
         <title>Meet Dave</title>
@@ -4593,6 +4643,31 @@ trying to get his attention.</desc>
         <desc>When a terrorist escapes custody during a routine handover, Will Holloway must team with disgraced MI5 Intelligence Chief Harry Pearce to track him down before an imminent terrorist attack on London.</desc>
         <icon src="https://images.pluto.tv/series/6a4f5ed90bd9448d81f44d30/tile_1783586521955.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+<programme channel="5bd8282253ed2c6334ea10fa-GB" start="20261115190844 +0000" stop="20261115201248 +0000">
+        <title>Crackling Fireplace</title>
+        <desc>Cozy up to the special edition fireplace, just in time for the Holidays. The soft crackling of burning wood will turn your home into a calming retreat.</desc>
+        <icon src="https://images.pluto.tv/series/6720daf552be200013a9feef/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+<programme channel="5bd8282253ed2c6334ea10fa-GB" start="20261115201248 +0000" stop="20261115211652 +0000">
+        <title>Festive Fireplace</title>
+        <desc>Cozy up to the special edition fireplace, just in time for the Holidays. The soft crackling of burning wood will turn your home into a calming retreat.</desc>
+        <icon src="https://images.pluto.tv/series/6720dc8252be200013aa0663/tile_1793301894012.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+<programme channel="5bd8282253ed2c6334ea10fa-GB" start="20261115211652 +0000" stop="20261115222056 +0000">
+        <title>Crackling Fireplace</title>
+        <desc>Cozy up to the special edition fireplace, just in time for the Holidays. The soft crackling of burning wood will turn your home into a calming retreat.</desc>
+        <icon src="https://images.pluto.tv/series/6720daf552be200013a9feef/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+<programme channel="5bd8282253ed2c6334ea10fa-GB" start="20261115222056 +0000" stop="20261115232500 +0000">
+        <title>Festive Fireplace</title>
+        <desc>Cozy up to the special edition fireplace, just in time for the Holidays. The soft crackling of burning wood will turn your home into a calming retreat.</desc>
+        <icon src="https://images.pluto.tv/series/6720dc8252be200013aa0663/tile_1793301894012.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+<programme channel="5bd8282253ed2c6334ea10fa-GB" start="20261115232500 +0000" stop="20261116002904 +0000">
+        <title>Crackling Fireplace</title>
+        <desc>Cozy up to the special edition fireplace, just in time for the Holidays. The soft crackling of burning wood will turn your home into a calming retreat.</desc>
+        <icon src="https://images.pluto.tv/series/6720daf552be200013a9feef/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
 <programme channel="5c363c2411c5ca053f198f97-GB" start="20261115185202 +0000" stop="20261115205902 +0000">
         <title>Bottle Shock</title>
         <desc>The story of the early days of California wine making featuring the now infamous, blind Paris wine tasting of 1976 that has come to be known as "Judgment of Paris". Feat: Chris Pine, Alan Rickman &amp; Bill Pullman.</desc>
@@ -5820,6 +5895,31 @@ more than he bargained for.</desc>
         <desc>The tables turn when a seasoned hostage negotiator takes hostages and risks all to prove his own innocence.</desc>
         <icon src="https://images.pluto.tv/series/60647d28a224c9001bb84fa1/tile_1779683041988.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+<programme channel="5bd8282253ed2c6334ea10fa-GB" start="20261115232500 +0000" stop="20261116002904 +0000">
+        <title>Crackling Fireplace</title>
+        <desc>Cozy up to the special edition fireplace, just in time for the Holidays. The soft crackling of burning wood will turn your home into a calming retreat.</desc>
+        <icon src="https://images.pluto.tv/series/6720daf552be200013a9feef/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+<programme channel="5bd8282253ed2c6334ea10fa-GB" start="20261116002904 +0000" stop="20261116013308 +0000">
+        <title>Festive Fireplace</title>
+        <desc>Cozy up to the special edition fireplace, just in time for the Holidays. The soft crackling of burning wood will turn your home into a calming retreat.</desc>
+        <icon src="https://images.pluto.tv/series/6720dc8252be200013aa0663/tile_1793301894012.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+<programme channel="5bd8282253ed2c6334ea10fa-GB" start="20261116013308 +0000" stop="20261116023712 +0000">
+        <title>Crackling Fireplace</title>
+        <desc>Cozy up to the special edition fireplace, just in time for the Holidays. The soft crackling of burning wood will turn your home into a calming retreat.</desc>
+        <icon src="https://images.pluto.tv/series/6720daf552be200013a9feef/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+<programme channel="5bd8282253ed2c6334ea10fa-GB" start="20261116023712 +0000" stop="20261116034116 +0000">
+        <title>Festive Fireplace</title>
+        <desc>Cozy up to the special edition fireplace, just in time for the Holidays. The soft crackling of burning wood will turn your home into a calming retreat.</desc>
+        <icon src="https://images.pluto.tv/series/6720dc8252be200013aa0663/tile_1793301894012.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+<programme channel="5bd8282253ed2c6334ea10fa-GB" start="20261116034116 +0000" stop="20261116044520 +0000">
+        <title>Crackling Fireplace</title>
+        <desc>Cozy up to the special edition fireplace, just in time for the Holidays. The soft crackling of burning wood will turn your home into a calming retreat.</desc>
+        <icon src="https://images.pluto.tv/series/6720daf552be200013a9feef/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
 <programme channel="5c363c2411c5ca053f198f97-GB" start="20261115232602 +0000" stop="20261116011136 +0000">
         <title>The Big Wedding</title>
         <desc>A modern family tries to survive a weekend wedding celebration that has the potential to become a full-blown fiasco in this uproarious romantic comedy with an all-star cast.</desc>
@@ -6944,6 +7044,16 @@ more than he bargained for.</desc>
         <title>Pluto TV Movies</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5ad8d3a31b95267e225e4e09/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    </programme>
+<programme channel="5bd8282253ed2c6334ea10fa-GB" start="20261116034116 +0000" stop="20261116044520 +0000">
+        <title>Crackling Fireplace</title>
+        <desc>Cozy up to the special edition fireplace, just in time for the Holidays. The soft crackling of burning wood will turn your home into a calming retreat.</desc>
+        <icon src="https://images.pluto.tv/series/6720daf552be200013a9feef/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+<programme channel="5bd8282253ed2c6334ea10fa-GB" start="20261116044520 +0000" stop="20261116080000 +0000">
+        <title>Fireplace</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/5bd8282253ed2c6334ea10fa/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
 <programme channel="5c363c2411c5ca053f198f97-GB" start="20261116025328 +0000" stop="20261116051928 +0000">
         <title>Find Me Guilty</title>
