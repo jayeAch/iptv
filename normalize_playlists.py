@@ -568,6 +568,7 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
         alien nation
         ancient aliens
         bigfoot
+        mysteries xplored
         destination truth
         fear zone
         ghost adventures
