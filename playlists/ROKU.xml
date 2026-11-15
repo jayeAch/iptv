@@ -130,11 +130,6 @@
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/62945e18ab825bfd8b4995d9bd14917b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673451317145_FilmRise-ForensicFiles_260x147_copy.png"/>
     <lcn>2675</lcn>
   </channel>
-<channel id="eec9d131b4095083a23c485d804c8b2d">
-    <display-name>American Ninja Warrior</display-name>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/eec9d131b4095083a23c485d804c8b2d/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1713548868549_ANW_260x147_2x1_logo_center_align_EFEFEF_transparent_bkgd_roku_PNG.png"/>
-    <lcn>4352</lcn>
-  </channel>
 <channel id="b3eb95a883bfcd7b458d9ec965cedb35">
     <display-name>Barça 24H</display-name>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b3eb95a883bfcd7b458d9ec965cedb35/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1793740749944_Barca24h_260x147_HUD.png"/>
@@ -1222,6 +1217,12 @@
     <title>CHGO Bulls Podcast</title>
     <desc>The No. 1 daily Chicago Bulls show. Exclusive interviews, expert analysis, instant reactions &amp; more.</desc>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/47f7406fb22f77aa7bf630acbef010f5/rokuFeed/assets/b9edb23b8bb35b4cb0e1aa7d118f974e.jpg"/>
+    <rating system="USA Parental Rating">TVG</rating>
+  </programme>
+<programme channel="b238edf1869657abb47970bc9b7bfce1" start="20261117084400 +0000" stop="20261117094800 +0000">
+    <title>CHGO Blackhawks Replay</title>
+    <desc>The No. 1 daily Chicago Blackhawks show. Exclusive interviews, expert analysis, instant reactions &amp; more.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8e9fdcf7adf8a0d4c6c9780aa424a24b/rokuFeed/assets/171149d775f4550390e0bb6fa199dda1.jpg"/>
     <rating system="USA Parental Rating">TVG</rating>
   </programme>
 <programme channel="9ec48964d9b9502396f19fcb3a527074" start="20261115084046 +0000" stop="20261115104249 +0000">
@@ -4923,14 +4924,6 @@
     <episode-num system="onscreen">S05E07</episode-num>
     <rating system="USA Parental Rating">TVMA</rating>
   </programme>
-<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261115081350 +0000" stop="20261115084414 +0000">
-    <title>Death Valley Days</title>
-    <sub-title>Death Valley Days</sub-title>
-    <desc>Mark Twain, a news reporter in 1864, tangles with rival newspaperman Ganse Taylor.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/07e66c5078c652059ff039a7bcf1a260/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2Fassets%2Fbanner%2F16_9%2FSeries%2F1709046893277_71ce0ef3060f55f6b4c7e4378ec97b25.jpg"/>
-    <episode-num system="onscreen">S06E06</episode-num>
-    <rating system="USA Parental Rating">TVPG</rating>
-  </programme>
 <programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261115084414 +0000" stop="20261115091431 +0000">
     <title>Death Valley Days</title>
     <sub-title>Death Valley Days</sub-title>
@@ -7363,6 +7356,14 @@
     <episode-num system="onscreen">S03E07</episode-num>
     <rating system="USA Parental Rating">TVMA</rating>
   </programme>
+<programme channel="ebb810a8868251f18ac64056834c749a" start="20261117084236 +0000" stop="20261117093555 +0000">
+    <title>Killers: Caught on Camera</title>
+    <sub-title>Killers: Caught on Camera</sub-title>
+    <desc>A missing 15-year-old is found by cadaver dogs; a dismembered body in a suitcase must be identified.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/812e59f0223150c18592f7cb05be88e1/images/gracenote/assets/p23976642_b_h10_af.jpg"/>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <rating system="USA Parental Rating">TV14</rating>
+  </programme>
 <programme channel="4ecf313b40975382b983c183bf7d86f0" start="20261115083156 +0000" stop="20261115092232 +0000">
     <title>Unsolved Mysteries</title>
     <sub-title>Unsolved Mysteries</sub-title>
@@ -8975,411 +8976,6 @@ Early one morning in a deserted area outside of Phoenix, a motorcyclist discover
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/76c556224ae757e6b2a81bcb1aade466/rokuFeed/assets/ed291e087bf95de49f530391bc435ce5.jpg"/>
     <episode-num system="onscreen">S03E02</episode-num>
     <rating system="USA Parental Rating">TVMA</rating>
-  </programme>
-<programme channel="eec9d131b4095083a23c485d804c8b2d" start="20261115070700 +0000" stop="20261115084300 +0000">
-    <title>American Ninja Warrior</title>
-    <sub-title>American Ninja Warrior</sub-title>
-    <desc>The semifinals begin in Las Vegas with a longer course featuring 10 iconic obstacles from the past.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/2ae97962e6f752cc9742caaa385a58ee.jpg"/>
-    <episode-num system="onscreen">S17E07</episode-num>
-    <rating system="USA Parental Rating">TVPG</rating>
-  </programme>
-<programme channel="eec9d131b4095083a23c485d804c8b2d" start="20261115084300 +0000" stop="20261115101800 +0000">
-    <title>American Ninja Warrior</title>
-    <sub-title>American Ninja Warrior</sub-title>
-    <desc>The semifinals continue in Las Vegas with a course featuring 10 iconic obstacles from the past.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/2ae97962e6f752cc9742caaa385a58ee.jpg"/>
-    <episode-num system="onscreen">S17E08</episode-num>
-    <rating system="USA Parental Rating">TVPG</rating>
-  </programme>
-<programme channel="eec9d131b4095083a23c485d804c8b2d" start="20261115101800 +0000" stop="20261115115300 +0000">
-    <title>American Ninja Warrior</title>
-    <sub-title>American Ninja Warrior</sub-title>
-    <desc>The semifinals conclude in Las Vegas as ninjas take on a course featuring 10 iconic past obstacles.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/2ae97962e6f752cc9742caaa385a58ee.jpg"/>
-    <episode-num system="onscreen">S17E09</episode-num>
-    <rating system="USA Parental Rating">TVPG</rating>
-  </programme>
-<programme channel="eec9d131b4095083a23c485d804c8b2d" start="20261115115300 +0000" stop="20261115132900 +0000">
-    <title>American Ninja Warrior</title>
-    <sub-title>American Ninja Warrior</sub-title>
-    <desc>The finals begin in Las Vegas as the remaining ninjas go head-to-head in side-by-side races.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/2ae97962e6f752cc9742caaa385a58ee.jpg"/>
-    <episode-num system="onscreen">S17E10</episode-num>
-    <rating system="USA Parental Rating">TVPG</rating>
-  </programme>
-<programme channel="eec9d131b4095083a23c485d804c8b2d" start="20261115132900 +0000" stop="20261115150400 +0000">
-    <title>American Ninja Warrior</title>
-    <sub-title>American Ninja Warrior</sub-title>
-    <desc>The finals continue in Las Vegas as the remaining ninjas go head-to-head in side-by-side races.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/2ae97962e6f752cc9742caaa385a58ee.jpg"/>
-    <episode-num system="onscreen">S17E11</episode-num>
-    <rating system="USA Parental Rating">TVPG</rating>
-  </programme>
-<programme channel="eec9d131b4095083a23c485d804c8b2d" start="20261115150400 +0000" stop="20261115163900 +0000">
-    <title>American Ninja Warrior</title>
-    <sub-title>American Ninja Warrior</sub-title>
-    <desc>The finals continue in Las Vegas with side-by-side races and a new bracket-style tournament.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/2ae97962e6f752cc9742caaa385a58ee.jpg"/>
-    <episode-num system="onscreen">S17E12</episode-num>
-    <rating system="USA Parental Rating">TVPG</rating>
-  </programme>
-<programme channel="eec9d131b4095083a23c485d804c8b2d" start="20261115163900 +0000" stop="20261115181400 +0000">
-    <title>American Ninja Warrior</title>
-    <sub-title>American Ninja Warrior</sub-title>
-    <desc>The finals conclude in Las Vegas; a new bracket-style tournament crowns the next champion.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/2ae97962e6f752cc9742caaa385a58ee.jpg"/>
-    <episode-num system="onscreen">S17E13</episode-num>
-    <rating system="USA Parental Rating">TVPG</rating>
-  </programme>
-<programme channel="eec9d131b4095083a23c485d804c8b2d" start="20261115181400 +0000" stop="20261115195000 +0000">
-    <title>American Ninja Warrior</title>
-    <sub-title>American Ninja Warrior</sub-title>
-    <desc>Sixteen elite female ninjas compete with head-to-head races deciding this year's women's champion.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/2ae97962e6f752cc9742caaa385a58ee.jpg"/>
-    <episode-num system="onscreen">S17E14</episode-num>
-    <rating system="USA Parental Rating">TVPG</rating>
-  </programme>
-<programme channel="eec9d131b4095083a23c485d804c8b2d" start="20261115195000 +0000" stop="20261115203800 +0000">
-    <title>American Ninja Warrior</title>
-    <sub-title>American Ninja Warrior</sub-title>
-    <desc>People from the Southwest compete for a chance at the world's most difficult obstacle course.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/2ae97962e6f752cc9742caaa385a58ee.jpg"/>
-    <episode-num system="onscreen">S04E02</episode-num>
-    <rating system="USA Parental Rating">TVPG</rating>
-  </programme>
-<programme channel="eec9d131b4095083a23c485d804c8b2d" start="20261115203800 +0000" stop="20261115212600 +0000">
-    <title>American Ninja Warrior</title>
-    <sub-title>American Ninja Warrior</sub-title>
-    <desc>People from the Southwest compete for a chance at the world's most difficult obstacle course.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/2ae97962e6f752cc9742caaa385a58ee.jpg"/>
-    <episode-num system="onscreen">S04E02</episode-num>
-    <rating system="USA Parental Rating">TVPG</rating>
-  </programme>
-<programme channel="eec9d131b4095083a23c485d804c8b2d" start="20261115212600 +0000" stop="20261115230400 +0000">
-    <title>American Ninja Warrior</title>
-    <sub-title>American Ninja Warrior</sub-title>
-    <desc>The top 30 finishers from the Southwest qualifying round take on an even more challenging course.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/2ae97962e6f752cc9742caaa385a58ee.jpg"/>
-    <episode-num system="onscreen">S04E03</episode-num>
-    <rating system="USA Parental Rating">TVPG</rating>
-  </programme>
-<programme channel="eec9d131b4095083a23c485d804c8b2d" start="20261115230400 +0000" stop="20261115235200 +0000">
-    <title>American Ninja Warrior</title>
-    <sub-title>American Ninja Warrior</sub-title>
-    <desc>Midwest competitors try to qualify for the national contest.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/2ae97962e6f752cc9742caaa385a58ee.jpg"/>
-    <episode-num system="onscreen">S04E04</episode-num>
-    <rating system="USA Parental Rating">TVPG</rating>
-  </programme>
-<programme channel="eec9d131b4095083a23c485d804c8b2d" start="20261115235200 +0000" stop="20261116004000 +0000">
-    <title>American Ninja Warrior</title>
-    <sub-title>American Ninja Warrior</sub-title>
-    <desc>Midwest competitors try to qualify for the national contest.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/2ae97962e6f752cc9742caaa385a58ee.jpg"/>
-    <episode-num system="onscreen">S04E05</episode-num>
-    <rating system="USA Parental Rating">TVPG</rating>
-  </programme>
-<programme channel="eec9d131b4095083a23c485d804c8b2d" start="20261116004000 +0000" stop="20261116013000 +0000">
-    <title>American Ninja Warrior</title>
-    <sub-title>American Ninja Warrior</sub-title>
-    <desc>The top 30 qualifiers compete for a chance to move on to the national finals.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/2ae97962e6f752cc9742caaa385a58ee.jpg"/>
-    <episode-num system="onscreen">S04E06</episode-num>
-    <rating system="USA Parental Rating">TVPG</rating>
-  </programme>
-<programme channel="eec9d131b4095083a23c485d804c8b2d" start="20261116013000 +0000" stop="20261116021800 +0000">
-    <title>American Ninja Warrior</title>
-    <sub-title>American Ninja Warrior</sub-title>
-    <desc>Athletes from the Northeast compete.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/2ae97962e6f752cc9742caaa385a58ee.jpg"/>
-    <episode-num system="onscreen">S04E07</episode-num>
-    <rating system="USA Parental Rating">TVPG</rating>
-  </programme>
-<programme channel="eec9d131b4095083a23c485d804c8b2d" start="20261116021800 +0000" stop="20261116030600 +0000">
-    <title>American Ninja Warrior</title>
-    <desc>Athletes from the Northeast compete.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/2ae97962e6f752cc9742caaa385a58ee.jpg"/>
-    <episode-num system="onscreen">S04E08</episode-num>
-    <rating system="USA Parental Rating">TVPG</rating>
-  </programme>
-<programme channel="eec9d131b4095083a23c485d804c8b2d" start="20261116030600 +0000" stop="20261116035500 +0000">
-    <title>American Ninja Warrior</title>
-    <sub-title>American Ninja Warrior</sub-title>
-    <desc>The top 30 Northeast finishers take on a more challenging course.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/2ae97962e6f752cc9742caaa385a58ee.jpg"/>
-    <episode-num system="onscreen">S04E09</episode-num>
-    <rating system="USA Parental Rating">TVPG</rating>
-  </programme>
-<programme channel="eec9d131b4095083a23c485d804c8b2d" start="20261116035500 +0000" stop="20261116044300 +0000">
-    <title>American Ninja Warrior</title>
-    <sub-title>American Ninja Warrior</sub-title>
-    <desc>Contestants from the Northwest compete.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/2ae97962e6f752cc9742caaa385a58ee.jpg"/>
-    <episode-num system="onscreen">S04E10</episode-num>
-    <rating system="USA Parental Rating">TVPG</rating>
-  </programme>
-<programme channel="eec9d131b4095083a23c485d804c8b2d" start="20261116044300 +0000" stop="20261116053100 +0000">
-    <title>American Ninja Warrior</title>
-    <sub-title>American Ninja Warrior</sub-title>
-    <desc>Contestants from the Northwest compete.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/2ae97962e6f752cc9742caaa385a58ee.jpg"/>
-    <episode-num system="onscreen">S04E11</episode-num>
-    <rating system="USA Parental Rating">TVPG</rating>
-  </programme>
-<programme channel="eec9d131b4095083a23c485d804c8b2d" start="20261116053100 +0000" stop="20261116062100 +0000">
-    <title>American Ninja Warrior</title>
-    <sub-title>American Ninja Warrior</sub-title>
-    <desc>The top 30 finishers from the Northwest region preliminary round take on a more challenging course.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/2ae97962e6f752cc9742caaa385a58ee.jpg"/>
-    <episode-num system="onscreen">S04E12</episode-num>
-    <rating system="USA Parental Rating">TVPG</rating>
-  </programme>
-<programme channel="eec9d131b4095083a23c485d804c8b2d" start="20261116053100 +0000" stop="20261116062100 +0000">
-    <title>American Ninja Warrior</title>
-    <sub-title>American Ninja Warrior</sub-title>
-    <desc>The top 30 finishers from the Northwest region preliminary round take on a more challenging course.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/2ae97962e6f752cc9742caaa385a58ee.jpg"/>
-    <episode-num system="onscreen">S04E12</episode-num>
-    <rating system="USA Parental Rating">TVPG</rating>
-  </programme>
-<programme channel="eec9d131b4095083a23c485d804c8b2d" start="20261116062100 +0000" stop="20261116070900 +0000">
-    <title>American Ninja Warrior</title>
-    <sub-title>American Ninja Warrior</sub-title>
-    <desc>Competitors from the Mid-South region.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/2ae97962e6f752cc9742caaa385a58ee.jpg"/>
-    <episode-num system="onscreen">S04E13</episode-num>
-    <rating system="USA Parental Rating">TVPG</rating>
-  </programme>
-<programme channel="eec9d131b4095083a23c485d804c8b2d" start="20261116070900 +0000" stop="20261116075700 +0000">
-    <title>American Ninja Warrior</title>
-    <sub-title>American Ninja Warrior</sub-title>
-    <desc>Competitors from the Midsouth region.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/2ae97962e6f752cc9742caaa385a58ee.jpg"/>
-    <episode-num system="onscreen">S04E14</episode-num>
-    <rating system="USA Parental Rating">TVPG</rating>
-  </programme>
-<programme channel="eec9d131b4095083a23c485d804c8b2d" start="20261116075700 +0000" stop="20261116093500 +0000">
-    <title>American Ninja Warrior</title>
-    <sub-title>American Ninja Warrior</sub-title>
-    <desc>The top 30 finishers from the Midsouth region compete on a more challenging course.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/2ae97962e6f752cc9742caaa385a58ee.jpg"/>
-    <episode-num system="onscreen">S04E15</episode-num>
-    <rating system="USA Parental Rating">TVPG</rating>
-  </programme>
-<programme channel="eec9d131b4095083a23c485d804c8b2d" start="20261116093500 +0000" stop="20261116102300 +0000">
-    <title>American Ninja Warrior</title>
-    <desc>Participants compete for a chance to take on the World's Most Difficult Obstacle Course.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/2ae97962e6f752cc9742caaa385a58ee.jpg"/>
-    <episode-num system="onscreen">S04E16</episode-num>
-    <rating system="USA Parental Rating">TVPG</rating>
-  </programme>
-<programme channel="eec9d131b4095083a23c485d804c8b2d" start="20261116102300 +0000" stop="20261116111100 +0000">
-    <title>American Ninja Warrior</title>
-    <desc>People compete for the chance to take on the World's Most Difficult Obstacle Course.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/2ae97962e6f752cc9742caaa385a58ee.jpg"/>
-    <episode-num system="onscreen">S04E17</episode-num>
-    <rating system="USA Parental Rating">TVPG</rating>
-  </programme>
-<programme channel="eec9d131b4095083a23c485d804c8b2d" start="20261116111100 +0000" stop="20261116120000 +0000">
-    <title>American Ninja Warrior</title>
-    <sub-title>American Ninja Warrior</sub-title>
-    <desc>The top 30 Southeast finishers compete on a more challenging course.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/2ae97962e6f752cc9742caaa385a58ee.jpg"/>
-    <episode-num system="onscreen">S04E18</episode-num>
-    <rating system="USA Parental Rating">TVPG</rating>
-  </programme>
-<programme channel="eec9d131b4095083a23c485d804c8b2d" start="20261116120000 +0000" stop="20261116125000 +0000">
-    <title>American Ninja Warrior</title>
-    <sub-title>American Ninja Warrior</sub-title>
-    <desc>One hundred competitors attempt the most-difficult obstacle course.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/2ae97962e6f752cc9742caaa385a58ee.jpg"/>
-    <episode-num system="onscreen">S04E19</episode-num>
-    <rating system="USA Parental Rating">TVPG</rating>
-  </programme>
-<programme channel="eec9d131b4095083a23c485d804c8b2d" start="20261116125000 +0000" stop="20261116134000 +0000">
-    <title>American Ninja Warrior</title>
-    <sub-title>American Ninja Warrior</sub-title>
-    <desc>Stage 1 of the most-difficult course continues.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/2ae97962e6f752cc9742caaa385a58ee.jpg"/>
-    <episode-num system="onscreen">S04E20</episode-num>
-    <rating system="USA Parental Rating">TVPG</rating>
-  </programme>
-<programme channel="eec9d131b4095083a23c485d804c8b2d" start="20261116134000 +0000" stop="20261116143000 +0000">
-    <title>American Ninja Warrior</title>
-    <sub-title>American Ninja Warrior</sub-title>
-    <desc>Stage 1 of the most difficult obstacle course continues.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/2ae97962e6f752cc9742caaa385a58ee.jpg"/>
-    <episode-num system="onscreen">S04E21</episode-num>
-    <rating system="USA Parental Rating">TVPG</rating>
-  </programme>
-<programme channel="eec9d131b4095083a23c485d804c8b2d" start="20261116143000 +0000" stop="20261116152000 +0000">
-    <title>American Ninja Warrior</title>
-    <sub-title>American Ninja Warrior</sub-title>
-    <desc>Stage 1 of the 8-obstacle course will challenge even the most skilled competitors.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/2ae97962e6f752cc9742caaa385a58ee.jpg"/>
-    <episode-num system="onscreen">S04E22</episode-num>
-    <rating system="USA Parental Rating">TVPG</rating>
-  </programme>
-<programme channel="eec9d131b4095083a23c485d804c8b2d" start="20261116152000 +0000" stop="20261116161000 +0000">
-    <title>American Ninja Warrior</title>
-    <sub-title>American Ninja Warrior</sub-title>
-    <desc>The competitors tackle eight obstacles that include Jumping Spider.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/2ae97962e6f752cc9742caaa385a58ee.jpg"/>
-    <episode-num system="onscreen">S04E23</episode-num>
-    <rating system="USA Parental Rating">TVPG</rating>
-  </programme>
-<programme channel="eec9d131b4095083a23c485d804c8b2d" start="20261116161000 +0000" stop="20261116174700 +0000">
-    <title>American Ninja Warrior</title>
-    <sub-title>American Ninja Warrior</sub-title>
-    <desc>Ultimate challenges including the Spider Flip and the Double Salmon Ladder.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/2ae97962e6f752cc9742caaa385a58ee.jpg"/>
-    <episode-num system="onscreen">S04E24</episode-num>
-    <rating system="USA Parental Rating">TVPG</rating>
-  </programme>
-<programme channel="eec9d131b4095083a23c485d804c8b2d" start="20261116174700 +0000" stop="20261116183500 +0000">
-    <title>American Ninja Warrior</title>
-    <sub-title>American Ninja Warrior</sub-title>
-    <desc>The that obstacle has dashed the hopes of competitors with its emphasis on strength and control.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/2ae97962e6f752cc9742caaa385a58ee.jpg"/>
-    <episode-num system="onscreen">S05E01</episode-num>
-    <rating system="USA Parental Rating">TVPG</rating>
-  </programme>
-<programme channel="eec9d131b4095083a23c485d804c8b2d" start="20261116183500 +0000" stop="20261116201200 +0000">
-    <title>American Ninja Warrior</title>
-    <sub-title>American Ninja Warrior</sub-title>
-    <desc>More West Coast competitors take on the course in Venice Beach.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/2ae97962e6f752cc9742caaa385a58ee.jpg"/>
-    <episode-num system="onscreen">S05E02</episode-num>
-    <rating system="USA Parental Rating">TVPG</rating>
-  </programme>
-<programme channel="eec9d131b4095083a23c485d804c8b2d" start="20261116201200 +0000" stop="20261116210000 +0000">
-    <title>American Ninja Warrior</title>
-    <sub-title>American Ninja Warrior</sub-title>
-    <desc>Competitors in Baltimore tackle obstacles that include the Downhill Jump, Prism Tilt and Swing Jump.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/2ae97962e6f752cc9742caaa385a58ee.jpg"/>
-    <episode-num system="onscreen">S05E03</episode-num>
-    <rating system="USA Parental Rating">TVPG</rating>
-  </programme>
-<programme channel="eec9d131b4095083a23c485d804c8b2d" start="20261116210000 +0000" stop="20261116214800 +0000">
-    <title>American Ninja Warrior</title>
-    <sub-title>American Ninja Warrior</sub-title>
-    <desc>Competitors in Baltimore tackle obstacles that include the Downhill Jump, Prism Tilt and Swing Jump.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/2ae97962e6f752cc9742caaa385a58ee.jpg"/>
-    <episode-num system="onscreen">S05E04</episode-num>
-    <rating system="USA Parental Rating">TVPG</rating>
-  </programme>
-<programme channel="eec9d131b4095083a23c485d804c8b2d" start="20261116214800 +0000" stop="20261116223600 +0000">
-    <title>American Ninja Warrior</title>
-    <sub-title>American Ninja Warrior</sub-title>
-    <desc>Competitors in Miami face the Utility Pole Slider, Balance Bridge, Slider Jump, and Monkey Peg.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/2ae97962e6f752cc9742caaa385a58ee.jpg"/>
-    <episode-num system="onscreen">S05E05</episode-num>
-    <rating system="USA Parental Rating">TVPG</rating>
-  </programme>
-<programme channel="eec9d131b4095083a23c485d804c8b2d" start="20261116223600 +0000" stop="20261116232500 +0000">
-    <title>American Ninja Warrior</title>
-    <sub-title>American Ninja Warrior</sub-title>
-    <desc>Competitors in Miami face the Utility Pole Slider, Balance Bridge, Slider Jump, and Monkey Peg.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/2ae97962e6f752cc9742caaa385a58ee.jpg"/>
-    <episode-num system="onscreen">S05E06</episode-num>
-    <rating system="USA Parental Rating">TVPG</rating>
-  </programme>
-<programme channel="eec9d131b4095083a23c485d804c8b2d" start="20261116232500 +0000" stop="20261117001300 +0000">
-    <title>American Ninja Warrior</title>
-    <sub-title>American Ninja Warrior</sub-title>
-    <desc>Competitors face new obstacles in the highest elevation to date.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/2ae97962e6f752cc9742caaa385a58ee.jpg"/>
-    <episode-num system="onscreen">S05E07</episode-num>
-    <rating system="USA Parental Rating">TVPG</rating>
-  </programme>
-<programme channel="eec9d131b4095083a23c485d804c8b2d" start="20261117001300 +0000" stop="20261117010100 +0000">
-    <title>American Ninja Warrior</title>
-    <sub-title>American Ninja Warrior</sub-title>
-    <desc>Competitors face new obstacles in the highest elevation to date.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/2ae97962e6f752cc9742caaa385a58ee.jpg"/>
-    <episode-num system="onscreen">S05E08</episode-num>
-    <rating system="USA Parental Rating">TVPG</rating>
-  </programme>
-<programme channel="eec9d131b4095083a23c485d804c8b2d" start="20261117010100 +0000" stop="20261117014900 +0000">
-    <title>American Ninja Warrior</title>
-    <sub-title>American Ninja Warrior</sub-title>
-    <desc>The return of The Salmon Ladder, with new obstacles Rope Maze, the Cliffhanger, and Spider Climb.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/2ae97962e6f752cc9742caaa385a58ee.jpg"/>
-    <episode-num system="onscreen">S05E09</episode-num>
-    <rating system="USA Parental Rating">TVPG</rating>
-  </programme>
-<programme channel="eec9d131b4095083a23c485d804c8b2d" start="20261117014900 +0000" stop="20261117023800 +0000">
-    <title>American Ninja Warrior</title>
-    <sub-title>American Ninja Warrior</sub-title>
-    <desc>In the second half of the Venice Finals, only the top finalist will continue to move on to Vegas.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/2ae97962e6f752cc9742caaa385a58ee.jpg"/>
-    <episode-num system="onscreen">S05E10</episode-num>
-    <rating system="USA Parental Rating">TVPG</rating>
-  </programme>
-<programme channel="eec9d131b4095083a23c485d804c8b2d" start="20261117023800 +0000" stop="20261117032600 +0000">
-    <title>American Ninja Warrior</title>
-    <sub-title>American Ninja Warrior</sub-title>
-    <desc>Competitors return to Baltimore to face obstacles that include Rumbling Dice and Body Prop.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/2ae97962e6f752cc9742caaa385a58ee.jpg"/>
-    <episode-num system="onscreen">S05E11</episode-num>
-    <rating system="USA Parental Rating">TVPG</rating>
-  </programme>
-<programme channel="eec9d131b4095083a23c485d804c8b2d" start="20261117032600 +0000" stop="20261117041400 +0000">
-    <title>American Ninja Warrior</title>
-    <sub-title>American Ninja Warrior</sub-title>
-    <desc>The competition continues in Baltimore with obstacles that include Rumbling Dice and Body Prop.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/2ae97962e6f752cc9742caaa385a58ee.jpg"/>
-    <episode-num system="onscreen">S05E12</episode-num>
-    <rating system="USA Parental Rating">TVPG</rating>
-  </programme>
-<programme channel="eec9d131b4095083a23c485d804c8b2d" start="20261117041400 +0000" stop="20261117050200 +0000">
-    <title>American Ninja Warrior</title>
-    <sub-title>American Ninja Warrior</sub-title>
-    <desc>A return to Miami for the finals course includes new obstacles The Ledge Jump and Rolling Steel.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/2ae97962e6f752cc9742caaa385a58ee.jpg"/>
-    <episode-num system="onscreen">S05E13</episode-num>
-    <rating system="USA Parental Rating">TVPG</rating>
-  </programme>
-<programme channel="eec9d131b4095083a23c485d804c8b2d" start="20261117050200 +0000" stop="20261117055000 +0000">
-    <title>American Ninja Warrior</title>
-    <sub-title>American Ninja Warrior</sub-title>
-    <desc>The top 30 competitors take on new obstacles like The Ledge Jump and Rolling Steel.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/2ae97962e6f752cc9742caaa385a58ee.jpg"/>
-    <episode-num system="onscreen">S05E14</episode-num>
-    <rating system="USA Parental Rating">TVPG</rating>
-  </programme>
-<programme channel="eec9d131b4095083a23c485d804c8b2d" start="20261117055000 +0000" stop="20261117063800 +0000">
-    <title>American Ninja Warrior</title>
-    <sub-title>American Ninja Warrior</sub-title>
-    <desc>The top 30 competitors take on new obstacles The Floating Stairs and The Pole Grasper.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/2ae97962e6f752cc9742caaa385a58ee.jpg"/>
-    <episode-num system="onscreen">S05E15</episode-num>
-    <rating system="USA Parental Rating">TVPG</rating>
-  </programme>
-<programme channel="eec9d131b4095083a23c485d804c8b2d" start="20261117055000 +0000" stop="20261117063800 +0000">
-    <title>American Ninja Warrior</title>
-    <sub-title>American Ninja Warrior</sub-title>
-    <desc>The top 30 competitors take on new obstacles The Floating Stairs and The Pole Grasper.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/2ae97962e6f752cc9742caaa385a58ee.jpg"/>
-    <episode-num system="onscreen">S05E15</episode-num>
-    <rating system="USA Parental Rating">TVPG</rating>
-  </programme>
-<programme channel="eec9d131b4095083a23c485d804c8b2d" start="20261117063800 +0000" stop="20261117072700 +0000">
-    <title>American Ninja Warrior</title>
-    <sub-title>American Ninja Warrior</sub-title>
-    <desc>The top 30 competitors in Denver continue to tackle The Grip Hang.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/2ae97962e6f752cc9742caaa385a58ee.jpg"/>
-    <episode-num system="onscreen">S05E16</episode-num>
-    <rating system="USA Parental Rating">TVPG</rating>
-  </programme>
-<programme channel="eec9d131b4095083a23c485d804c8b2d" start="20261117072700 +0000" stop="20261117090300 +0000">
-    <title>American Ninja Warrior</title>
-    <sub-title>American Ninja Warrior</sub-title>
-    <desc>Finals from Las Vegas.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/2ae97962e6f752cc9742caaa385a58ee.jpg"/>
-    <episode-num system="onscreen">S2013E239</episode-num>
-    <rating system="USA Parental Rating">TVPG</rating>
   </programme>
 <programme channel="b3eb95a883bfcd7b458d9ec965cedb35" start="20261115082300 +0000" stop="20261115085400 +0000">
     <title>UEFA Champions League</title>
