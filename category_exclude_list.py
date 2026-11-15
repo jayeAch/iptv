@@ -6,6 +6,7 @@ CATEGORY_EXCLUDE_LIST = [
     "Science",
     "Music",
     "LGB",
+    "Romance",
     "Christmas",
     "Westerns",
     "Asian",
