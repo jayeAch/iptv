@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 channel-id="USBC39000171G" tvg-id="USBC39000171G" tvg-name="ABC News Live" group-title="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC39000171G_20261104T180551SQUARE.png" tvg-chno="1112" tvg-description="24/7 breaking news, latest headlines, context and analysis from ABC News",ABC News Live
+https://jmp2.uk/stvp-USBC39000171G
 #EXTINF:-1 channel-id="US1400004HN" tvg-id="US1400004HN" tvg-name="WCNC" group-title="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400004HN_20260421T144031SQUARE.png" tvg-chno="1124" tvg-description="Charlotte news, weather, traffic and sports from WCNC-TV in Charlotte, North Carolina. Stay up-to-date with the latest news, weather, sports and more in the Charlotte area with the NBC station in Charlotte.",WCNC
 https://jmp2.uk/stvp-US1400004HN
 #EXTINF:-1 channel-id="USBC3200001S5" tvg-id="USBC3200001S5" tvg-name="WN Charlotte" group-title="News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200001S5_20260421T144319SQUARE.png" tvg-chno="1135" tvg-description="Get live weather updates ever hour along with the top weather news, regional forecasts, severe coverage, and your local Charlotte weather on the 7's.",WN Charlotte
@@ -37,6 +39,14 @@ https://jmp2.uk/stvp-USAK3508703A
 https://jmp2.uk/stvp-US2001109K
 #EXTINF:-1 channel-id="USBC1000002NP" tvg-id="USBC1000002NP" tvg-name="World’s Most Evil Killers" group-title="True Crime" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1000002NP_20260421T133710SQUARE.png" tvg-chno="1829" tvg-description="A whole channel dedicated to the lives and crimes of some of the World's Most Evil Killers like Jeffrey Dahmer, Richard Ramirez, Dorothea Puente and more.",World’s Most Evil Killers
 https://jmp2.uk/stvp-USBC1000002NP
+#EXTINF:-1 channel-id="US4100035CD" tvg-id="US4100035CD" tvg-name="Locked Up Abroad" group-title="True Crime" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100035CD_20260421T133643SQUARE.png" tvg-chno="1838" tvg-description="Stream full episodes of National Geographic’s Locked Up Abroad, as travelers share true stories of being locked up a long way from home.",Locked Up Abroad [DRM]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?drm-type=widevine||R{SSM}|
+https://jmp2.uk/stvp-US4100035CD
+#EXTINF:-1 channel-id="USBB3200017MY" tvg-id="USBB3200017MY" tvg-name="Forensic Files" group-title="True Crime" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200017MY_20260922T055601SQUARE.png" tvg-chno="1859" tvg-description="Evidence and interviews with experts help solve real crimes, disease outbreaks and accidents around the world.",Forensic Files
+https://jmp2.uk/stvp-USBB3200017MY
 #EXTINF:-1 channel-id="USBB4400016F9" tvg-id="USBB4400016F9" tvg-name="All-Out Reality" group-title="Reality TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400016F9_20260901T055730SQUARE.png" tvg-chno="1904" tvg-description="Feed your guilty pleasures and binge a variety of reality shows on All-Out Reality.",All-Out Reality
 https://jmp2.uk/stvp-USBB4400016F9
 #EXTINF:-1 channel-id="USBA3000042O6" tvg-id="USBA3000042O6" tvg-name="Kitchen Nightmares" group-title="Reality TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000042O6_20260804T045733SQUARE.png" tvg-chno="1905" tvg-description="Chef Gordon Ramsay takes on America’s worst restaurants to help them turn their luck around. Kitchen Nightmares. All day. 24/7. This is one nightmare you won’t want to wake up from!",Kitchen Nightmares
@@ -187,8 +197,6 @@ https://jmp2.uk/stvp-USBD50000048H
 https://jmp2.uk/stvp-US1000015RF
 #EXTINF:-1 channel-id="US2000024KD" tvg-id="US2000024KD" tvg-name="Johnny Test" group-title="Kids" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2000024KD_20260804T045841SQUARE.png" tvg-chno="3646" tvg-description="Take one part spiky hair, two parts genius sisters, a dash of talking dog, mix thoroughly and the result is an action-packed animated series about a boy willing to try anything in the name of science.",Johnny Test
 https://jmp2.uk/stvp-US2000024KD
-#EXTINF:-1 channel-id="US1000003G8" tvg-id="US1000003G8" tvg-name="Yu-Gi-Oh" group-title="Kids" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1000003G8_20260414T005637SQUARE.png" tvg-chno="3650" tvg-description="It’s time to Duel! Yu-Gi-Oh! is an action-packed adventure series that holds all the cards. Watch all of your favorite Yu-Gi-Oh! series on the Yu-Gi-Oh! Channel. Choose your Duel!",Yu-Gi-Oh
-https://jmp2.uk/stvp-US1000003G8
 #EXTINF:-1 channel-id="US2200007QG" tvg-id="US2200007QG" tvg-name="Ninja Kidz" group-title="Kids" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2200007QG_20260421T141947SQUARE.png" tvg-chno="3653" tvg-description="America’s favorite social media family takes on thrilling outdoor adventures, challenges, and fun.",Ninja Kidz
 https://jmp2.uk/stvp-US2200007QG
 #EXTINF:-1 channel-id="USBD3300016AK" tvg-id="USBD3300016AK" tvg-name="Rev and Roll" group-title="Kids" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300016AK_20260915T035106SQUARE.png" tvg-chno="3674" tvg-description="Join 8-year-old Rev and his best friend, Rumble-a rambunctious, powerful truck with a puppy personality! Whether they're helping around town or roaring through the wilderness, Rev, Rumble and their friends are always ready to rev and roll!",Rev and Roll
