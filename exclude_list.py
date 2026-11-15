@@ -32,5 +32,6 @@ GLOBAL_EXCLUDE_LIST = [
   "Taxi",
   "The Millers",
   "Always Funny",
+  "South Park",
 ]
 
