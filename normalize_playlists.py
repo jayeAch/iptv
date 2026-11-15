@@ -579,6 +579,7 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
         bet
         tv one
         allblk
+        beyond the gates
         allblk gems
         black enterprise streaming television
         black family sitcoms
@@ -888,6 +889,7 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
     ('Supernatural Drama', _words("""
         supernatural
         supernatural drama
+        from dusk till dawn: the series
         charmed
         ghost whisperer
         touched by an angel
