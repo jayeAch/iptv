@@ -3,8 +3,6 @@
 # each channel's category -- unlike exclude_list.py's channel-name substring
 # matching.
 CATEGORY_EXCLUDE_LIST = [
-    "Music",
-    "Music & Ambient",
     "Science",
     "Western",
     "Outdoors",
@@ -15,7 +13,6 @@ CATEGORY_EXCLUDE_LIST = [
     "Home &amp;  DIY",
     "Food & Travel",
     "Nature",
-    "Ambiance",
     "Live Events",
     "Dansk reality & underholdning",
     "Svensk reality och underhållning",
@@ -44,7 +41,6 @@ CATEGORY_EXCLUDE_LIST = [
     "Realityserier",
     "LocalNow🇺🇸: Nature and Outdoors",
     "LocalNow🇺🇸: Family and Faith",
-    "LocalNow🇺🇸: Music and Arts",
     "Sports",
     "News",
     "Combat Sports",
@@ -71,7 +67,6 @@ CATEGORY_EXCLUDE_LIST = [
     "Kids",
     "Family & Kids",
     "News & Opinion",
-    "Talk Show & Music",
     "Reality",
     "Biography",
     "Cars & Racing",
