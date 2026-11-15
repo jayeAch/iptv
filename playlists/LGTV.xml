@@ -8,10 +8,6 @@
     <display-name>The Asylum</display-name>
     <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Asylum_Movie_Channel_Logo_LG_400x200.png"/>
   </channel>
-<channel id="us-cinedigm_entertainment_corp_screamboxtv_1">
-    <display-name>Screambox TV</display-name>
-    <icon src="http://img.platform.wurl.dev/channel/1845/lg/88167e/LG-Logo-PNG-100x100_v1.png"/>
-  </channel>
 <channel id="tribeca_tribe_US">
     <display-name>Tribeca</display-name>
     <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/tribeca/Tribeca_Logo_800w200h.png"/>
@@ -28,9 +24,21 @@
     <display-name>World's Most Evil Killers</display-name>
     <icon src="https://image.xumo.com/v1/channels/channel/99993006/400x200.png?type=white_cropped"/>
   </channel>
+<channel id="Stingray190ADS">
+    <display-name>Stingray Today's Latin Pop</display-name>
+    <icon src="https://epg.sam.stingray.com/IMAGE/190ADS/lg-direct/Channel_Logo_296x200.png"/>
+  </channel>
 <channel id="thecountrynetworkus_cinetcnus_US">
     <display-name>The Country Network</display-name>
     <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/cinedigm_images/tcn/tcn_logo_330x200.png"/>
+  </channel>
+<channel id="Stingray232ADS">
+    <display-name>Stingray 2000s</display-name>
+    <icon src="https://epg.sam.stingray.com/IMAGE/232ADS/lg-direct/Channel_Logo_296x200.png"/>
+  </channel>
+<channel id="Stingray317ADS">
+    <display-name>Stingray Today's K-Pop</display-name>
+    <icon src="https://epg.sam.stingray.com/IMAGE/317ADS/lg-direct/Channel_Logo_296x200.png"/>
   </channel>
 <channel id="yulelogtvbychristmasplus_amg02042c33eng_US">
     <display-name>Yule Log TV</display-name>
@@ -84,6 +92,60 @@
     <episode-num system="dd_progid">XM0NKT2I1RP9ZI</episode-num>
     <rating>
       <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261115060000 +0000" stop="20261115080000 +0000" channel="Stingray190ADS">
+    <title lang="en">Stingray Today's Latin Pop</title>
+    <desc lang="en">Discover today’s emerging Latin pop artists. Fall in love with the latest music trends.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://epg.sam.stingray.com/IMAGE/190ADS/lg-direct/Assets_Channel-Tile_768x432.jpg"/>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261115080000 +0000" stop="20261115100000 +0000" channel="Stingray190ADS">
+    <title lang="en">Stingray Today's Latin Pop</title>
+    <desc lang="en">Discover today’s emerging Latin pop artists. Fall in love with the latest music trends.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://epg.sam.stingray.com/IMAGE/190ADS/lg-direct/Assets_Channel-Tile_768x432.jpg"/>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261115060000 +0000" stop="20261115080000 +0000" channel="Stingray232ADS">
+    <title lang="en">Stingray 2000s</title>
+    <desc lang="en">Don't miss all your favorites from the 2000s featuring the decade's biggest pop and R&amp;B hits.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://epg.sam.stingray.com/IMAGE/232ADS/lg-direct/Assets_Channel-Tile_768x432.jpg"/>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261115080000 +0000" stop="20261115100000 +0000" channel="Stingray232ADS">
+    <title lang="en">Stingray 2000s</title>
+    <desc lang="en">Don't miss all your favorites from the 2000s featuring the decade's biggest pop and R&amp;B hits.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://epg.sam.stingray.com/IMAGE/232ADS/lg-direct/Assets_Channel-Tile_768x432.jpg"/>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261115060000 +0000" stop="20261115080000 +0000" channel="Stingray317ADS">
+    <title lang="en">Stingray Today's K-Pop</title>
+    <desc lang="en">Tune in to the captivating mega hits by today’s K-pop superstars. Fans in Korea and around the world just can’t get enough!</desc>
+    <category lang="en">Music</category>
+    <icon src="https://epg.sam.stingray.com/IMAGE/317ADS/lg-direct/Assets_Channel-Tile_768x432.jpg"/>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115080000 +0000" stop="20261115100000 +0000" channel="Stingray317ADS">
+    <title lang="en">Stingray Today's K-Pop</title>
+    <desc lang="en">Tune in to the captivating mega hits by today’s K-pop superstars. Fans in Korea and around the world just can’t get enough!</desc>
+    <category lang="en">Music</category>
+    <icon src="https://epg.sam.stingray.com/IMAGE/317ADS/lg-direct/Assets_Channel-Tile_768x432.jpg"/>
+    <rating>
+      <value>TV-G</value>
     </rating>
   </programme>
 <programme start="20261115055044 +0000" stop="20261115064451 +0000" channel="haunttvus_hntus_US">
@@ -165,36 +227,6 @@
     <episode-num system="dd_progid">amg02042c61_AUFZ2xJdoWEag3CeGASyo4C_us</episode-num>
     <rating>
       <value>R</value>
-    </rating>
-  </programme>
-<programme start="20261115042611 +0000" stop="20261115061121 +0000" channel="us-cinedigm_entertainment_corp_screamboxtv_1">
-    <title lang="en">The House By the Cemetery</title>
-    <desc lang="en">A young family moves from their cramped New York City apartment to a spacious new home in New England. But this is no ordinary house in the country: the previous owner was the deranged Dr. Freudstein, whose monstrous human experiments have left a legacy of bloody mayhem. Now, someone - or something - is alive in the basement, and home sweet home is about to become a horrific hell on earth.</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://img.platform.wurl.dev/channel/1845/lg/88167e/LG-768x432_v1.png"/>
-    <episode-num system="dd_progid">US-CineverseEntertainmentCorp-119268871-52541967-52525612</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261115061121 +0000" stop="20261115080000 +0000" channel="us-cinedigm_entertainment_corp_screamboxtv_1">
-    <title lang="en">The Beyond (Edited Version)</title>
-    <desc lang="en">The seven dreaded gateways to hell are concealed in seven cursed places... And on the day the gates of hell are opened, the dead will walk the earth!From legendary Italian horror master Lucio Fulci come the ultimate classic of supernatural terror. A remote and cursed hotel, built over one of the seven gateways, becomes a yawning malevolent abyss that begins devouring both the bodies and the souls of all who enter in a graphic frenzy of gory crucifixions, chunkblowing chain-whippings, eyeball impalements, sulfuric acid meltdowns, flesh-eating tarantulas, throat-shredding demon dogs and ravenous bloodthirsty zombies. THE BEYOND is a towering achievement in hair-raising, mind-bending cinematic terror!</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://img.platform.wurl.dev/channel/1845/lg/88167e/LG-768x432_v1.png"/>
-    <episode-num system="dd_progid">US-CineverseEntertainmentCorp-119268872-52541967-52525612</episode-num>
-    <rating>
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-<programme start="20261115080000 +0000" stop="20261115095006 +0000" channel="us-cinedigm_entertainment_corp_screamboxtv_1">
-    <title lang="en">Ice Cream Man (Edited Version)</title>
-    <desc lang="en">Poor Gregory. After being released from the Wishing Well Sanatorium, all he wants to do is make the children happy. So Gregory reopens the old ice cream factory, and all the unappreciative brats are reprocessed into the flavor of the day.</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://img.platform.wurl.dev/channel/1845/lg/88167e/LG-768x432_v1.png"/>
-    <episode-num system="dd_progid">US-CineverseEntertainmentCorp-118136016-52541967-52525612</episode-num>
-    <rating>
-      <value>TV-14</value>
     </rating>
   </programme>
 <programme start="20261115060000 +0000" stop="20261115063000 +0000" channel="us-scripps_laffmore_1">
