@@ -4,6 +4,12 @@
 # matching.
 CATEGORY_EXCLUDE_LIST = [
     "Science",
+    "Music",
+    "Ambiance",
+    "Kung Fu Flicks",
+    "Anime & Gaming",
+    "Sports",
+    "Combat Sports",
     "Western",
     "Shopping",
     "Travel",
