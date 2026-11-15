@@ -284,6 +284,7 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
     """)),
     ('Outdoors', _words("""
         outdoor
+        all-out alaska
         outdoors
         outdoor channel
         outside
