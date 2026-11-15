@@ -1374,8 +1374,6 @@ GLOBAL_EXCLUDE_LIST = [
 "Unbeaten",
 "ÚNICA TV",
 "Unique Lives",
-"Universal Action",
-"Universal Crime",
 "Universal Kids",
 "Universal Westerns",
 "Unleashed by DOGTV",
