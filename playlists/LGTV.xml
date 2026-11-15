@@ -24,6 +24,42 @@
     <display-name>Dinos 24/7</display-name>
     <icon src="https://d2i0hcnfudruct.cloudfront.net/Dinos/LG_Dinos/LG_DINOS_247_CHANNEL_ASSETSLG-Logo-PNG-800x200-(REV).png"/>
   </channel>
+<channel id="us-cinedigm_entertainment_corp_germansoccerleague_1">
+    <display-name>German Soccer Network</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/2387/lg/870ac1/LG-Logo-PNG-100x100_v1.png"/>
+  </channel>
+<channel id="fantasylife_fanfl_US">
+    <display-name>Matthew Berry’s Fantasy Life</display-name>
+    <icon src="https://d7xr8zn8daz19.cloudfront.net/LGFLlogo400x200White.png"/>
+  </channel>
+<channel id="us-world_poker_tour_wpt_1">
+    <display-name>World Poker Tour</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/2131/lg/12ce40/LG-Logo-PNG-100x100_v1.png"/>
+  </channel>
+<channel id="FREQ1006-US">
+    <display-name>PGA TOUR</display-name>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/pgatour/channels/1006-400x200.png"/>
+  </channel>
+<channel id="flosportschannel_amg02278c7_us">
+    <display-name>FloSports Channel</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/flosports/FloSportsChannelLogoWhite400x200.png"/>
+  </channel>
+<channel id="espn8ocho_amg00497c24_us">
+    <display-name>ESPN 8: The Ocho</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/ABC_LG/ESPN/Espn_400X200.png"/>
+  </channel>
+<channel id="dpworldtourgolf_dpwtg_US">
+    <display-name>DP World Tour</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/C15studio/Logo_DPWorldTour.png"/>
+  </channel>
+<channel id="us-rightsboosterltd_scl_1">
+    <display-name>Strongman Champions League</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/1102/lg/129bb3/LG-Logo-PNG-100x100_v1.png"/>
+  </channel>
+<channel id="itvdeportes_itvdep_US">
+    <display-name>ITV Deportes</display-name>
+    <icon src="https://d2mxb63djushzm.cloudfront.net/images/ITV_Deportes_400x200.png"/>
+  </channel>
 <channel id="us-scripps_laffmore_1">
     <display-name>Laff More</display-name>
     <icon src="http://img.platform.wurl.dev/channel/1498/lg/d22c6a/LG-Logo-PNG-100x100_v1.png"/>
@@ -56,16 +92,6 @@
     <display-name>Yule Log TV</display-name>
     <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/ottstudios/YuleLogTV_by_ChristmasPlus/YL-LOGO.png"/>
   </channel>
-<programme start="20261115065627 +0000" stop="20261115072438 +0000" channel="99992255">
-    <title lang="en">Forensic Files</title>
-    <desc lang="en">A man disappears one year to the day after beginning an affair with his friend's wife. 15 years later, with the help of a metal detector, police find evidence that would prove what had happened and who was responsible.</desc>
-    <category lang="en">ETC</category>
-    <icon src="https://image.xumo.com/v1/assets/asset/XM0Y93MDGSQY58/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992255%2F768x432.jpg%3Ftype%3DchannelTile"/>
-    <episode-num system="dd_progid">XM0Y93MDGSQY58</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
 <programme start="20261115072438 +0000" stop="20261115075249 +0000" channel="99992255">
     <title lang="en">Forensic Files</title>
     <desc lang="en">A patrolman was dispatched to what he thought would be a routine traffic call until he looked in the car.</desc>
@@ -114,6 +140,26 @@
     <episode-num system="dd_progid">XM0NKT2I1RP9ZI</episode-num>
     <rating>
       <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261115072000 +0000" stop="20261115080000 +0000" channel="FREQ1006-US">
+    <title lang="en">The Starter</title>
+    <desc lang="en">Catch up on all the latest happenings on the PGA TOUR with feature content on the best players in the world.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/playlist/cf9bc5da-b940-46cd-8cab-9fbbe3e961be/solid/rectangle/original.jpg"/>
+    <episode-num system="dd_progid">9883737</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261115080000 +0000" stop="20261115152000 +0000" channel="FREQ1006-US">
+    <title lang="en">PGA Tour Classic Rounds</title>
+    <desc lang="en">The United States and International teams battle in a session of Singles matches to decide the 16th edition.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/7515840875778028957/solid/rectangle/w1920_h1080/11iui76x2f46r1bcjh00cygn6u.jpg"/>
+    <episode-num system="dd_progid">9597501</episode-num>
+    <rating>
+      <value>TV-PG</value>
     </rating>
   </programme>
 <programme start="20261115060000 +0000" stop="20261115080000 +0000" channel="Stingray190ADS">
@@ -190,6 +236,75 @@
       <value>TV-G</value>
     </rating>
   </programme>
+<programme start="20261115011929 +0000" stop="20261115075454 +0000" channel="dpworldtourgolf_dpwtg_US">
+    <title lang="en">Bahrain Championship</title>
+    <desc lang="en">Laurie Canter won the 2025 Bahrain Champs at 14-under, beating Brown &amp; Larrazábal in a playoff with a birdie.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/DPWTG/resized_1898ae08e1f1e55c90a67ce159547385014725e357ec03d1f99bd6037f1ed88d_bahrainchampionshippng_768_432.jpeg"/>
+    <episode-num system="dd_progid">DPWTG_ETP_MT_25_WK5_DAY4_D_US</episode-num>
+    <rating>
+      <value>TVG</value>
+    </rating>
+  </programme>
+<programme start="20261115075454 +0000" stop="20261115080407 +0000" channel="dpworldtourgolf_dpwtg_US">
+    <title lang="en">Luck of The Draw: Pieters vs Canter</title>
+    <desc lang="en">Thomas Pieters and Laurie Canter face off on the 620-yard par-5 18th hole at Jumeirah Golf Estates' Earth Course.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/DPWTG/resized_8de55f2ac6fc1b38bb483adc62e3125f6011fb3dcd72c9a57fae1f130e11440a_dpwt1920x1080002png_768_432.jpeg"/>
+    <episode-num system="dd_progid">DPWTG_DDP000069_US</episode-num>
+    <rating>
+      <value>TVG</value>
+    </rating>
+  </programme>
+<programme start="20261115071900 +0000" stop="20261115075100 +0000" channel="espn8ocho_amg00497c24_us">
+    <title lang="en">Great American Events</title>
+    <desc lang="en">Special events.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00497/resized_images/resized_3444ee6990f2ad0992592e8d7aac7793d680529866ab71c3775a432014080cfe_959d6dc56e1344c3bacfb5650d9e9e0epng_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg00497c24_amg00497c24_amg-EP001102650108_20261115071900_us</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+<programme start="20261115075100 +0000" stop="20261115082300 +0000" channel="espn8ocho_amg00497c24_us">
+    <title lang="en">Great American Events</title>
+    <desc lang="en">Special events.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00497/resized_images/resized_3444ee6990f2ad0992592e8d7aac7793d680529866ab71c3775a432014080cfe_959d6dc56e1344c3bacfb5650d9e9e0epng_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg00497c24_amg00497c24_amg-EP001102650102_20261115075100_us</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+<programme start="20261115065958 +0000" stop="20261115075958 +0000" channel="fantasylife_fanfl_US">
+    <title lang="en">NFL Stock Exchange</title>
+    <desc lang="en">Trevor Sikkema and Connor Rogers fix the Philadelphia Eagles! They go through how they got here, assess their entire staff and front office, Re-Sign and Restructure their roster, pick up difference-making Free Agents, run a 2027 Mock Draft, finalize the team and simulate the NEW Eagles in the 2027 season to see how much they've improved! Welcome to Pimp your Franchise!</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/FANFL/resized_98f32b1f78c39827a88e251b80b8d4c2b7a2bde1444187a264544a516542d779_768x432nflsepng_768_432.jpeg"/>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261115075958 +0000" stop="20261115090028 +0000" channel="fantasylife_fanfl_US">
+    <title lang="en">Fantasy Life</title>
+    <desc lang="en">Fantasy football experts Kendall Valenzuela and Gene Clemons are joined by a rotating guest to break down rankings, projections, ADP and more for the 2026 NFL season! We’re taking a look at how the season might shape up so you can make informed decisions in your drafts and dominate your league-mates!</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://d7xr8zn8daz19.cloudfront.net/MBFL x FanDuel App Tile 768x432.jpg"/>
+    <episode-num system="dd_progid">FANFL_MBFLFF_S4_E15_US</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261115050544 +0000" stop="20261115081151 +0000" channel="flosportschannel_amg02278c7_us">
+    <title lang="en">Baldwin Wallace vs Mount Union - Football</title>
+    <desc lang="en">Historic OAC football rivalry renewed as the Baldwin Wallace Yellow Jackets battle powerhouse Mount Union.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg02278/resized_images/resized_9c87d83392c87b77fe530fe5d2c4cf2144bf4af089d66031c8ca45a2b415aee3_collegefootballherofinalpng_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg02278c7_amg02278c7_cd265c20-d300-11f1-b856-f7eca7f71ba4_2026-11-07_8b6b15fc1b_amagi_live-Unconditioned_20261115050544_us</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
 <programme start="20261115064451 +0000" stop="20261115073905 +0000" channel="haunttvus_hntus_US">
     <title lang="en">Unexplained Caught on Camera</title>
     <desc lang="en">Brave an abandoned asylum and go head-to-head with a door-slamming phantom.</desc>
@@ -210,16 +325,6 @@
       <value>PG</value>
     </rating>
   </programme>
-<programme start="20261115062431 +0000" stop="20261115072303 +0000" channel="historyandwarfarenowmainus_amg01515c89_us">
-    <title lang="en">Empire Builders: Los Angeles</title>
-    <desc lang="en">Natives, Spanish missions, and more shaped L.A.’s growth, leading to its identity as the home of Hollywood.</desc>
-    <category lang="en">History</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01515/resized_images/resized_5649d9724af5b8885caf648f8c9c3fb861765b21fa6591710467bb0e11b0d00a_mhy11d9n2qj9wvfi69qisp169jpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">amg01515c89_amg01515c89_MHY11D9N2QJ9WVFI69QISP_20261115062431_us</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
 <programme start="20261115072303 +0000" stop="20261115083338 +0000" channel="historyandwarfarenowmainus_amg01515c89_us">
     <title lang="en">Empire Builders: Los Angeles</title>
     <desc lang="en">Many diverse forces shaped L.A., bringing cultural richness and tensions, and making it a global arts hub.</desc>
@@ -229,6 +334,20 @@
     <rating>
       <value>TV-PG</value>
     </rating>
+  </programme>
+<programme start="20261115060000 +0000" stop="20261115080000 +0000" channel="itvdeportes_itvdep_US">
+    <title lang="en">Fútbol Mexicano Liga Expansión</title>
+    <desc lang="en">Jornada 14 del Torneo Apertura 2026 de la Liga Expansión MX. Desde el estadio Carlos Vega Villalba.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/ITVDEP/resized_5f471cabb68629f30afee45791af9ccdd327014b26b5c9320d29b9a4021a0208_p18691836bh8aajpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">ITVDEP_amg-EP035956111829_US</episode-num>
+  </programme>
+<programme start="20261115080000 +0000" stop="20261115110000 +0000" channel="itvdeportes_itvdep_US">
+    <title lang="en">Boxeo</title>
+    <desc lang="en">Julio César Chávez Jr. contra Jeison Troncoso, peso crucero. Desde el gimnasio Miguel Hidalgo.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/ITVDEP/resized_3044f0cc3b32c09e77386ebd019b20251adc683294dbef24513d6a6eed99ce32_p343935bh8akjpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">ITVDEP_amg-EP012145094699_US</episode-num>
   </programme>
 <programme start="20261115055722 +0000" stop="20261115073552 +0000" channel="theasylummoviechannel_tasmc_US">
     <title lang="en">Hansel VS Gretel</title>
@@ -274,6 +393,26 @@
       <value>R</value>
     </rating>
   </programme>
+<programme start="20261115063000 +0000" stop="20261115085000 +0000" channel="us-cinedigm_entertainment_corp_germansoccerleague_1">
+    <title lang="en">DFB-Pokal 2026/27 Full Match: FC Bayern Muenchen - 1. FC Magdeburg</title>
+    <desc lang="en">Watch the Full Match of FC Bayern Muenchen - 1. FC Magdeburg in Round 2 of the 2026/27 DFB-Pokal season!</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://img.platform.wurl.dev/channel/2387/lg/870ac1/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-CineverseEntertainmentCorp-120537678-56870555-56845503</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115065726 +0000" stop="20261115080248 +0000" channel="us-rightsboosterltd_scl_1">
+    <title lang="en">Strongman Champions League</title>
+    <desc lang="en">A definite highlight in this FIBO edition in Germany, Strongman Champions League introduced its new rules for a special team item. Graham Hicks tries here to set a New World Record on the biggest log in the world, currently held by Krzysztof Radzikowski. Boosted also by the presence of the acclaimed in the strongman circles names of Mark Felix and Danis Zageris.</desc>
+    <category lang="en">ETC</category>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/9192-11240/18826184-default_v1.jpg"/>
+    <episode-num system="dd_progid">US-RightsBoosterLimited-18826184-10401164-10299657</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
 <programme start="20261115070000 +0000" stop="20261115073000 +0000" channel="us-scripps_laffmore_1">
     <title lang="en">Family Feud Favorites</title>
     <desc lang="en">"Family Feud" has seen some crazy moments over the years, so buckle up as we revisit these fan favorites.</desc>
@@ -304,14 +443,14 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20261115060521 +0000" stop="20261115071541 +0000" channel="yulelogtvbychristmasplus_amg02042c33eng_US">
-    <title lang="en">Yule Dog's Yule Log</title>
-    <desc lang="en">Heart-melting holiday vibes as a furry friend curls up by the fire. Cozy flames, gentle music, and pure canine charm make this the ultimate feel-good festive companion.</desc>
-    <category lang="en">ETC</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg02042/resized_images/resized_c40d089d36e42a043db021f817829592fca54fe7a33efb5da0de44dc1686064a_frpl005png_768_432.jpeg"/>
-    <episode-num system="dd_progid">amg02042c62_AEcSHNbRaWaN2j3v6KFuQqG_us</episode-num>
+<programme start="20261115070000 +0000" stop="20261115090000 +0000" channel="us-world_poker_tour_wpt_1">
+    <title lang="en">World Poker Tour</title>
+    <desc lang="en">A $4 million prize-pool is at stake at the final table of the WPT Bay 101 Shooting Star.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://img.platform.wurl.dev/channel/2131/lg/12ce40/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-WPTEnterprisesInc-120529719-56825578-56803050</episode-num>
     <rating>
-      <value>G</value>
+      <value>TV-PG</value>
     </rating>
   </programme>
 <programme start="20261115071541 +0000" stop="20261115093536 +0000" channel="yulelogtvbychristmasplus_amg02042c33eng_US">
