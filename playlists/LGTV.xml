@@ -16,6 +16,10 @@
     <display-name>Heartland</display-name>
     <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/heartlandclassic_lgus/heartland_logo_400x200.png"/>
   </channel>
+<channel id="FREQ938">
+    <display-name>BBC Drama Classics</display-name>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/bbc/channels/938-400x200.png"/>
+  </channel>
 <channel id="portraittv_amg30859c1_us">
     <display-name>Portrait TV</display-name>
     <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Portrait-TV_Logo_400x200.png"/>
@@ -64,9 +68,25 @@
     <display-name>GET Comedy</display-name>
     <icon src="http://img.platform.wurl.dev/channel/830/lg/fb8c5c/LG-Logo-PNG-100x100_v1.png"/>
   </channel>
+<channel id="johnnycarson_jhcrn_US">
+    <display-name>Johnny Carson TV</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/shoutfactory/LG_JCARTV_Logo_800x200_WHITE.png"/>
+  </channel>
+<channel id="FREQ918-US">
+    <display-name>Animation+</display-name>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/streamingink/channels/918-400x200.png"/>
+  </channel>
+<channel id="us-aenetworks_unxplainedzone_1">
+    <display-name>UnXplained Zone</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/1018/lg/264964/LG-Logo-PNG-100x100_v2.png"/>
+  </channel>
 <channel id="ghosthunters_gthtr_US">
     <display-name>Ghost Hunters</display-name>
     <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Ghosthunters/GhostHunters_LGLaunch_Guide_Logo_White_800x200.png"/>
+  </channel>
+<channel id="us-aenetworks_thrillher_1">
+    <display-name>Crime ThrillHer</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/1056/lg/28d4f8/LG-Logo-PNG-100x100_v2.png"/>
   </channel>
 <channel id="99993006">
     <display-name>World's Most Evil Killers</display-name>
@@ -75,6 +95,22 @@
 <channel id="99992255">
     <display-name>Forensic Files</display-name>
     <icon src="https://image.xumo.com/v1/channels/channel/99992255/400x200.png?type=white_cropped"/>
+  </channel>
+<channel id="coldcasefiles_aeccf_US">
+    <display-name>Cold Case Files</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/aenetworks/Cold_Case_Files_Channel_Logo_Image_200x800.png"/>
+  </channel>
+<channel id="us-aenetworks_crime360_1">
+    <display-name>A&amp;E Crime 360</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/393/lg/9045f5/LG-Logo-PNG-100x100_v4.png"/>
+  </channel>
+<channel id="us-aenetworks_kriminal_1">
+    <display-name>Crimes Cults Killers  by A&amp;E</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/1055/lg/22f210/LG-Logo-PNG-100x100_v2.png"/>
+  </channel>
+<channel id="us-ae_networks_livepdgreatestshifts_1">
+    <display-name>A&amp;E Live PD Greatest Shifts</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/2183/lg/ea1ed8/LG-Logo-PNG-100x100_v1.png"/>
   </channel>
 <programme start="20261115224257 +0000" stop="20261115231109 +0000" channel="99992255">
     <title lang="en">Forensic Files</title>
@@ -114,26 +150,6 @@
     <episode-num system="dd_progid">7328625</episode-num>
     <rating>
       <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261115223008 +0000" stop="20261115230002 +0000" channel="FREQ901">
-    <title lang="en">Yu-Gi-Oh!</title>
-    <desc lang="en">Pegasus’s hired duelist Panik cheats Mai of all her star chips, and Yugi vows to defeat him and win them back.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/8bardvx3fj481eikaoy9fun4j/w1920_h1080/8bardvx3fj481eikaoy9fun4j.jpg"/>
-    <episode-num system="dd_progid">9484173</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261115223205 +0000" stop="20261115230413 +0000" channel="abcentertains_entert_US">
-    <title lang="en">We Can Be Heroes</title>
-    <desc lang="en">Meet the friends and family of the five Australian of the Year nominees.</desc>
-    <category lang="en">Talk show &amp; Entertainment</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/entert/resized_541315c877be666c7b8b10140773c0559acd7de748908eab66b5be0dd0b794be_abcentertainsthumbnail1920x1080png_768_432.jpeg"/>
-    <episode-num system="dd_progid">entert_wecanbeheroes_01_02_v2_US</episode-num>
-    <rating>
-      <value>TV-MA</value>
     </rating>
   </programme>
 <programme start="20261115223818 +0000" stop="20261115234019 +0000" channel="antiquesroadshow_pbsdc_US">
@@ -196,16 +212,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20261115220336 +0000" stop="20261115225656 +0000" channel="nashbridges_nbdgs_US">
-    <title lang="en">Nash Bridges</title>
-    <desc lang="en">Nash and the SIU team track down a killer randomly targeting people talking on cellphones.</desc>
-    <category lang="en">Action</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/NBDGS/resized_6ebff841b39ec20c5b6b730537c59d2403dea1a195517845daa6bc499e8afe3e_nashbridgeslandscapejpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">NBDGS_NB087_US</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme start="20261115225656 +0000" stop="20261115234957 +0000" channel="nashbridges_nbdgs_US">
     <title lang="en">Nash Bridges</title>
     <desc lang="en">Nash tracks a vigilante hunting three murder suspects released on a technicality.</desc>
@@ -236,26 +242,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261115223241 +0000" stop="20261115230253 +0000" channel="us-amc_anime_x_hidive_1">
-    <title lang="en">HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing</title>
-    <desc lang="en">Allen decides to tell his parents about his abilities.</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://img.platform.wurl.dev/channel/1398/lg/ab8828/LG-768x432_v1.png"/>
-    <episode-num system="dd_progid">US-RAINBOWMEDIAHOLDINGSLLC-117149126-56857030-56832912</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261115223019 +0000" stop="20261115225759 +0000" channel="us-gsn_cinevault_70s_1">
-    <title lang="en">My Two Dads</title>
-    <desc lang="en">Michael can't stand living in Joey's loft and demands that they move. Though Joey isn't happy about it, he says he can live anywhere and agrees. Nicole doesn't care where she lives as long as she has her two dads.</desc>
-    <category lang="en">Talk show &amp; Entertainment</category>
-    <icon src="http://img.platform.wurl.dev/episodemeta/53786110/lg/ebba9b/lg_episode_thumbnail768x432_v1.jpg"/>
-    <episode-num system="dd_progid">US-GAMESHOWNETWORKLLC-53804582-45113209-45097703</episode-num>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
 <programme start="20261115225759 +0000" stop="20261115232759 +0000" channel="us-gsn_cinevault_70s_1">
     <title lang="en">Just Shoot Me</title>
     <desc lang="en">When a photo rejected at Blush is chosen for an issue of the influential Modern Photography, Elliott brashly claims that Jack has underestimated his stature as an artist.</desc>
@@ -264,16 +250,6 @@
     <episode-num system="dd_progid">US-GAMESHOWNETWORKLLC-57556590-46314540-43386562</episode-num>
     <rating>
       <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261115223008 +0000" stop="20261115230009 +0000" channel="us-gsn_crunchyroll_1">
-    <title lang="en">Natsume's Book of Friends</title>
-    <desc lang="en">Natsume is accosted by a spirit who asks for her brother's name back.</desc>
-    <category lang="en">Talk show &amp; Entertainment</category>
-    <icon src="http://img.platform.wurl.dev/channel/1467/lg/c26078/LG-768x432_v1.png"/>
-    <episode-num system="dd_progid">US-GAMESHOWNETWORKLLC-95897566-56836547-56809588</episode-num>
-    <rating>
-      <value>TV-PG</value>
     </rating>
   </programme>
 <programme start="20261115224722 +0000" stop="20261115231719 +0000" channel="us-lg_thebeverlyhillbillies_1">
