@@ -16,10 +16,6 @@
     <display-name>Movie Hub Action West</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US38000108V_20260421T133631SQUARE.png" />
   </channel>
-<channel id="USBD3500033U0">
-    <display-name>Movie Hub Romance</display-name>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500033U0_20261016T175708SQUARE.png" />
-  </channel>
 <channel id="USBD700011RE">
     <display-name>Gravitas Movies</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700011RE_20241203T004808SQUARE.png" />
@@ -168,6 +164,10 @@
     <display-name>Mythical 24/7</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900008FP_20260421T143240SQUARE.png" />
   </channel>
+<channel id="US350000563">
+    <display-name>GET Comedy</display-name>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US350000563_20260421T143347SQUARE.png" />
+  </channel>
 <channel id="USBA300019WF">
     <display-name>TV Land Sitcoms</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300019WF_20260421T143002SQUARE.png" />
@@ -191,6 +191,14 @@
 <channel id="USAJ3504706A">
     <display-name>RiffTrax</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504706A_20260609T214530SQUARE.png" />
+  </channel>
+<channel id="US1400019FA">
+    <display-name>Scrambled Up</display-name>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400019FA_20260922T055745SQUARE.png" />
+  </channel>
+<channel id="US7000229B">
+    <display-name>Let's Make A Deal Classic</display-name>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US7000229B_20250826T234540SQUARE.png" />
   </channel>
 <channel id="USBC1300012VK">
     <display-name>Fear Zone</display-name>
@@ -337,33 +345,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme channel="USBD3500033U0" start="20261115225636 +0000" stop="20261116005329 +0000">
-    <title>Summer in February</title>
-    <desc>Two friends at a 1913 British artists' colony compete for the affections of a comely debutante, but the object of their pursuit soon learns to regret her choice.</desc>
-    <category lang="en">Romance</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_30682857_8_20260801T013118821Z_94_imageprocessorclient-tvplus-linear-9468c5484-7b9vr.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="USBD3500033U0" start="20261116005329 +0000" stop="20261116023816 +0000">
-    <title>Sunshine Cleaning</title>
-    <desc>Though they once seemed to have a bright future, life seems to be passing by the Norkowski sisters. Rose (Amy Adams), once the most popular girl in high school, is a single mom and works as a maid. Norah (Emily Blunt) still lives at home with their father (Alan Arkin), and parties all the time. When Rose's married lover tells her about the lucrative field of crime-scene cleanup, she pours all her remaining resources into her new business, and recruits the squeamish Norah to help.</desc>
-    <category lang="en">Romance</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_48480249_1_20261027T011510225Z_104_imageprocessorclient-tvplus-linear-6b56cc9f55-wrt8j.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="USBD3500033U0" start="20261116023816 +0000" stop="20261116042033 +0000">
-    <title>Joy Ride</title>
-    <desc>The hilarious and unapologetically explicit story of identity and self-discovery centers on four unlikely friends who embark on a once-in-a-lifetime international adventure.</desc>
-    <category lang="en">Romance</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3670343170_0_20261026T011151129Z_40_imageprocessorclient-tvplus-linear-6b56cc9f55-xrr9m.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme channel="USBD700011RE" start="20261115214200 +0000" stop="20261115233600 +0000">
     <title>Timecop</title>
     <desc>When mankind perfects time travel, the government establishes the Time Enforcement Commission to thwart criminal attempts to alter the timeline. Police officer Walker (Jean-Claude Van Damme) is recruited by TEC Cmdr. Matuzak (Bruce McGill), but soon finds his investigation of Senator Aaron McComb (Ron Silver) being thwarted by elements within the government. When Walker's wife, Melissa (Mia Sara), is attacked, he must travel across time to rescue her and save the future.</desc>
@@ -415,16 +396,6 @@
     <desc>When a typhoon hits the Island, criminals and their hostages are trapped inside the police station. Alex must find a way to save his friends… as well as a sworn enemy – a US State Department bureaucrat there to “do a deal” with an arms dealer Alex had recently captured.</desc>
     <category lang="en">Entertainment</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3509605673_0_20260922T013300497Z_46_imageprocessorclient-tvplus-linear-6b56cc9f55-cwddm.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="USBB2300001QP" start="20261115222619 +0000" stop="20261115231734 +0000">
-    <title>The Librarians</title>
-    <sub-title>And the Rise of Chaos</sub-title>
-    <desc>When the Egyptian God of Chaos inhabits a human body, he attempts to release Pure Evil into the world, thus beginning the final battle of Good vs. Evil.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3540686511_2_20260928T165659840Z_1_imageprocessorclient-tvplus-linear-6b56cc9f55-dqgdz.jpeg" />
     <rating>
       <value>TV-14</value>
     </rating>
@@ -541,16 +512,6 @@
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_896836419_0_20250223T232157886Z_38_imageprocessorclient-tvplus-linear-b76dd9bbb-28957.jpeg" />
     <rating>
       <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="US19000072T" start="20261115223000 +0000" stop="20261115232000 +0000">
-    <title>Nashville</title>
-    <sub-title>You're Lookin' at Country</sub-title>
-    <desc>While at the 48th Annual CMA Awards in Nashville, Rayna finds Luke's prenuptial agreement, causing friction  Avery introduces his parents to Juliette  Gunnar and Zoey's relationship is put to the test.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2296525425_0_20251217T201343970Z_1_imageprocessorclient-tvplus-linear-584c967455-k8fnw.jpeg" />
-    <rating>
-      <value>TV-PG</value>
     </rating>
   </programme>
 <programme channel="US19000072T" start="20261115232000 +0000" stop="20261116001000 +0000">
@@ -737,16 +698,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme channel="US4100005NW" start="20261115222803 +0000" stop="20261115231851 +0000">
-    <title>Dawson's Creek</title>
-    <sub-title>All The Right Moves</sub-title>
-    <desc>As Audrey gets a second chance and Pacey is offered an unexpected promotion at work, Joey is reunited with Eddie.</desc>
-    <category lang="en">Drama</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550796395_53_20241113T062843408Z_77_imageprocessorclient-tvplus-linear-5dc4fd45f6-86bnr.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme channel="US4100005NW" start="20261115231851 +0000" stop="20261116001021 +0000">
     <title>Dawson's Creek</title>
     <sub-title>Rock Bottom</sub-title>
@@ -805,16 +756,6 @@
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550796395_53_20241113T062843408Z_77_imageprocessorclient-tvplus-linear-5dc4fd45f6-86bnr.jpeg" />
     <rating>
       <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="US4100029G5" start="20261115223100 +0000" stop="20261115232200 +0000">
-    <title>Felicity</title>
-    <sub-title>Kissing Mr. Covington</sub-title>
-    <desc>Ben's father makes a pass at Felicity  Noel faces a moral dilemma when he considers using an underhanded way to woo Jane.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2212268920_0_20251127T072528272Z_55_imageprocessorclient-tvplus-linear-584c967455-k8fnw.jpeg" />
-    <rating>
-      <value>TV-PG</value>
     </rating>
   </programme>
 <programme channel="US4100029G5" start="20261115232200 +0000" stop="20261116001400 +0000">
@@ -1045,16 +986,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme channel="USBB2900003O3" start="20261115223900 +0000" stop="20261115233100 +0000">
-    <title>Heartland</title>
-    <sub-title>Walking Tall</sub-title>
-    <desc>Amy goes undercover to catch a Tennessee Walker's abusers after Ty brings it to Heartland to recover.</desc>
-    <category lang="en">Drama</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3507717364_0_20260921T154719211Z_72_imageprocessorclient-tvplus-linear-6b56cc9f55-mx4zz.jpeg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
 <programme channel="USBB2900003O3" start="20261115233100 +0000" stop="20261116002400 +0000">
     <title>Heartland</title>
     <sub-title>Lost Highway</sub-title>
@@ -1269,16 +1200,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme channel="US410000230" start="20261115222613 +0000" stop="20261115231945 +0000">
-    <title>Ruby and the Well</title>
-    <sub-title>I Wish I Was A Kid Again</sub-title>
-    <desc>Ruby digs deep for a wisher who wants to be a kid again.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_917705159_0_20250227T202410091Z_47_imageprocessorclient-tvplus-linear-b76dd9bbb-9fv29.png" />
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
 <programme channel="US410000230" start="20261115231945 +0000" stop="20261115234946 +0000">
     <title>Making Good</title>
     <sub-title>Warfighter Made</sub-title>
@@ -1399,16 +1320,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme channel="US2600027AI" start="20261115221906 +0000" stop="20261115231905 +0000">
-    <title>New Tricks</title>
-    <sub-title>Bermondsey Boy</sub-title>
-    <desc>Gerry investigates the case of a dead architecture student.</desc>
-    <category lang="en">Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_548057233_0_20240925T062229641Z_40_imageprocessorclient-tvplus-linear-5dc4fd45f6-qbw2m.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme channel="US2600027AI" start="20261115231905 +0000" stop="20261116001934 +0000">
     <title>New Tricks</title>
     <sub-title>Tender Loving Care</sub-title>
@@ -1455,15 +1366,6 @@
     <desc>The team investigate the death of a gym trainer who was part of a Roman re-enactment club.</desc>
     <category lang="en">Crime</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_548057233_0_20240925T062229641Z_40_imageprocessorclient-tvplus-linear-5dc4fd45f6-qbw2m.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="USAK3508703A" start="20261115230001 +0000" stop="20261115232541 +0000">
-    <title>Live PD: Police Patrol</title>
-    <desc>An unfiltered look at police departments in action.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_840251358_0_20250212T222327942Z_79_imageprocessorclient-tvplus-linear-b76dd9bbb-2rqfl.jpeg" />
     <rating>
       <value>TV-14</value>
     </rating>
@@ -1704,16 +1606,6 @@
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1327341516_1_20250514T175401832Z_53_imageprocessorclient-tvplus-linear-b76dd9bbb-9fv29.jpeg" />
     <rating>
       <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme channel="US2001109K" start="20261115230308 +0000" stop="20261115232730 +0000">
-    <title>Killer Mysteries</title>
-    <sub-title>Missing in Minnesota</sub-title>
-    <desc>Police in northern Minnesota rush to rescue a kidnapped college student. It takes NASA technology for law enforcement to uncover the identity of the abductor, who turns out to be a serial predator.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2395387221_0_20260109T045742778Z_72_imageprocessorclient-tvplus-linear-584c967455-p9wk7.jpeg" />
-    <rating>
-      <value>TV-14</value>
     </rating>
   </programme>
 <programme channel="US2001109K" start="20261115232730 +0000" stop="20261115235152 +0000">
@@ -2219,16 +2111,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme channel="US2600022YJ" start="20261115223000 +0000" stop="20261115233000 +0000">
-    <title>BuzzFeed Unsolved</title>
-    <sub-title>The Unexplained Phoenix Lights Phenomenon</sub-title>
-    <desc>Extraterrestrials, or something even stranger?</desc>
-    <category lang="en">Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1689252927_0_20250715T223255334Z_57_imageprocessorclient-tvplus-linear-d7c8c765b-69wjt.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme channel="US2600022YJ" start="20261115233000 +0000" stop="20261116003000 +0000">
     <title>BuzzFeed Unsolved</title>
     <sub-title>The Spirits of Moon River Brewing</sub-title>
@@ -2357,16 +2239,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme channel="US4000004N1" start="20261115225553 +0000" stop="20261115232241 +0000">
-    <title>Letterman</title>
-    <sub-title>Stupid Tricks Vol. 11</sub-title>
-    <desc>This is only an exhibition, this is not a competition. Please, no wagering.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2318518160_0_20251222T193504064Z_53_imageprocessorclient-tvplus-linear-584c967455-z7vql.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
 <programme channel="US4000004N1" start="20261115232241 +0000" stop="20261115235012 +0000">
     <title>Letterman</title>
     <sub-title>Stupid Tricks Vol. 12</sub-title>
@@ -2463,16 +2335,6 @@
     <desc>Connie Chung and Melanie Griffith join Dave for post-election jokes, interviews, and some unexpected singing</desc>
     <category lang="en">Comedy</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_552516852_0_20241207T123613274Z_114_imageprocessorclient-tvplus-linear-5dc4fd45f6-2m7pn.png" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="USBD120001614" start="20261115230100 +0000" stop="20261115233000 +0000">
-    <title>Conan O'Brien</title>
-    <sub-title>Talkin' 'Bout the Weather</sub-title>
-    <desc>Nothing makes a man feel better.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1328035947_0_20250514T205401055Z_90_imageprocessorclient-tvplus-linear-b76dd9bbb-jk5t6.jpeg" />
     <rating>
       <value>TV-14</value>
     </rating>
@@ -2864,13 +2726,114 @@
       <value>NA</value>
     </rating>
   </programme>
-<programme channel="USBA300019WF" start="20261115230000 +0000" stop="20261115233000 +0000">
-    <title>A Friend Indeed</title>
-    <desc>Tamera scrambles to find a new celebrity guest to appear at the school raffle</desc>
+<programme channel="US350000563" start="20261115232700 +0000" stop="20261115235500 +0000">
+    <title>Just Shoot Me</title>
+    <sub-title>Watch Your Backdraft</sub-title>
+    <desc>Maya feels rejected when Vicki reconciles with ex-husband Pete (Danny Nucci)  Finch invents a fictional employee in order to obtain a company parking spot.</desc>
     <category lang="en">Comedy</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352135A_536794798_0_20240101T170512651Z_43.jpeg" />
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_547799315_0_20240920T104015106Z_121_imageprocessorclient-tvplus-linear-5dc4fd45f6-qvh4n.jpeg" />
     <rating>
-      <value>TV-G</value>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme channel="US350000563" start="20261115235500 +0000" stop="20261116002300 +0000">
+    <title>The Jeff Foxworthy Show</title>
+    <sub-title>Deedee Day</sub-title>
+    <desc>Wayne (Jay Mohr) hires his girlfriend (guest star Michelle Clunie) to work in the shop after Jeff (Jeff Foxworthy) promised to hire his sister-in-law (Debra Jo Rupp).</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_547799186_0_20240920T104011109Z_133_imageprocessorclient-tvplus-linear-5dc4fd45f6-qvh4n.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="US350000563" start="20261116002300 +0000" stop="20261116005000 +0000">
+    <title>The Jeff Foxworthy Show</title>
+    <sub-title>He Ain't Heavy, He's a Bully</sub-title>
+    <desc>A man (guest star Scott Michael Campbell) who Wayne (Jay Mohr) bullied years before in high school attempts to wreak his revenge.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_547799186_0_20240920T104011109Z_133_imageprocessorclient-tvplus-linear-5dc4fd45f6-qvh4n.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="US350000563" start="20261116005000 +0000" stop="20261116011800 +0000">
+    <title>NewsRadio</title>
+    <sub-title>Pilot</sub-title>
+    <desc>The wet-behind-the-ears director (Dave Foley) of an all-news radio station must fire his predecessor.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_547799139_0_20240920T104015102Z_15_imageprocessorclient-tvplus-linear-5dc4fd45f6-qvh4n.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="US350000563" start="20261116011800 +0000" stop="20261116014600 +0000">
+    <title>NewsRadio</title>
+    <sub-title>Inappropriate</sub-title>
+    <desc>Dave and Lisa (Dave Foley, Maura Tierney) try to keep their after-dinner kiss a secret from the staff.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_547799139_0_20240920T104015102Z_15_imageprocessorclient-tvplus-linear-5dc4fd45f6-qvh4n.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="US350000563" start="20261116014600 +0000" stop="20261116021300 +0000">
+    <title>NewsRadio</title>
+    <sub-title>Smoking</sub-title>
+    <desc>Tempers and butts flare when Bill (Phil Hartman) refuses to adhere to the new no-smoking regulations. With Dave Foley.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_547799139_0_20240920T104015102Z_15_imageprocessorclient-tvplus-linear-5dc4fd45f6-qvh4n.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="US350000563" start="20261116021300 +0000" stop="20261116024100 +0000">
+    <title>Mad About You</title>
+    <sub-title>The Second Mrs. Buchman</sub-title>
+    <desc>Jamie (Helen Hunt) learns she is Paul's (Paul Reiser) second wife  Paul umpires for his father's (Louis Zorich) league.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_548441271_1_20241002T062253602Z_56_imageprocessorclient-tvplus-linear-5dc4fd45f6-2m7pn.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="US350000563" start="20261116024100 +0000" stop="20261116030900 +0000">
+    <title>Mad About You</title>
+    <sub-title>The Coin of Destiny</sub-title>
+    <desc>After Paul flips a coin to make a decision, he and Jamie end up on "Hard Copy"  Ira faces a paternity claim.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_548441271_1_20241002T062253602Z_56_imageprocessorclient-tvplus-linear-5dc4fd45f6-2m7pn.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="US350000563" start="20261116030900 +0000" stop="20261116033600 +0000">
+    <title>Mad About You</title>
+    <sub-title>The Caper</sub-title>
+    <desc>The Buchmans' neighbors accuse guests at Paul's birthday bash of stealing a painting from their apartment.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_548441271_1_20241002T062253602Z_56_imageprocessorclient-tvplus-linear-5dc4fd45f6-2m7pn.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="US350000563" start="20261116033600 +0000" stop="20261116040400 +0000">
+    <title>Mad About You</title>
+    <sub-title>The Baby Video</sub-title>
+    <desc>Paul (Paul Reiser) stars in Jamie's (Helen Hunt) baby video and frightens the audience  Paul learns he has a foster brother.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_548441271_1_20241002T062253602Z_56_imageprocessorclient-tvplus-linear-5dc4fd45f6-2m7pn.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="US350000563" start="20261116040400 +0000" stop="20261116043200 +0000">
+    <title>My Two Dads</title>
+    <sub-title>Once a Son...</sub-title>
+    <desc>Joey is challenged by his father to sell a painting, or start working in the family plumbing business.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_547798959_0_20240920T104007346Z_34_imageprocessorclient-tvplus-linear-5dc4fd45f6-qvh4n.jpeg" />
+    <rating>
+      <value>TV-PG</value>
     </rating>
   </programme>
 <programme channel="USBA300019WF" start="20261115233000 +0000" stop="20261116000000 +0000">
@@ -2961,16 +2924,6 @@
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352135A_595607072_0_20241225T225205479Z_105_imageprocessorclient-tvplus-linear-5dc4fd45f6-qbw2m.jpeg" />
     <rating>
       <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme channel="USBC4400004KK" start="20261115230500 +0000" stop="20261115233300 +0000">
-    <title>Just for Laughs: Gags</title>
-    <sub-title>Granny's mud soup</sub-title>
-    <desc>The grossed-out passers-by stare at that one guy who snacks on the mud from a girl's bucket.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1925397671_0_20250911T151415672Z_66_imageprocessorclient-tvplus-linear-d7c8c765b-ktlvd.jpeg" />
-    <rating>
-      <value>TV-14</value>
     </rating>
   </programme>
 <programme channel="USBC4400004KK" start="20261115233300 +0000" stop="20261116000000 +0000">
@@ -3309,6 +3262,234 @@
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352137A_549530213_7_20241021T223535128Z_121_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
     <rating>
       <value>TV-14</value>
+    </rating>
+  </programme>
+<programme channel="US1400019FA" start="20261115232829 +0000" stop="20261115235209 +0000">
+    <title>Scrambled Up</title>
+    <sub-title>Scrambled Up Episode 1082</sub-title>
+    <desc>Episode 1082 - Who will solve the most word scrambles and have a chance to win $10,000?</desc>
+    <category lang="en">Game Shows</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2830489188_0_20260423T200141587Z_80_imageprocessorclient-tvplus-linear-796646965d-c9w4p.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="US1400019FA" start="20261115235209 +0000" stop="20261116001600 +0000">
+    <title>Scrambled Up</title>
+    <sub-title>Scrambled Up Episode 1131</sub-title>
+    <desc>Episode 1131 - Who will solve the most word scrambles and have a chance to win $10,000?</desc>
+    <category lang="en">Game Shows</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2830489188_0_20260423T200141587Z_80_imageprocessorclient-tvplus-linear-796646965d-c9w4p.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="US1400019FA" start="20261116001600 +0000" stop="20261116003941 +0000">
+    <title>Scrambled Up</title>
+    <sub-title>Scrambled Up Episode 1074</sub-title>
+    <desc>Episode 1074 - Who will solve the most word scrambles and have a chance to win $10,000?</desc>
+    <category lang="en">Game Shows</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2830489188_0_20260423T200141587Z_80_imageprocessorclient-tvplus-linear-796646965d-c9w4p.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="US1400019FA" start="20261116003941 +0000" stop="20261116010321 +0000">
+    <title>Scrambled Up</title>
+    <sub-title>Scrambled Up Episode 1084</sub-title>
+    <desc>Episode 1084 - Who will solve the most word scrambles and have a chance to win $10,000?</desc>
+    <category lang="en">Game Shows</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2830489188_0_20260423T200141587Z_80_imageprocessorclient-tvplus-linear-796646965d-c9w4p.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="US1400019FA" start="20261116010321 +0000" stop="20261116012712 +0000">
+    <title>Scrambled Up</title>
+    <sub-title>Scrambled Up Episode 1111</sub-title>
+    <desc>Episode 1111 - Who will solve the most word scrambles and have a chance to win $10,000?</desc>
+    <category lang="en">Game Shows</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2830489188_0_20260423T200141587Z_80_imageprocessorclient-tvplus-linear-796646965d-c9w4p.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="US1400019FA" start="20261116012712 +0000" stop="20261116015102 +0000">
+    <title>Scrambled Up</title>
+    <sub-title>Scrambled Up Episode 1046</sub-title>
+    <desc>Episode 1046 - Who will solve the most word scrambles and have a chance to win $10,000?</desc>
+    <category lang="en">Game Shows</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2830489188_0_20260423T200141587Z_80_imageprocessorclient-tvplus-linear-796646965d-c9w4p.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="US1400019FA" start="20261116015102 +0000" stop="20261116021453 +0000">
+    <title>Scrambled Up</title>
+    <sub-title>Scrambled Up Episode 1011</sub-title>
+    <desc>Episode 1011 - Who will solve the most word scrambles and have a chance to win $10,000?</desc>
+    <category lang="en">Game Shows</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2830489188_0_20260423T200141587Z_80_imageprocessorclient-tvplus-linear-796646965d-c9w4p.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="US1400019FA" start="20261116021453 +0000" stop="20261116023834 +0000">
+    <title>Scrambled Up</title>
+    <sub-title>Scrambled Up Episode 1001</sub-title>
+    <desc>Episode 1001 - Who will solve the most word scrambles and have a chance to win $10,000?</desc>
+    <category lang="en">Game Shows</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2830489188_0_20260423T200141587Z_80_imageprocessorclient-tvplus-linear-796646965d-c9w4p.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="US1400019FA" start="20261116023834 +0000" stop="20261116030224 +0000">
+    <title>Scrambled Up</title>
+    <sub-title>Scrambled Up Episode 1110</sub-title>
+    <desc>Episode 1110 - Who will solve the most word scrambles and have a chance to win $10,000?</desc>
+    <category lang="en">Game Shows</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2830489188_0_20260423T200141587Z_80_imageprocessorclient-tvplus-linear-796646965d-c9w4p.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="US1400019FA" start="20261116030224 +0000" stop="20261116032615 +0000">
+    <title>Scrambled Up</title>
+    <sub-title>Scrambled Up Episode 1020</sub-title>
+    <desc>Episode 1020 - Who will solve the most word scrambles and have a chance to win $10,000?</desc>
+    <category lang="en">Game Shows</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2830489188_0_20260423T200141587Z_80_imageprocessorclient-tvplus-linear-796646965d-c9w4p.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="US1400019FA" start="20261116032615 +0000" stop="20261116035006 +0000">
+    <title>Scrambled Up</title>
+    <sub-title>Scrambled Up Episode 1104</sub-title>
+    <desc>Episode 1104 - Who will solve the most word scrambles and have a chance to win $10,000?</desc>
+    <category lang="en">Game Shows</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2830489188_0_20260423T200141587Z_80_imageprocessorclient-tvplus-linear-796646965d-c9w4p.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="US1400019FA" start="20261116035006 +0000" stop="20261116041356 +0000">
+    <title>Scrambled Up</title>
+    <sub-title>Scrambled Up Episode 1148</sub-title>
+    <desc>Episode 1148 - Who will solve the most word scrambles and have a chance to win $10,000?</desc>
+    <category lang="en">Game Shows</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2830489188_0_20260423T200141587Z_80_imageprocessorclient-tvplus-linear-796646965d-c9w4p.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="US7000229B" start="20261115231700 +0000" stop="20261115234200 +0000">
+    <title>Let's Make a Deal</title>
+    <desc>Contestants dressed in outrageous costumes trade items for either more valuable prizes or possibly a zonk.</desc>
+    <category lang="en">Game Shows</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2889180220_2_20260507T114357966Z_82_imageprocessorclient-tvplus-linear-796646965d-v2sx8.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="US7000229B" start="20261115234200 +0000" stop="20261116000800 +0000">
+    <title>Let's Make a Deal</title>
+    <desc>Contestants dressed in outrageous costumes trade items for either more valuable prizes or possibly a zonk.</desc>
+    <category lang="en">Game Shows</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2889180220_2_20260507T114357966Z_82_imageprocessorclient-tvplus-linear-796646965d-v2sx8.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+<programme channel="US7000229B" start="20261116000800 +0000" stop="20261116003300 +0000">
+    <title>Let's Make a Deal</title>
+    <desc>Contestants dressed in outrageous costumes trade items for either more valuable prizes or possibly a zonk.</desc>
+    <category lang="en">Game Shows</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2889180220_2_20260507T114357966Z_82_imageprocessorclient-tvplus-linear-796646965d-v2sx8.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="US7000229B" start="20261116003300 +0000" stop="20261116005900 +0000">
+    <title>Let's Make a Deal</title>
+    <desc>Contestants dressed in outrageous costumes trade items for either more valuable prizes or possibly a zonk.</desc>
+    <category lang="en">Game Shows</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2889180220_2_20260507T114357966Z_82_imageprocessorclient-tvplus-linear-796646965d-v2sx8.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="US7000229B" start="20261116005900 +0000" stop="20261116012500 +0000">
+    <title>Let's Make a Deal</title>
+    <desc>Contestants dressed in outrageous costumes trade items for either more valuable prizes or possibly a zonk.</desc>
+    <category lang="en">Game Shows</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2889180220_2_20260507T114357966Z_82_imageprocessorclient-tvplus-linear-796646965d-v2sx8.jpeg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme channel="US7000229B" start="20261116012500 +0000" stop="20261116015100 +0000">
+    <title>Let's Make a Deal</title>
+    <desc>Contestants dressed in outrageous costumes trade items for either more valuable prizes or possibly a zonk.</desc>
+    <category lang="en">Game Shows</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2889180220_2_20260507T114357966Z_82_imageprocessorclient-tvplus-linear-796646965d-v2sx8.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="US7000229B" start="20261116015100 +0000" stop="20261116021600 +0000">
+    <title>Let's Make a Deal</title>
+    <desc>Contestants dressed in outrageous costumes trade items for either more valuable prizes or possibly a zonk.</desc>
+    <category lang="en">Game Shows</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2889180220_2_20260507T114357966Z_82_imageprocessorclient-tvplus-linear-796646965d-v2sx8.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="US7000229B" start="20261116021600 +0000" stop="20261116024200 +0000">
+    <title>Let's Make a Deal</title>
+    <desc>Contestants dressed in outrageous costumes trade items for either more valuable prizes or possibly a zonk.</desc>
+    <category lang="en">Game Shows</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2889180220_2_20260507T114357966Z_82_imageprocessorclient-tvplus-linear-796646965d-v2sx8.jpeg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme channel="US7000229B" start="20261116024200 +0000" stop="20261116030900 +0000">
+    <title>Let's Make a Deal</title>
+    <desc>Contestants dressed in outrageous costumes trade items for either more valuable prizes or possibly a zonk.</desc>
+    <category lang="en">Game Shows</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2889180220_2_20260507T114357966Z_82_imageprocessorclient-tvplus-linear-796646965d-v2sx8.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+<programme channel="US7000229B" start="20261116030900 +0000" stop="20261116033400 +0000">
+    <title>Let's Make a Deal</title>
+    <desc>Contestants dressed in outrageous costumes trade items for either more valuable prizes or possibly a zonk.</desc>
+    <category lang="en">Game Shows</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2889180220_2_20260507T114357966Z_82_imageprocessorclient-tvplus-linear-796646965d-v2sx8.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+<programme channel="US7000229B" start="20261116033400 +0000" stop="20261116040000 +0000">
+    <title>Let's Make a Deal</title>
+    <desc>Contestants dressed in outrageous costumes trade items for either more valuable prizes or possibly a zonk.</desc>
+    <category lang="en">Game Shows</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2889180220_2_20260507T114357966Z_82_imageprocessorclient-tvplus-linear-796646965d-v2sx8.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+<programme channel="US7000229B" start="20261116040000 +0000" stop="20261116042600 +0000">
+    <title>Let's Make a Deal</title>
+    <desc>Contestants dressed in outrageous costumes trade items for either more valuable prizes or possibly a zonk.</desc>
+    <category lang="en">Game Shows</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2889180220_2_20260507T114357966Z_82_imageprocessorclient-tvplus-linear-796646965d-v2sx8.jpeg" />
+    <rating>
+      <value>NA</value>
     </rating>
   </programme>
 <programme channel="USBC1300012VK" start="20261115222650 +0000" stop="20261116000909 +0000">
