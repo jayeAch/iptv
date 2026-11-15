@@ -26,4 +26,5 @@ CATEGORY_EXCLUDE_LIST = [
     "Outdoors",
     "Food & Travel",
     "Local News",
+    "Black Entertainment",
 ]
