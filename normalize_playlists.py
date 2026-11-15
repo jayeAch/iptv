@@ -327,6 +327,8 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
     # specific (a bare 'faith' or 'jesus' would hit Judge Faith / Black Jesus).
     ('Faith', _words("""
         bet gospel
+        jewish life tv
+        trinity broadcast network
         cbn
         catholic tv
         christian youth
@@ -556,6 +558,7 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
     """)),
     ('Comedy', _words("""
         comedy central
+        just for laughs comedy
         comedy vault
         spin city
         dry bar comedy
