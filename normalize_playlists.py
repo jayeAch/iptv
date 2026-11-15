@@ -434,6 +434,7 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
         pluto tv overnaturlig
         a haunting
         alien files
+        unxplained zone
         alien nation
         ancient aliens
         bigfoot
@@ -472,6 +473,7 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
         cold case files
         cold justice
         cops
+        48 hours
         court tv
         crime 24/7
         crimes cults killers
