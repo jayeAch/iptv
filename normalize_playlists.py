@@ -267,16 +267,6 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
         shaw brothers
         bruce lee
         jackie chan
-        karate
-        kickboxing
-        taekwondo
-        judo
-        jiu jitsu
-        jiu-jitsu
-        muay thai
-        fight club
-        combatv
-        united fight alliance
         hong kong fight club
     """)),
     ('Sports', _words("""
@@ -574,6 +564,7 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
         a haunting
         alien files
         unxplained zone
+        pluto tv alien invasion
         alien nation
         ancient aliens
         bigfoot
@@ -595,9 +586,13 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
         monsters are real
         most haunted
         paranormal
+        ghosts are real
+        mysterious worlds
         psychic kids
         the dead files
         the unexplained
+        the curse of oak island
+        the unxplained with william shatner
         ufo files
         ufo hunters
         unexplained files
