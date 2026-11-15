@@ -628,6 +628,7 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
     ('Reality TV', _words("""
         reality
         reality tv
+        all weddings we tv
         amc reality
         real housewives
         real housewives vault
@@ -741,8 +742,6 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
         romantic comedy
         romantic comedies
         love stories
-        wedding
-        weddings
         bridal
         a fine romance
     """)),
@@ -808,6 +807,7 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
         true blood
         sleepy hollow
         grimm
+        teen wolf
         roswell
         roswell new mexico
         forever knight
@@ -1003,6 +1003,8 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
     """)),
     ('Comedy', _words("""
         comedy central
+        the nanny
+        the nanny & mr sheffield - a fine romance
         rifftrax
         just for laughs comedy
         comedy vault
