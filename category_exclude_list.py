@@ -13,7 +13,6 @@ CATEGORY_EXCLUDE_LIST = [
     "Talk Shows",
     "Ambiance",
     "Kung Fu Flicks",
-    "Anime & Gaming",
     "Sports",
     "Combat Sports",
     "Shopping",
