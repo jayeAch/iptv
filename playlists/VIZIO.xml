@@ -64,6 +64,10 @@
     <display-name>13 News KOLD Tucson</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/1664636385/1/267/150/0.jpg"/>
   </channel>
+<channel id="vizio.93WBAY">
+    <display-name>ABC 2 WBAY-TV Green Bay</display-name>
+    <icon src="https://images.vizio.com/v4/btv/1/1664636392/1/267/150/0.jpg"/>
+  </channel>
 <channel id="vizio.93KWCH">
     <display-name>12 News KWCH Wichita</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/1664636384/1/267/150/0.jpg"/>
@@ -612,16 +616,6 @@
       <value>NR (NOT RATED)</value>
     </rating>
   </programme>
-<programme start="20261115090322 +0000" stop="20261115092851 +0000" channel="vizio.149station_1647">
-    <title lang="en">America Says</title>
-    <desc lang="en">Two teams of friends and family race against a clock to guess how America filled in the blanks on a series of survey questions covering every topic under the sun. John Michael Higgins hosts.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205091744921,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E471</episode-num>
-    <episode-num system="xmltv_ns">0.470.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
 <programme start="20261115092851 +0000" stop="20261115095335 +0000" channel="vizio.149station_1647">
     <title lang="en">America Says</title>
     <desc lang="en">John Michael Higgins hosts as two teams of friends and family race against a clock to guess how America filled in the blanks on a series of survey questions covering every topic under the sun.</desc>
@@ -888,16 +882,6 @@
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205091743739,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <episode-num system="onscreen">S01E498</episode-num>
     <episode-num system="xmltv_ns">0.497.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261115090000 +0000" stop="20261115093000 +0000" channel="vizio.149station_1648">
-    <title lang="en">The Steve Harvey Show</title>
-    <desc lang="en">A reunion of Steve's old band is jeopardized by some long-standing disagreements.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205105342709,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E110</episode-num>
-    <episode-num system="xmltv_ns">0.109.</episode-num>
     <rating>
       <value>TV-PG</value>
     </rating>
@@ -1854,14 +1838,6 @@
     <episode-num system="xmltv_ns">0.21.</episode-num>
     <rating>
       <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261115090000 +0000" stop="20261115093000 +0000" channel="vizio.243MAT_BARB">
-    <title lang="en">Wellie Wishers</title>
-    <desc lang="en">Meet the WellieWishers™ - a sweet and lively group of friends who play in their whimsical garden. While the girls play, they learn about the natural world and experience the magic of their imaginations. Their sometimes silly, sometimes serious adventures allow them to explore the wonders of their garden - where all living things thrive and grow, along with creativity, friendship, and kindness.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204361148980,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-Y</value>
     </rating>
   </programme>
 <programme start="20261115093000 +0000" stop="20261115100000 +0000" channel="vizio.243MAT_BARB">
@@ -3017,14 +2993,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20261115090000 +0000" stop="20261115093000 +0000" channel="vizio.93KIROB">
-    <title lang="en">Latest Local News</title>
-    <desc lang="en">Newscast covering important local topics and events</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205181084497,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
 <programme start="20261115093000 +0000" stop="20261115100000 +0000" channel="vizio.93KIROB">
     <title lang="en">Latest Local News</title>
     <desc lang="en">Newscast covering important local topics and events</desc>
@@ -3173,14 +3141,6 @@
     <title lang="en">Latest Local News</title>
     <desc lang="en">Newscast covering important local topics and events</desc>
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205183178203,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261115090000 +0000" stop="20261115093000 +0000" channel="vizio.93KIVI">
-    <title lang="en">Horsing Around</title>
-    <desc lang="en">White horse gives lip; horse drinking soda; Chance, the horse likes to play with sticks; two horses go "round &amp; round" head to tail.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205176955754,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
       <value>TV-PG</value>
     </rating>
@@ -3369,14 +3329,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20261115083000 +0000" stop="20261115093000 +0000" channel="vizio.93KMGH">
-    <title lang="en">Denver7 News Weekends</title>
-    <desc lang="en">Denver 7 News - The latest local and national news and local weather, traffic and sports.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205176960655,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
 <programme start="20261115093000 +0000" stop="20261115100000 +0000" channel="vizio.93KMGH">
     <title lang="en">Good to Know: Positive stories</title>
     <desc lang="en">Denver 7 News - The latest local and national news and local weather, traffic and sports.</desc>
@@ -3463,14 +3415,6 @@
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205176960685,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
       <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261115090000 +0000" stop="20261115093000 +0000" channel="vizio.93KMOV">
-    <title lang="en">The Good Side</title>
-    <desc lang="en">The Good Side</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205178010812,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-G</value>
     </rating>
   </programme>
 <programme start="20261115093000 +0000" stop="20261115100000 +0000" channel="vizio.93KMOV">
@@ -3729,14 +3673,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20261115090000 +0000" stop="20261115093000 +0000" channel="vizio.93KOLD">
-    <title lang="en">The Good Side</title>
-    <desc lang="en">The Good Side</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205178020910,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
 <programme start="20261115093000 +0000" stop="20261115100000 +0000" channel="vizio.93KOLD">
     <title lang="en">An Arizona's Family Original with Yetta Gibson</title>
     <desc lang="en">An Arizona's Family Original with Yetta Gibson</desc>
@@ -3877,14 +3813,6 @@
     <title lang="en">We the People 2026</title>
     <desc lang="en">We the People 2026</desc>
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205178020965,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
-<programme start="20261115090000 +0000" stop="20261115093000 +0000" channel="vizio.93KPTVKPDX">
-    <title lang="en">The Good Side</title>
-    <desc lang="en">The Good Side</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205178022236,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
       <value>TV-G</value>
     </rating>
@@ -4129,14 +4057,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20261115090000 +0000" stop="20261115093000 +0000" channel="vizio.93KTVQ">
-    <title lang="en">Horsing Around</title>
-    <desc lang="en">White horse gives lip; horse drinking soda; Chance, the horse likes to play with sticks; two horses go "round &amp; round" head to tail.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205176962728,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
 <programme start="20261115093000 +0000" stop="20261115100000 +0000" channel="vizio.93KTVQ">
     <title lang="en">Curious Cats</title>
     <desc lang="en">Cat tries to chase words on computer screen; cat puts plastic tube on head; cat rubs face back and forth.</desc>
@@ -4319,14 +4239,6 @@
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205176962710,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
       <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261115090000 +0000" stop="20261115093000 +0000" channel="vizio.93KWCH">
-    <title lang="en">The Good Side</title>
-    <desc lang="en">The Good Side</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205178016272,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-G</value>
     </rating>
   </programme>
 <programme start="20261115093000 +0000" stop="20261115100000 +0000" channel="vizio.93KWCH">
@@ -4670,14 +4582,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20261115090704 +0000" stop="20261115093305 +0000" channel="vizio.93VZHUS">
-    <title lang="en">Candice Tells All</title>
-    <sub-title lang="en">A Kitchen for Mom</sub-title>
-    <desc lang="en">Watch Candice turn her mom's outdated kitchen into an inviting party space.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204713392814,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E01</episode-num>
-    <episode-num system="xmltv_ns">1.0.</episode-num>
-  </programme>
 <programme start="20261115093305 +0000" stop="20261115095858 +0000" channel="vizio.93VZHUS">
     <title lang="en">Candice Tells All</title>
     <sub-title lang="en">Colour for Colour Phobes</sub-title>
@@ -4862,14 +4766,6 @@
       <value>TV-G</value>
     </rating>
   </programme>
-<programme start="20261115090000 +0000" stop="20261115093000 +0000" channel="vizio.93WALA">
-    <title lang="en">The Good Side</title>
-    <desc lang="en">The Good Side</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205179219750,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
 <programme start="20261115093000 +0000" stop="20261115100000 +0000" channel="vizio.93WALA">
     <title lang="en">An Arizona's Family Original with Yetta Gibson</title>
     <desc lang="en">An Arizona's Family Original with Yetta Gibson</desc>
@@ -5010,6 +4906,150 @@
     <title lang="en">We the People 2026</title>
     <desc lang="en">We the People 2026</desc>
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205179219715,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115093500 +0000" stop="20261115100000 +0000" channel="vizio.93WBAY">
+    <title lang="en">First Alert Weather 24/7</title>
+    <desc lang="en">Your source for live local news, weather, breaking news, sports, and more.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205184378093,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115100000 +0000" stop="20261115103000 +0000" channel="vizio.93WBAY">
+    <title lang="en">InvestigateTV+ Weekend</title>
+    <desc lang="en">An examination and discussion of politics, personal finance, reports of government corruption, consumer alerts and healthcare issues.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205178472685,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115103000 +0000" stop="20261115110000 +0000" channel="vizio.93WBAY">
+    <title lang="en">Aging Untold</title>
+    <desc lang="en">Experts share aging, health and caregiving advice for people entering a new chapter of life.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205178472682,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115110000 +0000" stop="20261115113000 +0000" channel="vizio.93WBAY">
+    <title lang="en">The Good Side</title>
+    <desc lang="en">Your source for live local news, weather, breaking news, sports, and more.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205178469250,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115113000 +0000" stop="20261115120000 +0000" channel="vizio.93WBAY">
+    <title lang="en">Uncovered: ANF Investigates</title>
+    <desc lang="en">Your source for live local news, weather, breaking news, sports, and more.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205185730798,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115120000 +0000" stop="20261115130000 +0000" channel="vizio.93WBAY">
+    <title lang="en">Action 2 News This Morning Weekend Edition</title>
+    <desc lang="en">The top local, regional and national news events are presented by the Action 2 Weekend News Team, as well as the latest local and national weather forecasts, sports reports and timely updates on the travel conditions on area roadways.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205185730793,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115130000 +0000" stop="20261115133000 +0000" channel="vizio.93WBAY">
+    <title lang="en">An Arizona's Family Original with Yetta Gibson</title>
+    <desc lang="en">Your source for live local news, weather, breaking news, sports, and more.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205178469262,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115133000 +0000" stop="20261115140000 +0000" channel="vizio.93WBAY">
+    <title lang="en">InvestigateTV+</title>
+    <desc lang="en">An examination and discussion of politics, personal finance, reports of government corruption, consumer alerts and healthcare issues.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205178472661,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115140000 +0000" stop="20261115150000 +0000" channel="vizio.93WBAY">
+    <title lang="en">Action 2 News This Morning Weekend Edition</title>
+    <desc lang="en">The top local, regional and national news events are presented by the Action 2 Weekend News Team, as well as the latest local and national weather forecasts, sports reports and timely updates on the travel conditions on area roadways.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205185730816,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115150000 +0000" stop="20261115160000 +0000" channel="vizio.93WBAY">
+    <title lang="en">Uncovered: ANF Investigates</title>
+    <desc lang="en">Your source for live local news, weather, breaking news, sports, and more.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205178469301,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115160000 +0000" stop="20261115163000 +0000" channel="vizio.93WBAY">
+    <title lang="en">We the People</title>
+    <desc lang="en">We the People - Celebrating 250 Years</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205178469272,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115163000 +0000" stop="20261115170000 +0000" channel="vizio.93WBAY">
+    <title lang="en">Aging Untold</title>
+    <desc lang="en">Experts share aging, health and caregiving advice for people entering a new chapter of life.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205178469258,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115170000 +0000" stop="20261115173000 +0000" channel="vizio.93WBAY">
+    <title lang="en">The Good Side</title>
+    <desc lang="en">Your source for live local news, weather, breaking news, sports, and more.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205178472644,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115173000 +0000" stop="20261115183000 +0000" channel="vizio.93WBAY">
+    <title lang="en">On the Record</title>
+    <desc lang="en">Your source for live local news, weather, breaking news, sports, and more.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205178472614,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115183000 +0000" stop="20261115190000 +0000" channel="vizio.93WBAY">
+    <title lang="en">Politics Unplugged</title>
+    <desc lang="en">Your source for live local news, weather, breaking news, sports, and more.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205178469295,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115190000 +0000" stop="20261115193000 +0000" channel="vizio.93WBAY">
+    <title lang="en">We the People</title>
+    <desc lang="en">We the People - Celebrating 250 Years</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205178469279,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115193000 +0000" stop="20261115200000 +0000" channel="vizio.93WBAY">
+    <title lang="en">An Arizona's Family Original with Yetta Gibson</title>
+    <desc lang="en">Your source for live local news, weather, breaking news, sports, and more.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205178469305,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115200000 +0000" stop="20261115210000 +0000" channel="vizio.93WBAY">
+    <title lang="en">We the People 2026</title>
+    <desc lang="en">Your source for live local news, weather, breaking news, sports, and more.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205178469278,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
       <value>TV-G</value>
     </rating>
@@ -5261,17 +5301,6 @@
     <episode-num system="xmltv_ns">1.3.</episode-num>
     <rating>
       <value>TV-G</value>
-    </rating>
-  </programme>
-<programme start="20261115084237 +0000" stop="20261115093241 +0000" channel="vizio.93WBTV132">
-    <title lang="en">Unchained Reaction</title>
-    <sub-title lang="en">Movie Mayhem</sub-title>
-    <desc lang="en">Two teams compete to build machines with the theme of movie mayhem.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%20112819939,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <rating>
-      <value>TV-PG</value>
     </rating>
   </programme>
 <programme start="20261115093241 +0000" stop="20261115102116 +0000" channel="vizio.93WBTV132">
@@ -5886,14 +5915,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20261115090000 +0000" stop="20261115093000 +0000" channel="vizio.93WFSB">
-    <title lang="en">The Good Side</title>
-    <desc lang="en">Your source for live local news, weather, breaking news, sports, and more.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205178017923,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
 <programme start="20261115093000 +0000" stop="20261115100000 +0000" channel="vizio.93WFSB">
     <title lang="en">An Arizona's Family Original with Yetta Gibson</title>
     <desc lang="en">Your source for live local news, weather, breaking news, sports, and more.</desc>
@@ -6028,14 +6049,6 @@
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205178017951,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
       <value>TV-G</value>
-    </rating>
-  </programme>
-<programme start="20261115090000 +0000" stop="20261115093000 +0000" channel="vizio.93WFTVB">
-    <title lang="en">National News Now</title>
-    <desc lang="en">National headlines from reporters who are embedded in the communities they cover.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205179799033,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-PG</value>
     </rating>
   </programme>
 <programme start="20261115093000 +0000" stop="20261115100000 +0000" channel="vizio.93WFTVB">
@@ -6262,14 +6275,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20261115090000 +0000" stop="20261115093000 +0000" channel="vizio.93WHNS">
-    <title lang="en">The Good Side</title>
-    <desc lang="en">The Good Side</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205178017074,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
 <programme start="20261115093000 +0000" stop="20261115100000 +0000" channel="vizio.93WHNS">
     <title lang="en">An Arizona's Family Original with Yetta Gibson</title>
     <desc lang="en">An Arizona's Family Original with Yetta Gibson</desc>
@@ -6420,14 +6425,6 @@
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205178016860,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
       <value>TV-G</value>
-    </rating>
-  </programme>
-<programme start="20261115090000 +0000" stop="20261115093000 +0000" channel="vizio.93WJAXB">
-    <title lang="en">Latest Local News</title>
-    <desc lang="en">Newscast covering important local topics and events</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205183176971,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-PG</value>
     </rating>
   </programme>
 <programme start="20261115093000 +0000" stop="20261115100000 +0000" channel="vizio.93WJAXB">
@@ -6646,14 +6643,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20261115090000 +0000" stop="20261115093000 +0000" channel="vizio.93WVUE">
-    <title lang="en">The Good Side</title>
-    <desc lang="en">The Good Side</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205178017350,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
 <programme start="20261115093000 +0000" stop="20261115100000 +0000" channel="vizio.93WVUE">
     <title lang="en">An Arizona's Family Original with Yetta Gibson</title>
     <desc lang="en">An Arizona's Family Original with Yetta Gibson</desc>
@@ -6794,14 +6783,6 @@
     <title lang="en">We the People 2026</title>
     <desc lang="en">We the People 2026</desc>
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205178017352,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
-<programme start="20261115090000 +0000" stop="20261115093000 +0000" channel="vizio.93WXIX">
-    <title lang="en">The Good Side</title>
-    <desc lang="en">Your source for live local news, weather, breaking news, sports, and more.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205178016105,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
       <value>TV-G</value>
     </rating>
@@ -7068,17 +7049,6 @@
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205176956719,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
       <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261115090608 +0000" stop="20261115092939 +0000" channel="vizio.93XPETS">
-    <title lang="en">Ready, Set, Pet</title>
-    <sub-title lang="en">First Four-Legged Friend</sub-title>
-    <desc lang="en">Model, Denise Bidot is surprising her daughter Joselyn with her first four-legged friend.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205151645866,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <rating>
-      <value>TV-G</value>
     </rating>
   </programme>
 <programme start="20261115092939 +0000" stop="20261115095310 +0000" channel="vizio.93XPETS">
@@ -7757,17 +7727,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20261115083908 +0000" stop="20261115092659 +0000" channel="vizio.93amg00136c49">
-    <title lang="en">Eli Roth Presents: My Possessed Pet</title>
-    <sub-title lang="en">Eight-Legged Exorcism</sub-title>
-    <desc lang="en">A man and his pet tarantula invoke the wrath of an ancient Greek monster.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205081092320,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme start="20261115092659 +0000" stop="20261115100728 +0000" channel="vizio.93amg00136c49">
     <title lang="en">Eli Roth Presents: My Possessed Pet</title>
     <sub-title lang="en">Nitro</sub-title>
@@ -8384,14 +8343,6 @@
       <value>TV-G</value>
     </rating>
   </programme>
-<programme start="20261115071720 +0000" stop="20261115093151 +0000" channel="vizio.93amg24822c1">
-    <title lang="en">Jesse James</title>
-    <desc lang="en">Jesse James discusses his life and transformation from motorcycle legend to world-class gunsmith.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204874396100,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
 <programme start="20261115093151 +0000" stop="20261115112716 +0000" channel="vizio.93amg24822c1">
     <title lang="en">Ron Howard</title>
     <desc lang="en">Ron Howard shares all access stories, FBI protection, an Oscars snub, and a life regret, with family insights.</desc>
@@ -8438,17 +8389,6 @@
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204837289792,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
       <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261115090030 +0000" stop="20261115093030 +0000" channel="vizio.93amg27048c3">
-    <title lang="en">My Hero Academia</title>
-    <sub-title lang="en">Yeah, Just Do Your Best, Iida! (English Dubbed)</sub-title>
-    <desc lang="en">Class 1-A has to elect a class representative, and everyone wants the job! How will they choose?</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205070579026,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E09</episode-num>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-    <rating>
-      <value>PG</value>
     </rating>
   </programme>
 <programme start="20261115093030 +0000" stop="20261115100030 +0000" channel="vizio.93amg27048c3">
@@ -9208,17 +9148,6 @@
       <value>NR</value>
     </rating>
   </programme>
-<programme start="20261115083122 +0000" stop="20261115092453 +0000" channel="vizio.96Station_88885576">
-    <title lang="en">Z Nation</title>
-    <sub-title lang="en">Pacifica</sub-title>
-    <desc lang="en">10K and Red attend a ceremony for those lost in Altura. Warren, Doc, Citizen Z and George arrive in Pacifica.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204279150666,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S05E04</episode-num>
-    <episode-num system="xmltv_ns">4.3.</episode-num>
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
 <programme start="20261115092453 +0000" stop="20261115101724 +0000" channel="vizio.96Station_88885576">
     <title lang="en">Z Nation</title>
     <sub-title lang="en">Killing All the Books</sub-title>
@@ -9558,17 +9487,6 @@
       <value>R</value>
     </rating>
   </programme>
-<programme start="20261115090000 +0000" stop="20261115092914 +0000" channel="vizio.96Station_888855945">
-    <title lang="en">Sonic the Hedgehog</title>
-    <sub-title lang="en">Hooked on Sonics</sub-title>
-    <desc lang="en">Sonic is hired into an obvious trap when a frustrated Robotnik decides to appeal to the Hedgehog's ego and announces a "race to determine the fastest on Mobius".</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204749997404,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <episode-num system="xmltv_ns">0.6.</episode-num>
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
 <programme start="20261115092914 +0000" stop="20261115095829 +0000" channel="vizio.96Station_888855945">
     <title lang="en">Sonic the Hedgehog</title>
     <sub-title lang="en">Harmonic Sonic</sub-title>
@@ -9829,17 +9747,6 @@
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204749997417,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <episode-num system="onscreen">S01E28</episode-num>
     <episode-num system="xmltv_ns">0.27.</episode-num>
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-<programme start="20261115085939 +0000" stop="20261115093153 +0000" channel="vizio.96Station_9993050">
-    <title lang="en">The Rifleman</title>
-    <sub-title lang="en">The Guest</sub-title>
-    <desc lang="en">Mario Arsatti claims to be an acquaintance of a friend from Lucas' past. But he has been hired to kill Lucas.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%203126000465,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S05E23</episode-num>
-    <episode-num system="xmltv_ns">4.22.</episode-num>
     <rating>
       <value>NR</value>
     </rating>
@@ -10927,16 +10834,6 @@
     <episode-num system="xmltv_ns">4.0.</episode-num>
     <rating>
       <value>TV-Y</value>
-    </rating>
-  </programme>
-<programme start="20261115090000 +0000" stop="20261115093000 +0000" channel="vizio.98wurl_scripps_gritxtra_1">
-    <title lang="en">Zane Grey Theatre</title>
-    <desc lang="en">A woman refuses to let cholera victims die alone in the desert.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204056405470,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S05E08</episode-num>
-    <episode-num system="xmltv_ns">4.7.</episode-num>
-    <rating>
-      <value>TV-PG</value>
     </rating>
   </programme>
 <programme start="20261115093000 +0000" stop="20261115100000 +0000" channel="vizio.98wurl_scripps_gritxtra_1">
