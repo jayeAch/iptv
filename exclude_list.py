@@ -12,7 +12,7 @@ GLOBAL_EXCLUDE_LIST = [
   "Star Trek",
   "Farscape",
   "Stargate",
-  "21 Jump Street"
+  "21 Jump Street",
   "ALF",
   "Anger Management",
   "America's Funniest Home Videos",
@@ -33,5 +33,10 @@ GLOBAL_EXCLUDE_LIST = [
   "The Millers",
   "Always Funny",
   "South Park",
+  "Are You The One?",
+  "Baywatch",
+  "Beauty and the Beast",
+  "Becker",
+  "Best of MTV",
 ]
 
