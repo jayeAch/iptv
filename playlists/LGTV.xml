@@ -32,10 +32,6 @@
     <display-name>Shout! Movies</display-name>
     <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Shout_Movies/LG_SM_Logo_400x200.png"/>
   </channel>
-<channel id="50centaction_action_US">
-    <display-name>50 Cent Action</display-name>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/50_Cent_Action/50CentAction_LGChannels_Logo_White_400x200.png"/>
-  </channel>
 <channel id="99992286">
     <display-name>Xumo Free Action Movies</display-name>
     <icon src="https://image.xumo.com/v1/channels/channel/99992286/400x200.png?type=white_cropped"/>
@@ -47,14 +43,6 @@
 <channel id="mytimemovienetworkus_mytimea_US">
     <display-name>MyTime Movie Network</display-name>
     <icon src="https://d23edfjfpc1xrv.cloudfront.net/MyTime_Logo_300x200.png"/>
-  </channel>
-<channel id="99992288">
-    <display-name>Xumo Free Black Cinema</display-name>
-    <icon src="https://image.xumo.com/v1/channels/channel/99992288/400x200.png?type=white_cropped"/>
-  </channel>
-<channel id="us-maverick_maverick_black_cinema_2">
-    <display-name>Maverick Black Cinema</display-name>
-    <icon src="http://img.platform.wurl.dev/channel/527/lg/bce7d5/LG-Logo-PNG-100x100_v2.png"/>
   </channel>
 <channel id="99993102">
     <display-name>Fairground AI TV</display-name>
@@ -92,10 +80,6 @@
     <display-name>Xumo Free Westerns</display-name>
     <icon src="https://image.xumo.com/v1/channels/channel/99992285/400x200.png?type=white_cropped"/>
   </channel>
-<channel id="us-amc_allblk_gems_1">
-    <display-name>AllBlk Gems</display-name>
-    <icon src="http://img.platform.wurl.dev/channel/1180/lg/f13d7e/LG-Logo-PNG-100x100_v2.png"/>
-  </channel>
 <channel id="FREQ888">
     <display-name>Alien Nation by DUST</display-name>
     <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/gunpowderandsky/channels/Alien-Nation_white_logo_800x200.png"/>
@@ -132,6 +116,10 @@
     <display-name>Dove Channel</display-name>
     <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/cineverse/channels/dove-400x200.png"/>
   </channel>
+<channel id="tribeca_tribe_US">
+    <display-name>Tribeca</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/tribeca/Tribeca_Logo_800w200h.png"/>
+  </channel>
 <channel id="FREQ874">
     <display-name>Horror by ALTER</display-name>
     <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/gunpowderandsky/channels/Horror-By-ALTER_white_logo_800x200.png"/>
@@ -139,10 +127,6 @@
 <channel id="electricnoweng_eleno_US">
     <display-name>Electric Now</display-name>
     <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/electric/ENOW_White_logo_800x200.png"/>
-  </channel>
-<channel id="us-scripps_bouncexl_1">
-    <display-name>Bounce XL</display-name>
-    <icon src="http://img.platform.wurl.dev/channel/938/lg/cbdf14/LG-Logo-PNG-100x100_v1.png"/>
   </channel>
 <channel id="portraittv_amg30859c1_us">
     <display-name>Portrait TV</display-name>
@@ -191,10 +175,6 @@
 <channel id="FREQ901">
     <display-name>Yu-Gi-Oh!</display-name>
     <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/cineverse/channels/yu-gi-oh-400x200.png"/>
-  </channel>
-<channel id="99992283">
-    <display-name>It's Showtime at the Apollo</display-name>
-    <icon src="https://image.xumo.com/v1/channels/channel/99992283/400x200.png?type=white_cropped"/>
   </channel>
 <channel id="abcentertains_entert_US">
     <display-name>ABC Entertains Australia</display-name>
@@ -312,14 +292,4 @@
     <display-name>Court TV</display-name>
     <icon src="http://img.platform.wurl.dev/channel/1516/lg/0f59a3/LG-Logo-PNG-100x100_v2.png"/>
   </channel>
-<programme start="20261115144445 +0000" stop="20261115163438 +0000" channel="clasicos_amg00658c9eng_US">
-    <title lang="en">¡Ay Pena, Penita, Pena!</title>
-    <desc lang="en">Una gitana y dos mexicanos compran un billete de lotería premiado.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/AMG00658C9ENG/resized_41459cbda3f9457baf3e1af49915ce7e0b9f77578fa9a8e34ca175b855495c19_65f046e6edfa5b5768804d404cce7a93b70eb38616x9png_768_432.jpeg"/>
-    <episode-num system="dd_progid">AMG00658C9ENG_65f046e6edfa5b5768804d404cce7a93b70eb386_US</episode-num>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
 </tv>
