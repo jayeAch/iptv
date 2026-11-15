@@ -8,6 +8,10 @@
     <display-name>The Asylum</display-name>
     <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Asylum_Movie_Channel_Logo_LG_400x200.png"/>
   </channel>
+<channel id="us-amc_scaresbyshudder_1">
+    <display-name>Scares by Shudder</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/1566/lg/835604/LG-Logo-PNG-100x100_v1.png"/>
+  </channel>
 <channel id="tribeca_tribe_US">
     <display-name>Tribeca</display-name>
     <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/tribeca/Tribeca_Logo_800w200h.png"/>
@@ -40,6 +44,10 @@
     <display-name>PGA TOUR</display-name>
     <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/pgatour/channels/1006-400x200.png"/>
   </channel>
+<channel id="usatv_usatv_US">
+    <display-name>Team USA TV</display-name>
+    <icon src="https://d2gqmql520my5n.cloudfront.net/USATV/TeamUSATVLogoWhite_800x200.png"/>
+  </channel>
 <channel id="flosportschannel_amg02278c7_us">
     <display-name>FloSports Channel</display-name>
     <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/flosports/FloSportsChannelLogoWhite400x200.png"/>
@@ -47,6 +55,10 @@
 <channel id="espn8ocho_amg00497c24_us">
     <display-name>ESPN 8: The Ocho</display-name>
     <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/ABC_LG/ESPN/Espn_400X200.png"/>
+  </channel>
+<channel id="daznringside_dznrs_US">
+    <display-name>DAZN Ringside</display-name>
+    <icon src="https://d2epwduv7bstma.cloudfront.net/Dazn_Ringside/LG/DAZN_RINGSIDE_WHITE_800x264_TV.png"/>
   </channel>
 <channel id="dpworldtourgolf_dpwtg_US">
     <display-name>DP World Tour</display-name>
@@ -96,16 +108,6 @@
     <episode-num system="dd_progid">XM048WPP8Z4T8N</episode-num>
     <rating>
       <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261115061855 +0000" stop="20261115080503 +0000" channel="99992286">
-    <title lang="en">Joe Baby</title>
-    <desc lang="en">A money collector for a private investigator is hired to track down 10 million dollars stolen in a dodgy real estate deal, opening a complex can of worms.</desc>
-    <category lang="en">Movies</category>
-    <icon src="https://image.xumo.com/v1/assets/asset/XM01PS6DF5SOKQ/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992286%2F768x432.jpg%3Ftype%3DchannelTile"/>
-    <episode-num system="dd_progid">XM01PS6DF5SOKQ</episode-num>
-    <rating>
-      <value>TV-14</value>
     </rating>
   </programme>
 <programme start="20261115075010 +0000" stop="20261115084438 +0000" channel="99993006">
@@ -163,16 +165,6 @@
     <episode-num system="dd_progid">dinos_196027_US</episode-num>
     <rating>
       <value>TV-G</value>
-    </rating>
-  </programme>
-<programme start="20261115075454 +0000" stop="20261115080407 +0000" channel="dpworldtourgolf_dpwtg_US">
-    <title lang="en">Luck of The Draw: Pieters vs Canter</title>
-    <desc lang="en">Thomas Pieters and Laurie Canter face off on the 620-yard par-5 18th hole at Jumeirah Golf Estates' Earth Course.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/DPWTG/resized_8de55f2ac6fc1b38bb483adc62e3125f6011fb3dcd72c9a57fae1f130e11440a_dpwt1920x1080002png_768_432.jpeg"/>
-    <episode-num system="dd_progid">DPWTG_DDP000069_US</episode-num>
-    <rating>
-      <value>TVG</value>
     </rating>
   </programme>
 <programme start="20261115075100 +0000" stop="20261115082300 +0000" channel="espn8ocho_amg00497c24_us">
@@ -249,32 +241,12 @@
     <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/CINETCNUS/resized_bb59ef9d08c9a9c1586ffff0e9e6aa25b18fce365cfd00b969131f995cc60b75_p33939448bh8aajpg_768_432.jpeg"/>
     <episode-num system="dd_progid">CINETCNUS_amg-SH065839380000_US</episode-num>
   </programme>
-<programme start="20261115060700 +0000" stop="20261115080727 +0000" channel="tribeca_tribe_US">
-    <title lang="en">Silent Hill Revelation</title>
-    <desc lang="en">When her adoptive father disappears, Sharon Da Silva is drawn into a strange and terrifying alternate reality that holds answers to the horrific nightmares that have plagued her since childhood.</desc>
-    <category lang="en">Mystery</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg02042/resized_images/resized_bfd2a2ceae02a4084b970c8ff32dcd3d64c535adfc054c578d446a121ee0b7a5_fmp21155png_768_432.jpeg"/>
-    <episode-num system="dd_progid">amg02042c61_AUFZ2xJdoWEag3CeGASyo4C_us</episode-num>
-    <rating>
-      <value>R</value>
-    </rating>
-  </programme>
 <programme start="20261115063000 +0000" stop="20261115085000 +0000" channel="us-cinedigm_entertainment_corp_germansoccerleague_1">
     <title lang="en">DFB-Pokal 2026/27 Full Match: FC Bayern Muenchen - 1. FC Magdeburg</title>
     <desc lang="en">Watch the Full Match of FC Bayern Muenchen - 1. FC Magdeburg in Round 2 of the 2026/27 DFB-Pokal season!</desc>
     <category lang="en">Sport</category>
     <icon src="http://img.platform.wurl.dev/channel/2387/lg/870ac1/LG-768x432_v1.png"/>
     <episode-num system="dd_progid">US-CineverseEntertainmentCorp-120537678-56870555-56845503</episode-num>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
-<programme start="20261115065726 +0000" stop="20261115080248 +0000" channel="us-rightsboosterltd_scl_1">
-    <title lang="en">Strongman Champions League</title>
-    <desc lang="en">A definite highlight in this FIBO edition in Germany, Strongman Champions League introduced its new rules for a special team item. Graham Hicks tries here to set a New World Record on the biggest log in the world, currently held by Krzysztof Radzikowski. Boosted also by the presence of the acclaimed in the strongman circles names of Mark Felix and Danis Zageris.</desc>
-    <category lang="en">ETC</category>
-    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/9192-11240/18826184-default_v1.jpg"/>
-    <episode-num system="dd_progid">US-RightsBoosterLimited-18826184-10401164-10299657</episode-num>
     <rating>
       <value>TV-G</value>
     </rating>
