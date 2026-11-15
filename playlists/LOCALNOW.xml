@@ -36,6 +36,10 @@
     <display-name>FilmRise True Crime</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/DDAE054E-F126-420F-89D8-72465BE2FD9A/3-1x1.png" />
   </channel>
+<channel id="localnow.7DB404D9-5CF0-414C-9A60-A05839756563">
+    <display-name>Kung Fu Movies</display-name>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7DB404D9-5CF0-414C-9A60-A05839756563/3-1x1.png" />
+  </channel>
 <channel id="localnow.3140CA51-BEBB-4FEE-B144-1B94C2B9D108">
     <display-name>Action Plus</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/3140CA51-BEBB-4FEE-B144-1B94C2B9D108/3-1x1.png" />
@@ -195,6 +199,13 @@
     <category lang="en">Horror</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/79549FA0-4EBE-48C3-957F-037BA02E827F/0-2x3.png" />
     <episode-num system="dd_progid">program-epg-horror-machine-20261115073000</episode-num>
+  </programme>
+<programme start="20261115070642 +0000" stop="20261115085722 +0000" channel="localnow.7DB404D9-5CF0-414C-9A60-A05839756563">
+    <title lang="en">Shaolin Temple</title>
+    <desc lang="en">A young man, hounded by a psychopathic general, learns martial arts at the Shaolin temple to avenge his father's death. To achieve this he forgoes a budding romance with his kungfu master's daughter, a shepherdess.</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7DB404D9-5CF0-414C-9A60-A05839756563/0-2x3.png" />
+    <episode-num system="dd_progid">program-epg-kung-fu-movies-20261115070642</episode-num>
   </programme>
 <programme start="20261115062600 +0000" stop="20261115082600 +0000" channel="localnow.AFE4F17B-882F-4DFF-9014-972E16331779">
     <title lang="en">Meek's Cutoff</title>

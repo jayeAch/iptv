@@ -12,9 +12,17 @@
     <display-name>Tribeca</display-name>
     <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/tribeca/Tribeca_Logo_800w200h.png"/>
   </channel>
+<channel id="historyandwarfarenowmainus_amg01515c89_us">
+    <display-name>History and Warfare</display-name>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/LG_HistoryWarfare_Logo_400x200.png"/>
+  </channel>
 <channel id="haunttvus_hntus_US">
     <display-name>Haunt TV US</display-name>
     <icon src="https://d2y2gft5545ze9.cloudfront.net/HauntTV_200pxHigh_LG_ChannelAssets_White.png"/>
+  </channel>
+<channel id="dinos_dinos_US">
+    <display-name>Dinos 24/7</display-name>
+    <icon src="https://d2i0hcnfudruct.cloudfront.net/Dinos/LG_Dinos/LG_DINOS_247_CHANNEL_ASSETSLG-Logo-PNG-800x200-(REV).png"/>
   </channel>
 <channel id="us-scripps_laffmore_1">
     <display-name>Laff More</display-name>
@@ -162,6 +170,26 @@
       <value>TV-G</value>
     </rating>
   </programme>
+<programme start="20261115070701 +0000" stop="20261115074132 +0000" channel="dinos_dinos_US">
+    <title lang="en">Walking with Monsters</title>
+    <desc lang="en">550 million years ago, our ancient ancestors evolved teeth and all manner of new weapons.</desc>
+    <category lang="en">Nature</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/dinos/resized_d971f5ee7614cbecf03e2b6d2e30a9e7e9f88a76d0e7a2b9195af9a1f10d90fb_bbcswalkingwithmonsterss001scid33061keyartlangenglishyace8p0uk7jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">dinos_196024_US</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115074132 +0000" stop="20261115081801 +0000" channel="dinos_dinos_US">
+    <title lang="en">Walking with Monsters</title>
+    <desc lang="en">Next it was the turn of the fish to grow larger and take over the role of top predator.</desc>
+    <category lang="en">Nature</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/dinos/resized_d971f5ee7614cbecf03e2b6d2e30a9e7e9f88a76d0e7a2b9195af9a1f10d90fb_bbcswalkingwithmonsterss001scid33061keyartlangenglishyace8p0uk7jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">dinos_196027_US</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
 <programme start="20261115064451 +0000" stop="20261115073905 +0000" channel="haunttvus_hntus_US">
     <title lang="en">Unexplained Caught on Camera</title>
     <desc lang="en">Brave an abandoned asylum and go head-to-head with a door-slamming phantom.</desc>
@@ -180,6 +208,26 @@
     <episode-num system="dd_progid">HNTUS_HF_A01051347_US</episode-num>
     <rating>
       <value>PG</value>
+    </rating>
+  </programme>
+<programme start="20261115062431 +0000" stop="20261115072303 +0000" channel="historyandwarfarenowmainus_amg01515c89_us">
+    <title lang="en">Empire Builders: Los Angeles</title>
+    <desc lang="en">Natives, Spanish missions, and more shaped L.A.’s growth, leading to its identity as the home of Hollywood.</desc>
+    <category lang="en">History</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01515/resized_images/resized_5649d9724af5b8885caf648f8c9c3fb861765b21fa6591710467bb0e11b0d00a_mhy11d9n2qj9wvfi69qisp169jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg01515c89_amg01515c89_MHY11D9N2QJ9WVFI69QISP_20261115062431_us</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261115072303 +0000" stop="20261115083338 +0000" channel="historyandwarfarenowmainus_amg01515c89_us">
+    <title lang="en">Empire Builders: Los Angeles</title>
+    <desc lang="en">Many diverse forces shaped L.A., bringing cultural richness and tensions, and making it a global arts hub.</desc>
+    <category lang="en">History</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01515/resized_images/resized_23f09b3c14b099bc472cbbad2f501ba80a95fa8199465949ab5b985601bd9002_mhy11d9n2qj9wvgs435kmn169jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg01515c89_amg01515c89_MHY11D9N2QJ9WVGS435KMN_20261115072303_us</episode-num>
+    <rating>
+      <value>TV-PG</value>
     </rating>
   </programme>
 <programme start="20261115055722 +0000" stop="20261115073552 +0000" channel="theasylummoviechannel_tasmc_US">

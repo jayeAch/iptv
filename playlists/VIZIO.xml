@@ -56,6 +56,10 @@
     <display-name>The Three Stooges+</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/1652535931/1/267/150/0.jpg"/>
   </channel>
+<channel id="vizio.149station_1005">
+    <display-name>Esports Edge</display-name>
+    <icon src="https://images.vizio.com/v4/btv/1/763219564849023585/1/267/150/0.jpg"/>
+  </channel>
 <channel id="vizio.93amg00136c49">
     <display-name>I Was Haunted</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/1736246022/1/267/150/0.jpg"/>
@@ -63,6 +67,14 @@
 <channel id="vizio.149station_888">
     <display-name>Alien Nation</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/1651153505/1/267/150/0.jpg"/>
+  </channel>
+<channel id="vizio.93amg35360c3">
+    <display-name>Magnus Midtbo</display-name>
+    <icon src="https://images.vizio.com/v4/btv/1/1736244813/1/267/150/0.jpg"/>
+  </channel>
+<channel id="vizio.98wurl_cinedigm_entertainment_corp_theedbassmastershow_1">
+    <display-name>The Ed Bassmaster Channel</display-name>
+    <icon src="https://images.vizio.com/v4/btv/1/1736245554/1/267/150/0.jpg"/>
   </channel>
 <channel id="vizio.93VEVHH">
     <display-name>Vevo Hip-Hop</display-name>
@@ -136,6 +148,59 @@
     <display-name>Stingray Naturescape</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/1648003466/1/267/150/0.jpg"/>
   </channel>
+<programme start="20261115053347 +0000" stop="20261115072003 +0000" channel="vizio.149station_1005">
+    <title lang="en">Team America</title>
+    <sub-title lang="en">[TA] Round 4: Interlagos LMP2</sub-title>
+    <desc lang="en">Prototype racing returns as LMP2 drivers take on the legendary Interlagos circuit</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205128948207,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S2026E06</episode-num>
+    <episode-num system="xmltv_ns">2025.5.</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261115072003 +0000" stop="20261115093546 +0000" channel="vizio.149station_1005">
+    <title lang="en">Honor of Kings</title>
+    <sub-title lang="en">Esports World Cup 2025 - Group Stage, Day 4 Part 4</sub-title>
+    <desc lang="en">The 2025 Honor of Kings Esports World Cup: Group Stage Day 4: ACT Esports Club vs Nongshim RedForce</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205171443484,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S2025E09</episode-num>
+    <episode-num system="xmltv_ns">2024.8.</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261115093546 +0000" stop="20261115115454 +0000" channel="vizio.149station_1005">
+    <title lang="en">Dignitas</title>
+    <sub-title lang="en">[Rocket League] Championship Series - Open Qualifier #5</sub-title>
+    <desc lang="en">RLCS25 - Open Qualfier #5 SWISS STAGE vs Team BSK</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205128948596,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S03E02</episode-num>
+    <episode-num system="xmltv_ns">2.1.</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261115115454 +0000" stop="20261115122842 +0000" channel="vizio.149station_1005">
+    <title lang="en">Esports Awards</title>
+    <sub-title lang="en">Esports Awards Podcast w/Jasmine Kanuga</sub-title>
+    <desc lang="en">One-on-one with esports host and caster, international star Jasmine "Veracity" Kanuga</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205128947911,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261115122842 +0000" stop="20261115132303 +0000" channel="vizio.149station_1005">
+    <title lang="en">Big Buck Hunter</title>
+    <sub-title lang="en">World Championship XVII - Day 1 Episode 3</sub-title>
+    <desc lang="en">Continuing coverage of the Big Buck Hunter World Championship XVII, Day 1</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205128948208,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S17E03</episode-num>
+    <episode-num system="xmltv_ns">16.2.</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
 <programme start="20261115070000 +0000" stop="20261115073000 +0000" channel="vizio.149station_1648">
     <title lang="en">Malcolm &amp; Eddie</title>
     <desc lang="en">When Simone complains about Eddie storing car parts in her refrigerator, Malcolm wants an explanation. As the discussion causes a rift between the two friends, Simone suggests Malcolm is just as much to blame for allowing Eddie's behavior to go unchecked.</desc>
@@ -1029,14 +1094,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261115055728 +0000" stop="20261115070933 +0000" channel="vizio.93VIZIO">
-    <title lang="en">Fall Fireplace</title>
-    <desc lang="en">A roaring fireplace surrounded by pumpkins, glowing candles, and festive fall decorations creates a cozy autumn atmosphere.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205173778057,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>NR (NOT RATED)</value>
-    </rating>
-  </programme>
 <programme start="20261115070933 +0000" stop="20261115082139 +0000" channel="vizio.93VIZIO">
     <title lang="en">Crackling Fireplace</title>
     <desc lang="en">A roaring fire crackles inside a rustic stone fireplace.</desc>
@@ -1309,17 +1366,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20261115060112 +0000" stop="20261115071255 +0000" channel="vizio.93amg00136c49">
-    <title lang="en">The Haunted Museum</title>
-    <sub-title lang="en">Curse of the Dybbuk Box</sub-title>
-    <desc lang="en">A professor is tormented by an evil entity released from a cursed antique.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205078735123,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E09</episode-num>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-    <rating>
-      <value>TV-MA</value>
-    </rating>
-  </programme>
 <programme start="20261115071255 +0000" stop="20261115075424 +0000" channel="vizio.93amg00136c49">
     <title lang="en">Eli Roth Presents: My Possessed Pet</title>
     <sub-title lang="en">The Night Mare</sub-title>
@@ -1494,6 +1540,110 @@
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205129185626,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
       <value>NR (NOT RATED)</value>
+    </rating>
+  </programme>
+<programme start="20261115065713 +0000" stop="20261115072733 +0000" channel="vizio.93amg35360c3">
+    <title lang="en">Pro Climber sign up for a beginner course...</title>
+    <desc lang="en">A professional climber enters a beginner rock climbing course — what happens when expert meets novice?</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204995527387,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+<programme start="20261115072733 +0000" stop="20261115074700 +0000" channel="vizio.93amg35360c3">
+    <title lang="en">This 75 Year Old Absolutely DESTROYED Us...</title>
+    <desc lang="en">Magnus Midtbo and friends face off against a 75-year-old climber showcasing impressive strength.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204995527422,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+<programme start="20261115074700 +0000" stop="20261115081446 +0000" channel="vizio.93amg35360c3">
+    <title lang="en">HUMILIATED by the World's Best Climber</title>
+    <desc lang="en">Magnus Midtbo faces off against elite climber Jakob Schubert in an intense climbing challenge.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204995527354,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+<programme start="20261115081446 +0000" stop="20261115084331 +0000" channel="vizio.93amg35360c3">
+    <title lang="en">The Real American Ninja Warrior</title>
+    <desc lang="en">Magnus Midtbo and friends tackle the real American Ninja Warrior obstacle course.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204995527397,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+<programme start="20261115084331 +0000" stop="20261115091142 +0000" channel="vizio.93amg35360c3">
+    <title lang="en">Does pro calisthenics power transfer to climbing? (Chris Heria)</title>
+    <desc lang="en">Chris Heria tests whether his calisthenics skills transfer to climbing in this strength crossover.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204995527365,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+<programme start="20261115091142 +0000" stop="20261115094957 +0000" channel="vizio.93amg35360c3">
+    <title lang="en">I entered Japan's HARDEST Climbing Competition</title>
+    <desc lang="en">Magnus Midtbo competes in Tokyo's most challenging climbing competition against elite climbers.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204995527412,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+<programme start="20261115094957 +0000" stop="20261115102016 +0000" channel="vizio.93amg35360c3">
+    <title lang="en">Pro Climber sign up for a beginner course...</title>
+    <desc lang="en">A professional climber enters a beginner rock climbing course — what happens when expert meets novice?</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204995527387,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+<programme start="20261115102016 +0000" stop="20261115103944 +0000" channel="vizio.93amg35360c3">
+    <title lang="en">This 75 Year Old Absolutely DESTROYED Us...</title>
+    <desc lang="en">Magnus Midtbo and friends face off against a 75-year-old climber showcasing impressive strength.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204995527422,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+<programme start="20261115103944 +0000" stop="20261115110730 +0000" channel="vizio.93amg35360c3">
+    <title lang="en">HUMILIATED by the World's Best Climber</title>
+    <desc lang="en">Magnus Midtbo faces off against elite climber Jakob Schubert in an intense climbing challenge.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204995527354,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+<programme start="20261115110730 +0000" stop="20261115113615 +0000" channel="vizio.93amg35360c3">
+    <title lang="en">The Real American Ninja Warrior</title>
+    <desc lang="en">Magnus Midtbo and friends tackle the real American Ninja Warrior obstacle course.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204995527397,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+<programme start="20261115113615 +0000" stop="20261115120426 +0000" channel="vizio.93amg35360c3">
+    <title lang="en">Does pro calisthenics power transfer to climbing? (Chris Heria)</title>
+    <desc lang="en">Chris Heria tests whether his calisthenics skills transfer to climbing in this strength crossover.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204995527365,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+<programme start="20261115120426 +0000" stop="20261115124241 +0000" channel="vizio.93amg35360c3">
+    <title lang="en">I entered Japan's HARDEST Climbing Competition</title>
+    <desc lang="en">Magnus Midtbo competes in Tokyo's most challenging climbing competition against elite climbers.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204995527412,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+<programme start="20261115124241 +0000" stop="20261115131708 +0000" channel="vizio.93amg35360c3">
+    <title lang="en">This is the fittest human on the planet - Can I keep up for 24h?</title>
+    <desc lang="en">Magnus Midtbo tries to keep up with elite athlete Kristian Blummenfelt for 24 hours.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204995527383,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>G</value>
     </rating>
   </programme>
 <programme start="20261115070000 +0000" stop="20261115090000 +0000" channel="vizio.96Station_88885568">
@@ -2053,6 +2203,138 @@
     <title lang="en">Stingray Classic Rock</title>
     <desc lang="en">Return to the classic rock revolution of the ’60, ‘70s, and ’80 with legends like Janis Joplin, Peter Frampton, and The Rolling Stones</desc>
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204079550279,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+  </programme>
+<programme start="20261115070018 +0000" stop="20261115073005 +0000" channel="vizio.98wurl_cinedigm_entertainment_corp_theedbassmastershow_1">
+    <title lang="en">Ed Bassmaster Show</title>
+    <sub-title lang="en">Best of Prank Calls</sub-title>
+    <desc lang="en">A full-length best-of collection of his best prank phone calls. Watch Ed Bassmaster mine awkward silences, double-takes, and baffled reactions for laughs in the character-driven prank comedy that made him a viral sensation. Packed with quotable catchphrases and can't-look-away moments, it's a must for fans of Ed Bassmaster's one-of-a-kind offbeat humor.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205172067534,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S02E12</episode-num>
+    <episode-num system="xmltv_ns">1.11.</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+<programme start="20261115073005 +0000" stop="20261115080517 +0000" channel="vizio.98wurl_cinedigm_entertainment_corp_theedbassmastershow_1">
+    <title lang="en">Ed Bassmaster Show</title>
+    <sub-title lang="en">Character Walkabouts 3</sub-title>
+    <desc lang="en">This full-length episode of the Ed Bassmaster Show features Ed roaming public spaces and hopping between his oddball personas. Ed transforms into his cast of oddball characters and lets them loose on real people who have no idea it's a bit, sparking awkward silences, baffled reactions, and his signature offbeat humor. Packed with quotable catchphrases and can't-look-away moments, it's the character-driven prank comedy that turned Ed Bassmaster into a viral sensation with millions of fans.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205172067497,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S02E20</episode-num>
+    <episode-num system="xmltv_ns">1.19.</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+<programme start="20261115080517 +0000" stop="20261115084015 +0000" channel="vizio.98wurl_cinedigm_entertainment_corp_theedbassmastershow_1">
+    <title lang="en">Ed Bassmaster Show</title>
+    <sub-title lang="en">Best of Skippy</sub-title>
+    <desc lang="en">A full-length best-of spotlighting Skippy — the wide-eyed oddball who badgers strangers with the same baffling question over and over — one of Ed Bassmaster's fan-favorite characters. Watch Ed disappear into the role and unleash the character on real people in public, mining awkward silences, double-takes, and baffled reactions for laughs. Packed with quotable catchphrases and can't-look-away moments, it's a must for fans of Ed Bassmaster's one-of-a-kind offbeat humor.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205172067522,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S02E15</episode-num>
+    <episode-num system="xmltv_ns">1.14.</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+<programme start="20261115084015 +0000" stop="20261115091515 +0000" channel="vizio.98wurl_cinedigm_entertainment_corp_theedbassmastershow_1">
+    <title lang="en">Ed Bassmaster Show</title>
+    <sub-title lang="en">Street 4</sub-title>
+    <desc lang="en">This full-length episode of the Ed Bassmaster Show features sidewalks, street corners, and passersby caught off guard. Ed transforms into his cast of oddball characters and lets them loose on real people who have no idea it's a bit, sparking awkward silences, baffled reactions, and his signature offbeat humor. Packed with quotable catchphrases and can't-look-away moments, it's the character-driven prank comedy that turned Ed Bassmaster into a viral sensation with millions of fans.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205172067510,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S02E32</episode-num>
+    <episode-num system="xmltv_ns">1.31.</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+<programme start="20261115091515 +0000" stop="20261115094518 +0000" channel="vizio.98wurl_cinedigm_entertainment_corp_theedbassmastershow_1">
+    <title lang="en">Ed Bassmaster Show</title>
+    <sub-title lang="en">Best of Teste</sub-title>
+    <desc lang="en">A full-length best-of spotlighting Teste, one of Ed Bassmaster's fan-favorite hidden-camera characters. Watch Ed disappear into the role and unleash the character on real people in public, mining awkward silences, double-takes, and baffled reactions for laughs. Packed with quotable catchphrases and can't-look-away moments, it's a must for fans of Ed Bassmaster's one-of-a-kind offbeat humor.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205172067539,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S02E17</episode-num>
+    <episode-num system="xmltv_ns">1.16.</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+<programme start="20261115094518 +0000" stop="20261115101452 +0000" channel="vizio.98wurl_cinedigm_entertainment_corp_theedbassmastershow_1">
+    <title lang="en">Ed Bassmaster Show</title>
+    <sub-title lang="en">Character Walkabouts</sub-title>
+    <desc lang="en">This full-length episode of the Ed Bassmaster Show features Ed roaming public spaces and hopping between his oddball personas. Ed transforms into his cast of oddball characters and lets them loose on real people who have no idea it's a bit, sparking awkward silences, baffled reactions, and his signature offbeat humor. Packed with quotable catchphrases and can't-look-away moments, it's the character-driven prank comedy that turned Ed Bassmaster into a viral sensation with millions of fans.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205172067528,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S02E18</episode-num>
+    <episode-num system="xmltv_ns">1.17.</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+<programme start="20261115101452 +0000" stop="20261115105022 +0000" channel="vizio.98wurl_cinedigm_entertainment_corp_theedbassmastershow_1">
+    <title lang="en">Ed Bassmaster Show</title>
+    <sub-title lang="en">Best of Ronnie</sub-title>
+    <desc lang="en">A full-length best-of spotlighting Ronnie, one of Ed Bassmaster's fan-favorite hidden-camera characters. Watch Ed disappear into the role and unleash the character on real people in public, mining awkward silences, double-takes, and baffled reactions for laughs. Packed with quotable catchphrases and can't-look-away moments, it's a must for fans of Ed Bassmaster's one-of-a-kind offbeat humor.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205172067492,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S02E14</episode-num>
+    <episode-num system="xmltv_ns">1.13.</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+<programme start="20261115105022 +0000" stop="20261115111951 +0000" channel="vizio.98wurl_cinedigm_entertainment_corp_theedbassmastershow_1">
+    <title lang="en">Ed Bassmaster Show</title>
+    <sub-title lang="en">Best of Prank Calls 2</sub-title>
+    <desc lang="en">A full-length best-of collection of his best prank phone calls. Watch Ed Bassmaster mine awkward silences, double-takes, and baffled reactions for laughs in the character-driven prank comedy that made him a viral sensation. Packed with quotable catchphrases and can't-look-away moments, it's a must for fans of Ed Bassmaster's one-of-a-kind offbeat humor.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205172067533,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S02E13</episode-num>
+    <episode-num system="xmltv_ns">1.12.</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+<programme start="20261115111951 +0000" stop="20261115115017 +0000" channel="vizio.98wurl_cinedigm_entertainment_corp_theedbassmastershow_1">
+    <title lang="en">Ed Bassmaster Show</title>
+    <sub-title lang="en">Mix</sub-title>
+    <desc lang="en">This full-length episode of the Ed Bassmaster Show features a mixed bag of Ed's characters and hidden-camera bits. Ed transforms into his cast of oddball characters and lets them loose on real people who have no idea it's a bit, sparking awkward silences, baffled reactions, and his signature offbeat humor. Packed with quotable catchphrases and can't-look-away moments, it's the character-driven prank comedy that turned Ed Bassmaster into a viral sensation with millions of fans.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205172067499,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S02E21</episode-num>
+    <episode-num system="xmltv_ns">1.20.</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+<programme start="20261115115017 +0000" stop="20261115122019 +0000" channel="vizio.98wurl_cinedigm_entertainment_corp_theedbassmastershow_1">
+    <title lang="en">Ed Bassmaster Show</title>
+    <sub-title lang="en">Store 1</sub-title>
+    <desc lang="en">This full-length episode of the Ed Bassmaster Show features retail aisles, checkout lines, and shop-floor gags. Ed transforms into his cast of oddball characters and lets them loose on real people who have no idea it's a bit, sparking awkward silences, baffled reactions, and his signature offbeat humor. Packed with quotable catchphrases and can't-look-away moments, it's the character-driven prank comedy that turned Ed Bassmaster into a viral sensation with millions of fans.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205172067500,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S02E25</episode-num>
+    <episode-num system="xmltv_ns">1.24.</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+<programme start="20261115122019 +0000" stop="20261115125526 +0000" channel="vizio.98wurl_cinedigm_entertainment_corp_theedbassmastershow_1">
+    <title lang="en">Ed Bassmaster Show</title>
+    <sub-title lang="en">Pranks 2</sub-title>
+    <desc lang="en">This full-length episode of the Ed Bassmaster Show features a rapid-fire run of his best hidden-camera pranks. Ed transforms into his cast of oddball characters and lets them loose on real people who have no idea it's a bit, sparking awkward silences, baffled reactions, and his signature offbeat humor. Packed with quotable catchphrases and can't-look-away moments, it's the character-driven prank comedy that turned Ed Bassmaster into a viral sensation with millions of fans.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205172067530,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S02E24</episode-num>
+    <episode-num system="xmltv_ns">1.23.</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+<programme start="20261115125526 +0000" stop="20261115132524 +0000" channel="vizio.98wurl_cinedigm_entertainment_corp_theedbassmastershow_1">
+    <title lang="en">Ed Bassmaster Show</title>
+    <sub-title lang="en">Street 3</sub-title>
+    <desc lang="en">This full-length episode of the Ed Bassmaster Show features sidewalks, street corners, and passersby caught off guard. Ed transforms into his cast of oddball characters and lets them loose on real people who have no idea it's a bit, sparking awkward silences, baffled reactions, and his signature offbeat humor. Packed with quotable catchphrases and can't-look-away moments, it's the character-driven prank comedy that turned Ed Bassmaster into a viral sensation with millions of fans.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205172067525,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S02E31</episode-num>
+    <episode-num system="xmltv_ns">1.30.</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
   </programme>
 <programme start="20261115070000 +0000" stop="20261115073000 +0000" channel="vizio.98wurl_scripps_gritxtra_1">
     <title lang="en">Zane Grey Theatre</title>
