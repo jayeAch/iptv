@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-<channel id="freemoviesplus_amg02042c1eng_US">
-    <display-name>Free Movies Plus</display-name>
-    <icon src="https://preview-amagistv-amg02042-cloudport.now.amagi.tv/Images/S3/FMPLOGOLG.png"/>
-  </channel>
 <channel id="99992286">
     <display-name>Xumo Free Action Movies</display-name>
     <icon src="https://image.xumo.com/v1/channels/channel/99992286/400x200.png?type=white_cropped"/>
@@ -24,26 +20,22 @@
     <display-name>Haunt TV US</display-name>
     <icon src="https://d2y2gft5545ze9.cloudfront.net/HauntTV_200pxHigh_LG_ChannelAssets_White.png"/>
   </channel>
-<programme start="20261115020357 +0000" stop="20261115035242 +0000" channel="99992286">
-    <title lang="en">Kill Code</title>
-    <desc lang="en">In an AI-ruled future where code decides who lives and dies, one cyber agent uncovers the truth - and only she can rewrite the law.</desc>
-    <category lang="en">Movies</category>
-    <icon src="https://image.xumo.com/v1/assets/asset/XM0X89IRMMMDFI/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992288%2F768x432.jpg%3Ftype%3DchannelTile"/>
-    <episode-num system="dd_progid">XM0X89IRMMMDFI</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261115035242 +0000" stop="20261115050000 +0000" channel="99992286">
-    <title lang="en">Jesse James</title>
-    <desc lang="en">Jesse James and his brother Frank race to secure the family's buried gold as members of the James-Younger gang attempt to steal it.</desc>
-    <category lang="en">Movies</category>
-    <icon src="https://image.xumo.com/v1/assets/asset/XM07MUWV3C20LJ/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992286%2F768x432.jpg%3Ftype%3DchannelTile"/>
-    <episode-num system="dd_progid">XM07MUWV3C20LJ</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
+<channel id="us-scripps_laffmore_1">
+    <display-name>Laff More</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/1498/lg/d22c6a/LG-Logo-PNG-100x100_v1.png"/>
+  </channel>
+<channel id="99993006">
+    <display-name>World's Most Evil Killers</display-name>
+    <icon src="https://image.xumo.com/v1/channels/channel/99993006/400x200.png?type=white_cropped"/>
+  </channel>
+<channel id="thecountrynetworkus_cinetcnus_US">
+    <display-name>The Country Network</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/cinedigm_images/tcn/tcn_logo_330x200.png"/>
+  </channel>
+<channel id="yulelogtvbychristmasplus_amg02042c33eng_US">
+    <display-name>Yule Log TV</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/ottstudios/YuleLogTV_by_ChristmasPlus/YL-LOGO.png"/>
+  </channel>
 <programme start="20261115050000 +0000" stop="20261115061855 +0000" channel="99992286">
     <title lang="en">Lone Star Shark 3</title>
     <desc lang="en">Two female survivors join forces to bring down the deadly group responsible for unleashing a hungry shark in a West Texas lake.</desc>
@@ -64,74 +56,34 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261115014227 +0000" stop="20261115041628 +0000" channel="freemoviesplus_amg02042c1eng_US">
-    <title lang="en">Killer Elite</title>
-    <desc lang="en">When his mentor is taken captive by a disgraced Arab sheik, a killer-for-hire is forced into action. His mission: kill three members of Britain's elite Special Air Service responsible for his son's deaths.</desc>
-    <category lang="en">Action</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg02042/resized_images/resized_b6253ab540b24f4be301e80ae7f0cc22524aafd29869d600aae96ab4493433de_fmp21151png_768_432.jpeg"/>
-    <episode-num system="dd_progid">amg02042c32_A4KM7cmY52WBES3QzmpDjAc_us</episode-num>
+<programme start="20261115055735 +0000" stop="20261115065247 +0000" channel="99993006">
+    <title lang="en">World's Most Evil Killers</title>
+    <desc lang="en">A father took his children out for food after murdering his wife, then strangled them when they returned home.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0AEKJ9FL1268/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993006%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM0AEKJ9FL1268</episode-num>
     <rating>
-      <value>R</value>
+      <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261115041628 +0000" stop="20261115064412 +0000" channel="freemoviesplus_amg02042c1eng_US">
-    <title lang="en">Machete Kills</title>
-    <desc lang="en">The U.S. government recruits Machete to battle his way through Mexico.</desc>
-    <category lang="en">Action</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg02042/resized_images/resized_d9d9877adb029150eaef50229b9aa964a9a7f81504a097246cb28f0bab877943_fmp21162png_768_432.jpeg"/>
-    <episode-num system="dd_progid">amg02042c32_AQ8N9aTHCNmjAsg4sbFYUSA_us</episode-num>
+<programme start="20261115065247 +0000" stop="20261115075010 +0000" channel="99993006">
+    <title lang="en">World's Most Evil Killers</title>
+    <desc lang="en">An investigation into the man known as the 'Babes in the Wood Killer,' who evaded justice for thirty years.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM08HL99HLDPT6/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993006%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM08HL99HLDPT6</episode-num>
     <rating>
-      <value>R</value>
+      <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261115064412 +0000" stop="20261115090358 +0000" channel="freemoviesplus_amg02042c1eng_US">
-    <title lang="en">Sin City: A Dame To Kill For</title>
-    <desc lang="en">Some of Sin City's most hard-boiled citizens cross paths with a few of its more reviled inhabitants.</desc>
-    <category lang="en">Action</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg02042/resized_images/resized_c27294ac183eb88e1b8fca9ba09e6d802d2deaaadad3177493b2207ff0e51627_fmp21055png_768_432.jpeg"/>
-    <episode-num system="dd_progid">amg02042c32_AMxcAeuBrjbf3Nqs4XtqHos_us</episode-num>
+<programme start="20261115075010 +0000" stop="20261115084438 +0000" channel="99993006">
+    <title lang="en">World's Most Evil Killers</title>
+    <desc lang="en">A look into the case of a sadistic killer who posed as an MI5 agent in order to torture and murder his victim.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0NKT2I1RP9ZI/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993006%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM0NKT2I1RP9ZI</episode-num>
     <rating>
-      <value>R</value>
-    </rating>
-  </programme>
-<programme start="20261115020723 +0000" stop="20261115030352 +0000" channel="haunttvus_hntus_US">
-    <title lang="en">Paranormal Survivor</title>
-    <desc lang="en">Tour a haunted house and see the deadly outcome of a spirit’s search for family.</desc>
-    <category lang="en">Documentary</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/HNTUS/resized_1b34093a792c80514d8a55a1ee7cf332ae77381dfa3d3bbca650e79ee3272ee2_hfa01028231jpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">HNTUS_HF_A01028231_US</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-<programme start="20261115030352 +0000" stop="20261115040021 +0000" channel="haunttvus_hntus_US">
-    <title lang="en">Paranormal Survivor</title>
-    <desc lang="en">Meet a possessed young woman and visit a spell-bound boutique.</desc>
-    <category lang="en">Documentary</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/HNTUS/resized_9e6632bc0885149e398072915b776971a01b32f5ff667db70efb3981b87c0296_hfa01028232jpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">HNTUS_HF_A01028232_US</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-<programme start="20261115040021 +0000" stop="20261115045650 +0000" channel="haunttvus_hntus_US">
-    <title lang="en">Paranormal Survivor</title>
-    <desc lang="en">Watch a woman battle a predatory ghost, and see a couple’s shocking discovery.</desc>
-    <category lang="en">Documentary</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/HNTUS/resized_b64fac03c90d6a4eca7663ddadaf136755bfa4aaa014c8594c25e0e89b5a9813_hfa01028233jpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">HNTUS_HF_A01028233_US</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-<programme start="20261115045650 +0000" stop="20261115055044 +0000" channel="haunttvus_hntus_US">
-    <title lang="en">Unexplained Caught on Camera</title>
-    <desc lang="en">Visit a chilling murder site and take a regrettable walk in some sinister woods.</desc>
-    <category lang="en">Documentary</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/HNTUS/resized_5252e58a2907542430b8c2afa919d0b11dd225b5660633f42959fca64f8c430c_hfa01051344jpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">HNTUS_HF_A01051344_US</episode-num>
-    <rating>
-      <value>PG</value>
+      <value>TV-14</value>
     </rating>
   </programme>
 <programme start="20261115055044 +0000" stop="20261115064451 +0000" channel="haunttvus_hntus_US">
@@ -164,26 +116,6 @@
       <value>PG</value>
     </rating>
   </programme>
-<programme start="20261115022750 +0000" stop="20261115041611 +0000" channel="theasylummoviechannel_tasmc_US">
-    <title lang="en">Abraham Lincoln vs Zombies</title>
-    <desc lang="en">As the Civil War rages, President Lincoln undertakes a more daunting task: Destroying the Confederate Undead.</desc>
-    <category lang="en">Action</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/tasmc/resized_edd255f7b25dd9bf92fc1cf898971cca1e4f49a36be3e82808ce417e79b52ed4_abrahamlincolnvszombies1920x1080jpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">tasmc_AbrahamLincolnVsZombies_Feature_2997_20_US</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261115041611 +0000" stop="20261115055722 +0000" channel="theasylummoviechannel_tasmc_US">
-    <title lang="en">The Haunting of Whaley House</title>
-    <desc lang="en">Amateur ghost hunters break into America's Most Haunted House which turns into more horror than imagined.</desc>
-    <category lang="en">Horror</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/tasmc/resized_4ca0d0c5d9241671eec19766b79dd0d43b2fb9844be668c282c452d255085116_thehauntingofwhaleyhouse1920x1080jpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">tasmc_TheHauntingOfWhaleyHouse_Feature_2997_20_US</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme start="20261115055722 +0000" stop="20261115073552 +0000" channel="theasylummoviechannel_tasmc_US">
     <title lang="en">Hansel VS Gretel</title>
     <desc lang="en">Under a spell, Gretel creates a coven of witches. Hansel must fight his twin and the forces controlling her.</desc>
@@ -204,25 +136,26 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-<programme start="20261115020652 +0000" stop="20261115040507 +0000" channel="tribeca_tribe_US">
-    <title lang="en">Monty Python and the Holy Grail</title>
-    <desc lang="en">King Arthur and his Knights of the Round Table embark on a surreal.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg02042/resized_images/resized_29056e7372d0e65219458ead2666b7143c0cf5e3091933af208fc2da4cca5838_fmp21164png_768_432.jpeg"/>
-    <episode-num system="dd_progid">amg02042c61_AP4v62PXARuuA7bP2w6VRxp_us</episode-num>
-    <rating>
-      <value>PG-13</value>
-    </rating>
+<programme start="20261115060000 +0000" stop="20261115070000 +0000" channel="thecountrynetworkus_cinetcnus_US">
+    <title lang="en">Country Under the Stars</title>
+    <desc lang="en">Country Under the Stars</desc>
+    <category lang="en">Music</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/CINETCNUS/resized_df27568244565c2689da7450f7ce114e2a88228bafd8f53dba10513dbe53c7cc_p33939431bh8aajpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">CINETCNUS_amg-SH065839340000_US</episode-num>
   </programme>
-<programme start="20261115040507 +0000" stop="20261115060700 +0000" channel="tribeca_tribe_US">
-    <title lang="en">Monty Python's Life of Brian</title>
-    <desc lang="en">Born on the original Christmas in the stable next door to Jesus Christ.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg02042/resized_images/resized_a0edc9d058c1e9ca37e3bb46d485375aef7510c65e3f2c60ce1fc2df84107dd9_fmp21160png_768_432.jpeg"/>
-    <episode-num system="dd_progid">amg02042c61_AEo27Q5cDWKeGEY5YUL3rSd_us</episode-num>
-    <rating>
-      <value>R</value>
-    </rating>
+<programme start="20261115070000 +0000" stop="20261115080000 +0000" channel="thecountrynetworkus_cinetcnus_US">
+    <title lang="en">Keep it Country</title>
+    <desc lang="en">Keep it Country</desc>
+    <category lang="en">Music</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/CINETCNUS/resized_275f1bb866f7623f2a212787df11d642f20eebc92ddb35d429c32d6a94e15951_p33939438bh8aajpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">CINETCNUS_amg-SH065839370000_US</episode-num>
+  </programme>
+<programme start="20261115080000 +0000" stop="20261115090000 +0000" channel="thecountrynetworkus_cinetcnus_US">
+    <title lang="en">My Kind of Country</title>
+    <desc lang="en">My Kind of Country</desc>
+    <category lang="en">Music</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/CINETCNUS/resized_bb59ef9d08c9a9c1586ffff0e9e6aa25b18fce365cfd00b969131f995cc60b75_p33939448bh8aajpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">CINETCNUS_amg-SH065839380000_US</episode-num>
   </programme>
 <programme start="20261115060700 +0000" stop="20261115080727 +0000" channel="tribeca_tribe_US">
     <title lang="en">Silent Hill Revelation</title>
@@ -232,16 +165,6 @@
     <episode-num system="dd_progid">amg02042c61_AUFZ2xJdoWEag3CeGASyo4C_us</episode-num>
     <rating>
       <value>R</value>
-    </rating>
-  </programme>
-<programme start="20261115022609 +0000" stop="20261115042611 +0000" channel="us-cinedigm_entertainment_corp_screamboxtv_1">
-    <title lang="en">The Innkeepers (Edited Version)</title>
-    <desc lang="en">After over one hundred years of service, The Yankee Pedlar Inn is shutting its doors for good. The last remaining employees -Claire (Sara Paxton) and Luke (Pat Healy)- are determined to uncover proof of what many believe to be one of New England's most haunted hotels. As the Inns final days draw near, odd guests check in as the pair of minimum wage ghost hunters begin to experience strange and alarming events that may ultimately cause them to be mere footnotes in the hotels long unexplained history.</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://img.platform.wurl.dev/channel/1845/lg/88167e/LG-768x432_v1.png"/>
-    <episode-num system="dd_progid">US-CineverseEntertainmentCorp-119268870-52541967-52525612</episode-num>
-    <rating>
-      <value>TV-14</value>
     </rating>
   </programme>
 <programme start="20261115042611 +0000" stop="20261115061121 +0000" channel="us-cinedigm_entertainment_corp_screamboxtv_1">
@@ -272,6 +195,76 @@
     <episode-num system="dd_progid">US-CineverseEntertainmentCorp-118136016-52541967-52525612</episode-num>
     <rating>
       <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261115060000 +0000" stop="20261115063000 +0000" channel="us-scripps_laffmore_1">
+    <title lang="en">Just for Laughs Gags</title>
+    <desc lang="en">"Hare Brained"; "We're No Angels"; "The Prankmobile."</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/1498/lg/d22c6a/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120519755-56782583-56762738</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261115063000 +0000" stop="20261115070000 +0000" channel="us-scripps_laffmore_1">
+    <title lang="en">Just for Laughs Gags</title>
+    <desc lang="en">"Parallel Pranking"; "Cream of Prank Soup"; "Bring Your Gorilla to Work Day."</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/1498/lg/d22c6a/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120519781-56782583-56762738</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261115070000 +0000" stop="20261115073000 +0000" channel="us-scripps_laffmore_1">
+    <title lang="en">Family Feud Favorites</title>
+    <desc lang="en">"Family Feud" has seen some crazy moments over the years, so buckle up as we revisit these fan favorites.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/1498/lg/d22c6a/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120519817-56864802-56802905</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261115073000 +0000" stop="20261115080000 +0000" channel="us-scripps_laffmore_1">
+    <title lang="en">Family Feud Favorites</title>
+    <desc lang="en">"Family Feud" has seen some crazy moments over the years, so buckle up as we revisit these fan favorites.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/1498/lg/d22c6a/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120519845-56864802-56802905</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261115080000 +0000" stop="20261115083000 +0000" channel="us-scripps_laffmore_1">
+    <title lang="en">Just for Laughs Gags</title>
+    <desc lang="en">"Lotto Laughs"; "Getting an Earful"; "Wheel Funny."</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/1498/lg/d22c6a/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120519870-56782583-56762738</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261115060521 +0000" stop="20261115071541 +0000" channel="yulelogtvbychristmasplus_amg02042c33eng_US">
+    <title lang="en">Yule Dog's Yule Log</title>
+    <desc lang="en">Heart-melting holiday vibes as a furry friend curls up by the fire. Cozy flames, gentle music, and pure canine charm make this the ultimate feel-good festive companion.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg02042/resized_images/resized_c40d089d36e42a043db021f817829592fca54fe7a33efb5da0de44dc1686064a_frpl005png_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg02042c62_AEcSHNbRaWaN2j3v6KFuQqG_us</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+<programme start="20261115071541 +0000" stop="20261115093536 +0000" channel="yulelogtvbychristmasplus_amg02042c33eng_US">
+    <title lang="en">Classic Fireplace</title>
+    <desc lang="en">The beloved traditional yule log that started it all. Gentle flames dance over seasoned wood, filling your home with nostalgic warmth and timeless holiday comfort.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg02042/resized_images/resized_94a0c1aac917b05eb50ce1f19009fabaceb52c78aca50ea94ba12d289da8fff3_frpl004png_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg02042c62_AFiyNhrSC1LvNgt1Hxx5qiS_us</episode-num>
+    <rating>
+      <value>G</value>
     </rating>
   </programme>
 </tv>
