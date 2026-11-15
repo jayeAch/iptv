@@ -36,6 +36,10 @@
     <display-name>Extreme Living</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/1736245939/1/267/150/0.jpg"/>
   </channel>
+<channel id="vizio.98wurl_revry_revry_2">
+    <display-name>Revry</display-name>
+    <icon src="https://images.vizio.com/v4/btv/1/1729091791/1/267/150/0.jpg"/>
+  </channel>
 <channel id="vizio.93VZONO2">
     <display-name>FREE Holiday Movies</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/3484385198252894014/1/267/150/0.jpg"/>
@@ -75,6 +79,10 @@
 <channel id="vizio.93DARKS">
     <display-name>Vice: Dark Side Of</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/1736243895/1/267/150/0.jpg"/>
+  </channel>
+<channel id="vizio.93131">
+    <display-name>I (Almost) Got Away With It</display-name>
+    <icon src="https://images.vizio.com/v4/btv/1/1736157980/1/267/150/0.jpg"/>
   </channel>
 <channel id="vizio.93AMG02451C1ENG">
     <display-name>The Three Stooges+</display-name>
@@ -682,17 +690,6 @@
       <value>TV-Y7</value>
     </rating>
   </programme>
-<programme start="20261115185430 +0000" stop="20261115194502 +0000" channel="vizio.93126">
-    <title lang="en">The Dead Files</title>
-    <sub-title lang="en">Dead End</sub-title>
-    <desc lang="en">Steve and Amy investigate activity at a police officer's home in Missouri.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%202011468260,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S03E06</episode-num>
-    <episode-num system="xmltv_ns">2.5.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme start="20261115194502 +0000" stop="20261115203321 +0000" channel="vizio.93126">
     <title lang="en">The Dead Files</title>
     <sub-title lang="en">The Devil's Bidding</sub-title>
@@ -814,6 +811,116 @@
       <value>TV-14</value>
     </rating>
   </programme>
+<programme start="20261115193921 +0000" stop="20261115203155 +0000" channel="vizio.93131">
+    <title lang="en">I (Almost) Got Away With It</title>
+    <sub-title lang="en">Got to Go to Canada</sub-title>
+    <desc lang="en">When a drug deal goes wrong, Scott Freeburg takes off to Canada.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%20112807087,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S01E11</episode-num>
+    <episode-num system="xmltv_ns">0.10.</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261115203155 +0000" stop="20261115212229 +0000" channel="vizio.93131">
+    <title lang="en">I (Almost) Got Away With It</title>
+    <sub-title lang="en">Got a Gun Made of Toilet Paper</sub-title>
+    <desc lang="en">A man facing 55 years for robbery and battery escapes and flees to Mexico.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%20112980900,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S01E12</episode-num>
+    <episode-num system="xmltv_ns">0.11.</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261115212229 +0000" stop="20261115221303 +0000" channel="vizio.93131">
+    <title lang="en">I (Almost) Got Away With It</title>
+    <sub-title lang="en">Got to Get Bike Parts</sub-title>
+    <desc lang="en">A Florida man settles an argument with a rival gang member with an AK-47.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%20112386611,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S01E13</episode-num>
+    <episode-num system="xmltv_ns">0.12.</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261115221303 +0000" stop="20261115230437 +0000" channel="vizio.93131">
+    <title lang="en">I (Almost) Got Away With It</title>
+    <sub-title lang="en">Got Caught By a Cougar</sub-title>
+    <desc lang="en">A thug finds the affection of a friend's mother while on the run in Mexico.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%20113055607,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S02E01</episode-num>
+    <episode-num system="xmltv_ns">1.0.</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261115230437 +0000" stop="20261115235611 +0000" channel="vizio.93131">
+    <title lang="en">I (Almost) Got Away With It</title>
+    <sub-title lang="en">Got to Roll the Dice</sub-title>
+    <desc lang="en">Phillip Williams flees after stabbing his ex in a casino parking lot.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%20112513342,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S02E02</episode-num>
+    <episode-num system="xmltv_ns">1.1.</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261115235611 +0000" stop="20261116004544 +0000" channel="vizio.93131">
+    <title lang="en">I (Almost) Got Away With It</title>
+    <sub-title lang="en">Got a Dead Man's ID</sub-title>
+    <desc lang="en">A prison escapee lives for decades in the same town in which he's wanted.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%20112559290,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S02E03</episode-num>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261116004544 +0000" stop="20261116013718 +0000" channel="vizio.93131">
+    <title lang="en">I (Almost) Got Away With It</title>
+    <sub-title lang="en">Got Caught Via Email</sub-title>
+    <desc lang="en">Three inmates break out of a Florida jail through the plumbing.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%20113034402,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S02E04</episode-num>
+    <episode-num system="xmltv_ns">1.3.</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261116013718 +0000" stop="20261116022652 +0000" channel="vizio.93131">
+    <title lang="en">I (Almost) Got Away With It</title>
+    <sub-title lang="en">Got Plastic Surgery</sub-title>
+    <desc lang="en">An ex-cop is arrested, skips bail, and alters her appearance on the run.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%20112581051,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S02E05</episode-num>
+    <episode-num system="xmltv_ns">1.4.</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261116022652 +0000" stop="20261116031826 +0000" channel="vizio.93131">
+    <title lang="en">I (Almost) Got Away With It</title>
+    <sub-title lang="en">Got Raps</sub-title>
+    <desc lang="en">An assault suspect skips town, and is out partying as police close in.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%20112976105,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S02E06</episode-num>
+    <episode-num system="xmltv_ns">1.5.</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261116031826 +0000" stop="20261116041000 +0000" channel="vizio.93131">
+    <title lang="en">I (Almost) Got Away With It</title>
+    <sub-title lang="en">Got a Lot of Pot</sub-title>
+    <desc lang="en">By age 20, Steve Lamb was making millions trafficking marijuana by sea.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%20112790872,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S02E07</episode-num>
+    <episode-num system="xmltv_ns">1.6.</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
 <programme start="20261115190735 +0000" stop="20261115201120 +0000" channel="vizio.93AMG00376C30ENG">
     <title lang="en">Lake Geneva: The Giant Tsunami</title>
     <desc lang="en">In 563 AD, Geneva was destroyed by a tsunami, and it could happen again. Scientists are working to assess the danger and prepare for disaster.</desc>
@@ -916,14 +1023,6 @@
     <episode-num system="xmltv_ns">0.8.</episode-num>
     <rating>
       <value>NR (NOT RATED)</value>
-    </rating>
-  </programme>
-<programme start="20261115192712 +0000" stop="20261115194758 +0000" channel="vizio.93AMG02451C1ENG">
-    <title lang="en">Pals And Gals</title>
-    <desc lang="en">The Stooges go out west for Shemp's health.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205195852302,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>UR</value>
     </rating>
   </programme>
 <programme start="20261115194758 +0000" stop="20261115200846 +0000" channel="vizio.93AMG02451C1ENG">
@@ -1116,17 +1215,6 @@
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205182777934,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
       <value>UR</value>
-    </rating>
-  </programme>
-<programme start="20261115190008 +0000" stop="20261115195038 +0000" channel="vizio.93DARKS">
-    <title lang="en">Dark Side of the 90s</title>
-    <sub-title lang="en">Trash TV: Dirty and Deadly Talk</sub-title>
-    <desc lang="en">The evolution of Daytime talk television from smart talk to trash TV.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205161877265,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <rating>
-      <value>TV-14</value>
     </rating>
   </programme>
 <programme start="20261115195038 +0000" stop="20261115203931 +0000" channel="vizio.93DARKS">
@@ -2089,17 +2177,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261115191713 +0000" stop="20261115194540 +0000" channel="vizio.93amg00285c14">
-    <title lang="en">Caylus</title>
-    <sub-title lang="en">GTA Squid Game</sub-title>
-    <desc lang="en">Caylus plays through the Squid Game in GTA V.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205003154299,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S12E02</episode-num>
-    <episode-num system="xmltv_ns">11.1.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme start="20261115194540 +0000" stop="20261115200613 +0000" channel="vizio.93amg00285c14">
     <title lang="en">Caylus</title>
     <sub-title lang="en">Skeleton Man</sub-title>
@@ -2821,14 +2898,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20261115193015 +0000" stop="20261115194925 +0000" channel="vizio.93amg35360c1">
-    <title lang="en">20 Guys Vs 1 Girl (Sky Bri Edition)</title>
-    <desc lang="en">20 guys compete in a fitness challenge against Sky Bri. Who wins?</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204961709360,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
 <programme start="20261115194925 +0000" stop="20261115200712 +0000" channel="vizio.93amg35360c1">
     <title lang="en">Living With Logan Paul For 24 Hours! ($145,000 Daily Routine)</title>
     <desc lang="en">I lived Logan Paul's $145,000 daily routine for a full 24 hours.</desc>
@@ -3035,14 +3104,6 @@
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204961709429,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
       <value>PG</value>
-    </rating>
-  </programme>
-<programme start="20261115191822 +0000" stop="20261115194606 +0000" channel="vizio.93amg35360c2">
-    <title lang="en">Whatever You Hit, Win The Champions League</title>
-    <desc lang="en">We created our own Champions League tournament with our own rules. Who will win this football challenge?</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205067583559,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>G</value>
     </rating>
   </programme>
 <programme start="20261115194606 +0000" stop="20261115200141 +0000" channel="vizio.93amg35360c2">
@@ -4764,17 +4825,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20261115192307 +0000" stop="20261115194500 +0000" channel="vizio.98wurl_playworks_digital_ssundee_1">
-    <title lang="en">SSundee</title>
-    <sub-title lang="en">Shin Tails in Among Us</sub-title>
-    <desc lang="en">SSundee plays a Sonic Shin Tails mod in Among Us.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204979979018,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
 <programme start="20261115194500 +0000" stop="20261115200140 +0000" channel="vizio.98wurl_playworks_digital_ssundee_1">
     <title lang="en">SSundee</title>
     <sub-title lang="en">Evil Baldi Role In Among Us</sub-title>
@@ -5258,5 +5308,45 @@
     <rating>
       <value>TV-PG</value>
     </rating>
+  </programme>
+<programme start="20261115192500 +0000" stop="20261115204000 +0000" channel="vizio.98wurl_revry_revry_2">
+    <title lang="en">King of Drag</title>
+    <desc lang="en">The Kings clown around before transforming into celebrities for the outrageous return of The Dong Show.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205194973684,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+  </programme>
+<programme start="20261115204000 +0000" stop="20261115215500 +0000" channel="vizio.98wurl_revry_revry_2">
+    <title lang="en">King of Drag</title>
+    <desc lang="en">The Kings form bands to write, record, and perform original country anthems.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205194973674,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+  </programme>
+<programme start="20261115215500 +0000" stop="20261115231500 +0000" channel="vizio.98wurl_revry_revry_2">
+    <title lang="en">King of Drag</title>
+    <desc lang="en">The Kings work their makeover magic, then transform ordinary suits into fantastical fashions fit for royalty.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205194973635,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+  </programme>
+<programme start="20261115231500 +0000" stop="20261116001500 +0000" channel="vizio.98wurl_revry_revry_2">
+    <title lang="en">King of Drag</title>
+    <desc lang="en">Go behind the scenes of Season Two with never-before-seen auditions, outtakes, backstage antics, and more.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205194973680,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+  </programme>
+<programme start="20261116001500 +0000" stop="20261116011500 +0000" channel="vizio.98wurl_revry_revry_2">
+    <title lang="en">King of Drag</title>
+    <desc lang="en">The Season Two Kings reunite to spill behind-the-scenes stories and revisit their favorite moments.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205194973649,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+  </programme>
+<programme start="20261116011500 +0000" stop="20261116023000 +0000" channel="vizio.98wurl_revry_revry_2">
+    <title lang="en">King of Drag</title>
+    <desc lang="en">The final three Kings give it everything they’ve got in an epic showdown for the King of Drag crown.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205194973700,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+  </programme>
+<programme start="20261116023000 +0000" stop="20261116030000 +0000" channel="vizio.98wurl_revry_revry_2">
+    <title lang="en">Mic Drop</title>
+    <desc lang="en">Damian sits down with one of the King of Drag Season 2 finalists, D.Vour!</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205194973657,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+  </programme>
+<programme start="20261116030000 +0000" stop="20261116043000 +0000" channel="vizio.98wurl_revry_revry_2">
+    <title lang="en">Saturday Church</title>
+    <desc lang="en">A 14 year old boy begins to use fantasy to escape his life in the inner city.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205194972783,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
   </programme>
 </tv>

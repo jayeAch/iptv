@@ -4,6 +4,10 @@
     <display-name>Movie Hub Action</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500032H0_20261113T181335SQUARE.png" />
   </channel>
+<channel id="USBA300017PK">
+    <display-name>Pluto TV Fantastic</display-name>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300017PK_20261113T181232SQUARE.png" />
+  </channel>
 <channel id="USBA3000041ZP">
     <display-name>Movie Hub</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000041ZP_20261109T015430SQUARE.png" />
@@ -23,6 +27,14 @@
 <channel id="US3600007N4">
     <display-name>Movie Hub Holiday</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3600007N4_20261102T091211SQUARE.png" />
+  </channel>
+<channel id="USBD270001633">
+    <display-name>Hallmark Holiday Favorites</display-name>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD270001633_20261102T091123SQUARE.png" />
+  </channel>
+<channel id="USAJ26000054W">
+    <display-name>Paramount Movie Channel</display-name>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ26000054W_20261106T174914SQUARE.png" />
   </channel>
 <channel id="US300068X7">
     <display-name>Samsung Television Network</display-name>
@@ -119,6 +131,14 @@
 <channel id="US4800001W5">
     <display-name>ABC 20/20</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4800001W5_20260421T133700SQUARE.png" />
+  </channel>
+<channel id="US10000092P">
+    <display-name>COPS</display-name>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US10000092P_20260421T142126SQUARE.png" />
+  </channel>
+<channel id="USAJ3504547A">
+    <display-name>The New Detectives</display-name>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504547A_20260421T133611SQUARE.png" />
   </channel>
 <channel id="US37000036P">
     <display-name>TruBlu</display-name>
@@ -230,6 +250,24 @@
       <value>R</value>
     </rating>
   </programme>
+<programme channel="USBA300017PK" start="20261115174500 +0000" stop="20261115200000 +0000">
+    <title>The Last Airbender</title>
+    <desc>Air, Water, Earth, Fire. Four nations are tied by destiny when Fire launches war against the others. Caught between the war, one Avatar discovers he's able to manipulate all four elements.</desc>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352135A_3592425564_0_20261009T121353689Z_33_imageprocessorclient-tvplus-linear-6b56cc9f55-wrt8j.jpeg" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+<programme channel="USBA300017PK" start="20261115200000 +0000" stop="20261115224500 +0000">
+    <title>The Host (2013)</title>
+    <desc>When an unseen enemy threatens mankind by taking over humans' bodies and erasing their minds, Melanie Stryder risks everything to protect the people she cares about most, proving that love can conquer all in a dangerous new world.</desc>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352135A_2353629301_0_20251230T181218087Z_94_imageprocessorclient-tvplus-linear-584c967455-nmqz5.jpeg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
 <programme channel="USBA3000041ZP" start="20261115180707 +0000" stop="20261115195906 +0000">
     <title>Cheaper by the Dozen (2003)</title>
     <desc>While raising twelve children, a middle-aged couple decides to pursue more demanding careers -- He as a \"Big Ten\" university football coach, she as an author on book tour -- only to discover that big families and big careers are a difficult mix.</desc>
@@ -311,6 +349,55 @@
       <value>TV-PG</value>
     </rating>
   </programme>
+<programme channel="USBD270001633" start="20261115191852 +0000" stop="20261115200820 +0000">
+    <title>Twelve Dates 'Til Christmas</title>
+    <sub-title>'Tis the Season</sub-title>
+    <desc>Hallmark Original Series. Kate's best friends sign her up for a holiday dating service to disrupt her rut.</desc>
+    <category lang="en">Movies</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_533870053_0_20231012T063324407Z_71.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="USBD270001633" start="20261115200820 +0000" stop="20261115211601 +0000">
+    <title>Finding Mr. Christmas</title>
+    <sub-title>The Hunt for Mr. Christmas</sub-title>
+    <desc>Ten unknown talents compete for the role of a lifetime‚Äîa leading role in a Hallmark Christmas movie. Host Jonathan Bennett invites Erin Cahill to be their first scene partner.With Jonathan Bennett, Melissa Peterman, &amp; Erin Cahill.</desc>
+    <category lang="en">Movies</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3697550043_0_20261031T162122569Z_61_imageprocessorclient-tvplus-linear-6b56cc9f55-xrkgt.jpeg" />
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme channel="USBD270001633" start="20261115211601 +0000" stop="20261115220701 +0000">
+    <title>Baked with Love: Holiday</title>
+    <sub-title>Home for the Holidays</sub-title>
+    <desc>Hallmark Original Series. 10 family pairs of bakers try to impress the judges at the holiday baking barn.</desc>
+    <category lang="en">Movies</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_533870053_0_20231012T063324407Z_71.jpeg" />
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme channel="USBD270001633" start="20261115220701 +0000" stop="20261115230032 +0000">
+    <title>Christmas at Sea</title>
+    <sub-title>Merry Cruise-mas!</sub-title>
+    <desc>Hallmark Original Series. Hallmark Cruisers meet their favorite stars and enjoy a tree lighting at sea.</desc>
+    <category lang="en">Movies</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_533870053_0_20231012T063324407Z_71.jpeg" />
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme channel="USAJ26000054W" start="20261115193000 +0000" stop="20261115221500 +0000">
+    <title>Indiana Jones and the Last Crusade</title>
+    <desc>There's nothing more exciting than trying to keep up with the Joneses in Indiana Jones and the Last Crusade. Indy's Nazi enemies are back and have kidnapped his father in their effort to locate the sacred Holy Grail.</desc>
+    <category lang="en">Movies</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352135A_3596062329_1_20261010T061423950Z_1_imageprocessorclient-tvplus-linear-6b56cc9f55-g4gcf.jpeg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
 <programme channel="US300068X7" start="20261115193716 +0000" stop="20261115204310 +0000">
     <title>Top Gear UK</title>
     <sub-title>Season 21, Burma Special: Part 2</sub-title>
@@ -338,16 +425,6 @@
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_30205778_2_20260729T032714052Z_1_imageprocessorclient-tvplus-linear-9468c5484-xmg9m.jpeg" />
     <rating>
       <value>PG-13</value>
-    </rating>
-  </programme>
-<programme channel="USBB2300001QP" start="20261115185509 +0000" stop="20261115194715 +0000">
-    <title>Almost Paradise</title>
-    <sub-title>Uncle Danny</sub-title>
-    <desc>Alex's con-artist Uncle Danny comes for a visit to make amends and Alex finds himself caught between protecting the world from his Uncle and protecting his Uncle from Kai and Ernesto… and a very pissed off mafia leg breaker.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3509605673_0_20260922T013300497Z_46_imageprocessorclient-tvplus-linear-6b56cc9f55-cwddm.jpeg" />
-    <rating>
-      <value>TV-14</value>
     </rating>
   </programme>
 <programme channel="USBB2300001QP" start="20261115194715 +0000" stop="20261115203950 +0000">
@@ -659,15 +736,6 @@
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3507717364_0_20260921T154719211Z_72_imageprocessorclient-tvplus-linear-6b56cc9f55-mx4zz.jpeg" />
     <rating>
       <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme channel="USBB3500002FL" start="20261115184500 +0000" stop="20261115194500 +0000">
-    <title>A Correct Settling</title>
-    <desc>Harriet DeLong's son Eugene teams up with a prison pastor, Bishop William Prinn, to get his father, Vic Glendon, off death row, but when Prinn is traveling to Sparta, he finds his life is in danger when his car is run off the highway by a stranger.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352135A_2493723615_0_20260202T235323980Z_98_imageprocessorclient-tvplus-linear-584c967455-cth9v.jpeg" />
-    <rating>
-      <value>TV-14</value>
     </rating>
   </programme>
 <programme channel="USBB3500002FL" start="20261115194500 +0000" stop="20261115204500 +0000">
@@ -1040,16 +1108,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme channel="US2001109K" start="20261115192351 +0000" stop="20261115194813 +0000">
-    <title>Killer Mysteries</title>
-    <sub-title>Rhode Island Ripper</sub-title>
-    <desc>Women in a working-class Rhode Island town begin mysteriously disappearing. Cops investigate and discover the dark obsession of a serial killer nobody suspected.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2395387221_0_20260109T045742778Z_72_imageprocessorclient-tvplus-linear-584c967455-p9wk7.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme channel="US2001109K" start="20261115194813 +0000" stop="20261115201234 +0000">
     <title>Killer Mysteries</title>
     <sub-title>Cleveland Killer</sub-title>
@@ -1180,16 +1238,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme channel="US700010XK" start="20261115185027 +0000" stop="20261115194603 +0000">
-    <title>Interrogation Raw</title>
-    <sub-title>Conduct Unbecoming</sub-title>
-    <desc>An officer is questioned after the woman he was having an affair with is missing.</desc>
-    <category lang="en">Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_840042731_0_20250212T212429194Z_62_imageprocessorclient-tvplus-linear-b76dd9bbb-v2p5r.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme channel="US700010XK" start="20261115194603 +0000" stop="20261115204117 +0000">
     <title>Interrogation Raw</title>
     <sub-title>Who Murdered the Postman?</sub-title>
@@ -1258,6 +1306,96 @@
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3489966404_0_20260917T210617251Z_62_imageprocessorclient-tvplus-linear-6b56cc9f55-wlc7k.jpeg" />
     <rating>
       <value>NA</value>
+    </rating>
+  </programme>
+<programme channel="US10000092P" start="20261115193000 +0000" stop="20261115200000 +0000">
+    <title>In Denial</title>
+    <desc>Officers save a suspect's life after arresting him, a man assaults his wife after she uncovers his internet history, and a pregnant woman fears prosecuting her abuser.</desc>
+    <category lang="en">True Crime</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352135A_3747595248_1_20261111T003233165Z_23_imageprocessorclient-tvplus-linear-6b56cc9f55-2kdtt.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="US10000092P" start="20261115200000 +0000" stop="20261115203000 +0000">
+    <title>AJAX</title>
+    <desc>There police arrest a bicycling drug dealer and his female client. Police respond to a call of an unhinged Rottweiler. Officers arrest an inebriated man after they spot him grabbing a female bystander.</desc>
+    <category lang="en">True Crime</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352135A_553375374_37_20241217T070209062Z_48_imageprocessorclient-tvplus-linear-5dc4fd45f6-mc795.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="US10000092P" start="20261115203000 +0000" stop="20261115210000 +0000">
+    <title>Baby Driver</title>
+    <desc>Deputies find a child in the backseat of a hit-and-run suspect's car, officers respond to a shoplifting call, and a man calls the cops over his stepson's erratic behavior.</desc>
+    <category lang="en">True Crime</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352135A_3747578025_0_20261111T003232784Z_18_imageprocessorclient-tvplus-linear-6b56cc9f55-fngwt.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="US10000092P" start="20261115210000 +0000" stop="20261115213000 +0000">
+    <title>Cops Just Hanging Out</title>
+    <desc>A jumpy bicyclist mistakenly reveals more than he had planned, and  officers search a darkened building in an attempt to thwart a robbery in progress.</desc>
+    <category lang="en">True Crime</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352135A_3747578032_1_20261111T003233165Z_70_imageprocessorclient-tvplus-linear-6b56cc9f55-2kdtt.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="US10000092P" start="20261115213000 +0000" stop="20261115220000 +0000">
+    <title>Cops Hands Off the Junk</title>
+    <desc>The driver of a stolen car leads police on a winding chase, undercover officers run a prostitution sting, and a woman's domestic disturbance call leads to her own arrest.</desc>
+    <category lang="en">True Crime</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352135A_3689241800_0_20261029T234353493Z_1_imageprocessorclient-tvplus-linear-6b56cc9f55-pxzsk.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="US10000092P" start="20261115220000 +0000" stop="20261115223000 +0000">
+    <title>Bear the Cost</title>
+    <desc>Officers discover a grand theft auto suspect hiding in his apartment. Officers assist the fire department in capturing a brown bear from a palm tree. Officers respond to a shooting.</desc>
+    <category lang="en">True Crime</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352135A_553382500_53_20241217T070210605Z_125_imageprocessorclient-tvplus-linear-5dc4fd45f6-qbw2m.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="USAJ3504547A" start="20261115190000 +0000" stop="20261115200000 +0000">
+    <title>A Deadly Smile</title>
+    <desc>Investigators rely on forensic odontology to identify a body from a single tooth and to catch two brutal killers from their bite marks.</desc>
+    <category lang="en">True Crime</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352135A_553381029_34_20241217T070207924Z_106_imageprocessorclient-tvplus-linear-5dc4fd45f6-8wdfx.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="USAJ3504547A" start="20261115200000 +0000" stop="20261115210000 +0000">
+    <title>Dead In The Water</title>
+    <desc>Drowning deaths often look like accidents and water can destroy the scant clues the killer may have left behind. Investigators must turn to forensic science to solve cases where the victim is found dead in the water.</desc>
+    <category lang="en">True Crime</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352135A_553378093_26_20241217T070206528Z_22_imageprocessorclient-tvplus-linear-5dc4fd45f6-8b57x.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="USAJ3504547A" start="20261115210000 +0000" stop="20261115220000 +0000">
+    <title>Military Justice</title>
+    <desc>The Naval Criminal Investigative Service uses forensic science to solve three perplexing murders and fulfill their motto: To the living we owe respect  to the dead, we owe the truth.</desc>
+    <category lang="en">True Crime</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352135A_553381027_26_20241217T070217827Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-8b57x.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="USAJ3504547A" start="20261115220000 +0000" stop="20261115230000 +0000">
+    <title>Patterns Of Guilt</title>
+    <desc>The tread of a tire, a single shoe print and even the shape of a bruise help investigators track down killers, based solely on their patterns of guilt.</desc>
+    <category lang="en">True Crime</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352135A_553381216_41_20241217T070221537Z_21_imageprocessorclient-tvplus-linear-5dc4fd45f6-qf2ff.jpeg" />
+    <rating>
+      <value>TV-PG</value>
     </rating>
   </programme>
 <programme channel="US37000036P" start="20261115193612 +0000" stop="20261115200324 +0000">
@@ -1413,16 +1551,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme channel="US4000004N1" start="20261115191842 +0000" stop="20261115194926 +0000">
-    <title>Letterman</title>
-    <sub-title>Stupid Tricks Vol. 6</sub-title>
-    <desc>This is only an exhibition, this is not a competition. Please, no wagering.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2490167187_0_20260202T032514404Z_1_imageprocessorclient-tvplus-linear-584c967455-jtw46.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
 <programme channel="US4000004N1" start="20261115194926 +0000" stop="20261115201611 +0000">
     <title>Letterman</title>
     <sub-title>Thanksgiving Audience Fun</sub-title>
@@ -1469,16 +1597,6 @@
     <desc>Dave does what he can for Ray Romano, Mark Harmon, and people cooking with hot peppers</desc>
     <category lang="en">Comedy</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3654772540_1_20261022T180700961Z_37_imageprocessorclient-tvplus-linear-6b56cc9f55-wff4c.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="USBD120001614" start="20261115191700 +0000" stop="20261115194700 +0000">
-    <title>Conan O'Brien</title>
-    <sub-title>Animal Lovers</sub-title>
-    <desc>The love between owners and their pets knows no limit.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1328035947_0_20250514T205401055Z_90_imageprocessorclient-tvplus-linear-b76dd9bbb-jk5t6.jpeg" />
     <rating>
       <value>TV-14</value>
     </rating>
@@ -1531,16 +1649,6 @@
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1328035947_0_20250514T205401055Z_90_imageprocessorclient-tvplus-linear-b76dd9bbb-jk5t6.jpeg" />
     <rating>
       <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="US4100038R9" start="20261115185808 +0000" stop="20261115194812 +0000">
-    <title>AFV</title>
-    <sub-title>Twins, Dramatic Exits, and Kids Getting Upset for Dumb Reasons</sub-title>
-    <desc>Highlights include people who are stumped by a simple riddle  a toddler confused by his mom and her identical twin  unique and funny wedding proposals  and a music montage featuring treadmill mishaps.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2102190495_1_20251031T214326551Z_105_imageprocessorclient-tvplus-linear-76c46fff7-ltcsf.jpeg" />
-    <rating>
-      <value>TV-PG</value>
     </rating>
   </programme>
 <programme channel="US4100038R9" start="20261115194812 +0000" stop="20261115203749 +0000">
@@ -1629,16 +1737,6 @@
     <desc>Thundercat is a Grammy Award-winning musician, producer, singer and songwriter.</desc>
     <category lang="en">Comedy</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2648010707_5_20260311T104918784Z_88_imageprocessorclient-tvplus-linear-584c967455-nmqz5.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="US2100007V7" start="20261115182214 +0000" stop="20261115194714 +0000">
-    <title>Smosh</title>
-    <sub-title>Cheating Stories</sub-title>
-    <desc>Time to get our Louisville Sluggers ready.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1900747885_0_20250904T091108083Z_1_imageprocessorclient-tvplus-linear-d7c8c765b-pnlhs.jpeg" />
     <rating>
       <value>TV-14</value>
     </rating>
@@ -2024,16 +2122,6 @@
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3254843692_1_20260728T191207222Z_45_imageprocessorclient-tvplus-linear-9468c5484-2n2hv.jpeg" />
     <rating>
       <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme channel="US200111SU" start="20261115185539 +0000" stop="20261115194632 +0000">
-    <title>Van Helsing</title>
-    <sub-title>Miles and Miles</sub-title>
-    <desc>In a desert infested with strange new vampires, Flesh and Axel chase a crazed Max who has Jennifer and Owen held hostage. When night falls, their chances of survival turn for the worse.</desc>
-    <category lang="en">Sci-Fi</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2395387369_0_20260109T045742381Z_32_imageprocessorclient-tvplus-linear-584c967455-p9wk7.jpeg" />
-    <rating>
-      <value>TV-14</value>
     </rating>
   </programme>
 <programme channel="US200111SU" start="20261115194632 +0000" stop="20261115203719 +0000">

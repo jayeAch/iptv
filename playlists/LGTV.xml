@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+<channel id="us-aenetworks_holidaymoviefavorites_1">
+    <display-name>Lifetime Holiday Movie Favorites</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/999/lg/2c7884/LG-Logo-PNG-100x100_v4.png"/>
+  </channel>
 <channel id="99992286">
     <display-name>Xumo Free Action Movies</display-name>
     <icon src="https://image.xumo.com/v1/channels/channel/99992286/400x200.png?type=white_cropped"/>
@@ -15,10 +19,6 @@
 <channel id="us-lg_thebeverlyhillbillies_1">
     <display-name>The Beverly Hillbillies</display-name>
     <icon src="http://img.platform.wurl.dev/channel/1342/lg/06eaa3/LG-Logo-PNG-100x100_v1.png"/>
-  </channel>
-<channel id="FREQ896">
-    <display-name>Dove Channel</display-name>
-    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/cineverse/channels/dove-400x200.png"/>
   </channel>
 <channel id="tribeca_tribe_US">
     <display-name>Tribeca</display-name>
@@ -322,36 +322,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261115180044 +0000" stop="20261115194500 +0000" channel="FREQ896">
-    <title lang="en">Off the Menu</title>
-    <desc lang="en">A feisty female chef known for the best authentic food in all of the Southwest falls for the unlikely heir to.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/1pynip0s9i3gg1sbvr5dribod/w1920_h1080/1pynip0s9i3gg1sbvr5dribod.jpg"/>
-    <episode-num system="dd_progid">9418899</episode-num>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
-<programme start="20261115194500 +0000" stop="20261115213017 +0000" channel="FREQ896">
-    <title lang="en">As Gouda as it Gets</title>
-    <desc lang="en">Artisan cheese shop owner Brie finds herself competing for a $50.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/7324017218536434715/solid/rectangle/w1920_h1080/15ymhvwplpr6s17lfcdlx1c6wz.jpg"/>
-    <episode-num system="dd_progid">9418901</episode-num>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
-<programme start="20261115213017 +0000" stop="20261115231503 +0000" channel="FREQ896">
-    <title lang="en">The Christmas Recipe Files</title>
-    <desc lang="en">After losing her job, baker Isabel finds herself in a new town where she finds a mysterious recipe book.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/7478198487500946100/solid/rectangle/w1920_h1080/8pr55bm99vvc1ojnlkvvoerxi.jpg"/>
-    <episode-num system="dd_progid">9418913</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
 <programme start="20261115193015 +0000" stop="20261115200017 +0000" channel="FREQ901">
     <title lang="en">Yu-Gi-Oh!</title>
     <desc lang="en">KaibaCorp’s crooked Board of Directors will transfer control of the company from Kaiba to Pegasus!</desc>
@@ -500,16 +470,6 @@
     <episode-num system="dd_progid">4409225</episode-num>
     <rating>
       <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261115191429 +0000" stop="20261115194906 +0000" channel="abcentertains_entert_US">
-    <title lang="en">Summer Heights High</title>
-    <desc lang="en">The curtain rises on Mr. G's musical, Ja'mie is dumped by her school formal date and Jonah's future changes forever.</desc>
-    <category lang="en">Talk show &amp; Entertainment</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/entert/resized_541315c877be666c7b8b10140773c0559acd7de748908eab66b5be0dd0b794be_abcentertainsthumbnail1920x1080png_768_432.jpeg"/>
-    <episode-num system="dd_progid">entert_shh_01_08_prores_US</episode-num>
-    <rating>
-      <value>TV-MA</value>
     </rating>
   </programme>
 <programme start="20261115194906 +0000" stop="20261115202212 +0000" channel="abcentertains_entert_US">
@@ -862,6 +822,36 @@
       <value>R</value>
     </rating>
   </programme>
+<programme start="20261115184146 +0000" stop="20261115202718 +0000" channel="us-aenetworks_holidaymoviefavorites_1">
+    <title lang="en">Christmas Plus One</title>
+    <desc lang="en">Cara and Amy make a pact to find their soulmates by next Christmas.</desc>
+    <category lang="en">Movies</category>
+    <icon src="http://img.platform.wurl.dev/channel/999/lg/2c7884/LG-768x432_v3.png"/>
+    <episode-num system="dd_progid">US-AETelevisionNetworks-119797635-106445-99105</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261115202718 +0000" stop="20261115220945 +0000" channel="us-aenetworks_holidaymoviefavorites_1">
+    <title lang="en">Engaged by Christmas</title>
+    <desc lang="en">When Zoe writes to advice columnist "Dear Adora" to help save her relationship.</desc>
+    <category lang="en">Movies</category>
+    <icon src="http://img.platform.wurl.dev/channel/999/lg/2c7884/LG-768x432_v3.png"/>
+    <episode-num system="dd_progid">US-AETelevisionNetworks-119797636-106445-99105</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261115220945 +0000" stop="20261115235310 +0000" channel="us-aenetworks_holidaymoviefavorites_1">
+    <title lang="en">New: A Runaway Bride for Christmas</title>
+    <desc lang="en">A runaway bride seeks refuge in the only town she's ever called home.</desc>
+    <category lang="en">Movies</category>
+    <icon src="http://img.platform.wurl.dev/channel/999/lg/2c7884/LG-768x432_v3.png"/>
+    <episode-num system="dd_progid">US-AETelevisionNetworks-119797637-106445-99105</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
 <programme start="20261115193514 +0000" stop="20261115200441 +0000" channel="us-amc_anime_x_hidive_1">
     <title lang="en">The Eminence in Shadow</title>
     <desc lang="en">Cid and Claire receive an invitation to a tournament. At the festivities, Cid receives more attention than a background character desires.</desc>
@@ -1138,16 +1128,6 @@
     <category lang="en">Talk show &amp; Entertainment</category>
     <icon src="http://img.platform.wurl.dev/channel/1467/lg/c26078/LG-768x432_v1.png"/>
     <episode-num system="dd_progid">US-GAMESHOWNETWORKLLC-95897566-56836547-56809588</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261115191542 +0000" stop="20261115194544 +0000" channel="us-lg_thebeverlyhillbillies_1">
-    <title lang="en">The Beverly Hillbillies</title>
-    <desc lang="en">"Jethro Goes to School" - Jed enrolls Jethro at an exclusive Beverly Hills elementary school. Millicent Schuyler-Potts, the proprietor of the school, is aghast when Jed and Jethro show up, convinced this is part of some ghastly hoax. After Jed says that banker Milburn Drysdale is his neighbor, she calls the banker. It turns out that Drysdale's bank holds the mortgage on the school. Schulyer-Potts suddenly warms to the charms of the Clampetts, even if it means accepting Jethro as a fifth grader.</desc>
-    <category lang="en">Talk show &amp; Entertainment</category>
-    <icon src="http://img.platform.wurl.dev/channel/1342/lg/06eaa3/LG-768x432_v1.png"/>
-    <episode-num system="dd_progid">US-LG-30136405-21386013-21372680</episode-num>
     <rating>
       <value>TV-PG</value>
     </rating>
