@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+<channel id="us-gsn_cinevault_classics_2">
+    <display-name>CINEVAULT: Classics</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/1043/lg/374298/LG-Logo-PNG-100x100_v1.png"/>
+  </channel>
 <channel id="99992286">
     <display-name>Xumo Free Action Movies</display-name>
     <icon src="https://image.xumo.com/v1/channels/channel/99992286/400x200.png?type=white_cropped"/>
@@ -20,6 +24,10 @@
     <display-name>The Beverly Hillbillies</display-name>
     <icon src="http://img.platform.wurl.dev/channel/1342/lg/06eaa3/LG-Logo-PNG-100x100_v1.png"/>
   </channel>
+<channel id="FREQ888">
+    <display-name>Alien Nation by DUST</display-name>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/gunpowderandsky/channels/Alien-Nation_white_logo_800x200.png"/>
+  </channel>
 <channel id="heartlandclassic_hrtcl_US">
     <display-name>Heartland</display-name>
     <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/heartlandclassic_lgus/heartland_logo_400x200.png"/>
@@ -32,13 +40,25 @@
     <display-name>BBC Drama Classics</display-name>
     <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/bbc/channels/938-400x200.png"/>
   </channel>
+<channel id="FREQ796">
+    <display-name>BritBox Mysteries</display-name>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/bbc/channels/796-400x200.png"/>
+  </channel>
 <channel id="FREQ896">
     <display-name>Dove Channel</display-name>
     <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/cineverse/channels/dove-400x200.png"/>
   </channel>
+<channel id="FREQ874">
+    <display-name>Horror by ALTER</display-name>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/gunpowderandsky/channels/Horror-By-ALTER_white_logo_800x200.png"/>
+  </channel>
 <channel id="portraittv_amg30859c1_us">
     <display-name>Portrait TV</display-name>
     <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Portrait-TV_Logo_400x200.png"/>
+  </channel>
+<channel id="hersphere_movsf_US">
+    <display-name>Hersphere</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/hersphere/HerSphere_LGLaunch_Guide_Logo_White_Stacked_800x200.png"/>
   </channel>
 <channel id="nashbridges_nbdgs_US">
     <display-name>Nash Bridges</display-name>
@@ -164,9 +184,21 @@
     <display-name>Game Show Central</display-name>
     <icon src="http://img.platform.wurl.dev/channel/416/lg/b2b042/LG-Logo-PNG-100x100_v1.png"/>
   </channel>
+<channel id="99992282">
+    <display-name>Family Feud</display-name>
+    <icon src="https://image.xumo.com/v1/channels/channel/99992282/400x200.png?type=white_cropped"/>
+  </channel>
 <channel id="dornod_dornodlgus_US">
     <display-name>Deal or No Deal</display-name>
     <icon src="https://d2yv6y0n3qsl5c.cloudfront.net/DORNOD/DOND-LG_LOGO_White_800x200.png"/>
+  </channel>
+<channel id="us-aenetworks_modernmarvels_1">
+    <display-name>Modern Marvels</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/1040/lg/d5193a/LG-Logo-PNG-100x100_v3.png"/>
+  </channel>
+<channel id="us-cinedigm_entertainment_corp_historian_1">
+    <display-name>Historian</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/1908/lg/b7ee6a/LG-Logo-PNG-100x100_v1.png"/>
   </channel>
 <programme start="20261115212143 +0000" stop="20261116000211 +0000" channel="FREQ1287-US">
     <title lang="en">On Patrol: Live</title>
@@ -174,36 +206,6 @@
     <category lang="en">ETC</category>
     <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/1316y57a9kdq51216gcrfewh0/w1920_h1080/1316y57a9kdq51216gcrfewh0.jpg"/>
     <episode-num system="dd_progid">7328625</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261115223818 +0000" stop="20261115234019 +0000" channel="antiquesroadshow_pbsdc_US">
-    <title lang="en">Antiques Roadshow</title>
-    <desc lang="en">Louisville treasures from 2007 including an appraisal that has skyrocketed to $125,000.</desc>
-    <category lang="en">Talk show &amp; Entertainment</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/PBSDC/resized_d4aee1aaea21247aa5a82ea3641dc8e82f8e219adb8c5c3e71ae68d7452ab1ae_pbsantiquesroadshowlgchannelthumbnail1920x1080jpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">PBSDC_PBS_AMAGI_ANR2511V_US</episode-num>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
-<programme start="20261115225231 +0000" stop="20261115234619 +0000" channel="haunttvus_hntus_US">
-    <title lang="en">Alien Files Reopened</title>
-    <desc lang="en">Hear from a soldier who came face to face with aliens at a US Air Force base.</desc>
-    <category lang="en">Documentary</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/HNTUS/resized_9d624cb38bf1b4c1297d21ceec1d5985a3919ffec2c1130d881e92693e54f425_hfa01052968jpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">HNTUS_HF_A01052968_US</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-<programme start="20261115225656 +0000" stop="20261115234957 +0000" channel="nashbridges_nbdgs_US">
-    <title lang="en">Nash Bridges</title>
-    <desc lang="en">Nash tracks a vigilante hunting three murder suspects released on a technicality.</desc>
-    <category lang="en">Action</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/NBDGS/resized_6ebff841b39ec20c5b6b730537c59d2403dea1a195517845daa6bc499e8afe3e_nashbridgeslandscapejpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">NBDGS_NB088_US</episode-num>
     <rating>
       <value>TV-14</value>
     </rating>
