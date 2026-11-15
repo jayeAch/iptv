@@ -9,4 +9,28 @@ GLOBAL_EXCLUDE_LIST = [
 "б", "в", "г", "д", "ё", "ж", "з", "и", "й", "к", "л", "м", "н", "п", "т", "ф", "ц", "ч", "ш", "щ", "ъ", "ы", "ь", "э", "ю", "я", "Б", "В", "Г", "Д", "Ё", "Ж", "З", "И", "Й", "К", "Л", "М", "Н", "П", "Т", "Ф", "Ц", "Ч", "Ш", "Щ", "Ъ", "Ы", "Ь", "Э", "Ю", "Я",
 
 # All other entries (alphabetized, case-insensitive, deduplicated)
+  "Star Trek",
+  "Farscape",
+  "Stargate",
+  "21 Jump Street"
+  "ALF",
+  "Anger Management",
+  "America's Funniest Home Videos",
+  "Are We There Yet",
+  "Caroline in the City",
+  "Everybody Hates Chris",
+  "FailArmy",
+  "Family Ties",
+  "Frasier",
+  "Funny AF",
+  "Fluffy TV",
+  "Mr. Bean",
+  "Sabrina the Teenage Witch",
+  "Saved by the Bell",
+  "Spin City",
+  "The Conners",
+  "Taxi",
+  "The Millers",
+  "Always Funny",
 ]
+
