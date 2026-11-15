@@ -253,6 +253,7 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
         lgbt
         lgbtq
         lgbtq+
+        the l word
         logo pluto tv
         lgbtqia
         outflix
