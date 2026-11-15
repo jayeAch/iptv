@@ -80,6 +80,16 @@
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/aefe55d5eb7e49a25b2c17513be6f1e1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1787162238358_bowling_tv_logo_hud.png"/>
     <lcn>1220</lcn>
   </channel>
+<channel id="dead0e7a46da533c94c61c8710ef3418">
+    <display-name>FilmRise British TV</display-name>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/dead0e7a46da533c94c61c8710ef3418/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766001306928_RokuChannel_FilmRiseBritishTV_HUD_Logo_260x147.png"/>
+    <lcn>1317</lcn>
+  </channel>
+<channel id="e2e10d08139b56aba73a448f5555b6fd">
+    <display-name>FilmRise Classic TV</display-name>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e2e10d08139b56aba73a448f5555b6fd/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673450928764_FilmRise-ClassicTV_260x147_copy.png"/>
+    <lcn>1515</lcn>
+  </channel>
 <channel id="be3c81de355c56f89cbf99301735cfd2">
     <display-name>My Time Movie Network</display-name>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/be3c81de355c56f89cbf99301735cfd2/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1654727499791_MyTime_Roku_ChannelLogos_260x147.png"/>
@@ -892,6 +902,14 @@
     <episode-num system="onscreen">S04E09</episode-num>
     <rating system="USA Parental Rating">TV14</rating>
   </programme>
+<programme channel="b4273871759a5631bd536d2214f175e5" start="20261117080000 +0000" stop="20261117090000 +0000">
+    <title>BKFC: Knuckle Up</title>
+    <sub-title>BKFC: Knuckle Up</sub-title>
+    <desc>Mason Shaw takes on Lee Browne followed by Darren Hendry in a fist fury with Corey Harrison, then Chaz Wasserman dukes it out with Cedric Severac.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/6b3366bbea0d51cb80c7aee46290a2bc/images/gracenote/assets/p22397069_b_h10_ab.jpg"/>
+    <episode-num system="onscreen">S04E10</episode-num>
+    <rating system="USA Parental Rating">TV14</rating>
+  </programme>
 <programme channel="b238edf1869657abb47970bc9b7bfce1" start="20261115070617 +0000" stop="20261115080756 +0000">
     <title>Hoge &amp; Jahns Podcast</title>
     <sub-title>Hoge &amp; Jahns Podcast</sub-title>
@@ -1510,11 +1528,6 @@
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a6db281aa285294741652239490bf82c/rokuFeed/assets/6dc4acd7d9825a1ab6c15809cf0202fc.jpg"/>
     <rating system="USA Parental Rating">TVG</rating>
   </programme>
-<programme channel="62f1cd0d4c395a2a8ab72cff688666a0" start="20261115060000 +0000" stop="20261115080000 +0000">
-    <title>Liga BBVA MX: Querétaro vs Monterrey</title>
-    <desc>From Corregidora Stadium in Querétaro, Querétaro, Mexico.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/43c08686cddafb1af57287f8be213a3e/images/gsd/gracenote/assets/transformed/76a2178a0204656f40480bf48e7edb7f/Banner"/>
-  </programme>
 <programme channel="62f1cd0d4c395a2a8ab72cff688666a0" start="20261115080000 +0000" stop="20261115083000 +0000">
     <title>MaxBet Podcast</title>
     <desc>The MaxBet Podcast delivers sharp sports betting analysis, expert picks and wagering strategies.</desc>
@@ -1930,6 +1943,11 @@
     <desc>Dan Le Batard and the gang share their unique perspectives on sports, pop-culture and more.</desc>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1e52b65e002cbd882920065fc2fc5f75/rokuFeed/assets/581cbe4a885455f48ca9bf0894130508.jpeg"/>
   </programme>
+<programme channel="5976983fa00953dab911a0ebea932943" start="20261117080000 +0000" stop="20261117090000 +0000">
+    <title>South Beach Sessions with Dan Le Batard: Dane Cook</title>
+    <desc>Dan Le Batard goes beyond what you've already heard before with guests from the sports, music and comedy world</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/18dd1cddc1aec9f158b4a2e9a239e587/rokuFeed/assets/befcdf5a07c75616803ed697c31c38fb.jpeg"/>
+  </programme>
 <programme channel="82bd10ceb52152a7adb6bdc5d776e794" start="20261115050000 +0000" stop="20261115083000 +0000">
     <title>NHRA Auto Club Finals 2021</title>
     <desc>Full coverage of the final day at the 2021 Auto Club Finals from Pomona, CA</desc>
@@ -2144,6 +2162,12 @@
     <title>Chasing Speed: Episode 4</title>
     <desc>Summer of Chaos</desc>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f99eeb2cf59dfcec8b94014357db5607/rokuFeed/assets/8083a1ea4de0550da94d5ea1f8d78e9e.jpg"/>
+    <rating system="USA Parental Rating">TVPG</rating>
+  </programme>
+<programme channel="82bd10ceb52152a7adb6bdc5d776e794" start="20261117080000 +0000" stop="20261117113000 +0000">
+    <title>NHRA Gatornationals 2026</title>
+    <desc>The start of the 2026 season begins in Gainesville, FL with Austin Prock defending his Funny Car title.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/2b8a2cc7f282b923608ed64251eb2c9a/rokuFeed/assets/29f6bb8db0ab52209ffbce1174fa05e5.jpg"/>
     <rating system="USA Parental Rating">TVPG</rating>
   </programme>
 <programme channel="8c48bcf59acd57779977b83a41fac919" start="20261115062709 +0000" stop="20261115085438 +0000">
@@ -2934,14 +2958,6 @@
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/744f3e4e1207dfffb7066948413ce1ad/rokuFeed/assets/16d27905594d5dd383492f47fe698f0d.jpg"/>
     <rating system="USA Parental Rating">TV14</rating>
   </programme>
-<programme channel="10b859e5e8a1e710680c11dfdfb85c11" start="20261115073000 +0000" stop="20261115080000 +0000">
-    <title>Camp Woodward</title>
-    <sub-title>Camp Woodward</sub-title>
-    <desc>Johnny gets a special surprise visitor.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/28caffc6b49c5e72aef7af088499af7b/images/gracenote/assets/p609383_b_h8_ad.jpg"/>
-    <episode-num system="onscreen">S06E06</episode-num>
-    <rating system="USA Parental Rating">TVPG</rating>
-  </programme>
 <programme channel="10b859e5e8a1e710680c11dfdfb85c11" start="20261115080000 +0000" stop="20261115081500 +0000">
     <title>Portrait</title>
     <sub-title>Portrait</sub-title>
@@ -3561,6 +3577,14 @@
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/dc745adbf8505aaf9d3ad28dc897463f/images/gracenote/assets/p13215652_b_h9_ad.jpg"/>
     <rating system="USA Parental Rating">TV14</rating>
   </programme>
+<programme channel="10b859e5e8a1e710680c11dfdfb85c11" start="20261117080000 +0000" stop="20261117083000 +0000">
+    <title>Built to Shred</title>
+    <sub-title>Built to Shred</sub-title>
+    <desc>Renting a heavy equipment facility to shred.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/856b362a6f93582b9c6896040a7b1f4d/rokuFeed/assets/236779ccf29b59caa133969432391746.png"/>
+    <episode-num system="onscreen">S2012E07</episode-num>
+    <rating system="USA Parental Rating">TVPG</rating>
+  </programme>
 <programme channel="9210a8fbeab66e9d1ce20c187804ee7d" start="20261115050000 +0000" stop="20261115113000 +0000">
     <title>2026 Elite Season</title>
     <sub-title>2026 Elite Season</sub-title>
@@ -4158,14 +4182,6 @@
     <episode-num system="onscreen">S2022E07</episode-num>
     <rating system="USA Parental Rating">TVPG</rating>
   </programme>
-<programme channel="aefe55d5eb7e49a25b2c17513be6f1e1" start="20261115063000 +0000" stop="20261115080000 +0000">
-    <title>Bowling TV Archive Series</title>
-    <sub-title>Bowling TV Archive Series</sub-title>
-    <desc>Top Four Finalists from October 1, 2023</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9f25bdf233988ee3b7b69e0b8e000271/rokuFeed/assets/3ad84a2b881b565f98b34d7a1b3fb35d.jpg"/>
-    <episode-num system="onscreen">S01E116</episode-num>
-    <rating system="USA Parental Rating">TVPG</rating>
-  </programme>
 <programme channel="aefe55d5eb7e49a25b2c17513be6f1e1" start="20261115080000 +0000" stop="20261115093000 +0000">
     <title>Bowling TV Archive Series</title>
     <desc>Saginaw Valley St. vs. Kansas (Men) &amp; Wichita State vs. Pikeville (Women) from Riverlanes, Tulsa, Oklahoma</desc>
@@ -4476,6 +4492,1173 @@
     <desc>Top Five Finalists from April 25, 2024</desc>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9f25bdf233988ee3b7b69e0b8e000271/rokuFeed/assets/3ad84a2b881b565f98b34d7a1b3fb35d.jpg"/>
     <episode-num system="onscreen">S01E122</episode-num>
+    <rating system="USA Parental Rating">TVPG</rating>
+  </programme>
+<programme channel="dead0e7a46da533c94c61c8710ef3418" start="20261115073652 +0000" stop="20261115082819 +0000">
+    <title>Doc Martin</title>
+    <sub-title>Doc Martin</sub-title>
+    <desc>Martin is angry that a pregnant Louisa is moving furniture; Louisa interviews for her old job.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7384cf36d69d5ef58e2e5d07c1dbc13a/rokuFeed/assets/9add53faddc6590a934859da2c0be5d2.jpg"/>
+    <episode-num system="onscreen">S04E04</episode-num>
+    <rating system="USA Parental Rating">TVMA</rating>
+  </programme>
+<programme channel="dead0e7a46da533c94c61c8710ef3418" start="20261115082819 +0000" stop="20261115092035 +0000">
+    <title>Doc Martin</title>
+    <sub-title>Doc Martin</sub-title>
+    <desc>Martin is irritated by having to sit next to one of his patients on a train returning to Cornwall.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7384cf36d69d5ef58e2e5d07c1dbc13a/rokuFeed/assets/9add53faddc6590a934859da2c0be5d2.jpg"/>
+    <episode-num system="onscreen">S04E05</episode-num>
+    <rating system="USA Parental Rating">TVMA</rating>
+  </programme>
+<programme channel="dead0e7a46da533c94c61c8710ef3418" start="20261115092035 +0000" stop="20261115101236 +0000">
+    <title>Doc Martin</title>
+    <sub-title>Doc Martin</sub-title>
+    <desc>Doc clashes with the new district midwife over natural methods.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7384cf36d69d5ef58e2e5d07c1dbc13a/rokuFeed/assets/9add53faddc6590a934859da2c0be5d2.jpg"/>
+    <episode-num system="onscreen">S04E06</episode-num>
+    <rating system="USA Parental Rating">TVMA</rating>
+  </programme>
+<programme channel="dead0e7a46da533c94c61c8710ef3418" start="20261115101236 +0000" stop="20261115110454 +0000">
+    <title>Doc Martin</title>
+    <sub-title>Doc Martin</sub-title>
+    <desc>Pauline decides to confront Martin after opening a letter addressed to him.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7384cf36d69d5ef58e2e5d07c1dbc13a/rokuFeed/assets/9add53faddc6590a934859da2c0be5d2.jpg"/>
+    <episode-num system="onscreen">S04E07</episode-num>
+    <rating system="USA Parental Rating">TVMA</rating>
+  </programme>
+<programme channel="dead0e7a46da533c94c61c8710ef3418" start="20261115110454 +0000" stop="20261115115718 +0000">
+    <title>Doc Martin</title>
+    <sub-title>Doc Martin</sub-title>
+    <desc>A taxi driver's migraine causes Louisa to go into premature labor.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7384cf36d69d5ef58e2e5d07c1dbc13a/rokuFeed/assets/9add53faddc6590a934859da2c0be5d2.jpg"/>
+    <episode-num system="onscreen">S04E08</episode-num>
+    <rating system="USA Parental Rating">TVMA</rating>
+  </programme>
+<programme channel="dead0e7a46da533c94c61c8710ef3418" start="20261115115718 +0000" stop="20261115125027 +0000">
+    <title>Doc Martin</title>
+    <sub-title>Doc Martin</sub-title>
+    <desc>Martin Ellingham's plans to resume his career are put on hold with the birth of a baby.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7384cf36d69d5ef58e2e5d07c1dbc13a/rokuFeed/assets/9add53faddc6590a934859da2c0be5d2.jpg"/>
+    <episode-num system="onscreen">S05E01</episode-num>
+    <rating system="USA Parental Rating">TVMA</rating>
+  </programme>
+<programme channel="dead0e7a46da533c94c61c8710ef3418" start="20261115125027 +0000" stop="20261115134312 +0000">
+    <title>Doc Martin</title>
+    <sub-title>Doc Martin</sub-title>
+    <desc>Doc Martin has to deal with the death of his Aunt Joan and demands of fatherhood.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7384cf36d69d5ef58e2e5d07c1dbc13a/rokuFeed/assets/9add53faddc6590a934859da2c0be5d2.jpg"/>
+    <episode-num system="onscreen">S05E02</episode-num>
+    <rating system="USA Parental Rating">TVMA</rating>
+  </programme>
+<programme channel="dead0e7a46da533c94c61c8710ef3418" start="20261115134312 +0000" stop="20261115143623 +0000">
+    <title>Doc Martin</title>
+    <sub-title>Doc Martin</sub-title>
+    <desc>Sleepless nights take their toll on Doc and Louisa; Shirley believes her son is poisoning her.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7384cf36d69d5ef58e2e5d07c1dbc13a/rokuFeed/assets/9add53faddc6590a934859da2c0be5d2.jpg"/>
+    <episode-num system="onscreen">S05E03</episode-num>
+    <rating system="USA Parental Rating">TVMA</rating>
+  </programme>
+<programme channel="dead0e7a46da533c94c61c8710ef3418" start="20261115143623 +0000" stop="20261115152903 +0000">
+    <title>Doc Martin</title>
+    <sub-title>Doc Martin</sub-title>
+    <desc>Louisa and Martin are not happy when Louisa's mom arrives unexpectedly.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7384cf36d69d5ef58e2e5d07c1dbc13a/rokuFeed/assets/9add53faddc6590a934859da2c0be5d2.jpg"/>
+    <episode-num system="onscreen">S05E04</episode-num>
+    <rating system="USA Parental Rating">TVMA</rating>
+  </programme>
+<programme channel="dead0e7a46da533c94c61c8710ef3418" start="20261115152903 +0000" stop="20261115162153 +0000">
+    <title>Doc Martin</title>
+    <sub-title>Doc Martin</sub-title>
+    <desc>Joe Penhale's amnesiac ex-wife visits; Louisa's mother may find romance.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7384cf36d69d5ef58e2e5d07c1dbc13a/rokuFeed/assets/9add53faddc6590a934859da2c0be5d2.jpg"/>
+    <episode-num system="onscreen">S05E05</episode-num>
+    <rating system="USA Parental Rating">TVMA</rating>
+  </programme>
+<programme channel="dead0e7a46da533c94c61c8710ef3418" start="20261115162153 +0000" stop="20261115171451 +0000">
+    <title>Doc Martin</title>
+    <sub-title>Doc Martin</sub-title>
+    <desc>Joe Penhale is desperate to show Maggie he has changed; Martin has to rescue Mr. Coley.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7384cf36d69d5ef58e2e5d07c1dbc13a/rokuFeed/assets/9add53faddc6590a934859da2c0be5d2.jpg"/>
+    <episode-num system="onscreen">S05E06</episode-num>
+    <rating system="USA Parental Rating">TVMA</rating>
+  </programme>
+<programme channel="dead0e7a46da533c94c61c8710ef3418" start="20261115171451 +0000" stop="20261115180740 +0000">
+    <title>Doc Martin</title>
+    <sub-title>Doc Martin</sub-title>
+    <desc>Bert Large's restaurant is in financial trouble and is unable to help with a charity event.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7384cf36d69d5ef58e2e5d07c1dbc13a/rokuFeed/assets/9add53faddc6590a934859da2c0be5d2.jpg"/>
+    <episode-num system="onscreen">S05E07</episode-num>
+    <rating system="USA Parental Rating">TVMA</rating>
+  </programme>
+<programme channel="dead0e7a46da533c94c61c8710ef3418" start="20261115180740 +0000" stop="20261115190036 +0000">
+    <title>Doc Martin</title>
+    <sub-title>Doc Martin</sub-title>
+    <desc>Mrs. Tishell's crush on Martin takes a dramatic turn when she leaves town with baby James.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7384cf36d69d5ef58e2e5d07c1dbc13a/rokuFeed/assets/9add53faddc6590a934859da2c0be5d2.jpg"/>
+    <episode-num system="onscreen">S05E08</episode-num>
+    <rating system="USA Parental Rating">TVMA</rating>
+  </programme>
+<programme channel="dead0e7a46da533c94c61c8710ef3418" start="20261115190036 +0000" stop="20261115195323 +0000">
+    <title>Doc Martin</title>
+    <sub-title>Doc Martin</sub-title>
+    <desc>Portwenn is buzzing with arrangements for the wedding of the Doc and Louisa.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7384cf36d69d5ef58e2e5d07c1dbc13a/rokuFeed/assets/9add53faddc6590a934859da2c0be5d2.jpg"/>
+    <episode-num system="onscreen">S06E01</episode-num>
+    <rating system="USA Parental Rating">TVMA</rating>
+  </programme>
+<programme channel="dead0e7a46da533c94c61c8710ef3418" start="20261115195323 +0000" stop="20261115204559 +0000">
+    <title>Doc Martin</title>
+    <sub-title>Doc Martin</sub-title>
+    <desc>Martin has second thoughts about their nanny, who is constantly scratching.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7384cf36d69d5ef58e2e5d07c1dbc13a/rokuFeed/assets/9add53faddc6590a934859da2c0be5d2.jpg"/>
+    <episode-num system="onscreen">S06E02</episode-num>
+    <rating system="USA Parental Rating">TVMA</rating>
+  </programme>
+<programme channel="dead0e7a46da533c94c61c8710ef3418" start="20261115204559 +0000" stop="20261115213836 +0000">
+    <title>Doc Martin</title>
+    <sub-title>Doc Martin</sub-title>
+    <desc>Ruth has a mystery admirer who unnerves her; Louisa gets in trouble with Bert.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7384cf36d69d5ef58e2e5d07c1dbc13a/rokuFeed/assets/9add53faddc6590a934859da2c0be5d2.jpg"/>
+    <episode-num system="onscreen">S06E03</episode-num>
+    <rating system="USA Parental Rating">TVMA</rating>
+  </programme>
+<programme channel="dead0e7a46da533c94c61c8710ef3418" start="20261115213836 +0000" stop="20261115223050 +0000">
+    <title>Doc Martin</title>
+    <sub-title>Doc Martin</sub-title>
+    <desc>Martin takes baby James to playgroup, where he is forced to sing along.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7384cf36d69d5ef58e2e5d07c1dbc13a/rokuFeed/assets/9add53faddc6590a934859da2c0be5d2.jpg"/>
+    <episode-num system="onscreen">S06E04</episode-num>
+    <rating system="USA Parental Rating">TVMA</rating>
+  </programme>
+<programme channel="dead0e7a46da533c94c61c8710ef3418" start="20261115223050 +0000" stop="20261115232309 +0000">
+    <title>Doc Martin</title>
+    <sub-title>Doc Martin</sub-title>
+    <desc>Mrs. Tishell returns to the village; Martin has to work out what is wrong with Lorna.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7384cf36d69d5ef58e2e5d07c1dbc13a/rokuFeed/assets/9add53faddc6590a934859da2c0be5d2.jpg"/>
+    <episode-num system="onscreen">S06E05</episode-num>
+    <rating system="USA Parental Rating">TVMA</rating>
+  </programme>
+<programme channel="dead0e7a46da533c94c61c8710ef3418" start="20261115232309 +0000" stop="20261116001525 +0000">
+    <title>Doc Martin</title>
+    <sub-title>Doc Martin</sub-title>
+    <desc>Martin's mother returns to Portwenn; asbestos causes panic; Bert has a question for Jennifer.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7384cf36d69d5ef58e2e5d07c1dbc13a/rokuFeed/assets/9add53faddc6590a934859da2c0be5d2.jpg"/>
+    <episode-num system="onscreen">S06E06</episode-num>
+    <rating system="USA Parental Rating">TVMA</rating>
+  </programme>
+<programme channel="dead0e7a46da533c94c61c8710ef3418" start="20261116001525 +0000" stop="20261116010808 +0000">
+    <title>Doc Martin</title>
+    <sub-title>Doc Martin</sub-title>
+    <desc>Martin helps Louisa hand out awards at school; showdown between Ruth and Margaret.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7384cf36d69d5ef58e2e5d07c1dbc13a/rokuFeed/assets/9add53faddc6590a934859da2c0be5d2.jpg"/>
+    <episode-num system="onscreen">S06E07</episode-num>
+    <rating system="USA Parental Rating">TVMA</rating>
+  </programme>
+<programme channel="dead0e7a46da533c94c61c8710ef3418" start="20261116010808 +0000" stop="20261116020027 +0000">
+    <title>Doc Martin</title>
+    <desc>Louisa has news for Martin; engagement party disaster; Al's business proposition.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7384cf36d69d5ef58e2e5d07c1dbc13a/rokuFeed/assets/9add53faddc6590a934859da2c0be5d2.jpg"/>
+    <episode-num system="onscreen">S06E08</episode-num>
+    <rating system="USA Parental Rating">TVMA</rating>
+  </programme>
+<programme channel="dead0e7a46da533c94c61c8710ef3418" start="20261116020027 +0000" stop="20261116025342 +0000">
+    <title>Doc Martin</title>
+    <sub-title>Doc Martin</sub-title>
+    <desc>Unusual first patient; Martin is forced off the road on his way out of the village.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7384cf36d69d5ef58e2e5d07c1dbc13a/rokuFeed/assets/9add53faddc6590a934859da2c0be5d2.jpg"/>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <rating system="USA Parental Rating">TVMA</rating>
+  </programme>
+<programme channel="dead0e7a46da533c94c61c8710ef3418" start="20261116025342 +0000" stop="20261116035624 +0000">
+    <title>Doc Martin</title>
+    <sub-title>Doc Martin</sub-title>
+    <desc>Though Martin has opened his surgery, his patients seem to treat it more as a social hangout.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7384cf36d69d5ef58e2e5d07c1dbc13a/rokuFeed/assets/9add53faddc6590a934859da2c0be5d2.jpg"/>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <rating system="USA Parental Rating">TVMA</rating>
+  </programme>
+<programme channel="dead0e7a46da533c94c61c8710ef3418" start="20261116035624 +0000" stop="20261116050000 +0000">
+    <title>Doc Martin</title>
+    <sub-title>Doc Martin</sub-title>
+    <desc>Martin makes his debut on a local radio station; a nasty stomach bug sweeps through Portwenn.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7384cf36d69d5ef58e2e5d07c1dbc13a/rokuFeed/assets/9add53faddc6590a934859da2c0be5d2.jpg"/>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <rating system="USA Parental Rating">TVMA</rating>
+  </programme>
+<programme channel="dead0e7a46da533c94c61c8710ef3418" start="20261116050000 +0000" stop="20261116055309 +0000">
+    <title>Doc Martin</title>
+    <sub-title>Doc Martin</sub-title>
+    <desc>Louisa invites Martin to the Portwenn Players Dance; house call.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7384cf36d69d5ef58e2e5d07c1dbc13a/rokuFeed/assets/9add53faddc6590a934859da2c0be5d2.jpg"/>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <rating system="USA Parental Rating">TVMA</rating>
+  </programme>
+<programme channel="dead0e7a46da533c94c61c8710ef3418" start="20261116055309 +0000" stop="20261116064612 +0000">
+    <title>Doc Martin</title>
+    <sub-title>Doc Martin</sub-title>
+    <desc>Martin's Aunt Joan wants to rekindle a romance with an old flame.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7384cf36d69d5ef58e2e5d07c1dbc13a/rokuFeed/assets/9add53faddc6590a934859da2c0be5d2.jpg"/>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <rating system="USA Parental Rating">TVMA</rating>
+  </programme>
+<programme channel="dead0e7a46da533c94c61c8710ef3418" start="20261116055309 +0000" stop="20261116064612 +0000">
+    <title>Doc Martin</title>
+    <sub-title>Doc Martin</sub-title>
+    <desc>Martin's Aunt Joan wants to rekindle a romance with an old flame.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7384cf36d69d5ef58e2e5d07c1dbc13a/rokuFeed/assets/9add53faddc6590a934859da2c0be5d2.jpg"/>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <rating system="USA Parental Rating">TVMA</rating>
+  </programme>
+<programme channel="dead0e7a46da533c94c61c8710ef3418" start="20261116064612 +0000" stop="20261116073925 +0000">
+    <title>Doc Martin</title>
+    <sub-title>Doc Martin</sub-title>
+    <desc>Martin tries to warn a woman about the dangers of sun bathing.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7384cf36d69d5ef58e2e5d07c1dbc13a/rokuFeed/assets/9add53faddc6590a934859da2c0be5d2.jpg"/>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <rating system="USA Parental Rating">TVMA</rating>
+  </programme>
+<programme channel="dead0e7a46da533c94c61c8710ef3418" start="20261116073925 +0000" stop="20261116083136 +0000">
+    <title>Doc Martin</title>
+    <sub-title>Doc Martin</sub-title>
+    <desc>Louisa's ex returns to Portwenn hoping for a reunion; Martin's patient has a history of self-injury.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7384cf36d69d5ef58e2e5d07c1dbc13a/rokuFeed/assets/9add53faddc6590a934859da2c0be5d2.jpg"/>
+    <episode-num system="onscreen">S02E01</episode-num>
+    <rating system="USA Parental Rating">TVMA</rating>
+  </programme>
+<programme channel="dead0e7a46da533c94c61c8710ef3418" start="20261116083136 +0000" stop="20261116092430 +0000">
+    <title>Doc Martin</title>
+    <sub-title>Doc Martin</sub-title>
+    <desc>Martin may not support Louisa's promotion to head teacher after they have a disagreement.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7384cf36d69d5ef58e2e5d07c1dbc13a/rokuFeed/assets/9add53faddc6590a934859da2c0be5d2.jpg"/>
+    <episode-num system="onscreen">S02E02</episode-num>
+    <rating system="USA Parental Rating">TVMA</rating>
+  </programme>
+<programme channel="dead0e7a46da533c94c61c8710ef3418" start="20261116092430 +0000" stop="20261116101736 +0000">
+    <title>Doc Martin</title>
+    <sub-title>Doc Martin</sub-title>
+    <desc>Bert hides a heartbreaking secret; Martin makes a house call to the odd Flint brothers.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7384cf36d69d5ef58e2e5d07c1dbc13a/rokuFeed/assets/9add53faddc6590a934859da2c0be5d2.jpg"/>
+    <episode-num system="onscreen">S02E03</episode-num>
+    <rating system="USA Parental Rating">TVMA</rating>
+  </programme>
+<programme channel="dead0e7a46da533c94c61c8710ef3418" start="20261116101736 +0000" stop="20261116111032 +0000">
+    <title>Doc Martin</title>
+    <sub-title>Doc Martin</sub-title>
+    <desc>A radio host may have an alcohol problem; Martin deals with a smelly patient.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7384cf36d69d5ef58e2e5d07c1dbc13a/rokuFeed/assets/9add53faddc6590a934859da2c0be5d2.jpg"/>
+    <episode-num system="onscreen">S02E04</episode-num>
+    <rating system="USA Parental Rating">TVMA</rating>
+  </programme>
+<programme channel="dead0e7a46da533c94c61c8710ef3418" start="20261116111032 +0000" stop="20261116120336 +0000">
+    <title>Doc Martin</title>
+    <sub-title>Doc Martin</sub-title>
+    <desc>When Helen Pratt dies during an examination, her husband accuses Martin of killing her.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7384cf36d69d5ef58e2e5d07c1dbc13a/rokuFeed/assets/9add53faddc6590a934859da2c0be5d2.jpg"/>
+    <episode-num system="onscreen">S02E05</episode-num>
+    <rating system="USA Parental Rating">TVMA</rating>
+  </programme>
+<programme channel="dead0e7a46da533c94c61c8710ef3418" start="20261116120336 +0000" stop="20261116125626 +0000">
+    <title>Doc Martin</title>
+    <sub-title>Doc Martin</sub-title>
+    <desc>Martin's parents visit; a woman receives startling news from Martin.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7384cf36d69d5ef58e2e5d07c1dbc13a/rokuFeed/assets/9add53faddc6590a934859da2c0be5d2.jpg"/>
+    <episode-num system="onscreen">S02E06</episode-num>
+    <rating system="USA Parental Rating">TVMA</rating>
+  </programme>
+<programme channel="dead0e7a46da533c94c61c8710ef3418" start="20261116125626 +0000" stop="20261116134935 +0000">
+    <title>Doc Martin</title>
+    <sub-title>Doc Martin</sub-title>
+    <desc>On his stag night, the groom is bitten by a snake, jeopardizing wedding plans.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7384cf36d69d5ef58e2e5d07c1dbc13a/rokuFeed/assets/9add53faddc6590a934859da2c0be5d2.jpg"/>
+    <episode-num system="onscreen">S02E07</episode-num>
+    <rating system="USA Parental Rating">TVMA</rating>
+  </programme>
+<programme channel="dead0e7a46da533c94c61c8710ef3418" start="20261116134935 +0000" stop="20261116144456 +0000">
+    <title>Doc Martin</title>
+    <sub-title>Doc Martin</sub-title>
+    <desc>Martin urges Mrs. Tishell to remove the collar she's worn for years.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7384cf36d69d5ef58e2e5d07c1dbc13a/rokuFeed/assets/9add53faddc6590a934859da2c0be5d2.jpg"/>
+    <episode-num system="onscreen">S02E08</episode-num>
+    <rating system="USA Parental Rating">TVMA</rating>
+  </programme>
+<programme channel="dead0e7a46da533c94c61c8710ef3418" start="20261116144456 +0000" stop="20261116153733 +0000">
+    <title>Doc Martin</title>
+    <sub-title>Doc Martin</sub-title>
+    <desc>A new police officer, who has narcolepsy, replaces Mark Mylow.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7384cf36d69d5ef58e2e5d07c1dbc13a/rokuFeed/assets/9add53faddc6590a934859da2c0be5d2.jpg"/>
+    <episode-num system="onscreen">S03E01</episode-num>
+    <rating system="USA Parental Rating">TVMA</rating>
+  </programme>
+<programme channel="dead0e7a46da533c94c61c8710ef3418" start="20261116153733 +0000" stop="20261116162939 +0000">
+    <title>Doc Martin</title>
+    <sub-title>Doc Martin</sub-title>
+    <desc>Unhappy with his lot in life, Bert Large abandons his plumbing business to start his own restaurant.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7384cf36d69d5ef58e2e5d07c1dbc13a/rokuFeed/assets/9add53faddc6590a934859da2c0be5d2.jpg"/>
+    <episode-num system="onscreen">S03E02</episode-num>
+    <rating system="USA Parental Rating">TVMA</rating>
+  </programme>
+<programme channel="dead0e7a46da533c94c61c8710ef3418" start="20261116162939 +0000" stop="20261116172223 +0000">
+    <title>Doc Martin</title>
+    <sub-title>Doc Martin</sub-title>
+    <desc>Louisa Glasson finds out she has a rival for Doc Martin's affections.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7384cf36d69d5ef58e2e5d07c1dbc13a/rokuFeed/assets/9add53faddc6590a934859da2c0be5d2.jpg"/>
+    <episode-num system="onscreen">S03E04</episode-num>
+    <rating system="USA Parental Rating">TVMA</rating>
+  </programme>
+<programme channel="dead0e7a46da533c94c61c8710ef3418" start="20261116172223 +0000" stop="20261116181455 +0000">
+    <title>Doc Martin</title>
+    <sub-title>Doc Martin</sub-title>
+    <desc>Doc Martin gets a chance to redeem himself when Louisa asks him to treat her friend Holly.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7384cf36d69d5ef58e2e5d07c1dbc13a/rokuFeed/assets/9add53faddc6590a934859da2c0be5d2.jpg"/>
+    <episode-num system="onscreen">S03E05</episode-num>
+    <rating system="USA Parental Rating">TV14</rating>
+  </programme>
+<programme channel="dead0e7a46da533c94c61c8710ef3418" start="20261116181455 +0000" stop="20261116190715 +0000">
+    <title>Doc Martin</title>
+    <sub-title>Doc Martin</sub-title>
+    <desc>Portwenn is buzzing with news; Bert's restaurant is in trouble.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7384cf36d69d5ef58e2e5d07c1dbc13a/rokuFeed/assets/9add53faddc6590a934859da2c0be5d2.jpg"/>
+    <episode-num system="onscreen">S03E06</episode-num>
+    <rating system="USA Parental Rating">TVMA</rating>
+  </programme>
+<programme channel="dead0e7a46da533c94c61c8710ef3418" start="20261116190715 +0000" stop="20261116200032 +0000">
+    <title>Doc Martin</title>
+    <sub-title>Doc Martin</sub-title>
+    <desc>Martin needs to find a replacement vicar; bridesmaid goes into labor.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7384cf36d69d5ef58e2e5d07c1dbc13a/rokuFeed/assets/9add53faddc6590a934859da2c0be5d2.jpg"/>
+    <episode-num system="onscreen">S03E07</episode-num>
+    <rating system="USA Parental Rating">TVMA</rating>
+  </programme>
+<programme channel="dead0e7a46da533c94c61c8710ef3418" start="20261116200032 +0000" stop="20261116205249 +0000">
+    <title>Doc Martin</title>
+    <sub-title>Doc Martin</sub-title>
+    <desc>Martin prepares to leave Portwenn when his relationship with Louisa fails.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7384cf36d69d5ef58e2e5d07c1dbc13a/rokuFeed/assets/9add53faddc6590a934859da2c0be5d2.jpg"/>
+    <episode-num system="onscreen">S04E01</episode-num>
+    <rating system="USA Parental Rating">TVMA</rating>
+  </programme>
+<programme channel="dead0e7a46da533c94c61c8710ef3418" start="20261116205249 +0000" stop="20261116214506 +0000">
+    <title>Doc Martin</title>
+    <sub-title>Doc Martin</sub-title>
+    <desc>Martin struggles with the news of Louisa's pregnancy; Louisa gets a checkup from Dr. Montgomery.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7384cf36d69d5ef58e2e5d07c1dbc13a/rokuFeed/assets/9add53faddc6590a934859da2c0be5d2.jpg"/>
+    <episode-num system="onscreen">S04E02</episode-num>
+    <rating system="USA Parental Rating">TVMA</rating>
+  </programme>
+<programme channel="dead0e7a46da533c94c61c8710ef3418" start="20261116214506 +0000" stop="20261116223724 +0000">
+    <title>Doc Martin</title>
+    <sub-title>Doc Martin</sub-title>
+    <desc>A scare over Louisa's pregnancy and subsequent scan seem to be thawing Doc.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7384cf36d69d5ef58e2e5d07c1dbc13a/rokuFeed/assets/9add53faddc6590a934859da2c0be5d2.jpg"/>
+    <episode-num system="onscreen">S04E03</episode-num>
+    <rating system="USA Parental Rating">TVMA</rating>
+  </programme>
+<programme channel="dead0e7a46da533c94c61c8710ef3418" start="20261116223724 +0000" stop="20261116232851 +0000">
+    <title>Doc Martin</title>
+    <sub-title>Doc Martin</sub-title>
+    <desc>Martin is angry that a pregnant Louisa is moving furniture; Louisa interviews for her old job.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7384cf36d69d5ef58e2e5d07c1dbc13a/rokuFeed/assets/9add53faddc6590a934859da2c0be5d2.jpg"/>
+    <episode-num system="onscreen">S04E04</episode-num>
+    <rating system="USA Parental Rating">TVMA</rating>
+  </programme>
+<programme channel="dead0e7a46da533c94c61c8710ef3418" start="20261116232851 +0000" stop="20261117002107 +0000">
+    <title>Doc Martin</title>
+    <sub-title>Doc Martin</sub-title>
+    <desc>Martin is irritated by having to sit next to one of his patients on a train returning to Cornwall.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7384cf36d69d5ef58e2e5d07c1dbc13a/rokuFeed/assets/9add53faddc6590a934859da2c0be5d2.jpg"/>
+    <episode-num system="onscreen">S04E05</episode-num>
+    <rating system="USA Parental Rating">TVMA</rating>
+  </programme>
+<programme channel="dead0e7a46da533c94c61c8710ef3418" start="20261117002107 +0000" stop="20261117011308 +0000">
+    <title>Doc Martin</title>
+    <sub-title>Doc Martin</sub-title>
+    <desc>Doc clashes with the new district midwife over natural methods.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7384cf36d69d5ef58e2e5d07c1dbc13a/rokuFeed/assets/9add53faddc6590a934859da2c0be5d2.jpg"/>
+    <episode-num system="onscreen">S04E06</episode-num>
+    <rating system="USA Parental Rating">TVMA</rating>
+  </programme>
+<programme channel="dead0e7a46da533c94c61c8710ef3418" start="20261117011308 +0000" stop="20261117020526 +0000">
+    <title>Doc Martin</title>
+    <sub-title>Doc Martin</sub-title>
+    <desc>Pauline decides to confront Martin after opening a letter addressed to him.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7384cf36d69d5ef58e2e5d07c1dbc13a/rokuFeed/assets/9add53faddc6590a934859da2c0be5d2.jpg"/>
+    <episode-num system="onscreen">S04E07</episode-num>
+    <rating system="USA Parental Rating">TVMA</rating>
+  </programme>
+<programme channel="dead0e7a46da533c94c61c8710ef3418" start="20261117020526 +0000" stop="20261117025750 +0000">
+    <title>Doc Martin</title>
+    <sub-title>Doc Martin</sub-title>
+    <desc>A taxi driver's migraine causes Louisa to go into premature labor.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7384cf36d69d5ef58e2e5d07c1dbc13a/rokuFeed/assets/9add53faddc6590a934859da2c0be5d2.jpg"/>
+    <episode-num system="onscreen">S04E08</episode-num>
+    <rating system="USA Parental Rating">TVMA</rating>
+  </programme>
+<programme channel="dead0e7a46da533c94c61c8710ef3418" start="20261117025750 +0000" stop="20261117035639 +0000">
+    <title>Doc Martin</title>
+    <sub-title>Doc Martin</sub-title>
+    <desc>Martin Ellingham's plans to resume his career are put on hold with the birth of a baby.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7384cf36d69d5ef58e2e5d07c1dbc13a/rokuFeed/assets/9add53faddc6590a934859da2c0be5d2.jpg"/>
+    <episode-num system="onscreen">S05E01</episode-num>
+    <rating system="USA Parental Rating">TVMA</rating>
+  </programme>
+<programme channel="dead0e7a46da533c94c61c8710ef3418" start="20261117035639 +0000" stop="20261117050000 +0000">
+    <title>Doc Martin</title>
+    <sub-title>Doc Martin</sub-title>
+    <desc>Doc Martin has to deal with the death of his Aunt Joan and demands of fatherhood.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7384cf36d69d5ef58e2e5d07c1dbc13a/rokuFeed/assets/9add53faddc6590a934859da2c0be5d2.jpg"/>
+    <episode-num system="onscreen">S05E02</episode-num>
+    <rating system="USA Parental Rating">TVMA</rating>
+  </programme>
+<programme channel="dead0e7a46da533c94c61c8710ef3418" start="20261117050000 +0000" stop="20261117055311 +0000">
+    <title>Doc Martin</title>
+    <sub-title>Doc Martin</sub-title>
+    <desc>Sleepless nights take their toll on Doc and Louisa; Shirley believes her son is poisoning her.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7384cf36d69d5ef58e2e5d07c1dbc13a/rokuFeed/assets/9add53faddc6590a934859da2c0be5d2.jpg"/>
+    <episode-num system="onscreen">S05E03</episode-num>
+    <rating system="USA Parental Rating">TVMA</rating>
+  </programme>
+<programme channel="dead0e7a46da533c94c61c8710ef3418" start="20261117055311 +0000" stop="20261117064551 +0000">
+    <title>Doc Martin</title>
+    <sub-title>Doc Martin</sub-title>
+    <desc>Louisa and Martin are not happy when Louisa's mom arrives unexpectedly.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7384cf36d69d5ef58e2e5d07c1dbc13a/rokuFeed/assets/9add53faddc6590a934859da2c0be5d2.jpg"/>
+    <episode-num system="onscreen">S05E04</episode-num>
+    <rating system="USA Parental Rating">TVMA</rating>
+  </programme>
+<programme channel="dead0e7a46da533c94c61c8710ef3418" start="20261117055311 +0000" stop="20261117064551 +0000">
+    <title>Doc Martin</title>
+    <sub-title>Doc Martin</sub-title>
+    <desc>Louisa and Martin are not happy when Louisa's mom arrives unexpectedly.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7384cf36d69d5ef58e2e5d07c1dbc13a/rokuFeed/assets/9add53faddc6590a934859da2c0be5d2.jpg"/>
+    <episode-num system="onscreen">S05E04</episode-num>
+    <rating system="USA Parental Rating">TVMA</rating>
+  </programme>
+<programme channel="dead0e7a46da533c94c61c8710ef3418" start="20261117064551 +0000" stop="20261117073841 +0000">
+    <title>Doc Martin</title>
+    <sub-title>Doc Martin</sub-title>
+    <desc>Joe Penhale's amnesiac ex-wife visits; Louisa's mother may find romance.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7384cf36d69d5ef58e2e5d07c1dbc13a/rokuFeed/assets/9add53faddc6590a934859da2c0be5d2.jpg"/>
+    <episode-num system="onscreen">S05E05</episode-num>
+    <rating system="USA Parental Rating">TVMA</rating>
+  </programme>
+<programme channel="dead0e7a46da533c94c61c8710ef3418" start="20261117073841 +0000" stop="20261117083139 +0000">
+    <title>Doc Martin</title>
+    <sub-title>Doc Martin</sub-title>
+    <desc>Joe Penhale is desperate to show Maggie he has changed; Martin has to rescue Mr. Coley.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7384cf36d69d5ef58e2e5d07c1dbc13a/rokuFeed/assets/9add53faddc6590a934859da2c0be5d2.jpg"/>
+    <episode-num system="onscreen">S05E06</episode-num>
+    <rating system="USA Parental Rating">TVMA</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261115074330 +0000" stop="20261115081350 +0000">
+    <title>Death Valley Days</title>
+    <sub-title>Death Valley Days</sub-title>
+    <desc>Charlie Bates' dream about a holdup becomes a reality and he becomes the suspect.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/07e66c5078c652059ff039a7bcf1a260/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2Fassets%2Fbanner%2F16_9%2FSeries%2F1709046893277_71ce0ef3060f55f6b4c7e4378ec97b25.jpg"/>
+    <episode-num system="onscreen">S06E05</episode-num>
+    <rating system="USA Parental Rating">TVPG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261115081350 +0000" stop="20261115084414 +0000">
+    <title>Death Valley Days</title>
+    <sub-title>Death Valley Days</sub-title>
+    <desc>Mark Twain, a news reporter in 1864, tangles with rival newspaperman Ganse Taylor.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/07e66c5078c652059ff039a7bcf1a260/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2Fassets%2Fbanner%2F16_9%2FSeries%2F1709046893277_71ce0ef3060f55f6b4c7e4378ec97b25.jpg"/>
+    <episode-num system="onscreen">S06E06</episode-num>
+    <rating system="USA Parental Rating">TVPG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261115084414 +0000" stop="20261115091431 +0000">
+    <title>Death Valley Days</title>
+    <sub-title>Death Valley Days</sub-title>
+    <desc>A gold-mining town dislikes newcomers, particularly the Easterner who swindled his way in.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/07e66c5078c652059ff039a7bcf1a260/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2Fassets%2Fbanner%2F16_9%2FSeries%2F1709046893277_71ce0ef3060f55f6b4c7e4378ec97b25.jpg"/>
+    <episode-num system="onscreen">S06E08</episode-num>
+    <rating system="USA Parental Rating">TVPG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261115091431 +0000" stop="20261115094451 +0000">
+    <title>Death Valley Days</title>
+    <sub-title>Death Valley Days</sub-title>
+    <desc>The California governor sends a lawman to track down a notorious bandit.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/07e66c5078c652059ff039a7bcf1a260/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2Fassets%2Fbanner%2F16_9%2FSeries%2F1709046893277_71ce0ef3060f55f6b4c7e4378ec97b25.jpg"/>
+    <episode-num system="onscreen">S06E09</episode-num>
+    <rating system="USA Parental Rating">TVPG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261115094451 +0000" stop="20261115101257 +0000">
+    <title>Death Valley Days</title>
+    <sub-title>Death Valley Days</sub-title>
+    <desc>Sitting Bull's war plans come between scout Frank Grouard and his Sioux bride.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/07e66c5078c652059ff039a7bcf1a260/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2Fassets%2Fbanner%2F16_9%2FSeries%2F1709046893277_71ce0ef3060f55f6b4c7e4378ec97b25.jpg"/>
+    <episode-num system="onscreen">S06E10</episode-num>
+    <rating system="USA Parental Rating">TVPG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261115101257 +0000" stop="20261115104312 +0000">
+    <title>Death Valley Days</title>
+    <sub-title>Death Valley Days</sub-title>
+    <desc>A man who arrived in San Francisco with the 49ers faces pressure to run for president.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/07e66c5078c652059ff039a7bcf1a260/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2Fassets%2Fbanner%2F16_9%2FSeries%2F1709046893277_71ce0ef3060f55f6b4c7e4378ec97b25.jpg"/>
+    <episode-num system="onscreen">S06E11</episode-num>
+    <rating system="USA Parental Rating">TVPG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261115104312 +0000" stop="20261115111328 +0000">
+    <title>Death Valley Days</title>
+    <sub-title>Death Valley Days</sub-title>
+    <desc>A jack-of-all-trades inadvertently finds a way to improve the water wheel.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/07e66c5078c652059ff039a7bcf1a260/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2Fassets%2Fbanner%2F16_9%2FSeries%2F1709046893277_71ce0ef3060f55f6b4c7e4378ec97b25.jpg"/>
+    <episode-num system="onscreen">S06E12</episode-num>
+    <rating system="USA Parental Rating">TVPG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261115111328 +0000" stop="20261115114046 +0000">
+    <title>The Beverly Hillbillies</title>
+    <sub-title>The Beverly Hillbillies</sub-title>
+    <desc>Jed receives news that his multimillion-dollar account is overdrawn by $34 million.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1663cab2b73e51d7b05e572d34d597a0/rokuFeed/assets/8a1f5f6970415e528df8c5c68e0d0611.jpg"/>
+    <episode-num system="onscreen">S02E08</episode-num>
+    <rating system="Motion Picture Association of America">PG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261115114046 +0000" stop="20261115121004 +0000">
+    <title>The Beverly Hillbillies</title>
+    <sub-title>The Beverly Hillbillies</sub-title>
+    <desc>The Clampetts, under the noxious influence of J.D. Clampett, an impostor, go to Hollywood.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1663cab2b73e51d7b05e572d34d597a0/rokuFeed/assets/8a1f5f6970415e528df8c5c68e0d0611.jpg"/>
+    <episode-num system="onscreen">S02E09</episode-num>
+    <rating system="Motion Picture Association of America">PG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261115121004 +0000" stop="20261115123933 +0000">
+    <title>The Beverly Hillbillies</title>
+    <sub-title>The Beverly Hillbillies</sub-title>
+    <desc>Plans for a holiday feast at the Clampett mansion go awry when Elly makes a pet of the turkey.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1663cab2b73e51d7b05e572d34d597a0/rokuFeed/assets/8a1f5f6970415e528df8c5c68e0d0611.jpg"/>
+    <episode-num system="onscreen">S02E10</episode-num>
+    <rating system="Motion Picture Association of America">UR</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261115123933 +0000" stop="20261115130857 +0000">
+    <title>The Beverly Hillbillies</title>
+    <sub-title>The Beverly Hillbillies</sub-title>
+    <desc>Mrs. Drysdale, giving a lavish garden party, finds that she is losing her guests to the Clampetts.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1663cab2b73e51d7b05e572d34d597a0/rokuFeed/assets/8a1f5f6970415e528df8c5c68e0d0611.jpg"/>
+    <episode-num system="onscreen">S02E11</episode-num>
+    <rating system="Motion Picture Association of America">PG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261115130857 +0000" stop="20261115133829 +0000">
+    <title>The Beverly Hillbillies</title>
+    <sub-title>The Beverly Hillbillies</sub-title>
+    <desc>The Clampetts try to participate in some of the more civilized pleasures of Beverly Hills.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1663cab2b73e51d7b05e572d34d597a0/rokuFeed/assets/8a1f5f6970415e528df8c5c68e0d0611.jpg"/>
+    <episode-num system="onscreen">S02E13</episode-num>
+    <rating system="Motion Picture Association of America">PG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261115133829 +0000" stop="20261115140538 +0000">
+    <title>The Beverly Hillbillies</title>
+    <sub-title>The Beverly Hillbillies</sub-title>
+    <desc>The Clampetts are somewhat befuddled by their Christmas gifts, all from Mr. Drysdale.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1663cab2b73e51d7b05e572d34d597a0/rokuFeed/assets/8a1f5f6970415e528df8c5c68e0d0611.jpg"/>
+    <episode-num system="onscreen">S02E14</episode-num>
+    <rating system="Motion Picture Association of America">PG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261115140538 +0000" stop="20261115143500 +0000">
+    <title>The Beverly Hillbillies</title>
+    <sub-title>The Beverly Hillbillies</sub-title>
+    <desc>Quirt Manly, celebrated star of television Westerns, is invited to the Clampett mansion.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1663cab2b73e51d7b05e572d34d597a0/rokuFeed/assets/8a1f5f6970415e528df8c5c68e0d0611.jpg"/>
+    <episode-num system="onscreen">S02E15</episode-num>
+    <rating system="Motion Picture Association of America">PG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261115143500 +0000" stop="20261115150211 +0000">
+    <title>The Beverly Hillbillies</title>
+    <sub-title>The Beverly Hillbillies</sub-title>
+    <desc>An Australian banker sends Drysdale a kangaroo as a joke, and Granny thinks it is a jackrabbit.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1663cab2b73e51d7b05e572d34d597a0/rokuFeed/assets/8a1f5f6970415e528df8c5c68e0d0611.jpg"/>
+    <episode-num system="onscreen">S02E16</episode-num>
+    <rating system="Motion Picture Association of America">PG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261115150211 +0000" stop="20261115153140 +0000">
+    <title>The Beverly Hillbillies</title>
+    <sub-title>The Beverly Hillbillies</sub-title>
+    <desc>A beauty-contest winner from the hills and her father visits Jethro with marriage on their minds.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1663cab2b73e51d7b05e572d34d597a0/rokuFeed/assets/8a1f5f6970415e528df8c5c68e0d0611.jpg"/>
+    <episode-num system="onscreen">S02E17</episode-num>
+    <rating system="Motion Picture Association of America">PG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261115153140 +0000" stop="20261115160115 +0000">
+    <title>The Beverly Hillbillies</title>
+    <sub-title>The Beverly Hillbillies</sub-title>
+    <desc>Backwoods freeloader Lafe Crick lingers on at the Clampett mansion as an unwanted guest.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1663cab2b73e51d7b05e572d34d597a0/rokuFeed/assets/8a1f5f6970415e528df8c5c68e0d0611.jpg"/>
+    <episode-num system="onscreen">S02E18</episode-num>
+    <rating system="Motion Picture Association of America">PG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261115160115 +0000" stop="20261115163251 +0000">
+    <title>The Beverly Hillbillies</title>
+    <sub-title>The Beverly Hillbillies</sub-title>
+    <desc>Elly May decides to enter a beauty competition to become the queen of Beverly Hills.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1663cab2b73e51d7b05e572d34d597a0/rokuFeed/assets/8a1f5f6970415e528df8c5c68e0d0611.jpg"/>
+    <episode-num system="onscreen">S02E19</episode-num>
+    <rating system="Motion Picture Association of America">PG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261115163251 +0000" stop="20261115170000 +0000">
+    <title>The Beverly Hillbillies</title>
+    <sub-title>The Beverly Hillbillies</sub-title>
+    <desc>A family reluctantly exchanges a one-room mountain cabin for $25 million and a 35-room mansion.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1663cab2b73e51d7b05e572d34d597a0/rokuFeed/assets/8a1f5f6970415e528df8c5c68e0d0611.jpg"/>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <rating system="Motion Picture Association of America">PG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261115170000 +0000" stop="20261115175740 +0000">
+    <title>Bonanza</title>
+    <sub-title>Bonanza</sub-title>
+    <desc>Outlaws plot to steal a trunk containing the savings of a religious group.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1e833f04c0855060a606dfdf77eb4d1a/rokuFeed/assets/7c80521596245ba3bbbdceb89fb6ce76.jpg"/>
+    <episode-num system="onscreen">S02E05</episode-num>
+    <rating system="Motion Picture Association of America">PG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261115175740 +0000" stop="20261115185314 +0000">
+    <title>Bonanza</title>
+    <sub-title>Bonanza</sub-title>
+    <desc>The Cartwrights help a former decorated Army scout find security for his daughter.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1e833f04c0855060a606dfdf77eb4d1a/rokuFeed/assets/7c80521596245ba3bbbdceb89fb6ce76.jpg"/>
+    <episode-num system="onscreen">S02E06</episode-num>
+    <rating system="Motion Picture Association of America">PG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261115185314 +0000" stop="20261115195100 +0000">
+    <title>Bonanza</title>
+    <sub-title>Bonanza</sub-title>
+    <desc>Hoss' bandit uncle decides to bypass the Ponderosa, but his gang disagrees.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1e833f04c0855060a606dfdf77eb4d1a/rokuFeed/assets/7c80521596245ba3bbbdceb89fb6ce76.jpg"/>
+    <episode-num system="onscreen">S02E07</episode-num>
+    <rating system="Motion Picture Association of America">PG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261115195100 +0000" stop="20261115204638 +0000">
+    <title>Bonanza</title>
+    <sub-title>Bonanza</sub-title>
+    <desc>Little Joe and Hoss seek Joe's date, who disappeared while the trio was at a carnival.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1e833f04c0855060a606dfdf77eb4d1a/rokuFeed/assets/7c80521596245ba3bbbdceb89fb6ce76.jpg"/>
+    <episode-num system="onscreen">S02E08</episode-num>
+    <rating system="Motion Picture Association of America">PG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261115204638 +0000" stop="20261115214216 +0000">
+    <title>Bonanza</title>
+    <sub-title>Bonanza</sub-title>
+    <desc>Bank robbers hide on a ranch that Hoss and Little Joe are visiting.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1e833f04c0855060a606dfdf77eb4d1a/rokuFeed/assets/7c80521596245ba3bbbdceb89fb6ce76.jpg"/>
+    <episode-num system="onscreen">S02E09</episode-num>
+    <rating system="Motion Picture Association of America">PG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261115214216 +0000" stop="20261115223754 +0000">
+    <title>Bonanza</title>
+    <sub-title>Bonanza</sub-title>
+    <desc>For saving his life, Ben offers some Ponderosa farmland to an American Indian.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1e833f04c0855060a606dfdf77eb4d1a/rokuFeed/assets/7c80521596245ba3bbbdceb89fb6ce76.jpg"/>
+    <episode-num system="onscreen">S02E10</episode-num>
+    <rating system="Motion Picture Association of America">PG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261115223754 +0000" stop="20261115233534 +0000">
+    <title>Bonanza</title>
+    <sub-title>Bonanza</sub-title>
+    <desc>An outlaw joins the cattle drive, knowing it will take him to the town where his father is sheriff.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1e833f04c0855060a606dfdf77eb4d1a/rokuFeed/assets/7c80521596245ba3bbbdceb89fb6ce76.jpg"/>
+    <episode-num system="onscreen">S02E11</episode-num>
+    <rating system="Motion Picture Association of America">PG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261115233534 +0000" stop="20261116000453 +0000">
+    <title>The Beverly Hillbillies</title>
+    <sub-title>The Beverly Hillbillies</sub-title>
+    <desc>The Clampetts, under the noxious influence of J.D. Clampett, an impostor, go to Hollywood.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1663cab2b73e51d7b05e572d34d597a0/rokuFeed/assets/8a1f5f6970415e528df8c5c68e0d0611.jpg"/>
+    <episode-num system="onscreen">S02E09</episode-num>
+    <rating system="Motion Picture Association of America">PG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261116000453 +0000" stop="20261116003421 +0000">
+    <title>The Beverly Hillbillies</title>
+    <sub-title>The Beverly Hillbillies</sub-title>
+    <desc>Plans for a holiday feast at the Clampett mansion go awry when Elly makes a pet of the turkey.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1663cab2b73e51d7b05e572d34d597a0/rokuFeed/assets/8a1f5f6970415e528df8c5c68e0d0611.jpg"/>
+    <episode-num system="onscreen">S02E10</episode-num>
+    <rating system="Motion Picture Association of America">UR</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261116003421 +0000" stop="20261116010136 +0000">
+    <title>The Beverly Hillbillies</title>
+    <sub-title>The Beverly Hillbillies</sub-title>
+    <desc>Mrs. Drysdale, giving a lavish garden party, finds that she is losing her guests to the Clampetts.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1663cab2b73e51d7b05e572d34d597a0/rokuFeed/assets/8a1f5f6970415e528df8c5c68e0d0611.jpg"/>
+    <episode-num system="onscreen">S02E11</episode-num>
+    <rating system="Motion Picture Association of America">PG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261116010136 +0000" stop="20261116013316 +0000">
+    <title>The Beverly Hillbillies</title>
+    <sub-title>The Beverly Hillbillies</sub-title>
+    <desc>Jed decides that his tomboy daughter Elly needs a mother to make her a lady.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1663cab2b73e51d7b05e572d34d597a0/rokuFeed/assets/8a1f5f6970415e528df8c5c68e0d0611.jpg"/>
+    <episode-num system="onscreen">S02E12</episode-num>
+    <rating system="Motion Picture Association of America">PG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261116013316 +0000" stop="20261116015827 +0000">
+    <title>The Beverly Hillbillies</title>
+    <sub-title>The Beverly Hillbillies</sub-title>
+    <desc>The Clampetts try to participate in some of the more civilized pleasures of Beverly Hills.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1663cab2b73e51d7b05e572d34d597a0/rokuFeed/assets/8a1f5f6970415e528df8c5c68e0d0611.jpg"/>
+    <episode-num system="onscreen">S02E13</episode-num>
+    <rating system="Motion Picture Association of America">PG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261116015827 +0000" stop="20261116022956 +0000">
+    <title>The Beverly Hillbillies</title>
+    <sub-title>The Beverly Hillbillies</sub-title>
+    <desc>The Clampetts are somewhat befuddled by their Christmas gifts, all from Mr. Drysdale.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1663cab2b73e51d7b05e572d34d597a0/rokuFeed/assets/8a1f5f6970415e528df8c5c68e0d0611.jpg"/>
+    <episode-num system="onscreen">S02E14</episode-num>
+    <rating system="Motion Picture Association of America">PG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261116022956 +0000" stop="20261116025707 +0000">
+    <title>The Beverly Hillbillies</title>
+    <sub-title>The Beverly Hillbillies</sub-title>
+    <desc>An Australian banker sends Drysdale a kangaroo as a joke, and Granny thinks it is a jackrabbit.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1663cab2b73e51d7b05e572d34d597a0/rokuFeed/assets/8a1f5f6970415e528df8c5c68e0d0611.jpg"/>
+    <episode-num system="onscreen">S02E16</episode-num>
+    <rating system="Motion Picture Association of America">PG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261116025707 +0000" stop="20261116032636 +0000">
+    <title>The Beverly Hillbillies</title>
+    <sub-title>The Beverly Hillbillies</sub-title>
+    <desc>A beauty-contest winner from the hills and her father visits Jethro with marriage on their minds.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1663cab2b73e51d7b05e572d34d597a0/rokuFeed/assets/8a1f5f6970415e528df8c5c68e0d0611.jpg"/>
+    <episode-num system="onscreen">S02E17</episode-num>
+    <rating system="Motion Picture Association of America">PG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261116032636 +0000" stop="20261116035612 +0000">
+    <title>The Beverly Hillbillies</title>
+    <sub-title>The Beverly Hillbillies</sub-title>
+    <desc>Backwoods freeloader Lafe Crick lingers on at the Clampett mansion as an unwanted guest.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1663cab2b73e51d7b05e572d34d597a0/rokuFeed/assets/8a1f5f6970415e528df8c5c68e0d0611.jpg"/>
+    <episode-num system="onscreen">S02E18</episode-num>
+    <rating system="Motion Picture Association of America">PG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261116035612 +0000" stop="20261116042328 +0000">
+    <title>The Beverly Hillbillies</title>
+    <sub-title>The Beverly Hillbillies</sub-title>
+    <desc>Elly May decides to enter a beauty competition to become the queen of Beverly Hills.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1663cab2b73e51d7b05e572d34d597a0/rokuFeed/assets/8a1f5f6970415e528df8c5c68e0d0611.jpg"/>
+    <episode-num system="onscreen">S02E19</episode-num>
+    <rating system="Motion Picture Association of America">PG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261116042328 +0000" stop="20261116045247 +0000">
+    <title>The Beverly Hillbillies</title>
+    <sub-title>The Beverly Hillbillies</sub-title>
+    <desc>A family reluctantly exchanges a one-room mountain cabin for $25 million and a 35-room mansion.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1663cab2b73e51d7b05e572d34d597a0/rokuFeed/assets/8a1f5f6970415e528df8c5c68e0d0611.jpg"/>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <rating system="Motion Picture Association of America">PG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261116045247 +0000" stop="20261116052016 +0000">
+    <title>The Beverly Hillbillies</title>
+    <sub-title>The Beverly Hillbillies</sub-title>
+    <desc>Jed and his family are mistaken for a staff of crazy servants when they move into their new mansion.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1663cab2b73e51d7b05e572d34d597a0/rokuFeed/assets/8a1f5f6970415e528df8c5c68e0d0611.jpg"/>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <rating system="Motion Picture Association of America">PG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261116052016 +0000" stop="20261116054931 +0000">
+    <title>The Beverly Hillbillies</title>
+    <sub-title>The Beverly Hillbillies</sub-title>
+    <desc>The Clampetts find that their mansion is a poor substitute for their mountain shack.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1663cab2b73e51d7b05e572d34d597a0/rokuFeed/assets/8a1f5f6970415e528df8c5c68e0d0611.jpg"/>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <rating system="Motion Picture Association of America">PG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261116054931 +0000" stop="20261116061858 +0000">
+    <title>The Beverly Hillbillies</title>
+    <sub-title>The Beverly Hillbillies</sub-title>
+    <desc>When Mr. Drysdale describes his wife as a hypochondriac, the Clampetts assume she's a tippler.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1663cab2b73e51d7b05e572d34d597a0/rokuFeed/assets/8a1f5f6970415e528df8c5c68e0d0611.jpg"/>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <rating system="Motion Picture Association of America">PG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261116054931 +0000" stop="20261116061858 +0000">
+    <title>The Beverly Hillbillies</title>
+    <sub-title>The Beverly Hillbillies</sub-title>
+    <desc>When Mr. Drysdale describes his wife as a hypochondriac, the Clampetts assume she's a tippler.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1663cab2b73e51d7b05e572d34d597a0/rokuFeed/assets/8a1f5f6970415e528df8c5c68e0d0611.jpg"/>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <rating system="Motion Picture Association of America">PG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261116061858 +0000" stop="20261116064629 +0000">
+    <title>The Beverly Hillbillies</title>
+    <sub-title>The Beverly Hillbillies</sub-title>
+    <desc>The homesick Clampetts decide to go calling on their Beverly Hills neighbors.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1663cab2b73e51d7b05e572d34d597a0/rokuFeed/assets/8a1f5f6970415e528df8c5c68e0d0611.jpg"/>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <rating system="Motion Picture Association of America">PG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261116064629 +0000" stop="20261116071812 +0000">
+    <title>The Beverly Hillbillies</title>
+    <sub-title>The Beverly Hillbillies</sub-title>
+    <desc>Drysdale attempts another step in the social renovation of the Clampetts.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1663cab2b73e51d7b05e572d34d597a0/rokuFeed/assets/8a1f5f6970415e528df8c5c68e0d0611.jpg"/>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <rating system="Motion Picture Association of America">PG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261116071812 +0000" stop="20261116074528 +0000">
+    <title>The Beverly Hillbillies</title>
+    <sub-title>The Beverly Hillbillies</sub-title>
+    <desc>A private school teacher is shocked to learn that her new fifth-grade student is Jethro.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1663cab2b73e51d7b05e572d34d597a0/rokuFeed/assets/8a1f5f6970415e528df8c5c68e0d0611.jpg"/>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <rating system="Motion Picture Association of America">PG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261116074528 +0000" stop="20261116081451 +0000">
+    <title>The Beverly Hillbillies</title>
+    <sub-title>The Beverly Hillbillies</sub-title>
+    <desc>Elly May's first date in Beverly Hills ends in a riot of confusion before it even starts.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1663cab2b73e51d7b05e572d34d597a0/rokuFeed/assets/8a1f5f6970415e528df8c5c68e0d0611.jpg"/>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <rating system="Motion Picture Association of America">PG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261116081451 +0000" stop="20261116084211 +0000">
+    <title>The Beverly Hillbillies</title>
+    <sub-title>The Beverly Hillbillies</sub-title>
+    <desc>Sonny Drysdale plays Pygmalion and Julius Caesar as he resumes his courtship of Elly May.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1663cab2b73e51d7b05e572d34d597a0/rokuFeed/assets/8a1f5f6970415e528df8c5c68e0d0611.jpg"/>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <rating system="Motion Picture Association of America">PG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261116084211 +0000" stop="20261116091133 +0000">
+    <title>The Beverly Hillbillies</title>
+    <sub-title>The Beverly Hillbillies</sub-title>
+    <desc>The Clampetts try to get Sonny to propose to Elly before Pearl can get her daughter married to him.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1663cab2b73e51d7b05e572d34d597a0/rokuFeed/assets/8a1f5f6970415e528df8c5c68e0d0611.jpg"/>
+    <episode-num system="onscreen">S01E11</episode-num>
+    <rating system="Motion Picture Association of America">PG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261116091133 +0000" stop="20261116094108 +0000">
+    <title>The Beverly Hillbillies</title>
+    <sub-title>The Beverly Hillbillies</sub-title>
+    <desc>The Clampetts load their shootin' irons for a match with the Drysdales when Sonny jilts Elly May.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1663cab2b73e51d7b05e572d34d597a0/rokuFeed/assets/8a1f5f6970415e528df8c5c68e0d0611.jpg"/>
+    <episode-num system="onscreen">S01E12</episode-num>
+    <rating system="Motion Picture Association of America">PG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261116094108 +0000" stop="20261116100822 +0000">
+    <title>The Beverly Hillbillies</title>
+    <sub-title>The Beverly Hillbillies</sub-title>
+    <desc>The Clampetts take their first plane ride for a Christmas visit back home with Cousin Pearl.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1663cab2b73e51d7b05e572d34d597a0/rokuFeed/assets/8a1f5f6970415e528df8c5c68e0d0611.jpg"/>
+    <episode-num system="onscreen">S01E13</episode-num>
+    <rating system="Motion Picture Association of America">PG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261116100822 +0000" stop="20261116104008 +0000">
+    <title>The Beverly Hillbillies</title>
+    <sub-title>The Beverly Hillbillies</sub-title>
+    <desc>Pearl's efforts to snag Mr. Brewster seem doomed until he makes a ridiculous public proposal.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1663cab2b73e51d7b05e572d34d597a0/rokuFeed/assets/8a1f5f6970415e528df8c5c68e0d0611.jpg"/>
+    <episode-num system="onscreen">S01E15</episode-num>
+    <rating system="Motion Picture Association of America">PG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261116104008 +0000" stop="20261116110730 +0000">
+    <title>The Beverly Hillbillies</title>
+    <sub-title>The Beverly Hillbillies</sub-title>
+    <desc>Jed is confronted with too many cooks and not enough vittles when he invites Pearl and Jethrine.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1663cab2b73e51d7b05e572d34d597a0/rokuFeed/assets/8a1f5f6970415e528df8c5c68e0d0611.jpg"/>
+    <episode-num system="onscreen">S01E16</episode-num>
+    <rating system="Motion Picture Association of America">PG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261116110730 +0000" stop="20261116120306 +0000">
+    <title>Bonanza</title>
+    <sub-title>Bonanza</sub-title>
+    <desc>When Adam passes through a sacred Indian burial ground, Shoshone braves attack him in revenge.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1e833f04c0855060a606dfdf77eb4d1a/rokuFeed/assets/7c80521596245ba3bbbdceb89fb6ce76.jpg"/>
+    <episode-num system="onscreen">S02E12</episode-num>
+    <rating system="Motion Picture Association of America">PG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261116120306 +0000" stop="20261116130038 +0000">
+    <title>Bonanza</title>
+    <sub-title>Bonanza</sub-title>
+    <desc>Little Joe's efforts to help a deaf-mute girl backfire when she falls in love with him.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1e833f04c0855060a606dfdf77eb4d1a/rokuFeed/assets/7c80521596245ba3bbbdceb89fb6ce76.jpg"/>
+    <episode-num system="onscreen">S02E13</episode-num>
+    <rating system="Motion Picture Association of America">PG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261116130038 +0000" stop="20261116135825 +0000">
+    <title>Bonanza</title>
+    <sub-title>Bonanza</sub-title>
+    <desc>Adam and Little Joe try to warn Hoss when he befriends a violent man.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1e833f04c0855060a606dfdf77eb4d1a/rokuFeed/assets/7c80521596245ba3bbbdceb89fb6ce76.jpg"/>
+    <episode-num system="onscreen">S02E14</episode-num>
+    <rating system="Motion Picture Association of America">PG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261116135825 +0000" stop="20261116145359 +0000">
+    <title>Bonanza</title>
+    <sub-title>Bonanza</sub-title>
+    <desc>An Easterner looking for his father learns a Cartwright killed him in self-defense.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1e833f04c0855060a606dfdf77eb4d1a/rokuFeed/assets/7c80521596245ba3bbbdceb89fb6ce76.jpg"/>
+    <episode-num system="onscreen">S02E15</episode-num>
+    <rating system="Motion Picture Association of America">PG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261116145359 +0000" stop="20261116154950 +0000">
+    <title>Bonanza</title>
+    <sub-title>Bonanza</sub-title>
+    <desc>Adam tells betrothed Hoss his intended is a compulsive gambler who caused her husband's death.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1e833f04c0855060a606dfdf77eb4d1a/rokuFeed/assets/7c80521596245ba3bbbdceb89fb6ce76.jpg"/>
+    <episode-num system="onscreen">S02E16</episode-num>
+    <rating system="Motion Picture Association of America">PG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261116154950 +0000" stop="20261116164525 +0000">
+    <title>Bonanza</title>
+    <sub-title>Bonanza</sub-title>
+    <desc>A Kentucky mountain clan swears revenge on Little Joe after he shoots a family member for arson.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1e833f04c0855060a606dfdf77eb4d1a/rokuFeed/assets/7c80521596245ba3bbbdceb89fb6ce76.jpg"/>
+    <episode-num system="onscreen">S02E17</episode-num>
+    <rating system="Motion Picture Association of America">PG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261116164525 +0000" stop="20261116174100 +0000">
+    <title>Bonanza</title>
+    <sub-title>Bonanza</sub-title>
+    <desc>Little Joe and Hoss, mistaken for gunmen, get caught between feuding families.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1e833f04c0855060a606dfdf77eb4d1a/rokuFeed/assets/7c80521596245ba3bbbdceb89fb6ce76.jpg"/>
+    <episode-num system="onscreen">S01E19</episode-num>
+    <rating system="Motion Picture Association of America">PG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261116174100 +0000" stop="20261116181313 +0000">
+    <title>Death Valley Days</title>
+    <sub-title>Death Valley Days</sub-title>
+    <desc>When a medicine man gives a boy a tonic that puts him in a coma, an apothecary must find the cure.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/07e66c5078c652059ff039a7bcf1a260/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2Fassets%2Fbanner%2F16_9%2FSeries%2F1709046893277_71ce0ef3060f55f6b4c7e4378ec97b25.jpg"/>
+    <episode-num system="onscreen">S07E30</episode-num>
+    <rating system="USA Parental Rating">TVPG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261116181313 +0000" stop="20261116184108 +0000">
+    <title>Death Valley Days</title>
+    <sub-title>Death Valley Days</sub-title>
+    <desc>Two brothers work to make money for each other; one prospects for gold and the other raises a horse.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/07e66c5078c652059ff039a7bcf1a260/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2Fassets%2Fbanner%2F16_9%2FSeries%2F1709046893277_71ce0ef3060f55f6b4c7e4378ec97b25.jpg"/>
+    <episode-num system="onscreen">S07E31</episode-num>
+    <rating system="USA Parental Rating">TVPG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261116184108 +0000" stop="20261116191109 +0000">
+    <title>Death Valley Days</title>
+    <sub-title>Death Valley Days</sub-title>
+    <desc>An injured man harbors ill intent for the trading post owners offering him shelter.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/07e66c5078c652059ff039a7bcf1a260/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2Fassets%2Fbanner%2F16_9%2FSeries%2F1709046893277_71ce0ef3060f55f6b4c7e4378ec97b25.jpg"/>
+    <episode-num system="onscreen">S07E32</episode-num>
+    <rating system="USA Parental Rating">TVPG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261116191109 +0000" stop="20261116194117 +0000">
+    <title>Death Valley Days</title>
+    <sub-title>Death Valley Days</sub-title>
+    <desc>A newcomer helps free a town from beneath the heel of a gunslinging saloon owner.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/07e66c5078c652059ff039a7bcf1a260/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2Fassets%2Fbanner%2F16_9%2FSeries%2F1709046893277_71ce0ef3060f55f6b4c7e4378ec97b25.jpg"/>
+    <episode-num system="onscreen">S07E33</episode-num>
+    <rating system="Motion Picture Association of America">PG13</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261116194117 +0000" stop="20261116201123 +0000">
+    <title>Death Valley Days</title>
+    <sub-title>Death Valley Days</sub-title>
+    <desc>A man goes too far promoting a phony religious philosophy based on the novel "The Gates Ajar."</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/07e66c5078c652059ff039a7bcf1a260/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2Fassets%2Fbanner%2F16_9%2FSeries%2F1709046893277_71ce0ef3060f55f6b4c7e4378ec97b25.jpg"/>
+    <episode-num system="onscreen">S08E03</episode-num>
+    <rating system="USA Parental Rating">TVPG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261116201123 +0000" stop="20261116204127 +0000">
+    <title>Death Valley Days</title>
+    <sub-title>Death Valley Days</sub-title>
+    <desc>Sam Kee, ostracized because he's Chinese, finds refuge at a fort after saving a soldier's life.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/07e66c5078c652059ff039a7bcf1a260/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2Fassets%2Fbanner%2F16_9%2FSeries%2F1709046893277_71ce0ef3060f55f6b4c7e4378ec97b25.jpg"/>
+    <episode-num system="onscreen">S08E04</episode-num>
+    <rating system="USA Parental Rating">TVPG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261116204127 +0000" stop="20261116211130 +0000">
+    <title>Death Valley Days</title>
+    <sub-title>Death Valley Days</sub-title>
+    <desc>Russian Grand Duke Alexis is touring the West and the government assigns Buffalo Bill as his guide.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/07e66c5078c652059ff039a7bcf1a260/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2Fassets%2Fbanner%2F16_9%2FSeries%2F1709046893277_71ce0ef3060f55f6b4c7e4378ec97b25.jpg"/>
+    <episode-num system="onscreen">S08E05</episode-num>
+    <rating system="USA Parental Rating">TVPG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261116211130 +0000" stop="20261116214135 +0000">
+    <title>Death Valley Days</title>
+    <sub-title>Death Valley Days</sub-title>
+    <desc>When valuable items disappear, Maj. Bullock suspects Charlie Stoner.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/07e66c5078c652059ff039a7bcf1a260/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2Fassets%2Fbanner%2F16_9%2FSeries%2F1709046893277_71ce0ef3060f55f6b4c7e4378ec97b25.jpg"/>
+    <episode-num system="onscreen">S08E06</episode-num>
+    <rating system="USA Parental Rating">TVPG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261116214135 +0000" stop="20261116220928 +0000">
+    <title>Death Valley Days</title>
+    <sub-title>Death Valley Days</sub-title>
+    <desc>A doctor, ostracized after allowing a patient to die, gets a chance at redemption.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/07e66c5078c652059ff039a7bcf1a260/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2Fassets%2Fbanner%2F16_9%2FSeries%2F1709046893277_71ce0ef3060f55f6b4c7e4378ec97b25.jpg"/>
+    <episode-num system="onscreen">S08E07</episode-num>
+    <rating system="USA Parental Rating">TVPG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261116220928 +0000" stop="20261116223931 +0000">
+    <title>Death Valley Days</title>
+    <sub-title>Death Valley Days</sub-title>
+    <desc>After a skirmish with hostile Natives, prisoners arrive at the fort, including an ill girl.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/07e66c5078c652059ff039a7bcf1a260/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2Fassets%2Fbanner%2F16_9%2FSeries%2F1709046893277_71ce0ef3060f55f6b4c7e4378ec97b25.jpg"/>
+    <episode-num system="onscreen">S08E08</episode-num>
+    <rating system="USA Parental Rating">TVPG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261116223931 +0000" stop="20261116230935 +0000">
+    <title>Death Valley Days</title>
+    <sub-title>Death Valley Days</sub-title>
+    <desc>Rival communications companies vie for bonus money to build the first transcontinental telegraph.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/07e66c5078c652059ff039a7bcf1a260/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2Fassets%2Fbanner%2F16_9%2FSeries%2F1709046893277_71ce0ef3060f55f6b4c7e4378ec97b25.jpg"/>
+    <episode-num system="onscreen">S08E09</episode-num>
+    <rating system="USA Parental Rating">TVPG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261116230935 +0000" stop="20261116233938 +0000">
+    <title>Death Valley Days</title>
+    <sub-title>Death Valley Days</sub-title>
+    <desc>The son of a Native chief faces trial after being accused of the murder of a fellow tribesman.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/07e66c5078c652059ff039a7bcf1a260/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2Fassets%2Fbanner%2F16_9%2FSeries%2F1709046893277_71ce0ef3060f55f6b4c7e4378ec97b25.jpg"/>
+    <episode-num system="onscreen">S08E10</episode-num>
+    <rating system="USA Parental Rating">TVPG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261116233938 +0000" stop="20261117000730 +0000">
+    <title>Death Valley Days</title>
+    <sub-title>Death Valley Days</sub-title>
+    <desc>A notorious Apache is in the area and a local captain's son is missing.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/07e66c5078c652059ff039a7bcf1a260/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2Fassets%2Fbanner%2F16_9%2FSeries%2F1709046893277_71ce0ef3060f55f6b4c7e4378ec97b25.jpg"/>
+    <episode-num system="onscreen">S08E11</episode-num>
+    <rating system="USA Parental Rating">TVPG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261117000730 +0000" stop="20261117003729 +0000">
+    <title>Death Valley Days</title>
+    <sub-title>Death Valley Days</sub-title>
+    <desc>A female journalist reports on a corrupt politician.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/07e66c5078c652059ff039a7bcf1a260/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2Fassets%2Fbanner%2F16_9%2FSeries%2F1709046893277_71ce0ef3060f55f6b4c7e4378ec97b25.jpg"/>
+    <episode-num system="onscreen">S08E13</episode-num>
+    <rating system="USA Parental Rating">TVPG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261117003729 +0000" stop="20261117010730 +0000">
+    <title>Death Valley Days</title>
+    <sub-title>Death Valley Days</sub-title>
+    <desc>A lawyer defends an alleged killer.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/07e66c5078c652059ff039a7bcf1a260/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2Fassets%2Fbanner%2F16_9%2FSeries%2F1709046893277_71ce0ef3060f55f6b4c7e4378ec97b25.jpg"/>
+    <episode-num system="onscreen">S08E14</episode-num>
+    <rating system="USA Parental Rating">TVPG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261117010730 +0000" stop="20261117013654 +0000">
+    <title>The Beverly Hillbillies</title>
+    <sub-title>The Beverly Hillbillies</sub-title>
+    <desc>Elly May's first date in Beverly Hills ends in a riot of confusion before it even starts.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1663cab2b73e51d7b05e572d34d597a0/rokuFeed/assets/8a1f5f6970415e528df8c5c68e0d0611.jpg"/>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <rating system="Motion Picture Association of America">PG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261117013654 +0000" stop="20261117020623 +0000">
+    <title>The Beverly Hillbillies</title>
+    <sub-title>The Beverly Hillbillies</sub-title>
+    <desc>Sonny Drysdale plays Pygmalion and Julius Caesar as he resumes his courtship of Elly May.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1663cab2b73e51d7b05e572d34d597a0/rokuFeed/assets/8a1f5f6970415e528df8c5c68e0d0611.jpg"/>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <rating system="Motion Picture Association of America">PG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261117020623 +0000" stop="20261117023546 +0000">
+    <title>The Beverly Hillbillies</title>
+    <sub-title>The Beverly Hillbillies</sub-title>
+    <desc>The Clampetts try to get Sonny to propose to Elly before Pearl can get her daughter married to him.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1663cab2b73e51d7b05e572d34d597a0/rokuFeed/assets/8a1f5f6970415e528df8c5c68e0d0611.jpg"/>
+    <episode-num system="onscreen">S01E11</episode-num>
+    <rating system="Motion Picture Association of America">PG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261117023546 +0000" stop="20261117030521 +0000">
+    <title>The Beverly Hillbillies</title>
+    <sub-title>The Beverly Hillbillies</sub-title>
+    <desc>The Clampetts load their shootin' irons for a match with the Drysdales when Sonny jilts Elly May.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1663cab2b73e51d7b05e572d34d597a0/rokuFeed/assets/8a1f5f6970415e528df8c5c68e0d0611.jpg"/>
+    <episode-num system="onscreen">S01E12</episode-num>
+    <rating system="Motion Picture Association of America">PG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261117030521 +0000" stop="20261117033235 +0000">
+    <title>The Beverly Hillbillies</title>
+    <sub-title>The Beverly Hillbillies</sub-title>
+    <desc>The Clampetts take their first plane ride for a Christmas visit back home with Cousin Pearl.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1663cab2b73e51d7b05e572d34d597a0/rokuFeed/assets/8a1f5f6970415e528df8c5c68e0d0611.jpg"/>
+    <episode-num system="onscreen">S01E13</episode-num>
+    <rating system="Motion Picture Association of America">PG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261117033235 +0000" stop="20261117040215 +0000">
+    <title>The Beverly Hillbillies</title>
+    <sub-title>The Beverly Hillbillies</sub-title>
+    <desc>The Clampetts help Cousin Pearl woo Mr. Brewster, the big oil company executive.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1663cab2b73e51d7b05e572d34d597a0/rokuFeed/assets/8a1f5f6970415e528df8c5c68e0d0611.jpg"/>
+    <episode-num system="onscreen">S01E14</episode-num>
+    <rating system="Motion Picture Association of America">PG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261117040215 +0000" stop="20261117042941 +0000">
+    <title>The Beverly Hillbillies</title>
+    <sub-title>The Beverly Hillbillies</sub-title>
+    <desc>Pearl's efforts to snag Mr. Brewster seem doomed until he makes a ridiculous public proposal.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1663cab2b73e51d7b05e572d34d597a0/rokuFeed/assets/8a1f5f6970415e528df8c5c68e0d0611.jpg"/>
+    <episode-num system="onscreen">S01E15</episode-num>
+    <rating system="Motion Picture Association of America">PG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261117042941 +0000" stop="20261117045914 +0000">
+    <title>The Beverly Hillbillies</title>
+    <sub-title>The Beverly Hillbillies</sub-title>
+    <desc>Jed is confronted with too many cooks and not enough vittles when he invites Pearl and Jethrine.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1663cab2b73e51d7b05e572d34d597a0/rokuFeed/assets/8a1f5f6970415e528df8c5c68e0d0611.jpg"/>
+    <episode-num system="onscreen">S01E16</episode-num>
+    <rating system="Motion Picture Association of America">PG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261117045914 +0000" stop="20261117052842 +0000">
+    <title>The Beverly Hillbillies</title>
+    <sub-title>The Beverly Hillbillies</sub-title>
+    <desc>Trying to cool a feud, Jed takes his family on a sightseeing tour of Beverly Hills.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1663cab2b73e51d7b05e572d34d597a0/rokuFeed/assets/8a1f5f6970415e528df8c5c68e0d0611.jpg"/>
+    <episode-num system="onscreen">S01E17</episode-num>
+    <rating system="Motion Picture Association of America">PG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261117052842 +0000" stop="20261117055902 +0000">
+    <title>Death Valley Days</title>
+    <sub-title>Death Valley Days</sub-title>
+    <desc>Wyatt Earp takes steps to protect a prospector from claim jumpers.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/07e66c5078c652059ff039a7bcf1a260/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2Fassets%2Fbanner%2F16_9%2FSeries%2F1709046893277_71ce0ef3060f55f6b4c7e4378ec97b25.jpg"/>
+    <episode-num system="onscreen">S06E14</episode-num>
+    <rating system="USA Parental Rating">TVPG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261117055902 +0000" stop="20261117062923 +0000">
+    <title>Death Valley Days</title>
+    <sub-title>Death Valley Days</sub-title>
+    <desc>A young American pirate falls in love with the woman who saved him from execution.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/07e66c5078c652059ff039a7bcf1a260/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2Fassets%2Fbanner%2F16_9%2FSeries%2F1709046893277_71ce0ef3060f55f6b4c7e4378ec97b25.jpg"/>
+    <episode-num system="onscreen">S06E15</episode-num>
+    <rating system="USA Parental Rating">TVPG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261117055902 +0000" stop="20261117062923 +0000">
+    <title>Death Valley Days</title>
+    <sub-title>Death Valley Days</sub-title>
+    <desc>A young American pirate falls in love with the woman who saved him from execution.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/07e66c5078c652059ff039a7bcf1a260/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2Fassets%2Fbanner%2F16_9%2FSeries%2F1709046893277_71ce0ef3060f55f6b4c7e4378ec97b25.jpg"/>
+    <episode-num system="onscreen">S06E15</episode-num>
+    <rating system="USA Parental Rating">TVPG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261117062923 +0000" stop="20261117065941 +0000">
+    <title>Death Valley Days</title>
+    <sub-title>Death Valley Days</sub-title>
+    <desc>Four ex-businessmen find ranching tougher than they thought when someone steals their cattle.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/07e66c5078c652059ff039a7bcf1a260/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2Fassets%2Fbanner%2F16_9%2FSeries%2F1709046893277_71ce0ef3060f55f6b4c7e4378ec97b25.jpg"/>
+    <episode-num system="onscreen">S06E16</episode-num>
+    <rating system="USA Parental Rating">TVPG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261117065941 +0000" stop="20261117072955 +0000">
+    <title>Death Valley Days</title>
+    <sub-title>Death Valley Days</sub-title>
+    <desc>A prospector who buys a hearse earns jeers from all around him.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/07e66c5078c652059ff039a7bcf1a260/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2Fassets%2Fbanner%2F16_9%2FSeries%2F1709046893277_71ce0ef3060f55f6b4c7e4378ec97b25.jpg"/>
+    <episode-num system="onscreen">S06E17</episode-num>
+    <rating system="USA Parental Rating">TVPG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261117072955 +0000" stop="20261117080115 +0000">
+    <title>Death Valley Days</title>
+    <sub-title>Death Valley Days</sub-title>
+    <desc>Nan Gable has only her horse for company as she travels from California to New York.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/07e66c5078c652059ff039a7bcf1a260/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2Fassets%2Fbanner%2F16_9%2FSeries%2F1709046893277_71ce0ef3060f55f6b4c7e4378ec97b25.jpg"/>
+    <episode-num system="onscreen">S06E18</episode-num>
+    <rating system="USA Parental Rating">TVPG</rating>
+  </programme>
+<programme channel="e2e10d08139b56aba73a448f5555b6fd" start="20261117080115 +0000" stop="20261117082926 +0000">
+    <title>Death Valley Days</title>
+    <sub-title>Death Valley Days</sub-title>
+    <desc>Wells Fargo stage driver Charlie Parkhurst wins fame for his daring endeavors.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/07e66c5078c652059ff039a7bcf1a260/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2Fassets%2Fbanner%2F16_9%2FSeries%2F1709046893277_71ce0ef3060f55f6b4c7e4378ec97b25.jpg"/>
+    <episode-num system="onscreen">S06E19</episode-num>
     <rating system="USA Parental Rating">TVPG</rating>
   </programme>
 <programme channel="be3c81de355c56f89cbf99301735cfd2" start="20261115073500 +0000" stop="20261115092000 +0000">
@@ -5279,14 +6462,6 @@
     <desc>A supernatural serial killer based on pre-Colombian mythology hunts for revenge.</desc>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/baaefebd0af450e5bc10c45bae2da6bf/images/gracenote/assets/p18608531_v_h10_ab.jpg"/>
     <rating system="Motion Picture Association of America">UR</rating>
-  </programme>
-<programme channel="11c7c3660c6b6f18a21838fd404a7a1d" start="20261115070455 +0000" stop="20261115075737 +0000">
-    <title>Stargate SG-1</title>
-    <sub-title>Stargate SG-1</sub-title>
-    <desc>Forces commandeer an alien spaceship in an underground bunker.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/29746dcb54385b5e9cf7c58b1e1cc533/rokuFeed/assets/021cffb73221514690dbd7137e35fb3e.jpg"/>
-    <episode-num system="onscreen">S06E11</episode-num>
-    <rating system="USA Parental Rating">TVMA</rating>
   </programme>
 <programme channel="11c7c3660c6b6f18a21838fd404a7a1d" start="20261115075737 +0000" stop="20261115085016 +0000">
     <title>Stargate SG-1</title>
@@ -8582,12 +9757,6 @@ Early one morning in a deserted area outside of Phoenix, a motorcyclist discover
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ba10ad3f121da51ee8f059c075000c3c/rokuFeed/assets/b22de65fb4b958498cad92249761fe60.jpeg"/>
     <episode-num system="onscreen">S202526E18</episode-num>
   </programme>
-<programme channel="17ee6c346f0888dbb217971516686d56" start="20261115070000 +0000" stop="20261115080000 +0000">
-    <title>El Vacilón de la Mañana</title>
-    <desc>Una descarga inagotable de humor, ocurrencias callejeras y la mejor energía de Nueva York.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c5815841b405818d99cb9676680931ab/rokuFeed/assets/0541eb680e785300beaa67ac04fe58aa.jpg"/>
-    <rating system="USA Parental Rating">TVG</rating>
-  </programme>
 <programme channel="17ee6c346f0888dbb217971516686d56" start="20261115080000 +0000" stop="20261115090000 +0000">
     <title>El Despelote</title>
     <desc>Cuando se juntan la chispa boricua, la burla sin límites y la música que prende todo.</desc>
@@ -8876,6 +10045,12 @@ Early one morning in a deserted area outside of Phoenix, a motorcyclist discover
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c5815841b405818d99cb9676680931ab/rokuFeed/assets/0541eb680e785300beaa67ac04fe58aa.jpg"/>
     <rating system="USA Parental Rating">TVG</rating>
   </programme>
+<programme channel="17ee6c346f0888dbb217971516686d56" start="20261117080000 +0000" stop="20261117090000 +0000">
+    <title>El Despelote</title>
+    <desc>Cuando se juntan la chispa boricua, la burla sin límites y la música que prende todo.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7c2ccb5533a735cb46055a06bbdd5a02/rokuFeed/assets/51204ec5dbea510298c5acc7de451b6f.jpg"/>
+    <rating system="USA Parental Rating">TVG</rating>
+  </programme>
 <programme channel="842a871b7e9a7817c72209b689e43254" start="20261115070000 +0000" stop="20261115110000 +0000">
     <title>After Hours Hits</title>
     <desc>El mood cambia y el sonido se pone más intenso. Los hits que suenan cuando la noche no termina.</desc>
@@ -8965,12 +10140,6 @@ Early one morning in a deserted area outside of Phoenix, a motorcyclist discover
     <desc>El mood cambia y el sonido se pone más intenso. Los hits que suenan cuando la noche no termina.</desc>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/66e9584be3b8a3070814fbd0a0644457/rokuFeed/assets/32728fd44d965672aa6ea6e658fbd923.jpg"/>
     <rating system="USA Parental Rating">TV14</rating>
-  </programme>
-<programme channel="a208207740dabd5e846e107b84db9123" start="20261115053000 +0000" stop="20261115080000 +0000">
-    <title>Sputnik</title>
-    <desc>A young doctor examines a cosmonaut who returned to Earth with an alien parasite inside of him.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/4a6c5114a153584eba3454773a629a2d/images/gracenote/assets/p18380623_v_h8_aa.jpg"/>
-    <rating system="Motion Picture Association of America">UR</rating>
   </programme>
 <programme channel="a208207740dabd5e846e107b84db9123" start="20261115080000 +0000" stop="20261115093000 +0000">
     <title>Alien Outpost</title>
@@ -9198,6 +10367,14 @@ Early one morning in a deserted area outside of Phoenix, a motorcyclist discover
     <title>Luz Del Dia</title>
     <desc>Iris busca limpiar el nombre de su hermano autista y descubre secretos familiares más oscuros de lo.</desc>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/50297fb9e2636e976ae439c03f256adb/rokuFeed/assets/d52118b44c725d7ebdd7e6a1e8b6f110.jpg"/>
+    <rating system="USA Parental Rating">TV14</rating>
+  </programme>
+<programme channel="a208207740dabd5e846e107b84db9123" start="20261117080000 +0000" stop="20261117083000 +0000">
+    <title>Rookie Blue</title>
+    <sub-title>Rookie Blue</sub-title>
+    <desc>Juliet enfrenta dilema mientras Nick actúa sospechoso, mientras su hermano proporciona información.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5099f0f06533b7dab5e8878acbebd568/rokuFeed/assets/61df576c547852b684bc355522f62f38.jpg"/>
+    <episode-num system="onscreen">S05E15</episode-num>
     <rating system="USA Parental Rating">TV14</rating>
   </programme>
 <programme channel="f99fa811e587e924c1aeebfe3d7f575f" start="20261115072018 +0000" stop="20261115080734 +0000">
@@ -9704,12 +10881,6 @@ Early one morning in a deserted area outside of Phoenix, a motorcyclist discover
     <episode-num system="onscreen">S05E12</episode-num>
     <rating system="Motion Picture Association of America">UR</rating>
   </programme>
-<programme channel="d12329eda6e3dcc1f42ce2a350a4623d" start="20261115070000 +0000" stop="20261115075900 +0000">
-    <title>Sunrise Meditation</title>
-    <desc>Easing into the day with the sound of lapping waves and breathtaking beaches from around the world.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/2e813c58c47c5b2aa37be7777517bc6b/images/gracenote/assets/p18915324_b_h9_ab_78fe0bfe787c5c4c862ae13db0efa3e3.jpg"/>
-    <rating system="USA Parental Rating">TVPG</rating>
-  </programme>
 <programme channel="d12329eda6e3dcc1f42ce2a350a4623d" start="20261115075900 +0000" stop="20261115085900 +0000">
     <title>Rugged Beach: Hawaii</title>
     <desc>Waves crash on the shore of Hawaii's Pa'ako beach as the sky brightens with gorgeous hues.</desc>
@@ -9962,10 +11133,10 @@ Early one morning in a deserted area outside of Phoenix, a motorcyclist discover
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ab1b7fa374a0599c8daac91042ab4c9a/images/gracenote/assets/p22575229_b_h9_aa.jpg"/>
     <rating system="USA Parental Rating">TVPG</rating>
   </programme>
-<programme channel="79876f8f79d0394ba8982259393e5e32" start="20261115070000 +0000" stop="20261115080000 +0000">
-    <title>ZENlife by Stingray</title>
-    <desc>Experimente el bienestar diario con meditación guiada, sonidos tranquilos y música fácil de escuchar destinada a restaurar su zen.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/18cac4f9cb01a8c2c403092c37f737bb/rokuFeed/assets/5a205c8962f75920a6508fa84a86a08c.jpg"/>
+<programme channel="d12329eda6e3dcc1f42ce2a350a4623d" start="20261117075900 +0000" stop="20261117085900 +0000">
+    <title>Whiritoa Beach, New Zealand</title>
+    <desc>Discover the raw beauty of this secluded New Zealand beach, surrounded by wildflowers.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/307ec45123d55677a1aabd78066f334c/images/gracenote/assets/p18982249_b_h9_ab.jpg"/>
   </programme>
 <programme channel="79876f8f79d0394ba8982259393e5e32" start="20261115080000 +0000" stop="20261115090000 +0000">
     <title>ZENlife by Stingray</title>
@@ -10207,10 +11378,10 @@ Early one morning in a deserted area outside of Phoenix, a motorcyclist discover
     <desc>Experimente el bienestar diario con meditación guiada, sonidos tranquilos y música fácil de escuchar destinada a restaurar su zen.</desc>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/18cac4f9cb01a8c2c403092c37f737bb/rokuFeed/assets/5a205c8962f75920a6508fa84a86a08c.jpg"/>
   </programme>
-<programme channel="8b564fb868f8f1d49a1986123724ef18" start="20261115070000 +0000" stop="20261115080000 +0000">
-    <title>Stingray StarGaze</title>
-    <desc>Immerse yourself in Stingray Stargaze, where starry nights and cosmic vistas create a sanctuary.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a32b16dd2923555ab586983793c8860e/rokuFeed/assets/5ca3c3c3535757f987bfa426c9542b16.jpg"/>
+<programme channel="79876f8f79d0394ba8982259393e5e32" start="20261117080000 +0000" stop="20261117090000 +0000">
+    <title>ZENlife by Stingray</title>
+    <desc>Experimente el bienestar diario con meditación guiada, sonidos tranquilos y música fácil de escuchar destinada a restaurar su zen.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/18cac4f9cb01a8c2c403092c37f737bb/rokuFeed/assets/5a205c8962f75920a6508fa84a86a08c.jpg"/>
   </programme>
 <programme channel="8b564fb868f8f1d49a1986123724ef18" start="20261115080000 +0000" stop="20261115090000 +0000">
     <title>Stingray StarGaze</title>
@@ -10452,10 +11623,10 @@ Early one morning in a deserted area outside of Phoenix, a motorcyclist discover
     <desc>Immerse yourself in Stingray Stargaze, where starry nights and cosmic vistas create a sanctuary.</desc>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a32b16dd2923555ab586983793c8860e/rokuFeed/assets/5ca3c3c3535757f987bfa426c9542b16.jpg"/>
   </programme>
-<programme channel="f8f717f72440fb688192f83faa71a8ab" start="20261115070000 +0000" stop="20261115080000 +0000">
-    <title>Stingray Cozy Cafe</title>
-    <desc>Welcome to Cozy Café, where trendy coffee house visuals blend with lo-fi beats to create the perfect backdrop.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1913dc498f1a5b2ab25047ef0a692eae/rokuFeed/assets/21e458cf18725e87bfa4165f40fa8e2f.jpg"/>
+<programme channel="8b564fb868f8f1d49a1986123724ef18" start="20261117080000 +0000" stop="20261117090000 +0000">
+    <title>Stingray StarGaze</title>
+    <desc>Immerse yourself in Stingray Stargaze, where starry nights and cosmic vistas create a sanctuary.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a32b16dd2923555ab586983793c8860e/rokuFeed/assets/5ca3c3c3535757f987bfa426c9542b16.jpg"/>
   </programme>
 <programme channel="f8f717f72440fb688192f83faa71a8ab" start="20261115080000 +0000" stop="20261115090000 +0000">
     <title>Stingray Cozy Cafe</title>
@@ -10697,10 +11868,10 @@ Early one morning in a deserted area outside of Phoenix, a motorcyclist discover
     <desc>Welcome to Cozy Café, where trendy coffee house visuals blend with lo-fi beats to create the perfect backdrop.</desc>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1913dc498f1a5b2ab25047ef0a692eae/rokuFeed/assets/21e458cf18725e87bfa4165f40fa8e2f.jpg"/>
   </programme>
-<programme channel="73991aa61267bcc005a855c7b6303afc" start="20261115070000 +0000" stop="20261115080000 +0000">
-    <title>Stingray CityScapes</title>
-    <desc>Stingray Cityscapes, where aerial views of iconic cities set to downtempo music take viewers on a journey.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a77da5200c8257109fb3b52a9e9d7314/rokuFeed/assets/cedddb97eaf75ea395ad24d610148735.jpg"/>
+<programme channel="f8f717f72440fb688192f83faa71a8ab" start="20261117080000 +0000" stop="20261117090000 +0000">
+    <title>Stingray Cozy Cafe</title>
+    <desc>Welcome to Cozy Café, where trendy coffee house visuals blend with lo-fi beats to create the perfect backdrop.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1913dc498f1a5b2ab25047ef0a692eae/rokuFeed/assets/21e458cf18725e87bfa4165f40fa8e2f.jpg"/>
   </programme>
 <programme channel="73991aa61267bcc005a855c7b6303afc" start="20261115080000 +0000" stop="20261115090000 +0000">
     <title>Stingray CityScapes</title>
@@ -10942,6 +12113,11 @@ Early one morning in a deserted area outside of Phoenix, a motorcyclist discover
     <desc>Stingray Cityscapes, where aerial views of iconic cities set to downtempo music take viewers on a journey.</desc>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a77da5200c8257109fb3b52a9e9d7314/rokuFeed/assets/cedddb97eaf75ea395ad24d610148735.jpg"/>
   </programme>
+<programme channel="73991aa61267bcc005a855c7b6303afc" start="20261117080000 +0000" stop="20261117090000 +0000">
+    <title>Stingray CityScapes</title>
+    <desc>Stingray Cityscapes, where aerial views of iconic cities set to downtempo music take viewers on a journey.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a77da5200c8257109fb3b52a9e9d7314/rokuFeed/assets/cedddb97eaf75ea395ad24d610148735.jpg"/>
+  </programme>
 <programme channel="8e04e4c0e2cd5fe49b087a6ce5fd0d91" start="20261115070000 +0000" stop="20261115110000 +0000">
     <title>TikTok Radio on Stingray</title>
     <desc>Trending songs straight from the tastemakers.</desc>
@@ -11031,12 +12207,6 @@ Early one morning in a deserted area outside of Phoenix, a motorcyclist discover
     <desc>Trending songs straight from the tastemakers.</desc>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/04e8bcde68df56f49bf347fd2f26715d/images/gracenote/assets/p21674577_b_h9_ab.jpg"/>
     <rating system="USA Parental Rating">TV14</rating>
-  </programme>
-<programme channel="3395d3b6c6e895a495fd12a2c719b21c" start="20261115065959 +0000" stop="20261115075959 +0000">
-    <title>iHeartCountry Classics</title>
-    <desc>Streaming timeless country hits, from legendary artists to classic anthems.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/6fe8512354455f46a8d35965ede0c280/rokuFeed/assets/09354a678978540b86372e284a6dfdbf.jpeg"/>
-    <rating system="USA Parental Rating">TVG</rating>
   </programme>
 <programme channel="3395d3b6c6e895a495fd12a2c719b21c" start="20261115075959 +0000" stop="20261115085959 +0000">
     <title>iHeartCountry Classics</title>
@@ -11333,6 +12503,12 @@ Early one morning in a deserted area outside of Phoenix, a motorcyclist discover
     <rating system="USA Parental Rating">TVG</rating>
   </programme>
 <programme channel="3395d3b6c6e895a495fd12a2c719b21c" start="20261117065959 +0000" stop="20261117075959 +0000">
+    <title>iHeartCountry Classics</title>
+    <desc>Streaming timeless country hits, from legendary artists to classic anthems.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/6fe8512354455f46a8d35965ede0c280/rokuFeed/assets/09354a678978540b86372e284a6dfdbf.jpeg"/>
+    <rating system="USA Parental Rating">TVG</rating>
+  </programme>
+<programme channel="3395d3b6c6e895a495fd12a2c719b21c" start="20261117075959 +0000" stop="20261117085959 +0000">
     <title>iHeartCountry Classics</title>
     <desc>Streaming timeless country hits, from legendary artists to classic anthems.</desc>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/6fe8512354455f46a8d35965ede0c280/rokuFeed/assets/09354a678978540b86372e284a6dfdbf.jpeg"/>
