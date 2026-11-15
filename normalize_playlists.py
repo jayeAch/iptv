@@ -258,6 +258,7 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
     # Martial arts next so MMA/UFC/kickboxing beat the generic Sports pins below.
     ('Kung Fu Flicks', _words("""
         kung fu
+        flicks of fury
         kungfu
         martial art
         hi-yah!
@@ -732,6 +733,7 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
         dread tv
         frightflix
         horror
+        itn's creatureverse
         pluto tv terror
         scare o ween
         scares
