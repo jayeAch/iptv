@@ -44,6 +44,10 @@
     <display-name>The New Detectives</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504547A_20260421T133611SQUARE.png" />
   </channel>
+<channel id="US2900008FP">
+    <display-name>Mythical 24/7</display-name>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900008FP_20260421T143240SQUARE.png" />
+  </channel>
 <channel id="US1800012MT">
     <display-name>SNL Vault</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800012MT_20260421T143211SQUARE.png" />
@@ -59,6 +63,14 @@
 <channel id="US4700029QM">
     <display-name>Gotham Comedy Live</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4700029QM_20260421T143107SQUARE.png" />
+  </channel>
+<channel id="US4500004SQ">
+    <display-name>Mystery Science Theater 3000</display-name>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4500004SQ_20260421T143040SQUARE.png" />
+  </channel>
+<channel id="USAJ3504706A">
+    <display-name>RiffTrax</display-name>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504706A_20260609T214530SQUARE.png" />
   </channel>
 <channel id="USBC1300012VK">
     <display-name>Fear Zone</display-name>
@@ -289,16 +301,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme channel="US2001109K" start="20261115060057 +0000" stop="20261115062509 +0000">
-    <title>Killer Mysteries</title>
-    <sub-title>A Random Rampage</sub-title>
-    <desc>A look at a wayward son who goes on a shooting spree, killing five people from two families.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2395387221_0_20260109T045742778Z_72_imageprocessorclient-tvplus-linear-584c967455-p9wk7.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme channel="US2001109K" start="20261115062509 +0000" stop="20261115064931 +0000">
     <title>Killer Mysteries</title>
     <sub-title>The Devil Next Door</sub-title>
@@ -315,16 +317,6 @@
     <desc>A look at the murder of a British landlord and his tenant.</desc>
     <category lang="en">True Crime</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2395387221_0_20260109T045742778Z_72_imageprocessorclient-tvplus-linear-584c967455-p9wk7.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="USBC1000002NP" start="20261115053521 +0000" stop="20261115062630 +0000">
-    <title>World's Most Evil Killers</title>
-    <sub-title>John Wayne Gacy</sub-title>
-    <desc>John Wayne Gacy murdered 33 boys and young men during a six-year period in the 1970s. He hid the bodies of his victims in the walls of his suburban home.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550791291_20_20241113T060450720Z_119_imageprocessorclient-tvplus-linear-5dc4fd45f6-prfs6.jpeg" />
     <rating>
       <value>TV-14</value>
     </rating>
@@ -437,14 +429,22 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme channel="US1800012MT" start="20261115053000 +0000" stop="20261115062700 +0000">
-    <title>SNL Vault</title>
-    <sub-title>Volume 63</sub-title>
-    <desc>SNL's funniest female-led sketches, like Palin Rap, Leslie Jones' Funeral Plans, and more.</desc>
+<programme channel="US2900008FP" start="20261115030000 +0000" stop="20261115070000 +0000">
+    <title>Mythical 24/7</title>
+    <desc>Mythical 24/7 US</desc>
     <category lang="en">Comedy</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3415393008_1_20260901T213618568Z_1_imageprocessorclient-tvplus-linear-6b56cc9f55-jvt28.jpeg" />
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3741827062_0_20261109T202102905Z_103_imageprocessorclient-tvplus-linear-6b56cc9f55-f5r8j.jpeg" />
     <rating>
-      <value>TV-14</value>
+      <value>NA</value>
+    </rating>
+  </programme>
+<programme channel="US2900008FP" start="20261115070000 +0000" stop="20261115110000 +0000">
+    <title>Mythical 24/7</title>
+    <desc>Mythical 24/7 US</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3741827062_0_20261109T202102905Z_103_imageprocessorclient-tvplus-linear-6b56cc9f55-f5r8j.jpeg" />
+    <rating>
+      <value>NA</value>
     </rating>
   </programme>
 <programme channel="US1800012MT" start="20261115062700 +0000" stop="20261115072500 +0000">
@@ -455,15 +455,6 @@
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3415393008_1_20260901T213618568Z_1_imageprocessorclient-tvplus-linear-6b56cc9f55-jvt28.jpeg" />
     <rating>
       <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="USBA300019WF" start="20261115060000 +0000" stop="20261115063000 +0000">
-    <title>Everybody Hates Driving</title>
-    <desc>Things take a literal turn for the worse when a license-less Chris volunteers to move his dad's car, but finds himself driving the car all the way to school as a result of trying to impress Tasha. Rochelle spends an interesting day at traffic court.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352135A_537961223_0_20240204T235112152Z_109.jpeg" />
-    <rating>
-      <value>TV-PG</value>
     </rating>
   </programme>
 <programme channel="USBA300019WF" start="20261115063000 +0000" stop="20261115070000 +0000">
@@ -480,16 +471,6 @@
     <desc>With no extracurricular activities to his name, Chris decides to join the writing staff of the school newspaper.</desc>
     <category lang="en">Comedy</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352135A_538208026_0_20240212T053314789Z_1.jpeg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme channel="USAJ30000039U" start="20261115055614 +0000" stop="20261115062731 +0000">
-    <title>Karen Morgan</title>
-    <sub-title>Go Dawgs!</sub-title>
-    <desc>A former trial attorney, she moved from the courtroom to comedy after being selected as a Finalist on Nickelodeon TV's Search for the Funniest Mom in America.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352137A_1078689679_0_20250330T014358209Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-8r4fl.png" />
     <rating>
       <value>TV-PG</value>
     </rating>
@@ -532,6 +513,46 @@
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2526457988_18_20260210T164700576Z_95_imageprocessorclient-tvplus-linear-584c967455-b7vn5.jpeg" />
     <rating>
       <value>TV-14</value>
+    </rating>
+  </programme>
+<programme channel="US4500004SQ" start="20261115043600 +0000" stop="20261115065100 +0000">
+    <title>Mystery Science Theater 3000</title>
+    <sub-title>War of the Colossal Beast</sub-title>
+    <desc>"War of the Colossal Beast" (1958) Cult. Man-beast escapes in "Amazing Colossal Man" sequel.</desc>
+    <category lang="en">Crime</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2674025872_1_20260317T170019856Z_83_imageprocessorclient-tvplus-linear-796646965d-zsr9n.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="US4500004SQ" start="20261115065100 +0000" stop="20261115085600 +0000">
+    <title>Mystery Science Theater 3000</title>
+    <sub-title>The Mask</sub-title>
+    <desc>Jonah's crew watches a horror film about an accursed skull mask.</desc>
+    <category lang="en">Crime</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2827557619_8_20260423T032652836Z_37_imageprocessorclient-tvplus-linear-796646965d-2k68x.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="USAJ3504706A" start="20261115045205 +0000" stop="20261115063622 +0000">
+    <title>RiffTrax</title>
+    <sub-title>Savage</sub-title>
+    <desc>A totally jacked rural farmer opens the door to tech-lords who murder his family. This feature is a parody and contains the original movie with comedic commentary by Mike, Kevin and Bill from MST3K.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352137A_2750135877_0_20260404T211502832Z_99_imageprocessorclient-tvplus-linear-796646965d-jt9nl.jpeg" />
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+<programme channel="USAJ3504706A" start="20261115063622 +0000" stop="20261115081054 +0000">
+    <title>RiffTrax</title>
+    <sub-title>Uninvited</sub-title>
+    <desc>Uninvited is a horror movie written and directed by Star Games and Final Justice mastermind Greydon Clark, so it's not surprising that Greydon Clark put himself in the movie. What is surprising? Pretty much everything else. This feature is a parody and contains the original movie combined with a comedic commentary by Mike, Kevin and Bill from RiffTrax (formerly of Mystery Science Theater 3000).</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352137A_549749549_0_20241025T204954281Z_113_imageprocessorclient-tvplus-linear-5dc4fd45f6-fsphx.jpeg" />
+    <rating>
+      <value>TV-MA</value>
     </rating>
   </programme>
 <programme channel="USBC1300012VK" start="20261115044415 +0000" stop="20261115063118 +0000">
@@ -756,15 +777,6 @@
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3680212516_33_20261028T040459256Z_31_imageprocessorclient-tvplus-linear-6b56cc9f55-x5z8k.jpeg" />
     <rating>
       <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="USAJ3000013FJ" start="20261115050733 +0000" stop="20261115063006 +0000">
-    <title>Show Champion Ep.372</title>
-    <desc>Line-up: Stray Kids / MOONBIN&amp;SANHA(ASTRO) / YooA(OHMYGIRL) / fromis_9 / ONEUS / KNK / CRAVITY / B.O.Y / OnlyOneOf / BUMKEY / A.C.E / VAV and more.</desc>
-    <category lang="en">Music</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_KRPBA3501QY_1733209696_0_20250723T005553692Z_34_imageprocessorclient-tvplus-linear-d7c8c765b-8knwg.png" />
-    <rating>
-      <value>TV-G</value>
     </rating>
   </programme>
 <programme channel="USAJ3000013FJ" start="20261115063006 +0000" stop="20261115073042 +0000">
@@ -1117,16 +1129,6 @@
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3295540508_1_20260806T212113750Z_64_imageprocessorclient-tvplus-linear-9468c5484-hptzz.jpeg" />
     <rating>
       <value>TV-G</value>
-    </rating>
-  </programme>
-<programme channel="USBB1000002TK" start="20261115055958 +0000" stop="20261115062957 +0000">
-    <title>DreamLOUPE</title>
-    <sub-title>Featured Artists—Joe Winograd</sub-title>
-    <desc>Discover Joe Winograd's boundary-defying art, where psychedelic digital visuals collide with handcrafted textures. Neon-soaked palettes, glitchy layering, and tactile surfaces merge screen culture with raw, physical craft in a vibrant, surreal world.</desc>
-    <category lang="en">Ambiance</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3460837190_1_20260911T154439727Z_81_imageprocessorclient-tvplus-linear-6b56cc9f55-mx4zz.jpeg" />
-    <rating>
-      <value>TV-PG</value>
     </rating>
   </programme>
 <programme channel="USBB1000002TK" start="20261115062957 +0000" stop="20261115065956 +0000">

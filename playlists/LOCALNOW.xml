@@ -40,6 +40,10 @@
     <display-name>Laff More</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/00C9AEC1-8DF8-4F80-88FD-19DF47C40D53/3-1x1.png" />
   </channel>
+<channel id="localnow.081016AD-69A3-4236-A8A0-75391DB6F522">
+    <display-name>Mystery Science Theater 3000</display-name>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/081016AD-69A3-4236-A8A0-75391DB6F522/3-1x1.png" />
+  </channel>
 <channel id="localnow.B55F1141-71F9-463B-9383-3FDF2F34B220">
     <display-name>Jamie Kennedy Comedy</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/B55F1141-71F9-463B-9383-3FDF2F34B220/3-1x1.png" />
@@ -76,10 +80,6 @@
     <display-name>Free Movies Plus</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/6D30170C-D7B3-46A2-8C1F-302D8399F44D/3-1x1.png" />
   </channel>
-<channel id="localnow.327482AD-61C8-4D3B-84D2-046658B687F6">
-    <display-name>VEEPS Concert Pass</display-name>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/327482AD-61C8-4D3B-84D2-046658B687F6/3-1x1.png" />
-  </channel>
 <channel id="localnow.A0A87EFE-61FA-477E-A0E3-44A88013AE74">
     <display-name>WMBF Myrtle Beach, Florence SC</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/A0A87EFE-61FA-477E-A0E3-44A88013AE74/3-1x1.png" />
@@ -92,6 +92,27 @@
     <display-name>WFXB Myrtle Beach SC (FOX)</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/72384889-EEEB-4EEA-93B3-F26FF4E12D6B/3-1x1.png" />
   </channel>
+<programme start="20261115043620 +0000" stop="20261115065148 +0000" channel="localnow.081016AD-69A3-4236-A8A0-75391DB6F522">
+    <title lang="en">MST3K: War Of The Colossal Beast</title>
+    <desc lang="en">Disfigured "Colossal Man" Glen is spotted in Mexico and his sister tries to save him.</desc>
+    <category lang="en">Crime</category>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/081016AD-69A3-4236-A8A0-75391DB6F522/0-2x3.png" />
+    <episode-num system="dd_progid">program-mystery-science-theater-3000-20261115043620</episode-num>
+  </programme>
+<programme start="20261115065148 +0000" stop="20261115085638 +0000" channel="localnow.081016AD-69A3-4236-A8A0-75391DB6F522">
+    <title lang="en">MST3K: The Mask</title>
+    <desc lang="en">For MST3K's first-ever Halloween episode, Jonah's crew watch THE MASK (1961) in 3D!</desc>
+    <category lang="en">Crime</category>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/081016AD-69A3-4236-A8A0-75391DB6F522/0-2x3.png" />
+    <episode-num system="dd_progid">program-mystery-science-theater-3000-20261115065148</episode-num>
+  </programme>
+<programme start="20261115085638 +0000" stop="20261115104157 +0000" channel="localnow.081016AD-69A3-4236-A8A0-75391DB6F522">
+    <title lang="en">MST3K: The Day Time Ended</title>
+    <desc lang="en">In part four of a Gauntlet six-movie binge, Jonah and the bots take on The Day Time Ended.</desc>
+    <category lang="en">Crime</category>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/081016AD-69A3-4236-A8A0-75391DB6F522/0-2x3.png" />
+    <episode-num system="dd_progid">program-mystery-science-theater-3000-20261115085638</episode-num>
+  </programme>
 <programme start="20261115055620 +0000" stop="20261115082518 +0000" channel="localnow.3140CA51-BEBB-4FEE-B144-1B94C2B9D108">
     <title lang="en">End of Watch</title>
     <desc lang="en">Two young officers are marked for death after confiscating a small cache of money and firearms from the members of a notorious cartel during a routine traffic stop.</desc>
@@ -112,27 +133,6 @@
     <category lang="en">Entertainment</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/3140CA51-BEBB-4FEE-B144-1B94C2B9D108/0-2x3.png" />
     <episode-num system="dd_progid">program-action-plus-20261115103912</episode-num>
-  </programme>
-<programme start="20261115032700 +0000" stop="20261115063000 +0000" channel="localnow.327482AD-61C8-4D3B-84D2-046658B687F6">
-    <title lang="en">Lamb of God: Killadelphia</title>
-    <desc lang="en">Lamb of God's Killadelphia showcases the thrash-metal band at The Trocadero in 2005, featuring a recorded set, candid footage, and an all-access portrait.</desc>
-    <category lang="en">Music</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/327482AD-61C8-4D3B-84D2-046658B687F6/0-2x3.png" />
-    <episode-num system="dd_progid">program-answer_media_veepsconcertpass_1-2026-11-15-0327</episode-num>
-  </programme>
-<programme start="20261115063000 +0000" stop="20261115075800 +0000" channel="localnow.327482AD-61C8-4D3B-84D2-046658B687F6">
-    <title lang="en">Queen: Live at the Rainbow '74</title>
-    <desc lang="en">Queen performs a 1974 concert at London’s Rainbow Theatre, capturing the band’s early rise with a powerful live set.</desc>
-    <category lang="en">Music</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/327482AD-61C8-4D3B-84D2-046658B687F6/0-2x3.png" />
-    <episode-num system="dd_progid">program-answer_media_veepsconcertpass_1-2026-11-15-0630</episode-num>
-  </programme>
-<programme start="20261115075800 +0000" stop="20261115104500 +0000" channel="localnow.327482AD-61C8-4D3B-84D2-046658B687F6">
-    <title lang="en">Los Lonely Boys: Live at the Fillmore</title>
-    <desc lang="en">Live At The Fillmore finds Texican rock trio Los Lonely Boys blowing the roof off the legendary San Francisco venue with their hits "Heaven" and "More Than Love" plus covers of Richie Valens' "La Bamba" and War's "Cisco Kid." This event was captured in...</desc>
-    <category lang="en">Music</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/327482AD-61C8-4D3B-84D2-046658B687F6/0-2x3.png" />
-    <episode-num system="dd_progid">program-answer_media_veepsconcertpass_1-2026-11-15-0758</episode-num>
   </programme>
 <programme start="20261115061808 +0000" stop="20261115085935 +0000" channel="localnow.421B7C8F-0DF8-4769-BF8F-F79DD74C31E8">
     <title lang="en">Good Fences</title>
@@ -189,14 +189,6 @@
     <category lang="en">Horror</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/79549FA0-4EBE-48C3-957F-037BA02E827F/0-2x3.png" />
     <episode-num system="dd_progid">program-epg-horror-machine-20261115073000</episode-num>
-  </programme>
-<programme start="20261115041200 +0000" stop="20261115062600 +0000" channel="localnow.AFE4F17B-882F-4DFF-9014-972E16331779">
-    <title lang="en">Marrowbone</title>
-    <desc lang="en">A ghostly presence and a lawyer come between four young siblings. They must stand together or be torn apart.</desc>
-    <category lang="en">Sci-Fi</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/AFE4F17B-882F-4DFF-9014-972E16331779/0-2x3.png" />
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
 <programme start="20261115062600 +0000" stop="20261115082600 +0000" channel="localnow.AFE4F17B-882F-4DFF-9014-972E16331779">
     <title lang="en">Meek's Cutoff</title>
