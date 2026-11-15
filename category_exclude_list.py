@@ -5,6 +5,8 @@
 CATEGORY_EXCLUDE_LIST = [
     "Science",
     "Music",
+    "LGB",
+    "Christmas",
     "Westerns",
     "Asian",
     "Talk Shows",
