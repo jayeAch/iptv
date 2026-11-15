@@ -118,6 +118,7 @@ DEFAULT_CATEGORY = 'Entertainment'
 NAME_OVERRIDES: dict[str, str] = {
     'comedia': 'Comedy',
     'komedi': 'Comedy',
+    'the nanny & mr sheffield - a fine romance': 'Comedy',
     'girlfriends': 'Black Entertainment',
     'lone star': 'Westerns',
     'outflix proud': 'LGB',  # was wrongly caught as a talk show
@@ -1003,8 +1004,12 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
     """)),
     ('Comedy', _words("""
         comedy central
+        pluto tv comedy
+        pluto tv komedi
+        pluto tv komedie
+        komedi
+        komedie
         the nanny
-        the nanny & mr sheffield - a fine romance
         rifftrax
         just for laughs comedy
         comedy vault
