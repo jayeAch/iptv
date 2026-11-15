@@ -522,6 +522,7 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
         pluto tv crime movies
         criminal minds
         csi
+        jag
         diagnosis murder
         hawaii five-0
         hawaii five-o
