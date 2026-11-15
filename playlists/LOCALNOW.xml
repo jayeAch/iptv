@@ -36,13 +36,17 @@
     <display-name>Salem News</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/41AD64FE-AD4E-4B54-AEB3-C83BB0E6E829/3-1x1.png" />
   </channel>
+<channel id="localnow.8F2F78C5-E1C5-436F-B8AC-771C644B08C7">
+    <display-name>Euronews English</display-name>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/8F2F78C5-E1C5-436F-B8AC-771C644B08C7/3-1x1.png" />
+  </channel>
+<channel id="localnow.41830D3A-37B5-4C6C-B242-A08B82B441D9">
+    <display-name>Forensic Files</display-name>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/41830D3A-37B5-4C6C-B242-A08B82B441D9/3-1x1.png" />
+  </channel>
 <channel id="localnow.558211BE-E921-43BA-9C55-9DE79921BF9C">
     <display-name>FBI Files</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/558211BE-E921-43BA-9C55-9DE79921BF9C/3-1x1.png" />
-  </channel>
-<channel id="localnow.86B50402-32F0-4EBF-9AF8-65DAE9C09A44">
-    <display-name>Mysteria</display-name>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/86B50402-32F0-4EBF-9AF8-65DAE9C09A44/3-1x1.png" />
   </channel>
 <channel id="localnow.70E6008B-8E98-4B80-8CE2-D721592DF1C1">
     <display-name>World's Most Evil Killers</display-name>
@@ -51,10 +55,6 @@
 <channel id="localnow.3140CA51-BEBB-4FEE-B144-1B94C2B9D108">
     <display-name>Action Plus</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/3140CA51-BEBB-4FEE-B144-1B94C2B9D108/3-1x1.png" />
-  </channel>
-<channel id="localnow.2C7D3071-F7F4-4039-8FAB-195FA86E22B5">
-    <display-name>Three Stooges+</display-name>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/2C7D3071-F7F4-4039-8FAB-195FA86E22B5/3-1x1.png" />
   </channel>
 <channel id="localnow.00C9AEC1-8DF8-4F80-88FD-19DF47C40D53">
     <display-name>Laff More</display-name>
@@ -1537,13 +1537,6 @@
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/0D28EF91-44C8-428C-9E0C-B17923E77826/0-2x3.png" />
     <episode-num system="dd_progid">program-wtap-2026-11-15T10-30-00</episode-num>
   </programme>
-<programme start="20261115083926 +0000" stop="20261115093554 +0000" channel="localnow.0D984558-B866-4F2E-A424-3CEE79AC0A67">
-    <title lang="en">Wildlife Icons</title>
-    <desc lang="en">Africa’s antelope have rich stories filled with daily struggles of survival.</desc>
-    <category lang="en">Documentary</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/0D984558-B866-4F2E-A424-3CEE79AC0A67/0-2x3.png" />
-    <episode-num system="dd_progid">program-epg-magellan-tv-20261115083926</episode-num>
-  </programme>
 <programme start="20261115093554 +0000" stop="20261115103227 +0000" channel="localnow.0D984558-B866-4F2E-A424-3CEE79AC0A67">
     <title lang="en">Wildlife Icons</title>
     <desc lang="en">Different primates have evolved to thrive in Ethiopia’s extreme environments.</desc>
@@ -2181,27 +2174,6 @@
     <category lang="en">News</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/2B402FCE-4A9E-4BF8-8C69-7EF948488972/0-2x3.png" />
   </programme>
-<programme start="20261115092327 +0000" stop="20261115094447 +0000" channel="localnow.2C7D3071-F7F4-4039-8FAB-195FA86E22B5">
-    <title lang="en">Three Troubledoers, The</title>
-    <desc lang="en">The Stooges become marshalls.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/2C7D3071-F7F4-4039-8FAB-195FA86E22B5/0-2x3.png" />
-    <episode-num system="dd_progid">program-three-stooges-plus-20261115092327</episode-num>
-  </programme>
-<programme start="20261115094447 +0000" stop="20261115100606 +0000" channel="localnow.2C7D3071-F7F4-4039-8FAB-195FA86E22B5">
-    <title lang="en">Playing The Ponies</title>
-    <desc lang="en">The Stooges are gypped into trading their restaurant.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/2C7D3071-F7F4-4039-8FAB-195FA86E22B5/0-2x3.png" />
-    <episode-num system="dd_progid">program-three-stooges-plus-20261115094447</episode-num>
-  </programme>
-<programme start="20261115100606 +0000" stop="20261115102611 +0000" channel="localnow.2C7D3071-F7F4-4039-8FAB-195FA86E22B5">
-    <title lang="en">Rumpus In The Harem</title>
-    <desc lang="en">The boys need money to pay their fiancee's taxes.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/2C7D3071-F7F4-4039-8FAB-195FA86E22B5/0-2x3.png" />
-    <episode-num system="dd_progid">program-three-stooges-plus-20261115100606</episode-num>
-  </programme>
 <programme start="20261115093000 +0000" stop="20261115100000 +0000" channel="localnow.2D5C8F57-B650-4F77-A837-4DE7F4EF97FD">
     <title lang="en">Curious Cats</title>
     <desc lang="en">Cat tries to chase words on computer screen; cat puts plastic tube on head; cat rubs face back and forth.</desc>
@@ -2683,13 +2655,6 @@
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/37B761C9-8D5B-47E9-8A3E-C3062BAF2D79/0-2x3.png" />
     <episode-num system="dd_progid">program-improv-plus-20261115123620</episode-num>
   </programme>
-<programme start="20261115091311 +0000" stop="20261115094042 +0000" channel="localnow.37DB1985-6F13-461D-832E-6143D0DBD317">
-    <title lang="en">Relative Justice with Judge Rhonda Wills</title>
-    <desc lang="en">Brothers ask Judge Rhonda for a DNA test to determine whether the man who died shielding them from gunfire was the biological father to both of them.</desc>
-    <category lang="en">Reality TV</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/37DB1985-6F13-461D-832E-6143D0DBD317/0-2x3.png" />
-    <episode-num system="dd_progid">program-relative-justice-20261115091311</episode-num>
-  </programme>
 <programme start="20261115094042 +0000" stop="20261115100813 +0000" channel="localnow.37DB1985-6F13-461D-832E-6143D0DBD317">
     <title lang="en">Relative Justice with Judge Rhonda Wills</title>
     <desc lang="en">A purse trampled at a party drags two close cousins into court, where Judge Rhonda must figure out whether it is a real designer handbag or a knockoff.</desc>
@@ -2977,6 +2942,22 @@ Relaxation, background ambience, or mindful viewing</desc>
     <category lang="en">News</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/3F2EC3EF-6E05-49BC-88D4-5795377D2F1E/0-2x3.png" />
     <episode-num system="dd_progid">program-weau-2026-11-15T10-30-00</episode-num>
+  </programme>
+<programme start="20261115093900 +0000" stop="20261115100300 +0000" channel="localnow.41830D3A-37B5-4C6C-B242-A08B82B441D9">
+    <title lang="en">Forensic Files</title>
+    <desc lang="en">Psychic leads volunteers and police to a field where the body of a missing girl is found.</desc>
+    <category lang="en">True Crime</category>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/41830D3A-37B5-4C6C-B242-A08B82B441D9/0-2x3.png" />
+    <episode-num system="onscreen">S13E19</episode-num>
+    <episode-num system="xmltv_ns">12.18.</episode-num>
+  </programme>
+<programme start="20261115100300 +0000" stop="20261115102600 +0000" channel="localnow.41830D3A-37B5-4C6C-B242-A08B82B441D9">
+    <title lang="en">Forensic Files</title>
+    <desc lang="en">Digital enhancement of CCTV footage captures a kidnapping that leads to murder.</desc>
+    <category lang="en">True Crime</category>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/41830D3A-37B5-4C6C-B242-A08B82B441D9/0-2x3.png" />
+    <episode-num system="onscreen">S13E20</episode-num>
+    <episode-num system="xmltv_ns">12.19.</episode-num>
   </programme>
 <programme start="20261115090000 +0000" stop="20261115110000 +0000" channel="localnow.41AD64FE-AD4E-4B54-AEB3-C83BB0E6E829">
     <title lang="en">The Alex Marlow Show</title>
@@ -3560,14 +3541,6 @@ Relaxation, background ambience, or mindful viewing</desc>
     <desc lang="en">Very Alabama by WVTM</desc>
     <category lang="en">News</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/554FD5C5-B7C9-4347-A3AC-8A1FF3ADF3D2/0-2x3.png" />
-  </programme>
-<programme start="20261115084200 +0000" stop="20261115093600 +0000" channel="localnow.558211BE-E921-43BA-9C55-9DE79921BF9C">
-    <title lang="en">The FBI Files</title>
-    <desc lang="en">Agents link the disappearance of two people with an elderly couple's murder.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/558211BE-E921-43BA-9C55-9DE79921BF9C/0-2x3.png" />
-    <episode-num system="onscreen">S04E03</episode-num>
-    <episode-num system="xmltv_ns">3.2.</episode-num>
   </programme>
 <programme start="20261115093600 +0000" stop="20261115102900 +0000" channel="localnow.558211BE-E921-43BA-9C55-9DE79921BF9C">
     <title lang="en">The FBI Files</title>
@@ -4264,14 +4237,6 @@ Relaxation, background ambience, or mindful viewing</desc>
     <desc lang="en">Your source for local news, weather, and sports.</desc>
     <category lang="en">News</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/6F5BAE12-6D0F-4FC6-B567-E19EECEF125C/0-2x3.png" />
-  </programme>
-<programme start="20261115084400 +0000" stop="20261115094200 +0000" channel="localnow.70E6008B-8E98-4B80-8CE2-D721592DF1C1">
-    <title lang="en">World's Most Evil Killers</title>
-    <desc lang="en">William Bonin is known to some as the 'Freeway Killer,' thought to have murdered twenty-one boys.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/70E6008B-8E98-4B80-8CE2-D721592DF1C1/0-2x3.png" />
-    <episode-num system="onscreen">S05E02</episode-num>
-    <episode-num system="xmltv_ns">4.1.</episode-num>
   </programme>
 <programme start="20261115094200 +0000" stop="20261115103600 +0000" channel="localnow.70E6008B-8E98-4B80-8CE2-D721592DF1C1">
     <title lang="en">World's Most Evil Killers</title>
@@ -5110,27 +5075,6 @@ Relaxation, background ambience, or mindful viewing</desc>
     <desc lang="en">Cleveland news, weather, traffic and sports from WKYC in Cleveland, Ohio.  Stay up-to-date with the latest news, weather, traffic and sports and more in the Northeastern Ohio area with the NBC station in Cleveland.</desc>
     <category lang="en">News</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/8624FEB7-327C-4089-BB1C-783DF1B728A4/0-2x3.png" />
-  </programme>
-<programme start="20261115091521 +0000" stop="20261115094501 +0000" channel="localnow.86B50402-32F0-4EBF-9AF8-65DAE9C09A44">
-    <title lang="en">Did She Fake Her Own Kidnapping?</title>
-    <desc lang="en">Sherri Papini's jog turns eerie as her vanishing act unveils a web of deceit. Was it all a staged abduction?</desc>
-    <category lang="en">Crime</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/86B50402-32F0-4EBF-9AF8-65DAE9C09A44/0-2x3.png" />
-    <episode-num system="dd_progid">program-mysteria-20261115091521</episode-num>
-  </programme>
-<programme start="20261115094501 +0000" stop="20261115101941 +0000" channel="localnow.86B50402-32F0-4EBF-9AF8-65DAE9C09A44">
-    <title lang="en">The Story Behind Three Infamous Crimes</title>
-    <desc lang="en">Explore D.B. Cooper's sky escape, the Somerton mystery, and the Lindbergh baby case with Chris and Amy.</desc>
-    <category lang="en">Crime</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/86B50402-32F0-4EBF-9AF8-65DAE9C09A44/0-2x3.png" />
-    <episode-num system="dd_progid">program-mysteria-20261115094501</episode-num>
-  </programme>
-<programme start="20261115101941 +0000" stop="20261115111106 +0000" channel="localnow.86B50402-32F0-4EBF-9AF8-65DAE9C09A44">
-    <title lang="en">Real-Life Horror Movie</title>
-    <desc lang="en">Two teenage boys make a horror movie that ends with the real-life murder of their friend.</desc>
-    <category lang="en">Crime</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/86B50402-32F0-4EBF-9AF8-65DAE9C09A44/0-2x3.png" />
-    <episode-num system="dd_progid">program-mysteria-20261115101941</episode-num>
   </programme>
 <programme start="20261115093000 +0000" stop="20261115100000 +0000" channel="localnow.86E14A0B-E06B-494A-8D8E-87DF7BC40EED">
     <title lang="en">An Arizona's Family Original with Yetta Gibson</title>
