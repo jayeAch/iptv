@@ -38,5 +38,9 @@ GLOBAL_EXCLUDE_LIST = [
   "Beauty and the Beast",
   "Becker",
   "Best of MTV",
+  "Z Nation",
+  "The Walking Dead",
+  "Doctor Who",
+  "The 4400",
 ]
 
