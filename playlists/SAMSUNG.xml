@@ -200,10 +200,6 @@
     <display-name>ABC 20/20</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4800001W5_20260421T133700SQUARE.png" />
   </channel>
-<channel id="USBB3200017MY">
-    <display-name>Forensic Files</display-name>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200017MY_20260922T055601SQUARE.png" />
-  </channel>
 <channel id="US37000036P">
     <display-name>TruBlu</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US37000036P_20250401T004913SQUARE.png" />
@@ -259,6 +255,10 @@
 <channel id="US4700029QM">
     <display-name>Gotham Comedy Live</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4700029QM_20260421T143107SQUARE.png" />
+  </channel>
+<channel id="US4500004SQ">
+    <display-name>Mystery Science Theater 3000</display-name>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4500004SQ_20260421T143040SQUARE.png" />
   </channel>
 <channel id="USAJ3504706A">
     <display-name>RiffTrax</display-name>
@@ -352,15 +352,6 @@
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2087640063_1_20251028T000556047Z_135_imageprocessorclient-tvplus-linear-76c46fff7-smjtb.jpeg" />
     <rating>
       <value>PG-13</value>
-    </rating>
-  </programme>
-<programme channel="USBD3500036HP" start="20261115085602 +0000" stop="20261115104049 +0000">
-    <title>Sunshine Cleaning</title>
-    <desc>Though they once seemed to have a bright future, life seems to be passing by the Norkowski sisters. Rose (Amy Adams), once the most popular girl in high school, is a single mom and works as a maid. Norah (Emily Blunt) still lives at home with their father (Alan Arkin), and parties all the time. When Rose's married lover tells her about the lucrative field of crime-scene cleanup, she pours all her remaining resources into her new business, and recruits the squeamish Norah to help.</desc>
-    <category lang="en">Movies</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_48480249_1_20261027T011510225Z_104_imageprocessorclient-tvplus-linear-6b56cc9f55-wrt8j.jpeg" />
-    <rating>
-      <value>TV-14</value>
     </rating>
   </programme>
 <programme channel="USBD3500036HP" start="20261115104049 +0000" stop="20261115123512 +0000">
@@ -517,29 +508,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme channel="US200001137" start="20261115085033 +0000" stop="20261115104640 +0000">
-    <title>Toxic Parents</title>
-    <desc>Yoo-ri, a seemingly model student from a well-to do family suddenly commits suicide at a lakeside campsite with several people she met via a suicide group.
-
-Detectives suspect suicide, but her mother Hye-young firmly believes that her classmate Ye-na and homeroom teacher Gi-beom were the killers. Ye-na is an idol trainee and Gi-beom is a teacher who looked after Yoo-ri. As the investigation dives into the lives of these people, it spirals out of control due to conflicting statements between the three, but detectives find out that actions of Hye-young started causing cracks in Yoo-ri's heart. Deeply believing that she was doing everything possible for her child out of love, can Hye-young uncover the real truth behind her daughter's death?</desc>
-    <category lang="en">Movies</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3346545696_4_20260817T214233611Z_61_imageprocessorclient-tvplus-linear-9468c5484-2n2hv.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="US200001137" start="20261115104640 +0000" stop="20261115105609 +0000">
-    <title>Begin to hear Korea</title>
-    <desc>Ki, a Danish musician who inspires Park Bo Gum with the unfamiliar sounds of Korea.A film capturing a journey across Korea, collecting the diverse sounds of everyday life and bringing them together to create a single piece of music.
-
-Park Bo Gum, a music director who dreams of creating music that lets you hear Korea.
-</desc>
-    <category lang="en">Movies</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3725752658_0_20261106T121300782Z_62_imageprocessorclient-tvplus-linear-6b56cc9f55-pxzsk.jpeg" />
-    <rating>
-      <value>TV-Y</value>
-    </rating>
-  </programme>
 <programme channel="US200001137" start="20261115105609 +0000" stop="20261115122900 +0000">
     <title>Evil Empire: Friday the 13th Chapter 2</title>
     <desc>What is the key to the case that Jae-hyeok holds? Why are ruthless killers from the United States pursuing him? Why is the foreign police from Japan investigating the "Suicide Syndrome" in Korea? And why is North Korea trying to conceal the truth about a secret project from the Japanese military?
@@ -664,16 +632,6 @@ Park Bo Gum, a music director who dreams of creating music that lets you hear Ko
       <value>NA</value>
     </rating>
   </programme>
-<programme channel="US2900007HA" start="20261115101900 +0000" stop="20261115104900 +0000">
-    <title>Death Valley Days</title>
-    <sub-title>Eagle in the Rocks</sub-title>
-    <desc>A town seeking justice for four murdered miners accuses Joaquin Murietta, an outlaw known as the "Mexican Robin Hood."</desc>
-    <category lang="en">Classic TV</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1401308596_0_20250527T192840280Z_105_imageprocessorclient-tvplus-linear-b76dd9bbb-7njgf.jpeg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
 <programme channel="US2900007HA" start="20261115104900 +0000" stop="20261115112000 +0000">
     <title>Death Valley Days</title>
     <sub-title>Cap'n Pegleg</sub-title>
@@ -740,16 +698,6 @@ Park Bo Gum, a music director who dreams of creating music that lets you hear Ko
     <desc>A former prospector agrees to search the mountains for a woman's missing fiancé.</desc>
     <category lang="en">Classic TV</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1401308596_0_20250527T192840280Z_105_imageprocessorclient-tvplus-linear-b76dd9bbb-7njgf.jpeg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme channel="US190000918" start="20261115101600 +0000" stop="20261115104700 +0000">
-    <title>Wanted: Dead or Alive</title>
-    <sub-title>Angels of Vengeance</sub-title>
-    <desc>The leader of a religious sect orders Josh killed in revenge for his son's death.</desc>
-    <category lang="en">Classic TV</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2296525436_1_20251217T201344129Z_59_imageprocessorclient-tvplus-linear-584c967455-z7vql.jpeg" />
     <rating>
       <value>TV-PG</value>
     </rating>
@@ -936,16 +884,6 @@ Park Bo Gum, a music director who dreams of creating music that lets you hear Ko
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme channel="US300068X7" start="20261115092454 +0000" stop="20261115104406 +0000">
-    <title>Top Gear UK</title>
-    <sub-title>Season 22, Episode 6</sub-title>
-    <desc>Hammond is dropped into remote Canada to test a watch with a built in emergency beacon.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_903477955_0_20250225T052112949Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-gvkfw.jpeg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
 <programme channel="US300068X7" start="20261115104406 +0000" stop="20261115113610 +0000">
     <title>AFV</title>
     <sub-title>A Dose of Dads, Magic, and Food Glorious Food</sub-title>
@@ -984,16 +922,6 @@ Park Bo Gum, a music director who dreams of creating music that lets you hear Ko
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2251932363_0_20251206T170130304Z_24_imageprocessorclient-tvplus-linear-584c967455-8jhvt.jpeg" />
     <rating>
       <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="USBB2300001QP" start="20261115102000 +0000" stop="20261115105103 +0000">
-    <title>Wanted: Dead or Alive</title>
-    <sub-title>The Giveaway Gun</sub-title>
-    <desc>A banker with a consuming thirst for vengeance hires Randall to accompany him to track down the man he believes responsible for his sons death and a bank robbery.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2269987859_0_20251211T032715348Z_23_imageprocessorclient-tvplus-linear-584c967455-w28gm.jpeg" />
-    <rating>
-      <value>TV-PG</value>
     </rating>
   </programme>
 <programme channel="USBB2300001QP" start="20261115105103 +0000" stop="20261115112141 +0000">
@@ -1134,16 +1062,6 @@ Park Bo Gum, a music director who dreams of creating music that lets you hear Ko
     <desc>Much to Charles' dismay, Stacy and Tasha decide to tag along on Charles and Jamal's fishing trip. After Crystal helps Kita write a love letter to Troy, Kita returns the favor by trying to reunite Crystal and Rashad.</desc>
     <category lang="en">Entertainment</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352135A_553372745_13_20241217T070214078Z_31_imageprocessorclient-tvplus-linear-5dc4fd45f6-zsqxt.jpeg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme channel="US19000072T" start="20261115100000 +0000" stop="20261115104900 +0000">
-    <title>Nashville</title>
-    <sub-title>They Don't Make 'Em Like My Daddy Anymore</sub-title>
-    <desc>A powerful and successful producer hears Juliette's new song and wants to make her a superstar, but Glenn ends up being marginalized  Rayna tries to remain stoic and in control after recent events  feeling lost, Scarlett turns to Liam.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2296525424_0_20251217T201348876Z_38_imageprocessorclient-tvplus-linear-584c967455-k8fnw.jpeg" />
     <rating>
       <value>TV-PG</value>
     </rating>
@@ -1343,16 +1261,6 @@ Park Bo Gum, a music director who dreams of creating music that lets you hear Ko
       <value>TV-14</value>
     </rating>
   </programme>
-<programme channel="US4100029G5" start="20261115100500 +0000" stop="20261115105700 +0000">
-    <title>Felicity</title>
-    <sub-title>The Slump</sub-title>
-    <desc>Felicity and Ben face the repercussions of their late-night pool prank  Noel thinks Ruby wants special treatment from him in the classroom.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2212268920_0_20251127T072528272Z_55_imageprocessorclient-tvplus-linear-584c967455-k8fnw.jpeg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
 <programme channel="US4100029G5" start="20261115105700 +0000" stop="20261115114700 +0000">
     <title>Felicity</title>
     <sub-title>Truth or Consequences</sub-title>
@@ -1391,15 +1299,6 @@ Park Bo Gum, a music director who dreams of creating music that lets you hear Ko
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2212268920_0_20251127T072528272Z_55_imageprocessorclient-tvplus-linear-584c967455-k8fnw.jpeg" />
     <rating>
       <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme channel="US2100005WS" start="20261115101910 +0000" stop="20261115104039 +0000">
-    <title>Teachers Help Send Poor Kids to Disney World</title>
-    <desc>After a theft ruins a low-income class's Disney trip, creative teacher Ms. Flores uses cardboard and imagination to recreate the park at school. A viral video leads to a real trip for the kids.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1963838506_0_20250923T013539311Z_93_imageprocessorclient-tvplus-linear-d7c8c765b-t9c8d.jpeg" />
-    <rating>
-      <value>TV-G</value>
     </rating>
   </programme>
 <programme channel="US2100005WS" start="20261115104039 +0000" stop="20261115111005 +0000">
@@ -1470,16 +1369,6 @@ Park Bo Gum, a music director who dreams of creating music that lets you hear Ko
     <desc>Bossy student Jay refuses to listen to his art project partners. After a vivid Minecraft nightmare teaches him that great leaders must also be good followers, he learns to collaborate and wins.</desc>
     <category lang="en">Entertainment</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1963838506_0_20250923T013539311Z_93_imageprocessorclient-tvplus-linear-d7c8c765b-t9c8d.jpeg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme channel="US1900013Z7" start="20261115095300 +0000" stop="20261115104300 +0000">
-    <title>Wildfire</title>
-    <sub-title>Vows</sub-title>
-    <desc>Kris and Junior's marriage plans go on hold after an accident severely injures Jean  Dani decides to return to racing.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2296525742_1_20251217T201344100Z_43_imageprocessorclient-tvplus-linear-584c967455-z7vql.jpeg" />
     <rating>
       <value>TV-PG</value>
     </rating>
@@ -1634,15 +1523,6 @@ Park Bo Gum, a music director who dreams of creating music that lets you hear Ko
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme channel="USBB3500002FL" start="20261115094500 +0000" stop="20261115104500 +0000">
-    <title>Murder, Murder</title>
-    <desc>Dr. Sloan tries to solve a friend's murder while Steve investigates the deceased's ex-wife and her identical twin sister.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352135A_548824020_1_20241009T045303330Z_23_imageprocessorclient-tvplus-linear-5dc4fd45f6-kvpw9.jpeg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
 <programme channel="USBB3500002FL" start="20261115104500 +0000" stop="20261115114500 +0000">
     <title>Murder In The Dark</title>
     <desc>A visiting surgeon must deal with his alcoholism after a fellow doctor is murdered during one of his blackouts.</desc>
@@ -1727,16 +1607,6 @@ Park Bo Gum, a music director who dreams of creating music that lets you hear Ko
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3253631298_0_20260728T131202844Z_1_imageprocessorclient-tvplus-linear-9468c5484-p4rrd.jpeg" />
     <rating>
       <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme channel="USBB320000397" start="20261115095603 +0000" stop="20261115105017 +0000">
-    <title>21 Jump Street</title>
-    <sub-title>Next Victim</sub-title>
-    <desc>When the controversial host of a radio talk show is nearly killed in an explosion, Booker takes over the show in an attempt to flush out the guilty party.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3750903824_0_20261111T173631600Z_113_imageprocessorclient-tvplus-linear-6b56cc9f55-vfpsd.jpeg" />
-    <rating>
-      <value>TV-14</value>
     </rating>
   </programme>
 <programme channel="USBB320000397" start="20261115105017 +0000" stop="20261115114334 +0000">
@@ -1860,15 +1730,6 @@ Park Bo Gum, a music director who dreams of creating music that lets you hear Ko
       <value>TV-14</value>
     </rating>
   </programme>
-<programme channel="US4300002FK" start="20261115093009 +0000" stop="20261115103947 +0000">
-    <title>Good Manager Ep.1</title>
-    <desc>Seongryong, who has been pocketing money off a mobster looks for a new job. He sees the TQ Group as his last and biggest victim where he can rip off a big lump of money. He applies for the job for this huge company with his petty background.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2169302917_1_20251117T021952394Z_101_imageprocessorclient-tvplus-linear-76c46fff7-s7k2c.png" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme channel="US4300002FK" start="20261115103947 +0000" stop="20261115114944 +0000">
     <title>Good Manager Ep.2</title>
     <desc>It's Mr. Kim's first day of work and he's already in turmoil. His team already hates him and on top of that, the new finance director orders him to do something he's unwilling to do.</desc>
@@ -1903,15 +1764,6 @@ Park Bo Gum, a music director who dreams of creating music that lets you hear Ko
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2169302917_1_20251117T021952394Z_101_imageprocessorclient-tvplus-linear-76c46fff7-s7k2c.png" />
     <rating>
       <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="US17000164B" start="20261115083721 +0000" stop="20261115104511 +0000">
-    <title>The Advocate: A Missing Body</title>
-    <desc>A lawyer and a prosecutor take on a murder case that has no evidence or a body.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3680306525_3_20261028T040450322Z_60_imageprocessorclient-tvplus-linear-6b56cc9f55-xngsv.jpeg" />
-    <rating>
-      <value>R</value>
     </rating>
   </programme>
 <programme channel="US17000164B" start="20261115104511 +0000" stop="20261115120027 +0000">
@@ -1980,15 +1832,6 @@ Park Bo Gum, a music director who dreams of creating music that lets you hear Ko
       <value>TV-14</value>
     </rating>
   </programme>
-<programme channel="US2000012KX" start="20261115094235 +0000" stop="20261115105443 +0000">
-    <title>My Troublesome Star Ep.2</title>
-    <desc>Actress Im Se Ra (Jang Da A) is on top of the world after becoming the youngest winner of a best actress award. Unfortunately, that same night, she's hit by a truck - and transported 25 years into the future, where she wakes up in the body of middle-aged woman Bong Cheong Ja (Uhm Jung Hwa). Cheong Ja decides to return to acting, hoping to restore her former glory and figure out what happened to her. She's assisted by Dokgo Cheol (Song Seung Heon), a former violent crimes detective who got demoted to traffic duty... and who shares a mysterious past connection with Se Ra. To both Cheong Ja and Cheol's surprise, they begin to fall for each other, sending their lives onto an entirely new trajectory.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3346545788_3_20260817T214235371Z_52_imageprocessorclient-tvplus-linear-9468c5484-kdl97.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme channel="US2000012KX" start="20261115105443 +0000" stop="20261115120556 +0000">
     <title>My Troublesome Star Ep.3</title>
     <desc>Actress Im Se Ra (Jang Da A) is on top of the world after becoming the youngest winner of a best actress award. Unfortunately, that same night, she's hit by a truck - and transported 25 years into the future, where she wakes up in the body of middle-aged woman Bong Cheong Ja (Uhm Jung Hwa). Cheong Ja decides to return to acting, hoping to restore her former glory and figure out what happened to her. She's assisted by Dokgo Cheol (Song Seung Heon), a former violent crimes detective who got demoted to traffic duty... and who shares a mysterious past connection with Se Ra. To both Cheong Ja and Cheol's surprise, they begin to fall for each other, sending their lives onto an entirely new trajectory.</desc>
@@ -2044,16 +1887,6 @@ Park Bo Gum, a music director who dreams of creating music that lets you hear Ko
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352137A_552114916_0_20241201T202858327Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-8wdfx.jpeg" />
     <rating>
       <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="US410000230" start="20261115101417 +0000" stop="20261115104419 +0000">
-    <title>Making Good</title>
-    <sub-title>The Roots of Music</sub-title>
-    <desc>Kirby joins the nonprofit The Roots of Music.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_839268002_0_20250212T172313980Z_55_imageprocessorclient-tvplus-linear-b76dd9bbb-gvkfw.png" />
-    <rating>
-      <value>TV-G</value>
     </rating>
   </programme>
 <programme channel="US410000230" start="20261115104419 +0000" stop="20261115111443 +0000">
@@ -2162,16 +1995,6 @@ Park Bo Gum, a music director who dreams of creating music that lets you hear Ko
     <desc>This episode follows the exhaustive investigation into a senseless murder and how genetic genealogy identified the killer.</desc>
     <category lang="en">True Crime</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550791421_15_20241113T060449805Z_62_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="US2600027AI" start="20261115095754 +0000" stop="20261115105516 +0000">
-    <title>Silent Witness</title>
-    <sub-title>Friends Like These Part 2</sub-title>
-    <desc>Sam's pursuit of her own theories leads her into dangerous places.</desc>
-    <category lang="en">Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_548057271_2_20240925T062231223Z_101_imageprocessorclient-tvplus-linear-5dc4fd45f6-8kjh4.jpeg" />
     <rating>
       <value>TV-14</value>
     </rating>
@@ -2397,16 +2220,6 @@ Park Bo Gum, a music director who dreams of creating music that lets you hear Ko
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme channel="US2001109K" start="20261115102828 +0000" stop="20261115105250 +0000">
-    <title>Killer Mysteries</title>
-    <sub-title>The Grim Sleeper</sub-title>
-    <desc>A killer terrorizes South Los Angeles during the 1980's, then goes dormant for 14 years only to resurface. Through technological advances and good old-fashioned police work, law enforcement is able to bring him to justice.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2395387221_0_20260109T045742778Z_72_imageprocessorclient-tvplus-linear-584c967455-p9wk7.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme channel="US2001109K" start="20261115105250 +0000" stop="20261115110000 +0000">
     <title>Killer Mysteries</title>
     <sub-title>Dreaming of Murder</sub-title>
@@ -2503,16 +2316,6 @@ Park Bo Gum, a music director who dreams of creating music that lets you hear Ko
     <desc>Four young adults are gunned down inside an affluent home in a quiet suburb of Houston, Texas. Police investigate the quadruple homicide for three years, chasing down hundreds of leads, before finding the killer.</desc>
     <category lang="en">True Crime</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2395387221_0_20260109T045742778Z_72_imageprocessorclient-tvplus-linear-584c967455-p9wk7.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="USBC1000002NP" start="20261115095114 +0000" stop="20261115104238 +0000">
-    <title>World's Most Evil Killers</title>
-    <sub-title>Stefano Brizzi</sub-title>
-    <desc>For one week in 2016, Stefano Brizzi stored the body of a policeman in his flat in central London. Taking inspiration from the TV show "Breaking Bad," he tried to dissolve the body in his bath tub.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550791291_20_20241113T060450720Z_119_imageprocessorclient-tvplus-linear-5dc4fd45f6-prfs6.jpeg" />
     <rating>
       <value>TV-14</value>
     </rating>
@@ -2675,106 +2478,6 @@ Park Bo Gum, a music director who dreams of creating music that lets you hear Ko
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3489966404_0_20260917T210617251Z_62_imageprocessorclient-tvplus-linear-6b56cc9f55-wlc7k.jpeg" />
     <rating>
       <value>NA</value>
-    </rating>
-  </programme>
-<programme channel="USBB3200017MY" start="20261115101113 +0000" stop="20261115103930 +0000">
-    <title>Forensic Files</title>
-    <sub-title>A Clean Getaway</sub-title>
-    <desc>An employee of a dry cleaner was raped and murdered in the store. Police turned to forensic science for the answers they needed.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3704403393_12_20261102T020739883Z_78_imageprocessorclient-tvplus-linear-6b56cc9f55-zhkhs.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="USBB3200017MY" start="20261115103930 +0000" stop="20261115110534 +0000">
-    <title>Forensic Files</title>
-    <sub-title>Prints Among Thieves</sub-title>
-    <desc>The murder of a millionaire indicated robbery, but investigators wondered if there was something more.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3704357847_24_20261102T020740721Z_110_imageprocessorclient-tvplus-linear-6b56cc9f55-wlc7k.jpeg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme channel="USBB3200017MY" start="20261115110534 +0000" stop="20261115113350 +0000">
-    <title>Forensic Files</title>
-    <sub-title>Unholy Alliance</sub-title>
-    <desc>When a young woman disappeared, police feared she was the latest victim in a string of similar crimes.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3704329776_22_20261102T020745097Z_59_imageprocessorclient-tvplus-linear-6b56cc9f55-6lw45.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="USBB3200017MY" start="20261115113350 +0000" stop="20261115120228 +0000">
-    <title>Forensic Files</title>
-    <sub-title>Signed, Sealed &amp; Delivered</sub-title>
-    <desc>A car carrying three men pulls up alongside another on an Alaskan highway and fires shots, leaving a passenger dead. One of the passengers in the killer's car agrees to testify against his friends. The resulting trials don't end the carnage.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3704440167_14_20261102T020740080Z_109_imageprocessorclient-tvplus-linear-6b56cc9f55-nrwxw.jpeg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme channel="USBB3200017MY" start="20261115120228 +0000" stop="20261115123047 +0000">
-    <title>Forensic Files</title>
-    <sub-title>Cop Out</sub-title>
-    <desc>A college student was found dead, and the evidence suggested he knew his killer. Three hairs and some microscopic cells helped police to unravel a web of lies, and find the motive for murder.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3704366577_4_20261102T020739730Z_107_imageprocessorclient-tvplus-linear-6b56cc9f55-2bbkr.jpeg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme channel="USBB3200017MY" start="20261115123047 +0000" stop="20261115125905 +0000">
-    <title>Forensic Files</title>
-    <sub-title>Summer Obsession</sub-title>
-    <desc>In an affluent suburb, police were called to the scene of what appeared to be an accidental drowning.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3704457737_17_20261102T020740361Z_97_imageprocessorclient-tvplus-linear-6b56cc9f55-mx4zz.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="USBB3200017MY" start="20261115125905 +0000" stop="20261115132722 +0000">
-    <title>Forensic Files</title>
-    <sub-title>Elemental Clue</sub-title>
-    <desc>When two women from the same town were murdered in the same way, police feared a serial killer was on the loose. At first they thought the victims had nothing in common until they found tiny clues linking them to the same man.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3704366785_14_20261102T020740080Z_70_imageprocessorclient-tvplus-linear-6b56cc9f55-nrwxw.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="USBB3200017MY" start="20261115132722 +0000" stop="20261115135540 +0000">
-    <title>Forensic Files</title>
-    <sub-title>Moss, Not Grass</sub-title>
-    <desc>A woman was found dead on a golf course. The grass on the course was so distinctive, it had evidentiary value.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3704338692_13_20261102T020749247Z_134_imageprocessorclient-tvplus-linear-6b56cc9f55-7p58r.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="USBB3200017MY" start="20261115135540 +0000" stop="20261115142358 +0000">
-    <title>Forensic Files</title>
-    <sub-title>Material Witness</sub-title>
-    <desc>A teenager went missing after an evening of horseback riding. Her body was found a month later, three miles from her home. The killer unknowingly left trace evidence behind - tiny but unmistakable clues which pointed to him and him alone.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3704412327_15_20261102T020740195Z_82_imageprocessorclient-tvplus-linear-6b56cc9f55-pxzsk.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="US37000036P" start="20261115102527 +0000" stop="20261115104649 +0000">
-    <title>Crime Stoppers Case Files</title>
-    <sub-title>Southern California</sub-title>
-    <desc>Brenda Sierra was walking to school when she was kidnapped by suspects.</desc>
-    <category lang="en">Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_835717416_1_20250212T001942125Z_32_imageprocessorclient-tvplus-linear-b76dd9bbb-vbp7f.png" />
-    <rating>
-      <value>TV-14</value>
     </rating>
   </programme>
 <programme channel="US37000036P" start="20261115104649 +0000" stop="20261115111310 +0000">
@@ -3087,16 +2790,6 @@ Park Bo Gum, a music director who dreams of creating music that lets you hear Ko
       <value>PG</value>
     </rating>
   </programme>
-<programme channel="USBD120001614" start="20261115100700 +0000" stop="20261115104000 +0000">
-    <title>Conan O'Brien</title>
-    <sub-title>I Love the Dead</sub-title>
-    <desc>People love zombie shows, and sometimes they let it show, even when they shouldn't!</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1328035947_0_20250514T205401055Z_90_imageprocessorclient-tvplus-linear-b76dd9bbb-jk5t6.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme channel="USBD120001614" start="20261115104000 +0000" stop="20261115111200 +0000">
     <title>Conan O'Brien</title>
     <sub-title>CocoWatch</sub-title>
@@ -3215,16 +2908,6 @@ Park Bo Gum, a music director who dreams of creating music that lets you hear Ko
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2102190495_1_20251031T214326551Z_105_imageprocessorclient-tvplus-linear-76c46fff7-ltcsf.jpeg" />
     <rating>
       <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme channel="US2900006IV" start="20261115102607 +0000" stop="20261115105415 +0000">
-    <title>Hot Ones</title>
-    <sub-title>Daniel Kaluuya Listens to His Ego While Eating Spicy Wings</sub-title>
-    <desc>Daniel Kaluuya is an Academy Award-winning actor you know from "Get Out," "Blank Panther" and many more.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2648010707_5_20260311T104918784Z_88_imageprocessorclient-tvplus-linear-584c967455-nmqz5.jpeg" />
-    <rating>
-      <value>TV-14</value>
     </rating>
   </programme>
 <programme channel="US2900006IV" start="20261115105415 +0000" stop="20261115112715 +0000">
@@ -3477,16 +3160,6 @@ Park Bo Gum, a music director who dreams of creating music that lets you hear Ko
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme channel="USBC4400004KK" start="20261115102000 +0000" stop="20261115104700 +0000">
-    <title>Just for Laughs: Gags</title>
-    <sub-title>Little Girl Raises the Dead</sub-title>
-    <desc>Featuring pranks such as a coffee run, a Jesus on the cross, electrocuted accident and amongst many more.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1925397671_0_20250911T151415672Z_66_imageprocessorclient-tvplus-linear-d7c8c765b-ktlvd.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme channel="USBC4400004KK" start="20261115104700 +0000" stop="20261115111500 +0000">
     <title>Just for Laughs: Gags</title>
     <sub-title>Model Fruit Platter</sub-title>
@@ -3617,16 +3290,6 @@ Park Bo Gum, a music director who dreams of creating music that lets you hear Ko
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme channel="US4700029QM" start="20261115095409 +0000" stop="20261115105424 +0000">
-    <title>Gotham Comedy Live</title>
-    <sub-title>Pamela Anderson</sub-title>
-    <desc>"Baywatch" legend Pamela Anderson hosts an all-new hour of stand-up live from New York's Gotham Comedy Club. Don't miss this rare chance to see the hilarious side of Anderson along with Hadiyah Robinson, Dave Landau and Pete Dominick.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2526457988_18_20260210T164700576Z_95_imageprocessorclient-tvplus-linear-584c967455-b7vn5.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme channel="US4700029QM" start="20261115105424 +0000" stop="20261115110000 +0000">
     <title>Gotham Comedy Live</title>
     <sub-title>Yakov Smirnoff</sub-title>
@@ -3677,6 +3340,26 @@ Park Bo Gum, a music director who dreams of creating music that lets you hear Ko
       <value>TV-14</value>
     </rating>
   </programme>
+<programme channel="US4500004SQ" start="20261115104100 +0000" stop="20261115123900 +0000">
+    <title>Mystery Science Theater 3000</title>
+    <sub-title>The Land The Time Forgot</sub-title>
+    <desc>A motley group aboard a German U-boat discovers an island full of ancient beasts.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2827557619_8_20260423T032652836Z_37_imageprocessorclient-tvplus-linear-796646965d-2k68x.jpeg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme channel="US4500004SQ" start="20261115123900 +0000" stop="20261115143800 +0000">
+    <title>Mystery Science Theater 3000</title>
+    <sub-title>Hamlet</sub-title>
+    <desc>"Hamlet" (1962) Drama. Shakespeare's melancholy Dane avenges his father's murder. With Maximilian Schell.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2827557619_8_20260423T032652836Z_37_imageprocessorclient-tvplus-linear-796646965d-2k68x.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
 <programme channel="USAJ3504706A" start="20261115094325 +0000" stop="20261115110826 +0000">
     <title>RiffTrax</title>
     <sub-title>Presents: Junior Prom</sub-title>
@@ -3705,16 +3388,6 @@ Park Bo Gum, a music director who dreams of creating music that lets you hear Ko
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352137A_549591141_1_20241022T204756327Z_80_imageprocessorclient-tvplus-linear-5dc4fd45f6-48mnw.jpeg" />
     <rating>
       <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="USBC1300012VK" start="20261115095625 +0000" stop="20261115105042 +0000">
-    <title>Paranormal Survivor</title>
-    <sub-title>Ghost Soldiers</sub-title>
-    <desc>Investigate the stories of soldiers who returned from the grave with messages.</desc>
-    <category lang="en">Paranormal</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_552898921_0_20241213T052512853Z_33_imageprocessorclient-tvplus-linear-5dc4fd45f6-m4dpr.jpeg" />
-    <rating>
-      <value>NA</value>
     </rating>
   </programme>
 <programme channel="USBC1300012VK" start="20261115105042 +0000" stop="20261115105959 +0000">
