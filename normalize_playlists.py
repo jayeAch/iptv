@@ -137,8 +137,6 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
         jiu jitsu
         jiu-jitsu
         muay thai
-        mma
-        ufc
         one championship
         one championship tv
         fight network
