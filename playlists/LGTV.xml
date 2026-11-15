@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+<channel id="FREQ1178-US">
+    <display-name>The Hill</display-name>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/nexstar/channels/1178-400x200.png"/>
+  </channel>
 <channel id="99992286">
     <display-name>Xumo Free Action Movies</display-name>
     <icon src="https://image.xumo.com/v1/channels/channel/99992286/400x200.png?type=white_cropped"/>
@@ -15,10 +19,6 @@
 <channel id="tribeca_tribe_US">
     <display-name>Tribeca</display-name>
     <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/tribeca/Tribeca_Logo_800w200h.png"/>
-  </channel>
-<channel id="historyandwarfarenowmainus_amg01515c89_us">
-    <display-name>History and Warfare</display-name>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/LG_HistoryWarfare_Logo_400x200.png"/>
   </channel>
 <channel id="haunttvus_hntus_US">
     <display-name>Haunt TV US</display-name>
@@ -104,6 +104,34 @@
     <display-name>ITV Deportes</display-name>
     <icon src="https://d2mxb63djushzm.cloudfront.net/images/ITV_Deportes_400x200.png"/>
   </channel>
+<channel id="allchewedup_amg00497c33_us">
+    <display-name>All Chewed Up</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Allchewedup/AllChewedUpLogo_V2.png"/>
+  </channel>
+<channel id="marthastewartchannel_amg17902c1_us">
+    <display-name>Martha Stewart</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/marquee/MStewartChannel_800x200WhiteLogo_LGTV.png"/>
+  </channel>
+<channel id="us-lg_majordomo_media_channel_dc">
+    <display-name>Majordomo TV with David Chang</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/1369/lg/82e65a/LG-Logo-PNG-100x100_v1.png"/>
+  </channel>
+<channel id="cookscountrychannel_ccch_US">
+    <display-name>Cook's Country Channel</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Cooks_Country/CC_CooksCountryChannel_LG_Logo_new.png"/>
+  </channel>
+<channel id="emerillagassechannel_amg17902c2_us">
+    <display-name>Emeril Lagasse</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/marquee/EmerilLagasseChannel_800x200WhiteLogo_LGTV.png"/>
+  </channel>
+<channel id="us-janson_todayshomeowner_1">
+    <display-name>Today's Home</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/1162/lg/e95c0e/LG-Logo-PNG-100x100_v4.png"/>
+  </channel>
+<channel id="lovenaturespanish_lnrspalgus_US">
+    <display-name>Love Nature En Espanol</display-name>
+    <icon src="https://d190bhqtoid3b.cloudfront.net/Images/S3/LNRSPA/LoveNatureenEspanol_AllWhite_Logo_800x200.png"/>
+  </channel>
 <channel id="FREQ1675-US">
     <display-name>Great British Baking Channel</display-name>
     <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/bbc/channels/1675-400x200.png"/>
@@ -128,6 +156,18 @@
     <display-name>Forensic Files</display-name>
     <icon src="https://image.xumo.com/v1/channels/channel/99992255/400x200.png?type=white_cropped"/>
   </channel>
+<channel id="us-janson_supersimplesongs_1">
+    <display-name>Super Simple Songs</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/559/lg/d86b91/LG-Logo-PNG-100x100_v1.png"/>
+  </channel>
+<channel id="us-jansonmedia_kidstv_1">
+    <display-name>Kids TV</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/1379/lg/21ab0d/LG-Logo-PNG-100x100_v2.png"/>
+  </channel>
+<channel id="99993100">
+    <display-name>Barney And Friends</display-name>
+    <icon src="https://image.xumo.com/v1/channels/channel/99993100/400x200.png?type=white_cropped"/>
+  </channel>
 <channel id="thecountrynetworkus_cinetcnus_US">
     <display-name>The Country Network</display-name>
     <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/cinedigm_images/tcn/tcn_logo_330x200.png"/>
@@ -139,6 +179,10 @@
 <channel id="Stingray317ADS">
     <display-name>Stingray Today's K-Pop</display-name>
     <icon src="https://epg.sam.stingray.com/IMAGE/317ADS/lg-direct/Channel_Logo_296x200.png"/>
+  </channel>
+<channel id="us-cinedigm_entertainment_corp_historian_1">
+    <display-name>Historian</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/1908/lg/b7ee6a/LG-Logo-PNG-100x100_v1.png"/>
   </channel>
 <channel id="yulelogtvbychristmasplus_amg02042c33eng_US">
     <display-name>Yule Log TV</display-name>
@@ -334,6 +378,126 @@
       <value>TV-14</value>
     </rating>
   </programme>
+<programme start="20261115084243 +0000" stop="20261115091426 +0000" channel="99993100">
+    <title lang="en">Barney and Friends</title>
+    <desc lang="en">Barney helps the children compare sizes as they explore big and little things found throughout the park and around them.</desc>
+    <category lang="en">Kids</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM08HOAYFIOLZJ/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993100%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM08HOAYFIOLZJ</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+<programme start="20261115091426 +0000" stop="20261115094615 +0000" channel="99993100">
+    <title lang="en">Barney and Friends</title>
+    <desc lang="en">An International Fair introduces the children to cultures foods languages and traditions from around the world in a fun celebration.</desc>
+    <category lang="en">Kids</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0LIZGMH9Y5SU/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993100%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM0LIZGMH9Y5SU</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+<programme start="20261115094615 +0000" stop="20261115101801 +0000" channel="99993100">
+    <title lang="en">Barney and Friends</title>
+    <desc lang="en">Through pretend play Barney teaches the children about community helpers and how people work together to keep others safe and happy.</desc>
+    <category lang="en">Kids</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM054YKGJ19W0F/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993100%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM054YKGJ19W0F</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+<programme start="20261115101801 +0000" stop="20261115104947 +0000" channel="99993100">
+    <title lang="en">Barney and Friends</title>
+    <desc lang="en">Nick's assignment to find squares becomes a fun shape spotting adventure as Barney and the kids search the park for geometric shapes.</desc>
+    <category lang="en">Kids</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM03BOBN0D5RK1/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993100%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM03BOBN0D5RK1</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+<programme start="20261115104947 +0000" stop="20261115112137 +0000" channel="99993100">
+    <title lang="en">Barney and Friends</title>
+    <desc lang="en">The children explore how cars and buses work while Barney teaches lessons about vehicle safety transportation and travel.</desc>
+    <category lang="en">Kids</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0H0E0RR5LSH8/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993100%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM0H0E0RR5LSH8</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+<programme start="20261115112137 +0000" stop="20261115115326 +0000" channel="99993100">
+    <title lang="en">Barney and Friends</title>
+    <desc lang="en">Barney teaches the children how to recognize express and cope with angry feelings in healthy positive and safe ways.</desc>
+    <category lang="en">Kids</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0AUO227WEJ3N/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993100%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM0AUO227WEJ3N</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+<programme start="20261115115326 +0000" stop="20261115122516 +0000" channel="99993100">
+    <title lang="en">Barney and Friends</title>
+    <desc lang="en">It is Barney's birthday and the children celebrate with songs games surprises and lots of love to make the day extra special.</desc>
+    <category lang="en">Kids</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0MSK75Q8FU2I/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993100%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM0MSK75Q8FU2I</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+<programme start="20261115122516 +0000" stop="20261115125706 +0000" channel="99993100">
+    <title lang="en">Barney and Friends</title>
+    <desc lang="en">Barney BJ and the children prepare songs dances and skits learning practice teamwork and creativity for a special park performance.</desc>
+    <category lang="en">Kids</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0YE4WBTHYYAF/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993100%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM0YE4WBTHYYAF</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+<programme start="20261115125706 +0000" stop="20261115132855 +0000" channel="99993100">
+    <title lang="en">Barney and Friends</title>
+    <desc lang="en">Working together the children build a birdhouse and learn about nature animal homes and how different creatures live in the park.</desc>
+    <category lang="en">Kids</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM05CCMTDODKOQ/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993100%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM05CCMTDODKOQ</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+<programme start="20261115132855 +0000" stop="20261115140157 +0000" channel="99993100">
+    <title lang="en">Barney and Friends</title>
+    <desc lang="en">Barney helps the kids understand feelings like happy sad and angry and shows them healthy ways to express and talk about emotions.</desc>
+    <category lang="en">Kids</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0EX90T3MOO3E/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993100%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM0EX90T3MOO3E</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+<programme start="20261115140157 +0000" stop="20261115143509 +0000" channel="99993100">
+    <title lang="en">Barney and Friends</title>
+    <desc lang="en">A class project becomes a chance for Barney and the children to talk about love family friendship and meaningful relationships.</desc>
+    <category lang="en">Kids</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM07366UM4S58O/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993100%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM07366UM4S58O</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+<programme start="20261115143509 +0000" stop="20261115150821 +0000" channel="99993100">
+    <title lang="en">Barney and Friends</title>
+    <desc lang="en">A fun music-filled day helps the children explore rhythm beat instruments and creative expression through play and listening.</desc>
+    <category lang="en">Kids</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0RJS1RG3QRQY/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993100%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM0RJS1RG3QRQY</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
 <programme start="20261115082204 +0000" stop="20261115091000 +0000" channel="99993103">
     <title lang="en">A Haunting</title>
     <desc lang="en">Tim Yancey and his older brother Tom love playing in the woods surrounding their Florida home. One afternoon, Tom senses a presence watching him from within the shadows. Days later, the same entity confronts Tim and chases him through the woods.</desc>
@@ -423,6 +587,62 @@
     <rating>
       <value>TV-PG</value>
     </rating>
+  </programme>
+<programme start="20261115080000 +0000" stop="20261115090000 +0000" channel="FREQ1178-US">
+    <title lang="en">The Hill with Blake Burman</title>
+    <desc lang="en">The Hill with Blake Burman 11/13</desc>
+    <category lang="en">News</category>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/7527000510882795743/solid/rectangle/w1920_h1080/1hxton5x2v80o1vkfi6snb8bol.jpg"/>
+    <episode-num system="dd_progid">9878767</episode-num>
+  </programme>
+<programme start="20261115090000 +0000" stop="20261115100000 +0000" channel="FREQ1178-US">
+    <title lang="en">Rising</title>
+    <desc lang="en">Best of Rising highlights the most impactful moments from the week in Washington.</desc>
+    <category lang="en">News</category>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/7527050690572630592/solid/rectangle/w1920_h1080/dur167mzh60d1kjm4jpnejv4d.jpg"/>
+    <episode-num system="dd_progid">9879179</episode-num>
+  </programme>
+<programme start="20261115100000 +0000" stop="20261115110000 +0000" channel="FREQ1178-US">
+    <title lang="en">The Hill with Blake Burman</title>
+    <desc lang="en">The Hill with Blake Burman 11/13</desc>
+    <category lang="en">News</category>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/7527000510882795743/solid/rectangle/w1920_h1080/1hxton5x2v80o1vkfi6snb8bol.jpg"/>
+    <episode-num system="dd_progid">9878767</episode-num>
+  </programme>
+<programme start="20261115110000 +0000" stop="20261115120000 +0000" channel="FREQ1178-US">
+    <title lang="en">The Hill News</title>
+    <desc lang="en">7A7626CB37C9D91D4C758248AF54BC73-0-1794600204807.mp4</desc>
+    <category lang="en">News</category>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/7527101564668950706/solid/rectangle/w1920_h1080/4y1p6sg48rup1q83qle70y5gx.jpg"/>
+    <episode-num system="dd_progid">9880190</episode-num>
+  </programme>
+<programme start="20261115120000 +0000" stop="20261115130000 +0000" channel="FREQ1178-US">
+    <title lang="en">Rising</title>
+    <desc lang="en">Best of Rising highlights Lindsey’s Lens, featuring her perspective on key political moments.</desc>
+    <category lang="en">News</category>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/7527054989198348050/solid/rectangle/w1920_h1080/5ejwomaxhxzp16yf08160ugb2.jpg"/>
+    <episode-num system="dd_progid">9879321</episode-num>
+  </programme>
+<programme start="20261115130000 +0000" stop="20261115140000 +0000" channel="FREQ1178-US">
+    <title lang="en">Rising</title>
+    <desc lang="en">Best of Rising highlights Robby’s Radar, featuring his perspective on key moments in Washington.</desc>
+    <category lang="en">News</category>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/7527062360178235357/solid/rectangle/w1920_h1080/o97hfrhzi64d1uar5bn9f7qnh.jpg"/>
+    <episode-num system="dd_progid">9879320</episode-num>
+  </programme>
+<programme start="20261115140000 +0000" stop="20261115150000 +0000" channel="FREQ1178-US">
+    <title lang="en">The Hill News</title>
+    <desc lang="en">7A7626CB37C9D91D4C758248AF54BC73-0-1794600204807.mp4</desc>
+    <category lang="en">News</category>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/7527101564668950706/solid/rectangle/w1920_h1080/4y1p6sg48rup1q83qle70y5gx.jpg"/>
+    <episode-num system="dd_progid">9880190</episode-num>
+  </programme>
+<programme start="20261115150000 +0000" stop="20261115160000 +0000" channel="FREQ1178-US">
+    <title lang="en">Sunrise on The HIll</title>
+    <desc lang="en">Revisit this week's top moments, standout stories, and interviews from Sunrise on The Hill.</desc>
+    <category lang="en">News</category>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/7527070872614287070/solid/rectangle/w1920_h1080/cb1rq0cvtjq11frie4l9pne8v.jpg"/>
+    <episode-num system="dd_progid">9880028</episode-num>
   </programme>
 <programme start="20261115081317 +0000" stop="20261115090348 +0000" channel="FREQ1209-US">
     <title lang="en">Where the Wild Men Are with Ben Fogle</title>
@@ -636,14 +856,104 @@
       <value>TV-G</value>
     </rating>
   </programme>
-<programme start="20261115083054 +0000" stop="20261115085624 +0000" channel="bringingupbates_amg00497c47_us">
-    <title lang="en">Bringing Up Bates</title>
-    <desc lang="en">Kelton's eager to propose to Josie so he reaches out to Gil and Kelly Jo to discuss ideas.</desc>
-    <category lang="en">Reality TV</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00497/resized_images/resized_e80113576e231ef13e0122a6b394279fdc2333e729a4644a4aa5a88936c94827_5abff6ee74be4d2cbc32c55fdd24680fjpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">amg00497c47_A3axDqP6GQEM1SHsDPsH6tz_us</episode-num>
+<programme start="20261115085707 +0000" stop="20261115093437 +0000" channel="allchewedup_amg00497c33_us">
+    <title lang="en">Chewed Up</title>
+    <desc lang="en">It's the Friday after Thanksgiving, and Chewed Up is all about transforming leftovers into brand-new masterpieces. Carla Hall whips up a decadent Ice Cream Pecan Pie using leftover pie slices, while Michael Symon cooks a savory Stuffing Frittata. The hosts confess their favorite late-night leftover habits, debate mayonnaise brands, and share wild stories about flying with pets.</desc>
+    <category lang="en">food/cooking</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00497/resized_images/resized_4137e6844db13d29922043df835df586039bbfa1af0955912f3ce92de94824ad_chewedup130260310colormixv1lg00232022still001jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg00497c33_AQL31NdbZvfyh9bTcTQcQPE_us</episode-num>
     <rating>
-      <value>G</value>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261115093437 +0000" stop="20261115101218 +0000" channel="allchewedup_amg00497c33_us">
+    <title lang="en">Chewed Up</title>
+    <desc lang="en">In this Fan Fridge episode, Michael Symon battles a stubborn blender to create a Whipped Cottage Cheese Dip with crispy mortadella chips. The crew embraces the pre-holiday scramble, sharing funny stories about morning commutes and paper cuts.</desc>
+    <category lang="en">food/cooking</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00497/resized_images/resized_b910df5f07d14908f724d7edf6bef4a8dc17dc31a98100c82c6e5e59cd1e5466_chewedup131260311colormixv1lg00112215still001jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg00497c33_A8MhixkGvAXiTonqJPHdtu5_us</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261115101218 +0000" stop="20261115104617 +0000" channel="allchewedup_amg00497c33_us">
+    <title lang="en">Chewed Up</title>
+    <desc lang="en">During "holiday reset week," Clinton Kelly bakes a festive Stromboli Wreath in a bundt pan. The hosts discuss their vastly different childhoods, play "Holiday Do or Don't," and Michael shares a hilariously horrifying mix-up involving the Hotel Chelsea in New York.</desc>
+    <category lang="en">food/cooking</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00497/resized_images/resized_42ef5993a37a6ec9c1a57a1897cc042e367f9a335a79b2bc4db293958d2cb82a_chewedup132260311colormixv1lg00131019still001jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg00497c33_APoHC161rXFTfGZfy1J9Xwb_us</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261115104617 +0000" stop="20261115112526 +0000" channel="allchewedup_amg00497c33_us">
+    <title lang="en">Chewed Up</title>
+    <desc lang="en">Special guest Liz Symon joins the kitchen to bake her foolproof Orange Olive Oil Cake. While she bakes, Liz and Michael laugh off a viral AI rumor that they divorced, reveal their morning Wordle routines, and recall a disastrous early date involving bad crab stuffed shells.</desc>
+    <category lang="en">food/cooking</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00497/resized_images/resized_72eb24c9e096da91ff1f98a8e3064470f33c4c4439c8c899a22d6e745bbe6846_chewedup133260310colormixv1lg00042209still001jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg00497c33_ATgizXAS1SaL9CV7DEKrQbN_us</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261115112526 +0000" stop="20261115120152 +0000" channel="allchewedup_amg00497c33_us">
+    <title lang="en">Chewed Up</title>
+    <desc lang="en">Guest Amy Sedaris joins the crew for a festive break! Michael leans into his Greek heritage to bake savory Spanakopita triangles, while Clinton and Amy get crafty making adorable "Pinecone Gnomes." The group plays "Chew It or Screw It," debates edible glitter, and shares their most hated foods.</desc>
+    <category lang="en">food/cooking</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00497/resized_images/resized_8eecf0c87c09040a16514659fd688ca652ace68f719d3520c0e536ae07661c03_chewedup134260311colormixv1lg00072518still001jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg00497c33_AVdH83xcv6GqJnu1JaN1Apo_us</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261115120152 +0000" stop="20261115123730 +0000" channel="allchewedup_amg00497c33_us">
+    <title lang="en">Chewed Up</title>
+    <desc lang="en">It's "Holiday Reset Week"! Carla Hall brings a comforting yet lighter meal to the table: Roasted Cauliflower Steaks served with a creamy cauliflower puree and buttery breadcrumbs. The hosts debate the best Christmas movies, Clinton pitches "Bean Week," and the studio briefly loses power!</desc>
+    <category lang="en">food/cooking</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00497/resized_images/resized_35afe035371a40f5f2442a3f5f454673dcdf542eccfa496f6cdb2eb694347d55_chewedup135260311colormixv1lg00275515still001jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg00497c33_ADw5ztuyQJLUPezS4QRzGRT_us</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261115123730 +0000" stop="20261115131958 +0000" channel="allchewedup_amg00497c33_us">
+    <title lang="en">Chewed Up</title>
+    <desc lang="en">Michael Symon shares comprehensive garlic education on this Halloween-themed episode of Chewed Up, demonstrating proper peeling methods using a bowl-shaking technique, various cutting approaches including microplane mincing and hand-slicing, and the benefits of removing garlic germs to reduce bitterness. He advocates strongly for using whole fresh garlic rather than pre-peeled or jarred varieties, explaining how commercial processing compromises flavor. The episode culminates with preparation of luxurious Robuchon-style mashed potatoes—equal parts potatoes and butter—garnished with roasted garlic cloves, Parmigiano-Reggiano, fresh chives, and served alongside grilled garlic bread.</desc>
+    <category lang="en">food/cooking</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00497/resized_images/resized_562c80845152dd3b3a65e2b9e93d7e6992d13754fa4043ec29a305530e9d6364_b741baf89b5a4ad68046d86ec2c5209djpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg00497c33_ANRTJ5JEaK6FPsdRuLFVm5j_us</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261115131958 +0000" stop="20261115140023 +0000" channel="allchewedup_amg00497c33_us">
+    <title lang="en">Chewed Up</title>
+    <desc lang="en">Clinton Kelly, Carla Hall, and Michael Symon welcome comedian Jackie Fabulous as a special guest for a festive holiday episode just two weeks before Christmas. Carla makes a festive holiday ham as the crew mixes holiday cheer, storytelling, and Carla's warm comfort food with Jackie's standout comedic energy.</desc>
+    <category lang="en">food/cooking</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00497/resized_images/resized_f0ed031df28ccef848b9c5d3066bd8800a0bc11136a8fe2aff0e7978bada10a2_chewedup201prev137260312colormixv1lg00231301still003jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg00497c33_AM35Z1oZMxMHdrMVVZ1gKbq_us</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261115140023 +0000" stop="20261115143856 +0000" channel="allchewedup_amg00497c33_us">
+    <title lang="en">Chewed Up</title>
+    <desc lang="en">Michael Symon takes center stage with his prized Prime Rib roast, walking through his technique for low-and-slow roasting and his signature horseradish cream sauce with sour cream and fresh grated horseradish. The hosts share holiday meal traditions, discuss fermented foods and gut health, and celebrate the elegance of a classic holiday beef centerpiece.</desc>
+    <category lang="en">food/cooking</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00497/resized_images/resized_ef9cca07b7761ba22fd941296dbd43b46f120b597c0e05f05d670d2ff982e377_chewedup202prev138260312colormixv1lg00154918still001jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg00497c33_AYMAynDcsjVg9UTPKvbQuHF_us</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261115143856 +0000" stop="20261115151045 +0000" channel="allchewedup_amg00497c33_us">
+    <title lang="en">Why'd They Wear That?</title>
+    <desc lang="en">Clinton Kelly and Stacy London break down the costume design and fashion moments from Mike Nichols' 1988 film "Working Girl," starring Melanie Griffith, Sigourney Weaver, and Harrison Ford. The hosts explore how Ann Roth's costume choices—from Tess's working-class Staten Island attire to her polished corporate wardrobe—reflect her transformation from secretary to executive. They discuss iconic 80s trends including big hair, commuter shoes, bold eyeshadow, shoulder pads, and the evolution of her style throughout the film, analyzing how fashion serves as a character development tool.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00497/resized_images/resized_f8923b492895cab488626ce9afc4cd4e5fa84d53ad6016b81f43bdb3ad61cb5b_85afa2b29cde4fefbb4e57634a610c41jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg00497c33_AD6qUJr7pFqDDocR7D2Lbhn_us</episode-num>
+    <rating>
+      <value>TV-PG</value>
     </rating>
   </programme>
 <programme start="20261115085624 +0000" stop="20261115092154 +0000" channel="bringingupbates_amg00497c47_us">
@@ -766,6 +1076,114 @@
       <value>G</value>
     </rating>
   </programme>
+<programme start="20261115083408 +0000" stop="20261115090352 +0000" channel="cookscountrychannel_ccch_US">
+    <title lang="en">Cook's Country</title>
+    <desc lang="en">Crown Roast of Pork; Parmesan-Crusted Asparagus; top picks for measuring spoons, kitchen safety tips</desc>
+    <category lang="en">food/cooking</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/CCCH/resized_b4491b4065b26976ceb554c1deb50f161d62b162ddd0e9cfcfe8a26f280af70b_65aeb6bd4bf71200011d883c1080jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">CCCH_65aeb6bd4bf71200011d883c_US</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115090352 +0000" stop="20261115093349 +0000" channel="cookscountrychannel_ccch_US">
+    <title lang="en">Cook's Country</title>
+    <desc lang="en">Chicago-style Ribs; Cincinnati Chilli; our cheddar cheese taste test winner</desc>
+    <category lang="en">food/cooking</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/CCCH/resized_99d096a02b2df00b19ab02de473b4721176ecd513df25206cba5127b07db0128_65a947fe060d5d000186ccb71080jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">CCCH_65a947fe060d5d000186ccb7_US</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115093349 +0000" stop="20261115100329 +0000" channel="cookscountrychannel_ccch_US">
+    <title lang="en">Cook's Country</title>
+    <desc lang="en">Mile-High Lemon Meringue Pie, Icebox Key Lime Pie</desc>
+    <category lang="en">food/cooking</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/CCCH/resized_d489b3d0ff2be2470652df53ef81fcaacf3f4edb06163299aafc3071e6d5a722_65a95e941d80920001efdf691080jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">CCCH_65a95e941d80920001efdf69_US</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115100329 +0000" stop="20261115103159 +0000" channel="cookscountrychannel_ccch_US">
+    <title lang="en">Cook's Country</title>
+    <desc lang="en">Spicy Cheese Bread; Old-Fashioned Vanilla Frozen Custard; tasting of sharp cheddar cheese</desc>
+    <category lang="en">food/cooking</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/CCCH/resized_2361e435fb6e880125b7e54c29fb59a388f2e51d2d9ef5eb7215313e01e152b6_65afed843759ca0001342cb51080jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">CCCH_65afed843759ca0001342cb5_US</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115103159 +0000" stop="20261115110000 +0000" channel="cookscountrychannel_ccch_US">
+    <title lang="en">Cook's Country</title>
+    <desc lang="en">Nashville Hot Fried Chicken; Cat Head Biscuits; winning whole dill pickle picks</desc>
+    <category lang="en">food/cooking</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/CCCH/resized_09de98f80461d8c8cf71c819c53fb2542e1eea1f4a7209e8f2d1163decc44388_65aaac931cfaf900010232271080jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">CCCH_65aaac931cfaf90001023227_US</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115110000 +0000" stop="20261115112958 +0000" channel="cookscountrychannel_ccch_US">
+    <title lang="en">Cook's Country</title>
+    <desc lang="en">Vegetarian Chili, Jalepeño-Cheddar Scones; tasting of Kansas-City Style Barbecue Sauce</desc>
+    <category lang="en">food/cooking</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/CCCH/resized_426d9807f6c565e4d74473fad3789d1ccf915ea8fd74a56608cea48bb2b5fa02_6813c5e70222d6000157cd811080jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">CCCH_6813c5e70222d6000157cd81_US</episode-num>
+  </programme>
+<programme start="20261115112958 +0000" stop="20261115115556 +0000" channel="cookscountrychannel_ccch_US">
+    <title lang="en">Cook's Country</title>
+    <desc lang="en">Honey-Glazed Pork Shoulder, Creamy Potatoes and Leeks; sheep’s-milk cheeses</desc>
+    <category lang="en">food/cooking</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/CCCH/resized_d1b54493e0dab0cfe7fd04d24df090b9751941d3a247ffb4d35df20c377b3123_69f0c681a228b1332606a9a61080jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">CCCH_69f0c681a228b1332606a9a6_US</episode-num>
+  </programme>
+<programme start="20261115115556 +0000" stop="20261115122712 +0000" channel="cookscountrychannel_ccch_US">
+    <title lang="en">Julia at Home</title>
+    <desc lang="en">Julia makes cheesy arancini, short rib ragu, and an arugula and fig salad. And for dessert pistachio cannolis.</desc>
+    <category lang="en">food/cooking</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/CCCH/resized_1d2d41fe1eb306f845b5c0b614dbcd1150949a1585575fbbb74d8cc6f8403125_65c116d7288d09000152e1161080jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">CCCH_65c116d7288d09000152e116_US</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115122712 +0000" stop="20261115130050 +0000" channel="cookscountrychannel_ccch_US">
+    <title lang="en">Julia at Home</title>
+    <desc lang="en">Julia shows us how to cook millet cakes, braised winter greens, a savory bread pudding, and baked quinoa.</desc>
+    <category lang="en">food/cooking</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/CCCH/resized_1152cf28966d435b47e3e0a8451b6d797be0d287d6ef18ffdca8ca0757174720_68a35392d6be800001613d201080jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">CCCH_68a35392d6be800001613d20_US</episode-num>
+  </programme>
+<programme start="20261115130050 +0000" stop="20261115133424 +0000" channel="cookscountrychannel_ccch_US">
+    <title lang="en">Julia at Home</title>
+    <desc lang="en">Julia makes grilled chicken, buttery grilled corn, and a parmesan orzo salad. And a lemon pie for dessert.</desc>
+    <category lang="en">food/cooking</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/CCCH/resized_f56223a75d64693e95c517a506ce01b77e24f94b4338f480c62a1ce5698a04e6_65e09c64b2ded40001e30ede1080jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">CCCH_65e09c64b2ded40001e30ede_US</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115133424 +0000" stop="20261115143700 +0000" channel="cookscountrychannel_ccch_US">
+    <title lang="en">All-Time Best Thanksgiving</title>
+    <desc lang="en">Dan Souza invites nine ATK test cooks to his home to create the all-time best Thanksgiving meal.</desc>
+    <category lang="en">food/cooking</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/CCCH/resized_3511aaa863ff301f7d6688eee0077cee59927e0e1af9a9ba45c43e6eebf0f8f0_6ae383320bfe323b44198d731080jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">CCCH_6ae383320bfe323b44198d73_US</episode-num>
+  </programme>
+<programme start="20261115143700 +0000" stop="20261115151021 +0000" channel="cookscountrychannel_ccch_US">
+    <title lang="en">Julia at Home</title>
+    <desc lang="en">Black Bean Chili, Jalapeño-Cheddar Scones, Salad with Orange Vinaigrette; Slow-Cooker Flan for dessert</desc>
+    <category lang="en">food/cooking</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/CCCH/resized_86ba4d92fdfe698c6aff282859f6762ec24081f806db4c0b9471e179701de124_65c1074f29739000013c59481080jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">CCCH_65c1074f29739000013c5948_US</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
 <programme start="20261115080407 +0000" stop="20261115092017 +0000" channel="dpworldtourgolf_dpwtg_US">
     <title lang="en">Qatar Masters</title>
     <desc lang="en">Rewatch all the action from the Final Day of the Commercial Bank Qatar Masters 2025.</desc>
@@ -836,14 +1254,104 @@
       <value>TVG</value>
     </rating>
   </programme>
-<programme start="20261115082300 +0000" stop="20261115085500 +0000" channel="espn8ocho_amg00497c24_us">
-    <title lang="en">Great American Events</title>
-    <desc lang="en">Coverage of a bicycle polo match between teams of three.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00497/resized_images/resized_3444ee6990f2ad0992592e8d7aac7793d680529866ab71c3775a432014080cfe_959d6dc56e1344c3bacfb5650d9e9e0epng_768_432.jpeg"/>
-    <episode-num system="dd_progid">amg00497c24_amg00497c24_amg-EP001102650109_20261115082300_us</episode-num>
+<programme start="20261115085144 +0000" stop="20261115091913 +0000" channel="emerillagassechannel_amg17902c2_us">
+    <title lang="en">Emeril's Table</title>
+    <desc lang="en">Emeril prepares satisfying soups.</desc>
+    <category lang="en">food/cooking</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/resized_images/resized_aa7089ed902d957cc1db55686c83e0e8e5e7f56c435a40272fc813a42c23634a_emerilstable1028screenshot16x9jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg17902c2_ANYm1EsaH5rwwuVXjhB3PoK_us</episode-num>
     <rating>
-      <value>PG</value>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115091913 +0000" stop="20261115094636 +0000" channel="emerillagassechannel_amg17902c2_us">
+    <title lang="en">Emeril's Table</title>
+    <desc lang="en">Emeril is going back to the basics. Whether you're a novice or an advanced cook, you'll love these recipes.</desc>
+    <category lang="en">food/cooking</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/resized_images/resized_dec3f76a24d4f3f4d84cbd7628c39afaaf97efc51f7c567d3493a4f00785301a_emerilstable1015screenshot16x9jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg17902c2_ARfceMwy7orSWFcMntUrJUy_us</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115094636 +0000" stop="20261115101813 +0000" channel="emerillagassechannel_amg17902c2_us">
+    <title lang="en">Emeril's Table</title>
+    <desc lang="en">Root for your home team with Emeril's sports party favorites.</desc>
+    <category lang="en">food/cooking</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/resized_images/resized_16cfaf6836771a6b7928c26ba8d5ae93e2b877e6800330001cecdb2a1e1fe79e_emerilstable1033screenshot16x9jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg17902c2_AASzotGpSsvzoeKm3Vs9Xwo_us</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115101813 +0000" stop="20261115104831 +0000" channel="emerillagassechannel_amg17902c2_us">
+    <title lang="en">Emeril's Table</title>
+    <desc lang="en">Emeril shows the most useful kitchen equipment (and how they make getting dinner on the table easier).</desc>
+    <category lang="en">food/cooking</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/resized_images/resized_b86faf428fd4f79118e06d7121d6913eae71aa4103d85c8b076c16cfeceaa5eb_emerilstable1003screenshot16x9jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg17902c2_ANMvz1BXdpDtTPTWaXmFHJn_us</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115104831 +0000" stop="20261115114240 +0000" channel="emerillagassechannel_amg17902c2_us">
+    <title lang="en">Emeril_Live</title>
+    <desc lang="en">Spinach Salad, Trout Almondine, Pistachio-Crusted Lamb, Nut Tart</desc>
+    <category lang="en">food/cooking</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/resized_images/resized_b9f899f71d25298e89dbdd9a2f5d0bfc01c78ccf51e43828c5d9ee9c210a6a32_emerillive0313screenshot16x9jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg17902c2_AQz7pe2dmTrnaNRQBrYZ3JV_us</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115114240 +0000" stop="20261115123517 +0000" channel="emerillagassechannel_amg17902c2_us">
+    <title lang="en">Emeril_Live</title>
+    <desc lang="en">Chimayo Cocktails; Apple Salad with Blue Cheese Croutons</desc>
+    <category lang="en">food/cooking</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/resized_images/resized_d75d35abe8e5e8095233f56d855224a9df8a702ae3ae0116ee051dbf49d461c6_emerillive0709screenshot16x9jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg17902c2_A7rQ571rWfuBgguzXgjhuzf_us</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115123517 +0000" stop="20261115132816 +0000" channel="emerillagassechannel_amg17902c2_us">
+    <title lang="en">Emeril_Live</title>
+    <desc lang="en">Apple Cider marinated Pork Spare Ribs, Apple Potato Gratin, Apple Charlotte</desc>
+    <category lang="en">food/cooking</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/resized_images/resized_878a91e750516d47ae67d12c4457bee89f6b831ea9cb82f23325906a149da534_emerillive0472screenshot16x9jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg17902c2_APzEWHYb9RFdhRAfM3SAkDf_us</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115132816 +0000" stop="20261115140529 +0000" channel="emerillagassechannel_amg17902c2_us">
+    <title lang="en">Emeril Cooks</title>
+    <desc lang="en">We've all heard of soft shell crab, but did you know there's also soft shell shrimp?</desc>
+    <category lang="en">food/cooking</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/resized_images/resized_cb7c44e3ff89f18db943931378adebd5f5e2b6a3c20c96bb7f754b190494ec6b_elck306softshellshrimpscreenshot16x9jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg17902c2_ALYYA5SGbdMZkV5bE2dcKSL_us</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115140529 +0000" stop="20261115144001 +0000" channel="emerillagassechannel_amg17902c2_us">
+    <title lang="en">Emeril Cooks</title>
+    <desc lang="en">Emeril's collard greens recipes, inspired by Farmer Jones' fresh produce.</desc>
+    <category lang="en">food/cooking</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/resized_images/resized_6dd31a554e992ba473b5d249ca4bd152b128f42b2b3fcaaab742858dd11c0969_elck401collardgreensscreenshot16x9jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg17902c2_AMor58GYroZN1PZfgYCGQRf_us</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115144001 +0000" stop="20261115151358 +0000" channel="emerillagassechannel_amg17902c2_us">
+    <title lang="en">Emeril Cooks</title>
+    <desc lang="en">Subtley sweet, Emeril shows you how to make the most of figs.</desc>
+    <category lang="en">food/cooking</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/resized_images/resized_46d4060551e0b43d1b900d800bab7ef0c70f9decd35a3e12cb8fe50b85d51359_elck402figsscreenshot16x9jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg17902c2_AHPqedToGeWmYbdWdFmwM8i_us</episode-num>
+    <rating>
+      <value>TV-G</value>
     </rating>
   </programme>
 <programme start="20261115085500 +0000" stop="20261115092700 +0000" channel="espn8ocho_amg00497c24_us">
@@ -1176,76 +1684,6 @@
       <value>PG</value>
     </rating>
   </programme>
-<programme start="20261115083338 +0000" stop="20261115093205 +0000" channel="historyandwarfarenowmainus_amg01515c89_us">
-    <title lang="en">Hidden Histories of WWII</title>
-    <desc lang="en">Examine a battle that highlighted the strategies the Allies used to win the war.</desc>
-    <category lang="en">History</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01515/resized_images/resized_316c6eedfc0cfc9d43a21a94462aea7b63347f19ba5f79f681016562b3e0713f_mtvhiddenhistoriesofwwiis1e0116x9jpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">amg01515c89_amg01515c89_MTV_HiddenHistoriesOfWorldWar2_S1_E01_en_20261115083338_us</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261115093205 +0000" stop="20261115102927 +0000" channel="historyandwarfarenowmainus_amg01515c89_us">
-    <title lang="en">Hidden Histories of WWII</title>
-    <desc lang="en">Search for the traitor who gave up the leader of the French Resistance.</desc>
-    <category lang="en">History</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01515/resized_images/resized_965c0d2de4b8051a2d6eab2f19fc10ebdd69e4752d0c4bdd51c7d66c18f14d05_mtvhiddenhistoriesofwwiis1e0216x9jpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">amg01515c89_amg01515c89_MTV_HiddenHistoriesOfWorldWar2_S1_E02_en_20261115093205_us</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261115102927 +0000" stop="20261115112336 +0000" channel="historyandwarfarenowmainus_amg01515c89_us">
-    <title lang="en">Hidden Histories of WWII</title>
-    <desc lang="en">Meet a pilot who single-handedly beat back the Luftwaffe in an iconic warbird.</desc>
-    <category lang="en">History</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01515/resized_images/resized_3f10ccc485bb76eab042b4df8bf780ea42a7406f42f77c7e118053cb65738176_mtvhiddenhistoriesofwwiis1e0316x9jpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">amg01515c89_amg01515c89_MTV_HiddenHistoriesOfWorldWar2_S1_E03_en_20261115102927_us</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261115112336 +0000" stop="20261115121945 +0000" channel="historyandwarfarenowmainus_amg01515c89_us">
-    <title lang="en">Hidden Histories of WWII</title>
-    <desc lang="en">Look inside a fearless battalion's incredible 2,000-mile journey to victory.</desc>
-    <category lang="en">History</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01515/resized_images/resized_e0c3005e323967ac7ac8c95570772590a1fa87d156132be0126e44553e686054_mtvhiddenhistoriesofwwiis1e04400x225png_768_432.jpeg"/>
-    <episode-num system="dd_progid">amg01515c89_amg01515c89_MTV_HiddenHistoriesOfWorldWar2_S1_E04_en_20261115112336_us</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261115121945 +0000" stop="20261115131532 +0000" channel="historyandwarfarenowmainus_amg01515c89_us">
-    <title lang="en">Pompeii: Life in a Roman Town</title>
-    <desc lang="en">Examine class differences in Pompeii.</desc>
-    <category lang="en">History</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01515/resized_images/resized_d54336df2ac788d92b1a8e4a61e21b8e53fa240d9883a49f174aa5cf942453ec_mtvpompeiilifeinaromantowns1e0116x9jpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">amg01515c89_amg01515c89_MTV_PompeiiLifeInARomanTown_S1_E01_en_20261115121945_us</episode-num>
-    <rating>
-      <value>g</value>
-    </rating>
-  </programme>
-<programme start="20261115131532 +0000" stop="20261115140916 +0000" channel="historyandwarfarenowmainus_amg01515c89_us">
-    <title lang="en">Pompeii: Life in a Roman Town</title>
-    <desc lang="en">Look inside Pompeii's impressive homes.</desc>
-    <category lang="en">History</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01515/resized_images/resized_333e982531d49912e3f531d9dbc6869f8c7069c84e57cf5aef017af2cefabd4f_mtvpompeiilifeinaromantowns1e0216x9jpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">amg01515c89_amg01515c89_MTV_PompeiiLifeInARomanTown_S1_E02_en_20261115131532_us</episode-num>
-    <rating>
-      <value>g</value>
-    </rating>
-  </programme>
-<programme start="20261115140916 +0000" stop="20261115150251 +0000" channel="historyandwarfarenowmainus_amg01515c89_us">
-    <title lang="en">Pompeii: Life in a Roman Town</title>
-    <desc lang="en">See how Romans spent their leisure time.</desc>
-    <category lang="en">History</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg01515/resized_images/resized_1ff975d12b7a9cc79f34ec6c37d2d5ffc3b7b59f30dc792e796ea9bd4f05378f_mtvpompeiilifeinaromantowns1e0316x9jpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">amg01515c89_amg01515c89_MTV_PompeiiLifeInARomanTown_S1_E03_en_20261115140916_us</episode-num>
-    <rating>
-      <value>g</value>
-    </rating>
-  </programme>
 <programme start="20261115080000 +0000" stop="20261115110000 +0000" channel="itvdeportes_itvdep_US">
     <title lang="en">Boxeo</title>
     <desc lang="en">Julio César Chávez Jr. contra Jeison Troncoso, peso crucero. Desde el gimnasio Miguel Hidalgo.</desc>
@@ -1273,6 +1711,206 @@
     <category lang="en">Sport</category>
     <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/ITVDEP/resized_3044f0cc3b32c09e77386ebd019b20251adc683294dbef24513d6a6eed99ce32_p343935bh8akjpg_768_432.jpeg"/>
     <episode-num system="dd_progid">ITVDEP_amg-EP012145094756_US</episode-num>
+  </programme>
+<programme start="20261115083208 +0000" stop="20261115093030 +0000" channel="lovenaturespanish_lnrspalgus_US">
+    <title lang="en">Iconos de la Vida Silvestre</title>
+    <desc lang="en">Eche un vistazo en profundidad a la vida de los mamíferos terrestres más poderosos de la tierra.</desc>
+    <category lang="en">Documentary</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/LNRSPALGUS/resized_e4eaf4dc2b7f5c72493147c07f56b63c3d4c2a96f3fcae9d6ccd5b17e2f5bc55_hfa01042231seriesspanishjpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">LNRSPALGUS_HF_A01042231_US</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+<programme start="20261115093030 +0000" stop="20261115095947 +0000" channel="lovenaturespanish_lnrspalgus_US">
+    <title lang="en">Diarios de OI Pejeta</title>
+    <desc lang="en">Sigue el rescate de los Chimpancés y la reintroducción de los Monos Colobos.</desc>
+    <category lang="en">Documentary</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/LNRSPALGUS/resized_800c54ed7314b6d5b44995650645ec6384b5503de3ff6f0d0c0364b219eb38bc_hfa01042333seriesspanishjpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">LNRSPALGUS_HF_A01042333_US</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+<programme start="20261115095947 +0000" stop="20261115102903 +0000" channel="lovenaturespanish_lnrspalgus_US">
+    <title lang="en">Diarios de OI Pejeta</title>
+    <desc lang="en">El personal de vigilancia relocaliza a un Leopardo devastado por el hambre que deambula peligrosamente cerca.</desc>
+    <category lang="en">Documentary</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/LNRSPALGUS/resized_9d2d36e79bea9859a65a0f21dfa75850d7023674af8c403c0f0675338ee185ec_hfa01042334seriesspanishjpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">LNRSPALGUS_HF_A01042334_US</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+<programme start="20261115102903 +0000" stop="20261115110000 +0000" channel="lovenaturespanish_lnrspalgus_US">
+    <title lang="en">Diarios de OI Pejeta</title>
+    <desc lang="en">Vea cómo el Staff responde a los desafíos de una creciente población de Elefantes.</desc>
+    <category lang="en">Documentary</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/LNRSPALGUS/resized_5e8f0748ffdcd399c08e78b0d8e5086cfbf820ce19795885eee0d60ac8df8df6_hfa01042332seriesspanishjpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">LNRSPALGUS_HF_A01042332_US</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+<programme start="20261115110000 +0000" stop="20261115115830 +0000" channel="lovenaturespanish_lnrspalgus_US">
+    <title lang="en">Secretos de Australia Salvaje</title>
+    <desc lang="en">El Zorro volador de cabeza gris es el Murciélago frugívoro más grande de Australia.</desc>
+    <category lang="en">Documentary</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/LNRSPALGUS/resized_a6561849332aae965d53f30bdc3c4941a291d673915b003beb26d6d55ade0e47_hfa010421981jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">LNRSPALGUS_HF_A01042198_US</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+<programme start="20261115115830 +0000" stop="20261115125541 +0000" channel="lovenaturespanish_lnrspalgus_US">
+    <title lang="en">Horizontes Salvajes de África</title>
+    <desc lang="en">Descubre animales sudafricanos en un territorio anterior a la vida terrestre.</desc>
+    <category lang="en">Documentary</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/LNRSPALGUS/resized_7f1df60ec9408b62ce0df8f61bdbd54ef677aa41fc8aca65a9566bffe35175b3_hfa01052083jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">LNRSPALGUS_HF_A01052083_US</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+<programme start="20261115125541 +0000" stop="20261115135630 +0000" channel="lovenaturespanish_lnrspalgus_US">
+    <title lang="en">Campamento de Cachorros</title>
+    <desc lang="en">Judy cuida y enseña a Winston, un cachorro de oso, a ser independiente.</desc>
+    <category lang="en">Documentary</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/LNRSPALGUS/resized_8851d13f45c76f73c33db6fdac4d6655a836effcb12dccbf8258c9024c9e922d_hfa01057247jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">LNRSPALGUS_HF_A01057247_US</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+<programme start="20261115135630 +0000" stop="20261115145716 +0000" channel="lovenaturespanish_lnrspalgus_US">
+    <title lang="en">Campamento de Cachorros</title>
+    <desc lang="en">Tres huérfanas, las Chicas X, le dan a Winston una lección sobre la amistad.</desc>
+    <category lang="en">Documentary</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/LNRSPALGUS/resized_288440cbfbb6a637deef71cb3f2399caff734bb66ebf349a0fec9564d5198f34_hfa01057248jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">LNRSPALGUS_HF_A01057248_US</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+<programme start="20261115145716 +0000" stop="20261115155602 +0000" channel="lovenaturespanish_lnrspalgus_US">
+    <title lang="en">Campamento de Cachorros</title>
+    <desc lang="en">Winston y las cachorras se mudan y una lesión retrasa la liberación de Victor.</desc>
+    <category lang="en">Documentary</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/LNRSPALGUS/resized_636559ce58879eaffb2e4c84639b0bb46bfc8e0c81ab23910902f48b6fd63204_hfa01057249jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">LNRSPALGUS_HF_A01057249_US</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+<programme start="20261115083942 +0000" stop="20261115091446 +0000" channel="marthastewartchannel_amg17902c1_us">
+    <title lang="en">Martha Stewart's Cooking School</title>
+    <desc lang="en">Martha roasts: roast rack of lamb, salt-roasted sea bass, saffron-roasted chicken wings.</desc>
+    <category lang="en">food/cooking</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/resized_images/resized_57ad47f200e4da30919d6bd0f33b35247f210916d698a4fcfd694295436a55ef_marthastewartscookingschool303screenshot16x9jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg17902c1_ARW1c6aXUPuG4423g442R8R_us</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115091446 +0000" stop="20261115094745 +0000" channel="marthastewartchannel_amg17902c1_us">
+    <title lang="en">Martha Stewart's Cooking School</title>
+    <desc lang="en">Martha prepares vegetables: steamed artichokes, braised leeks, fried okra, roasted garlic.</desc>
+    <category lang="en">food/cooking</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/resized_images/resized_836ef072490b09f1c607942e1d20c0b0132a5f7a4cc58e2dc5ce11fb6c7b2534_marthastewartscookingschool307screenshot16x9jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg17902c1_AQtUBBFbJaQwSimm1ksWMy7_us</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115094745 +0000" stop="20261115102036 +0000" channel="marthastewartchannel_amg17902c1_us">
+    <title lang="en">Martha Stewart's Cooking School</title>
+    <desc lang="en">Martha makes grains: mushroom barley soup, couscous royale, grits with broiled tomatoes.</desc>
+    <category lang="en">food/cooking</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/resized_images/resized_fc44c9055909c45f3a320dd71750564e46dcd99caf8ec82c268274c32d0f09d5_marthastewartscookingschool308screenshot16x9jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg17902c1_ACzgdHdJjXXvrFFvSn8Yq9B_us</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115102036 +0000" stop="20261115105337 +0000" channel="marthastewartchannel_amg17902c1_us">
+    <title lang="en">Martha Stewart's Cooking School</title>
+    <desc lang="en">Martha makes potatoes: scalloped, potato salad, silky potato puree, smashed potatoes.</desc>
+    <category lang="en">food/cooking</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/resized_images/resized_85cecc37b2bcecd232723701c672400f1bdf55cfa72115d1132c5ae8aa14c720_marthastewartscookingschool311screenshot16x9jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg17902c1_AJf5xGZwKisviLeaBwzmxtJ_us</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115105337 +0000" stop="20261115112616 +0000" channel="marthastewartchannel_amg17902c1_us">
+    <title lang="en">Martha Stewart's Cooking School</title>
+    <desc lang="en">Martha makes greens: sorrel soup, pasta with sardines and greens, chard frittata.</desc>
+    <category lang="en">food/cooking</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/resized_images/resized_b82ba0c3b8bff0d37e739687dd33368428d58b84f0d22f6955b067664a6dc415_marthastewartscookingschool401screenshot16x9jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg17902c1_A6QGGnWfmbNwFhEdPfKnxNh_us</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115112616 +0000" stop="20261115115900 +0000" channel="marthastewartchannel_amg17902c1_us">
+    <title lang="en">Martha Stewart's Cooking School</title>
+    <desc lang="en">Martha makes mushrooms: buckwheat crepes with filling, ragu, French soup, risotto.</desc>
+    <category lang="en">food/cooking</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/resized_images/resized_ab47c77f2fc1b93c37dc595aff274c08a37d6ff97499949ddf7e33bb94b893fc_marthastewartscookingschool404screenshot16x9jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg17902c1_A4fLdt5WZikJJMYspX3F2jG_us</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115115900 +0000" stop="20261115123142 +0000" channel="marthastewartchannel_amg17902c1_us">
+    <title lang="en">Martha Bakes</title>
+    <desc lang="en">Martha bakes caramel: salted-caramel chocolate layer cake, chocolate-caramel cookie bars.</desc>
+    <category lang="en">food/cooking</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/resized_images/resized_97001384f27a1ed60b13426dc38cbcc28aee0dba1a1f5fcd73606e22707e94b3_marthabakes405screenshot16x9jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg17902c1_AKWpazxTF5caPeQuPVjS8bV_us</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115123142 +0000" stop="20261115130451 +0000" channel="marthastewartchannel_amg17902c1_us">
+    <title lang="en">Martha Bakes</title>
+    <desc lang="en">Martha bakes fruit desserts: pink applesauce tart, apple pies, pear frangipane tart.</desc>
+    <category lang="en">food/cooking</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/resized_images/resized_6cc789f8dea3852d8a6672c2d34368697f7f7e067a0592a38f98450b1b1c7c97_marthabakes406screenshot16x9jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg17902c1_AMAizwSyqMaFMRqdoz6a9Jn_us</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115130451 +0000" stop="20261115133802 +0000" channel="marthastewartchannel_amg17902c1_us">
+    <title lang="en">Martha Bakes</title>
+    <desc lang="en">Martha bakes with phyllo: ruffled milk pie, bisteeya, baklava, spanakopita.</desc>
+    <category lang="en">food/cooking</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/resized_images/resized_3ff722a308a2ba13370cca462ff164127787c1f946484ca919e95674c83ca209_marthabakes407screenshot16x9jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg17902c1_APCmt1Dx5DpWbJWwc9DBm2c_us</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115133802 +0000" stop="20261115143208 +0000" channel="marthastewartchannel_amg17902c1_us">
+    <title lang="en">Martha Stewart Living</title>
+    <desc lang="en">Martha's Tips for Thanksgiving Prep</desc>
+    <category lang="en">food/cooking</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/resized_images/resized_cacbb3ad87f7cce90199a35f6f9319b26280d9550180b38df1a81ae13f4b0a98_marthastewartliving10133screenshot16x9jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg17902c1_ACtsV7Xxe6Mxnw7hi9bLzdK_us</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115143208 +0000" stop="20261115152609 +0000" channel="marthastewartchannel_amg17902c1_us">
+    <title lang="en">Martha Stewart Living</title>
+    <desc lang="en">Martha's Favorites: Thanksgiving Countdown (Cranberry Glazed Turkey)</desc>
+    <category lang="en">food/cooking</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg17902/resized_images/resized_99a3ba8dd29f99eb2a30af7ce858443c89ea8cc1a980f000a637d9256648973b_marthastewartliving11112screenshot16x9jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg17902c1_ASgGDaLvPafscSPaNukgnCL_us</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
   </programme>
 <programme start="20261115080000 +0000" stop="20261115110000 +0000" channel="mavtvselectdomestic_mavtv_US">
     <title lang="en">2026 GAA Classic Car Auction</title>
@@ -1402,16 +2040,6 @@
     <episode-num system="dd_progid">NHLPCR_nhldraft2025_US</episode-num>
     <rating>
       <value>PG</value>
-    </rating>
-  </programme>
-<programme start="20261115070443 +0000" stop="20261115085322 +0000" channel="ryzsports_ryzspo_US">
-    <title lang="en">Football - California High School 2026 Season - Valley Christian at St. Ignatius Prep</title>
-    <desc lang="en">High School Football from Californis as Saint Ignatius Prep host Valley Christian</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/ryzspo/resized_e9a40b6c99f41e0111546deaa59f051f748fb2987f4c44c215da9a1a15f6b5ea_valleychristianvssititlejpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">ryzspo_Football_-_California_High_School_2026_Season_-_Valley_Christian_at_St_Ignatius_Prep-1793404815_US</episode-num>
-    <rating>
-      <value>TV-PG</value>
     </rating>
   </programme>
 <programme start="20261115085322 +0000" stop="20261115095201 +0000" channel="ryzsports_ryzspo_US">
@@ -1967,6 +2595,116 @@
       <value>TV-G</value>
     </rating>
   </programme>
+<programme start="20261115082509 +0000" stop="20261115092839 +0000" channel="us-cinedigm_entertainment_corp_historian_1">
+    <title lang="en">Bob Dole, Italy and World War 2</title>
+    <desc lang="en">Some of the most brutal, merciless and chaotic fighting of World War II took part in the mountains of Italy and lasted until the final days of the war. Even as the Allies advanced into the heart of Berlin in May of 1945, the battle for Italy continued. Many soldiers were affected by their time fighting in Italy and the horrific conditions they faced there. BOB DOLE, ITALY AND WORLD WAR II is about those who lived through one of World War IIs most desperate fights, including the young lieutenant from Kansas whose unforgettable ordeal in Italy would shape his life of public service.</desc>
+    <category lang="en">Documentary</category>
+    <icon src="http://img.platform.wurl.dev/channel/1908/lg/b7ee6a/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-CineverseEntertainmentCorp-119190655-52541967-52525612</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+<programme start="20261115092839 +0000" stop="20261115100506 +0000" channel="us-cinedigm_entertainment_corp_historian_1">
+    <title lang="en">Curious Traveler</title>
+    <desc lang="en">Christine gets curious about Szczecin, Poland. Highlights include: Castle of the Dukes of Pomerania, the National Museum, Stare Miasto Square, Tower of the Seven Cloaks, Kasprowicz Park, Willa Lentza Manor House.</desc>
+    <category lang="en">Documentary</category>
+    <icon src="http://img.platform.wurl.dev/channel/1908/lg/b7ee6a/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-CineverseEntertainmentCorp-119190656-56851222-56763965</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115100506 +0000" stop="20261115103511 +0000" channel="us-cinedigm_entertainment_corp_historian_1">
+    <title lang="en">Curious Traveler</title>
+    <desc lang="en">Why are the constellations backwards in Grand Central? Why are there acorns all over the place? Why does the Great Hall at the Met look like the Baths of Caracalla? Why is there a golden Diana statue in the middle of the Metropolitan Museum of Art, and what does that have to do with the General Sherman statue by The Plaza? Why is Rockefeller Centers Atlas statue in permanently grimacing at St. Patricks Cathedral? And what does he have to do with the Pieta inside?</desc>
+    <category lang="en">Documentary</category>
+    <icon src="http://img.platform.wurl.dev/channel/1908/lg/b7ee6a/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-CineverseEntertainmentCorp-119190657-56784002-56763965</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115103511 +0000" stop="20261115110512 +0000" channel="us-cinedigm_entertainment_corp_historian_1">
+    <title lang="en">Curious Traveler</title>
+    <desc lang="en">Why is St. Pauls Cathedral such an iconic symbol of London? And why doesnt it face due east? And what does St. Paul have to do with the City of London crest? What is the City of London and why cant the Queen come in? Why do so many London neighborhoods end in gate? Why is Temple Church round? And what did those secretive Knights Templar do here? And what does all of this have to do with Magna Carta and why has a copy remained at Salisbury Church for 800 years?</desc>
+    <category lang="en">Documentary</category>
+    <icon src="http://img.platform.wurl.dev/channel/1908/lg/b7ee6a/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-CineverseEntertainmentCorp-119190658-56784002-56763965</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115110512 +0000" stop="20261115113507 +0000" channel="us-cinedigm_entertainment_corp_historian_1">
+    <title lang="en">Curious Traveler</title>
+    <desc lang="en">Why is there a dragon on the Welsh flag? Why does the man next-in-line for the British throne hold the title the Prince of Wales? What are the Walls of Constantinople doing here in Wales? Who is King Longshanks? And how is he related to King Vortigern and Roman Emperor Magnus Maximus? Where is Britains smallest church? I cant see it! And how the heck do you pronounce the 2nd longest place name in the world: Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch???</desc>
+    <category lang="en">Documentary</category>
+    <icon src="http://img.platform.wurl.dev/channel/1908/lg/b7ee6a/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-CineverseEntertainmentCorp-119190659-56784002-56763965</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115113507 +0000" stop="20261115120514 +0000" channel="us-cinedigm_entertainment_corp_historian_1">
+    <title lang="en">Curious Traveler</title>
+    <desc lang="en">Why did the French settle here? And why is French still the official language here (as well as English)? Why is there a Paris Metro Stop in the middle of the city? Why is Notre-Dame Basilica bathed in blue? And why does it slope downwards towards the altar? Why does the Hotel de Ville (City Hall) look like DCs Eisenhower Building and why does the Bank of Montreal look like the Pantheon? And is there really an archaeological dig going on under your feet at Place Royal?</desc>
+    <category lang="en">Documentary</category>
+    <icon src="http://img.platform.wurl.dev/channel/1908/lg/b7ee6a/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-CineverseEntertainmentCorp-119190660-56784002-56763965</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115120514 +0000" stop="20261115124015 +0000" channel="us-cinedigm_entertainment_corp_historian_1">
+    <title lang="en">Curious Traveler</title>
+    <desc lang="en">Who is Gassy Jack &amp; why is the historic district named after him? Who was A.B.C. Architect and why did he design such a grand Parliament Building in Victoria? Why isnt there a sign above the main entrance to The Empress Hotel? And why is High Tea such a big deal here? How did an 11th and 12th century French, Spanish &amp; Italian Romanesque-style castle, built for a Scottish self-made millionaire, become Canadas Castle? And how did a turn-of-the20th century female chemist turn a quarry into one of the most famous gardens in the world?</desc>
+    <category lang="en">Documentary</category>
+    <icon src="http://img.platform.wurl.dev/channel/1908/lg/b7ee6a/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-CineverseEntertainmentCorp-119190661-56784002-56763965</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115124015 +0000" stop="20261115131015 +0000" channel="us-cinedigm_entertainment_corp_historian_1">
+    <title lang="en">Curious Traveler</title>
+    <desc lang="en">Why is there a French Loire Valley castle in the middle of the American Deep South? Did you know that the name Biltmore is completely made up? Why did the architects of the Statue of Liberty, the New York Subway, and Central Park put their stamp on this small town? Why did Henry Ford, F. Scott Fitzgerald and Thomas Edison all stay in a hotel where it looks like the roof is melting? And how did Scots-Irish immigrants create American country music?</desc>
+    <category lang="en">Documentary</category>
+    <icon src="http://img.platform.wurl.dev/channel/1908/lg/b7ee6a/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-CineverseEntertainmentCorp-119190662-56784002-56763965</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115131015 +0000" stop="20261115134007 +0000" channel="us-cinedigm_entertainment_corp_historian_1">
+    <title lang="en">Curious Traveler</title>
+    <desc lang="en">Why does Paris look like Paris? Why were the Eiffel Tower and the Pont Alexandre III built for World Expos? Why is the Opera Garnier so ornate? Why is there a Romano-Byzantine Basilica atop the highest point in Paris? Why are the streets so windy in Montmartre? Why was a famous cabaret built inside a red mill: the Moulin Rouge?</desc>
+    <category lang="en">Documentary</category>
+    <icon src="http://img.platform.wurl.dev/channel/1908/lg/b7ee6a/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-CineverseEntertainmentCorp-119190663-56784003-56763965</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115134007 +0000" stop="20261115141010 +0000" channel="us-cinedigm_entertainment_corp_historian_1">
+    <title lang="en">Curious Traveler</title>
+    <desc lang="en">Why is there a giant hole in the top of the Pantheon? And how is it still standing after more than two millennia? Why does Piazza Navona look like a racetrack? And why did it used to be a swimming pool? Where did the bronze for St. Peter's Basilica come from, and why are those windows in the dome so heavenly?</desc>
+    <category lang="en">Documentary</category>
+    <icon src="http://img.platform.wurl.dev/channel/1908/lg/b7ee6a/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-CineverseEntertainmentCorp-119190664-56784003-56763965</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115141010 +0000" stop="20261115151510 +0000" channel="us-cinedigm_entertainment_corp_historian_1">
+    <title lang="en">A Short History of the English Garden</title>
+    <desc lang="en">Discover how the Romans first introduced gardens to England. When Anglo-Saxon England emerged from the Dark Ages, European influence returned during the age of the Tudors and Stuarts, emphasizing geometric patterns and formal features. In the late 17th and 18th centuries, the English picturesque movement took off, inspired by native landscapes and the icons of the ancient world.</desc>
+    <category lang="en">Documentary</category>
+    <icon src="http://img.platform.wurl.dev/channel/1908/lg/b7ee6a/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-CineverseEntertainmentCorp-119190666-56870416-56845374</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
 <programme start="20261115080000 +0000" stop="20261115095006 +0000" channel="us-cinedigm_entertainment_corp_screamboxtv_1">
     <title lang="en">Ice Cream Man (Edited Version)</title>
     <desc lang="en">Poor Gregory. After being released from the Wishing Well Sanatorium, all he wants to do is make the children happy. So Gregory reopens the old ice cream factory, and all the unappreciative brats are reprocessed into the flavor of the day.</desc>
@@ -2099,6 +2837,526 @@
     <desc lang="en">Fubo Sports Network is the home of some of the biggest names in sports including Gilbert Arenas, Terrell Owens, and RJ Hampton, along with premium live events - all for FREE.</desc>
     <category lang="en">Sport</category>
     <icon src="http://img.platform.wurl.dev/channel/1358/lg/2b0c5b/LG-768x432_v2.png"/>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261115083148 +0000" stop="20261115090218 +0000" channel="us-janson_supersimplesongs_1">
+    <title lang="en">Seven Steps - Super Simple and more</title>
+    <desc lang="en">Counting to seven has never been more memorable and fun! Learn numbers with this simple counting song.</desc>
+    <category lang="en">Kids</category>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/10913-12961/22351174-default_v1.jpg"/>
+    <episode-num system="dd_progid">US-JansonMedia-22351174-13896231-13883371</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115090218 +0000" stop="20261115092929 +0000" channel="us-janson_supersimplesongs_1">
+    <title lang="en">Goodbye A, Goodbye Z - Super Simple ABCs and more</title>
+    <desc lang="en">We're saying, "Goodbye" to all of our friends in Alphabet Village. As the school day ends, take a walk through town, and bid farewell to all of the letters.</desc>
+    <category lang="en">Kids</category>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/10913-12961/22351264-default_v1.jpg"/>
+    <episode-num system="dd_progid">US-JansonMedia-22351264-13896241-13883377</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115092929 +0000" stop="20261115095705 +0000" channel="us-janson_supersimplesongs_1">
+    <title lang="en">Hot Cross Buns - Super Simple and more</title>
+    <desc lang="en">Here’s one of our favorite traditional nursery rhymes about food, made super simple. Come sing along with the Chef from our “Do You Know The Muffin Man?” and “Pat-A-Cake” videos. Yum yum!</desc>
+    <category lang="en">Kids</category>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/10913-12961/22351280-default_v1.jpg"/>
+    <episode-num system="dd_progid">US-JansonMedia-22351280-13896245-13883381</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115095705 +0000" stop="20261115102544 +0000" channel="us-janson_supersimplesongs_1">
+    <title lang="en">Carl's Big Adventure - Super Simple and more</title>
+    <desc lang="en">Carl is visited by three large, very dirty construction vehicles. But Carl’s Car Wash is not big enough to fit them! Carl has an idea! He can supersize his car wash so the vehicles can get a proper scrub-a-dub-dub. He just needs a few parts. With the help of old friends, Carl sets out on a big adventure to the darkest depths of the ocean, the highest heights in the land, and beyond! Don't miss Carl in his first mini-movie as he pushes himself to the limit in the name of vehicular cleanliness!</desc>
+    <category lang="en">Kids</category>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/10913-12961/22351285-default_v1.jpg"/>
+    <episode-num system="dd_progid">US-JansonMedia-22351285-13896250-13883386</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115102544 +0000" stop="20261115105535 +0000" channel="us-janson_supersimplesongs_1">
+    <title lang="en">Finny's First Day Of School - Super Simple and more</title>
+    <desc lang="en">Finny is a bit nervous on the first day of school, but Myrtle the Turtle is even more anxious and literally hides her shell! Surely Myrtle will come out of her shell when their teacher, a whale named Mr. Magellan, has them draw and present their favorite things to the class! Nope. Myrtle is even more nervous than ever! Being a good friend, Finny helps Myrtle through her anxiety, and the tiny turtle finally shows her drawing to everyone.</desc>
+    <category lang="en">Kids</category>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/10913-12961/22351298-default_v1.jpg"/>
+    <episode-num system="dd_progid">US-JansonMedia-22351298-13896253-13883389</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115105535 +0000" stop="20261115112501 +0000" channel="us-janson_supersimplesongs_1">
+    <title lang="en">Mr. Golden Sun - Super Simple and more</title>
+    <desc lang="en">Mister Sun, Sun, Mr. Golden Sun...please shine down on me! It’s the Mr. Sun song from Super Simple Songs!</desc>
+    <category lang="en">Kids</category>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/10913-12961/22351307-default_v1.jpg"/>
+    <episode-num system="dd_progid">US-JansonMedia-22351307-13896258-13883392</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115112501 +0000" stop="20261115115540 +0000" channel="us-janson_supersimplesongs_1">
+    <title lang="en">Finny's First Sleepover - Super Simple and more</title>
+    <desc lang="en">It’s Finny’s first sleepover and Finny is nervous to sleep at Myrtle the Turtle’s house. Throughout the night, Finny becomes more and more comfortable and after a spooky story, Finny becomes the bravest of everyone at the sleepover! Finny can't wait to do a sleepover again – but this time, at Finny’s house!</desc>
+    <category lang="en">Kids</category>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/10913-12961/22351310-default_v1.jpg"/>
+    <episode-num system="dd_progid">US-JansonMedia-22351310-13896259-13883393</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115115540 +0000" stop="20261115122157 +0000" channel="us-janson_supersimplesongs_1">
+    <title lang="en">Put On Your Shoes - Super Simple and more</title>
+    <desc lang="en">Here’s a Super Simple Song all about getting dressed! Sing along as we put on our shoes, jacket, hat, and scarf and then head out for a walk with the family.</desc>
+    <category lang="en">Kids</category>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/10938-12986/22402829-default_v1.jpg"/>
+    <episode-num system="dd_progid">US-JansonMedia-22402829-13947548-13934676</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115122157 +0000" stop="20261115124900 +0000" channel="us-janson_supersimplesongs_1">
+    <title lang="en">Red Light Green Light - Super Simple and more</title>
+    <desc lang="en">Tobee learned all about traffic safety in school today! He learned how to walk in a crosswalk, to look both ways before crossing a street, and what the colors of a traffic light mean. That reminds Caitie of a song about stopping and going called “Red Light, Green Light.” Together, they sing and dance, stopping and starting again and again. Tobee and Caitie have a blast, and you can join the fun, too! Green light!</desc>
+    <category lang="en">Kids</category>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/10938-12986/22402832-default_v1.jpg"/>
+    <episode-num system="dd_progid">US-JansonMedia-22402832-13947551-13934679</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115124900 +0000" stop="20261115131724 +0000" channel="us-janson_supersimplesongs_1">
+    <title lang="en">Rosey &amp; The Rowdy Rustlers Tour Bus - Super Simple and more</title>
+    <desc lang="en">Rosey and The Rowdy Rustlers are coming to town to kick off their concert tour! But while driving out on the open road, a giant stray tumbleweed gets in the path of their tour bus, making a mighty mess! Rosey, Roxie, and Rude Jenny will have to take a detour to Carl’s Car Wash! With a quick mess assessment, Carl’s suds-sational car wash is ready to give Rosey and The Rowdy Rustlers’ vehicle a good scrub-a-dub! The band leaves as happy customers, and just in time for the concert!</desc>
+    <category lang="en">Kids</category>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/10938-12986/22402836-default_v1.jpg"/>
+    <episode-num system="dd_progid">US-JansonMedia-22402836-13947555-13934683</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115131724 +0000" stop="20261115134616 +0000" channel="us-janson_supersimplesongs_1">
+    <title lang="en">Five Little Chicks - Super Simple and more</title>
+    <desc lang="en">Five Little Chicks is great for nap time and for practicing counting down from five. Try singing along when it’s time for a nap.</desc>
+    <category lang="en">Kids</category>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/10938-12986/22402837-default_v1.jpg"/>
+    <episode-num system="dd_progid">US-JansonMedia-22402837-13947556-13934684</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115134616 +0000" stop="20261115141517 +0000" channel="us-janson_supersimplesongs_1">
+    <title lang="en">Rock Scissors Paper - Super Simple and more</title>
+    <desc lang="en">Ice Cream? Helicopter? What is it? Get your hands and fingers ready for this Super Simple Song for kids.</desc>
+    <category lang="en">Kids</category>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/10938-12986/22402839-default_v1.jpg"/>
+    <episode-num system="dd_progid">US-JansonMedia-22402839-13947558-13934686</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115141517 +0000" stop="20261115144430 +0000" channel="us-janson_supersimplesongs_1">
+    <title lang="en">Driving In My Car - Super Simple and more</title>
+    <desc lang="en">Drive a car, ride a bike, row a boat, ride on a train, and fly an airplane with this playful and super fun song for kids; “Driving In My Car”! Driving in my car. Vroom vroom vroom. Driving very fast. Vroom vroom vroom. Driving very slow. Vroom vroom vroom. I like driving. Driving in my car.</desc>
+    <category lang="en">Kids</category>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/10938-12986/22402841-default_v1.jpg"/>
+    <episode-num system="dd_progid">US-JansonMedia-22402841-13947560-13934688</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115144430 +0000" stop="20261115151120 +0000" channel="us-janson_supersimplesongs_1">
+    <title lang="en">Down By The Bay - Super Simple and more</title>
+    <desc lang="en">Did you ever see cat wearing a hat? How about a goat rowing a boat? Well you can in this video for the classic children’s song, Down By The Bay!</desc>
+    <category lang="en">Kids</category>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/10938-12986/22402845-default_v1.jpg"/>
+    <episode-num system="dd_progid">US-JansonMedia-22402845-13947563-13934691</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115084001 +0000" stop="20261115091019 +0000" channel="us-janson_todayshomeowner_1">
+    <title lang="en">Today's Homeowner with Danny Lipford</title>
+    <desc lang="en">Danny, Chelsea and the crew are turning a plain backyard into an outdoor oasis for the whole family to enjoy.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/10050-12098/20584136-default_v1.jpg"/>
+    <episode-num system="dd_progid">US-JansonMedia-20584136-12141638-12128972</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115091019 +0000" stop="20261115094038 +0000" channel="us-janson_todayshomeowner_1">
+    <title lang="en">Today's Homeowner with Danny Lipford</title>
+    <desc lang="en">Tune in as Danny and the crew turn a blah living room into a cozy space for this homeowner to relax.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/12681-14729/25971513-default_v1.jpg"/>
+    <episode-num system="dd_progid">US-JansonMedia-25971513-12141638-12128972</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115094038 +0000" stop="20261115101041 +0000" channel="us-janson_todayshomeowner_1">
+    <title lang="en">Today's Homeowner with Danny Lipford</title>
+    <desc lang="en">We help a family update their kitchen – freshening up the look, while adding some much-needed ventilation.</desc>
+    <category lang="en">Education</category>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/10050-12098/20584150-default_v1.jpg"/>
+    <episode-num system="dd_progid">US-JansonMedia-20584150-12141638-12128972</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115101041 +0000" stop="20261115104044 +0000" channel="us-janson_todayshomeowner_1">
+    <title lang="en">Today's Homeowner with Danny Lipford</title>
+    <desc lang="en">The bugs make it nearly impossible for this family to use their covered back porch. This week, we’re screening it in to make it more useful all year round.</desc>
+    <category lang="en">Education</category>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/10050-12098/20584140-default_v1.jpg"/>
+    <episode-num system="dd_progid">US-JansonMedia-20584140-12141638-12128972</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115104044 +0000" stop="20261115111102 +0000" channel="us-janson_todayshomeowner_1">
+    <title lang="en">Today's Homeowner with Danny Lipford</title>
+    <desc lang="en">Danny, Chelsea and the crew are taking on an outdated bathroom. Watch as it transforms from something that’s stuck in the 1970s into the 21st century!</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/10050-12098/20584132-default_v1.jpg"/>
+    <episode-num system="dd_progid">US-JansonMedia-20584132-12141638-12128972</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115111102 +0000" stop="20261115114104 +0000" channel="us-janson_todayshomeowner_1">
+    <title lang="en">Today's Homeowner with Danny Lipford</title>
+    <desc lang="en">In this episode a dark and dated den gets a light and bright update.</desc>
+    <category lang="en">Education</category>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/10050-12098/20584224-default_v1.jpg"/>
+    <episode-num system="dd_progid">US-JansonMedia-20584224-12141638-12128972</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115114104 +0000" stop="20261115121122 +0000" channel="us-janson_todayshomeowner_1">
+    <title lang="en">Today's Homeowner with Danny Lipford</title>
+    <desc lang="en">We’re helping these homeowners get the backyard of their dreams. See the transformation as we create a Backyard Paradise for the lucky winners of our contest.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/10050-12098/20584146-default_v1.jpg"/>
+    <episode-num system="dd_progid">US-JansonMedia-20584146-12141638-12128972</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115121122 +0000" stop="20261115124124 +0000" channel="us-janson_todayshomeowner_1">
+    <title lang="en">Today's Homeowner with Danny Lipford</title>
+    <desc lang="en">We’re helping one family create a bedroom space for their grandchildren – while still maintaining the openness they love in their home.</desc>
+    <category lang="en">Education</category>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/10050-12098/20584212-default_v1.jpg"/>
+    <episode-num system="dd_progid">US-JansonMedia-20584212-12141638-12128972</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115124124 +0000" stop="20261115131128 +0000" channel="us-janson_todayshomeowner_1">
+    <title lang="en">Today's Homeowner with Danny Lipford</title>
+    <desc lang="en">A rustic update to a sunroom to help this family create the hangout space they’ve always wanted.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/10050-12098/20584202-default_v1.jpg"/>
+    <episode-num system="dd_progid">US-JansonMedia-20584202-12141638-12128972</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115131128 +0000" stop="20261115134129 +0000" channel="us-janson_todayshomeowner_1">
+    <title lang="en">Today's Homeowner with Danny Lipford</title>
+    <desc lang="en">This family needs a better way to welcome guests into their home. We’re turning their garage entry into the welcoming space they can be proud of!</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/10050-12098/20584191-default_v1.jpg"/>
+    <episode-num system="dd_progid">US-JansonMedia-20584191-12141638-12128972</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115134129 +0000" stop="20261115141132 +0000" channel="us-janson_todayshomeowner_1">
+    <title lang="en">Today's Homeowner with Danny Lipford</title>
+    <desc lang="en">This week we help a couple transform their drab 90s bathroom into a beautiful space they both will love.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/10050-12098/20584183-default_v1.jpg"/>
+    <episode-num system="dd_progid">US-JansonMedia-20584183-12141638-12128972</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115141132 +0000" stop="20261115144119 +0000" channel="us-janson_todayshomeowner_1">
+    <title lang="en">Today's Homeowner with Danny Lipford</title>
+    <desc lang="en">A young family has a great back patio space, but it’s just not functional for what they need. We help them create an organized, outdoor oasis fit for the whole family.</desc>
+    <category lang="en">Education</category>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/10050-12098/20584175-default_v1.jpg"/>
+    <episode-num system="dd_progid">US-JansonMedia-20584175-12141638-12128972</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261115144119 +0000" stop="20261115151121 +0000" channel="us-janson_todayshomeowner_1">
+    <title lang="en">Today's Homeowner with Danny Lipford</title>
+    <desc lang="en">This week’s episode takes us to Chelsea’s house where we transform her garage into a workshop, she can use all year round.</desc>
+    <category lang="en">Education</category>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/10050-12098/20584197-default_v1.jpg"/>
+    <episode-num system="dd_progid">US-JansonMedia-20584197-12141638-12128972</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115073414 +0000" stop="20261115090106 +0000" channel="us-jansonmedia_kidstv_1">
+    <title lang="en">Miniforce: Dino King</title>
+    <desc lang="en">Aliens with fearsome dinosaurs invade Earth but are defeated by Miniforce. Their powerful weapon, Dino King, gets injured, and the aliens retreat, losing the key. Yan, a boy from China, finds the key, summons Dino King, and heals him, naming him 'Deeno.' They become inseparable friends. However, the aliens return and capture Deeno in another attempt to conquer Earth!</desc>
+    <category lang="en">Kids</category>
+    <icon src="http://img.platform.wurl.dev/channel/1379/lg/21ab0d/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-JansonMedia-112493977-7134-1656</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+<programme start="20261115090106 +0000" stop="20261115104108 +0000" channel="us-jansonmedia_kidstv_1">
+    <title lang="en">The Stolen Princess</title>
+    <desc lang="en">In a time of valiant knights, beautiful princesses and battling sorcerers, a humble hero named Ruslan fatefully meets the King's daughter, Mila. Despite their standings in society, Mila and Ruslan fall madly in love. However, their happiness is short lived when Mila is abducted by Chernomor, an evil sorcerer. Along with his companions, Ruslan must overcome the forces of evil to save his beloved.</desc>
+    <category lang="en">Kids</category>
+    <icon src="http://img.platform.wurl.dev/channel/1379/lg/21ab0d/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-JansonMedia-112493980-7134-1656</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261115104108 +0000" stop="20261115110624 +0000" channel="us-jansonmedia_kidstv_1">
+    <title lang="en">Leo The Wildlife Ranger</title>
+    <desc lang="en">Leo, Katie, and Hero befriend an Indian peacock and take it to the rainforest to find peahens, but their journey is interrupted by two jungle cats. Next, a clouded leopard cub appears in the garden! The Junior Rangers head to the rainforest to find its mother but face trouble when the cub gets stuck in vines above water.</desc>
+    <category lang="en">Kids</category>
+    <icon src="http://img.platform.wurl.dev/channel/1379/lg/21ab0d/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-JansonMedia-112493945-56859565-56835250</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115110624 +0000" stop="20261115113139 +0000" channel="us-jansonmedia_kidstv_1">
+    <title lang="en">Leo The Wildlife Ranger</title>
+    <desc lang="en">Leo, Katie and Hero travel to Peru to take a marvellous spatuletail home. But what can they do when the hungry bird falls into a deep sleep?Next, the Junior Rangers return a wild boar to the forest. Ranger Rocky guides them to reunite it with its sounder—the group of females and their young.</desc>
+    <category lang="en">Kids</category>
+    <icon src="http://img.platform.wurl.dev/channel/1379/lg/21ab0d/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-JansonMedia-112493946-56859565-56835250</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115113139 +0000" stop="20261115115755 +0000" channel="us-jansonmedia_kidstv_1">
+    <title lang="en">Leo The Wildlife Ranger</title>
+    <desc lang="en">A yellow-footed rock-wallaby and its baby hop into the garden! The Junior Rangers rush to return them to Australia, but flat tires threaten to delay their mission. Next, a vervet monkey crashes Leo's picnic! The Junior Rangers set out to return it to the savannah but fall into a trap. Can they complete their mission safely?</desc>
+    <category lang="en">Kids</category>
+    <icon src="http://img.platform.wurl.dev/channel/1379/lg/21ab0d/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-JansonMedia-112493947-56859565-56835250</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115115755 +0000" stop="20261115122307 +0000" channel="us-jansonmedia_kidstv_1">
+    <title lang="en">Leo The Wildlife Ranger</title>
+    <desc lang="en">A yellow-crested cockatoo joins Leo and Hero's game of musical statues. After learning more about the bird, the Junior Rangers travel to the rainforest to take it home. Next, Katie discovers a whitespotted bamboo shark in the garden pond! The Junior Rangers sail to the Pacific to find a safe coral reef for it to live in.</desc>
+    <category lang="en">Kids</category>
+    <icon src="http://img.platform.wurl.dev/channel/1379/lg/21ab0d/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-JansonMedia-112493948-56859565-56835250</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115122307 +0000" stop="20261115124823 +0000" channel="us-jansonmedia_kidstv_1">
+    <title lang="en">Leo The Wildlife Ranger</title>
+    <desc lang="en">Leo spots an Atlantic puffin in the garden while playing with his car. The Junior Rangers take it to Iceland, but Leo faces danger near a cliff. Next, an Asian palm civet steals Hero's food! The Junior Rangers track it to the rainforest and a durian plantation, but a wild boar blocks their path.</desc>
+    <category lang="en">Kids</category>
+    <icon src="http://img.platform.wurl.dev/channel/1379/lg/21ab0d/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-JansonMedia-112493949-56859565-56835250</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115124823 +0000" stop="20261115131338 +0000" channel="us-jansonmedia_kidstv_1">
+    <title lang="en">Leo The Wildlife Ranger</title>
+    <desc lang="en">Leo finds a raccoon in his trash! The Junior Rangers take it back to the forest, but unfriendly raccoons make the mission far more challenging than expected. Next, a yellow-eyed penguin appears in Hero's kennel! The Junior Rangers travel to New Zealand to return it, while keeping tourists from disturbing penguins on the beach.</desc>
+    <category lang="en">Kids</category>
+    <icon src="http://img.platform.wurl.dev/channel/1379/lg/21ab0d/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-JansonMedia-112493950-56859565-56835250</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115131338 +0000" stop="20261115133854 +0000" channel="us-jansonmedia_kidstv_1">
+    <title lang="en">Leo The Wildlife Ranger</title>
+    <desc lang="en">Leo finds a satin bowerbird stealing blue items. The Junior Rangers realize it may be lost and set out to return the bird safely to its bower. Next, the Junior Rangers must return a white-bellied woodpecker to the rainforest, but a swarm of wasps threatens their mission. Will they succeed or face defeat?</desc>
+    <category lang="en">Kids</category>
+    <icon src="http://img.platform.wurl.dev/channel/1379/lg/21ab0d/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-JansonMedia-112493951-56859565-56835250</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115133854 +0000" stop="20261115140409 +0000" channel="us-jansonmedia_kidstv_1">
+    <title lang="en">Leo The Wildlife Ranger</title>
+    <desc lang="en">A Sunda slow loris appears in the garden! The Junior Rangers rush to return it to the wild before a hungry sun bear finds it. Can they save it in time? Next, join the Junior Rangers as they race across the tundra to reunite a lost reindeer calf with its herd. However, a river crossing might prove too tiring for the young reindeer.</desc>
+    <category lang="en">Kids</category>
+    <icon src="http://img.platform.wurl.dev/channel/1379/lg/21ab0d/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-JansonMedia-112493952-56859565-56835250</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115140409 +0000" stop="20261115142925 +0000" channel="us-jansonmedia_kidstv_1">
+    <title lang="en">Leo The Wildlife Ranger</title>
+    <desc lang="en">The Junior Rangers rush to return a young scalloped hammerhead shark to the ocean, but their mission hits trouble when it gets caught in a shrimp net. Next, Leo spots an eastern spotted skunk while playing mini-golf! The Junior Rangers head to the prairie to find it a home, but an unfriendly coyote threatens their mission.</desc>
+    <category lang="en">Kids</category>
+    <icon src="http://img.platform.wurl.dev/channel/1379/lg/21ab0d/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-JansonMedia-112493953-56859565-56835250</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115142925 +0000" stop="20261115145439 +0000" channel="us-jansonmedia_kidstv_1">
+    <title lang="en">Leo The Wildlife Ranger</title>
+    <desc lang="en">The Junior Rangers take a young Rothschild's giraffe to the savannah, but their mission hits a snag when their jeep gets stuck in the mud. Next, the Junior Rangers head to the rainforest to reunite a Malayan tiger cub with its mother, but when the cub goes missing in tall grass, they must find it fast.</desc>
+    <category lang="en">Kids</category>
+    <icon src="http://img.platform.wurl.dev/channel/1379/lg/21ab0d/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-JansonMedia-112493954-56859565-56835250</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115145439 +0000" stop="20261115152055 +0000" channel="us-jansonmedia_kidstv_1">
+    <title lang="en">Leo The Wildlife Ranger</title>
+    <desc lang="en">Leo finds a reef manta ray pup in the garden! The Junior Rangers sail to return it home, but trouble strikes when Ranger Rocky gets stuck in a sea jelly bloom! Next, Ranger Rocky tasks the Junior Rangers with returning a mola to the ocean, but seagulls peck at it, forcing them to improvise to complete the mission.</desc>
+    <category lang="en">Kids</category>
+    <icon src="http://img.platform.wurl.dev/channel/1379/lg/21ab0d/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-JansonMedia-112493955-56859565-56835250</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261115081814 +0000" stop="20261115092145 +0000" channel="us-lg_majordomo_media_channel_dc">
+    <title lang="en">Cooking School</title>
+    <desc lang="en">"Chicken Pot Pie from scratch in 45 minutes?! REAL-TIME COOKING" - After a long day of filming in the studio kitchen, Dave Chang wanted one more challenge. For no reason other than to see if he could do it, he attempted the utterly ridiculous task of making chicken pot pie, completely from scratch, in under 45 minutes. This is no BS! Dave enlists his buddy, Chris Ying, to help. The guys have nothing prepped, no plan, and no recipes. Dave’s gonna tackle the crust. Chris is gonna make the filling. The timer starts, and they’re off. WILL THEY MAKE IT HAPPEN?</desc>
+    <category lang="en">Lifestyle</category>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/24287-26335/49752661-default_v1.png"/>
+    <episode-num system="dd_progid">US-LG-49752661-39781035-39766199</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261115092145 +0000" stop="20261115093756 +0000" channel="us-lg_majordomo_media_channel_dc">
+    <title lang="en">Cooking School</title>
+    <desc lang="en">"Dave Chang makes BEER CAN CHICKEN the wrong way (and it’s so good)" - Two days after failing at his first ever Beer Can Chicken attempt, Dave gets right back on the horse. He’s committed to getting it right, keeping it simple, and making the white meat as delicious as the dark. Plus: he demonstrates a lazy man's beer pan sauce that will make you question ever doing things the “right” way again.</desc>
+    <category lang="en">Lifestyle</category>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/23637-25685/48418045-default_v1.png"/>
+    <episode-num system="dd_progid">US-LG-48418045-39781035-39766199</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261115093756 +0000" stop="20261115094429 +0000" channel="us-lg_majordomo_media_channel_dc">
+    <title lang="en">Cooking School</title>
+    <desc lang="en">"David Chang upgrades his Momofuku Sweet &amp; Spicy Noodles (with a perfect fried egg!)" - Dave cooks up some of the Momofuku Sweet &amp; Spicy Noodles and tricks them out with Korean dongchimi (pickled radish), kimchi and a—ahem—*perfectly* fried egg.</desc>
+    <category lang="en">Lifestyle</category>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/23683-25731/48513514-default_v1.png"/>
+    <episode-num system="dd_progid">US-LG-48513514-39781035-39766199</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261115094429 +0000" stop="20261115101320 +0000" channel="us-lg_majordomo_media_channel_dc">
+    <title lang="en">Winning Mealtime</title>
+    <desc lang="en">Winning Mealtime - Whole Roasted Chicken with Morgan McGlone: Our friend Morgan McGlone has cooked a lot of chicken—or "chook," as they call it in Australia, where he's from. He's a hell of a chef and restaurateur, as well as an excellent father to his son, Ryo. In this episode, he talks us through his roast chicken method, which, spoiler alert, involves a lot of butter. This is a bit of a long cook, so it's more of a weekend dish, but nothing beats breaking into a whole chicken with your family. The kids get to see food in its whole form, and pick the pices they want. The only decision you have to make is whether to share the best bits, or save them for yourself.</desc>
+    <category lang="en">Lifestyle</category>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/29822-31870/61116529-default_v1.png"/>
+    <episode-num system="dd_progid">US-LG-61116529-50994985-50978789</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261115101320 +0000" stop="20261115103904 +0000" channel="us-lg_majordomo_media_channel_dc">
+    <title lang="en">Winning Mealtime</title>
+    <desc lang="en">Winning Mealtime - Cantonese-Style Steamed Fish with Morgan McGlone: World-class Australian chef Morgan McGlone joins Chris Ying to share his go-to technique for preparing a whole steamed fish—something his son absolutely loves! A lot of people are intimidated by cooking a whole fish, but this is our plea to you to get your kids started on steaming/eating whole fish early in life!</desc>
+    <category lang="en">Lifestyle</category>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/29763-31811/60994142-default_v1.png"/>
+    <episode-num system="dd_progid">US-LG-60994142-50994985-50978789</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261115103904 +0000" stop="20261115110229 +0000" channel="us-lg_majordomo_media_channel_dc">
+    <title lang="en">Winning Mealtime</title>
+    <desc lang="en">Winning Mealtime - Japanese Curry Your Kids (and You!) Will Love: Chris Ying shares his recipe for a creamy, dreamy Japanese curry that uses milk and honey to hit all the right notes that kids love. If your kids already like curry...you're golden with this recipe! And if your kids are new to the curry game, this is the perfect introduction.</desc>
+    <category lang="en">Lifestyle</category>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/29763-31811/60994187-default_v1.png"/>
+    <episode-num system="dd_progid">US-LG-60994187-50994985-50978789</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261115110229 +0000" stop="20261115112636 +0000" channel="us-lg_majordomo_media_channel_dc">
+    <title lang="en">Winning Mealtime</title>
+    <desc lang="en">Winning Mealtime: Hacky Pad Thai for the Whole Family - This... is not pad thai. It has everything you love about pad thai—umami, sweetness, chewy rice noodles, brightness from lime—but this is the super hacky version I make for my wife and kids whenever I come across a package of fresh or semi-fresh noodles at the Asian market. If one of my Thai friends comes over, I'm hiding this from them. (If you're watching this, I'm sorry. It's all in the name of feeding the kids!) Ingredient-wise, you can keep tamarind and fish sauce in the fridge and pork belly in the freezer, but this recipe really depends on whether or not you have the noodles, which aren't available everywhere. You can use the dried kind, but I don't prefer them because they never seem to get to the right texture.</desc>
+    <category lang="en">Lifestyle</category>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/29201-31249/59841256-default_v1.png"/>
+    <episode-num system="dd_progid">US-LG-59841256-50994985-50978789</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261115112636 +0000" stop="20261115115239 +0000" channel="us-lg_majordomo_media_channel_dc">
+    <title lang="en">Winning Mealtime</title>
+    <desc lang="en">Winning Mealtime: Quick Chicken Piccata - So far, my kids have always happily eaten this chicken piccata. It's crispy, sweet, sour, and super savory thanks to those little capers (which are easy to pluck out if the kids don't want them). But the real win is that my wife is obsessed with this dish, too. Usually, I can have this on the table in under 25 minutes, start to finish, which is a huge win. Also, while I almost always prefer chicken thighs, this is one of the rare instances where white meat is just fine.</desc>
+    <category lang="en">Lifestyle</category>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/29201-31249/59841255-default_v1.png"/>
+    <episode-num system="dd_progid">US-LG-59841255-50994985-50978789</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261115115239 +0000" stop="20261115121819 +0000" channel="us-lg_majordomo_media_channel_dc">
+    <title lang="en">Winning Mealtime</title>
+    <desc lang="en">Winning Mealtime: Sweet &amp; Sour Pork Ribs (aka "Kid McGear Bones") - Chris makes a go-to favorite for his kids—sticky, sweet and sour pork ribs in bite-sized portions.</desc>
+    <category lang="en">Lifestyle</category>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/29201-31249/59841254-default_v1.png"/>
+    <episode-num system="dd_progid">US-LG-59841254-50994985-50978789</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261115121819 +0000" stop="20261115130906 +0000" channel="us-lg_majordomo_media_channel_dc">
+    <title lang="en">Recipe Lab with Chris Ying</title>
+    <desc lang="en">"Crispy Gnocchi with Burst Tomatoes" - Chris prepares one of the all-time most popular dishes from New York Times Cooking: Crispy Gnocchi with Burst Tomatoes. Tune in to see if the dish lives up to its poetic name.</desc>
+    <category lang="en">Lifestyle</category>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/16977-19025/34768952-default_v1.png"/>
+    <episode-num system="dd_progid">US-LG-34768952-25908310-25894579</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261115130906 +0000" stop="20261115134923 +0000" channel="us-lg_majordomo_media_channel_dc">
+    <title lang="en">Recipe Lab with Chris Ying</title>
+    <desc lang="en">"Fluff Bread" - According to TikTok, egg whites + sugar + cornstarch + chocolate chips = cloud (a.k.a.) fluff bread. In this episode, Chris checks the math on this equation.</desc>
+    <category lang="en">Lifestyle</category>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/16977-19025/34768969-default_v1.png"/>
+    <episode-num system="dd_progid">US-LG-34768969-25908310-25894579</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261115134923 +0000" stop="20261115150618 +0000" channel="us-lg_majordomo_media_channel_dc">
+    <title lang="en">Recipe Lab with Chris Ying</title>
+    <desc lang="en">"Crispy Pork Belly" - Inspired by something he saw on TikTok, Chris faces his fears and begins working on a dish hes never successfully gotten right: crispy, Cantonese-style roast pork belly.</desc>
+    <category lang="en">Lifestyle</category>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/16977-19025/34768977-default_v1.png"/>
+    <episode-num system="dd_progid">US-LG-34768977-25908310-25894579</episode-num>
     <rating>
       <value>TV-PG</value>
     </rating>
