@@ -544,6 +544,8 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
     # Grit, etc. Generic names (Lone Star, Outlaw, The Canyon) are in NAME_OVERRIDES.
     ('Westerns', _words("""
         western
+        grit xtra
+        circle
         westerns
         wild west
         bonanza
