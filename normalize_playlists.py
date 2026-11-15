@@ -253,6 +253,7 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
         lgbt
         lgbtq
         lgbtq+
+        logo pluto tv
         lgbtqia
         outflix
         outflix movies
@@ -1147,6 +1148,10 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
     ('Kids', _words("""
         kids
         kidz
+        totally turtles
+        smurfarna
+        smurfene
+        smølferne
         junior
         baby shark
         baby shark tv
