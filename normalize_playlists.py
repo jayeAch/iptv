@@ -278,6 +278,7 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
     ('Comedy', _words("""
         comedy central
         comedy vault
+        spin city
         dry bar comedy
         great comedy
         laff more
