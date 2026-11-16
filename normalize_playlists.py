@@ -806,7 +806,10 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
     # Life Below Zero, American Ninja Warrior). Bare 'survivor' is a NAME_OVERRIDE.
     ('Reality TV', _words("""
         reality
+        bad girls club
+        car chase
         reality tv
+        wicked tuna
         deal masters
         dog the bounty hunter
         deal zone
@@ -1352,6 +1355,7 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
     """)),
     ('Comedy', _words("""
         comedy central
+        according to jim
         pluto tv comedy
         pluto tv komedi
         pluto tv komedie
