@@ -155,6 +155,7 @@ NAME_OVERRIDES: dict[str, str] = {
     'growthday network': 'Lifestyle',
     'the judge judy channel': 'Reality TV',
     'hot bench': 'Reality TV',
+    'bargain hunt': 'Reality TV',
     'the kids in the hall': 'Comedy',  # sketch show, not a kids channel
 }
 
