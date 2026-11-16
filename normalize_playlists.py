@@ -151,6 +151,7 @@ DEFAULT_CATEGORY = 'Entertainment'
 NAME_OVERRIDES: dict[str, str] = {
     'comedia': 'Comedy',
     'komedi': 'Comedy',
+    'nypd blue': 'Crime',
     'the nanny & mr sheffield - a fine romance': 'Comedy',
     'girlfriends': 'Black Entertainment',
     'lone star': 'Westerns',
