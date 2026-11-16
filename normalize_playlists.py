@@ -927,6 +927,7 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
     # stay there) and above Sci-Fi/Drama/Comedy. Bare 'medium'/'angel' are NAME_OVERRIDES.
     ('Supernatural Drama', _words("""
         supernatural
+        highway to heaven
         supernatural drama
         from dusk till dawn: the series
         charmed
