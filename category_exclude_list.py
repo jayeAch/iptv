@@ -4,6 +4,7 @@
 # matching.
 CATEGORY_EXCLUDE_LIST = [
     "Paranormal",
+    "Comedy",
     "Soap Operas",
     "Military",
     "Supernatural Drama",
