@@ -218,6 +218,9 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     # Stingray's ambient/wellness video channels (its music channels stay in Music).
     'Ambiance': _words("""
         stingray naturescape
+        pluto tv peis
+        pluto tv pejs
+        pluto tv eldstad
         naturescape
         zenlife
         zen life
@@ -379,6 +382,13 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     'Christmas': _words("""
         christmas
         xmas
+        pluto tv jul
+        pluto tv de bedste julespecials
+        pluto tv de beste julespesialene
+        pluto tv julehygge
+        pluto tv julekos
+        pluto tv julmys
+        pluto tv mistletoe
         x-mas
         andersens julehemmelighed
         holiday
