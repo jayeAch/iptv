@@ -484,6 +484,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         pluto tv komedi
         pluto tv komedie
         komedi
+        the daily show
         komedie
         the nanny
         rifftrax
@@ -705,7 +706,10 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         kids
         familien thunderman
         familjen thunderman
+        svampebob
         kidz
+        pluto tv tecknade
+        pluto tv tecknat
         totally turtles
         pluto tv ungdomsserier
         icarly
