@@ -10,4 +10,10 @@ CATEGORY_EXCEPTION_LIST = [
     "Screambox TV",
     "Married with Children",
     "Roseanne",
+    "Vore værste år",
+    "Våra värsta år",
+    "MADtv",
+    "The Kids in the Hall",
+    "BBC Comedy",
+    "Black Jesus",
 ]
