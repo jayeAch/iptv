@@ -965,6 +965,8 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
         60 days in jail
         20/20
         crime 360
+        trublu
+        trublu crime channel
         american justice
         body cam
         cold case files
