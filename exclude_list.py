@@ -10,6 +10,7 @@ GLOBAL_EXCLUDE_LIST = [
 
 # All other entries (alphabetized, case-insensitive, deduplicated)
   "Star Trek",
+  "Hot Ones",
   "Farscape",
   "Animation+",
   "Toon Goggles",
