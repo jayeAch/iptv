@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-<channel id="whale.925725895506330246">
-    <display-name>The Red Green Channel</display-name>
-    <icon src="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/theredgreenchannel_white.png"/>
-  </channel>
 <channel id="whale.1022125030546936778">
     <display-name>Scifi World</display-name>
     <icon src="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/scifiworld_white.png"/>
@@ -52,11 +48,13 @@
     <display-name>Sooner: Coming of Age</display-name>
     <icon src="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/soonercomingofage_white.png"/>
   </channel>
-<programme start="20261116002726 +0000" stop="20261116041829 +0000" channel="whale.1022125030546936760">
-    <title lang="en">Enclosed</title>
-  </programme>
 <programme start="20261116041829 +0000" stop="20261116073220 +0000" channel="whale.1022125030546936760">
     <title lang="en">Iju Uwa (The Journey of life Part 1)</title>
+    <desc lang="en">The short story details the suffering of a young man whose destiny was damaged by his late father.</desc>
+    <icon src="https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-04-15/30a367ae4f2746c90f3869b9d29d8b09.png.webp"/>
+    <rating>
+      <value>PG</value>
+    </rating>
   </programme>
 <programme start="20261116073220 +0000" stop="20261116103319 +0000" channel="whale.1022125030546936760">
     <title lang="en">Awadia</title>
@@ -121,17 +119,24 @@
 <programme start="20261117233350 +0000" stop="20261118010710 +0000" channel="whale.1022125030546936760">
     <title lang="en">Irinajo</title>
   </programme>
-<programme start="20261116010242 +0000" stop="20261116025548 +0000" channel="whale.1022125030546936761">
-    <title lang="en">Fantasy Mission Force</title>
+<programme start="20261118010710 +0000" stop="20261118023905 +0000" channel="whale.1022125030546936760">
+    <title lang="en">Polio and Politics</title>
   </programme>
-<programme start="20261116025548 +0000" stop="20261116044727 +0000" channel="whale.1022125030546936761">
-    <title lang="en">Outpost in Morocco</title>
+<programme start="20261118023905 +0000" stop="20261118041038 +0000" channel="whale.1022125030546936760">
+    <title lang="en">Stolen Rose</title>
+  </programme>
+<programme start="20261118041038 +0000" stop="20261118054211 +0000" channel="whale.1022125030546936760">
+    <title lang="en">Silent Mission</title>
   </programme>
 <programme start="20261116044727 +0000" stop="20261116063749 +0000" channel="whale.1022125030546936761">
     <title lang="en">Cottage to Let (aka Bombsight Stolen)</title>
+    <desc lang="en">Allied spies and Nazi agents insinuate themselves at a Scottish cottage (converted to a wartime hospital) with interests on an inventor's nearly perfected bomb sight.</desc>
+    <icon src="https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-10-23/0b053d94bc50c5232845335717319b13.png.webp"/>
   </programme>
 <programme start="20261116063749 +0000" stop="20261116082643 +0000" channel="whale.1022125030546936761">
     <title lang="en">Lady Whirlwind (aka Deep Thrust)</title>
+    <desc lang="en">Tien arrives in town looking to exact revenge on Ling for abandoning her pregnant sister and thus driving said sister to commit suicide. Although Tien agrees to help Ling take down the leader of a local gambling syndicate, she nonetheless still plans to avenge her sister's death which she holds Ling responsible for.</desc>
+    <icon src="https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-10-23/9d48a0771d852413b8c3766de3949c81.png.webp"/>
   </programme>
 <programme start="20261116082643 +0000" stop="20261116100923 +0000" channel="whale.1022125030546936761">
     <title lang="en">Premature Burial</title>
@@ -190,17 +195,18 @@
 <programme start="20261117085000 +0000" stop="20261117092146 +0000" channel="whale.1022125030546936761">
     <title lang="en">The Veil</title>
   </programme>
-<programme start="20261116001548 +0000" stop="20261116022604 +0000" channel="whale.1022125030546936766">
-    <title lang="en">Killer Bae Part 3</title>
-  </programme>
-<programme start="20261116022604 +0000" stop="20261116043457 +0000" channel="whale.1022125030546936766">
-    <title lang="en">Flying Lessons</title>
-  </programme>
 <programme start="20261116043457 +0000" stop="20261116064251 +0000" channel="whale.1022125030546936766">
     <title lang="en">Mad Dog morgan</title>
+    <icon src="https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-08-19/02d1c9aaaeb5214ea2a2806a08d35923.jpeg.webp"/>
   </programme>
 <programme start="20261116064251 +0000" stop="20261116084858 +0000" channel="whale.1022125030546936766">
     <title lang="en">Killer Bae Part 2</title>
+    <sub-title lang="en">Killer Bae Part 2</sub-title>
+    <desc lang="en">Killer Bae is a scripted comedy/horror series that follows Juhahn Jones' pursuit of and relationship with Selena Ortega, the whip smart and sexy Afro-Latina who just moved into the neighborhood. But this isn't a love story with a happy ending.</desc>
+    <icon src="https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-08-20/02d1c9aaaeb5214ea2a2806a08d35923.jpeg.webp"/>
+    <rating>
+      <value>TV-14</value>
+    </rating>
   </programme>
 <programme start="20261116084858 +0000" stop="20261116105026 +0000" channel="whale.1022125030546936766">
     <title lang="en">A Light In The Forest</title>
@@ -268,53 +274,51 @@
 <programme start="20261118002732 +0000" stop="20261118021337 +0000" channel="whale.1022125030546936766">
     <title lang="en">Killer Bae Part 1</title>
   </programme>
-<programme start="20261116005149 +0000" stop="20261116011528 +0000" channel="whale.1022125030546936773">
-    <title lang="en">Unknown</title>
+<programme start="20261118021337 +0000" stop="20261118035847 +0000" channel="whale.1022125030546936766">
+    <title lang="en">Bikini Model Academy</title>
   </programme>
-<programme start="20261116011528 +0000" stop="20261116013856 +0000" channel="whale.1022125030546936773">
-    <title lang="en">Videotape</title>
-  </programme>
-<programme start="20261116013856 +0000" stop="20261116020219 +0000" channel="whale.1022125030546936773">
-    <title lang="en">Narttu</title>
-  </programme>
-<programme start="20261116020219 +0000" stop="20261116022514 +0000" channel="whale.1022125030546936773">
-    <title lang="en">Stop</title>
-  </programme>
-<programme start="20261116022514 +0000" stop="20261116024822 +0000" channel="whale.1022125030546936773">
-    <title lang="en">A Toy In The River</title>
-  </programme>
-<programme start="20261116024822 +0000" stop="20261116031325 +0000" channel="whale.1022125030546936773">
-    <title lang="en">Old Born</title>
-  </programme>
-<programme start="20261116031325 +0000" stop="20261116033815 +0000" channel="whale.1022125030546936773">
-    <title lang="en">Unknown</title>
-  </programme>
-<programme start="20261116033815 +0000" stop="20261116040251 +0000" channel="whale.1022125030546936773">
-    <title lang="en">Fratelli Minori</title>
-  </programme>
-<programme start="20261116040251 +0000" stop="20261116042724 +0000" channel="whale.1022125030546936773">
-    <title lang="en">Blu</title>
-  </programme>
-<programme start="20261116042724 +0000" stop="20261116045152 +0000" channel="whale.1022125030546936773">
-    <title lang="en">Lola</title>
-  </programme>
-<programme start="20261116045152 +0000" stop="20261116051618 +0000" channel="whale.1022125030546936773">
-    <title lang="en">Anime In Pena</title>
+<programme start="20261118035847 +0000" stop="20261118054354 +0000" channel="whale.1022125030546936766">
+    <title lang="en">The Ritual</title>
   </programme>
 <programme start="20261116051618 +0000" stop="20261116054035 +0000" channel="whale.1022125030546936773">
     <title lang="en">Gun Point</title>
+    <desc lang="en">In the economic instability of a country, a young man will try anything to achieve his dreams. Even if it means risking losing everything.</desc>
+    <icon src="https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-04-15/c9aefdd8edd9bd8adb462077ed8d35e2.png.webp"/>
+    <rating>
+      <value>R</value>
+    </rating>
   </programme>
 <programme start="20261116054035 +0000" stop="20261116060441 +0000" channel="whale.1022125030546936773">
     <title lang="en">Chi Non Muore Si Rivede</title>
+    <desc lang="en">Altero Dejana, a private investigator on the trail of a mysteriously missing girl, is seriously injured and faints. Someone finds his notes and steals his identity, clumsily resuming the investigation without a logical thread.</desc>
+    <icon src="https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-04-15/5adeea1a32144d743dd0f49159b96ac2.png.webp"/>
+    <rating>
+      <value>PG-13</value>
+    </rating>
   </programme>
 <programme start="20261116060441 +0000" stop="20261116062836 +0000" channel="whale.1022125030546936773">
     <title lang="en">Le Avventure Di Mr Food E Mrs Wine</title>
+    <desc lang="en">In an Italian restaurant in Paris, the lives of a messy chef and his former sommelier wife are intertwined, and together with the rest of the staff they will have to do their best to impress a client as prestigious as unexpected.</desc>
+    <icon src="https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-04-15/4b5a3c9b3d6d2351278adf83fa1654b8.png.webp"/>
+    <rating>
+      <value>PG-13</value>
+    </rating>
   </programme>
 <programme start="20261116062836 +0000" stop="20261116065215 +0000" channel="whale.1022125030546936773">
     <title lang="en">Carga</title>
+    <desc lang="en">Marta and Juan travel to Iraq to uncover the secrets of an abandoned cigarette factory, but once inside they realize they have made a fatal mistake.</desc>
+    <icon src="https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-04-15/64b44f6dd070c0bec84d572f1398301c.png.webp"/>
+    <rating>
+      <value>NC-17</value>
+    </rating>
   </programme>
 <programme start="20261116065215 +0000" stop="20261116071545 +0000" channel="whale.1022125030546936773">
     <title lang="en">Who Will Remember</title>
+    <desc lang="en">Armenia 1915. A 16 year old girl taken to an orphanage converts to islam until she can escape turkish soldiers trying to kill her. She is in love with one of the soldiers. That girl is the writer's grandmother.</desc>
+    <icon src="https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-04-15/2348f5ad700cb61f803c017a77dc04c8.png.webp"/>
+    <rating>
+      <value>R</value>
+    </rating>
   </programme>
 <programme start="20261116071545 +0000" stop="20261116073910 +0000" channel="whale.1022125030546936773">
     <title lang="en">The Liar</title>
@@ -493,23 +497,21 @@
 <programme start="20261117073513 +0000" stop="20261117075605 +0000" channel="whale.1022125030546936773">
     <title lang="en">A Toy In The River</title>
   </programme>
-<programme start="20261116004610 +0000" stop="20261116024347 +0000" channel="whale.1022125030546936778">
-    <title lang="en">Unknown</title>
-  </programme>
-<programme start="20261116024347 +0000" stop="20261116043659 +0000" channel="whale.1022125030546936778">
-    <title lang="en">Rendezvous</title>
-  </programme>
-<programme start="20261116043659 +0000" stop="20261116045856 +0000" channel="whale.1022125030546936778">
-    <title lang="en">Kessler Syndrome</title>
-  </programme>
-<programme start="20261116045856 +0000" stop="20261116052039 +0000" channel="whale.1022125030546936778">
-    <title lang="en">The Bomb</title>
-  </programme>
 <programme start="20261116052039 +0000" stop="20261116054142 +0000" channel="whale.1022125030546936778">
     <title lang="en">The Looking Planet</title>
+    <desc lang="en">During the construction of the universe, a young spacetime engineer dreams of doing something more than his menial job of planetary ring construction, so he sets out on his own</desc>
+    <icon src="https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-08-10/489c30518e77fa0b187819c26370d1a7.jpg.webp"/>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
   </programme>
 <programme start="20261116054142 +0000" stop="20261116071053 +0000" channel="whale.1022125030546936778">
     <title lang="en">Space Detective</title>
+    <desc lang="en">An exiled space detective returns to help an old flame but finds himself tangled in a web of interstellar intrigue, galactic gangsters, and a sinister scheme that threatens the very fate of the entire galaxy!</desc>
+    <icon src="https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-04-15/cc3d5ae6fb65b5fea68a5c3965b609a8.jpg.webp"/>
+    <rating>
+      <value>TV-14</value>
+    </rating>
   </programme>
 <programme start="20261116071053 +0000" stop="20261116082439 +0000" channel="whale.1022125030546936778">
     <title lang="en">The End of The Lonely Island</title>
@@ -571,17 +573,21 @@
 <programme start="20261117041437 +0000" stop="20261117043328 +0000" channel="whale.1022125030546936778">
     <title lang="en">The Looking Planet</title>
   </programme>
-<programme start="20261116005722 +0000" stop="20261116025817 +0000" channel="whale.1034986045911343817">
-    <title lang="en">Farewell Halong</title>
-  </programme>
-<programme start="20261116025817 +0000" stop="20261116044452 +0000" channel="whale.1034986045911343817">
-    <title lang="en">Floating</title>
-  </programme>
 <programme start="20261116044452 +0000" stop="20261116060822 +0000" channel="whale.1034986045911343817">
     <title lang="en">Queen of Niendorf</title>
+    <desc lang="en">The summer holidays have just begun in the small Brandenburg town of Niendorf, but ten-year-old Lea is not going to the summer camp with her friends this year as usual. In fact, she finds the other girls in her school increasingly peculiar. So Lea mostly wanders through the village alone on her bike and visits the musician and dropout Mark.</desc>
+    <icon src="https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-04-15/f02cdaf2d58b40e0d811b83a98c291c7.jpg.webp"/>
+    <rating>
+      <value>PG</value>
+    </rating>
   </programme>
 <programme start="20261116060822 +0000" stop="20261116080815 +0000" channel="whale.1034986045911343817">
     <title lang="en">Rocket Perelman</title>
+    <desc lang="en">The gimmicks in the fashion industry got on Jen's nerves (Liv Lisa Fries). So she goes on the road looking for new horizons and ends up at the "Rocket Perelman", a commune in the Brandenburg sand box, where a different way of life is preached by Tobias (Tobias Lehmann): live free, be creative and follow your instincts.</desc>
+    <icon src="https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-04-15/04ef0a4a7aaa0f92fd243b138c1e798a.jpg.webp"/>
+    <rating>
+      <value>PG-13</value>
+    </rating>
   </programme>
 <programme start="20261116080815 +0000" stop="20261116084233 +0000" channel="whale.1034986045911343817">
     <title lang="en">Brother</title>
@@ -667,17 +673,33 @@
 <programme start="20261118000013 +0000" stop="20261118014735 +0000" channel="whale.1034986045911343817">
     <title lang="en">Name Me</title>
   </programme>
-<programme start="20261116000302 +0000" stop="20261116013837 +0000" channel="whale.1034986045911343818">
-    <title lang="en">All About Rita</title>
+<programme start="20261118014735 +0000" stop="20261118034708 +0000" channel="whale.1034986045911343817">
+    <title lang="en">The Postman's White Nights</title>
   </programme>
-<programme start="20261116013837 +0000" stop="20261116040210 +0000" channel="whale.1034986045911343818">
-    <title lang="en">Ghetto</title>
+<programme start="20261118034708 +0000" stop="20261118053433 +0000" channel="whale.1034986045911343817">
+    <title lang="en">The Dreamed Path</title>
+  </programme>
+<programme start="20261118053433 +0000" stop="20261118072346 +0000" channel="whale.1034986045911343817">
+    <title lang="en">Gisela</title>
   </programme>
 <programme start="20261116040210 +0000" stop="20261116053726 +0000" channel="whale.1034986045911343818">
     <title lang="en">Fraulein</title>
+    <desc lang="en">Ruža left her home country Serbia over 30 years ago and now lives in Zurich. Her daily life is painstakingly organized but one day, Ana arrives on the scene.
+ 
+
+ Ana, a young woman from Sarajevo, is beautiful, hungry for life yet somehow lost, and she shakes up Ruza's world. Nonetheless, a tender friendship develops between these two headstrong women.</desc>
+    <icon src="https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-04-15/54f2c930662f3a48b6a58618cdcb05c6.jpg.webp"/>
+    <rating>
+      <value>6</value>
+    </rating>
   </programme>
 <programme start="20261116053726 +0000" stop="20261116072508 +0000" channel="whale.1034986045911343818">
     <title lang="en">Berlin Excelsior</title>
+    <desc lang="en">The anonymous Berlin concrete building "Excelsior" is only a temporary stop for its residents, yet some have been living there for more than 50 years.
+ 
+
+ Things are expected to improve and everyone helps .With his "invisible make-up", 49-year-old Michael wants to build on earlier successes as an escort boy. Claudia's time as a dancer is over, but new photos are to pave her way back onto the stage.</desc>
+    <icon src="https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-04-15/4dd4f6549ace30f4945bdeff88fdf226.jpg.webp"/>
   </programme>
 <programme start="20261116072508 +0000" stop="20261116091159 +0000" channel="whale.1034986045911343818">
     <title lang="en">Everything Always All the Time</title>
@@ -769,20 +791,15 @@
 <programme start="20261118000746 +0000" stop="20261118015257 +0000" channel="whale.1034986045911343818">
     <title lang="en">Holy Island</title>
   </programme>
-<programme start="20261115233830 +0000" stop="20261116013755 +0000" channel="whale.1088385876566278483">
-    <title lang="en">Jovita</title>
-  </programme>
-<programme start="20261116013755 +0000" stop="20261116025431 +0000" channel="whale.1088385876566278483">
-    <title lang="en">Kiki</title>
-  </programme>
-<programme start="20261116025431 +0000" stop="20261116045405 +0000" channel="whale.1088385876566278483">
-    <title lang="en">Ellipsis</title>
-  </programme>
 <programme start="20261116045405 +0000" stop="20261116064657 +0000" channel="whale.1088385876566278483">
     <title lang="en">Oyoma</title>
+    <desc lang="en">Ejiro is haunted by the trauma of losing his parents, a tragedy stemming from a dispute with his younger brother during their kindergarten days. This made him blame his brother for the death of their parents.</desc>
+    <icon src="https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-10-01/3d4cdb270678d072e7e5eb791d09f9a7.jpg.webp"/>
   </programme>
 <programme start="20261116064657 +0000" stop="20261116084303 +0000" channel="whale.1088385876566278483">
     <title lang="en">To All The Broken Hearted</title>
+    <desc lang="en">Your Mental and Sanity are beyond small talk. PTSD is a thing. Be Sensitive.</desc>
+    <icon src="https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-11-15/076e4d00ea63f2941412c08f89115727.jpg.webp"/>
   </programme>
 <programme start="20261116084303 +0000" stop="20261116101956 +0000" channel="whale.1088385876566278483">
     <title lang="en">Date With My Husband</title>
@@ -814,20 +831,21 @@
 <programme start="20261116233738 +0000" stop="20261117020827 +0000" channel="whale.1088385876566278483">
     <title lang="en">Little Lie</title>
   </programme>
-<programme start="20261116002444 +0000" stop="20261116015240 +0000" channel="whale.609411515976060398">
-    <title lang="en">Bee Team 2</title>
-  </programme>
-<programme start="20261116015240 +0000" stop="20261116025216 +0000" channel="whale.609411515976060398">
-    <title lang="en">A Film Called Blacks Can't Swim</title>
-  </programme>
-<programme start="20261116025216 +0000" stop="20261116042919 +0000" channel="whale.609411515976060398">
-    <title lang="en">The Man In The Trunk</title>
-  </programme>
 <programme start="20261116042919 +0000" stop="20261116063538 +0000" channel="whale.609411515976060398">
     <title lang="en">Dragon Warriors</title>
+    <desc lang="en">An evil wizard, Lord Tensley, seeks the hand and heart of the beautiful princess, Lady Ennogard. When she refuses, he locks her away and releases a deadly dragon, which he controls, to terrorize the land.</desc>
+    <icon src="https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-10-01/4e702f49f48b32981450abda3b4e4284.jpeg.webp"/>
+    <rating>
+      <value>PG13</value>
+    </rating>
   </programme>
 <programme start="20261116063538 +0000" stop="20261116075225 +0000" channel="whale.609411515976060398">
     <title lang="en">When Bette Met Mae</title>
+    <desc lang="en">Bette Davis and Mae West come alive to discuss their careers. Using an audio tape made that night and actors to portray them, you are a guest at a party that no one knew about until now. Watch and laugh.</desc>
+    <icon src="https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-10-02/70858bdd7ca85f6988c3920a2e0bdb7d.jpeg.webp"/>
+    <rating>
+      <value>G</value>
+    </rating>
   </programme>
 <programme start="20261116075225 +0000" stop="20261116081028 +0000" channel="whale.609411515976060398">
     <title lang="en">Esperanza</title>
@@ -934,17 +952,14 @@
 <programme start="20261118005234 +0000" stop="20261118022237 +0000" channel="whale.609411515976060398">
     <title lang="en">The Price To Pay</title>
   </programme>
-<programme start="20261116010000 +0000" stop="20261116020000 +0000" channel="whale.643123720684571896">
-    <title lang="en">Movie Mania</title>
+<programme start="20261118022237 +0000" stop="20261118035348 +0000" channel="whale.609411515976060398">
+    <title lang="en">Notzilla</title>
   </programme>
-<programme start="20261116020000 +0000" stop="20261116030000 +0000" channel="whale.643123720684571896">
-    <title lang="en">Movie Mania</title>
+<programme start="20261118035348 +0000" stop="20261118040649 +0000" channel="whale.609411515976060398">
+    <title lang="en">The Dollmaker</title>
   </programme>
-<programme start="20261116030000 +0000" stop="20261116040000 +0000" channel="whale.643123720684571896">
-    <title lang="en">Movie Mania</title>
-  </programme>
-<programme start="20261116040000 +0000" stop="20261116050000 +0000" channel="whale.643123720684571896">
-    <title lang="en">Movie Mania</title>
+<programme start="20261118040649 +0000" stop="20261118054142 +0000" channel="whale.609411515976060398">
+    <title lang="en">Quest Of The Muscle Nerd</title>
   </programme>
 <programme start="20261116050000 +0000" stop="20261116060000 +0000" channel="whale.643123720684571896">
     <title lang="en">Movie Mania</title>
@@ -1081,311 +1096,30 @@
 <programme start="20261118010000 +0000" stop="20261118020000 +0000" channel="whale.643123720684571896">
     <title lang="en">Movie Mania</title>
   </programme>
-<programme start="20261116005445 +0000" stop="20261116012311 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
+<programme start="20261118020000 +0000" stop="20261118030000 +0000" channel="whale.643123720684571896">
+    <title lang="en">Movie Mania</title>
   </programme>
-<programme start="20261116012311 +0000" stop="20261116015139 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
+<programme start="20261118030000 +0000" stop="20261118040000 +0000" channel="whale.643123720684571896">
+    <title lang="en">Movie Mania</title>
   </programme>
-<programme start="20261116015139 +0000" stop="20261116022008 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
+<programme start="20261118040000 +0000" stop="20261118050000 +0000" channel="whale.643123720684571896">
+    <title lang="en">Movie Mania</title>
   </programme>
-<programme start="20261116022008 +0000" stop="20261116024843 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261116024843 +0000" stop="20261116031648 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261116031648 +0000" stop="20261116034443 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261116034443 +0000" stop="20261116041318 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261116041318 +0000" stop="20261116044020 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261116044020 +0000" stop="20261116052210 +0000" channel="whale.925725895506330246">
-    <title lang="en">Handyman Corner</title>
-  </programme>
-<programme start="20261116052210 +0000" stop="20261116065120 +0000" channel="whale.925725895506330246">
-    <title lang="en">Red Green - On Tour</title>
-  </programme>
-<programme start="20261116065120 +0000" stop="20261116072747 +0000" channel="whale.925725895506330246">
-    <title lang="en">Handyman Corner</title>
-  </programme>
-<programme start="20261116072747 +0000" stop="20261116075556 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show Compilations</title>
-  </programme>
-<programme start="20261116075556 +0000" stop="20261116082234 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261116082234 +0000" stop="20261116085028 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261116085028 +0000" stop="20261116091728 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261116091728 +0000" stop="20261116094110 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show Compilations</title>
-  </programme>
-<programme start="20261116094110 +0000" stop="20261116100904 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261116100904 +0000" stop="20261116103609 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261116103609 +0000" stop="20261116110351 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261116110351 +0000" stop="20261116113132 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261116113132 +0000" stop="20261116115811 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261116115811 +0000" stop="20261116122657 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261116122657 +0000" stop="20261116125438 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261116125438 +0000" stop="20261116132333 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261116132333 +0000" stop="20261116135127 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261116135127 +0000" stop="20261116141746 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261116141746 +0000" stop="20261116144424 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261116144424 +0000" stop="20261116150444 +0000" channel="whale.925725895506330246">
-    <title lang="en">Red Green - Bonus Material</title>
-  </programme>
-<programme start="20261116150444 +0000" stop="20261116153231 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261116153231 +0000" stop="20261116155909 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261116155909 +0000" stop="20261116162921 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show Compilations</title>
-  </programme>
-<programme start="20261116162921 +0000" stop="20261116165708 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261116165708 +0000" stop="20261116172413 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261116172413 +0000" stop="20261116175245 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261116175245 +0000" stop="20261116192157 +0000" channel="whale.925725895506330246">
-    <title lang="en">Red Green - On Tour</title>
-  </programme>
-<programme start="20261116192157 +0000" stop="20261116194903 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261116194903 +0000" stop="20261116201656 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261116201656 +0000" stop="20261116204459 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261116204459 +0000" stop="20261116211332 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show Compilations</title>
-  </programme>
-<programme start="20261116211332 +0000" stop="20261116214016 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261116214016 +0000" stop="20261116220701 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261116220701 +0000" stop="20261116223339 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261116223339 +0000" stop="20261116230156 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261116230156 +0000" stop="20261116233023 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261116233023 +0000" stop="20261116235849 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261116235849 +0000" stop="20261117002735 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261117002735 +0000" stop="20261117005458 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261117005458 +0000" stop="20261117012157 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261117012157 +0000" stop="20261117020439 +0000" channel="whale.925725895506330246">
-    <title lang="en">Ranger Gord</title>
-  </programme>
-<programme start="20261117020439 +0000" stop="20261117023321 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261117023321 +0000" stop="20261117030439 +0000" channel="whale.925725895506330246">
-    <title lang="en">Red Green - Bonus Material</title>
-  </programme>
-<programme start="20261117030439 +0000" stop="20261117033118 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261117033118 +0000" stop="20261117035802 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261117035802 +0000" stop="20261117042446 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261117042446 +0000" stop="20261117044451 +0000" channel="whale.925725895506330246">
-    <title lang="en">Red Green - Bonus Material</title>
-  </programme>
-<programme start="20261117044451 +0000" stop="20261117051320 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261117051320 +0000" stop="20261117054002 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show Compilations</title>
-  </programme>
-<programme start="20261117054002 +0000" stop="20261117060619 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261117060619 +0000" stop="20261117063451 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261117063451 +0000" stop="20261117070310 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261117073149 +0000" stop="20261117081236 +0000" channel="whale.925725895506330246">
-    <title lang="en">Handyman Corner</title>
-  </programme>
-<programme start="20261117081236 +0000" stop="20261117085159 +0000" channel="whale.925725895506330246">
-    <title lang="en">Handyman Corner</title>
-  </programme>
-<programme start="20261117085159 +0000" stop="20261117091954 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261117091954 +0000" stop="20261117094746 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261117094746 +0000" stop="20261117101630 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261117101630 +0000" stop="20261117104515 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261117104515 +0000" stop="20261117111347 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261117111347 +0000" stop="20261117114004 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261117114004 +0000" stop="20261117120834 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261117120834 +0000" stop="20261117123534 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261117123534 +0000" stop="20261117130218 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261117130218 +0000" stop="20261117132928 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261117132928 +0000" stop="20261117135802 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261117135802 +0000" stop="20261117143634 +0000" channel="whale.925725895506330246">
-    <title lang="en">Handyman Corner</title>
-  </programme>
-<programme start="20261117143634 +0000" stop="20261117150450 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261117150450 +0000" stop="20261117153155 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261117153155 +0000" stop="20261117155941 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261117155941 +0000" stop="20261117162624 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show Compilations</title>
-  </programme>
-<programme start="20261117162624 +0000" stop="20261117165453 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261117165453 +0000" stop="20261117173120 +0000" channel="whale.925725895506330246">
-    <title lang="en">Handyman Corner</title>
-  </programme>
-<programme start="20261117173120 +0000" stop="20261117180505 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show Compilations</title>
-  </programme>
-<programme start="20261117180505 +0000" stop="20261117183337 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261117183337 +0000" stop="20261117190123 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261117190123 +0000" stop="20261117192832 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261117192832 +0000" stop="20261117195538 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261117195538 +0000" stop="20261117202306 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261117202306 +0000" stop="20261117205047 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261117205047 +0000" stop="20261117211703 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261117211703 +0000" stop="20261117214449 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261117214449 +0000" stop="20261117221154 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261117221154 +0000" stop="20261117223838 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261117223838 +0000" stop="20261117230516 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261117230516 +0000" stop="20261117233309 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261117233309 +0000" stop="20261118000009 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261118000009 +0000" stop="20261118002804 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261118002804 +0000" stop="20261118005559 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261118005559 +0000" stop="20261118015941 +0000" channel="whale.925725895506330246">
-    <title lang="en">Red Green - Bonus Material</title>
-  </programme>
-<programme start="20261115225628 +0000" stop="20261116021606 +0000" channel="whale.968813239419275714">
-    <title lang="en">Chicken Girls College Years</title>
-  </programme>
-<programme start="20261116021606 +0000" stop="20261116025519 +0000" channel="whale.968813239419275714">
-    <title lang="en">On The Ropes</title>
-  </programme>
-<programme start="20261116025519 +0000" stop="20261116034025 +0000" channel="whale.968813239419275714">
-    <title lang="en">On The Ropes</title>
+<programme start="20261118050000 +0000" stop="20261118060000 +0000" channel="whale.643123720684571896">
+    <title lang="en">Movie Mania</title>
   </programme>
 <programme start="20261116034025 +0000" stop="20261116063804 +0000" channel="whale.968813239419275714">
     <title lang="en">Chicken Girls The Movie</title>
+    <desc lang="en">With a new principal in town, Rhyme and the Chicken Girls must band together to save the dance.</desc>
+    <icon src="https://d28p74hx180360.cloudfront.net/79/EPG/1/2026-06-04/670ec912a1e0fa447485bc64dca31790.jpg.webp"/>
   </programme>
 <programme start="20261116063804 +0000" stop="20261116072409 +0000" channel="whale.968813239419275714">
     <title lang="en">On The Ropes</title>
+    <sub-title lang="en">On The Ropes</sub-title>
+    <desc lang="en">Adrienne discovers the truth behind Sonny's mysterious behavior.</desc>
+    <icon src="https://d28p74hx180360.cloudfront.net/79/EPG/1/2026-06-04/c9f96a766dc3b5220704aefcddd1376f.jpg.webp"/>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
   </programme>
 <programme start="20261116072409 +0000" stop="20261116075916 +0000" channel="whale.968813239419275714">
     <title lang="en">On The Ropes</title>
@@ -1567,20 +1301,22 @@
 <programme start="20261117225628 +0000" stop="20261118021606 +0000" channel="whale.968813239419275714">
     <title lang="en">Chicken Girls College Years</title>
   </programme>
-<programme start="20261115234359 +0000" stop="20261116015849 +0000" channel="whale.979187723418476860">
-    <title lang="en">Only The Valiant</title>
+<programme start="20261118021606 +0000" stop="20261118025520 +0000" channel="whale.968813239419275714">
+    <title lang="en">On The Ropes</title>
   </programme>
-<programme start="20261116015849 +0000" stop="20261116041148 +0000" channel="whale.979187723418476860">
-    <title lang="en">The Mountain</title>
+<programme start="20261118025520 +0000" stop="20261118034025 +0000" channel="whale.968813239419275714">
+    <title lang="en">On The Ropes</title>
   </programme>
-<programme start="20261116041148 +0000" stop="20261116042952 +0000" channel="whale.979187723418476860">
-    <title lang="en">A Trip To The Moon</title>
+<programme start="20261118034025 +0000" stop="20261118063804 +0000" channel="whale.968813239419275714">
+    <title lang="en">Chicken Girls The Movie</title>
   </programme>
 <programme start="20261116042952 +0000" stop="20261116061625 +0000" channel="whale.979187723418476860">
     <title lang="en">Return Of The Street Fighter</title>
+    <desc lang="en">Takuma "Terry" Tsurugi returns. In this sequel, he sets out to bust up a phony charity put together by the Yakuza.</desc>
   </programme>
 <programme start="20261116061625 +0000" stop="20261116091230 +0000" channel="whale.979187723418476860">
     <title lang="en">Zulu</title>
+    <desc lang="en">In 1879, during the Anglo-Zulu War, man-of-the-people Lt. Chard and snooty Lt. Bromhead are in charge of defending the isolated and vastly outnumbered Natal outpost of Rorke's Drift from tribal hordes.</desc>
   </programme>
 <programme start="20261116091230 +0000" stop="20261116113511 +0000" channel="whale.979187723418476860">
     <title lang="en">Convoy</title>
@@ -1590,5 +1326,44 @@
   </programme>
 <programme start="20261116140409 +0000" stop="20261116163725 +0000" channel="whale.979187723418476860">
     <title lang="en">Escape to Athena</title>
+  </programme>
+<programme start="20261116163725 +0000" stop="20261116185306 +0000" channel="whale.979187723418476860">
+    <title lang="en">Sitting Bull</title>
+  </programme>
+<programme start="20261116185306 +0000" stop="20261116211114 +0000" channel="whale.979187723418476860">
+    <title lang="en">The Revengers</title>
+  </programme>
+<programme start="20261116211114 +0000" stop="20261116232437 +0000" channel="whale.979187723418476860">
+    <title lang="en">What Have You Done to Solange?</title>
+  </programme>
+<programme start="20261116232437 +0000" stop="20261117011728 +0000" channel="whale.979187723418476860">
+    <title lang="en">Niagara</title>
+  </programme>
+<programme start="20261117011728 +0000" stop="20261117031155 +0000" channel="whale.979187723418476860">
+    <title lang="en">The Great Rupert</title>
+  </programme>
+<programme start="20261117031155 +0000" stop="20261117045454 +0000" channel="whale.979187723418476860">
+    <title lang="en">The Premature Burial</title>
+  </programme>
+<programme start="20261117045454 +0000" stop="20261117071139 +0000" channel="whale.979187723418476860">
+    <title lang="en">Joe</title>
+  </programme>
+<programme start="20261117071139 +0000" stop="20261117090824 +0000" channel="whale.979187723418476860">
+    <title lang="en">The Street Fighter</title>
+  </programme>
+<programme start="20261117090824 +0000" stop="20261117111020 +0000" channel="whale.979187723418476860">
+    <title lang="en">Stagecoach</title>
+  </programme>
+<programme start="20261117111020 +0000" stop="20261117132348 +0000" channel="whale.979187723418476860">
+    <title lang="en">The Plague Dogs</title>
+  </programme>
+<programme start="20261117132348 +0000" stop="20261117160635 +0000" channel="whale.979187723418476860">
+    <title lang="en">McLintock!</title>
+  </programme>
+<programme start="20261117160635 +0000" stop="20261117174314 +0000" channel="whale.979187723418476860">
+    <title lang="en">Sabotage</title>
+  </programme>
+<programme start="20261117174314 +0000" stop="20261118015141 +0000" channel="whale.979187723418476860">
+    <title lang="en">Jesus Of Nazareth (Full Series)</title>
   </programme>
 </tv>
