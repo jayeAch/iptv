@@ -359,6 +359,7 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
         sport
         sports
         sports channel
+        great by choice
         espn
         fox sports
         cbs sports
@@ -736,6 +737,7 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
     ('Anime & Gaming', _words("""
         anime
         animeverse
+        caylus
         anime all day
         crunchyroll
         hidive
@@ -779,7 +781,11 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
     ('Reality TV', _words("""
         reality
         reality tv
-        antiques eoad trip
+        deal masters
+        dog the bounty hunter
+        deal zone
+        antiques road trip
+        antiques roadshow
         judge judy
         hot bench
         all weddings we tv
@@ -863,6 +869,7 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
         romance
         romantic
         romance 365
+        great american romcoms
         free romance network
         movie hub romance
         pluto tv romance
