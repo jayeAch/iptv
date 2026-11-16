@@ -21,7 +21,6 @@ CATEGORY_EXCLUDE_LIST = [
     "Sports",
     "Combat Sports",
     "Travel",
-    "History",
     "Faith",
     "Lifestyle",
     "Automotive",
