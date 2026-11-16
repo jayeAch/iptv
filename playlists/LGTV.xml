@@ -4,6 +4,10 @@
     <display-name>ION Plus</display-name>
     <icon src="http://img.platform.wurl.dev/channel/378/lg/165a68/LG-Logo-PNG-100x100_v1.png"/>
   </channel>
+<channel id="99992272">
+    <display-name>FilmRise Free Movies</display-name>
+    <icon src="https://image.xumo.com/v1/channels/channel/99992272/400x200.png?type=white_cropped"/>
+  </channel>
 <channel id="us-gsn_cinevault_classics_2">
     <display-name>CINEVAULT: Classics</display-name>
     <icon src="http://img.platform.wurl.dev/channel/1043/lg/374298/LG-Logo-PNG-100x100_v1.png"/>
@@ -32,13 +36,13 @@
     <display-name>Screambox TV</display-name>
     <icon src="http://img.platform.wurl.dev/channel/1845/lg/88167e/LG-Logo-PNG-100x100_v1.png"/>
   </channel>
+<channel id="us-amc_scaresbyshudder_1">
+    <display-name>Scares by Shudder</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/1566/lg/835604/LG-Logo-PNG-100x100_v1.png"/>
+  </channel>
 <channel id="us-lg_thebeverlyhillbillies_1">
     <display-name>The Beverly Hillbillies</display-name>
     <icon src="http://img.platform.wurl.dev/channel/1342/lg/06eaa3/LG-Logo-PNG-100x100_v1.png"/>
-  </channel>
-<channel id="FREQ888">
-    <display-name>Alien Nation by DUST</display-name>
-    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/gunpowderandsky/channels/Alien-Nation_white_logo_800x200.png"/>
   </channel>
 <channel id="us-scripps_ion_1">
     <display-name>ION</display-name>
@@ -92,9 +96,9 @@
     <display-name>On Patrol: Live</display-name>
     <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/reelz/channels/1287-400x200.png"/>
   </channel>
-<channel id="haunttvus_hntus_US">
-    <display-name>Haunt TV US</display-name>
-    <icon src="https://d2y2gft5545ze9.cloudfront.net/HauntTV_200pxHigh_LG_ChannelAssets_White.png"/>
+<channel id="FREQ190-US">
+    <display-name>Reelz Famous &amp; Infamous</display-name>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/reelz/channels/190-FamousInfamousLogo_WhiteStacked_400x200.png"/>
   </channel>
 <channel id="abcentertains_entert_US">
     <display-name>ABC Entertains Australia</display-name>
@@ -123,18 +127,6 @@
 <channel id="FREQ918-US">
     <display-name>Animation+</display-name>
     <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/streamingink/channels/918-400x200.png"/>
-  </channel>
-<channel id="us-aenetworks_unxplainedzone_1">
-    <display-name>UnXplained Zone</display-name>
-    <icon src="http://img.platform.wurl.dev/channel/1018/lg/264964/LG-Logo-PNG-100x100_v2.png"/>
-  </channel>
-<channel id="ghosthunters_gthtr_US">
-    <display-name>Ghost Hunters</display-name>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Ghosthunters/GhostHunters_LGLaunch_Guide_Logo_White_800x200.png"/>
-  </channel>
-<channel id="99993103">
-    <display-name>Paranormal Chronicles</display-name>
-    <icon src="https://image.xumo.com/v1/channels/channel/99993103/400x200.png?type=white_cropped"/>
   </channel>
 <channel id="us-aenetworks_thrillher_1">
     <display-name>Crime ThrillHer</display-name>
@@ -216,14 +208,4 @@
     <display-name>Historian</display-name>
     <icon src="http://img.platform.wurl.dev/channel/1908/lg/b7ee6a/LG-Logo-PNG-100x100_v1.png"/>
   </channel>
-<programme start="20261115223306 +0000" stop="20261116000622 +0000" channel="theasylummoviechannel_tasmc_US">
-    <title lang="en">24 Hours to D-Day</title>
-    <desc lang="en">U.S. Special Forces parachute into Nazi territory to guide the 101st Airborne ahead of the Normandy landings.</desc>
-    <category lang="en">Action</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/tasmc/resized_e486bec552bfeabe735a889236d6875ba460581a5ffcf9fc9382b691a6b06554_24hourstodday1920x1080jpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">tasmc_24HoursToDDay_Feature_2997_20_Amagi_US</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 </tv>
