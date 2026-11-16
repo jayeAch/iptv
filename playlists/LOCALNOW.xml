@@ -36,6 +36,10 @@
     <display-name>The Dick Van Dyke Show</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/30A3BFFC-A9BE-44F0-9EF4-69B96AA51F43/3-1x1.png" />
   </channel>
+<channel id="localnow.2C7D3071-F7F4-4039-8FAB-195FA86E22B5">
+    <display-name>Three Stooges+</display-name>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/2C7D3071-F7F4-4039-8FAB-195FA86E22B5/3-1x1.png" />
+  </channel>
 <channel id="localnow.00C9AEC1-8DF8-4F80-88FD-19DF47C40D53">
     <display-name>Laff More</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/00C9AEC1-8DF8-4F80-88FD-19DF47C40D53/3-1x1.png" />
@@ -171,7 +175,7 @@
 <programme start="20261116053000 +0000" stop="20261116060000 +0000" channel="localnow.30A3BFFC-A9BE-44F0-9EF4-69B96AA51F43">
     <title lang="en">The Dick Van Dyke Show</title>
     <desc lang="en">Laura begins to worry when Rob has to work nights with a beautiful TV star.</desc>
-    <category lang="en">Comedy</category>
+    <category lang="en">Classic TV</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/30A3BFFC-A9BE-44F0-9EF4-69B96AA51F43/0-2x3.png" />
     <episode-num system="onscreen">S01E07</episode-num>
     <episode-num system="xmltv_ns">0.6.</episode-num>
@@ -179,7 +183,7 @@
 <programme start="20261116060000 +0000" stop="20261116063000 +0000" channel="localnow.30A3BFFC-A9BE-44F0-9EF4-69B96AA51F43">
     <title lang="en">The Dick Van Dyke Show</title>
     <desc lang="en">Rob and Ritchie find themselves more than lost when Laura briefly resumes her dancing career.</desc>
-    <category lang="en">Comedy</category>
+    <category lang="en">Classic TV</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/30A3BFFC-A9BE-44F0-9EF4-69B96AA51F43/0-2x3.png" />
     <episode-num system="onscreen">S01E08</episode-num>
     <episode-num system="xmltv_ns">0.7.</episode-num>
@@ -294,14 +298,6 @@
     <episode-num system="onscreen">S04E02</episode-num>
     <episode-num system="xmltv_ns">3.1.</episode-num>
   </programme>
-<programme start="20261116050000 +0000" stop="20261116055400 +0000" channel="localnow.558211BE-E921-43BA-9C55-9DE79921BF9C">
-    <title lang="en">The FBI Files</title>
-    <desc lang="en">A domestic disturbance call helps police to nab a convicted bank robber.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/558211BE-E921-43BA-9C55-9DE79921BF9C/0-2x3.png" />
-    <episode-num system="onscreen">S05E08</episode-num>
-    <episode-num system="xmltv_ns">4.7.</episode-num>
-  </programme>
 <programme start="20261116055400 +0000" stop="20261116064800 +0000" channel="localnow.558211BE-E921-43BA-9C55-9DE79921BF9C">
     <title lang="en">The FBI Files</title>
     <desc lang="en">Criminal profiling helps track down a kidnapper.</desc>
@@ -377,34 +373,26 @@
 <programme start="20261116050000 +0000" stop="20261116060000 +0000" channel="localnow.6D30170C-D7B3-46A2-8C1F-302D8399F44D">
     <title lang="en">Free Movies Plus</title>
     <desc lang="en">Free Movies Plus is the ultimate channel for movie lovers, featuring blockbuster hits 24/7.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Movies</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/6D30170C-D7B3-46A2-8C1F-302D8399F44D/0-2x3.png" />
   </programme>
 <programme start="20261116060000 +0000" stop="20261116070000 +0000" channel="localnow.6D30170C-D7B3-46A2-8C1F-302D8399F44D">
     <title lang="en">Free Movies Plus</title>
     <desc lang="en">Free Movies Plus is the ultimate channel for movie lovers, featuring blockbuster hits 24/7.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Movies</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/6D30170C-D7B3-46A2-8C1F-302D8399F44D/0-2x3.png" />
   </programme>
 <programme start="20261116070000 +0000" stop="20261116080000 +0000" channel="localnow.6D30170C-D7B3-46A2-8C1F-302D8399F44D">
     <title lang="en">Free Movies Plus</title>
     <desc lang="en">Free Movies Plus is the ultimate channel for movie lovers, featuring blockbuster hits 24/7.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Movies</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/6D30170C-D7B3-46A2-8C1F-302D8399F44D/0-2x3.png" />
   </programme>
 <programme start="20261116080000 +0000" stop="20261116090000 +0000" channel="localnow.6D30170C-D7B3-46A2-8C1F-302D8399F44D">
     <title lang="en">Free Movies Plus</title>
     <desc lang="en">Free Movies Plus is the ultimate channel for movie lovers, featuring blockbuster hits 24/7.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Movies</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/6D30170C-D7B3-46A2-8C1F-302D8399F44D/0-2x3.png" />
-  </programme>
-<programme start="20261116050000 +0000" stop="20261116055600 +0000" channel="localnow.70E6008B-8E98-4B80-8CE2-D721592DF1C1">
-    <title lang="en">World's Most Evil Killers</title>
-    <desc lang="en">Gardener William Howell used his van as a "murder mobile," killing women and dumping bodies.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/70E6008B-8E98-4B80-8CE2-D721592DF1C1/0-2x3.png" />
-    <episode-num system="onscreen">S09E12</episode-num>
-    <episode-num system="xmltv_ns">8.11.</episode-num>
   </programme>
 <programme start="20261116055600 +0000" stop="20261116065000 +0000" channel="localnow.70E6008B-8E98-4B80-8CE2-D721592DF1C1">
     <title lang="en">World's Most Evil Killers</title>
@@ -434,7 +422,7 @@
     <title lang="en">The Bold And The Beautiful</title>
     <sub-title lang="en">Episode 80</sub-title>
     <desc lang="en">Mark is angry to learn Donna will be working with Rocco. Rocco rescues Ridge and Caroline from a mugging.</desc>
-    <category lang="en">Drama</category>
+    <category lang="en">Soap Operas</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/720A158D-FCF3-4A78-B0C9-D65CB40FACE0/0-2x3.png" />
     <episode-num system="dd_progid">program-the-bold-and-the-beautiful-20261116054608</episode-num>
   </programme>
@@ -442,7 +430,7 @@
     <title lang="en">The Bold And The Beautiful</title>
     <sub-title lang="en">Episode 81</sub-title>
     <desc lang="en">Eric asks Stephanie to cancel the birthday party. Caroline decides to set Kristen up with her boss.</desc>
-    <category lang="en">Drama</category>
+    <category lang="en">Soap Operas</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/720A158D-FCF3-4A78-B0C9-D65CB40FACE0/0-2x3.png" />
     <episode-num system="dd_progid">program-the-bold-and-the-beautiful-20261116061322</episode-num>
   </programme>
@@ -585,14 +573,6 @@
     <category lang="en">Crime</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/86B50402-32F0-4EBF-9AF8-65DAE9C09A44/0-2x3.png" />
     <episode-num system="dd_progid">program-mysteria-20261116083844</episode-num>
-  </programme>
-<programme start="20261116052100 +0000" stop="20261116055200 +0000" channel="localnow.8B382916-6958-4C22-98BF-3F3CD781A4A9">
-    <title lang="en">Just for Laughs Gags</title>
-    <desc lang="en">A gym-goer's toupee is exposed, a young clown loses his juggling apples, and a mischievous mini-golf ball refuses to cooperate.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/8B382916-6958-4C22-98BF-3F3CD781A4A9/0-2x3.png" />
-    <episode-num system="onscreen">S06E13</episode-num>
-    <episode-num system="xmltv_ns">5.12.</episode-num>
   </programme>
 <programme start="20261116055200 +0000" stop="20261116062200 +0000" channel="localnow.8B382916-6958-4C22-98BF-3F3CD781A4A9">
     <title lang="en">Just for Laughs Gags</title>
@@ -756,14 +736,6 @@
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/B2DACF04-EB66-492A-96BE-DC13E160C5EE/0-2x3.png" />
     <episode-num system="dd_progid">program-buzzfeed-celeb-20261116103000</episode-num>
   </programme>
-<programme start="20261116052720 +0000" stop="20261116055258 +0000" channel="localnow.B55F1141-71F9-463B-9383-3FDF2F34B220">
-    <title lang="en">The Jamie Kennedy Experiment</title>
-    <desc lang="en">Jamie poses as a pet psychiatrist who treats Jim Belushi's dog.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/B55F1141-71F9-463B-9383-3FDF2F34B220/0-2x3.png" />
-    <episode-num system="onscreen">S01E17</episode-num>
-    <episode-num system="xmltv_ns">0.16.</episode-num>
-  </programme>
 <programme start="20261116055258 +0000" stop="20261116061834 +0000" channel="localnow.B55F1141-71F9-463B-9383-3FDF2F34B220">
     <title lang="en">The Jamie Kennedy Experiment</title>
     <desc lang="en">Hidden cameras follow Kennedy and his crew as they perform practical jokes on real people. Kennedy poses as a white rapper, a boss with jaw surgery conducting interviews, and a crazy infomercial host.</desc>
@@ -835,14 +807,14 @@
 <programme start="20261116054538 +0000" stop="20261116061444 +0000" channel="localnow.E817E82A-A322-4FA4-8F55-0E17116F726B">
     <title lang="en">The Carol Burnett Show</title>
     <desc lang="en">Kaye Stevens and Audrey Meadows guest star, featuring "As The Stomach Turns" and the "10th Avenue Family."</desc>
-    <category lang="en">Comedy</category>
+    <category lang="en">Classic TV</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/E817E82A-A322-4FA4-8F55-0E17116F726B/0-2x3.png" />
     <episode-num system="dd_progid">program-carol-burnett-20261116054538</episode-num>
   </programme>
 <programme start="20261116061444 +0000" stop="20261116064632 +0000" channel="localnow.E817E82A-A322-4FA4-8F55-0E17116F726B">
     <title lang="en">The Carol Burnett Show</title>
     <desc lang="en">Rock Hudson stars, appearing with Carol as husband and wife anchors, and as secretary Mrs. Wiggins' date.</desc>
-    <category lang="en">Comedy</category>
+    <category lang="en">Classic TV</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/E817E82A-A322-4FA4-8F55-0E17116F726B/0-2x3.png" />
     <episode-num system="dd_progid">program-carol-burnett-20261116061444</episode-num>
   </programme>

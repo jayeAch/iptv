@@ -20,6 +20,10 @@
     <display-name>Gravitas Movies</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700011RE_20241203T004808SQUARE.png" />
   </channel>
+<channel id="US3900008GK">
+    <display-name>The Brady Bunch</display-name>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3900008GK_20260428T032017SQUARE.png" />
+  </channel>
 <channel id="US300068X7">
     <display-name>Samsung Television Network</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300068X7_20261103T171625SQUARE.png" />
@@ -104,10 +108,6 @@
     <display-name>Killer Mysteries</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2001109K_20260421T133742SQUARE.png" />
   </channel>
-<channel id="USBC1000002NP">
-    <display-name>World’s Most Evil Killers</display-name>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1000002NP_20260421T133710SQUARE.png" />
-  </channel>
 <channel id="USBD42000073E">
     <display-name>60 Days In by A&amp;E</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD42000073E_20250520T211334SQUARE.png" />
@@ -176,19 +176,14 @@
     <display-name>RiffTrax</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504706A_20260609T214530SQUARE.png" />
   </channel>
+<channel id="US4600011ZJ">
+    <display-name>Urban TV + Movies</display-name>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4600011ZJ_20261026T044632SQUARE.png" />
+  </channel>
 <channel id="USAJ17000014C">
     <display-name>The Asylum</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ17000014C_20260421T141813SQUARE.png" />
   </channel>
-<programme channel="USBD3500032H0" start="20261116040532 +0000" stop="20261116055827 +0000">
-    <title>I Spy</title>
-    <desc>When the Switchblade, the most sophisticated prototype stealth fighter created yet, is stolen from the U.S. government, one of the United States' top spies, Alex Scott, is called to action. What he doesn't expect is to get teamed up with a cocky civilian, World Class Boxing Champion Kelly Robinson, on a dangerous top secret espionage mission. Their assignment: using equal parts skill and humor, catch Arnold Gundars, one of the world's most successful arms dealers.</desc>
-    <category lang="en">Movies</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_48867230_0_20261029T071842858Z_55_imageprocessorclient-tvplus-linear-6b56cc9f55-zhkhs.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme channel="USBD3500032H0" start="20261116055827 +0000" stop="20261116080317 +0000">
     <title>The Librarian: Quest for the Spear</title>
     <desc>A caretaker beneath a metropolitan library protects magical artifacts from those who would use them to do evil.</desc>
@@ -323,6 +318,96 @@
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_768221233_3_20250129T112324861Z_84_imageprocessorclient-tvplus-linear-5dc4fd45f6-jwswd.jpeg" />
     <rating>
       <value>R</value>
+    </rating>
+  </programme>
+<programme channel="US3900008GK" start="20261116053000 +0000" stop="20261116060000 +0000">
+    <title>The Slumber Caper</title>
+    <desc>Macia's slumber party is cancelled when her principal calls.</desc>
+    <category lang="en">Classic TV</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352135A_2473915426_1_20260129T062812449Z_77_imageprocessorclient-tvplus-linear-584c967455-ntwwh.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="US3900008GK" start="20261116060000 +0000" stop="20261116063000 +0000">
+    <title>Confessions, Confessions</title>
+    <desc>Mom said don't play ball in the house. The boys do anyway, and Peter's errant pass of basketball results in Carol's favorite vase getting broken.</desc>
+    <category lang="en">Classic TV</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352135A_2473913760_1_20260129T062808925Z_1_imageprocessorclient-tvplus-linear-584c967455-ntwwh.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="US3900008GK" start="20261116063000 +0000" stop="20261116070000 +0000">
+    <title>The Tattletale</title>
+    <desc>Cindy gets into trouble when she starts telling a string of lies.</desc>
+    <category lang="en">Classic TV</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352135A_2473918308_2_20260129T062816555Z_18_imageprocessorclient-tvplus-linear-584c967455-p9wk7.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="US3900008GK" start="20261116070000 +0000" stop="20261116073000 +0000">
+    <title>Call Me Irresponsible</title>
+    <desc>Greg works part-time at Mike's architectural firm.</desc>
+    <category lang="en">Classic TV</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352135A_2473921444_2_20260129T062822546Z_134_imageprocessorclient-tvplus-linear-584c967455-p9wk7.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="US3900008GK" start="20261116073000 +0000" stop="20261116080000 +0000">
+    <title>The Impractical Joker</title>
+    <desc>Jan gets carried away with pulling pranks on her family.</desc>
+    <category lang="en">Classic TV</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352135A_2473922869_3_20260129T062809727Z_48_imageprocessorclient-tvplus-linear-584c967455-q4gz9.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="US3900008GK" start="20261116080000 +0000" stop="20261116083000 +0000">
+    <title>Fistful of Reasons</title>
+    <desc>Peter gets a black eye when he tries to defend his little sister.</desc>
+    <category lang="en">Classic TV</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352135A_2473915418_0_20260129T062819073Z_112_imageprocessorclient-tvplus-linear-584c967455-6w4wn.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="US3900008GK" start="20261116083000 +0000" stop="20261116090000 +0000">
+    <title>What Goes Up...</title>
+    <desc>Bobby suffers from a fear of heights after he falls off a ladder.</desc>
+    <category lang="en">Classic TV</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352135A_2473919986_3_20260129T062809727Z_52_imageprocessorclient-tvplus-linear-584c967455-q4gz9.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="US3900008GK" start="20261116090000 +0000" stop="20261116093000 +0000">
+    <title>Coming Out Party</title>
+    <desc>An innocent tale about the time the Bradys were invited to spend a Sunday afternoon on Mr. Phillips' boat that is if Cindy and Carol can get over tonsillitis and Carol can keep her big mouth shut!</desc>
+    <category lang="en">Classic TV</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352135A_2473926165_3_20260129T062809727Z_22_imageprocessorclient-tvplus-linear-584c967455-q4gz9.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="US3900008GK" start="20261116093000 +0000" stop="20261116100000 +0000">
+    <title>Not So Ugly Duckling</title>
+    <desc>Jan feels insecure about her freckles when her crush falls for Marcia.</desc>
+    <category lang="en">Classic TV</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352135A_2473919985_0_20260129T062818072Z_72_imageprocessorclient-tvplus-linear-584c967455-6w4wn.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="US3900008GK" start="20261116100000 +0000" stop="20261116103000 +0000">
+    <title>Tell It Like It Is</title>
+    <desc>Carol submits an article about her family to a magazine.</desc>
+    <category lang="en">Classic TV</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352135A_2473925574_3_20260129T062809727Z_46_imageprocessorclient-tvplus-linear-584c967455-q4gz9.jpeg" />
+    <rating>
+      <value>TV-PG</value>
     </rating>
   </programme>
 <programme channel="US300068X7" start="20261116051429 +0000" stop="20261116060845 +0000">
@@ -579,16 +664,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme channel="US36000086E" start="20261116045857 +0000" stop="20261116055502 +0000">
-    <title>Drop Dead Diva</title>
-    <sub-title>Drop Dead Diva Pilot</sub-title>
-    <desc>A fatal car accident sends the soul of a beautiful but vapid model into the body of a brilliant plus-size attorney.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3584414131_0_20261007T194734024Z_135_imageprocessorclient-tvplus-linear-6b56cc9f55-x5z8k.jpeg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
 <programme channel="US36000086E" start="20261116055502 +0000" stop="20261116064635 +0000">
     <title>Drop Dead Diva</title>
     <sub-title>The F Word</sub-title>
@@ -768,15 +843,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme channel="US2100005WS" start="20261116051610 +0000" stop="20261116055546 +0000">
-    <title>Childhood Best Friends Go to War</title>
-    <desc>In silhouette, Lauren is the viral singer "Shadow." Popular Alice, who once crushed Lauren's confidence, helps her reclaim her voice when a bully tries to steal her identity and expose her secret.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1963838506_0_20250923T013539311Z_93_imageprocessorclient-tvplus-linear-d7c8c765b-t9c8d.jpeg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
 <programme channel="US2100005WS" start="20261116055546 +0000" stop="20261116061641 +0000">
     <title>Girlfriend Recruits Influencer to Catch Cheater</title>
     <desc>A loyal boyfriend passes every cheating test his girlfriend sets up, but a final sting reveals he's emotionally unfaithful, pushing her to finally trust her instincts and walk away.</desc>
@@ -856,16 +922,6 @@
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1963838506_0_20250923T013539311Z_93_imageprocessorclient-tvplus-linear-d7c8c765b-t9c8d.jpeg" />
     <rating>
       <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme channel="US1900013Z7" start="20261116050300 +0000" stop="20261116055100 +0000">
-    <title>Wildfire</title>
-    <sub-title>Nothing Takes the Past Away Like the Future</sub-title>
-    <desc>Pablo's past ties to a crime syndicate catch up with him  Ken threatens to reveal the truth about Isabelle's finances  Matt agrees to work for Dani as a full-time trainer.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2296525659_0_20251217T201344054Z_103_imageprocessorclient-tvplus-linear-584c967455-k8fnw.jpeg" />
-    <rating>
-      <value>TV-14</value>
     </rating>
   </programme>
 <programme channel="US1900013Z7" start="20261116055100 +0000" stop="20261116064100 +0000">
@@ -991,7 +1047,7 @@
 <programme channel="USBB3500002FL" start="20261116054500 +0000" stop="20261116064500 +0000">
     <title>Runners</title>
     <desc>MacGyver fights to save a young runaway from a life of drug addiction and prostitution.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Classic TV</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352135A_2908068573_21_20260511T182112207Z_116_imageprocessorclient-tvplus-linear-796646965d-c9w4p.jpeg" />
     <rating>
       <value>TV-PG</value>
@@ -1000,7 +1056,7 @@
 <programme channel="USBB3500002FL" start="20261116064500 +0000" stop="20261116074500 +0000">
     <title>Gold Rush</title>
     <desc>MacGyver s quest to find buried Russian gold leads him through a maze of harrowing traps.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Classic TV</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352135A_2908068024_22_20260511T182112210Z_51_imageprocessorclient-tvplus-linear-796646965d-96ghk.jpeg" />
     <rating>
       <value>TV-PG</value>
@@ -1009,7 +1065,7 @@
 <programme channel="USBB3500002FL" start="20261116074500 +0000" stop="20261116084500 +0000">
     <title>The Invisible Killer</title>
     <desc>MacGyver's mountain retreat group is infiltrated by a couple of murderous escaped convicts.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Classic TV</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352135A_2908075229_41_20260511T182113068Z_49_imageprocessorclient-tvplus-linear-796646965d-md84g.jpeg" />
     <rating>
       <value>TV-PG</value>
@@ -1018,7 +1074,7 @@
 <programme channel="USBB3500002FL" start="20261116084500 +0000" stop="20261116094500 +0000">
     <title>FM Murder</title>
     <desc>Mark investigates a perky morning television personality for the murder of a Howard Stern-like radio host.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Classic TV</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352135A_549242410_0_20241016T112628941Z_92_imageprocessorclient-tvplus-linear-5dc4fd45f6-86bnr.jpeg" />
     <rating>
       <value>TV-PG</value>
@@ -1027,7 +1083,7 @@
 <programme channel="USBB3500002FL" start="20261116094500 +0000" stop="20261116104500 +0000">
     <title>Left-Handed Murder</title>
     <desc>Dr. Sloan is the executor of his friend, Preston Michael's, estate after Michaels is found in the body of a shark.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Classic TV</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352135A_549242412_0_20241016T112628940Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-86bnr.jpeg" />
     <rating>
       <value>TV-PG</value>
@@ -1231,16 +1287,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme channel="USBB36000040M" start="20261116050258 +0000" stop="20261116055441 +0000">
-    <title>Targeted for Murder</title>
-    <sub-title>Two Keys to Murder</sub-title>
-    <desc>A millionaire is shot six times in his own kitchen. When the investigation uncovers a sordid story of love affairs and stolen money, authorities think they're closing in on the killer. But a lack of evidence causes the case to go stone cold for 14 years.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2091552188_0_20251029T014539434Z_67_imageprocessorclient-tvplus-linear-76c46fff7-vw7dq.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme channel="USBB36000040M" start="20261116055441 +0000" stop="20261116065225 +0000">
     <title>Killers: Caught on Camera</title>
     <sub-title>Libby Squire and Heather Frank/Scott Sessions</sub-title>
@@ -1341,15 +1387,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme channel="USAK3508703A" start="20261116050000 +0000" stop="20261116055243 +0000">
-    <title>Alaska State Troopers</title>
-    <desc>The Troopers face rising criminal behavior as spring beckons.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2882189966_0_20260505T200526203Z_1_imageprocessorclient-tvplus-linear-796646965d-b4fnr.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme channel="USAK3508703A" start="20261116055243 +0000" stop="20261116064617 +0000">
     <title>Alaska State Troopers</title>
     <desc>Danger is on the rise as flooding takes over south-central Alaska.</desc>
@@ -1444,16 +1481,6 @@
     <desc>Public intoxication, swatting incident, and K9 deployed.</desc>
     <category lang="en">True Crime</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3607367299_0_20261012T154720761Z_49_imageprocessorclient-tvplus-linear-6b56cc9f55-wrt8j.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="USBD1700008H9" start="20261116050000 +0000" stop="20261116055050 +0000">
-    <title>I Survived...</title>
-    <sub-title>Tanya, Andy and Denise</sub-title>
-    <desc>A teenage girl is seduced by a man and brainwashed.</desc>
-    <category lang="en">Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_836743265_1_20250212T052214899Z_63_imageprocessorclient-tvplus-linear-b76dd9bbb-5jlst.jpeg" />
     <rating>
       <value>TV-14</value>
     </rating>
@@ -1578,16 +1605,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme channel="US2001109K" start="20261116053038 +0000" stop="20261116055450 +0000">
-    <title>Killer Mysteries</title>
-    <sub-title>The Inmate Murderer</sub-title>
-    <desc>He is called the most violent prisoner in Britain. While incarcerated, he's attacked over 20 prison guards and countless prisoners, and taken 11 hostages.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2395387559_0_20260109T045742351Z_57_imageprocessorclient-tvplus-linear-584c967455-p9wk7.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme channel="US2001109K" start="20261116055450 +0000" stop="20261116061902 +0000">
     <title>Killer Mysteries</title>
     <sub-title>The Minister Murderer</sub-title>
@@ -1698,76 +1715,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme channel="USBC1000002NP" start="20261116050856 +0000" stop="20261116055821 +0000">
-    <title>World's Most Evil Killers</title>
-    <sub-title>Pawel Tuchlin</sub-title>
-    <desc>In and around Gdansk, Poland from 1975 to 1983, Pawell Tuchlin attacked twenty women with a hammer. He brutally killed nine and sexually assaulted them all.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550791291_20_20241113T060450720Z_119_imageprocessorclient-tvplus-linear-5dc4fd45f6-prfs6.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="USBC1000002NP" start="20261116055821 +0000" stop="20261116065115 +0000">
-    <title>World's Most Evil Killers</title>
-    <sub-title>Robert Berdella - KCB</sub-title>
-    <desc>Robert Berdella was an American serial killer, known as The Kansas City Butcher, who was responsible for drugging, raping, torturing and murdering six young men.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550791291_20_20241113T060450720Z_119_imageprocessorclient-tvplus-linear-5dc4fd45f6-prfs6.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="USBC1000002NP" start="20261116065115 +0000" stop="20261116074251 +0000">
-    <title>World's Most Evil Killers</title>
-    <sub-title>Stephen Seddon</sub-title>
-    <desc>45-year-old Stephen attempted to kill his parents and nephew in a car crash. After the plan failed, the ruthless killer mercilessly executed his elderly parents with a shot gun.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550791291_20_20241113T060450720Z_119_imageprocessorclient-tvplus-linear-5dc4fd45f6-prfs6.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="USBC1000002NP" start="20261116074251 +0000" stop="20261116083730 +0000">
-    <title>World's Most Evil Killers</title>
-    <sub-title>Eric Locke</sub-title>
-    <desc>Dublin man Eric Locke refused to accept it when Sonia Blount, a mother of one, ended their relationship.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550791291_20_20241113T060450720Z_119_imageprocessorclient-tvplus-linear-5dc4fd45f6-prfs6.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="USBC1000002NP" start="20261116083730 +0000" stop="20261116092852 +0000">
-    <title>World's Most Evil Killers</title>
-    <sub-title>Paul Michael Stephani</sub-title>
-    <desc>Paul Michael Stephani became etched into the minds of all who knew him as the notorious, weepy-voiced killer.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550791291_20_20241113T060450720Z_119_imageprocessorclient-tvplus-linear-5dc4fd45f6-prfs6.jpeg" />
-    <rating>
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-<programme channel="USBC1000002NP" start="20261116092852 +0000" stop="20261116102036 +0000">
-    <title>World's Most Evil Killers</title>
-    <sub-title>Sunset Strip Killers</sub-title>
-    <desc>Douglas Clark and Carol Bundy were a deadly duo who terrorised the streets of Los Angeles in the summer of 1980, targeting vulnerable women, teenagers and even a child.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550791291_20_20241113T060450720Z_119_imageprocessorclient-tvplus-linear-5dc4fd45f6-prfs6.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="USBD42000073E" start="20261116050000 +0000" stop="20261116055343 +0000">
-    <title>60 Days In</title>
-    <sub-title>Where Are They Now?</sub-title>
-    <desc>The seven participants return to their everyday lives with new perspectives.</desc>
-    <category lang="en">Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3223620141_0_20260721T192403730Z_65_imageprocessorclient-tvplus-linear-9468c5484-2n2hv.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme channel="USBD42000073E" start="20261116055343 +0000" stop="20261116073834 +0000">
     <title>60 Days In</title>
     <sub-title>The Beginning of the End</sub-title>
@@ -1794,16 +1741,6 @@
     <desc>In I-Pod, Jaclin begins to alienate the officers.</desc>
     <category lang="en">Crime</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3223620141_0_20260721T192403730Z_65_imageprocessorclient-tvplus-linear-9468c5484-2n2hv.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="US700010XK" start="20261116052747 +0000" stop="20261116055512 +0000">
-    <title>Court Cam: Court Cam</title>
-    <sub-title>518</sub-title>
-    <desc>An armed robbery suspect escapes from the courthouse  and more.</desc>
-    <category lang="en">Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3222789876_0_20260721T154059758Z_27_imageprocessorclient-tvplus-linear-9468c5484-4j58d.jpeg" />
     <rating>
       <value>TV-14</value>
     </rating>
@@ -1948,16 +1885,6 @@
       <value>NA</value>
     </rating>
   </programme>
-<programme channel="USBB3200017MY" start="20261116052605 +0000" stop="20261116055423 +0000">
-    <title>Forensic Files</title>
-    <sub-title>A Novel Idea</sub-title>
-    <desc>When the number of bloodstains at a scene were abnormal, it was up to forensic scientists to find out why.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3704403386_0_20261102T020739969Z_94_imageprocessorclient-tvplus-linear-6b56cc9f55-fngwt.jpeg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
 <programme channel="USBB3200017MY" start="20261116055423 +0000" stop="20261116062241 +0000">
     <title>Forensic Files</title>
     <sub-title>Chief Suspect</sub-title>
@@ -2056,15 +1983,6 @@
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3704393733_22_20261102T020742103Z_67_imageprocessorclient-tvplus-linear-6b56cc9f55-6lw45.jpeg" />
     <rating>
       <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme channel="US37000036P" start="20261116051850 +0000" stop="20261116055011 +0000">
-    <title>Takedown With Chris Hansen</title>
-    <desc>Chris meets Taylor face-to-face during a Livingston Parish sting operation.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2869608982_3_20260502T233713615Z_44_imageprocessorclient-tvplus-linear-796646965d-96ghk.jpeg" />
-    <rating>
-      <value>TV-14</value>
     </rating>
   </programme>
 <programme channel="US37000036P" start="20261116055011 +0000" stop="20261116060811 +0000">
@@ -2582,7 +2500,7 @@
 <programme channel="USBA300019WF" start="20261116053000 +0000" stop="20261116060000 +0000">
     <title>When Holly Broke Kevin</title>
     <desc>Phil (Donald Faison) is nervous when Holly (Kristen Johnston) starts dating his top client - basketball player Kevin Tyler (Amar'e Stoudemire).  Haskell (Wayne Knight) lures Stuart (David Alan Basche) into the world of sports betting.</desc>
-    <category lang="en">Comedy</category>
+    <category lang="en">Classic TV</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352135A_600354652_0_20241226T225354894Z_128_imageprocessorclient-tvplus-linear-5dc4fd45f6-zsqxt.jpeg" />
     <rating>
       <value>TV-PG</value>
@@ -2591,7 +2509,7 @@
 <programme channel="USBA300019WF" start="20261116060000 +0000" stop="20261116063000 +0000">
     <title>Keepin' It Real</title>
     <desc>Mo is attracted to a classmate she is working with on a project.</desc>
-    <category lang="en">Comedy</category>
+    <category lang="en">Classic TV</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352135A_535831888_0_20231203T234037982Z_38.jpeg" />
     <rating>
       <value>TV-14</value>
@@ -2600,7 +2518,7 @@
 <programme channel="USBA300019WF" start="20261116063000 +0000" stop="20261116070000 +0000">
     <title>Halloween Part 1 – Kim's Revenge</title>
     <desc>Mo, Kim and Niecy decide to dress as “The Women of Batman” for Halloween.</desc>
-    <category lang="en">Comedy</category>
+    <category lang="en">Classic TV</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352135A_535831890_0_20231203T234034801Z_28.jpeg" />
     <rating>
       <value>TV-14</value>
@@ -2609,7 +2527,7 @@
 <programme channel="USBA300019WF" start="20261116070000 +0000" stop="20261116073000 +0000">
     <title>Rhythm Dues</title>
     <desc>Mo encourages CPQ to submit their latest song to the local radio station for their “play it or stuff it” segment. When the song is played, it is well received.  Q has written lyrics over a Morris Day song, and Morris shows up at “The Hole” where Q is performing, to read him the riot act.  Ultimately, CPQ and Morris perform together.</desc>
-    <category lang="en">Comedy</category>
+    <category lang="en">Classic TV</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352135A_536108501_0_20231211T174311882Z_80.jpeg" />
     <rating>
       <value>TV-14</value>
@@ -2618,7 +2536,7 @@
 <programme channel="USBA300019WF" start="20261116073000 +0000" stop="20261116080000 +0000">
     <title>Break It Down</title>
     <desc>Frank takes Hakeem to the father/son “lock-in” at the local church, to encourage open communication and trust between fathers and sons.</desc>
-    <category lang="en">Comedy</category>
+    <category lang="en">Classic TV</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352135A_535840897_0_20231204T054115941Z_110.jpeg" />
     <rating>
       <value>TV-14</value>
@@ -2627,7 +2545,7 @@
 <programme channel="USBA300019WF" start="20261116080000 +0000" stop="20261116083000 +0000">
     <title>Friends</title>
     <desc>The meaning of Moesha's and Kim's friendship is tested when they both try out for the cheerleading team -- and Kim gets picked, and Moesha doesn't.</desc>
-    <category lang="en">Comedy</category>
+    <category lang="en">Classic TV</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352135A_534457937_0_20231029T112115501Z_67.jpeg" />
     <rating>
       <value>TV-14</value>
@@ -2636,7 +2554,7 @@
 <programme channel="USBA300019WF" start="20261116083000 +0000" stop="20261116090000 +0000">
     <title>Sixteen</title>
     <desc>Moesha is now officially allowed to date because she is turning sixteen, although Frank remains extremely reluctant.</desc>
-    <category lang="en">Comedy</category>
+    <category lang="en">Classic TV</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352135A_534499275_0_20231030T225616969Z_1.jpeg" />
     <rating>
       <value>TV-14</value>
@@ -2645,7 +2563,7 @@
 <programme channel="USBA300019WF" start="20261116090000 +0000" stop="20261116093000 +0000">
     <title>Hakeem Owes Moesha Big</title>
     <desc>Moesha and her father coach Hakeem on how to get a job.  As a result, the owner of a sporting goods store (Bo Jackson) hires him.</desc>
-    <category lang="en">Comedy</category>
+    <category lang="en">Classic TV</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352135A_534457941_0_20231029T112115500Z_104.jpeg" />
     <rating>
       <value>TV-14</value>
@@ -2654,7 +2572,7 @@
 <programme channel="USBA300019WF" start="20261116093000 +0000" stop="20261116100000 +0000">
     <title>Million Boy March</title>
     <desc>Moesha and Kim attend a church youth group designed to build leadership, but they experience resistance from the leader of the event because they are female.</desc>
-    <category lang="en">Comedy</category>
+    <category lang="en">Classic TV</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352135A_534504257_0_20231031T045432486Z_116.jpeg" />
     <rating>
       <value>TV-14</value>
@@ -2663,20 +2581,10 @@
 <programme channel="USBA300019WF" start="20261116100000 +0000" stop="20261116103000 +0000">
     <title>Ladies in Waiting</title>
     <desc>To beef up her college application, Tamera secretly rejoins her girlhood scout troop, the Frontier Girls, to complete her unfinished badge program.</desc>
-    <category lang="en">Comedy</category>
+    <category lang="en">Classic TV</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352135A_537036288_0_20240108T234443819Z_83.jpeg" />
     <rating>
       <value>TV-G</value>
-    </rating>
-  </programme>
-<programme channel="USBC4400004KK" start="20261116052700 +0000" stop="20261116055500 +0000">
-    <title>Just for Laughs: Gags</title>
-    <sub-title>Massage in the dark</sub-title>
-    <desc>A blind massage, jealous cops, limbo day at the mall, and many more hidden camera pranks.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1925397671_0_20250911T151415672Z_66_imageprocessorclient-tvplus-linear-d7c8c765b-ktlvd.jpeg" />
-    <rating>
-      <value>TV-14</value>
     </rating>
   </programme>
 <programme channel="USBC4400004KK" start="20261116055500 +0000" stop="20261116062200 +0000">
@@ -2927,6 +2835,33 @@
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352137A_549530295_12_20241021T223541241Z_24_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
     <rating>
       <value>TV-14</value>
+    </rating>
+  </programme>
+<programme channel="US4600011ZJ" start="20261116054120 +0000" stop="20261116072658 +0000">
+    <title>Miss Me This Christmas</title>
+    <desc>Regina and Franklin Young, once the toast of the music industry, wed on Christmas at Chesterton Hotel.</desc>
+    <category lang="en">Movies</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3679860305_5_20261028T021003198Z_71_imageprocessorclient-tvplus-linear-6b56cc9f55-7fbs8.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="US4600011ZJ" start="20261116072658 +0000" stop="20261116090802 +0000">
+    <title>Christmas Swap</title>
+    <desc>A single father questions his decision to give up his dreams to take care of his sick mother.</desc>
+    <category lang="en">Movies</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3679906614_1_20261028T021004381Z_99_imageprocessorclient-tvplus-linear-6b56cc9f55-25wbc.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="US4600011ZJ" start="20261116090802 +0000" stop="20261116105044 +0000">
+    <title>A Christmas Prayer</title>
+    <desc>A former alcoholic and now respected leader of the local church gets accused of a heinous crime.</desc>
+    <category lang="en">Movies</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3679957721_2_20261028T021006779Z_24_imageprocessorclient-tvplus-linear-6b56cc9f55-fngwt.jpeg" />
+    <rating>
+      <value>TV-PG</value>
     </rating>
   </programme>
 <programme channel="USAJ17000014C" start="20261116054208 +0000" stop="20261116072859 +0000">
