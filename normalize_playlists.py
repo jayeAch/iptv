@@ -1258,6 +1258,7 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
     ('Soap Operas', _words("""
         soaps
         soap opera
+        eastenders
         soap operas
         daytime soaps
         primetime soaps
