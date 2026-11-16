@@ -487,7 +487,9 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     """),
     'Crime': _words("""
         cagney & lacey
+        the practice
         columbo
+        prime suspect
         crime thrillher
         pluto tv crime thrillers
         pluto tv crime drama
@@ -688,6 +690,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         kids
         kidz
         totally turtles
+        pluto tv ungdomsserier
         icarly
         smurfarna
         smurfene
@@ -780,6 +783,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         4fangs
         canela.tv
         novelas
+        runtime español
         novelisima
         freetv
         cine de oro
@@ -883,6 +887,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     # group. (Nature is in category_exclude_list.py, so these are dropped from output.)
     'Nature': _words("""
         pbs nature
+        terra mater wild
         go wild
         brave wilderness
         dog whisperer
@@ -971,11 +976,16 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     # Life Below Zero, American Ninja Warrior). Bare 'survivor' is a NAME_OVERRIDE.
     'Reality TV': _words("""
         reality
+        the osbournes
+        supernanny
         bad girls club
         grind hard plumbing co
         extreme living
+        pluto tv urbex
         car chase
         extreme jobs
+        tiny house nation
+        the therapy couch
         reality tv
         wicked tuna
         deal masters
@@ -1096,6 +1106,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     # land in their genre.
     'Sci-Fi': _words("""
         the asylum
+        the twilight zone
         mutant x
         beyond belief
         farscape
