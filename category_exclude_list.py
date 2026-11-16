@@ -7,6 +7,7 @@ CATEGORY_EXCLUDE_LIST = [
     "Supernatural Drama",
     "Documentaries",
     "Game Shows",
+    "History",
     "Science",
     "Music",
     "Shopping",
