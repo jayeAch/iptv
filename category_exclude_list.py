@@ -5,6 +5,8 @@
 CATEGORY_EXCLUDE_LIST = [
     "Science",
     "Music",
+    "Shopping",
+    "Anime & Gaming",
     "LGB",
     "Romance",
     "Christmas",
