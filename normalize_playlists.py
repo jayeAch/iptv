@@ -614,14 +614,6 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     # Game shows. Sits above Reality TV so these no longer land there. After Sports/
     # Outdoors so 'American Ninja Warrior' stays Sports.
     'Game Shows': _words("""
-        game show
-        game shows
-        gameshow
-        gameshows
-        gameshow tv
-        game show network
-        game show central
-        game show marathon
         classic game shows
         pluto tv game shows
         gsn
