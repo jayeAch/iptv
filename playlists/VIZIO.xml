@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+<channel id="vizio.FEATURED1">
+    <display-name>Military Heroes</display-name>
+    <icon src="https://images.vizio.com/v4/btv/1/1693949193/1/267/150/0.jpg"/>
+  </channel>
 <channel id="vizio.FEATURED3">
     <display-name>Whose Line Is It Anyway?</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/1736245951/1/267/150/0.jpg"/>
@@ -71,26 +75,6 @@
 <channel id="vizio.93TCBSH">
     <display-name>The Carol Burnett Show</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/1646848034/1/267/150/0.jpg"/>
-  </channel>
-<channel id="vizio.96Station_88885592">
-    <display-name>Family Feud</display-name>
-    <icon src="https://images.vizio.com/v4/btv/1/1736164538/1/267/150/0.jpg"/>
-  </channel>
-<channel id="vizio.93TPRDS">
-    <display-name>The Price is Right: Drew Carey</display-name>
-    <icon src="https://images.vizio.com/v4/btv/1/1736164437/1/267/150/0.jpg"/>
-  </channel>
-<channel id="vizio.149station_1647">
-    <display-name>America Says</display-name>
-    <icon src="https://images.vizio.com/v4/btv/1/1736246209/1/267/150/0.jpg"/>
-  </channel>
-<channel id="vizio.149station_1668">
-    <display-name>Baggage</display-name>
-    <icon src="https://images.vizio.com/v4/btv/1/1736246196/1/267/150/0.jpg"/>
-  </channel>
-<channel id="vizio.98wurl_bbc_studios_bargainhunt_1">
-    <display-name>Bargain Hunt</display-name>
-    <icon src="https://images.vizio.com/v4/btv/1/1736246223/1/267/150/0.jpg"/>
   </channel>
 <channel id="vizio.93AMG00376C30ENG">
     <display-name>Shockwave</display-name>
@@ -164,17 +148,9 @@
     <display-name>Antiques Roadshow UK</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/1736244652/1/267/150/0.jpg"/>
   </channel>
-<channel id="vizio.93143">
-    <display-name>The Repair Shop</display-name>
-    <icon src="https://images.vizio.com/v4/btv/1/1735730155/1/267/150/0.jpg"/>
-  </channel>
-<channel id="vizio.98wurl_ae_networks_historysmysteries_1">
-    <display-name>History's Mysteries</display-name>
-    <icon src="https://images.vizio.com/v4/btv/1/7045075434353501654/1/267/150/0.jpg"/>
-  </channel>
-<channel id="vizio.93PBSGY">
-    <display-name>PBS Genealogy</display-name>
-    <icon src="https://images.vizio.com/v4/btv/1/1736174784/1/267/150/0.jpg"/>
+<channel id="vizio.93amg00136c50">
+    <display-name>History Untold</display-name>
+    <icon src="https://images.vizio.com/v4/btv/1/1736245945/1/267/150/0.jpg"/>
   </channel>
 <programme start="20261116000211 +0000" stop="20261116024246 +0000" channel="vizio.149station_1287">
     <title lang="en">On Patrol: Live</title>
@@ -196,116 +172,6 @@
     <episode-num system="xmltv_ns">0.34.</episode-num>
     <rating>
       <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261116000409 +0000" stop="20261116002853 +0000" channel="vizio.149station_1647">
-    <title lang="en">America Says</title>
-    <desc lang="en">John Michael Higgins hosts as two teams of friends and family race against a clock to guess how America filled in the blanks on a series of survey questions covering every topic under the sun.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205091742998,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E507</episode-num>
-    <episode-num system="xmltv_ns">0.506.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261116002853 +0000" stop="20261116005422 +0000" channel="vizio.149station_1647">
-    <title lang="en">America Says</title>
-    <desc lang="en">Two teams of friends and family race against a clock to guess how America filled in the blanks on a series of survey questions covering every topic under the sun. John Michael Higgins hosts.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205091743018,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E508</episode-num>
-    <episode-num system="xmltv_ns">0.507.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261116005422 +0000" stop="20261116011906 +0000" channel="vizio.149station_1647">
-    <title lang="en">America Says</title>
-    <desc lang="en">John Michael Higgins hosts as two teams of friends and family race against a clock to guess how America filled in the blanks on a series of survey questions covering every topic under the sun.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205091744939,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E509</episode-num>
-    <episode-num system="xmltv_ns">0.508.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261116011906 +0000" stop="20261116014436 +0000" channel="vizio.149station_1647">
-    <title lang="en">America Says</title>
-    <desc lang="en">Two teams guess how America filled in the blanks on survey questions. John Michael Higgins hosts.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205091744935,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E510</episode-num>
-    <episode-num system="xmltv_ns">0.509.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261116014436 +0000" stop="20261116020920 +0000" channel="vizio.149station_1647">
-    <title lang="en">America Says</title>
-    <desc lang="en">John Michael Higgins hosts as two teams of friends and family race against a clock to guess how America filled in the blanks on a series of survey questions covering every topic under the sun.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205091742993,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E511</episode-num>
-    <episode-num system="xmltv_ns">0.510.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261116020920 +0000" stop="20261116023450 +0000" channel="vizio.149station_1647">
-    <title lang="en">America Says</title>
-    <desc lang="en">Two teams of friends and family race against a clock to guess how America filled in the blanks on a series of survey questions covering every topic under the sun. John Michael Higgins hosts.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205091742763,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E512</episode-num>
-    <episode-num system="xmltv_ns">0.511.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261116023450 +0000" stop="20261116025935 +0000" channel="vizio.149station_1647">
-    <title lang="en">America Says</title>
-    <desc lang="en">John Michael Higgins hosts as two teams of friends and family race against a clock to guess how America filled in the blanks on a series of survey questions covering every topic under the sun.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205091744891,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E513</episode-num>
-    <episode-num system="xmltv_ns">0.512.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261116025935 +0000" stop="20261116032503 +0000" channel="vizio.149station_1647">
-    <title lang="en">America Says</title>
-    <desc lang="en">Two teams of friends and family race against a clock to guess how America filled in the blanks on a series of survey questions covering every topic under the sun. John Michael Higgins hosts.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205091744940,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E514</episode-num>
-    <episode-num system="xmltv_ns">0.513.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261116032503 +0000" stop="20261116034947 +0000" channel="vizio.149station_1647">
-    <title lang="en">America Says</title>
-    <desc lang="en">John Michael Higgins hosts as two teams of friends and family race against a clock to guess how America filled in the blanks on a series of survey questions covering every topic under the sun.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205091742753,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E515</episode-num>
-    <episode-num system="xmltv_ns">0.514.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261116034947 +0000" stop="20261116041431 +0000" channel="vizio.149station_1647">
-    <title lang="en">America Says</title>
-    <desc lang="en">John Michael Higgins hosts as two teams of friends and family race against a clock to guess how America filled in the blanks on a series of survey questions covering every topic under the sun.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205091744887,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E516</episode-num>
-    <episode-num system="xmltv_ns">0.515.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261116000000 +0000" stop="20261116003000 +0000" channel="vizio.149station_1648">
-    <title lang="en">Diff'rent Strokes</title>
-    <desc lang="en">Arnold's feature story about his high school football team threatens to turn into a controversial exposé.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205171442096,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S08E819</episode-num>
-    <episode-num system="xmltv_ns">7.818.</episode-num>
-    <rating>
-      <value>TV-PG</value>
     </rating>
   </programme>
 <programme start="20261116003000 +0000" stop="20261116010000 +0000" channel="vizio.149station_1648">
@@ -446,162 +312,6 @@
     <episode-num system="xmltv_ns">4.517.</episode-num>
     <rating>
       <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261116002308 +0000" stop="20261116004907 +0000" channel="vizio.149station_1668">
-    <title lang="en">Baggage</title>
-    <desc lang="en">Jerry Springer hosts as daters decide how much emotional “baggage” they will put up with to find love. Today, a dater must choose between women whose baggage includes spooning with her dog every night and laughing like a dolphin.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205142043027,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261116004907 +0000" stop="20261116011507 +0000" channel="vizio.149station_1668">
-    <title lang="en">Baggage</title>
-    <desc lang="en">Jerry Springer hosts as daters decide how much emotional “baggage” they are willing to put up with when finding love. Today, a dater must choose between men whose baggage includes peeing in his sink and being unable to get a credit card.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205142043041,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261116011507 +0000" stop="20261116014106 +0000" channel="vizio.149station_1668">
-    <title lang="en">Baggage</title>
-    <desc lang="en">Jerry Springer hosts as daters decide how much emotional “baggage” will put up with to find love. Today, a dater must choose between women whose baggage includes stuffing her bra, practicing witchcraft, and sleeping with her 7 dogs.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205142043028,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261116014106 +0000" stop="20261116020706 +0000" channel="vizio.149station_1668">
-    <title lang="en">Baggage</title>
-    <desc lang="en">Jerry Springer hosts as daters decide how much emotional “baggage” they will put up with when finding love. Today, a dater must choose between women whose baggage includes drinking until she passes out and hacking into her man's e-mails.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205142043020,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <episode-num system="xmltv_ns">0.6.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261116020706 +0000" stop="20261116023306 +0000" channel="vizio.149station_1668">
-    <title lang="en">Baggage</title>
-    <desc lang="en">Jerry Springer hosts as daters decide how much emotional “baggage” they are willing to put up with to find love. Today, a dater must choose between women whose baggage includes not wearing deodorant and vacuuming the house 3 times a day.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205142043503,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261116023306 +0000" stop="20261116025906 +0000" channel="vizio.149station_1668">
-    <title lang="en">Baggage</title>
-    <desc lang="en">Jerry Springer hosts as daters decide how much emotional “baggage” they will put up with when finding love. Today, a dater must choose between women whose baggage includes working 80 hours a week and partying at clubs every night.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205142043057,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E09</episode-num>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261116025906 +0000" stop="20261116032505 +0000" channel="vizio.149station_1668">
-    <title lang="en">Baggage</title>
-    <desc lang="en">Jerry Springer hosts as daters decide how much emotional “baggage” they are willing to put up with when finding love. Today, a dater must choose between men whose baggage includes sleeping with his eyes open and talking during movies.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205142043044,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <episode-num system="xmltv_ns">0.9.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261116032505 +0000" stop="20261116035103 +0000" channel="vizio.149station_1668">
-    <title lang="en">Baggage</title>
-    <desc lang="en">Jerry Springer hosts as daters decide how much emotional “baggage” they are willing to put up with to find love. Today, a dater must choose between women whose baggage includes refusing to french kiss and being a nude Internet model.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205142043049,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E11</episode-num>
-    <episode-num system="xmltv_ns">0.10.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261116035103 +0000" stop="20261116041703 +0000" channel="vizio.149station_1668">
-    <title lang="en">Baggage</title>
-    <desc lang="en">Jerry Springer hosts as daters decide how much emotional “baggage” they are willing to put up with when finding love. Today, a dater must choose between men whose baggage includes golfing 5 days a week and being a high school dropout.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205142043047,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E12</episode-num>
-    <episode-num system="xmltv_ns">0.11.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261115235025 +0000" stop="20261116004218 +0000" channel="vizio.93143">
-    <title lang="en">The Repair Shop</title>
-    <sub-title lang="en">Episode 3</sub-title>
-    <desc lang="en">Team restore chandelier,, and a toy plane tied to Iraq childhood.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%203635233451,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S05E23</episode-num>
-    <episode-num system="xmltv_ns">4.22.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261116004218 +0000" stop="20261116013412 +0000" channel="vizio.93143">
-    <title lang="en">The Repair Shop</title>
-    <sub-title lang="en">Episode 4</sub-title>
-    <desc lang="en">Amanda and Julie fix fire‑damaged toy dog; team mend mixer and belt buckle.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%202963219960,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S05E24</episode-num>
-    <episode-num system="xmltv_ns">4.23.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261116013412 +0000" stop="20261116022406 +0000" channel="vizio.93143">
-    <title lang="en">The Repair Shop</title>
-    <sub-title lang="en">Episode 5</sub-title>
-    <desc lang="en">Louise restores 1993 portrait; Steve repairs a treasured tin plate rocket.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%202963219960,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S05E24</episode-num>
-    <episode-num system="xmltv_ns">4.23.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261116022406 +0000" stop="20261116031346 +0000" channel="vizio.93143">
-    <title lang="en">The Repair Shop</title>
-    <sub-title lang="en">Episode 6</sub-title>
-    <desc lang="en">Will and Sonnaz save a fragile chair; Suzie restores a fireman’s hat.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%203638372410,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S05E45</episode-num>
-    <episode-num system="xmltv_ns">4.44.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261116031346 +0000" stop="20261116040334 +0000" channel="vizio.93143">
-    <title lang="en">The Repair Shop</title>
-    <sub-title lang="en">Episode 7</sub-title>
-    <desc lang="en">Brenton restores Kodak camera; Kirsty rebuilds marble platter.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%203638372409,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S05E47</episode-num>
-    <episode-num system="xmltv_ns">4.46.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261116040334 +0000" stop="20261116045328 +0000" channel="vizio.93143">
-    <title lang="en">The Repair Shop</title>
-    <sub-title lang="en">Episode 8</sub-title>
-    <desc lang="en">Will repairs matchstick ship; Sonnaz and Dominic restore vintage chair.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%203638372405,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S05E48</episode-num>
-    <episode-num system="xmltv_ns">4.47.</episode-num>
-    <rating>
-      <value>TV-PG</value>
     </rating>
   </programme>
 <programme start="20261116000151 +0000" stop="20261116005609 +0000" channel="vizio.93AMG00376C30ENG">
@@ -745,17 +455,6 @@
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205182777934,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
       <value>UR</value>
-    </rating>
-  </programme>
-<programme start="20261115233746 +0000" stop="20261116002818 +0000" channel="vizio.93DARKS">
-    <title lang="en">Dark Side of Comedy</title>
-    <sub-title lang="en">Ellen DeGeneres</sub-title>
-    <desc lang="en">Queer icon.Talk show legend. Backstage tyrant? Ellen's complicated legacy.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205161877680,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E09</episode-num>
-    <episode-num system="xmltv_ns">1.8.</episode-num>
-    <rating>
-      <value>TV-14</value>
     </rating>
   </programme>
 <programme start="20261116002818 +0000" stop="20261116005509 +0000" channel="vizio.93DARKS">
@@ -903,62 +602,6 @@
       <value>NR (NOT RATED)</value>
     </rating>
   </programme>
-<programme start="20261115235636 +0000" stop="20261116004914 +0000" channel="vizio.93PBSGY">
-    <title lang="en">Long Lost Family (UK)</title>
-    <sub-title lang="en">Episode 1</sub-title>
-    <desc lang="en">This episode features two stories of babies given up for adoption by their mothers.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205195869735,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261116004914 +0000" stop="20261116014237 +0000" channel="vizio.93PBSGY">
-    <title lang="en">Long Lost Family (UK)</title>
-    <sub-title lang="en">Episode 2</sub-title>
-    <desc lang="en">A woman desperate for a second chance and a sister searching for her brother.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205195869707,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261116014237 +0000" stop="20261116023415 +0000" channel="vizio.93PBSGY">
-    <title lang="en">Long Lost Family (UK)</title>
-    <sub-title lang="en">Episode 3</sub-title>
-    <desc lang="en">Peter Arundel and Maureen Saville are both searching for their birth mothers.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205195869751,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261116023415 +0000" stop="20261116032854 +0000" channel="vizio.93PBSGY">
-    <title lang="en">Long Lost Family (UK)</title>
-    <sub-title lang="en">Episode 4</sub-title>
-    <desc lang="en">A woman desperate to find her sister and a daughter longing to be united with her father.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205195869763,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261116032854 +0000" stop="20261116042035 +0000" channel="vizio.93PBSGY">
-    <title lang="en">Long Lost Family (UK)</title>
-    <sub-title lang="en">Episode 5</sub-title>
-    <desc lang="en">A woman seeks her natural mother and a son’s desperate search for his father.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205195869771,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261115235901 +0000" stop="20261116002847 +0000" channel="vizio.93TCBSH">
-    <title lang="en">The Carol Burnett Show</title>
-    <sub-title lang="en">Larry Hovis, Barrie Chase</sub-title>
-    <desc lang="en">Barrie Chase and Larry Hovis guest star! Chase provides a musical number, and Hovis plays "The Marriage Game."</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205192392805,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E25</episode-num>
-    <episode-num system="xmltv_ns">1.24.</episode-num>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
 <programme start="20261116002847 +0000" stop="20261116010129 +0000" channel="vizio.93TCBSH">
     <title lang="en">The Carol Burnett Show</title>
     <sub-title lang="en">Ethel Merman, Tim Conway</sub-title>
@@ -1014,61 +657,6 @@
       <value>TV-G</value>
     </rating>
   </programme>
-<programme start="20261116001733 +0000" stop="20261116010610 +0000" channel="vizio.93TPRDS">
-    <title lang="en">The Price Is Right</title>
-    <sub-title lang="en">Episode 5634</sub-title>
-    <desc lang="en">Television's longest-running game show, featuring host Drew Carey, where audience members try to win cash and prizes.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205165465615,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S40E5634</episode-num>
-    <episode-num system="xmltv_ns">39.5633.</episode-num>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
-<programme start="20261116010610 +0000" stop="20261116015217 +0000" channel="vizio.93TPRDS">
-    <title lang="en">The Price Is Right</title>
-    <sub-title lang="en">Episode 5635</sub-title>
-    <desc lang="en">Television's longest-running game show, featuring host Drew Carey, where audience members try to win cash and prizes.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205165465602,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S40E5635</episode-num>
-    <episode-num system="xmltv_ns">39.5634.</episode-num>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
-<programme start="20261116015217 +0000" stop="20261116023853 +0000" channel="vizio.93TPRDS">
-    <title lang="en">The Price Is Right</title>
-    <sub-title lang="en">Episode 5641</sub-title>
-    <desc lang="en">Television's longest-running game show, featuring host Drew Carey, where audience members try to win cash and prizes.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205165465563,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S40E5641</episode-num>
-    <episode-num system="xmltv_ns">39.5640.</episode-num>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
-<programme start="20261116023853 +0000" stop="20261116032155 +0000" channel="vizio.93TPRDS">
-    <title lang="en">The Price Is Right</title>
-    <sub-title lang="en">Episode 5642</sub-title>
-    <desc lang="en">Television's longest-running game show, featuring host Drew Carey, where audience members try to win cash and prizes.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205165465695,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S40E5642</episode-num>
-    <episode-num system="xmltv_ns">39.5641.</episode-num>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
-<programme start="20261116032155 +0000" stop="20261116040843 +0000" channel="vizio.93TPRDS">
-    <title lang="en">The Price Is Right</title>
-    <sub-title lang="en">Episode 5643</sub-title>
-    <desc lang="en">Television's longest-running game show, featuring host Drew Carey, where audience members try to win cash and prizes.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205165465580,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S40E5643</episode-num>
-    <episode-num system="xmltv_ns">39.5642.</episode-num>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
 <programme start="20261115235049 +0000" stop="20261116003922 +0000" channel="vizio.93WBTV133">
     <title lang="en">Forbidden: Dying for Love</title>
     <sub-title lang="en">Forever Together</sub-title>
@@ -1104,6 +692,61 @@
     <sub-title lang="en">Broken Trust</sub-title>
     <desc lang="en">A NYPD officer promises to make a teen girl's ambitions come true.</desc>
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%200,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+  </programme>
+<programme start="20261116000844 +0000" stop="20261116005719 +0000" channel="vizio.93amg00136c50">
+    <title lang="en">Ancient Unexplained Files</title>
+    <sub-title lang="en">Legend of the Cursed Temple</sub-title>
+    <desc lang="en">Experts reveal the secrets of a temple believed to be cursed.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205072090129,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261116005719 +0000" stop="20261116014800 +0000" channel="vizio.93amg00136c50">
+    <title lang="en">Ancient Unexplained Files</title>
+    <sub-title lang="en">Riddle of the Child Mummies</sub-title>
+    <desc lang="en">Experts investigate the mummies of three children discovered in Argentina.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205072090124,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261116014800 +0000" stop="20261116023812 +0000" channel="vizio.93amg00136c50">
+    <title lang="en">Hunting Atlantis</title>
+    <sub-title lang="en">Mystery of the Golden King</sub-title>
+    <desc lang="en">Stel and Jess investigate a golden grave that could be a king of Atlantis.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205118718909,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261116023812 +0000" stop="20261116032613 +0000" channel="vizio.93amg00136c50">
+    <title lang="en">Hunting Atlantis</title>
+    <sub-title lang="en">Legend of the Adriatic</sub-title>
+    <desc lang="en">In Croatia, Stel and Jess dive for relics and find evidence of a lost city.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205118719110,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261116032613 +0000" stop="20261116041413 +0000" channel="vizio.93amg00136c50">
+    <title lang="en">Hunting Atlantis</title>
+    <sub-title lang="en">City Underground</sub-title>
+    <desc lang="en">Stel and Jess follow evidence from ancient cave paintings to a buried city.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205118719111,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
   </programme>
 <programme start="20261116002112 +0000" stop="20261116011101 +0000" channel="vizio.93amg00136c55">
     <title lang="en">North Woods Law</title>
@@ -1215,17 +858,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261116000609 +0000" stop="20261116003406 +0000" channel="vizio.93amg00285c14">
-    <title lang="en">Caylus</title>
-    <sub-title lang="en">Bike Jump</sub-title>
-    <desc lang="en">Caylus does a mega jump as a BMX rider in GTA 5.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205003154191,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S06E07</episode-num>
-    <episode-num system="xmltv_ns">5.6.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme start="20261116003406 +0000" stop="20261116010522 +0000" channel="vizio.93amg00285c14">
     <title lang="en">Caylus</title>
     <sub-title lang="en">Bootleg GTA</sub-title>
@@ -1301,17 +933,6 @@
     <episode-num system="xmltv_ns">6.18.</episode-num>
     <rating>
       <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261116000448 +0000" stop="20261116003140 +0000" channel="vizio.93amg01927c6">
-    <title lang="en">Degrassi: The Next Generation</title>
-    <sub-title lang="en">Ray of Light, Pt. 1</sub-title>
-    <desc lang="en">Haunted by Degrassi's recent tragedy, Eli invites Jake and Mo to a secret party..</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205018958311,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S12E33</episode-num>
-    <episode-num system="xmltv_ns">11.32.</episode-num>
-    <rating>
-      <value>TV-PG</value>
     </rating>
   </programme>
 <programme start="20261116003140 +0000" stop="20261116005833 +0000" channel="vizio.93amg01927c6">
@@ -1411,14 +1032,6 @@
     <episode-num system="xmltv_ns">12.1.</episode-num>
     <rating>
       <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261116000528 +0000" stop="20261116003336 +0000" channel="vizio.93amg02134c2">
-    <title lang="en">Toyota PICKUP Truck - The Science EXPLAINED / This Car Took on EA Games and Won - RUF Yellowbird</title>
-    <desc lang="en">The Toyota Pickup will go down in history as one of the toughest trucks ever built.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204963812556,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-14</value>
     </rating>
   </programme>
 <programme start="20261116003336 +0000" stop="20261116005836 +0000" channel="vizio.93amg02134c2">
@@ -1901,17 +1514,6 @@
       <value>PG</value>
     </rating>
   </programme>
-<programme start="20261115233725 +0000" stop="20261116003500 +0000" channel="vizio.96Station_88885565">
-    <title lang="en">World's Most Evil Killers</title>
-    <sub-title lang="en">Cesar Barone</sub-title>
-    <desc lang="en">Cesar Barone was an American serial killer who took the life of four women in and around Hillsboro, Oregon in the 1990s.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%203415915590,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S05E20</episode-num>
-    <episode-num system="xmltv_ns">4.19.</episode-num>
-    <rating>
-      <value>Not Rated</value>
-    </rating>
-  </programme>
 <programme start="20261116003500 +0000" stop="20261116012854 +0000" channel="vizio.96Station_88885565">
     <title lang="en">World's Most Evil Prisoners</title>
     <sub-title lang="en">Osuna</sub-title>
@@ -2031,30 +1633,6 @@
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204256422114,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <episode-num system="onscreen">S08E09</episode-num>
     <episode-num system="xmltv_ns">7.8.</episode-num>
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-<programme start="20261116002758 +0000" stop="20261116010612 +0000" channel="vizio.96Station_88885592">
-    <title lang="en">Funniest Answers</title>
-    <desc lang="en">The funniest Family Feud answer of all time!</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205180416833,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-<programme start="20261116010612 +0000" stop="20261116022924 +0000" channel="vizio.96Station_88885592">
-    <title lang="en">Best of Family Feud</title>
-    <desc lang="en">The Funniest Clips and the best laughs from Family Feud.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205180416887,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-<programme start="20261116022924 +0000" stop="20261116063432 +0000" channel="vizio.96Station_88885592">
-    <title lang="en">Best of Family Feud</title>
-    <desc lang="en">The Funniest Clips and the best laughs from Family Feud.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205151770084,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
       <value>NR</value>
     </rating>
@@ -2281,61 +1859,6 @@
       <value>NR</value>
     </rating>
   </programme>
-<programme start="20261115230000 +0000" stop="20261116004356 +0000" channel="vizio.98wurl_ae_networks_historysmysteries_1">
-    <title lang="en">History's Greatest Mysteries</title>
-    <sub-title lang="en">Endurance: The Hunt for Shackleton's Ice Ship</sub-title>
-    <desc lang="en">In 1914, Sir Ernest Shackleton led a doomed expedition to Antarctica.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204591863598,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261116004356 +0000" stop="20261116022426 +0000" channel="vizio.98wurl_ae_networks_historysmysteries_1">
-    <title lang="en">History's Greatest Mysteries</title>
-    <sub-title lang="en">The Escape of John Wilkes Booth</sub-title>
-    <desc lang="en">John Wilkes Booth: Actor, Assassin, Escape Artist? Family Lore Shared.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204591863320,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261116022426 +0000" stop="20261116031642 +0000" channel="vizio.98wurl_ae_networks_historysmysteries_1">
-    <title lang="en">History's Greatest Mysteries</title>
-    <sub-title lang="en">The Lost Colony of Roanoke</sub-title>
-    <desc lang="en">Can new technology finally tell us what happened to the Lost Colony of Roanoke?</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204598801689,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S04E04</episode-num>
-    <episode-num system="xmltv_ns">3.3.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261116031642 +0000" stop="20261116040746 +0000" channel="vizio.98wurl_ae_networks_historysmysteries_1">
-    <title lang="en">History's Greatest Mysteries</title>
-    <sub-title lang="en">The Phoenix Lights Phenomenon</sub-title>
-    <desc lang="en">In 1997, thousands of people across Phoenix witness a series of strange lights.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204604225118,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S04E05</episode-num>
-    <episode-num system="xmltv_ns">3.4.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261116040746 +0000" stop="20261116050000 +0000" channel="vizio.98wurl_ae_networks_historysmysteries_1">
-    <title lang="en">History's Greatest Mysteries</title>
-    <sub-title lang="en">The Ark of the Covenant</sub-title>
-    <desc lang="en">One of the holiest relics from the Bible has been missing for over 2,000 years.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204572541740,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S04E06</episode-num>
-    <episode-num system="xmltv_ns">3.5.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
 <programme start="20261115233948 +0000" stop="20261116004510 +0000" channel="vizio.98wurl_bbc_antiquesroadshowuk_1">
     <title lang="en">Antiques Roadshow UK</title>
     <sub-title lang="en">Black Country Living Museum</sub-title>
@@ -2391,61 +1914,6 @@
       <value>TV-G</value>
     </rating>
   </programme>
-<programme start="20261116000831 +0000" stop="20261116010003 +0000" channel="vizio.98wurl_bbc_studios_bargainhunt_1">
-    <title lang="en">Bargain Hunt</title>
-    <sub-title lang="en">Sawbridgeworth 9</sub-title>
-    <desc lang="en">Charlie Ross is in Sawbridgeworth in Hertfordshire with experts Roo Irvine and Tim Weeks.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205166371918,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S56E21</episode-num>
-    <episode-num system="xmltv_ns">55.20.</episode-num>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
-<programme start="20261116010003 +0000" stop="20261116015003 +0000" channel="vizio.98wurl_bbc_studios_bargainhunt_1">
-    <title lang="en">Bargain Hunt</title>
-    <sub-title lang="en">Battle of Britain</sub-title>
-    <desc lang="en">Bargain Hunt commemorates the 80th anniversary of the Battle of Britain.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205166371115,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S56E22</episode-num>
-    <episode-num system="xmltv_ns">55.21.</episode-num>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
-<programme start="20261116015003 +0000" stop="20261116023939 +0000" channel="vizio.98wurl_bbc_studios_bargainhunt_1">
-    <title lang="en">Bargain Hunt</title>
-    <sub-title lang="en">Dementia</sub-title>
-    <desc lang="en">A Bargain Hunt special, looking how music and antiques help people living with dementia.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205166371933,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S56E23</episode-num>
-    <episode-num system="xmltv_ns">55.22.</episode-num>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
-<programme start="20261116023939 +0000" stop="20261116033110 +0000" channel="vizio.98wurl_bbc_studios_bargainhunt_1">
-    <title lang="en">Bargain Hunt</title>
-    <sub-title lang="en">Toy</sub-title>
-    <desc lang="en">Eric Knowles looks back at the most eclectic toys and games featured on the show.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205166371925,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S56E25</episode-num>
-    <episode-num system="xmltv_ns">55.24.</episode-num>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
-<programme start="20261116033110 +0000" stop="20261116042050 +0000" channel="vizio.98wurl_bbc_studios_bargainhunt_1">
-    <title lang="en">Bargain Hunt</title>
-    <sub-title lang="en">Unforgettable Moments</sub-title>
-    <desc lang="en">Charlie Ross raids the archives for the most memorable moments from the past two decades.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205168238763,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S56E26</episode-num>
-    <episode-num system="xmltv_ns">55.25.</episode-num>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
 <programme start="20261116000913 +0000" stop="20261116010547 +0000" channel="vizio.98wurl_dangertv">
     <title lang="en">UK Border Force</title>
     <sub-title lang="en">Seeds of Doubt</sub-title>
@@ -2486,17 +1954,6 @@
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%203774440170,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <episode-num system="onscreen">S01E10</episode-num>
     <episode-num system="xmltv_ns">0.9.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261115234232 +0000" stop="20261116003048 +0000" channel="vizio.98wurl_playworks_digital_benazelart_1">
-    <title lang="en">Stay Wild</title>
-    <sub-title lang="en">Magic Trick Wins $1,000</sub-title>
-    <desc lang="en">Ben and Cam compete in an extreme magic challenge, trying to win $1,000 with their best illusions or face a fun punishment.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204979978799,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S04E04</episode-num>
-    <episode-num system="xmltv_ns">3.3.</episode-num>
     <rating>
       <value>TV-PG</value>
     </rating>
@@ -2805,17 +2262,6 @@
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204979979122,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <episode-num system="onscreen">S17E13</episode-num>
     <episode-num system="xmltv_ns">16.12.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261116001629 +0000" stop="20261116003155 +0000" channel="vizio.98wurl_playworks_digital_theroyaltyfamily_1">
-    <title lang="en">The Royalty Family</title>
-    <sub-title lang="en">I Built a Secret Room</sub-title>
-    <desc lang="en">Ferran recruits help to secretly build an entire hidden room inside the house before his unsuspecting mom returns.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204979978795,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S04E12</episode-num>
-    <episode-num system="xmltv_ns">3.11.</episode-num>
     <rating>
       <value>TV-PG</value>
     </rating>
