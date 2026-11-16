@@ -624,6 +624,11 @@
         <lcn>871</lcn>
         <icon src="https://images.pluto.tv/channels/657880c46e4f6a00087404d0/colorLogoPNG.png" />
     </channel>
+<channel id="657881c46e4f6a00087414c2-DK">
+        <display-name>I Survived</display-name>
+        <lcn>909</lcn>
+        <icon src="https://images.pluto.tv/channels/657881c46e4f6a00087414c2/colorLogoPNG.png" />
+    </channel>
 <channel id="61c09ac98a80a4000703f992-DK">
         <display-name>SvampeBob Firkant</display-name>
         <lcn>993</lcn>
@@ -2124,11 +2129,6 @@
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5396bbd4038fd1901a9a7a63af4f2441/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1787712267766_Andromeda_HUDlogo_centered_260x147.png" />
     <lcn>5108</lcn>
   </channel>
-<channel id="a46e0aed15be88afdbc560324da36d60">
-    <display-name>4Fangs</display-name>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a46e0aed15be88afdbc560324da36d60/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1790376444903_HUD_FourFangs260x147.png" />
-    <lcn>5119</lcn>
-  </channel>
 <channel id="f04f8db430242735a3270d72f0091a73">
     <display-name>Mutant X</display-name>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f04f8db430242735a3270d72f0091a73/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1787161966872_mutant_x_logo_hud.png" />
@@ -2454,6 +2454,10 @@
     <display-name>ABC Entertains Australia</display-name>
     <icon src="https://d3bd0tgyk368z1.cloudfront.net/abcau/Lglogos/ABC-Entertains-Logo-400x200px.png" />
   </channel>
+<channel id="FREQ541-US">
+    <display-name>Mysteria</display-name>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/lawandcrime/channels/541-400x200.png" />
+  </channel>
 <channel id="99992255">
     <display-name>Forensic Files</display-name>
     <icon src="https://image.xumo.com/v1/channels/channel/99992255/400x200.png?type=white_cropped" />
@@ -2510,7 +2514,6 @@
 <channel id="6a1610bebdf296985fd95603-63d6fc71a9e88ee909e7ee23"><display-name>Midsomer Murders</display-name><icon src="https://provider-static.plex.tv/epg/cms/production/3e052da1-c8b1-4f8d-a770-ca6998bbcbee/Wurl_MidsomerMurders_ChannelLogoDark_1500x1000_Jack_Archer.png" /></channel>
 <channel id="6a1610bebdf296985fd95603-661fca34414d94009d1206ec"><display-name>Miramax Movie Channel</display-name><icon src="https://provider-static.plex.tv/epg/cms/production/39d7cc81-90e2-4ffa-a5f3-8cdc69c86db6/MIRAMAX_LOGO_VARIATION_2_-_Gabe_Evans.png" /></channel>
 <channel id="6a1610bebdf296985fd95603-65d90ec99c7a6da8c3ce57eb"><display-name>Movieitaly Channel</display-name><icon src="https://provider-static.plex.tv/epg/cms/production/cd9cec29-1cdc-4cd0-b7c2-cdd8fc377536/Color_White_MI_LOGO1_-_Simona_CampobassoRDX.png" /></channel>
-<channel id="6a1610bebdf296985fd95603-664294d20e0ec7b4ce5eb28e"><display-name>Mysteria</display-name><icon src="https://provider-static.plex.tv/epg/cms/production/38a8c007-4418-4b46-a312-4fd2fb77f956/Mysteria_Logo_Resize_PLEX_1500x1000_LOGO_COLOR_DARK_BG_-_RDX.png" /></channel>
 <channel id="6a1610bebdf296985fd95603-6087ff3ae99ff1002ce1465b"><display-name>Nashville</display-name><icon src="https://provider-static.plex.tv/7/epg/channels/logos/gracenote/7ed379f6fe9fb99d36e235c9e315b03f.png" /></channel>
 <channel id="6a1610bebdf296985fd95603-66a2818ce1a2934adfe851e5"><display-name>Paws &amp; Claws</display-name><icon src="https://provider-static.plex.tv/epg/cms/production/a5761270-da5c-4076-b49a-3f09876c7c7d/Paws_Claws_Logo_Dark_1500x1000.png" /></channel>
 <channel id="6a1610bebdf296985fd95603-5f0ff263d71dcb00449ec021"><display-name>People are Awesome</display-name><icon src="https://provider-static.plex.tv/epg/cms/production/72b8f0fc-fe7f-4a92-9881-866cfc043d94/people-are-awesome-2.png" /></channel>
@@ -5423,11 +5426,6 @@
         <desc>The possibility of an inside smuggling job is investigated at JFK Airport; food couriers are suspected of being carriers; a wrong turn separates some buddies in Detroit.</desc>
         <icon src="https://images.pluto.tv/series/635bdd903416c70013df66e3/tile_1790721366538.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="65cf8d7428730900087c5907-CA" start="20261116054200 +0000" stop="20261116063300 +0000">
-        <title>Nashville</title>
-        <desc>Daphne and Jake perform at school. Deacon and Jessie meet Brad. Alannah's impact causes trouble in the band. Gunnar begins to have doubts. Maddie joins Jonah in Miami. Avery visits Juliette.</desc>
-        <icon src="https://images.pluto.tv/series/6616dd780fb7c10013abe5ce/tile_1778862962818.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="65cf8d7428730900087c5907-CA" start="20261116063300 +0000" stop="20261116072400 +0000">
         <title>Nashville</title>
         <desc>Daphne auditions for a singing competition. Scarlett invites Sean to see live music. Avery makes a decision. The band gets a late-night TV invitation. Will's choice haunts him.</desc>
@@ -5537,11 +5535,6 @@
         <title>The X-Files</title>
         <desc>A bounty hunter has abducted Scully as Mulder uncovers an alien agenda.</desc>
         <icon src="https://images.pluto.tv/series/693ad40063f946a2cea6c6c4/tile_1792429923357.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="69dd5d9dceddf13a1a7e39c2-CA" start="20261116060107 +0000" stop="20261116063310 +0000">
-        <title>Psychic Investigators</title>
-        <desc>Nineteen-year-old Stacy vanishes during the first week of classes.</desc>
-        <icon src="https://images.pluto.tv/series/6a1d6734b1a87d7ce7a048d2/tile_1785248719255.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="69dd5d9dceddf13a1a7e39c2-CA" start="20261116063310 +0000" stop="20261116070513 +0000">
         <title>Psychic Investigators</title>
@@ -11133,11 +11126,6 @@
         <desc>Kris og Junior overvejer en enestående mulighed for at flytte til Alaska i et år for at arbejde på et geotermisk projekt i seriens næstsidste afsnit.</desc>
         <icon src="https://images.pluto.tv/series/62849bd555812e0013f093bb/tile_1777367881108.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="62bebb3a67307900077a7f9d-DK" start="20261116054137 +0000" stop="20261116063337 +0000">
-        <title>Numb3rs: Brutus</title>
-        <desc>Under efterforskningen af drabet på en senator afslører Don og arbejdsgruppen et komplot for at hævne sig på personer, der er indblandet i et regeringsprojekt om adfærdspåvirkning.</desc>
-        <icon src="https://images.pluto.tv/series/64394a184f1ca3001a0a4bab/tile_1790722802016.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="62bebb3a67307900077a7f9d-DK" start="20261116063337 +0000" stop="20261116072537 +0000">
         <title>Numb3rs: Dødbringende chat</title>
         <desc>Don og Charlie forsøger at fange en seriemorder, der søger hævn over internet-børnelokkere, der via chatrum forgriber sig på unge piger. Astronaut Buzz Aldrin spiller sig selv i en gæsterolle.</desc>
@@ -11213,11 +11201,6 @@
         <desc>Filmen foregår efter anden verdenskrig, og John Wayne spiller Dooley, en tidligere militærpilot, der flyver fragtfly og bliver tvunget til at foretage en nødlanding på en frossen sø, fordi han løber tør for brændstof, og flyet kommer ud af kurs.</desc>
         <icon src="https://images.pluto.tv/series/66b3254850ed6e0013472676/tile_1786095721983.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="65b915b1dc10a40008d53797-DK" start="20261116044932 +0000" stop="20261116063248 +0000">
-        <title>Buddy gi'r en håndfuld øretæver</title>
-        <desc>Trinity-seriestjernen Bud Spencer vender tilbage til det vilde vesten i komedien om fupmageren, Buddy, der forveksles med en læge, efter at hans ven, Cocoa utilsigtet stjæler en kuffert med kirurgiske instrumenter.</desc>
-        <icon src="https://images.pluto.tv/series/673ca0ece07f280013e1ab2a/tile_1768516581942.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="65b915b1dc10a40008d53797-DK" start="20261116063248 +0000" stop="20261116084049 +0000">
         <title>De kalder mig Trinity - Djævlens højre hånd</title>
         <desc>Den seje dusørjæger Trinity (Terence Hill) beslutter at besøge sin halvbror Bambino (Bud Spencer), der ernærer sig som hestetyv og plattenslager.</desc>
@@ -11242,11 +11225,6 @@
         <title>Pengene eller livet</title>
         <desc>En arkitekt får, efter en professionel og privat nedtur, helbredsproblemer. Konflikterne kulminerer, da han erfarer, at de forretningsfolk, der vil have ham til at arbejde for sig, ikke blot giver sig af med økonomisk kriminalitet, men også med mord.</desc>
         <icon src="https://images.pluto.tv/series/67f46b3867a072c8ad0ab457/tile_1776895122461.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="68f0fa98fae18f8db62a920a-DK" start="20261116053802 +0000" stop="20261116063345 +0000">
-        <title>Dynasty</title>
-        <desc>Krystle føder for tidligt og får en lille pige, som lider af åndedrætsbesvær. Hun opkalder barnet Kristina efter en veninde, som engang reddede hendes liv.</desc>
-        <icon src="https://images.pluto.tv/series/69047d60e75d6b4e6f8b7ebe/tile_1783696682025.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="68f0fa98fae18f8db62a920a-DK" start="20261116063345 +0000" stop="20261116072925 +0000">
         <title>Dynasty</title>
@@ -11877,6 +11855,26 @@
         <title>Crime 360</title>
         <desc>Crime 360 er din ultimative destination for true crime med prisbelønnede efterforskningsserier og historier om dem, der aldrig opgav at søge efter svar - og til sidst fandt retfærdighed.</desc>
         <icon src="https://images.pluto.tv/series/679c845dc070cf0008369d45/tile_1784650491749.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
+    </programme>
+<programme channel="657881c46e4f6a00087414c2-DK" start="20261116063000 +0000" stop="20261116070000 +0000">
+        <title>I Survived</title>
+        <desc>I Survived kombinerer interviews med genskabte scener for at fortælle historierne om mennesker, som overkom ubegribelige omstændigheder, der ændrede deres liv for altid.</desc>
+        <icon src="https://images.pluto.tv/series/66040499e5c32c0008bd8839/tile_1784650535604.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
+    </programme>
+<programme channel="657881c46e4f6a00087414c2-DK" start="20261116070000 +0000" stop="20261116073000 +0000">
+        <title>I Survived</title>
+        <desc>I Survived kombinerer interviews med genskabte scener for at fortælle historierne om mennesker, som overkom ubegribelige omstændigheder, der ændrede deres liv for altid.</desc>
+        <icon src="https://images.pluto.tv/series/66040499e5c32c0008bd8839/tile_1784650535604.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
+    </programme>
+<programme channel="657881c46e4f6a00087414c2-DK" start="20261116073000 +0000" stop="20261116080000 +0000">
+        <title>I Survived</title>
+        <desc>I Survived kombinerer interviews med genskabte scener for at fortælle historierne om mennesker, som overkom ubegribelige omstændigheder, der ændrede deres liv for altid.</desc>
+        <icon src="https://images.pluto.tv/series/66040499e5c32c0008bd8839/tile_1784650535604.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
+    </programme>
+<programme channel="657881c46e4f6a00087414c2-DK" start="20261116080000 +0000" stop="20261116083000 +0000">
+        <title>I Survived</title>
+        <desc>I Survived kombinerer interviews med genskabte scener for at fortælle historierne om mennesker, som overkom ubegribelige omstændigheder, der ændrede deres liv for altid.</desc>
+        <icon src="https://images.pluto.tv/series/66040499e5c32c0008bd8839/tile_1784650535604.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="6a0f0dd902b6c1c00aa51cb9-DK" start="20261116055947 +0000" stop="20261116070349 +0000">
         <title>Mollie Westbrook</title>
@@ -13822,6 +13820,46 @@
         <title>Crime 360</title>
         <desc>Crime 360 er din ultimative destination for true crime med prisbelønnede efterforskningsserier og historier om dem, der aldrig opgav at søge efter svar - og til sidst fandt retfærdighed.</desc>
         <icon src="https://images.pluto.tv/series/679c845dc070cf0008369d45/tile_1784650491749.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
+    </programme>
+<programme channel="657881c46e4f6a00087414c2-DK" start="20261116083000 +0000" stop="20261116090000 +0000">
+        <title>I Survived</title>
+        <desc>I Survived kombinerer interviews med genskabte scener for at fortælle historierne om mennesker, som overkom ubegribelige omstændigheder, der ændrede deres liv for altid.</desc>
+        <icon src="https://images.pluto.tv/series/66040499e5c32c0008bd8839/tile_1784650535604.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
+    </programme>
+<programme channel="657881c46e4f6a00087414c2-DK" start="20261116090000 +0000" stop="20261116093000 +0000">
+        <title>I Survived</title>
+        <desc>I Survived kombinerer interviews med genskabte scener for at fortælle historierne om mennesker, som overkom ubegribelige omstændigheder, der ændrede deres liv for altid.</desc>
+        <icon src="https://images.pluto.tv/series/66040499e5c32c0008bd8839/tile_1784650535604.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
+    </programme>
+<programme channel="657881c46e4f6a00087414c2-DK" start="20261116093000 +0000" stop="20261116100000 +0000">
+        <title>I Survived</title>
+        <desc>I Survived kombinerer interviews med genskabte scener for at fortælle historierne om mennesker, som overkom ubegribelige omstændigheder, der ændrede deres liv for altid.</desc>
+        <icon src="https://images.pluto.tv/series/66040499e5c32c0008bd8839/tile_1784650535604.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
+    </programme>
+<programme channel="657881c46e4f6a00087414c2-DK" start="20261116100000 +0000" stop="20261116103000 +0000">
+        <title>I Survived</title>
+        <desc>I Survived kombinerer interviews med genskabte scener for at fortælle historierne om mennesker, som overkom ubegribelige omstændigheder, der ændrede deres liv for altid.</desc>
+        <icon src="https://images.pluto.tv/series/66040499e5c32c0008bd8839/tile_1784650535604.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
+    </programme>
+<programme channel="657881c46e4f6a00087414c2-DK" start="20261116103000 +0000" stop="20261116110000 +0000">
+        <title>I Survived</title>
+        <desc>I Survived kombinerer interviews med genskabte scener for at fortælle historierne om mennesker, som overkom ubegribelige omstændigheder, der ændrede deres liv for altid.</desc>
+        <icon src="https://images.pluto.tv/series/66040499e5c32c0008bd8839/tile_1784650535604.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
+    </programme>
+<programme channel="657881c46e4f6a00087414c2-DK" start="20261116110000 +0000" stop="20261116113000 +0000">
+        <title>I Survived</title>
+        <desc>I Survived kombinerer interviews med genskabte scener for at fortælle historierne om mennesker, som overkom ubegribelige omstændigheder, der ændrede deres liv for altid.</desc>
+        <icon src="https://images.pluto.tv/series/66040499e5c32c0008bd8839/tile_1784650535604.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
+    </programme>
+<programme channel="657881c46e4f6a00087414c2-DK" start="20261116113000 +0000" stop="20261116120000 +0000">
+        <title>I Survived</title>
+        <desc>I Survived kombinerer interviews med genskabte scener for at fortælle historierne om mennesker, som overkom ubegribelige omstændigheder, der ændrede deres liv for altid.</desc>
+        <icon src="https://images.pluto.tv/series/66040499e5c32c0008bd8839/tile_1784650535604.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
+    </programme>
+<programme channel="657881c46e4f6a00087414c2-DK" start="20261116120000 +0000" stop="20261116123000 +0000">
+        <title>I Survived</title>
+        <desc>I Survived kombinerer interviews med genskabte scener for at fortælle historierne om mennesker, som overkom ubegribelige omstændigheder, der ændrede deres liv for altid.</desc>
+        <icon src="https://images.pluto.tv/series/66040499e5c32c0008bd8839/tile_1784650535604.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="6a0f0dd902b6c1c00aa51cb9-DK" start="20261116080643 +0000" stop="20261116085804 +0000">
         <title>Mollie Westbrook</title>
@@ -15897,6 +15935,46 @@
         <title>Crime 360</title>
         <desc>Crime 360 er din ultimative destination for true crime med prisbelønnede efterforskningsserier og historier om dem, der aldrig opgav at søge efter svar - og til sidst fandt retfærdighed.</desc>
         <icon src="https://images.pluto.tv/series/679c845dc070cf0008369d45/tile_1784650491749.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
+    </programme>
+<programme channel="657881c46e4f6a00087414c2-DK" start="20261116123000 +0000" stop="20261116130000 +0000">
+        <title>I Survived</title>
+        <desc>I Survived kombinerer interviews med genskabte scener for at fortælle historierne om mennesker, som overkom ubegribelige omstændigheder, der ændrede deres liv for altid.</desc>
+        <icon src="https://images.pluto.tv/series/66040499e5c32c0008bd8839/tile_1784650535604.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
+    </programme>
+<programme channel="657881c46e4f6a00087414c2-DK" start="20261116130000 +0000" stop="20261116133000 +0000">
+        <title>I Survived</title>
+        <desc>I Survived kombinerer interviews med genskabte scener for at fortælle historierne om mennesker, som overkom ubegribelige omstændigheder, der ændrede deres liv for altid.</desc>
+        <icon src="https://images.pluto.tv/series/66040499e5c32c0008bd8839/tile_1784650535604.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
+    </programme>
+<programme channel="657881c46e4f6a00087414c2-DK" start="20261116133000 +0000" stop="20261116140000 +0000">
+        <title>I Survived</title>
+        <desc>I Survived kombinerer interviews med genskabte scener for at fortælle historierne om mennesker, som overkom ubegribelige omstændigheder, der ændrede deres liv for altid.</desc>
+        <icon src="https://images.pluto.tv/series/66040499e5c32c0008bd8839/tile_1784650535604.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
+    </programme>
+<programme channel="657881c46e4f6a00087414c2-DK" start="20261116140000 +0000" stop="20261116143000 +0000">
+        <title>I Survived</title>
+        <desc>I Survived kombinerer interviews med genskabte scener for at fortælle historierne om mennesker, som overkom ubegribelige omstændigheder, der ændrede deres liv for altid.</desc>
+        <icon src="https://images.pluto.tv/series/66040499e5c32c0008bd8839/tile_1784650535604.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
+    </programme>
+<programme channel="657881c46e4f6a00087414c2-DK" start="20261116143000 +0000" stop="20261116150000 +0000">
+        <title>I Survived</title>
+        <desc>I Survived kombinerer interviews med genskabte scener for at fortælle historierne om mennesker, som overkom ubegribelige omstændigheder, der ændrede deres liv for altid.</desc>
+        <icon src="https://images.pluto.tv/series/66040499e5c32c0008bd8839/tile_1784650535604.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
+    </programme>
+<programme channel="657881c46e4f6a00087414c2-DK" start="20261116150000 +0000" stop="20261116153000 +0000">
+        <title>I Survived</title>
+        <desc>I Survived kombinerer interviews med genskabte scener for at fortælle historierne om mennesker, som overkom ubegribelige omstændigheder, der ændrede deres liv for altid.</desc>
+        <icon src="https://images.pluto.tv/series/66040499e5c32c0008bd8839/tile_1784650535604.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
+    </programme>
+<programme channel="657881c46e4f6a00087414c2-DK" start="20261116153000 +0000" stop="20261116160000 +0000">
+        <title>I Survived</title>
+        <desc>I Survived kombinerer interviews med genskabte scener for at fortælle historierne om mennesker, som overkom ubegribelige omstændigheder, der ændrede deres liv for altid.</desc>
+        <icon src="https://images.pluto.tv/series/66040499e5c32c0008bd8839/tile_1784650535604.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
+    </programme>
+<programme channel="657881c46e4f6a00087414c2-DK" start="20261116160000 +0000" stop="20261116163000 +0000">
+        <title>I Survived</title>
+        <desc>I Survived kombinerer interviews med genskabte scener for at fortælle historierne om mennesker, som overkom ubegribelige omstændigheder, der ændrede deres liv for altid.</desc>
+        <icon src="https://images.pluto.tv/series/66040499e5c32c0008bd8839/tile_1784650535604.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="6a0f0dd902b6c1c00aa51cb9-DK" start="20261116120644 +0000" stop="20261116125642 +0000">
         <title>Rachel Shannon True Crime</title>
@@ -18003,6 +18081,46 @@
         <desc>Crime 360 er din ultimative destination for true crime med prisbelønnede efterforskningsserier og historier om dem, der aldrig opgav at søge efter svar - og til sidst fandt retfærdighed.</desc>
         <icon src="https://images.pluto.tv/series/679c845dc070cf0008369d45/tile_1784650491749.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
+<programme channel="657881c46e4f6a00087414c2-DK" start="20261116163000 +0000" stop="20261116170000 +0000">
+        <title>I Survived</title>
+        <desc>I Survived kombinerer interviews med genskabte scener for at fortælle historierne om mennesker, som overkom ubegribelige omstændigheder, der ændrede deres liv for altid.</desc>
+        <icon src="https://images.pluto.tv/series/66040499e5c32c0008bd8839/tile_1784650535604.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
+    </programme>
+<programme channel="657881c46e4f6a00087414c2-DK" start="20261116170000 +0000" stop="20261116173000 +0000">
+        <title>I Survived</title>
+        <desc>I Survived kombinerer interviews med genskabte scener for at fortælle historierne om mennesker, som overkom ubegribelige omstændigheder, der ændrede deres liv for altid.</desc>
+        <icon src="https://images.pluto.tv/series/66040499e5c32c0008bd8839/tile_1784650535604.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
+    </programme>
+<programme channel="657881c46e4f6a00087414c2-DK" start="20261116173000 +0000" stop="20261116180000 +0000">
+        <title>I Survived</title>
+        <desc>I Survived kombinerer interviews med genskabte scener for at fortælle historierne om mennesker, som overkom ubegribelige omstændigheder, der ændrede deres liv for altid.</desc>
+        <icon src="https://images.pluto.tv/series/66040499e5c32c0008bd8839/tile_1784650535604.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
+    </programme>
+<programme channel="657881c46e4f6a00087414c2-DK" start="20261116180000 +0000" stop="20261116183000 +0000">
+        <title>I Survived</title>
+        <desc>I Survived kombinerer interviews med genskabte scener for at fortælle historierne om mennesker, som overkom ubegribelige omstændigheder, der ændrede deres liv for altid.</desc>
+        <icon src="https://images.pluto.tv/series/66040499e5c32c0008bd8839/tile_1784650535604.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
+    </programme>
+<programme channel="657881c46e4f6a00087414c2-DK" start="20261116183000 +0000" stop="20261116190000 +0000">
+        <title>I Survived</title>
+        <desc>I Survived kombinerer interviews med genskabte scener for at fortælle historierne om mennesker, som overkom ubegribelige omstændigheder, der ændrede deres liv for altid.</desc>
+        <icon src="https://images.pluto.tv/series/66040499e5c32c0008bd8839/tile_1784650535604.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
+    </programme>
+<programme channel="657881c46e4f6a00087414c2-DK" start="20261116190000 +0000" stop="20261116193000 +0000">
+        <title>I Survived</title>
+        <desc>I Survived kombinerer interviews med genskabte scener for at fortælle historierne om mennesker, som overkom ubegribelige omstændigheder, der ændrede deres liv for altid.</desc>
+        <icon src="https://images.pluto.tv/series/66040499e5c32c0008bd8839/tile_1784650535604.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
+    </programme>
+<programme channel="657881c46e4f6a00087414c2-DK" start="20261116193000 +0000" stop="20261116200000 +0000">
+        <title>I Survived</title>
+        <desc>I Survived kombinerer interviews med genskabte scener for at fortælle historierne om mennesker, som overkom ubegribelige omstændigheder, der ændrede deres liv for altid.</desc>
+        <icon src="https://images.pluto.tv/series/66040499e5c32c0008bd8839/tile_1784650535604.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
+    </programme>
+<programme channel="657881c46e4f6a00087414c2-DK" start="20261116200000 +0000" stop="20261116203000 +0000">
+        <title>I Survived</title>
+        <desc>I Survived kombinerer interviews med genskabte scener for at fortælle historierne om mennesker, som overkom ubegribelige omstændigheder, der ændrede deres liv for altid.</desc>
+        <icon src="https://images.pluto.tv/series/66040499e5c32c0008bd8839/tile_1784650535604.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
+    </programme>
 <programme channel="6a0f0dd902b6c1c00aa51cb9-DK" start="20261116164110 +0000" stop="20261116173338 +0000">
         <title>Rachel Shannon True Crime</title>
         <desc>A pastor's pregnant wife is shot during a home invasion while he's at the gym. Police cleared him fast, but the public wasn't convinced. A solved true crime case full of suspicion, conspiracy theories, and heartbreak.</desc>
@@ -20108,6 +20226,46 @@
         <desc>Crime 360 er din ultimative destination for true crime med prisbelønnede efterforskningsserier og historier om dem, der aldrig opgav at søge efter svar - og til sidst fandt retfærdighed.</desc>
         <icon src="https://images.pluto.tv/series/679c845dc070cf0008369d45/tile_1784650491749.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
+<programme channel="657881c46e4f6a00087414c2-DK" start="20261116203000 +0000" stop="20261116210000 +0000">
+        <title>I Survived</title>
+        <desc>I Survived kombinerer interviews med genskabte scener for at fortælle historierne om mennesker, som overkom ubegribelige omstændigheder, der ændrede deres liv for altid.</desc>
+        <icon src="https://images.pluto.tv/series/66040499e5c32c0008bd8839/tile_1784650535604.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
+    </programme>
+<programme channel="657881c46e4f6a00087414c2-DK" start="20261116210000 +0000" stop="20261116213000 +0000">
+        <title>I Survived</title>
+        <desc>I Survived kombinerer interviews med genskabte scener for at fortælle historierne om mennesker, som overkom ubegribelige omstændigheder, der ændrede deres liv for altid.</desc>
+        <icon src="https://images.pluto.tv/series/66040499e5c32c0008bd8839/tile_1784650535604.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
+    </programme>
+<programme channel="657881c46e4f6a00087414c2-DK" start="20261116213000 +0000" stop="20261116220000 +0000">
+        <title>I Survived</title>
+        <desc>I Survived kombinerer interviews med genskabte scener for at fortælle historierne om mennesker, som overkom ubegribelige omstændigheder, der ændrede deres liv for altid.</desc>
+        <icon src="https://images.pluto.tv/series/66040499e5c32c0008bd8839/tile_1784650535604.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
+    </programme>
+<programme channel="657881c46e4f6a00087414c2-DK" start="20261116220000 +0000" stop="20261116223000 +0000">
+        <title>I Survived</title>
+        <desc>I Survived kombinerer interviews med genskabte scener for at fortælle historierne om mennesker, som overkom ubegribelige omstændigheder, der ændrede deres liv for altid.</desc>
+        <icon src="https://images.pluto.tv/series/66040499e5c32c0008bd8839/tile_1784650535604.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
+    </programme>
+<programme channel="657881c46e4f6a00087414c2-DK" start="20261116223000 +0000" stop="20261116230000 +0000">
+        <title>I Survived</title>
+        <desc>I Survived kombinerer interviews med genskabte scener for at fortælle historierne om mennesker, som overkom ubegribelige omstændigheder, der ændrede deres liv for altid.</desc>
+        <icon src="https://images.pluto.tv/series/66040499e5c32c0008bd8839/tile_1784650535604.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
+    </programme>
+<programme channel="657881c46e4f6a00087414c2-DK" start="20261116230000 +0000" stop="20261116233000 +0000">
+        <title>I Survived</title>
+        <desc>I Survived kombinerer interviews med genskabte scener for at fortælle historierne om mennesker, som overkom ubegribelige omstændigheder, der ændrede deres liv for altid.</desc>
+        <icon src="https://images.pluto.tv/series/66040499e5c32c0008bd8839/tile_1784650535604.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
+    </programme>
+<programme channel="657881c46e4f6a00087414c2-DK" start="20261116233000 +0000" stop="20261117000000 +0000">
+        <title>I Survived</title>
+        <desc>I Survived kombinerer interviews med genskabte scener for at fortælle historierne om mennesker, som overkom ubegribelige omstændigheder, der ændrede deres liv for altid.</desc>
+        <icon src="https://images.pluto.tv/series/66040499e5c32c0008bd8839/tile_1784650535604.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
+    </programme>
+<programme channel="657881c46e4f6a00087414c2-DK" start="20261117000000 +0000" stop="20261117003000 +0000">
+        <title>I Survived</title>
+        <desc>I Survived kombinerer interviews med genskabte scener for at fortælle historierne om mennesker, som overkom ubegribelige omstændigheder, der ændrede deres liv for altid.</desc>
+        <icon src="https://images.pluto.tv/series/66040499e5c32c0008bd8839/tile_1784650535604.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
+    </programme>
 <programme channel="6a0f0dd902b6c1c00aa51cb9-DK" start="20261116201600 +0000" stop="20261116203618 +0000">
         <title>Gabulosis: The Apartment That Keeps a Secret: What Happened to Anne Manchester?</title>
         <desc>On July 8, 1980, Andrew and Joyce Manchester returned from vacation to discover their 26-year-old daughter Anne had been missing for 10 days. She vanished without a trace and was never seen again.</desc>
@@ -22158,6 +22316,46 @@
         <desc>Crime 360 er din ultimative destination for true crime med prisbelønnede efterforskningsserier og historier om dem, der aldrig opgav at søge efter svar - og til sidst fandt retfærdighed.</desc>
         <icon src="https://images.pluto.tv/series/679c845dc070cf0008369d45/tile_1784650491749.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
+<programme channel="657881c46e4f6a00087414c2-DK" start="20261117003000 +0000" stop="20261117010000 +0000">
+        <title>I Survived</title>
+        <desc>I Survived kombinerer interviews med genskabte scener for at fortælle historierne om mennesker, som overkom ubegribelige omstændigheder, der ændrede deres liv for altid.</desc>
+        <icon src="https://images.pluto.tv/series/66040499e5c32c0008bd8839/tile_1784650535604.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
+    </programme>
+<programme channel="657881c46e4f6a00087414c2-DK" start="20261117010000 +0000" stop="20261117013000 +0000">
+        <title>I Survived</title>
+        <desc>I Survived kombinerer interviews med genskabte scener for at fortælle historierne om mennesker, som overkom ubegribelige omstændigheder, der ændrede deres liv for altid.</desc>
+        <icon src="https://images.pluto.tv/series/66040499e5c32c0008bd8839/tile_1784650535604.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
+    </programme>
+<programme channel="657881c46e4f6a00087414c2-DK" start="20261117013000 +0000" stop="20261117020000 +0000">
+        <title>I Survived</title>
+        <desc>I Survived kombinerer interviews med genskabte scener for at fortælle historierne om mennesker, som overkom ubegribelige omstændigheder, der ændrede deres liv for altid.</desc>
+        <icon src="https://images.pluto.tv/series/66040499e5c32c0008bd8839/tile_1784650535604.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
+    </programme>
+<programme channel="657881c46e4f6a00087414c2-DK" start="20261117020000 +0000" stop="20261117023000 +0000">
+        <title>I Survived</title>
+        <desc>I Survived kombinerer interviews med genskabte scener for at fortælle historierne om mennesker, som overkom ubegribelige omstændigheder, der ændrede deres liv for altid.</desc>
+        <icon src="https://images.pluto.tv/series/66040499e5c32c0008bd8839/tile_1784650535604.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
+    </programme>
+<programme channel="657881c46e4f6a00087414c2-DK" start="20261117023000 +0000" stop="20261117030000 +0000">
+        <title>I Survived</title>
+        <desc>I Survived kombinerer interviews med genskabte scener for at fortælle historierne om mennesker, som overkom ubegribelige omstændigheder, der ændrede deres liv for altid.</desc>
+        <icon src="https://images.pluto.tv/series/66040499e5c32c0008bd8839/tile_1784650535604.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
+    </programme>
+<programme channel="657881c46e4f6a00087414c2-DK" start="20261117030000 +0000" stop="20261117033000 +0000">
+        <title>I Survived</title>
+        <desc>I Survived kombinerer interviews med genskabte scener for at fortælle historierne om mennesker, som overkom ubegribelige omstændigheder, der ændrede deres liv for altid.</desc>
+        <icon src="https://images.pluto.tv/series/66040499e5c32c0008bd8839/tile_1784650535604.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
+    </programme>
+<programme channel="657881c46e4f6a00087414c2-DK" start="20261117033000 +0000" stop="20261117040000 +0000">
+        <title>I Survived</title>
+        <desc>I Survived kombinerer interviews med genskabte scener for at fortælle historierne om mennesker, som overkom ubegribelige omstændigheder, der ændrede deres liv for altid.</desc>
+        <icon src="https://images.pluto.tv/series/66040499e5c32c0008bd8839/tile_1784650535604.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
+    </programme>
+<programme channel="657881c46e4f6a00087414c2-DK" start="20261117040000 +0000" stop="20261117043000 +0000">
+        <title>I Survived</title>
+        <desc>I Survived kombinerer interviews med genskabte scener for at fortælle historierne om mennesker, som overkom ubegribelige omstændigheder, der ændrede deres liv for altid.</desc>
+        <icon src="https://images.pluto.tv/series/66040499e5c32c0008bd8839/tile_1784650535604.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
+    </programme>
 <programme channel="6a0f0dd902b6c1c00aa51cb9-DK" start="20261117004159 +0000" stop="20261117012947 +0000">
         <title>Rachel Shannon True Crime</title>
         <desc>A doctor is gunned down on the Ohio Turnpike in what looks like a random robbery. His grieving wife told a convincing story until investigators proved she ordered the hit. A solved true crime case that is brutal, calculated, and deeply personal.</desc>
@@ -22802,6 +23000,11 @@
         <title>Crime 360</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/657880c46e4f6a00087404d0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    </programme>
+<programme channel="657881c46e4f6a00087414c2-DK" start="20261117043000 +0000" stop="20261117080000 +0000">
+        <title>I Survived</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/657881c46e4f6a00087414c2/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     </programme>
 <programme channel="6a0f0dd902b6c1c00aa51cb9-DK" start="20261117041453 +0000" stop="20261117080000 +0000">
         <title>Pluto TV Body Bags</title>
@@ -33983,11 +34186,6 @@
         <desc>Charlotte og Mikkel bor i en så liten leilighet at dusjen må tømmes for ting hver gang de skal bade. Men nå ønsker de å flytte litt ut av byen sammen med sønnen deres.</desc>
         <icon src="https://images.pluto.tv/series/636cffa9cea64000135b8e15/tile_1788423841022.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="68dfa1a7fae18f8db6218222-NO" start="20261116060719 +0000" stop="20261116063319 +0000">
-        <title>Ridiculousness: Sterling og Karrueche Tran LXVIII</title>
-        <desc>I denne episoden av 'Ridiculousness' sklir Rob, Steelo og gjest Karrueche Tran rundt i gatene fordi de er 'Dårlig til å drifte', tar seg litt snacks med folk som liker å 'Småspise i alle situasjoner' og holder festen i gang med 'Bursdagsbomber'.</desc>
-        <icon src="https://images.pluto.tv/series/621f2990a1a84900140f7244/tile_1776863881378.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="68dfa1a7fae18f8db6218222-NO" start="20261116063319 +0000" stop="20261116065919 +0000">
         <title>Ridiculousness: Sterling og Karrueche Tran LXIX</title>
         <desc>I denne episoden av 'Ridiculousness' triller Rob, Steelo og Karrueche Tran ut på skumruller i 'Fatal foam', tar begrepet "hot date" til neste nivå med 'Ildfulle utekvelder' og kommer litt for nær de verste flysetenaboene i 'Ekle passasjerer'.</desc>
@@ -34277,11 +34475,6 @@
         <title>48 Hours: Murder on the Dark Web</title>
         <desc>Part one of a two-part report on the alarming world of murder-for-hire on the mysterious "dark web," exposes an international criminal organization in a hunt for a self-described murder mastermind named Yura.</desc>
         <icon src="https://images.pluto.tv/series/6346a4f9f030950013a062f1/tile_1778837402198.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="6400bdb1219c4c00081751aa-NO" start="20261116060851 +0000" stop="20261116063325 +0000">
-        <title>COPS</title>
-        <desc>A bachelorette party is rescued from a sinking boat. A group of spring breakers is forced to pour out liquor. A man is caught selling beer from a backpack. A boiled peanut vendor drifts toward danger.</desc>
-        <icon src="https://images.pluto.tv/series/6595561ea95cb100146140fe/tile_1793663688328.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="6400bdb1219c4c00081751aa-NO" start="20261116063325 +0000" stop="20261116065759 +0000">
         <title>COPS</title>
@@ -42158,11 +42351,6 @@
         <desc>Kid Danger har gått över till den onda sidan och gått med i det graffitigäng som härjar i Swellview. Captain Man söker desperat över sin försvunna sidekick, och försöker hitta ett sätt att stoppa gängets ledare, Van Dal.</desc>
         <icon src="https://images.pluto.tv/series/621750191990720013c99ed0/tile_1767933273435.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="6380c73f76e43f000721f73b-SE" start="20261116055050 +0000" stop="20261116063328 +0000">
-        <title>Paradise: Avsnitt 220</title>
-        <desc>Kraftparet får ett stort ansvar när dom ska besluta om energielimineringen från gårdagen var rätt eller inte. Ett beslut om ”pest eller kolera” måste tas – och frågan är om man verkligen kan lita på dom rosendoftande löften som ges i stundens hetta?</desc>
-        <icon src="https://images.pluto.tv/series/63565f5ccba1290014dcc98e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="6380c73f76e43f000721f73b-SE" start="20261116063328 +0000" stop="20261116071606 +0000">
         <title>Paradise, säsong 2: Avsnitt 220</title>
         <desc>Kraftparet får ett stort ansvar när dom ska besluta om energielimineringen från gårdagen var rätt eller inte. Ett beslut om ”pest eller kolera” måste tas – och frågan är om man verkligen kan lita på dom rosendoftande löften som ges i stundens hetta?</desc>
@@ -42483,11 +42671,6 @@
         <desc>A fanatical Egyptologist purchases a stolen jewel, believing in its power to restore the dead.  The stone is pursued by a zealot determined to return it to the tomb from which it was stolen before it can release its worst power.</desc>
         <icon src="https://images.pluto.tv/series/6ab42c62a586c4b3c99192cf/tile_1790192739124.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="68dfa1e7fae18f8db6218703-SE" start="20261116060731 +0000" stop="20261116063331 +0000">
-        <title>Ridiculousness</title>
-        <desc>I det här avsnittet av Ridiculosness glider Rob, Steelo och gästevärden Karrueche Tran runt på gatorna och man är 'Usel på att drifta', käkar lite med folk som vill 'Äta i alla lägen' och ser till att det är full fart på festen i 'Födelsedagsbomber'.</desc>
-        <icon src="https://images.pluto.tv/series/620cbd38bea7d6001350f0af/tile_1776778869702.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="68dfa1e7fae18f8db6218703-SE" start="20261116063331 +0000" stop="20261116065931 +0000">
         <title>Ridiculousness</title>
         <desc>I det här avsnittet av 'Ridiculousness' ska Rob, Steelo och Karrueche Tran använda foam roller i 'Fatal foam', bjuda ut heta dejter på 'Eldiga utekvällar' och sitta bredvid olustigt folk i 'Äckliga passagerare'.</desc>
@@ -42687,11 +42870,6 @@
         <title>Buzzfeed Unsolved: The Mysterious Death of the Somerton Man / The Horrifying Unsolved Slaughter at Hinterkaifeck Farm</title>
         <desc>Ryan and Brent delve into the Somerton Man, a farm slaughter, a hotel murder and the deaths of nine hikers.</desc>
         <icon src="https://images.pluto.tv/series/666bf1ebf932680013fd1df8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="61f9597e78607000074f6c2a-SE" start="20261116053945 +0000" stop="20261116063245 +0000">
-        <title>Relic Hunter: Tidsfrist</title>
-        <desc>Allan kommer till Sydney och berättar att han har 12 timmar på sig innan ett Necron-virus dödar honom om han inte levererar Tau till en utpressare som har motgiftet.</desc>
-        <icon src="https://images.pluto.tv/series/628b58518fa44b0014d370aa/tile_1776072984707.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="61f9597e78607000074f6c2a-SE" start="20261116063245 +0000" stop="20261116072145 +0000">
         <title>Andromeda: Dans av majflugor</title>
@@ -42962,11 +43140,6 @@
         <title>Crime Scene Solvers: The Disappeared Of Nancy: The Julie Martin Affair</title>
         <desc>On June 30, 2014, in Nancy, the police are called to the home of Julie Martin, a 34-year-old nurse.</desc>
         <icon src="https://images.pluto.tv/series/625541133f03ed0013c467ae/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="6391e0b4bad1970007ee5733-SE" start="20261116060544 +0000" stop="20261116063252 +0000">
-        <title>Våra värsta år: Al Bundy's Sport Spectacular</title>
-        <desc>Roy Firestone takes a look back at Al's athletic endeavors, including some of his many encounters with sports legends.</desc>
-        <icon src="https://images.pluto.tv/series/65b0e736debc810013dea69b/tile_1761829156068.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="6391e0b4bad1970007ee5733-SE" start="20261116063252 +0000" stop="20261116065933 +0000">
         <title>Våra värsta år: Twisted</title>
@@ -60922,14 +61095,6 @@
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d7f2337dc0ce5fd6bacaff617c3f8ddc/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2Fassets%2Fbanner%2F16_9%2FNone%2F1664587134131_c1437ec5196e528cac8d4a0faf016e4d.jpg" />
     <rating system="USA Parental Rating">TVG</rating>
   </programme>
-<programme channel="223627443ebe5007b1b9461cc1ea297e" start="20261116060248 +0000" stop="20261116063249 +0000">
-    <title>Life With Derek</title>
-    <sub-title>Life With Derek</sub-title>
-    <desc>Derek's grade average is a D!</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/37c9728f46085e50afa685b6d2dcbeb9/rokuFeed/assets/b8af8ac6b3aa5392adc7a3f07b428ea4.jpg" />
-    <episode-num system="onscreen">S04E09</episode-num>
-    <rating system="USA Parental Rating">TVG</rating>
-  </programme>
 <programme channel="223627443ebe5007b1b9461cc1ea297e" start="20261116063249 +0000" stop="20261116070249 +0000">
     <title>Life With Derek</title>
     <sub-title>Life With Derek</sub-title>
@@ -70545,12 +70710,12 @@ Early one morning in a deserted area outside of Phoenix, a motorcyclist discover
     <episode-num system="onscreen">S04E09</episode-num>
     <rating system="USA Parental Rating">TVPG</rating>
   </programme>
-<programme channel="0597d2a4b388b1497a9bf48812e5d070" start="20261116051019 +0000" stop="20261116063335 +0000">
-    <title>Ishowspeed China Tour</title>
-    <sub-title>Ishowspeed China Tour</sub-title>
-    <desc>Speed trains to become a kung fu master in China, taking on his toughest challenge yet.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b27287b8217759231fcc76f4c6583942/rokuFeed/assets/a24090657bf255ce96714b2e871ccb49.png" />
-    <episode-num system="onscreen">S01E03</episode-num>
+<programme channel="067e6b6fa36352ad8984a8d97c9a39d4" start="20261118063255 +0000" stop="20261118065729 +0000">
+    <title>Unspeakable</title>
+    <sub-title>Unspeakable</sub-title>
+    <desc>Unspeakable chases a storm in Tornado Alley then aces science experiments to redeem an "F"!</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/4296410dd2e85bdcb00d3fd021eb1503/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2Fassets%2Fbanner%2F16_9%2FSeries%2F1663974830048_aHR0cHM6Ly9zNGIzYjlhNC5zc2wuaHdjZG4ubmV0L2ZpbGVzL3N0eWxlcy90aC04MDB4NDUwL3B1YmxpYy9hOHduNGh3L2ltL2lwdHYvYWMvNDUvNTNjYzAxMTJiZTkyZTc3MmRmYzI0NWUyOWJiOTQ1OTUuanBn.jpg" />
+    <episode-num system="onscreen">S18E03</episode-num>
     <rating system="USA Parental Rating">TVPG</rating>
   </programme>
 <programme channel="0597d2a4b388b1497a9bf48812e5d070" start="20261116063335 +0000" stop="20261116075714 +0000">
@@ -71777,14 +71942,6 @@ Early one morning in a deserted area outside of Phoenix, a motorcyclist discover
     <episode-num system="onscreen">S33E12</episode-num>
     <rating system="USA Parental Rating">TVPG</rating>
   </programme>
-<programme channel="1b5977c99bc753ec4564fcbb3955c1aa" start="20261116060016 +0000" stop="20261116063338 +0000">
-    <title>Ryan Trahan</title>
-    <sub-title>Ryan Trahan</sub-title>
-    <desc>Ryan ambitiously attempts to solve a Rubik's Cube and then an even more difficult one!</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/12d50a34895951fc838eca00d9d1c2e1/images/gracenote/assets/p25400855_b_h10_ac.jpg" />
-    <episode-num system="onscreen">S08E10</episode-num>
-    <rating system="USA Parental Rating">TVPG</rating>
-  </programme>
 <programme channel="1b5977c99bc753ec4564fcbb3955c1aa" start="20261116063338 +0000" stop="20261116070754 +0000">
     <title>Ryan Trahan</title>
     <sub-title>Ryan Trahan</sub-title>
@@ -72631,6 +72788,14 @@ Early one morning in a deserted area outside of Phoenix, a motorcyclist discover
     <desc>Ryan goes on a luxurious road trip to Big Sur and then hosts a billionaires-only birthday party.</desc>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/12d50a34895951fc838eca00d9d1c2e1/images/gracenote/assets/p25400855_b_h10_ac.jpg" />
     <episode-num system="onscreen">S04E02</episode-num>
+    <rating system="USA Parental Rating">TVPG</rating>
+  </programme>
+<programme channel="1b5977c99bc753ec4564fcbb3955c1aa" start="20261118063258 +0000" stop="20261118065630 +0000">
+    <title>Ryan Trahan</title>
+    <sub-title>Ryan Trahan</sub-title>
+    <desc>Ryan travels the country to find out if 1-star hotel reviews are valid or just acts of revenge.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/12d50a34895951fc838eca00d9d1c2e1/images/gracenote/assets/p25400855_b_h10_ac.jpg" />
+    <episode-num system="onscreen">S04E03</episode-num>
     <rating system="USA Parental Rating">TVPG</rating>
   </programme>
 <programme channel="c0de867f29485305b9197b14cd08240f" start="20261116061721 +0000" stop="20261116064114 +0000">
@@ -76353,195 +76518,6 @@ Early one morning in a deserted area outside of Phoenix, a motorcyclist discover
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d4202587ce23a39d262a6bcc95615286/rokuFeed/assets/a87ebac3a5fa54f494236feff526628f.jpg" />
     <episode-num system="onscreen">S03E09</episode-num>
     <rating system="USA Parental Rating">TV14</rating>
-  </programme>
-<programme channel="a46e0aed15be88afdbc560324da36d60" start="20261116061200 +0000" stop="20261116063500 +0000">
-    <title>Entrevista Michelle Garza Cervera</title>
-    <desc>Selección de entrevistas en el marco de Mórbido Film Fest 2022.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/6cd06040ed8b287735b085434afac95a/rokuFeed/assets/142ee5363c775556af64f3f9533c945e.jpeg" />
-  </programme>
-<programme channel="a46e0aed15be88afdbc560324da36d60" start="20261116063500 +0000" stop="20261116081200 +0000">
-    <title>Patient 27</title>
-    <desc>Cesar begins to notice strange events related to the treatment of patient 27.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/fda8939e606654688b330036f4570019/images/gracenote/assets/p11806993_b_h10_aa.jpg" />
-    <rating system="USA Parental Rating">TVMA</rating>
-  </programme>
-<programme channel="a46e0aed15be88afdbc560324da36d60" start="20261116081200 +0000" stop="20261116093800 +0000">
-    <title>The Infected</title>
-    <desc>A small group battles to escape an epidemic of the undead sweeping through Mexico City.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/66f6389de19f519d9ad0963ac8e47284/images/gracenote/assets/p11655001_b_h10_aa.jpg" />
-    <rating system="USA Parental Rating">TVMA</rating>
-  </programme>
-<programme channel="a46e0aed15be88afdbc560324da36d60" start="20261116093800 +0000" stop="20261116111800 +0000">
-    <title>Inicuo: The Brotherhood</title>
-    <desc>A man who has lost everything creates a religious cult and kidnaps a former business partner.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8d0cb6530dd4535b9b8653e255a5d49f/images/gracenote/assets/p14082392_b_h10_aa.jpg" />
-    <rating system="Motion Picture Association of America">PG13</rating>
-  </programme>
-<programme channel="a46e0aed15be88afdbc560324da36d60" start="20261116111800 +0000" stop="20261116125300 +0000">
-    <title>The Devil Told Me What To Do</title>
-    <desc>A psychologically disturbed man executes a kidnapping and torture that could put the devil to shame.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/23e9f50b59505dc0a910256cbf0e0533/images/gracenote/assets/p17550019_v_h11_aa.jpg" />
-    <rating system="USA Parental Rating">TV14</rating>
-  </programme>
-<programme channel="a46e0aed15be88afdbc560324da36d60" start="20261116125300 +0000" stop="20261116143200 +0000">
-    <title>My Demons Never Swore Solitude</title>
-    <desc>A couple return from the grave seeking revenge on the man who killed them.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/26aeebce0049592da2b830f17857edde/images/gracenote/assets/p16942728_v_h8_aa.jpg" />
-    <rating system="USA Parental Rating">TV14</rating>
-  </programme>
-<programme channel="a46e0aed15be88afdbc560324da36d60" start="20261116143200 +0000" stop="20261116145500 +0000">
-    <title>Entrevista Michelle Garza Cervera</title>
-    <desc>Selección de entrevistas en el marco de Mórbido Film Fest 2022.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/6cd06040ed8b287735b085434afac95a/rokuFeed/assets/142ee5363c775556af64f3f9533c945e.jpeg" />
-  </programme>
-<programme channel="a46e0aed15be88afdbc560324da36d60" start="20261116145500 +0000" stop="20261116163200 +0000">
-    <title>Patient 27</title>
-    <desc>Cesar begins to notice strange events related to the treatment of patient 27.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/fda8939e606654688b330036f4570019/images/gracenote/assets/p11806993_b_h10_aa.jpg" />
-    <rating system="USA Parental Rating">TVMA</rating>
-  </programme>
-<programme channel="a46e0aed15be88afdbc560324da36d60" start="20261116163200 +0000" stop="20261116175800 +0000">
-    <title>The Infected</title>
-    <desc>A small group battles to escape an epidemic of the undead sweeping through Mexico City.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/66f6389de19f519d9ad0963ac8e47284/images/gracenote/assets/p11655001_b_h10_aa.jpg" />
-    <rating system="USA Parental Rating">TVMA</rating>
-  </programme>
-<programme channel="a46e0aed15be88afdbc560324da36d60" start="20261116175800 +0000" stop="20261116193800 +0000">
-    <title>Inicuo: The Brotherhood</title>
-    <desc>A man who has lost everything creates a religious cult and kidnaps a former business partner.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8d0cb6530dd4535b9b8653e255a5d49f/images/gracenote/assets/p14082392_b_h10_aa.jpg" />
-    <rating system="Motion Picture Association of America">PG13</rating>
-  </programme>
-<programme channel="a46e0aed15be88afdbc560324da36d60" start="20261116193800 +0000" stop="20261116211300 +0000">
-    <title>The Devil Told Me What To Do</title>
-    <desc>A psychologically disturbed man executes a kidnapping and torture that could put the devil to shame.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/23e9f50b59505dc0a910256cbf0e0533/images/gracenote/assets/p17550019_v_h11_aa.jpg" />
-    <rating system="USA Parental Rating">TV14</rating>
-  </programme>
-<programme channel="a46e0aed15be88afdbc560324da36d60" start="20261116211300 +0000" stop="20261116225200 +0000">
-    <title>My Demons Never Swore Solitude</title>
-    <desc>A couple return from the grave seeking revenge on the man who killed them.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/26aeebce0049592da2b830f17857edde/images/gracenote/assets/p16942728_v_h8_aa.jpg" />
-    <rating system="USA Parental Rating">TV14</rating>
-  </programme>
-<programme channel="a46e0aed15be88afdbc560324da36d60" start="20261116225200 +0000" stop="20261116231500 +0000">
-    <title>Entrevista Michelle Garza Cervera</title>
-    <desc>Selección de entrevistas en el marco de Mórbido Film Fest 2022.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/6cd06040ed8b287735b085434afac95a/rokuFeed/assets/142ee5363c775556af64f3f9533c945e.jpeg" />
-  </programme>
-<programme channel="a46e0aed15be88afdbc560324da36d60" start="20261116231500 +0000" stop="20261117005200 +0000">
-    <title>Patient 27</title>
-    <desc>Cesar begins to notice strange events related to the treatment of patient 27.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/fda8939e606654688b330036f4570019/images/gracenote/assets/p11806993_b_h10_aa.jpg" />
-    <rating system="USA Parental Rating">TVMA</rating>
-  </programme>
-<programme channel="a46e0aed15be88afdbc560324da36d60" start="20261117005200 +0000" stop="20261117021800 +0000">
-    <title>The Infected</title>
-    <desc>A small group battles to escape an epidemic of the undead sweeping through Mexico City.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/66f6389de19f519d9ad0963ac8e47284/images/gracenote/assets/p11655001_b_h10_aa.jpg" />
-    <rating system="USA Parental Rating">TVMA</rating>
-  </programme>
-<programme channel="a46e0aed15be88afdbc560324da36d60" start="20261117021800 +0000" stop="20261117035800 +0000">
-    <title>Inicuo: The Brotherhood</title>
-    <desc>A man who has lost everything creates a religious cult and kidnaps a former business partner.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8d0cb6530dd4535b9b8653e255a5d49f/images/gracenote/assets/p14082392_b_h10_aa.jpg" />
-    <rating system="Motion Picture Association of America">PG13</rating>
-  </programme>
-<programme channel="a46e0aed15be88afdbc560324da36d60" start="20261117035800 +0000" stop="20261117053300 +0000">
-    <title>The Devil Told Me What To Do</title>
-    <desc>A psychologically disturbed man executes a kidnapping and torture that could put the devil to shame.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/23e9f50b59505dc0a910256cbf0e0533/images/gracenote/assets/p17550019_v_h11_aa.jpg" />
-    <rating system="USA Parental Rating">TV14</rating>
-  </programme>
-<programme channel="a46e0aed15be88afdbc560324da36d60" start="20261117053300 +0000" stop="20261117070600 +0000">
-    <title>Killer Sofa</title>
-    <desc>A reclining chair becomes enchanted by a young woman and begins committing deadly crimes of passion.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/319d75ac8598514c8bf995692f017ec6/rokuFeed/assets/2320e580cc095b20925bd5c3635f3339.jpg" />
-    <rating system="Motion Picture Association of America">UR</rating>
-  </programme>
-<programme channel="a46e0aed15be88afdbc560324da36d60" start="20261117070600 +0000" stop="20261117090000 +0000">
-    <title>Skinamarink</title>
-    <desc>Two children wake up to find all the windows and doors in their home have vanished.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e7916e858a9b5d088cfd7dd2704bf7e7/rokuFeed/assets/a27217fde2b252b499715f034f301c1e.jpg" />
-    <rating system="Motion Picture Association of America">UR</rating>
-  </programme>
-<programme channel="a46e0aed15be88afdbc560324da36d60" start="20261117090000 +0000" stop="20261117104300 +0000">
-    <title>The Passenger</title>
-    <desc>Terror strikes when strangers who are sharing a ride try to help an injured hiker.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/2d70bc7da47f5fe88d4d820e6a96cf51/images/gracenote/assets/p21689289_v_h8_ab.jpg" />
-    <rating system="Motion Picture Association of America">UR</rating>
-  </programme>
-<programme channel="a46e0aed15be88afdbc560324da36d60" start="20261117104300 +0000" stop="20261117122900 +0000">
-    <title>The Other Shape</title>
-    <desc>Humanity has built a paradise on the moon and a man will do anything to try to fit in.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8080bce0d533512eadfa60dbe91b231b/images/gracenote/assets/p25102131_b_h10_ab.jpg" />
-    <rating system="Motion Picture Association of America">PG</rating>
-  </programme>
-<programme channel="a46e0aed15be88afdbc560324da36d60" start="20261117122900 +0000" stop="20261117140500 +0000">
-    <title>Mad God</title>
-    <desc>A figure known as The Assassin descends from the heavens into a nightmarish world.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/38113283267d590ba218a940015f1fa5/images/gracenote/assets/p22188685_v_h8_ab.jpg" />
-    <rating system="Motion Picture Association of America">UR</rating>
-  </programme>
-<programme channel="a46e0aed15be88afdbc560324da36d60" start="20261117140500 +0000" stop="20261117153800 +0000">
-    <title>Killer Sofa</title>
-    <desc>A reclining chair becomes enchanted by a young woman and begins committing deadly crimes of passion.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/319d75ac8598514c8bf995692f017ec6/rokuFeed/assets/2320e580cc095b20925bd5c3635f3339.jpg" />
-    <rating system="Motion Picture Association of America">UR</rating>
-  </programme>
-<programme channel="a46e0aed15be88afdbc560324da36d60" start="20261117153800 +0000" stop="20261117173200 +0000">
-    <title>Skinamarink</title>
-    <desc>Two children wake up to find all the windows and doors in their home have vanished.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e7916e858a9b5d088cfd7dd2704bf7e7/rokuFeed/assets/a27217fde2b252b499715f034f301c1e.jpg" />
-    <rating system="Motion Picture Association of America">UR</rating>
-  </programme>
-<programme channel="a46e0aed15be88afdbc560324da36d60" start="20261117173200 +0000" stop="20261117191400 +0000">
-    <title>The Passenger</title>
-    <desc>Terror strikes when strangers who are sharing a ride try to help an injured hiker.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/2d70bc7da47f5fe88d4d820e6a96cf51/images/gracenote/assets/p21689289_v_h8_ab.jpg" />
-    <rating system="Motion Picture Association of America">UR</rating>
-  </programme>
-<programme channel="a46e0aed15be88afdbc560324da36d60" start="20261117191400 +0000" stop="20261117210100 +0000">
-    <title>The Other Shape</title>
-    <desc>Humanity has built a paradise on the moon and a man will do anything to try to fit in.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8080bce0d533512eadfa60dbe91b231b/images/gracenote/assets/p25102131_b_h10_ab.jpg" />
-    <rating system="Motion Picture Association of America">PG</rating>
-  </programme>
-<programme channel="a46e0aed15be88afdbc560324da36d60" start="20261117210100 +0000" stop="20261117223600 +0000">
-    <title>Mad God</title>
-    <desc>A figure known as The Assassin descends from the heavens into a nightmarish world.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/38113283267d590ba218a940015f1fa5/images/gracenote/assets/p22188685_v_h8_ab.jpg" />
-    <rating system="Motion Picture Association of America">UR</rating>
-  </programme>
-<programme channel="a46e0aed15be88afdbc560324da36d60" start="20261117223600 +0000" stop="20261118000900 +0000">
-    <title>Killer Sofa</title>
-    <desc>A reclining chair becomes enchanted by a young woman and begins committing deadly crimes of passion.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/319d75ac8598514c8bf995692f017ec6/rokuFeed/assets/2320e580cc095b20925bd5c3635f3339.jpg" />
-    <rating system="Motion Picture Association of America">UR</rating>
-  </programme>
-<programme channel="a46e0aed15be88afdbc560324da36d60" start="20261118000900 +0000" stop="20261118020300 +0000">
-    <title>Skinamarink</title>
-    <desc>Two children wake up to find all the windows and doors in their home have vanished.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e7916e858a9b5d088cfd7dd2704bf7e7/rokuFeed/assets/a27217fde2b252b499715f034f301c1e.jpg" />
-    <rating system="Motion Picture Association of America">UR</rating>
-  </programme>
-<programme channel="a46e0aed15be88afdbc560324da36d60" start="20261118020300 +0000" stop="20261118034600 +0000">
-    <title>The Passenger</title>
-    <desc>Terror strikes when strangers who are sharing a ride try to help an injured hiker.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/2d70bc7da47f5fe88d4d820e6a96cf51/images/gracenote/assets/p21689289_v_h8_ab.jpg" />
-    <rating system="Motion Picture Association of America">UR</rating>
-  </programme>
-<programme channel="a46e0aed15be88afdbc560324da36d60" start="20261118034600 +0000" stop="20261118053200 +0000">
-    <title>The Other Shape</title>
-    <desc>Humanity has built a paradise on the moon and a man will do anything to try to fit in.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8080bce0d533512eadfa60dbe91b231b/images/gracenote/assets/p25102131_b_h10_ab.jpg" />
-    <rating system="Motion Picture Association of America">PG</rating>
-  </programme>
-<programme channel="a46e0aed15be88afdbc560324da36d60" start="20261118053200 +0000" stop="20261118070800 +0000">
-    <title>Mad God</title>
-    <desc>A figure known as The Assassin descends from the heavens into a nightmarish world.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/38113283267d590ba218a940015f1fa5/images/gracenote/assets/p22188685_v_h8_ab.jpg" />
-    <rating system="Motion Picture Association of America">UR</rating>
   </programme>
 <programme channel="f04f8db430242735a3270d72f0091a73" start="20261116054942 +0000" stop="20261116063924 +0000">
     <title>Mutant X</title>
@@ -89283,6 +89259,56 @@ Early one morning in a deserted area outside of Phoenix, a motorcyclist discover
       <value>TV-14</value>
     </rating>
   </programme>
+<programme start="20261116063053 +0000" stop="20261116083844 +0000" channel="FREQ541-US">
+    <title lang="en">Rotten Mango</title>
+    <desc lang="en">Parents forced 9-year-old daughter to lie in sister's coffin and mutilate her corpse.</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/7485360143433985021/solid/rectangle/w1920_h1080/1rc9traudjk0s1ctw6nnuvpi8l.jpg" />
+    <episode-num system="dd_progid">8922960</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261116083844 +0000" stop="20261116091309 +0000" channel="FREQ541-US">
+    <title lang="en">True Crime Recaps</title>
+    <desc lang="en">Join to hear the incredible tales of three women who survived encounters with notorious serial killers.</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/1in2movlwh5h41t7deaawz00l/w1920_h1080/1in2movlwh5h41t7deaawz00l.jpg" />
+    <episode-num system="dd_progid">2200110</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261116091309 +0000" stop="20261116095119 +0000" channel="FREQ541-US">
+    <title lang="en">True Crime Recaps</title>
+    <desc lang="en">Unravel the disappearance of the McStay family. Then, the unsolved Hinterkaifeck murders from 1922, Germany.</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/atqb9s6aj4ap16ucb12ux1iuq/w1920_h1080/atqb9s6aj4ap16ucb12ux1iuq.jpg" />
+    <episode-num system="dd_progid">2200151</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261116095119 +0000" stop="20261116103114 +0000" channel="FREQ541-US">
+    <title lang="en">Law&amp;Crime Investigates</title>
+    <desc lang="en">An obsessive ex-boyfriend stalks his ex-girlfriend during a night out on the town, ending in tragedy.</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/7306440835666620385/solid/rectangle/w1920_h1080/11qzdbkz742451ehz02tgk4xx3.jpg" />
+    <episode-num system="dd_progid">5315651</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261116103114 +0000" stop="20261116112239 +0000" channel="FREQ541-US">
+    <title lang="en">Law&amp;Crime Investigates</title>
+    <desc lang="en">An estranged husband sneaks into his wife's home, leading to 55 hours of torture.</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/7306477383738052886/solid/rectangle/w1920_h1080/j9bc6lo4cnd116w5a5c0u8no2.jpg" />
+    <episode-num system="dd_progid">5315620</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
 <programme start="20261116061507 +0000" stop="20261116080022 +0000" channel="FREQ896">
     <title lang="en">A Perfect Christmas Carol</title>
     <desc lang="en">An independent pastry chef agrees to the big step of accompanying her hunky dream man home for the holidays.</desc>
@@ -90289,7 +90315,6 @@ Early one morning in a deserted area outside of Phoenix, a motorcyclist discover
 <programme start="20261116235910 +0000" stop="20261117013756 +0000" channel="6a1610bebdf296985fd95603-6449369eb3ff17382cae580d"><title>Hybrid (2007)</title><desc>A doctor (Justine Bateman) transplants the eyes of a wolf into a blind man (Cory Monteith).</desc><category>Science Fiction</category><category>Horror</category><category>Action</category><category>Thriller</category><category>Fantasy</category><category>Mystery</category><rating><value>NR</value></rating></programme>
 <programme start="20261117013756 +0000" stop="20261117031602 +0000" channel="6a1610bebdf296985fd95603-6449369eb3ff17382cae580d"><title>Eraserhead [Broadcast Edit] (1977)</title><desc>Henry Spencer tries to survive his environment, his girlfriend, and the screams of his child.</desc><category>Fantasy</category><category>Horror</category><category>Science Fiction</category><rating><value>NR</value></rating></programme>
 <programme start="20261117031602 +0000" stop="20261117050000 +0000" channel="6a1610bebdf296985fd95603-6449369eb3ff17382cae580d"><title>Hunters [Broadcast Edit] (2021)</title><desc>Several years after a virus has ravaged the world, a soldier protects refugees from mutants.</desc><category>Action</category><category>Horror</category><rating><value>NR</value></rating></programme>
-<programme start="20261116060433 +0000" stop="20261116063258 +0000" channel="6a1610bebdf296985fd95603-6470477fe536e0faaf10be9d"><title>Rescue Robots</title><sub-title>UFO - Episode 15</sub-title><desc>An unidentified object from outer-space has crashed in the desert on the outskirts of Calamity City and is leaking radiation, the Rescue Robots must retrieve and contain the object before it causes harm to the city.</desc><category>Entertainment</category><episode-num system="onscreen">S1E15</episode-num><episode-num system="xmltv_ns">0.14.</episode-num><rating><value>U</value></rating></programme>
 <programme start="20261116063258 +0000" stop="20261116074058 +0000" channel="6a1610bebdf296985fd95603-6470477fe536e0faaf10be9d"><title>MechMania</title><sub-title>MC01</sub-title><desc>Robot fightings newest competition begins! In the first heat, meet new robots and some familiar faces as teams get a feel for the arena and size up their competition. Filmed in Grantham in front of a live audience, robots battle for survival in the Robots Live Arena.</desc><category>Entertainment</category><episode-num system="onscreen">S1E1</episode-num><episode-num system="xmltv_ns">0.0.</episode-num><rating><value>PG</value></rating></programme>
 <programme start="20261116074058 +0000" stop="20261116084858 +0000" channel="6a1610bebdf296985fd95603-6470477fe536e0faaf10be9d"><title>MechMania</title><sub-title>MC02</sub-title><desc>Heat 2 of the UKs most brutal robot combat competition takes the action to Crawley in the south of England. Winners and losers from Heat 1 face fresh opponents, fighting to secure a win and guarantee their place in the finals.</desc><category>Entertainment</category><episode-num system="onscreen">S1E2</episode-num><episode-num system="xmltv_ns">0.1.</episode-num><rating><value>PG</value></rating></programme>
 <programme start="20261116084858 +0000" stop="20261116095659 +0000" channel="6a1610bebdf296985fd95603-6470477fe536e0faaf10be9d"><title>MechMania</title><sub-title>MC03</sub-title><desc>Its the last chance for teams to secure a spot before the final. In savage and tactical 1v1 matches, teams battle for a place in the top 16. New robots join the fray, hoping for a last-minute victory to advance to the championship.</desc><category>Entertainment</category><episode-num system="onscreen">S1E3</episode-num><episode-num system="xmltv_ns">0.2.</episode-num><rating><value>PG</value></rating></programme>
@@ -90757,33 +90782,6 @@ Early one morning in a deserted area outside of Phoenix, a motorcyclist discover
 <programme start="20261117014502 +0000" stop="20261117021402 +0000" channel="6a1610bebdf296985fd95603-664292a80e0ec7b4ce5eb28c"><title>StarTalk Things You Thought You Knew</title><sub-title>Earth's Smoothness and The Equivalence Principle</sub-title><desc>Watch Neil deGrasse Tyson and Chuck discuss how smooth Earth is. Then, gravity and the equivalence principle.</desc><category>Entertainment</category><episode-num system="onscreen">S5E12</episode-num><episode-num system="xmltv_ns">4.11.</episode-num><rating><value>TV-G</value></rating></programme>
 <programme start="20261117021402 +0000" stop="20261117031002 +0000" channel="6a1610bebdf296985fd95603-664292a80e0ec7b4ce5eb28c"><title>StarTalk Cosmic Queries </title><sub-title>Between Planets and Stars</sub-title><desc>Neil deGrasse Tyson is joined by a co-host and brown dwarf expert to explore the worlds found between stars.</desc><category>Entertainment</category><episode-num system="onscreen">S4E5</episode-num><episode-num system="xmltv_ns">3.4.</episode-num><rating><value>TV-G</value></rating></programme>
 <programme start="20261117031002 +0000" stop="20261117040502 +0000" channel="6a1610bebdf296985fd95603-664292a80e0ec7b4ce5eb28c"><title>StarTalk Cosmic Queries </title><sub-title>Planets and Stuff</sub-title><desc>Neil deGrasse Tyson and comic Paul Mecurio answer questions about space, neuroscience, and the Titanic.</desc><category>Entertainment</category><episode-num system="onscreen">S3E9</episode-num><episode-num system="xmltv_ns">2.8.</episode-num><rating><value>TV-G</value></rating></programme>
-<programme start="20261116063053 +0000" stop="20261116083844 +0000" channel="6a1610bebdf296985fd95603-664294d20e0ec7b4ce5eb28e"><title>Rotten Mango</title><sub-title>Evil at Home</sub-title><desc>Parents forced 9-year-old daughter to lie in sister's coffin and mutilate her corpse.</desc><category>Crime</category><episode-num system="onscreen">S4E2</episode-num><episode-num system="xmltv_ns">3.1.</episode-num><rating><value>TV-14</value></rating></programme>
-<programme start="20261116083844 +0000" stop="20261116091309 +0000" channel="6a1610bebdf296985fd95603-664294d20e0ec7b4ce5eb28e"><title>True Crime Recaps</title><sub-title>Surviving a Serial Killer</sub-title><desc>Join to hear the incredible tales of three women who survived encounters with notorious serial killers.</desc><category>Crime</category><episode-num system="onscreen">S8E2</episode-num><episode-num system="xmltv_ns">7.1.</episode-num><rating><value>TV-14</value></rating></programme>
-<programme start="20261116091309 +0000" stop="20261116095119 +0000" channel="6a1610bebdf296985fd95603-664294d20e0ec7b4ce5eb28e"><title>True Crime Recaps</title><sub-title>The McStay Family &amp; Hinterkaifeck Murders</sub-title><desc>Unravel the disappearance of the McStay family. Then, the unsolved Hinterkaifeck murders from 1922, Germany.</desc><category>Crime</category><episode-num system="onscreen">S8E3</episode-num><episode-num system="xmltv_ns">7.2.</episode-num><rating><value>TV-14</value></rating></programme>
-<programme start="20261116095119 +0000" stop="20261116103114 +0000" channel="6a1610bebdf296985fd95603-664294d20e0ec7b4ce5eb28e"><title>Law&amp;Crime Investigates</title><sub-title>If I Can't Have You</sub-title><desc>An obsessive ex-boyfriend stalks his ex-girlfriend during a night out on the town, ending in tragedy.</desc><category>Crime</category><episode-num system="onscreen">S1E4</episode-num><episode-num system="xmltv_ns">0.3.</episode-num><rating><value>TV-14</value></rating></programme>
-<programme start="20261116103114 +0000" stop="20261116112239 +0000" channel="6a1610bebdf296985fd95603-664294d20e0ec7b4ce5eb28e"><title>Law&amp;Crime Investigates</title><sub-title>Leave the Window Open</sub-title><desc>An estranged husband sneaks into his wife's home, leading to 55 hours of torture.</desc><category>Crime</category><episode-num system="onscreen">S1E5</episode-num><episode-num system="xmltv_ns">0.4.</episode-num><rating><value>TV-14</value></rating></programme>
-<programme start="20261116112239 +0000" stop="20261116121404 +0000" channel="6a1610bebdf296985fd95603-664294d20e0ec7b4ce5eb28e"><title>Prime Crime</title><sub-title>Deadly Jealousy</sub-title><desc>When an up-and-coming cyclist is murdered, it becomes an international search for a killer.</desc><category>Crime</category><episode-num system="onscreen">S5E1</episode-num><episode-num system="xmltv_ns">4.0.</episode-num><rating><value>TV-14</value></rating></programme>
-<programme start="20261116121404 +0000" stop="20261116130504 +0000" channel="6a1610bebdf296985fd95603-664294d20e0ec7b4ce5eb28e"><title>Prime Crime</title><sub-title>Real Life NCIS</sub-title><desc>A young, single mom meets a handsome military policeman, but he’s on the wrong side of the law.</desc><category>Crime</category><episode-num system="onscreen">S5E2</episode-num><episode-num system="xmltv_ns">4.1.</episode-num><rating><value>TV-14</value></rating></programme>
-<programme start="20261116130504 +0000" stop="20261116134229 +0000" channel="6a1610bebdf296985fd95603-664294d20e0ec7b4ce5eb28e"><title>Never Solved with Brooke Makenna</title><sub-title>A Confession About Savannah Gold Part 2</sub-title><desc>Brooke discusses the case of a 21-year-old server who vanished, leading to a scary confession from her boss.</desc><category>Crime</category><episode-num system="onscreen">S3E12</episode-num><episode-num system="xmltv_ns">2.11.</episode-num><rating><value>TV-14</value></rating></programme>
-<programme start="20261116134229 +0000" stop="20261116141839 +0000" channel="6a1610bebdf296985fd95603-664294d20e0ec7b4ce5eb28e"><title>Never Solved with Brooke Makenna</title><sub-title>Three Generations Killed Part 1</sub-title><desc>Brooke discusses the Clydach murders, conviction of David, and the alleged cover-up and misconduct behind it.</desc><category>Crime</category><episode-num system="onscreen">S3E13</episode-num><episode-num system="xmltv_ns">2.12.</episode-num><rating><value>TV-14</value></rating></programme>
-<programme start="20261116141839 +0000" stop="20261116145634 +0000" channel="6a1610bebdf296985fd95603-664294d20e0ec7b4ce5eb28e"><title>Never Solved with Brooke Makenna</title><sub-title>Three Generations Killed Part 2</sub-title><desc>Brooke discusses the Clydach murders, conviction of David, and the alleged cover-up and misconduct behind it.</desc><category>Crime</category><episode-num system="onscreen">S3E14</episode-num><episode-num system="xmltv_ns">2.13.</episode-num><rating><value>TV-14</value></rating></programme>
-<programme start="20261116145634 +0000" stop="20261116154814 +0000" channel="6a1610bebdf296985fd95603-664294d20e0ec7b4ce5eb28e"><title>Killer Cases</title><sub-title>The Dallas Love Triangle Murder</sub-title><desc>Dr. Hatcher was in a deep romance with fellow doctor Ricardo Paniagua when she was murdered.</desc><category>Crime</category><episode-num system="onscreen">S2E7</episode-num><episode-num system="xmltv_ns">1.6.</episode-num><rating><value>TV-14</value></rating></programme>
-<programme start="20261116154814 +0000" stop="20261116163939 +0000" channel="6a1610bebdf296985fd95603-664294d20e0ec7b4ce5eb28e"><title>Killer Cases</title><sub-title>Murder on Middle Mountain</sub-title><desc>A 13-year-old is reported missing, setting off a manhunt in the rough Colorado wilderness.</desc><category>Crime</category><episode-num system="onscreen">S2E9</episode-num><episode-num system="xmltv_ns">1.8.</episode-num><rating><value>TV-14</value></rating></programme>
-<programme start="20261116163939 +0000" stop="20261116170604 +0000" channel="6a1610bebdf296985fd95603-664294d20e0ec7b4ce5eb28e"><title>True Crime Recaps</title><sub-title>Tragic High School Massacre</sub-title><desc>Delve into the tragic events of the infamous Columbine High School shooting, a dark day in American history.</desc><category>Crime</category><episode-num system="onscreen">S8E4</episode-num><episode-num system="xmltv_ns">7.3.</episode-num><rating><value>TV-14</value></rating></programme>
-<programme start="20261116170604 +0000" stop="20261116173929 +0000" channel="6a1610bebdf296985fd95603-664294d20e0ec7b4ce5eb28e"><title>True Crime Recaps</title><sub-title>Psycho Killers</sub-title><desc>Dive into the story of a clown killer. Then, the tale of Ed Gein, whose crimes inspired infamous characters.</desc><category>Crime</category><episode-num system="onscreen">S8E5</episode-num><episode-num system="xmltv_ns">7.4.</episode-num><rating><value>TV-14</value></rating></programme>
-<programme start="20261116173929 +0000" stop="20261116180854 +0000" channel="6a1610bebdf296985fd95603-664294d20e0ec7b4ce5eb28e"><title>True Crime Recaps</title><sub-title>Ezra McCandless: Killer Ex-Girlfriend</sub-title><desc>Uncover the tale of Ezra McCandless, who stabbed philosophy student Alex Woodworth 16 times on a dairy farm.</desc><category>Crime</category><episode-num system="onscreen">S8E6</episode-num><episode-num system="xmltv_ns">7.5.</episode-num><rating><value>TV-14</value></rating></programme>
-<programme start="20261116180854 +0000" stop="20261116184019 +0000" channel="6a1610bebdf296985fd95603-664294d20e0ec7b4ce5eb28e"><title>True Crime Recaps</title><sub-title>Three Criminal Fathers</sub-title><desc>Investigate a child's two-year disappearance. Then, a father's serpent DNA belief and another's revenge plot.</desc><category>Crime</category><episode-num system="onscreen">S8E7</episode-num><episode-num system="xmltv_ns">7.6.</episode-num><rating><value>TV-14</value></rating></programme>
-<programme start="20261116184019 +0000" stop="20261116191129 +0000" channel="6a1610bebdf296985fd95603-664294d20e0ec7b4ce5eb28e"><title>True Crime Recaps</title><sub-title>Corrupt Crimes</sub-title><desc>Explore a gruesome murder and face-chewing incident. Then, mysterious train track deaths that hide secrets.</desc><category>Crime</category><episode-num system="onscreen">S8E8</episode-num><episode-num system="xmltv_ns">7.7.</episode-num><rating><value>TV-14</value></rating></programme>
-<programme start="20261116191129 +0000" stop="20261116194024 +0000" channel="6a1610bebdf296985fd95603-664294d20e0ec7b4ce5eb28e"><title>True Crime Recaps</title><sub-title>Famous Last Words &amp; Stuffed in a Suitcase</sub-title><desc>Analyze infamous last words from death row inmates. Then, a chilling twist in a hide-and-seek game gone wrong.</desc><category>Crime</category><episode-num system="onscreen">S8E9</episode-num><episode-num system="xmltv_ns">7.8.</episode-num><rating><value>TV-14</value></rating></programme>
-<programme start="20261116194024 +0000" stop="20261116200819 +0000" channel="6a1610bebdf296985fd95603-664294d20e0ec7b4ce5eb28e"><title>True Crime Recaps</title><sub-title>Letecia Stauch: Stepson Killer</sub-title><desc>Delve into the case of Letecia Stauch who killed her 11-year-old stepson. Then, updates on the investigation.</desc><category>Crime</category><episode-num system="onscreen">S8E10</episode-num><episode-num system="xmltv_ns">7.9.</episode-num><rating><value>TV-14</value></rating></programme>
-<programme start="20261116200819 +0000" stop="20261116203714 +0000" channel="6a1610bebdf296985fd95603-664294d20e0ec7b4ce5eb28e"><title>True Crime Recaps</title><sub-title>Captured Children</sub-title><desc>A 12-year-old's slumber party turns into a nightmare. Then, the puzzling disappearance of Summer Wells.</desc><category>Crime</category><episode-num system="onscreen">S8E11</episode-num><episode-num system="xmltv_ns">7.10.</episode-num><rating><value>TV-14</value></rating></programme>
-<programme start="20261116203714 +0000" stop="20261116211054 +0000" channel="6a1610bebdf296985fd95603-664294d20e0ec7b4ce5eb28e"><title>True Crime Recaps</title><sub-title>Three Stars Who Died Too Soon</sub-title><desc>Investigate the alleged murders of three rock legends. Is there more to their tragic ends than meets the eye?</desc><category>Crime</category><episode-num system="onscreen">S8E12</episode-num><episode-num system="xmltv_ns">7.11.</episode-num><rating><value>TV-14</value></rating></programme>
-<programme start="20261116211054 +0000" stop="20261116214319 +0000" channel="6a1610bebdf296985fd95603-664294d20e0ec7b4ce5eb28e"><title>True Crime Recaps</title><sub-title>Wrongful Crimes</sub-title><desc>A chilling 911 call about a toddler wandering alone, spiraling into a hoax. Then, a convict framed for murder.</desc><category>Crime</category><episode-num system="onscreen">S8E13</episode-num><episode-num system="xmltv_ns">7.12.</episode-num><rating><value>TV-14</value></rating></programme>
-<programme start="20261116214319 +0000" stop="20261116223444 +0000" channel="6a1610bebdf296985fd95603-664294d20e0ec7b4ce5eb28e"><title>Prime Crime</title><sub-title>Deadly Jealousy</sub-title><desc>When an up-and-coming cyclist is murdered, it becomes an international search for a killer.</desc><category>Crime</category><episode-num system="onscreen">S5E1</episode-num><episode-num system="xmltv_ns">4.0.</episode-num><rating><value>TV-14</value></rating></programme>
-<programme start="20261116223444 +0000" stop="20261117000043 +0000" channel="6a1610bebdf296985fd95603-664294d20e0ec7b4ce5eb28e"><title>Rotten Mango</title><sub-title>Fearless Mom</sub-title><desc>A grieving mother made it her mission to uncover the truth about her daughter's death.</desc><category>Crime</category><episode-num system="onscreen">S3E10</episode-num><episode-num system="xmltv_ns">2.9.</episode-num><rating><value>TV-14</value></rating></programme>
-<programme start="20261117000043 +0000" stop="20261117020834 +0000" channel="6a1610bebdf296985fd95603-664294d20e0ec7b4ce5eb28e"><title>Rotten Mango</title><sub-title>Evil at Home</sub-title><desc>Parents forced 9-year-old daughter to lie in sister's coffin and mutilate her corpse.</desc><category>Crime</category><episode-num system="onscreen">S4E2</episode-num><episode-num system="xmltv_ns">3.1.</episode-num><rating><value>TV-14</value></rating></programme>
-<programme start="20261117020834 +0000" stop="20261117040810 +0000" channel="6a1610bebdf296985fd95603-664294d20e0ec7b4ce5eb28e"><title>Rotten Mango</title><sub-title>Deadly Obsession</sub-title><desc>A teen vanished on a cruise, and a shocking discovery revealed a family secret.</desc><category>Crime</category><episode-num system="onscreen">S4E3</episode-num><episode-num system="xmltv_ns">3.2.</episode-num><rating><value>TV-14</value></rating></programme>
-<programme start="20261116054451 +0000" stop="20261116063302 +0000" channel="6a1610bebdf296985fd95603-66635e41ca7b22f4c3a2d741"><title>Scorpion</title><sub-title>Wave Goodbye</sub-title><desc>The team prevents a tsunami from hitting a nuclear power facility. Toby helps his ex get her stolen identity.</desc><category>Entertainment</category><episode-num system="onscreen">S4E15</episode-num><episode-num system="xmltv_ns">3.14.</episode-num><rating><value>TV-14</value></rating></programme>
 <programme start="20261116063302 +0000" stop="20261116072132 +0000" channel="6a1610bebdf296985fd95603-66635e41ca7b22f4c3a2d741"><title>Scorpion</title><sub-title>Nerd, Wind and Fire</sub-title><desc>Team Scorpion help a doctor and pilot trapped inside a helicopter that crashed atop a skyscraper.</desc><category>Entertainment</category><episode-num system="onscreen">S4E16</episode-num><episode-num system="xmltv_ns">3.15.</episode-num><rating><value>TV-14</value></rating></programme>
 <programme start="20261116072132 +0000" stop="20261116080953 +0000" channel="6a1610bebdf296985fd95603-66635e41ca7b22f4c3a2d741"><title>Scorpion</title><sub-title>Dumbster Fire</sub-title><desc>The geniuses of Team Scorpion turn into knuckleheads when their mental faculties are impaired during a job.</desc><category>Entertainment</category><episode-num system="onscreen">S4E17</episode-num><episode-num system="xmltv_ns">3.16.</episode-num><rating><value>TV-14</value></rating></programme>
 <programme start="20261116080953 +0000" stop="20261116085844 +0000" channel="6a1610bebdf296985fd95603-66635e41ca7b22f4c3a2d741"><title>Ransom</title><sub-title>Truth &amp; Reconciliation</sub-title><desc>Eric and Kate attend a Prague embassy gala, where an assassination attempt leaves her the prime suspect.</desc><category>Entertainment</category><episode-num system="onscreen">S3E11</episode-num><episode-num system="xmltv_ns">2.10.</episode-num><rating><value>TV-14</value></rating></programme>
@@ -93154,6 +93152,12 @@ Early one morning in a deserted area outside of Phoenix, a motorcyclist discover
     <category lang="en">Entertainment</category>
     <icon src="https://img.vidaahub.com/s3_bucket/60158/live/60158_b98fc2d5-964f-4f1d-af91-5331145c06fc_ee8ba1f4c-1415-4c3a-8a0f-0a18633a3366_1794980620000/fae5b4bbb399cc0c92beef616d721179?f=webp&amp;resize=w_480,h_270" />
   </programme>
+<programme start="20261118063258 +0000" stop="20261118072221 +0000" channel="10496">
+    <title lang="en">The Phelps Family</title>
+    <desc lang="en">Jo tries to help an Alabama family whose mother defends her right to spank.</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://img.vidaahub.com/s3_bucket/60158/live/60158_b98fc2d5-964f-4f1d-af91-5331145c06fc_e8a1f9a3b-5c24-440a-b2fd-200e2680acd4_1794983578000/fae5b4bbb399cc0c92beef616d721179?f=webp&amp;resize=w_480,h_270" />
+  </programme>
 <programme start="20261116060917 +0000" stop="20261116065924 +0000" channel="10498">
     <title lang="en">One of Those Days</title>
     <desc lang="en">Ellenor's lack of a strong defense strategy in a murder trial causes her use desperate tactics.</desc>
@@ -94563,6 +94567,12 @@ Early one morning in a deserted area outside of Phoenix, a motorcyclist discover
     <desc lang="en">Jim’s friend will be buried with a rare baseball card he stole from him.</desc>
     <category lang="en">Entertainment</category>
     <icon src="https://img.vidaahub.com/s3_bucket/60158/live/60158_c91fd8ce-aeb0-4409-bb44-d5a0e7387a75_e3968c13e-b0ca-44b4-bbce-b8623eab577d_1794982128000/8b5c93898d9f5d02fa0d53158d2e4aa9?f=webp&amp;resize=w_480,h_270" />
+  </programme>
+<programme start="20261118063325 +0000" stop="20261118065757 +0000" channel="10504">
+    <title lang="en">The Clock</title>
+    <desc lang="en">Jim and Cheryl adjust the clocks to get the kids to bed earlier.</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://img.vidaahub.com/s3_bucket/60158/live/60158_c91fd8ce-aeb0-4409-bb44-d5a0e7387a75_ecbb4eb76-ebbf-4206-a74f-0d678f364c93_1794983605000/8b5c93898d9f5d02fa0d53158d2e4aa9?f=webp&amp;resize=w_480,h_270" />
   </programme>
 <programme start="20261116054544 +0000" stop="20261116063946 +0000" channel="10506">
     <title lang="en">Escape From Al Qaeda</title>
@@ -114628,6 +114638,12 @@ begin to suspect his wife or the gruesome shooting of an elderly couple whose bo
     <category lang="en">Entertainment</category>
     <icon src="https://img.vidaahub.com/s3_bucket/60076/live/60076_2299_0e83a4d9-e0af-11f1-b51b-0a9c8934df2b/51754695ce3771757336d127c878cafb?f=webp&amp;resize=w_480,h_270" />
   </programme>
+<programme start="20261118063252 +0000" stop="20261118070427 +0000" channel="9963">
+    <title lang="en">Magic Diary Grants Wishes || Hilarious School Situations</title>
+    <desc lang="en">Featuring easy makeup and fashion hacks, lighthearted pranks, and funny observations. 123 GO! delivers entertaining and positive shows about everything trending right now.</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://img.vidaahub.com/s3_bucket/60076/live/60076_2299_0e83a983-e0af-11f1-b51b-0a9c8934df2b/781a3e4a9bb76556325a8c5914ad5515?f=webp&amp;resize=w_480,h_270" />
+  </programme>
 <programme channel="USBD3500032H0" start="20261116055827 +0000" stop="20261116080317 +0000">
     <title>The Librarian: Quest for the Spear</title>
     <desc>A caretaker beneath a metropolitan library protects magical artifacts from those who would use them to do evil.</desc>
@@ -114672,15 +114688,6 @@ begin to suspect his wife or the gruesome shooting of an elderly couple whose bo
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2648010707_5_20260311T104918784Z_88_imageprocessorclient-tvplus-linear-584c967455-nmqz5.jpeg" />
     <rating>
       <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="USBD3500036HP" start="20261116031624 +0000" stop="20261116063318 +0000">
-    <title>The Sound of Music</title>
-    <desc>A tuneful, heartwarming story, it is based on the real life story of the Von Trapp Family singers, one of the world's best-known concert groups in the era immediately preceding World War II. Julie Andrews plays the role of Maria, the tomboyish postulant at an Austrian abbey who becomes a governess in the home of a widowed naval captain with seven children, and brings a new love of life and music into the home.</desc>
-    <category lang="en">Movies</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_48311420_6_20261026T015406952Z_50_imageprocessorclient-tvplus-linear-6b56cc9f55-rhk9l.jpeg" />
-    <rating>
-      <value>TV-G</value>
     </rating>
   </programme>
 <programme channel="USBD3500036HP" start="20261116063318 +0000" stop="20261116080916 +0000">
@@ -115270,16 +115277,6 @@ begin to suspect his wife or the gruesome shooting of an elderly couple whose bo
       <value>TV-14</value>
     </rating>
   </programme>
-<programme channel="USBB2900003O3" start="20261116054000 +0000" stop="20261116063300 +0000">
-    <title>Heartland</title>
-    <sub-title>The Big Red Wall</sub-title>
-    <desc>Amy goes into party-planning mode after Jack's announcement.</desc>
-    <category lang="en">Drama</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3507717364_0_20260921T154719211Z_72_imageprocessorclient-tvplus-linear-6b56cc9f55-mx4zz.jpeg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
 <programme channel="USBB2900003O3" start="20261116063300 +0000" stop="20261116072600 +0000">
     <title>Heartland</title>
     <sub-title>Severed Ties</sub-title>
@@ -115790,7 +115787,7 @@ begin to suspect his wife or the gruesome shooting of an elderly couple whose bo
     <title>I Survived...</title>
     <sub-title>Midsi/Tammy/Leona</sub-title>
     <desc>An eight-year-old girl is abducted on her way home from school.</desc>
-    <category lang="en">Crime</category>
+    <category lang="en">True Crime</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_836743265_1_20250212T052214899Z_63_imageprocessorclient-tvplus-linear-b76dd9bbb-5jlst.jpeg" />
     <rating>
       <value>TV-14</value>
@@ -115800,7 +115797,7 @@ begin to suspect his wife or the gruesome shooting of an elderly couple whose bo
     <title>I Survived...</title>
     <sub-title>Laurie/Sandra/Melinda</sub-title>
     <desc>A solo mother is woken by an intruder</desc>
-    <category lang="en">Crime</category>
+    <category lang="en">True Crime</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_836743265_1_20250212T052214899Z_63_imageprocessorclient-tvplus-linear-b76dd9bbb-5jlst.jpeg" />
     <rating>
       <value>TV-14</value>
@@ -115810,7 +115807,7 @@ begin to suspect his wife or the gruesome shooting of an elderly couple whose bo
     <title>I Survived...</title>
     <sub-title>Kim and Nina/Michael and Charles</sub-title>
     <desc>Two women fight for their lives when a knife-wielding attacker ambushes them.</desc>
-    <category lang="en">Crime</category>
+    <category lang="en">True Crime</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_836743265_1_20250212T052214899Z_63_imageprocessorclient-tvplus-linear-b76dd9bbb-5jlst.jpeg" />
     <rating>
       <value>TV-14</value>
@@ -115820,7 +115817,7 @@ begin to suspect his wife or the gruesome shooting of an elderly couple whose bo
     <title>I Survived...</title>
     <sub-title>Julie/John</sub-title>
     <desc>A mother and her two young children are abducted.</desc>
-    <category lang="en">Crime</category>
+    <category lang="en">True Crime</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_836743265_1_20250212T052214899Z_63_imageprocessorclient-tvplus-linear-b76dd9bbb-5jlst.jpeg" />
     <rating>
       <value>TV-14</value>
@@ -115830,7 +115827,7 @@ begin to suspect his wife or the gruesome shooting of an elderly couple whose bo
     <title>I Survived...</title>
     <sub-title>Amy / Trish and Darrell</sub-title>
     <desc>A 25-year-old woman is brutally assaulted in her car by a co-worker.</desc>
-    <category lang="en">Crime</category>
+    <category lang="en">True Crime</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_836743265_1_20250212T052214899Z_63_imageprocessorclient-tvplus-linear-b76dd9bbb-5jlst.jpeg" />
     <rating>
       <value>TV-14</value>
@@ -115840,7 +115837,7 @@ begin to suspect his wife or the gruesome shooting of an elderly couple whose bo
     <title>I Survived...</title>
     <sub-title>Teka/Robert/Debbie</sub-title>
     <desc>A young woman is abducted by another woman who tries to steal her unborn baby.</desc>
-    <category lang="en">Crime</category>
+    <category lang="en">True Crime</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_836743265_1_20250212T052214899Z_63_imageprocessorclient-tvplus-linear-b76dd9bbb-5jlst.jpeg" />
     <rating>
       <value>TV-14</value>
@@ -115850,7 +115847,7 @@ begin to suspect his wife or the gruesome shooting of an elderly couple whose bo
     <title>Dr. G: Medical Examiner</title>
     <sub-title>Deadly Consequences</sub-title>
     <desc>A man complaining of chest pains is dismissed by a hospital and then dies.</desc>
-    <category lang="en">Crime</category>
+    <category lang="en">True Crime</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1327341519_1_20250514T175401831Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-9fv29.jpeg" />
     <rating>
       <value>TV-PG</value>
@@ -115860,7 +115857,7 @@ begin to suspect his wife or the gruesome shooting of an elderly couple whose bo
     <title>Dr. G: Medical Examiner</title>
     <sub-title>A Deadly Business</sub-title>
     <desc>A funeral home director lets bodies rot before burial  Vietnam vet dies suddenly in bed.</desc>
-    <category lang="en">Crime</category>
+    <category lang="en">True Crime</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1327341519_1_20250514T175401831Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-9fv29.jpeg" />
     <rating>
       <value>TV-PG</value>
@@ -115870,7 +115867,7 @@ begin to suspect his wife or the gruesome shooting of an elderly couple whose bo
     <title>Dr. G: Medical Examiner</title>
     <sub-title>Fatal Twist</sub-title>
     <desc>An elderly man dies hours after falling on a sidewalk  a florist dies while meeting a client.</desc>
-    <category lang="en">Crime</category>
+    <category lang="en">True Crime</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1327341481_1_20250514T175401833Z_58_imageprocessorclient-tvplus-linear-b76dd9bbb-9fv29.jpeg" />
     <rating>
       <value>TV-PG</value>
@@ -115880,7 +115877,7 @@ begin to suspect his wife or the gruesome shooting of an elderly couple whose bo
     <title>Dr. G: Medical Examiner</title>
     <sub-title>Deadly Circumstances</sub-title>
     <desc>A man is found dead in a parking lot  a man is shot as he opens his back door.</desc>
-    <category lang="en">Crime</category>
+    <category lang="en">True Crime</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1327341524_2_20250514T175412689Z_85_imageprocessorclient-tvplus-linear-b76dd9bbb-7njgf.jpeg" />
     <rating>
       <value>TV-PG</value>
@@ -115890,7 +115887,7 @@ begin to suspect his wife or the gruesome shooting of an elderly couple whose bo
     <title>Dr. G: Medical Examiner</title>
     <sub-title>Wounded</sub-title>
     <desc>A young woman becomes ill and dies in her home.</desc>
-    <category lang="en">Crime</category>
+    <category lang="en">True Crime</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1327341524_2_20250514T175412689Z_85_imageprocessorclient-tvplus-linear-b76dd9bbb-7njgf.jpeg" />
     <rating>
       <value>TV-PG</value>
@@ -116000,7 +115997,7 @@ begin to suspect his wife or the gruesome shooting of an elderly couple whose bo
     <title>60 Days In</title>
     <sub-title>The Beginning of the End</sub-title>
     <desc>Phase two will shatter expectations, open old wounds, &amp; put everyone in jeopardy.</desc>
-    <category lang="en">Crime</category>
+    <category lang="en">True Crime</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3223620141_0_20260721T192403730Z_65_imageprocessorclient-tvplus-linear-9468c5484-2n2hv.jpeg" />
     <rating>
       <value>TV-14</value>
@@ -116010,7 +116007,7 @@ begin to suspect his wife or the gruesome shooting of an elderly couple whose bo
     <title>60 Days In</title>
     <sub-title>Shank Anxiety</sub-title>
     <desc>Inmate feuds and power-plays bring participants face to face with real danger.</desc>
-    <category lang="en">Crime</category>
+    <category lang="en">True Crime</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3223620141_0_20260721T192403730Z_65_imageprocessorclient-tvplus-linear-9468c5484-2n2hv.jpeg" />
     <rating>
       <value>TV-14</value>
@@ -116020,7 +116017,7 @@ begin to suspect his wife or the gruesome shooting of an elderly couple whose bo
     <title>60 Days In</title>
     <sub-title>Pissed Off</sub-title>
     <desc>In I-Pod, Jaclin begins to alienate the officers.</desc>
-    <category lang="en">Crime</category>
+    <category lang="en">True Crime</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3223620141_0_20260721T192403730Z_65_imageprocessorclient-tvplus-linear-9468c5484-2n2hv.jpeg" />
     <rating>
       <value>TV-14</value>
@@ -116030,7 +116027,7 @@ begin to suspect his wife or the gruesome shooting of an elderly couple whose bo
     <title>Court Cam: Court Cam</title>
     <sub-title>519</sub-title>
     <desc>A mother asks the judge to sterilize her murderous daughter  and more.</desc>
-    <category lang="en">Crime</category>
+    <category lang="en">True Crime</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3222789876_0_20260721T154059758Z_27_imageprocessorclient-tvplus-linear-9468c5484-4j58d.jpeg" />
     <rating>
       <value>TV-14</value>
@@ -116040,7 +116037,7 @@ begin to suspect his wife or the gruesome shooting of an elderly couple whose bo
     <title>Court Cam: Court Cam</title>
     <sub-title>520</sub-title>
     <desc>A TikTok star is on trial for murder  a lawyer gets Tasered  and more.</desc>
-    <category lang="en">Crime</category>
+    <category lang="en">True Crime</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3222789876_0_20260721T154059758Z_27_imageprocessorclient-tvplus-linear-9468c5484-4j58d.jpeg" />
     <rating>
       <value>TV-14</value>
@@ -116050,7 +116047,7 @@ begin to suspect his wife or the gruesome shooting of an elderly couple whose bo
     <title>Court Cam: Court Cam</title>
     <sub-title>512</sub-title>
     <desc>A daring courthouse escape  an angry defendant flips a podium, and more.</desc>
-    <category lang="en">Crime</category>
+    <category lang="en">True Crime</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3222789876_0_20260721T154059758Z_27_imageprocessorclient-tvplus-linear-9468c5484-4j58d.jpeg" />
     <rating>
       <value>TV-14</value>
@@ -116060,7 +116057,7 @@ begin to suspect his wife or the gruesome shooting of an elderly couple whose bo
     <title>Court Cam: Court Cam</title>
     <sub-title>517</sub-title>
     <desc>A murder suspect spits on his lawyer  a woman is fined for not wearing a mask.</desc>
-    <category lang="en">Crime</category>
+    <category lang="en">True Crime</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3222789876_0_20260721T154059758Z_27_imageprocessorclient-tvplus-linear-9468c5484-4j58d.jpeg" />
     <rating>
       <value>TV-14</value>
@@ -116070,7 +116067,7 @@ begin to suspect his wife or the gruesome shooting of an elderly couple whose bo
     <title>Court Cam: Court Cam</title>
     <sub-title>523</sub-title>
     <desc>A customer attacks fast food workers  a corrupt sheriff  and a suspended driver.</desc>
-    <category lang="en">Crime</category>
+    <category lang="en">True Crime</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3222789876_0_20260721T154059758Z_27_imageprocessorclient-tvplus-linear-9468c5484-4j58d.jpeg" />
     <rating>
       <value>TV-14</value>
@@ -116080,7 +116077,7 @@ begin to suspect his wife or the gruesome shooting of an elderly couple whose bo
     <title>Court Cam: Court Cam</title>
     <sub-title>525</sub-title>
     <desc>A defendant starts a courtroom melee  an unusual punishment  and a grieving mom.</desc>
-    <category lang="en">Crime</category>
+    <category lang="en">True Crime</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3222789876_0_20260721T154059758Z_27_imageprocessorclient-tvplus-linear-9468c5484-4j58d.jpeg" />
     <rating>
       <value>TV-14</value>
@@ -116090,7 +116087,7 @@ begin to suspect his wife or the gruesome shooting of an elderly couple whose bo
     <title>Court Cam: Court Cam</title>
     <sub-title>511</sub-title>
     <desc>Courtroom chaos after a sentencing  and more.</desc>
-    <category lang="en">Crime</category>
+    <category lang="en">True Crime</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3222789876_0_20260721T154059758Z_27_imageprocessorclient-tvplus-linear-9468c5484-4j58d.jpeg" />
     <rating>
       <value>TV-14</value>
@@ -116100,7 +116097,7 @@ begin to suspect his wife or the gruesome shooting of an elderly couple whose bo
     <title>Court Cam: Court Cam</title>
     <sub-title>509</sub-title>
     <desc>A violent felon attacks a prosecutor in court  and more.</desc>
-    <category lang="en">Crime</category>
+    <category lang="en">True Crime</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3222789876_0_20260721T154059758Z_27_imageprocessorclient-tvplus-linear-9468c5484-4j58d.jpeg" />
     <rating>
       <value>TV-14</value>
@@ -116110,7 +116107,7 @@ begin to suspect his wife or the gruesome shooting of an elderly couple whose bo
     <title>Court Cam: Court Cam</title>
     <sub-title>513</sub-title>
     <desc>A defendant escapes from a Zoom hearing  and more.</desc>
-    <category lang="en">Crime</category>
+    <category lang="en">True Crime</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3222789876_0_20260721T154059758Z_27_imageprocessorclient-tvplus-linear-9468c5484-4j58d.jpeg" />
     <rating>
       <value>TV-14</value>
