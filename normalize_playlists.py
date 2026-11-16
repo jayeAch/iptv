@@ -1221,6 +1221,7 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
     # Toons above Comedy/Kids: animated shows (incl. adult animation) stay here.
     ('Toons', _words("""
         aqua teen hunger force
+        pluto tv animation
         archer
         animation+
         american dad
