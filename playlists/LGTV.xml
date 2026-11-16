@@ -28,6 +28,10 @@
     <display-name>Tribeca</display-name>
     <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/tribeca/Tribeca_Logo_800w200h.png"/>
   </channel>
+<channel id="electricnoweng_eleno_US">
+    <display-name>Electric Now</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/electric/ENOW_White_logo_800x200.png"/>
+  </channel>
 <channel id="portraittv_amg30859c1_us">
     <display-name>Portrait TV</display-name>
     <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Portrait-TV_Logo_400x200.png"/>
@@ -315,6 +319,56 @@
       <value>TV-MA</value>
     </rating>
   </programme>
+<programme start="20261116070000 +0000" stop="20261116080000 +0000" channel="electricnoweng_eleno_US">
+    <title lang="en">Almost Paradise</title>
+    <desc lang="en">Alex befriends a boat mechanic accused of murder in a fishing village, along with Kai and Ernesto.</desc>
+    <category lang="en">Action</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/ELENO/resized_c25febbdb84593a2de20b56aea6c4588663527f83b185610abb0dd8bb385d389_almostparadisewidescreenposterjpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">ELENO_ALMP_203_SCREENER_CLEAN_HD_1920x1080_20230424_R1_US</episode-num>
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+<programme start="20261116080000 +0000" stop="20261116090000 +0000" channel="electricnoweng_eleno_US">
+    <title lang="en">Almost Paradise</title>
+    <desc lang="en">Alex moves in with Ernesto, proving that, "the past is never dead; it is not even past."</desc>
+    <category lang="en">Action</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/ELENO/resized_c25febbdb84593a2de20b56aea6c4588663527f83b185610abb0dd8bb385d389_almostparadisewidescreenposterjpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">ELENO_ALMP_204_SCREENER_CLEAN-HD-1920x1080_20230424_R1_US</episode-num>
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+<programme start="20261116090000 +0000" stop="20261116100000 +0000" channel="electricnoweng_eleno_US">
+    <title lang="en">The Ark</title>
+    <desc lang="en">Garnet has her work cut out for her when she attempts diplomacy.</desc>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/ELENO/resized_f16d4fbe9bf7c8e5fe9e4e50c3b68469c2fa6bba8646f205051c4908ffec52cf_syfytheark1920x1080png_768_432.jpeg"/>
+    <episode-num system="dd_progid">ELENO_TheArk_209_ProRes422HQ_Stereo_US</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261116100000 +0000" stop="20261116110000 +0000" channel="electricnoweng_eleno_US">
+    <title lang="en">The Ark</title>
+    <desc lang="en">A freak accident traps Garnet and Ian alone in the empty ship.</desc>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/ELENO/resized_ae945c5d32d669eff972d0b4b09635e1d4dae0ad74fb8f7ae54b9d1f53f60372_syfyarks2keyart1920x1080jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">ELENO_TheArk_210_It_Should_Have_Been_You_Stereo_US</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261116110000 +0000" stop="20261116120000 +0000" channel="electricnoweng_eleno_US">
+    <title lang="en">The Librarians: The Next Chapter</title>
+    <desc lang="en">A magical crystal steals memories, forcing the team to stop a dangerous plot for the future.</desc>
+    <category lang="en">Fantasy</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/ELENO/resized_a7749401277996f2bbfa3f7e5ee9fa5fa8504c801d5056c77eae672a759344f0_105andthememorycrystaljpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">ELENO_TheLibrariansTheNextChapter_Ep104_AndtheMemoryCrystal_Stereo_US</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
 <programme start="20261116064934 +0000" stop="20261116071654 +0000" channel="hersphere_movsf_US">
     <title lang="en">Weeds</title>
     <desc lang="en">Nancy has a one-on-one, sit-down interview with Vaughn.</desc>
@@ -581,16 +635,6 @@
     <category lang="en">Drama</category>
     <icon src="http://img.platform.wurl.dev/channel/1845/lg/88167e/LG-768x432_v1.png"/>
     <episode-num system="dd_progid">US-CineverseEntertainmentCorp-118056873-52541967-52525612</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261116060000 +0000" stop="20261116070000 +0000" channel="us-ion_ion_plus_1">
-    <title lang="en">Criminal Minds</title>
-    <desc lang="en">With the help of the BAU team, Reid tries to find his girlfriend before it's too late.</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://img.platform.wurl.dev/channel/378/lg/165a68/LG-768x432_v1.png"/>
-    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120603387-56790419-56763377</episode-num>
     <rating>
       <value>TV-14</value>
     </rating>
