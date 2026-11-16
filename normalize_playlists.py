@@ -869,6 +869,7 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
         masterchef
         top chef
         chopped
+        pluto tv tough jobs
         cake boss
         come dine with me
         project runway
@@ -1216,6 +1217,7 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
     # land in their genre.
     ('Sci-Fi', _words("""
         the asylum
+        mutant x
         beyond belief
         farscape
         outersphere
@@ -1386,6 +1388,7 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
         kids
         kidz
         totally turtles
+        icarly
         smurfarna
         smurfene
         smølferne
