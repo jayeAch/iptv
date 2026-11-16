@@ -16,10 +16,6 @@
     <display-name>Forensic Files</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/41830D3A-37B5-4C6C-B242-A08B82B441D9/3-1x1.png" />
   </channel>
-<channel id="localnow.558211BE-E921-43BA-9C55-9DE79921BF9C">
-    <display-name>FBI Files</display-name>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/558211BE-E921-43BA-9C55-9DE79921BF9C/3-1x1.png" />
-  </channel>
 <channel id="localnow.70E6008B-8E98-4B80-8CE2-D721592DF1C1">
     <display-name>World's Most Evil Killers</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/70E6008B-8E98-4B80-8CE2-D721592DF1C1/3-1x1.png" />
@@ -55,6 +51,10 @@
 <channel id="localnow.433DDB79-4CA9-4EEA-BB7D-8FDF5FC788E9">
     <display-name>TMZ</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/433DDB79-4CA9-4EEA-BB7D-8FDF5FC788E9/3-1x1.png" />
+  </channel>
+<channel id="localnow.A9BAC7BD-E8B0-4B2D-B290-9AF210B32B50">
+    <display-name>ET</display-name>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/A9BAC7BD-E8B0-4B2D-B290-9AF210B32B50/3-1x1.png" />
   </channel>
 <channel id="localnow.B2DACF04-EB66-492A-96BE-DC13E160C5EE">
     <display-name>BuzzFeed Celeb</display-name>
@@ -141,13 +141,6 @@
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/3140CA51-BEBB-4FEE-B144-1B94C2B9D108/0-2x3.png" />
     <episode-num system="dd_progid">program-action-plus-20261116120612</episode-num>
   </programme>
-<programme start="20261116051750 +0000" stop="20261116074009 +0000" channel="localnow.421B7C8F-0DF8-4769-BF8F-F79DD74C31E8">
-    <title lang="en">Grind</title>
-    <desc lang="en">Four skaters follow their idol on his summer tour in an attempt to get noticed, get sponsored, and become stars themselves.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/421B7C8F-0DF8-4769-BF8F-F79DD74C31E8/0-2x3.png" />
-    <episode-num system="dd_progid">program-comedy-plus-20261116051750</episode-num>
-  </programme>
 <programme start="20261116074009 +0000" stop="20261116095259 +0000" channel="localnow.421B7C8F-0DF8-4769-BF8F-F79DD74C31E8">
     <title lang="en">Afternoon Delight</title>
     <desc lang="en">In this sexy, dark comedy, a Silver Lake mom puts her idyllic life in jeopardy</desc>
@@ -169,14 +162,6 @@
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/421B7C8F-0DF8-4769-BF8F-F79DD74C31E8/0-2x3.png" />
     <episode-num system="dd_progid">program-comedy-plus-20261116114855</episode-num>
   </programme>
-<programme start="20261116063900 +0000" stop="20261116073000 +0000" channel="localnow.4D2A3ADC-5310-4895-A676-6A1BEEB941EE">
-    <title lang="en">Beyond Belief: Fact or Fiction?</title>
-    <desc lang="en">Three girls hold a seance in an attempt to raise the spirit of their murdered friend.</desc>
-    <category lang="en">Sci-Fi</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/4D2A3ADC-5310-4895-A676-6A1BEEB941EE/0-2x3.png" />
-    <episode-num system="onscreen">S04E09</episode-num>
-    <episode-num system="xmltv_ns">3.8.</episode-num>
-  </programme>
 <programme start="20261116073000 +0000" stop="20261116082200 +0000" channel="localnow.4D2A3ADC-5310-4895-A676-6A1BEEB941EE">
     <title lang="en">Beyond Belief: Fact or Fiction?</title>
     <desc lang="en">A mysterious nurse appears and saves a child's life. Host: Jonathan Frakes.</desc>
@@ -184,22 +169,6 @@
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/4D2A3ADC-5310-4895-A676-6A1BEEB941EE/0-2x3.png" />
     <episode-num system="onscreen">S04E02</episode-num>
     <episode-num system="xmltv_ns">3.1.</episode-num>
-  </programme>
-<programme start="20261116064800 +0000" stop="20261116074200 +0000" channel="localnow.558211BE-E921-43BA-9C55-9DE79921BF9C">
-    <title lang="en">The FBI Files</title>
-    <desc lang="en">In 1996, two convicted bank robbers escape from jail and rob a bank before the FBI apprehends them.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/558211BE-E921-43BA-9C55-9DE79921BF9C/0-2x3.png" />
-    <episode-num system="onscreen">S05E10</episode-num>
-    <episode-num system="xmltv_ns">4.9.</episode-num>
-  </programme>
-<programme start="20261116074200 +0000" stop="20261116083600 +0000" channel="localnow.558211BE-E921-43BA-9C55-9DE79921BF9C">
-    <title lang="en">The FBI Files</title>
-    <desc lang="en">Police search for the killers of a store clerk shot outside a bank.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/558211BE-E921-43BA-9C55-9DE79921BF9C/0-2x3.png" />
-    <episode-num system="onscreen">S05E14</episode-num>
-    <episode-num system="xmltv_ns">4.13.</episode-num>
   </programme>
 <programme start="20261116070000 +0000" stop="20261116080000 +0000" channel="localnow.6D30170C-D7B3-46A2-8C1F-302D8399F44D">
     <title lang="en">Free Movies Plus</title>
@@ -212,14 +181,6 @@
     <desc lang="en">Free Movies Plus is the ultimate channel for movie lovers, featuring blockbuster hits 24/7.</desc>
     <category lang="en">Movies</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/6D30170C-D7B3-46A2-8C1F-302D8399F44D/0-2x3.png" />
-  </programme>
-<programme start="20261116065000 +0000" stop="20261116074600 +0000" channel="localnow.70E6008B-8E98-4B80-8CE2-D721592DF1C1">
-    <title lang="en">World's Most Evil Killers</title>
-    <desc lang="en">"Pee Wee" Gaskins escalated from a petty criminal to a murderer after a teen went missing.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/70E6008B-8E98-4B80-8CE2-D721592DF1C1/0-2x3.png" />
-    <episode-num system="onscreen">S09E14</episode-num>
-    <episode-num system="xmltv_ns">8.13.</episode-num>
   </programme>
 <programme start="20261116074600 +0000" stop="20261116083900 +0000" channel="localnow.70E6008B-8E98-4B80-8CE2-D721592DF1C1">
     <title lang="en">World's Most Evil Killers</title>
@@ -264,13 +225,6 @@
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/72384889-EEEB-4EEA-93B3-F26FF4E12D6B/0-2x3.png" />
     <episode-num system="dd_progid">program-wfxb-20261116173000</episode-num>
   </programme>
-<programme start="20261116070000 +0000" stop="20261116073000 +0000" channel="localnow.7439B766-5F61-43D6-A61B-D58FEF6824FD">
-    <title lang="en">WPDE News Replay</title>
-    <desc lang="en">Myrtle Beach/Florence News, Weather, Sports, Breaking News</desc>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7439B766-5F61-43D6-A61B-D58FEF6824FD/0-2x3.png" />
-    <episode-num system="dd_progid">program-wpde-myrtle-beach-sc-20261116070000</episode-num>
-  </programme>
 <programme start="20261116062910 +0000" stop="20261116083710 +0000" channel="localnow.746F014B-ACE1-4DE4-B494-BFAE6DE92608">
     <title lang="en">The Company of Wolves</title>
     <desc lang="en">Short Description</desc>
@@ -313,13 +267,6 @@
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/79549FA0-4EBE-48C3-957F-037BA02E827F/0-2x3.png" />
     <episode-num system="dd_progid">program-epg-horror-machine-20261116080000</episode-num>
   </programme>
-<programme start="20261116064209 +0000" stop="20261116073935 +0000" channel="localnow.A48FFE37-5FF8-486F-B048-D8793F969F26">
-    <title lang="en">A Long Way From L.A.</title>
-    <desc lang="en">A meek pick-pocket is accused of beating a woman. Hunter and McCall, unconvinced, must find the true culprit.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/A48FFE37-5FF8-486F-B048-D8793F969F26/0-2x3.png" />
-    <episode-num system="dd_progid">program-hunter-20261116064209</episode-num>
-  </programme>
 <programme start="20261116073935 +0000" stop="20261116083546 +0000" channel="localnow.A48FFE37-5FF8-486F-B048-D8793F969F26">
     <title lang="en">Legacy</title>
     <desc lang="en">Hunter uses a mobster's girlfriend as bait after she overhears an argument between him and his father.</desc>
@@ -333,13 +280,6 @@
     <category lang="en">True Crime</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/A7FA55BD-F771-46DA-B7A0-B974DA61DF21/0-2x3.png" />
     <episode-num system="dd_progid">program-buzzfeed-unsolved-20261116070000</episode-num>
-  </programme>
-<programme start="20261116054600 +0000" stop="20261116073600 +0000" channel="localnow.AFE4F17B-882F-4DFF-9014-972E16331779">
-    <title lang="en">Monsters in the Closet</title>
-    <desc lang="en">A horror's author's stories come to life when read out loud.</desc>
-    <category lang="en">Sci-Fi</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/AFE4F17B-882F-4DFF-9014-972E16331779/0-2x3.png" />
-    <episode-num system="dd_progid">program-tricoast_tv_dark_matter_01-2026-11-16-0546</episode-num>
   </programme>
 <programme start="20261116073600 +0000" stop="20261116092800 +0000" channel="localnow.AFE4F17B-882F-4DFF-9014-972E16331779">
     <title lang="en">Mermaid Down</title>
