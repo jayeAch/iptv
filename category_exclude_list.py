@@ -3,6 +3,8 @@
 # each channel's category -- unlike exclude_list.py's channel-name substring
 # matching.
 CATEGORY_EXCLUDE_LIST = [
+    "Paranormal",
+    "Supernatural Drama",
     "Science",
     "Music",
     "Shopping",
