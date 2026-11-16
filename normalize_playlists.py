@@ -1009,6 +1009,7 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
         20/20
         crime 360
         law&crime
+        buzzfeed unsolved
         real crime
         jail
         60 days in by a&e
