@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-<channel id="vizio.FEATURED1">
-    <display-name>Military Heroes</display-name>
-    <icon src="https://images.vizio.com/v4/btv/1/1693949193/1/267/150/0.jpg"/>
-  </channel>
 <channel id="vizio.FEATURED3">
     <display-name>Whose Line Is It Anyway?</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/1736245951/1/267/150/0.jpg"/>
@@ -112,6 +108,10 @@
     <display-name>Ssundee</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/1736244365/1/267/150/0.jpg"/>
   </channel>
+<channel id="vizio.93amg00285c4">
+    <display-name>FGTeeV</display-name>
+    <icon src="https://images.vizio.com/v4/btv/1/1736245041/1/267/150/0.jpg"/>
+  </channel>
 <channel id="vizio.93amg00285c14">
     <display-name>Caylus</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/1736245269/1/267/150/0.jpg"/>
@@ -147,10 +147,6 @@
 <channel id="vizio.93amg02134c2">
     <display-name>Donut</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/1736244483/1/267/150/0.jpg"/>
-  </channel>
-<channel id="vizio.93amg00136c50">
-    <display-name>History Untold</display-name>
-    <icon src="https://images.vizio.com/v4/btv/1/1736245945/1/267/150/0.jpg"/>
   </channel>
 <programme start="20261116000211 +0000" stop="20261116024246 +0000" channel="vizio.149station_1287">
     <title lang="en">On Patrol: Live</title>
@@ -671,61 +667,6 @@
     <desc lang="en">A NYPD officer promises to make a teen girl's ambitions come true.</desc>
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%200,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
   </programme>
-<programme start="20261116000844 +0000" stop="20261116005719 +0000" channel="vizio.93amg00136c50">
-    <title lang="en">Ancient Unexplained Files</title>
-    <sub-title lang="en">Legend of the Cursed Temple</sub-title>
-    <desc lang="en">Experts reveal the secrets of a temple believed to be cursed.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205072090129,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E09</episode-num>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261116005719 +0000" stop="20261116014800 +0000" channel="vizio.93amg00136c50">
-    <title lang="en">Ancient Unexplained Files</title>
-    <sub-title lang="en">Riddle of the Child Mummies</sub-title>
-    <desc lang="en">Experts investigate the mummies of three children discovered in Argentina.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205072090124,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <episode-num system="xmltv_ns">0.9.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261116014800 +0000" stop="20261116023812 +0000" channel="vizio.93amg00136c50">
-    <title lang="en">Hunting Atlantis</title>
-    <sub-title lang="en">Mystery of the Golden King</sub-title>
-    <desc lang="en">Stel and Jess investigate a golden grave that could be a king of Atlantis.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205118718909,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261116023812 +0000" stop="20261116032613 +0000" channel="vizio.93amg00136c50">
-    <title lang="en">Hunting Atlantis</title>
-    <sub-title lang="en">Legend of the Adriatic</sub-title>
-    <desc lang="en">In Croatia, Stel and Jess dive for relics and find evidence of a lost city.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205118719110,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261116032613 +0000" stop="20261116041413 +0000" channel="vizio.93amg00136c50">
-    <title lang="en">Hunting Atlantis</title>
-    <sub-title lang="en">City Underground</sub-title>
-    <desc lang="en">Stel and Jess follow evidence from ancient cave paintings to a buried city.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205118719111,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
 <programme start="20261116002112 +0000" stop="20261116011101 +0000" channel="vizio.93amg00136c55">
     <title lang="en">North Woods Law</title>
     <sub-title lang="en">Under the Radar</sub-title>
@@ -912,6 +853,46 @@
     <rating>
       <value>TV-14</value>
     </rating>
+  </programme>
+<programme start="20261116002202 +0000" stop="20261116005451 +0000" channel="vizio.93amg00285c4">
+    <title lang="en">FGTeeV</title>
+    <sub-title lang="en">TP Emergency and Parkour Chase</sub-title>
+    <desc lang="en">We play Muddy Heights 2 and Clustertruck.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205008012954,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S28E08</episode-num>
+    <episode-num system="xmltv_ns">27.7.</episode-num>
+  </programme>
+<programme start="20261116005451 +0000" stop="20261116023834 +0000" channel="vizio.93amg00285c4">
+    <title lang="en">FGTeeV</title>
+    <sub-title lang="en">All-Time Best Rainbow Friends Videos</sub-title>
+    <desc lang="en">This is the compilation of the best Rainbow Friends videos FGTeeV has ever made.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205003154798,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S32E06</episode-num>
+    <episode-num system="xmltv_ns">31.5.</episode-num>
+  </programme>
+<programme start="20261116023834 +0000" stop="20261116030947 +0000" channel="vizio.93amg00285c4">
+    <title lang="en">FGTeeV</title>
+    <sub-title lang="en">All About Garten of Ban Ban</sub-title>
+    <desc lang="en">Duddy and Shawn play Garten of Ban Ban where they get scared by cuteness and find two secret doors.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205003154549,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S31E03</episode-num>
+    <episode-num system="xmltv_ns">30.2.</episode-num>
+  </programme>
+<programme start="20261116030947 +0000" stop="20261116034257 +0000" channel="vizio.93amg00285c4">
+    <title lang="en">FGTeeV</title>
+    <sub-title lang="en">Boat Escape and Grandpa God Mode</sub-title>
+    <desc lang="en">Duddz Decides to play Granny Chapter 2 but this time with no granny!</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205003154336,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S03E15</episode-num>
+    <episode-num system="xmltv_ns">2.14.</episode-num>
+  </programme>
+<programme start="20261116034257 +0000" stop="20261116041647 +0000" channel="vizio.93amg00285c4">
+    <title lang="en">FGTeeV</title>
+    <sub-title lang="en">Roblox Activities</sub-title>
+    <desc lang="en">Duddy and Shawn try to see who can find the most YouTubers in Roblox.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205003464216,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S31E13</episode-num>
+    <episode-num system="xmltv_ns">30.12.</episode-num>
   </programme>
 <programme start="20261116003140 +0000" stop="20261116005833 +0000" channel="vizio.93amg01927c6">
     <title lang="en">Degrassi: The Next Generation</title>

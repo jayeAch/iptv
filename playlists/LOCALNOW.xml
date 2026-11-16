@@ -92,6 +92,10 @@
     <display-name>The Red Green Show</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/61FD3E40-54BC-4E1E-9BB1-40B60DDD6662/3-1x1.png" />
   </channel>
+<channel id="localnow.081016AD-69A3-4236-A8A0-75391DB6F522">
+    <display-name>Mystery Science Theater 3000</display-name>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/081016AD-69A3-4236-A8A0-75391DB6F522/3-1x1.png" />
+  </channel>
 <channel id="localnow.B55F1141-71F9-463B-9383-3FDF2F34B220">
     <display-name>Jamie Kennedy Comedy</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/B55F1141-71F9-463B-9383-3FDF2F34B220/3-1x1.png" />
@@ -123,14 +127,6 @@
 <channel id="localnow.720A158D-FCF3-4A78-B0C9-D65CB40FACE0">
     <display-name>The Bold and the Beautiful</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/720A158D-FCF3-4A78-B0C9-D65CB40FACE0/3-1x1.png" />
-  </channel>
-<channel id="localnow.D2B46CB5-9C27-49E2-A022-30B482C208AC">
-    <display-name>True History</display-name>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D2B46CB5-9C27-49E2-A022-30B482C208AC/3-1x1.png" />
-  </channel>
-<channel id="localnow.41E6152D-2E5D-47B1-B910-6C069D7FDCD1">
-    <display-name>History &amp; Warfare Now</display-name>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/41E6152D-2E5D-47B1-B910-6C069D7FDCD1/3-1x1.png" />
   </channel>
 <channel id="localnow.433DDB79-4CA9-4EEA-BB7D-8FDF5FC788E9">
     <display-name>TMZ</display-name>
@@ -204,6 +200,20 @@
     <display-name>WFXB Myrtle Beach SC (FOX)</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/72384889-EEEB-4EEA-93B3-F26FF4E12D6B/3-1x1.png" />
   </channel>
+<programme start="20261115225017 +0000" stop="20261116005456 +0000" channel="localnow.081016AD-69A3-4236-A8A0-75391DB6F522">
+    <title lang="en">MST3K: Doctor Mordrid</title>
+    <desc lang="en">Emily's crew watch as the magical DOCTOR MORDRID (1992) defends Earth from the forces of evil.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/081016AD-69A3-4236-A8A0-75391DB6F522/0-2x3.png" />
+    <episode-num system="dd_progid">program-mystery-science-theater-3000-20261115225017</episode-num>
+  </programme>
+<programme start="20261116005456 +0000" stop="20261116025829 +0000" channel="localnow.081016AD-69A3-4236-A8A0-75391DB6F522">
+    <title lang="en">MST3K: Earth vs. The Spider</title>
+    <desc lang="en">Joel and the Bots watch a spider devour a town in Earth vs the Spider (1958).</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/081016AD-69A3-4236-A8A0-75391DB6F522/0-2x3.png" />
+    <episode-num system="dd_progid">program-mystery-science-theater-3000-20261116005456</episode-num>
+  </programme>
 <programme start="20261115232817 +0000" stop="20261116015745 +0000" channel="localnow.3140CA51-BEBB-4FEE-B144-1B94C2B9D108">
     <title lang="en">Sabotage</title>
     <desc lang="en">Members of an elite DEA task force find themselves being taken down one by one after they rob a drug</desc>
