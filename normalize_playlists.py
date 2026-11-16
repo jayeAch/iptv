@@ -999,6 +999,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     'Reality TV': _words("""
         reality
         the osbournes
+        ice road truckers
         supernanny
         bad girls club
         grind hard plumbing co
