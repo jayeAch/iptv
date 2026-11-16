@@ -16,4 +16,5 @@ CATEGORY_EXCEPTION_LIST = [
     "The Kids in the Hall",
     "BBC Comedy",
     "Black Jesus",
+    "Reno 911",
 ]
