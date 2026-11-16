@@ -8,4 +8,6 @@ CATEGORY_EXCEPTION_LIST = [
     "WFXB Myrtle Beach SC (FOX)",
     "Scream Factory TV",
     "Screambox TV",
+    "Married with Children",
+    "Roseanne",
 ]
