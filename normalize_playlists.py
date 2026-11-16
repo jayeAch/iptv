@@ -892,6 +892,7 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
     # -> Christmas) and Latino (Cine Romantico), above Drama/Movies.
     ('Romance', _words("""
         romance
+        pluto tv romantik
         romantic
         romance 365
         great american romcoms
