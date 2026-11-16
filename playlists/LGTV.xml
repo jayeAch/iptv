@@ -20,9 +20,9 @@
     <display-name>Screambox TV</display-name>
     <icon src="http://img.platform.wurl.dev/channel/1845/lg/88167e/LG-Logo-PNG-100x100_v1.png"/>
   </channel>
-<channel id="us-lg_thebeverlyhillbillies_1">
-    <display-name>The Beverly Hillbillies</display-name>
-    <icon src="http://img.platform.wurl.dev/channel/1342/lg/06eaa3/LG-Logo-PNG-100x100_v1.png"/>
+<channel id="FREQ938">
+    <display-name>BBC Drama Classics</display-name>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/bbc/channels/938-400x200.png"/>
   </channel>
 <channel id="FREQ896">
     <display-name>Dove Channel</display-name>
@@ -36,9 +36,17 @@
     <display-name>Portrait TV</display-name>
     <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Portrait-TV_Logo_400x200.png"/>
   </channel>
+<channel id="hersphere_movsf_US">
+    <display-name>Hersphere</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/hersphere/HerSphere_LGLaunch_Guide_Logo_White_Stacked_800x200.png"/>
+  </channel>
 <channel id="abcentertains_entert_US">
     <display-name>ABC Entertains Australia</display-name>
     <icon src="https://d3bd0tgyk368z1.cloudfront.net/abcau/Lglogos/ABC-Entertains-Logo-400x200px.png"/>
+  </channel>
+<channel id="us-scripps_laffmore_1">
+    <display-name>Laff More</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/1498/lg/d22c6a/LG-Logo-PNG-100x100_v1.png"/>
   </channel>
 <channel id="us-gsn_cinevault_70s_1">
     <display-name>GET Comedy</display-name>
@@ -285,14 +293,44 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20261116052915 +0000" stop="20261116060140 +0000" channel="abcentertains_entert_US">
-    <title lang="en">Mother and Son</title>
-    <desc lang="en">Maggie arrives home in a garbage truck. Arthur, concerned for her welfare, asks Robert for financial assistance.</desc>
-    <category lang="en">Talk show &amp; Entertainment</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/entert/resized_541315c877be666c7b8b10140773c0559acd7de748908eab66b5be0dd0b794be_abcentertainsthumbnail1920x1080png_768_432.jpeg"/>
-    <episode-num system="dd_progid">entert_motherson_01_03_pillarbox_US</episode-num>
+<programme start="20261116055519 +0000" stop="20261116065526 +0000" channel="FREQ938">
+    <title lang="en">Pride and Prejudice</title>
+    <desc lang="en">Jane and Bingley are reunited, but Darcy and Lizzie's future is usurped by a visitor.</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/7291136392683214621/solid/rectangle/w1920_h1080/xj5r2d88xgaq1bciw65fb2fe1.jpg"/>
+    <episode-num system="dd_progid">5080581</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261116065526 +0000" stop="20261116084341 +0000" channel="FREQ938">
+    <title lang="en">Persuasion</title>
+    <desc lang="en">An unmarried woman encounters her former love after he returns from battle.</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/7291136274324963095/solid/rectangle/w1920_h1080/1dori6tjgjvag1j0xsszdws9aq.jpg"/>
+    <episode-num system="dd_progid">5032012</episode-num>
     <rating>
       <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261116084341 +0000" stop="20261116095110 +0000" channel="FREQ938">
+    <title lang="en">Emma (2009)</title>
+    <desc lang="en">Emma persuades Harriet that she is too good for her suitor, the farmer Robert Martin.</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/5mcg5bb5o2iw1qlt8yy2e69lw/w1920_h1080/5mcg5bb5o2iw1qlt8yy2e69lw.jpg"/>
+    <episode-num system="dd_progid">4478098</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261116095110 +0000" stop="20261116110009 +0000" channel="FREQ938">
+    <title lang="en">Emma (2009)</title>
+    <desc lang="en">Emma is intrigued by the mysterious and elusive newcomer Frank Churchill.</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/1hxhx54pmi5sz1pajh6eget0w/w1920_h1080/1hxhx54pmi5sz1pajh6eget0w.jpg"/>
+    <episode-num system="dd_progid">4478096</episode-num>
+    <rating>
+      <value>TV-G</value>
     </rating>
   </programme>
 <programme start="20261116060140 +0000" stop="20261116063423 +0000" channel="abcentertains_entert_US">
@@ -423,6 +461,126 @@
     <episode-num system="dd_progid">amg02042c32_AWFsrzwmeRHVLUN7EtNoYEv_us</episode-num>
     <rating>
       <value>R</value>
+    </rating>
+  </programme>
+<programme start="20261116055510 +0000" stop="20261116062229 +0000" channel="hersphere_movsf_US">
+    <title lang="en">Weeds</title>
+    <desc lang="en">Nancy returns to her hometown where she takes up residence with Warren, an old acquaintance.</desc>
+    <category lang="en">Drama</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/MOVSF/resized_4608335a5ff68f7c1b68d2cee5e553fbeac914bcfbd64a10acae6df9c82d3090_weedslandscapejpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">MOVSF_WDSEDT073_US</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261116062229 +0000" stop="20261116064934 +0000" channel="hersphere_movsf_US">
+    <title lang="en">Weeds</title>
+    <desc lang="en">Nancy, trying to get herself and her family out of the country.</desc>
+    <category lang="en">Drama</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/MOVSF/resized_4608335a5ff68f7c1b68d2cee5e553fbeac914bcfbd64a10acae6df9c82d3090_weedslandscapejpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">MOVSF_WDSEDT074_US</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261116064934 +0000" stop="20261116071654 +0000" channel="hersphere_movsf_US">
+    <title lang="en">Weeds</title>
+    <desc lang="en">Nancy has a one-on-one, sit-down interview with Vaughn.</desc>
+    <category lang="en">Drama</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/MOVSF/resized_4608335a5ff68f7c1b68d2cee5e553fbeac914bcfbd64a10acae6df9c82d3090_weedslandscapejpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">MOVSF_WDSEDT075_US</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261116071654 +0000" stop="20261116074354 +0000" channel="hersphere_movsf_US">
+    <title lang="en">Weeds</title>
+    <desc lang="en">Nancy must free herself from the grip of Esteban in order to escape the country along with her family.</desc>
+    <category lang="en">Drama</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/MOVSF/resized_4608335a5ff68f7c1b68d2cee5e553fbeac914bcfbd64a10acae6df9c82d3090_weedslandscapejpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">MOVSF_WDSEDT076_US</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261116074354 +0000" stop="20261116081016 +0000" channel="hersphere_movsf_US">
+    <title lang="en">Weeds</title>
+    <desc lang="en">After doing three years hard time, Nancy is released from Federal Prison and transferred to a halfway house.</desc>
+    <category lang="en">Drama</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/MOVSF/resized_4608335a5ff68f7c1b68d2cee5e553fbeac914bcfbd64a10acae6df9c82d3090_weedslandscapejpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">MOVSF_WDSEDT077_US</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261116081016 +0000" stop="20261116083648 +0000" channel="hersphere_movsf_US">
+    <title lang="en">Weeds</title>
+    <desc lang="en">Nancy tries to get her life back on track in New York City.</desc>
+    <category lang="en">Drama</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/MOVSF/resized_4608335a5ff68f7c1b68d2cee5e553fbeac914bcfbd64a10acae6df9c82d3090_weedslandscapejpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">MOVSF_WDSEDT078_US</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261116083648 +0000" stop="20261116090310 +0000" channel="hersphere_movsf_US">
+    <title lang="en">Weeds</title>
+    <desc lang="en">Nancy is struggling to mix into the ranks of the halfway house, has an unexpected bomb dropped on her by Jill.</desc>
+    <category lang="en">Drama</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/MOVSF/resized_4608335a5ff68f7c1b68d2cee5e553fbeac914bcfbd64a10acae6df9c82d3090_weedslandscapejpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">MOVSF_WDSEDT079_US</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261116090310 +0000" stop="20261116092728 +0000" channel="hersphere_movsf_US">
+    <title lang="en">Weeds</title>
+    <desc lang="en">Nancy pursues a job at the office where Doug works, while Andy has found himself in a romantic situation.</desc>
+    <category lang="en">Drama</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/MOVSF/resized_4608335a5ff68f7c1b68d2cee5e553fbeac914bcfbd64a10acae6df9c82d3090_weedslandscapejpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">MOVSF_WDSEDT080_US</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261116092728 +0000" stop="20261116095140 +0000" channel="hersphere_movsf_US">
+    <title lang="en">Weeds</title>
+    <desc lang="en">With help from her lawyer and Silas, Nancy returns to California to continue her custody battle against Jill.</desc>
+    <category lang="en">Drama</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/MOVSF/resized_4608335a5ff68f7c1b68d2cee5e553fbeac914bcfbd64a10acae6df9c82d3090_weedslandscapejpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">MOVSF_WDSEDT081_US</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261116095140 +0000" stop="20261116101817 +0000" channel="hersphere_movsf_US">
+    <title lang="en">Weeds</title>
+    <desc lang="en">Nancy (MARY-LOUISE PARKER) confronts an old friend, leaving Silas (HUNTER PARRISH) caught in the crossfire.</desc>
+    <category lang="en">Drama</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/MOVSF/resized_4608335a5ff68f7c1b68d2cee5e553fbeac914bcfbd64a10acae6df9c82d3090_weedslandscapejpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">MOVSF_WDSEDT082_US</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261116101817 +0000" stop="20261116104259 +0000" channel="hersphere_movsf_US">
+    <title lang="en">Weeds</title>
+    <desc lang="en">Nancy sells pot at the hedge fund company softball game.</desc>
+    <category lang="en">Drama</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/MOVSF/resized_4608335a5ff68f7c1b68d2cee5e553fbeac914bcfbd64a10acae6df9c82d3090_weedslandscapejpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">MOVSF_WDSEDT083_US</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261116104259 +0000" stop="20261116110951 +0000" channel="hersphere_movsf_US">
+    <title lang="en">Weeds</title>
+    <desc lang="en">When Nancy is visited by her ex-cell mate Zoya, things get complicated with her supplier Demetri.</desc>
+    <category lang="en">Drama</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/MOVSF/resized_4608335a5ff68f7c1b68d2cee5e553fbeac914bcfbd64a10acae6df9c82d3090_weedslandscapejpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">MOVSF_WDSEDT084_US</episode-num>
+    <rating>
+      <value>TV-14</value>
     </rating>
   </programme>
 <programme start="20261116050918 +0000" stop="20261116061715 +0000" channel="portraittv_amg30859c1_us">
@@ -575,16 +733,6 @@
       <value>R</value>
     </rating>
   </programme>
-<programme start="20261116042529 +0000" stop="20261116060039 +0000" channel="us-cinedigm_entertainment_corp_screamboxtv_1">
-    <title lang="en">13 Nights of Elvira</title>
-    <desc lang="en">Elvira holiday gift to all of you is this awful lump of coal, straight off the naughty list. Gary Busey stars as the voice of this creepy cookie made from the ashes of a serial killer is a recipe for disaster in this creepy clas-sick</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://img.platform.wurl.dev/channel/1845/lg/88167e/LG-768x432_v1.png"/>
-    <episode-num system="dd_progid">US-CineverseEntertainmentCorp-118136032-56748805-56731219</episode-num>
-    <rating>
-      <value>TV-MA</value>
-    </rating>
-  </programme>
 <programme start="20261116060039 +0000" stop="20261116080000 +0000" channel="us-cinedigm_entertainment_corp_screamboxtv_1">
     <title lang="en">Elvira's Movie Macabre Monstroid</title>
     <desc lang="en">Elvira presents the 1980 Horror classic Monstroid.</desc>
@@ -613,16 +761,6 @@
     <episode-num system="dd_progid">US-CineverseEntertainmentCorp-118056873-52541967-52525612</episode-num>
     <rating>
       <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261116052959 +0000" stop="20261116060000 +0000" channel="us-gsn_cinevault_70s_1">
-    <title lang="en">One Day At A Time</title>
-    <desc lang="en">Ann's apparent success and enthusiasm for her new lifestyle become a real problem when she unknowingly influences the wrong person.</desc>
-    <category lang="en">Talk show &amp; Entertainment</category>
-    <icon src="http://img.platform.wurl.dev/episodemeta/53434643/lg/eb72ad/lg_episode_thumbnail768x432_v1.jpg"/>
-    <episode-num system="dd_progid">US-GAMESHOWNETWORKLLC-53452226-46391963-46376318</episode-num>
-    <rating>
-      <value>TV-PG</value>
     </rating>
   </programme>
 <programme start="20261116060000 +0000" stop="20261116063000 +0000" channel="us-gsn_cinevault_70s_1">
@@ -735,112 +873,112 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261116054757 +0000" stop="20261116061807 +0000" channel="us-lg_thebeverlyhillbillies_1">
-    <title lang="en">The Beverly Hillbillies</title>
-    <desc lang="en">"Duke Becomes a Father" - Mlle. Denise comes back for the birth of her dog's puppies, and to see Jed. They do some "courtin' and sparkin'" Mrs. Drysdale isn't nearly so happy when she finds the puppies share more in common with Duke the bloodhound than Claude the poodle.</desc>
-    <category lang="en">Talk show &amp; Entertainment</category>
-    <icon src="http://img.platform.wurl.dev/channel/1342/lg/06eaa3/LG-768x432_v1.png"/>
-    <episode-num system="dd_progid">US-LG-30095847-21386013-21372680</episode-num>
+<programme start="20261116060000 +0000" stop="20261116063000 +0000" channel="us-scripps_laffmore_1">
+    <title lang="en">Just for Laughs Gags</title>
+    <desc lang="en">Gags in uniform.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/1498/lg/d22c6a/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120593433-56782583-56762738</episode-num>
     <rating>
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20261116061807 +0000" stop="20261116064808 +0000" channel="us-lg_thebeverlyhillbillies_1">
-    <title lang="en">The Beverly Hillbillies</title>
-    <desc lang="en">"The Clampetts Entertain" - Jed arranges a party to get Grannie out of her doldrums and invites the Drysdale. But when Mr. Drysdale's boss comes and wants to meet them for dinner, he wonders if he's going to be sent to an Alaskan bank when his boss finds out he's been lying about Jed and his family being sophisticated.</desc>
-    <category lang="en">Talk show &amp; Entertainment</category>
-    <icon src="http://img.platform.wurl.dev/channel/1342/lg/06eaa3/LG-768x432_v1.png"/>
-    <episode-num system="dd_progid">US-LG-29948834-21386013-21372680</episode-num>
+<programme start="20261116063000 +0000" stop="20261116070000 +0000" channel="us-scripps_laffmore_1">
+    <title lang="en">Just for Laughs Gags</title>
+    <desc lang="en">Gags involving vehicles.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/1498/lg/d22c6a/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120593476-56782583-56762738</episode-num>
     <rating>
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20261116064808 +0000" stop="20261116071925 +0000" channel="us-lg_thebeverlyhillbillies_1">
-    <title lang="en">The Beverly Hillbillies</title>
-    <desc lang="en">"The Clampetts in Court" - When a couple who ran into the Clampett's car discover that they're rich, they fake injuries and sue the Clampetts.</desc>
-    <category lang="en">Talk show &amp; Entertainment</category>
-    <icon src="http://img.platform.wurl.dev/channel/1342/lg/06eaa3/LG-768x432_v1.png"/>
-    <episode-num system="dd_progid">US-LG-29908340-21386013-21372680</episode-num>
+<programme start="20261116070000 +0000" stop="20261116073000 +0000" channel="us-scripps_laffmore_1">
+    <title lang="en">Just for Laughs Gags</title>
+    <desc lang="en">Funny gags on four legs.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/1498/lg/d22c6a/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120593502-56782583-56762738</episode-num>
     <rating>
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20261116071925 +0000" stop="20261116074923 +0000" channel="us-lg_thebeverlyhillbillies_1">
-    <title lang="en">The Beverly Hillbillies</title>
-    <desc lang="en">"The Clampetts Get Psychoanalyzed" - Jethro needs a health certificate to graduate from the fifth grade, so he goes to the only doctor the Clampetts know about - Mrs. Drysdale's psychiatrist. He gets nowhere with Jethro, so Pearl comes and she thinks he is testing her virtue when he tries to lay her on his couch.</desc>
-    <category lang="en">Talk show &amp; Entertainment</category>
-    <icon src="http://img.platform.wurl.dev/channel/1342/lg/06eaa3/LG-768x432_v1.png"/>
-    <episode-num system="dd_progid">US-LG-29948832-21386013-21372680</episode-num>
+<programme start="20261116073000 +0000" stop="20261116080000 +0000" channel="us-scripps_laffmore_1">
+    <title lang="en">Just for Laughs Gags</title>
+    <desc lang="en">Conjuring up hilarious gags.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/1498/lg/d22c6a/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120593523-56782583-56762738</episode-num>
     <rating>
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20261116074923 +0000" stop="20261116082033 +0000" channel="us-lg_thebeverlyhillbillies_1">
-    <title lang="en">The Beverly Hillbillies</title>
-    <desc lang="en">"The Psychiatrist Gets Clampetted" - Jethro finally gets his bill of health from Dr. Twombly so he can graduate the fifth grade, but Twombly really wants to talk to Grannie again. Drysdale brings him to the Clampetts' just as Grannie showed Pearl how to use a love potion, so everyone thinks Twombly's interest in Grannie is love.</desc>
-    <category lang="en">Talk show &amp; Entertainment</category>
-    <icon src="http://img.platform.wurl.dev/channel/1342/lg/06eaa3/LG-768x432_v1.png"/>
-    <episode-num system="dd_progid">US-LG-29886207-21386013-21372680</episode-num>
+<programme start="20261116080000 +0000" stop="20261116083000 +0000" channel="us-scripps_laffmore_1">
+    <title lang="en">Just for Laughs Gags</title>
+    <desc lang="en">Heart-stopping gags.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/1498/lg/d22c6a/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120593552-56782583-56762738</episode-num>
     <rating>
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20261116082033 +0000" stop="20261116085037 +0000" channel="us-lg_thebeverlyhillbillies_1">
-    <title lang="en">The Beverly Hillbillies</title>
-    <desc lang="en">When Miss Hathaway gets sick and Mr. Drysdale has to speak at a conference, Jed helps out by running the bank and having Elly be his secretary, while Jethro finds a speech that Drysdale accidentally uses instead of his own. All the while a new teller sucks-up to the men and flirts with the women.</desc>
-    <category lang="en">Talk show &amp; Entertainment</category>
-    <icon src="http://img.platform.wurl.dev/channel/1342/lg/06eaa3/LG-768x432_v1.png"/>
-    <episode-num system="dd_progid">US-LG-30095840-21386013-21372680</episode-num>
+<programme start="20261116083000 +0000" stop="20261116090000 +0000" channel="us-scripps_laffmore_1">
+    <title lang="en">Just for Laughs Gags</title>
+    <desc lang="en">Gags amaze and amuse.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/1498/lg/d22c6a/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120593581-56782583-56762738</episode-num>
     <rating>
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20261116085037 +0000" stop="20261116092156 +0000" channel="us-lg_thebeverlyhillbillies_1">
-    <title lang="en">The Beverly Hillbillies</title>
-    <desc lang="en">Jethro brings home a friend, Armstrong Dueser McHugh III, who is coddled by a chauffeur who treats him as frail. The Clampetts know better, and show him a good time, friendship and family.</desc>
-    <category lang="en">Talk show &amp; Entertainment</category>
-    <icon src="http://img.platform.wurl.dev/channel/1342/lg/06eaa3/LG-768x432_v1.png"/>
-    <episode-num system="dd_progid">US-LG-29948866-21386013-21372680</episode-num>
+<programme start="20261116090000 +0000" stop="20261116093000 +0000" channel="us-scripps_laffmore_1">
+    <title lang="en">Top 10 Countdown</title>
+    <desc lang="en">Explore the dangers of the playground; watching people receive some bad luck; pumpkins meet their demise at the hands of someone in a bear costume.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/1498/lg/d22c6a/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120593615-56786235-56766012</episode-num>
     <rating>
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20261116092156 +0000" stop="20261116095204 +0000" channel="us-lg_thebeverlyhillbillies_1">
-    <title lang="en">The Beverly Hillbillies</title>
-    <desc lang="en">"Jed Gets the Misery" - Jed cheers up Granny by pretending to be sick so she can doctor him. Soon Drysdale and his doctor, Clyburn, are subject to her methods as well.</desc>
-    <category lang="en">Talk show &amp; Entertainment</category>
-    <icon src="http://img.platform.wurl.dev/channel/1342/lg/06eaa3/LG-768x432_v1.png"/>
-    <episode-num system="dd_progid">US-LG-29949049-21386012-21372680</episode-num>
+<programme start="20261116093000 +0000" stop="20261116100000 +0000" channel="us-scripps_laffmore_1">
+    <title lang="en">World's Funniest Videos: Top 10 Countdown</title>
+    <desc lang="en">Mistakes that are stuck with people for life; some real party animals dancing in bear suits; "The Last Time Buddy Joe Masters Would Ever Trust His Father."</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/1498/lg/d22c6a/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120593647-56785798-56762764</episode-num>
     <rating>
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20261116095204 +0000" stop="20261116102158 +0000" channel="us-lg_thebeverlyhillbillies_1">
-    <title lang="en">The Beverly Hillbillies</title>
-    <desc lang="en">"Hair-Raising Holiday" - After Granny cuts off the top of Drysdale and Clyburn's (his doctor) hair for some homegrown remedy, Clyburn tries to keep her from ever doctoring again. Meanwhile, the Clampetts are looking forward to the Possum Day parade, which of course isn't celebrated in Beverly Hills, so Drysdale has to figure out how to have one to keep them happy.</desc>
-    <category lang="en">Talk show &amp; Entertainment</category>
-    <icon src="http://img.platform.wurl.dev/channel/1342/lg/06eaa3/LG-768x432_v1.png"/>
-    <episode-num system="dd_progid">US-LG-30095830-21386012-21372680</episode-num>
+<programme start="20261116100000 +0000" stop="20261116103000 +0000" channel="us-scripps_laffmore_1">
+    <title lang="en">World's Funniest Videos: Top 10 Countdown</title>
+    <desc lang="en">Laugh at some silly make-overs; find out why slowing things down might not lessen the impact; witness some indecent proposals.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/1498/lg/d22c6a/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120593671-56785798-56762764</episode-num>
     <rating>
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20261116102158 +0000" stop="20261116105155 +0000" channel="us-lg_thebeverlyhillbillies_1">
-    <title lang="en">The Beverly Hillbillies</title>
-    <desc lang="en">"Granny's Garden" - Grannie has everyone up at the crack of down to plow the front yard for her garden, while Mr. Drysdale, Miss Hathaway, and a stubborn mule try to stop her.</desc>
-    <category lang="en">Talk show &amp; Entertainment</category>
-    <icon src="http://img.platform.wurl.dev/channel/1342/lg/06eaa3/LG-768x432_v1.png"/>
-    <episode-num system="dd_progid">US-LG-30095832-21386012-21372680</episode-num>
+<programme start="20261116103000 +0000" stop="20261116110000 +0000" channel="us-scripps_laffmore_1">
+    <title lang="en">Top 10 Countdown</title>
+    <desc lang="en">Witness some canine craziness, animals living their best lives and what happens when you combine Aunt Donna, a pig and a potato.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/1498/lg/d22c6a/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120593697-56786235-56766012</episode-num>
     <rating>
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20261116105155 +0000" stop="20261116112153 +0000" channel="us-lg_thebeverlyhillbillies_1">
-    <title lang="en">The Beverly Hillbillies</title>
-    <desc lang="en">"Elly Starts to School" - Mrs. Drysdale recommends Elly for a high-brow finishing school in hopes that humiliating her will drive the Clampetts away; but instead Miss Hathaway convinces the girls at the school that Elly is a fashion trend-setter. Elly invites the filthy rich Fenwicks over, thinking they're destitute.</desc>
-    <category lang="en">Talk show &amp; Entertainment</category>
-    <icon src="http://img.platform.wurl.dev/channel/1342/lg/06eaa3/LG-768x432_v1.png"/>
-    <episode-num system="dd_progid">US-LG-30095834-21386012-21372680</episode-num>
+<programme start="20261116110000 +0000" stop="20261116113000 +0000" channel="us-scripps_laffmore_1">
+    <title lang="en">Funniest Pets &amp; People</title>
+    <desc lang="en">Bulldog helps sweep backyard; English bulldog plays with broom while owner tries to sleep; baby cockatiel hangs onto toy bell, cat playing with toy school bus.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/1498/lg/d22c6a/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120593731-56782599-56762753</episode-num>
     <rating>
       <value>TV-PG</value>
     </rating>
