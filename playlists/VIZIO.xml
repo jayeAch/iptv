@@ -76,6 +76,10 @@
     <display-name>DangerTV</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/1646281495/1/267/150/0.jpg"/>
   </channel>
+<channel id="vizio.149station_647">
+    <display-name>MrBeast</display-name>
+    <icon src="https://images.vizio.com/v4/btv/1/1736244842/1/267/150/0.jpg"/>
+  </channel>
 <channel id="vizio.96Station_88885600">
     <display-name>ZHC</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/1736244387/1/267/150/0.jpg"/>
@@ -142,16 +146,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261116230000 +0000" stop="20261116233000 +0000" channel="vizio.149station_1648">
-    <title lang="en">Diff'rent Strokes</title>
-    <desc lang="en">Multi-millionaire Phillip Drummond, who has agreed to the death-bed wish of his housekeeper to raise her two small sons as his own, welcomes 8-year-old Arnold and 12-year-old Willis into his lavish penthouse. Anxious to make them feel at home, he showers them with gifts and love -- and is puzzled when he learns that the boys are planning to sneak from the lap of luxury back to Harlem. Aiding Drummond in his effort to make the street-wise, ghetto youngsters feel welcome in the affluent white world are Drummond's new housekeeper Mrs. Garrett and his 13-year-old daughter Kimberly.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205091741100,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E101</episode-num>
-    <episode-num system="xmltv_ns">0.100.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
 <programme start="20261116233000 +0000" stop="20261117000000 +0000" channel="vizio.149station_1648">
     <title lang="en">Diff'rent Strokes</title>
     <desc lang="en">Arnold's eavesdropping leads to trouble when a misunderstanding causes Willis and him to think that Mr. Drummond no longer wants them around; he has heard Drummond tell a social worker that "black children belong with black families."</desc>
@@ -212,12 +206,22 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20261116221830 +0000" stop="20261116232310 +0000" channel="vizio.93AMG00376C30ENG">
-    <title lang="en">Our World is on Fire</title>
-    <desc lang="en">Climate change is now a crisis, and our world is crying out. Examine some possible remedies to the emergency.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205192762855,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+<programme start="20261116234937 +0000" stop="20261117004951 +0000" channel="vizio.149station_647">
+    <title lang="en">MrBeast</title>
+    <sub-title lang="en">50 Streamers Fight for $1,000,000</sub-title>
+    <desc lang="en">Beast hosts the Ultimate Celebrity Streamer Battle Royal for YOUR chance at $1,000,000</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204672494895,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
-      <value>PG</value>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261117004951 +0000" stop="20261117021555 +0000" channel="vizio.149station_647">
+    <title lang="en">MrBeast</title>
+    <sub-title lang="en">50 Streamers Fight for $1,000,000</sub-title>
+    <desc lang="en">Beast hosts the Ultimate Celebrity Streamer Battle Royal for YOUR chance at $1,000,000</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204672494895,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>TV-14</value>
     </rating>
   </programme>
 <programme start="20261116232310 +0000" stop="20261117002649 +0000" channel="vizio.93AMG00376C30ENG">
@@ -242,17 +246,6 @@
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205196261953,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
       <value>PG</value>
-    </rating>
-  </programme>
-<programme start="20261116225347 +0000" stop="20261116234240 +0000" channel="vizio.93DARKS">
-    <title lang="en">Dark Side of the 2000s</title>
-    <sub-title lang="en">The Bachelor: Every Rose Has Its Thorn</sub-title>
-    <desc lang="en">The show professing to be about love is a much different beast behind the scenes.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205161877695,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <rating>
-      <value>TV-14</value>
     </rating>
   </programme>
 <programme start="20261116234240 +0000" stop="20261117003131 +0000" channel="vizio.93DARKS">
@@ -299,15 +292,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261116223545 +0000" stop="20261116233217 +0000" channel="vizio.93FUSXL">
-    <title lang="en">360 With Speedy</title>
-    <sub-title lang="en">Summer Walker</sub-title>
-    <desc lang="en">Summer Walker on 'Not Liking Men Anymore,' Freaking Out Tyler, The Creator &amp; Conspiracy Theories</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205196865424,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
 <programme start="20261116233217 +0000" stop="20261117012402 +0000" channel="vizio.93FUSXL">
     <title lang="en">Only God Forgives</title>
     <desc lang="en">Ryan Gosling stars as a drug smuggler in Bangkok who seeks revenge for his brother's death.</desc>
@@ -320,15 +304,6 @@
     <title lang="en">Stand Up Guys</title>
     <desc lang="en">Al Pacino and Christopher Walken reunite as aging gangsters for one wild night after prison.</desc>
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205196854251,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-<programme start="20261116221855 +0000" stop="20261116231453 +0000" channel="vizio.93HTHRU">
-    <title lang="en">Highway Thru Hell</title>
-    <sub-title lang="en">Episode 2</sub-title>
-    <desc lang="en">Jamie helps Colin recover a massive wreck near the 'Rock Cut'.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205196657971,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
       <value>NR</value>
     </rating>
@@ -375,17 +350,6 @@
       <value>NR (NOT RATED)</value>
     </rating>
   </programme>
-<programme start="20261116225525 +0000" stop="20261116234659 +0000" channel="vizio.93WBTV133">
-    <title lang="en">Scorned: Love Kills</title>
-    <sub-title lang="en">Sex on the Beach</sub-title>
-    <desc lang="en">Ted Ammon's wife gets revenge with her own affair, and it ends violently.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%20112425326,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S04E04</episode-num>
-    <episode-num system="xmltv_ns">3.3.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme start="20261116234659 +0000" stop="20261117003833 +0000" channel="vizio.93WBTV133">
     <title lang="en">Scorned: Love Kills</title>
     <sub-title lang="en">Disco Queen</sub-title>
@@ -415,17 +379,6 @@
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%20112665255,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <episode-num system="onscreen">S05E02</episode-num>
     <episode-num system="xmltv_ns">4.1.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261116230358 +0000" stop="20261116235558 +0000" channel="vizio.93amg00136c174">
-    <title lang="en">Third Watch</title>
-    <sub-title lang="en">Run of the Mill</sub-title>
-    <desc lang="en">Sully contemplates his own loneliness.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205070344588,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E09</episode-num>
-    <episode-num system="xmltv_ns">1.8.</episode-num>
     <rating>
       <value>TV-14</value>
     </rating>
@@ -461,28 +414,6 @@
     <episode-num system="xmltv_ns">1.11.</episode-num>
     <rating>
       <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261116224940 +0000" stop="20261116231633 +0000" channel="vizio.93amg01927c6">
-    <title lang="en">Degrassi: The Next Generation</title>
-    <sub-title lang="en">The Time of My Life, Pt. 2</sub-title>
-    <desc lang="en">Imogen can’t imagine saying good-bye to Fiona and resorts to desperate measures to try keep them together.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205018958354,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S12E40</episode-num>
-    <episode-num system="xmltv_ns">11.39.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261116231633 +0000" stop="20261116234226 +0000" channel="vizio.93amg01927c6">
-    <title lang="en">Degrassi: The Next Generation</title>
-    <sub-title lang="en">Summertime, Pt. 1</sub-title>
-    <desc lang="en">A few lucky students are bound for a once-in-a-lifetime trip to Paris, accompanied by some fresh new faces.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205018958191,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S13E01</episode-num>
-    <episode-num system="xmltv_ns">12.0.</episode-num>
-    <rating>
-      <value>TV-PG</value>
     </rating>
   </programme>
 <programme start="20261116234226 +0000" stop="20261117000818 +0000" channel="vizio.93amg01927c6">
@@ -551,22 +482,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20261116225711 +0000" stop="20261116232142 +0000" channel="vizio.93amg02134c2">
-    <title lang="en">Toyota’s Reliability Secrets REVEALED / Racetracks are DYING. Here’s how we save them.</title>
-    <desc lang="en">When the topic of reliability comes up, its doesn't take long until the name Toyota is mentioned.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204963812240,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261116232142 +0000" stop="20261116234641 +0000" channel="vizio.93amg02134c2">
-    <title lang="en">Is this Infamous Supercar Real? / How Outlaw Moonshiners Started NASCAR</title>
-    <desc lang="en">The Devel Sixteen has drawn praise and skepticism ever since its reveal way back in 2013.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204963812256,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme start="20261116234641 +0000" stop="20261117001006 +0000" channel="vizio.93amg02134c2">
     <title lang="en">The History of Concept Cars / How to Get a Motorcycle License in 3 EASY Steps</title>
     <desc lang="en">Concept cars have been around since the late 1800’s to display the latest innovations in automotive design.</desc>
@@ -613,28 +528,6 @@
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205022342281,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
       <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261116224411 +0000" stop="20261116230821 +0000" channel="vizio.93amg16763c3">
-    <title lang="en">Jesser: All Out</title>
-    <sub-title lang="en">Breaking 24 Football World Records in 24 Hours!</sub-title>
-    <desc lang="en">Can we break 24 football world records in 24 hours?</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204970095005,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E01</episode-num>
-    <episode-num system="xmltv_ns">1.0.</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-<programme start="20261116230821 +0000" stop="20261116233848 +0000" channel="vizio.93amg16763c3">
-    <title lang="en">Jesser: All Out</title>
-    <sub-title lang="en">100 IMPOSSIBLE Trickshots in 24 Hours</sub-title>
-    <desc lang="en">Today we're back attempting the impossible... 100 trickshots in 24 hours!</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204970095016,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <rating>
-      <value>PG</value>
     </rating>
   </programme>
 <programme start="20261116233848 +0000" stop="20261117000826 +0000" channel="vizio.93amg16763c3">
@@ -703,22 +596,6 @@
       <value>PG</value>
     </rating>
   </programme>
-<programme start="20261116224133 +0000" stop="20261116232758 +0000" channel="vizio.93amg35360c1">
-    <title lang="en">I Stayed in “Bodybuilding” Hotels ($3,000/Night)</title>
-    <desc lang="en">Jesse James West travels across the US to evaluate and rank Airbnbs based on their amenities, fitness facilities, and overall experience.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204997853220,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-<programme start="20261116232758 +0000" stop="20261116235405 +0000" channel="vizio.93amg35360c1">
-    <title lang="en">Living With Worlds Healthiest Family For 24 Hours</title>
-    <desc lang="en">I spent 24 hours living with the world's healthiest family.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204961709408,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
 <programme start="20261116235405 +0000" stop="20261117002734 +0000" channel="vizio.93amg35360c1">
     <title lang="en">Asking Celebrity YouTubers to Workout in THEIR Home Gyms</title>
     <desc lang="en">I asked the internet's biggest creators to train in their home gyms.</desc>
@@ -757,22 +634,6 @@
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204961709423,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
       <value>PG</value>
-    </rating>
-  </programme>
-<programme start="20261116230421 +0000" stop="20261116233133 +0000" channel="vizio.93amg35360c2">
-    <title lang="en">I Challenged PSG</title>
-    <desc lang="en">Football challenges vs the PSG squad! Mbappe, Ramos, Vitinha, Kang-In Lee,.. Who wins?</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204961709405,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-<programme start="20261116233133 +0000" stop="20261116235031 +0000" channel="vizio.93amg35360c2">
-    <title lang="en">Mystery Penalty Challenge vs Vlahović (Shocking)</title>
-    <desc lang="en">I challenged Dušan Vlahović to take 10 mystery penalties. Can the Juventus player score all of them?</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204961709342,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>G</value>
     </rating>
   </programme>
 <programme start="20261116235031 +0000" stop="20261117000342 +0000" channel="vizio.93amg35360c2">
@@ -843,22 +704,6 @@
     <title lang="en">Yildiz Rated My Football Skills!</title>
     <desc lang="en">I asked Turkish star Kenan Yildiz to rate my fc card. What will my final football rating be?</desc>
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204961709150,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-<programme start="20261116230110 +0000" stop="20261116233011 +0000" channel="vizio.93amg35360c3">
-    <title lang="en">Don't EVER go here... (Europe's Most Dangerous Forest)</title>
-    <desc lang="en">Magnus Midtbo explores Europe's most dangerous forest, home to more bears than anywhere else on Earth.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204995527296,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-<programme start="20261116233011 +0000" stop="20261116235703 +0000" channel="vizio.93amg35360c3">
-    <title lang="en">You'll NEVER Guess Who The SECRET Pro Climber is...</title>
-    <desc lang="en">Magnus Midtbo challenges viewers to identify a mystery professional climber in a competition episode.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204995527410,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
       <value>G</value>
     </rating>
@@ -935,17 +780,6 @@
       <value>R</value>
     </rating>
   </programme>
-<programme start="20261116225508 +0000" stop="20261116235620 +0000" channel="vizio.96Station_88885572">
-    <title lang="en">Untold Stories of the E.R.</title>
-    <sub-title lang="en">Dr. Bikini</sub-title>
-    <desc lang="en">A resort doctor must treat a man critically injured by a boat propeller. Later, the ER computers go down.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204256422080,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S09E13</episode-num>
-    <episode-num system="xmltv_ns">8.12.</episode-num>
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
 <programme start="20261116235620 +0000" stop="20261117005731 +0000" channel="vizio.96Station_88885572">
     <title lang="en">Untold Stories of the E.R.</title>
     <sub-title lang="en">Don't Push It</sub-title>
@@ -975,16 +809,6 @@
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204256422044,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <episode-num system="onscreen">S09E16</episode-num>
     <episode-num system="xmltv_ns">8.15.</episode-num>
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-<programme start="20261116223700 +0000" stop="20261116233956 +0000" channel="vizio.96Station_88885578">
-    <title lang="en">Hired Gun</title>
-    <desc lang="en">In 1993, a mother, her 8-year-old son and a live-in nurse were brutally murdered by an assassin. The murder-for-hire plot was meticulously planned and executed.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204074194533,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E02</episode-num>
-    <episode-num system="xmltv_ns">1.1.</episode-num>
     <rating>
       <value>NR</value>
     </rating>
@@ -1019,14 +843,6 @@
       <value>NR</value>
     </rating>
   </programme>
-<programme start="20261116220054 +0000" stop="20261116235537 +0000" channel="vizio.96Station_88885594">
-    <title lang="en">Green Room</title>
-    <desc lang="en">After witnessing a shocking crime, a young rock band is unexpectedly thrust into a life-or-death battle to escape the clutches of a diabolical club owner (Patrick Stewart) and his ruthless henchmen in this white-knuckle thriller</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204740135335,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>R</value>
-    </rating>
-  </programme>
 <programme start="20261116235537 +0000" stop="20261117014100 +0000" channel="vizio.96Station_88885594">
     <title lang="en">Night of the Rising Dead</title>
     <desc lang="en">In a remake of George RomeroÄôs 1968 cult classic horror film, amidst a worldwide event where the dead awake and roam the earth as zombies, a small group of human survivors struggle to stay alive and fight off the wandering zombies who are intent on eating them and turning them into the walking dead.</desc>
@@ -1039,17 +855,6 @@
     <title lang="en">Anaconda: Death Coil</title>
     <desc lang="en">Four friends visit a inherited cabin for nostalgia, but after finding a mutilated ranger and signs of a massive ancient anaconda, they're hunted by the creature and must survive the wilderness and uncover the land's dark history.</desc>
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205068539789,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-<programme start="20261116230244 +0000" stop="20261116233622 +0000" channel="vizio.96Station_88885597">
-    <title lang="en">Futcrunch</title>
-    <sub-title lang="en">I Built Haaland's Dream XI / I Built R9's Dream XI</sub-title>
-    <desc lang="en">Join Crunch in building teams based on Haaland's and R9's most revered players.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204927845308,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E18</episode-num>
-    <episode-num system="xmltv_ns">1.17.</episode-num>
     <rating>
       <value>NR</value>
     </rating>
@@ -1120,28 +925,6 @@
       <value>NR</value>
     </rating>
   </programme>
-<programme start="20261116224625 +0000" stop="20261116231553 +0000" channel="vizio.96Station_88885598">
-    <title lang="en">Sam and Colby</title>
-    <sub-title lang="en">Lost in the Dark Forest</sub-title>
-    <desc lang="en">Sam and Colby get lost and find themselves being chased by an unknown entity.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204927845376,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S08E07</episode-num>
-    <episode-num system="xmltv_ns">7.6.</episode-num>
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-<programme start="20261116231553 +0000" stop="20261116235314 +0000" channel="vizio.96Station_88885598">
-    <title lang="en">Sam and Colby</title>
-    <sub-title lang="en">The Biltmore: Most Haunted House in Florida</sub-title>
-    <desc lang="en">The team checks into the most haunted hotel in Florida.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204927845280,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S08E08</episode-num>
-    <episode-num system="xmltv_ns">7.7.</episode-num>
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
 <programme start="20261116235314 +0000" stop="20261117002158 +0000" channel="vizio.96Station_88885598">
     <title lang="en">Sam and Colby</title>
     <sub-title lang="en">Escaping a Haunted Ward</sub-title>
@@ -1193,28 +976,6 @@
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204927845276,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <episode-num system="onscreen">S08E13</episode-num>
     <episode-num system="xmltv_ns">7.12.</episode-num>
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-<programme start="20261116225757 +0000" stop="20261116232645 +0000" channel="vizio.96Station_88885600">
-    <title lang="en">ZHC</title>
-    <sub-title lang="en">Can You Customize This Lamborghini?</sub-title>
-    <desc lang="en">Check out Zach's team as they paint six Lamborghinis to give away to fans!</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204927845268,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-<programme start="20261116232645 +0000" stop="20261116235609 +0000" channel="vizio.96Station_88885600">
-    <title lang="en">ZHC</title>
-    <sub-title lang="en">Surprising MrBeast With a Custom House!</sub-title>
-    <desc lang="en">Zach surprises MrBeast with a brand new customized house.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204927845390,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
     <rating>
       <value>NR</value>
     </rating>
@@ -1274,14 +1035,6 @@
       <value>NR</value>
     </rating>
   </programme>
-<programme start="20261116212938 +0000" stop="20261116231438 +0000" channel="vizio.96Station_9993049">
-    <title lang="en">The Bone Snatcher</title>
-    <desc lang="en">When four jewel hunters are found dead in the desert with the flesh stripped from their bodies, it's up to Dr. Zack Straker to find out what's gone wrong.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%203992745494,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>PG-13</value>
-    </rating>
-  </programme>
 <programme start="20261116231438 +0000" stop="20261117011607 +0000" channel="vizio.96Station_9993049">
     <title lang="en">Hell Night</title>
     <desc lang="en">Four college pledges are forced to spend the night in a deserted old mansion, where they are stalked by the monstrous survivor of a family massacre years earlier.</desc>
@@ -1314,17 +1067,6 @@
     <episode-num system="onscreen">S17E02</episode-num>
     <episode-num system="xmltv_ns">16.1.</episode-num>
   </programme>
-<programme start="20261116222444 +0000" stop="20261116232303 +0000" channel="vizio.98wurl_dangertv">
-    <title lang="en">Send in the Dogs</title>
-    <sub-title lang="en">Manchester Man Hunt</sub-title>
-    <desc lang="en">Leo the german shepherd tracks car thieves in Manchester</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%203770524033,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E06</episode-num>
-    <episode-num system="xmltv_ns">1.5.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
 <programme start="20261116232303 +0000" stop="20261117001947 +0000" channel="vizio.98wurl_dangertv">
     <title lang="en">UK Border Force</title>
     <sub-title lang="en">The Couple Who Didn't Exist</sub-title>
@@ -1354,28 +1096,6 @@
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%203780792777,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <episode-num system="onscreen">S01E07</episode-num>
     <episode-num system="xmltv_ns">0.6.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261116225336 +0000" stop="20261116233545 +0000" channel="vizio.98wurl_playworks_digital_benazelart_1">
-    <title lang="en">Ben Azelart</title>
-    <sub-title lang="en">Living at YouTuber Homes</sub-title>
-    <desc lang="en">Ben Azelart secretly explores which YouTuber's house is the best to live in.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204979978859,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261116233545 +0000" stop="20261116234727 +0000" channel="vizio.98wurl_playworks_digital_benazelart_1">
-    <title lang="en">Ben Azelart</title>
-    <sub-title lang="en">Extreme Camo and Mythbusting</sub-title>
-    <desc lang="en">Ben and Cam play extreme hide and seek, using color camouflage! They also tackle 100 myths in a chaotic 24-hour challenge.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204979978918,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S03E16</episode-num>
-    <episode-num system="xmltv_ns">2.15.</episode-num>
     <rating>
       <value>TV-PG</value>
     </rating>
@@ -1431,39 +1151,6 @@
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204979978846,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <episode-num system="onscreen">S03E05</episode-num>
     <episode-num system="xmltv_ns">2.4.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261116225050 +0000" stop="20261116231303 +0000" channel="vizio.98wurl_playworks_digital_lawbymike_1">
-    <title lang="en">Law By Mike</title>
-    <sub-title lang="en">Musk Versus Zuckerberg And Tate Trial</sub-title>
-    <desc lang="en">Mike breaks down Elon Musk's potential legal win against Mark Zuckerberg and the surprising Twitter connection before exploring Andrew Tate's trial and why he believes he won.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204979979178,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E19</episode-num>
-    <episode-num system="xmltv_ns">1.18.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261116231303 +0000" stop="20261116233158 +0000" channel="vizio.98wurl_playworks_digital_lawbymike_1">
-    <title lang="en">Law By Mike</title>
-    <sub-title lang="en">Legal Myths Debunked with Mike</sub-title>
-    <desc lang="en">Mike explores surprising legal myths, answering questions about everything from prisons to backyard burials. You won't believe what he reveals!</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204979979059,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <episode-num system="xmltv_ns">0.9.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261116233158 +0000" stop="20261116234817 +0000" channel="vizio.98wurl_playworks_digital_lawbymike_1">
-    <title lang="en">Law By Mike</title>
-    <sub-title lang="en">Unpacking The Skibidi Toilet Scandal</sub-title>
-    <desc lang="en">Mike investigates the Skibidi Toilet copyright scandal, exposing legal battles, the creator's silencing, and companies threatening fans with takedowns.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205063602176,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S03E09</episode-num>
-    <episode-num system="xmltv_ns">2.8.</episode-num>
     <rating>
       <value>TV-PG</value>
     </rating>
@@ -1530,17 +1217,6 @@
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204979979268,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <episode-num system="onscreen">S02E09</episode-num>
     <episode-num system="xmltv_ns">1.8.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261116205756 +0000" stop="20261116235350 +0000" channel="vizio.98wurl_playworks_digital_ssundee_1">
-    <title lang="en">SSundee</title>
-    <sub-title lang="en">Poppy Playtime Chapter 4</sub-title>
-    <desc lang="en">SSundee plays the latest release of Poppy Playtime Chapter 4.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204979979119,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E06</episode-num>
-    <episode-num system="xmltv_ns">1.5.</episode-num>
     <rating>
       <value>TV-PG</value>
     </rating>
