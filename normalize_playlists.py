@@ -1396,6 +1396,7 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
         babyfirst tv
         baby tv
         babytv
+        henry danger
         cocomelon
         little baby bum
         moonbug
