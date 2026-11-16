@@ -1138,6 +1138,7 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
         filmrise drama
         nip/tuck
         pluto tv drama
+        bbc drama
         vikings
         7th heaven
         beverly hills 90210
