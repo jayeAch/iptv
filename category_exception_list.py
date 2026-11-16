@@ -17,4 +17,6 @@ CATEGORY_EXCEPTION_LIST = [
     "BBC Comedy",
     "Black Jesus",
     "Reno 911",
+    "Law & Order",
+    "NYPD Blue",
 ]
