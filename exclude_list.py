@@ -11,6 +11,10 @@ GLOBAL_EXCLUDE_LIST = [
 # All other entries (alphabetized, case-insensitive, deduplicated)
   "Star Trek",
   "Farscape",
+  "Animation+",
+  "Toon Goggles",
+  "Fairground AI TV",
+  "Your Pretty Face Is Going to Hell",
   "Stargate",
   "21 Jump Street",
   "ALF",
