@@ -200,6 +200,10 @@
     <display-name>Brave Wilderness</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2100010AB_20260421T141944SQUARE.png" />
   </channel>
+<channel id="USBC2100009GT">
+    <display-name>The Jack Hanna Channel</display-name>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100009GT_20240520T214854SQUARE.png" />
+  </channel>
 <channel id="USAJ3504704A">
     <display-name>The Pet Collective</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504704A_20240520T214709SQUARE.png" />
@@ -231,6 +235,14 @@
 <channel id="US1300007KZ">
     <display-name>PBS Nature</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1300007KZ_20250729T010500SQUARE.png" />
+  </channel>
+<channel id="USBC2100008DP">
+    <display-name>Xplore</display-name>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100008DP_20240520T214902SQUARE.png" />
+  </channel>
+<channel id="USBA3400003IP">
+    <display-name>Love Nature 4K</display-name>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3400003IP_20260421T142045SQUARE.png" />
   </channel>
 <channel id="US3800007CR">
     <display-name>WildEarth</display-name>
@@ -1314,16 +1326,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme channel="US2001109K" start="20261116001604 +0000" stop="20261116004016 +0000">
-    <title>Killer Mysteries</title>
-    <sub-title>From Student Seduction to Murder</sub-title>
-    <desc>High school staffer Pamela Smart becomes a household name when she starts a love affair with a student, who she convinces to kill her husband in a real life American soap opera.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2395387559_0_20260109T045742351Z_57_imageprocessorclient-tvplus-linear-584c967455-p9wk7.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme channel="US2001109K" start="20261116004016 +0000" stop="20261116010428 +0000">
     <title>Killer Mysteries</title>
     <sub-title>The Dumb Crook</sub-title>
@@ -1836,16 +1838,6 @@
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2697587425_4_20260323T090943845Z_130_imageprocessorclient-tvplus-linear-796646965d-tj4fd.jpeg" />
     <rating>
       <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme channel="US4000004N1" start="20261115235012 +0000" stop="20261116003814 +0000">
-    <title>Letterman</title>
-    <sub-title>NBC Debut: Steve Martin</sub-title>
-    <desc>Steve's first appearance with Dave on Late Night</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_552516852_0_20241207T123613274Z_114_imageprocessorclient-tvplus-linear-5dc4fd45f6-2m7pn.png" />
-    <rating>
-      <value>TV-14</value>
     </rating>
   </programme>
 <programme channel="US4000004N1" start="20261116003814 +0000" stop="20261116011013 +0000">
@@ -2487,16 +2479,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme channel="USAJ30000039U" start="20261116000716 +0000" stop="20261116003732 +0000">
-    <title>Dry Bar Comedy</title>
-    <sub-title>S6 E630</sub-title>
-    <desc>Chris Schlichting, an Iowan with every bone in his body still intact, comes with a few crucial warnings. Beware of birthday wishes, day raccoons, and the spelling on all hand written love letters.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352137A_2687393595_0_20260320T215217203Z_84_imageprocessorclient-tvplus-linear-796646965d-jt9nl.jpeg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
 <programme channel="USAJ30000039U" start="20261116003732 +0000" stop="20261116012232 +0000">
     <title>Alex Velluto</title>
     <sub-title>Thirsty</sub-title>
@@ -2852,6 +2834,106 @@
     <desc>Coyote braves the Gympie Gympie, Australia's infamous pain plant. The sting leaves lasting effects and is known to bring grown men to tears.With nothing but his bare hands, Coyote tries catfish noodling—reaching into muddy water for a hidden monster. It's wild, messy, and risky.</desc>
     <category lang="en">History</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2046278717_0_20251016T074312780Z_34_imageprocessorclient-tvplus-linear-76c46fff7-hc575.jpeg" />
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme channel="USBC2100009GT" start="20261116000000 +0000" stop="20261116004900 +0000">
+    <title>Jack Hanna's Passport</title>
+    <sub-title>National Parks Around the World</sub-title>
+    <desc>Migratory birds at Lake Manyara National Park in Tanzania  transporting bighorn sheep from a national forest to the Catalina Mountains in Arizona  warthogs and Cape buffalo in Chobe National Park  monkeys and a rare wild jaguar in Costa Rica.</desc>
+    <category lang="en">History</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1492620798_0_20250612T233353881Z_89_imageprocessorclient-tvplus-linear-95576dcd4-rms5x.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+<programme channel="USBC2100009GT" start="20261116004900 +0000" stop="20261116011300 +0000">
+    <title>Jack Hanna's Passport</title>
+    <sub-title>On Safari Around the World</sub-title>
+    <desc>Tracking lions, baboons and jackals in South Africa  zebras, rare antelopes and a baby gazelle in Tanzania  spotting proboscis monkeys and macaques on a river safari in Borneo.</desc>
+    <category lang="en">History</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1492620798_0_20250612T233353881Z_89_imageprocessorclient-tvplus-linear-95576dcd4-rms5x.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+<programme channel="USBC2100009GT" start="20261116011300 +0000" stop="20261116013700 +0000">
+    <title>Jack Hanna's Passport</title>
+    <sub-title>A World of Pachyderms</sub-title>
+    <desc>Jack and Suzi find the smallest elephants in the world on a river cruise through Borneo  they meet two adult tapirs in Peru  they see hippos and rhinos on safari in South Africa.</desc>
+    <category lang="en">History</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1492620798_0_20250612T233353881Z_89_imageprocessorclient-tvplus-linear-95576dcd4-rms5x.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+<programme channel="USBC2100009GT" start="20261116013700 +0000" stop="20261116020200 +0000">
+    <title>Jack Hanna's Wild Countdown</title>
+    <sub-title>Misunderstood Animals</sub-title>
+    <desc>Sharks  stingrays  wolves  alligators.</desc>
+    <category lang="en">History</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1412941309_0_20250529T185200786Z_129_imageprocessorclient-tvplus-linear-b76dd9bbb-pxjdg.jpeg" />
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme channel="USBC2100009GT" start="20261116020200 +0000" stop="20261116022600 +0000">
+    <title>Jack Hanna's Wild Countdown</title>
+    <sub-title>Seeing Red</sub-title>
+    <desc>The color red is important to some animals' survival.</desc>
+    <category lang="en">History</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1412941309_0_20250529T185200786Z_129_imageprocessorclient-tvplus-linear-b76dd9bbb-pxjdg.jpeg" />
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme channel="USBC2100009GT" start="20261116022600 +0000" stop="20261116025100 +0000">
+    <title>Jack Hanna's Wild Countdown</title>
+    <sub-title>A Mother's Love</sub-title>
+    <desc>Some animal mothers are sweet, some are strict and some are downright ferocious.</desc>
+    <category lang="en">History</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1412941309_0_20250529T185200786Z_129_imageprocessorclient-tvplus-linear-b76dd9bbb-pxjdg.jpeg" />
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme channel="USBC2100009GT" start="20261116025100 +0000" stop="20261116031500 +0000">
+    <title>Jack Hanna's Wild Countdown</title>
+    <sub-title>Snakes Alive</sub-title>
+    <desc>Jack counts down his snakiest safaris, from green Anacondas to Cobras.</desc>
+    <category lang="en">History</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1412941309_0_20250529T185200786Z_129_imageprocessorclient-tvplus-linear-b76dd9bbb-pxjdg.jpeg" />
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme channel="USBC2100009GT" start="20261116031500 +0000" stop="20261116033900 +0000">
+    <title>Jack Hanna's Wild Countdown</title>
+    <sub-title>Mamma Mia</sub-title>
+    <desc>A jaguar and her cub  a baby bear sleeping alongside its mother  a white rhino protecting her little calf  a cheetah mom  a whole herd of elephant mamas.</desc>
+    <category lang="en">History</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1412941369_0_20250529T185200787Z_78_imageprocessorclient-tvplus-linear-b76dd9bbb-pxjdg.jpeg" />
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme channel="USBC2100009GT" start="20261116033900 +0000" stop="20261116040400 +0000">
+    <title>Jack Hanna's Wild Countdown</title>
+    <sub-title>Supreme Senses</sub-title>
+    <desc>Creatures with powerful senses include crocodiles, elephants, sharks, bats and peregrine falcons.</desc>
+    <category lang="en">History</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1412941309_0_20250529T185200786Z_129_imageprocessorclient-tvplus-linear-b76dd9bbb-pxjdg.jpeg" />
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme channel="USBC2100009GT" start="20261116040400 +0000" stop="20261116072100 +0000">
+    <title>Jack Hanna's Wild Countdown</title>
+    <sub-title>Wildlife Crime-Fighters</sub-title>
+    <desc>Jack witnesses conservation and anti-poaching efforts that help save threatened and endangered species around the world.</desc>
+    <category lang="en">History</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1412941309_0_20250529T185200786Z_129_imageprocessorclient-tvplus-linear-b76dd9bbb-pxjdg.jpeg" />
     <rating>
       <value>TV-G</value>
     </rating>
@@ -3354,6 +3436,147 @@
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3321042436_1_20260812T071758943Z_103_imageprocessorclient-tvplus-linear-9468c5484-5jwcq.jpeg" />
     <rating>
       <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="USBC2100008DP" start="20261116003330 +0000" stop="20261116005745 +0000">
+    <title>Hearts of Heroes</title>
+    <sub-title>Silo Survival</sub-title>
+    <desc>A man becomes trapped inside a concrete silo, forcing rescuers to enter the dangerous structure and free him before he is buried alive.</desc>
+    <category lang="en">History</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3738260445_2_20261109T023013435Z_59_imageprocessorclient-tvplus-linear-6b56cc9f55-stp2b.jpeg" />
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme channel="USBC2100008DP" start="20261116005745 +0000" stop="20261116012204 +0000">
+    <title>Hearts of Heroes</title>
+    <sub-title>No Way Out</sub-title>
+    <desc>Wind-driven wildfires impede a difficult heli-rescue. Then, a 500 year flood.</desc>
+    <category lang="en">History</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3738150204_3_20261109T023013600Z_37_imageprocessorclient-tvplus-linear-6b56cc9f55-hlb7z.jpeg" />
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme channel="USBC2100008DP" start="20261116012204 +0000" stop="20261116014619 +0000">
+    <title>Hearts of Heroes</title>
+    <sub-title>On Thin Ice</sub-title>
+    <desc>First responders save a dog and its owner after they fall through thin lake ice, then rush to rescue a puppy trapped in fast-moving rapids.</desc>
+    <category lang="en">History</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3738224471_1_20261109T023013251Z_1_imageprocessorclient-tvplus-linear-6b56cc9f55-xrr9m.jpeg" />
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme channel="USBC2100008DP" start="20261116014619 +0000" stop="20261116021039 +0000">
+    <title>Hearts of Heroes</title>
+    <sub-title>Cowboys to the Rescue</sub-title>
+    <desc>Mass flooding in Oklahoma, cowboys rescue animals. A freak bomb cyclone causes unprecedented flooding.</desc>
+    <category lang="en">History</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3504730677_0_20260921T004847466Z_62_imageprocessorclient-tvplus-linear-6b56cc9f55-ns22h.jpeg" />
+    <episode-num system="onscreen">S02E02</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme channel="USBC2100008DP" start="20261116021039 +0000" stop="20261116023458 +0000">
+    <title>Hearts of Heroes</title>
+    <sub-title>Soaring Heroes</sub-title>
+    <desc>A hot air balloon collides with a speeding train. A structure fire risks lives.</desc>
+    <category lang="en">History</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3738189193_0_20261109T023014622Z_83_imageprocessorclient-tvplus-linear-6b56cc9f55-4hrj4.jpeg" />
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme channel="USBC2100008DP" start="20261116023458 +0000" stop="20261116025346 +0000">
+    <title>Hearts of Heroes</title>
+    <sub-title>Risk and Rescue</sub-title>
+    <desc>Police officers risk their lives to save a disabled man from a burning home, while rescuers use courage and ingenuity to free a buried child.</desc>
+    <category lang="en">History</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3738189743_0_20261109T023014643Z_26_imageprocessorclient-tvplus-linear-6b56cc9f55-4hrj4.jpeg" />
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme channel="USBC2100008DP" start="20261116025346 +0000" stop="20261116031744 +0000">
+    <title>The Henry Ford's Innovation Nation</title>
+    <sub-title>Bat Hotel</sub-title>
+    <desc>The Bat BnB keeping bugs at bay. The wristband saving electrical workers from shocking danger.</desc>
+    <category lang="en">History</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_534186140_0_20231020T132619652Z_146.jpeg" />
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme channel="USBC2100008DP" start="20261116031744 +0000" stop="20261116034141 +0000">
+    <title>The Henry Ford's Innovation Nation</title>
+    <sub-title>Pet GPS</sub-title>
+    <desc>Host Mo Rocca shows us: The GPS on your pet's collar.</desc>
+    <category lang="en">History</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_534186140_0_20231020T132619652Z_146.jpeg" />
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme channel="USBC2100008DP" start="20261116034141 +0000" stop="20261116040538 +0000">
+    <title>The Henry Ford's Innovation Nation</title>
+    <sub-title>Jetski Submarine</sub-title>
+    <desc>The jet ski that is also a submarine. The bike lock that smells like it could end thefts.</desc>
+    <category lang="en">History</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_534186140_0_20231020T132619652Z_146.jpeg" />
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme channel="USBC2100008DP" start="20261116040538 +0000" stop="20261116042935 +0000">
+    <title>The Henry Ford's Innovation Nation</title>
+    <sub-title>Flyboard Air</sub-title>
+    <desc>The jet hoverboard that flies over 100 mph as high as 9,000 feet. 3D printed homes built in a day.</desc>
+    <category lang="en">History</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_534186140_0_20231020T132619652Z_146.jpeg" />
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme channel="USBA3400003IP" start="20261116001704 +0000" stop="20261116011651 +0000">
+    <title>Wild Taiwan</title>
+    <sub-title>Jungle Island</sub-title>
+    <desc>Explore the untamed heart of Taiwan, where spring brings both risk and reward.</desc>
+    <category lang="en">History</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1874364108_1_20250827T170214352Z_1_imageprocessorclient-tvplus-linear-d7c8c765b-7g8cm.jpeg" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+<programme channel="USBA3400003IP" start="20261116011651 +0000" stop="20261116021822 +0000">
+    <title>Into the Blue: The Wonders of the Coral Triangle</title>
+    <sub-title>Forgotten Islands</sub-title>
+    <desc>It's the center of the coral triangle, the most unspoiled reefs in Indonesia.</desc>
+    <category lang="en">History</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1858322281_1_20250823T012353373Z_63_imageprocessorclient-tvplus-linear-d7c8c765b-4k4zf.jpeg" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+<programme channel="USBA3400003IP" start="20261116021822 +0000" stop="20261116032011 +0000">
+    <title>Into the Blue: The Wonders of the Coral Triangle</title>
+    <sub-title>Raja Ampat</sub-title>
+    <desc>The Archipelago of Raja Ampat is at the heart of the Coral Triangle. It's 1500 islands of untamed wilderness.</desc>
+    <category lang="en">History</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1858264183_0_20250823T012353133Z_130_imageprocessorclient-tvplus-linear-d7c8c765b-9jwgh.jpeg" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+<programme channel="USBA3400003IP" start="20261116032011 +0000" stop="20261116042140 +0000">
+    <title>Into the Blue: The Wonders of the Coral Triangle</title>
+    <sub-title>Komodo</sub-title>
+    <desc>It's the Komodo National Park, home of the Komodo dragon.</desc>
+    <category lang="en">History</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1858350866_4_20250823T012354590Z_1_imageprocessorclient-tvplus-linear-d7c8c765b-9xzkm.jpeg" />
+    <rating>
+      <value>PG</value>
     </rating>
   </programme>
 <programme channel="US3800007CR" start="20261115233000 +0000" stop="20261116023000 +0000">
