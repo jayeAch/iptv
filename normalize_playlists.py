@@ -217,6 +217,7 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
         en espanol
         telemundo
         vix
+        4fangs
         canela.tv
         novelas
         novelisima
@@ -1007,6 +1008,18 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
         60 days in jail
         20/20
         crime 360
+        law&crime
+        real crime
+        jail
+        60 days in by a&e
+        witness to justice
+        medical examiner
+        live channel
+        filmrise mysteries
+        i survived
+        mysteria
+        a&e alaska state troopers
+        dark side of
         trublu
         trublu crime channel
         american justice
