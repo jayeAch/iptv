@@ -7,6 +7,7 @@ CATEGORY_EXCLUDE_LIST = [
     "Comedy",
     "Soap Operas",
     "Military",
+    "Crime",
     "Drama",
     "Supernatural Drama",
     "Classic TV",
