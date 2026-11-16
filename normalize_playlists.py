@@ -235,6 +235,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         anime
         animeverse
         caylus
+        avatar
         anime all day
         crunchyroll
         hidive
@@ -379,6 +380,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         christmas
         xmas
         x-mas
+        andersens julehemmelighed
         holiday
         holidays
         merry christmas
@@ -487,6 +489,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     """),
     'Crime': _words("""
         cagney & lacey
+        nash bridges
         the practice
         columbo
         prime suspect
@@ -547,6 +550,8 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     # Non-crime dramas (crime dramas stay in Crime above).
     'Drama': _words("""
         more tv drama
+        love boat
+        nashville
         filmrise drama
         felicity
         nip/tuck
@@ -688,6 +693,8 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     # 'The Kids in the Hall' is a NAME_OVERRIDE (Comedy).
     'Kids': _words("""
         kids
+        familien thunderman
+        familjen thunderman
         kidz
         totally turtles
         pluto tv ungdomsserier
@@ -888,6 +895,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     'Nature': _words("""
         pbs nature
         terra mater wild
+        nat geo
         go wild
         brave wilderness
         dog whisperer
