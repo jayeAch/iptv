@@ -848,6 +848,7 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
         the amazing race
         fear factor
         wipeout
+        bondi rescue
         wipeout xtra
         extreme makeover
         extreme makeover home edition
@@ -1028,6 +1029,8 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
         brave wilderness
         dog whisperer
         dinos 24/7
+        earthday 365
+        bbc earth
         wildearth
         the yorkshire vet
         weatherspy
@@ -1162,6 +1165,7 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
     # land in their genre.
     ('Sci-Fi', _words("""
         the asylum
+        beyond belief
         farscape
         outersphere
         dark matter tv
@@ -1220,7 +1224,6 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
         toonami
         toons
         tom and jerry
-        your pretty face is going to hell
     """)),
     ('Comedy', _words("""
         comedy central
