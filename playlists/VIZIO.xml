@@ -72,6 +72,10 @@
     <display-name>The Three Stooges+</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/1652535931/1/267/150/0.jpg"/>
   </channel>
+<channel id="vizio.93TCBSH">
+    <display-name>The Carol Burnett Show</display-name>
+    <icon src="https://images.vizio.com/v4/btv/1/1646848034/1/267/150/0.jpg"/>
+  </channel>
 <channel id="vizio.96Station_88885592">
     <display-name>Family Feud</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/1736164538/1/267/150/0.jpg"/>
@@ -92,10 +96,6 @@
     <display-name>Bargain Hunt</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/1736246223/1/267/150/0.jpg"/>
   </channel>
-<channel id="vizio.93amg27048c3">
-    <display-name>It’s Anime</display-name>
-    <icon src="https://images.vizio.com/v4/btv/1/1736244477/1/267/150/0.jpg"/>
-  </channel>
 <channel id="vizio.93amg00136c49">
     <display-name>I Was Haunted</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/1736246022/1/267/150/0.jpg"/>
@@ -111,10 +111,6 @@
 <channel id="vizio.98wurl_dangertv">
     <display-name>DangerTV</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/1646281495/1/267/150/0.jpg"/>
-  </channel>
-<channel id="vizio.93SC8UP">
-    <display-name>Sensical Gaming</display-name>
-    <icon src="https://images.vizio.com/v4/btv/1/1643239132/1/267/150/0.jpg"/>
   </channel>
 <channel id="vizio.96Station_88885600">
     <display-name>ZHC</display-name>
@@ -188,21 +184,6 @@
     <display-name>PBS Genealogy</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/1736174784/1/267/150/0.jpg"/>
   </channel>
-<channel id="vizio.331ONTV4U">
-    <display-name>ShopTV</display-name>
-    <icon src="https://images.vizio.com/v4/btv/1/1657670737/1/267/150/0.jpg"/>
-  </channel>
-<programme start="20261115212143 +0000" stop="20261116000211 +0000" channel="vizio.149station_1287">
-    <title lang="en">On Patrol: Live</title>
-    <sub-title lang="en">Drag Race</sub-title>
-    <desc lang="en">An officer is injured when trying to detain a suspect; a missing teenager is recovered.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%203874215696,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E33</episode-num>
-    <episode-num system="xmltv_ns">0.32.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme start="20261116000211 +0000" stop="20261116024246 +0000" channel="vizio.149station_1287">
     <title lang="en">On Patrol: Live</title>
     <sub-title lang="en">Berkeley Barricade</sub-title>
@@ -331,16 +312,6 @@
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205091744887,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <episode-num system="onscreen">S01E516</episode-num>
     <episode-num system="xmltv_ns">0.515.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261115233000 +0000" stop="20261116000000 +0000" channel="vizio.149station_1648">
-    <title lang="en">Diff'rent Strokes</title>
-    <desc lang="en">Arnold is disgruntled over being partnered with archenemy Lisa in photography class.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205171442102,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S08E818</episode-num>
-    <episode-num system="xmltv_ns">7.817.</episode-num>
     <rating>
       <value>TV-PG</value>
     </rating>
@@ -505,16 +476,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261115233109 +0000" stop="20261115235708 +0000" channel="vizio.149station_1668">
-    <title lang="en">Baggage</title>
-    <desc lang="en">Jerry Springer hosts as daters decide how much emotional “baggage” they will put up with to find love. Today, a dater must choose between men whose baggage includes drinking every night and living in a boarding house with eight guys.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205142043023,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme start="20261115235708 +0000" stop="20261116002308 +0000" channel="vizio.149station_1668">
     <title lang="en">Baggage</title>
     <desc lang="en">Jerry Springer hosts as daters decide how much emotional “baggage” they are willing to put up with when finding love. Today, a dater must choose between men whose baggage includes shaving his entire body and having 8,000 Star Wars toys.</desc>
@@ -613,22 +574,6 @@
     <episode-num system="xmltv_ns">0.11.</episode-num>
     <rating>
       <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261115230000 +0000" stop="20261116020000 +0000" channel="vizio.331ONTV4U">
-    <title lang="en">Humana Medicare Advantage Plans</title>
-    <desc lang="en">The medicare annual election period ends on December 7th.  Watch and learn about Humana Medicare Advantage plans.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205127365942,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-<programme start="20261116020000 +0000" stop="20261116050000 +0000" channel="vizio.331ONTV4U">
-    <title lang="en">3 Vacuums in 1!  NEW Shark Transformer!</title>
-    <desc lang="en">The New Shark Transformer cleans your whole home in hard-to-reach places and above the floor spots.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205114616584,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>G</value>
     </rating>
   </programme>
 <programme start="20261115235102 +0000" stop="20261116004135 +0000" channel="vizio.93126">
@@ -763,17 +708,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20261115230719 +0000" stop="20261116000151 +0000" channel="vizio.93AMG00376C30ENG">
-    <title lang="en">World's Deadliest Weather</title>
-    <sub-title lang="en">Snowpocalypse</sub-title>
-    <desc lang="en">Track a hurricane, Irish gales, and a deadly North American snowpocalypse.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205195869017,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <rating>
-      <value>NR (NOT RATED)</value>
-    </rating>
-  </programme>
 <programme start="20261116000151 +0000" stop="20261116005609 +0000" channel="vizio.93AMG00376C30ENG">
     <title lang="en">World's Deadliest Weather</title>
     <sub-title lang="en">Earthquakes and Avalanches</sub-title>
@@ -827,14 +761,6 @@
     <episode-num system="xmltv_ns">0.8.</episode-num>
     <rating>
       <value>NR (NOT RATED)</value>
-    </rating>
-  </programme>
-<programme start="20261115233832 +0000" stop="20261115235813 +0000" channel="vizio.93AMG02451C1ENG">
-    <title lang="en">Scotched In Scotland</title>
-    <desc lang="en">The Stooges get a job guarding a Scotch castle.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205186461894,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>UR</value>
     </rating>
   </programme>
 <programme start="20261115235813 +0000" stop="20261116001838 +0000" channel="vizio.93AMG02451C1ENG">
@@ -1100,15 +1026,6 @@
       <value>NR (NOT RATED)</value>
     </rating>
   </programme>
-<programme start="20261115230415 +0000" stop="20261115235636 +0000" channel="vizio.93PBSGY">
-    <title lang="en">Long Lost Family (UK)</title>
-    <sub-title lang="en">Episode 6</sub-title>
-    <desc lang="en">Samantha searches for her father and Carole wants to find her long lost relatives.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205195869769,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
 <programme start="20261115235636 +0000" stop="20261116004914 +0000" channel="vizio.93PBSGY">
     <title lang="en">Long Lost Family (UK)</title>
     <sub-title lang="en">Episode 1</sub-title>
@@ -1154,52 +1071,70 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20261115230000 +0000" stop="20261116000000 +0000" channel="vizio.93SC8UP">
-    <title lang="en">Super Mario Galaxy 2</title>
-    <desc lang="en">Join AbdallahSmash, Mario, Lubba, and Yoshi aboard Starship Mario on an epic quest to reclaim the Power Stars in Super Mario Galaxy 2 on Nintendo Switch 2!</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205153543060,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+<programme start="20261115235901 +0000" stop="20261116002847 +0000" channel="vizio.93TCBSH">
+    <title lang="en">The Carol Burnett Show</title>
+    <sub-title lang="en">Larry Hovis, Barrie Chase</sub-title>
+    <desc lang="en">Barrie Chase and Larry Hovis guest star! Chase provides a musical number, and Hovis plays "The Marriage Game."</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205192392805,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S02E25</episode-num>
+    <episode-num system="xmltv_ns">1.24.</episode-num>
     <rating>
-      <value>TV-Y7</value>
+      <value>TV-G</value>
     </rating>
   </programme>
-<programme start="20261116000000 +0000" stop="20261116010000 +0000" channel="vizio.93SC8UP">
-    <title lang="en">Super Mario Galaxy 2</title>
-    <desc lang="en">Join AbdallahSmash, Mario, Lubba, and Yoshi aboard Starship Mario on an epic quest to reclaim the Power Stars in Super Mario Galaxy 2 on Nintendo Switch 2!</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205178485243,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+<programme start="20261116002847 +0000" stop="20261116010129 +0000" channel="vizio.93TCBSH">
+    <title lang="en">The Carol Burnett Show</title>
+    <sub-title lang="en">Ethel Merman, Tim Conway</sub-title>
+    <desc lang="en">Guest Tim Conway breaks up Harvey in "The Dentist." Also: Carol looks to steal the show from a Broadway star.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205192392844,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S02E21</episode-num>
+    <episode-num system="xmltv_ns">1.20.</episode-num>
     <rating>
-      <value>TV-Y7</value>
+      <value>TV-G</value>
     </rating>
   </programme>
-<programme start="20261116010000 +0000" stop="20261116020000 +0000" channel="vizio.93SC8UP">
-    <title lang="en">ItsFunneh: Krewcraft</title>
-    <desc lang="en">This is a modded Minecraft survival series where the Krew survive and venture into the magical modded world!</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205178481854,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+<programme start="20261116010129 +0000" stop="20261116012757 +0000" channel="vizio.93TCBSH">
+    <title lang="en">The Carol Burnett Show</title>
+    <sub-title lang="en">Steve Lawrence</sub-title>
+    <desc lang="en">Steve Lawrence stars. Includes a take-off of film noir "Laura." Also: Stella Toddler meets The Oldest Man.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205192392858,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S09E15</episode-num>
+    <episode-num system="xmltv_ns">8.14.</episode-num>
     <rating>
-      <value>TV-Y7</value>
+      <value>TV-G</value>
     </rating>
   </programme>
-<programme start="20261116020000 +0000" stop="20261116030000 +0000" channel="vizio.93SC8UP">
-    <title lang="en">ItsFunneh: Krewcraft</title>
-    <desc lang="en">This is a modded Minecraft survival series where the Krew survive and venture into the magical modded world!</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205166286079,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+<programme start="20261116012757 +0000" stop="20261116023138 +0000" channel="vizio.93TCBSH">
+    <title lang="en">The Best Of The Carol Burnett Show</title>
+    <sub-title lang="en">Betty White</sub-title>
+    <desc lang="en">Betty White plays Eunice's sister as "The Family" celebrates Mama's birthday.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205192392405,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S09E11</episode-num>
+    <episode-num system="xmltv_ns">8.10.</episode-num>
     <rating>
-      <value>TV-Y7</value>
+      <value>TV-G</value>
     </rating>
   </programme>
-<programme start="20261116030000 +0000" stop="20261116040000 +0000" channel="vizio.93SC8UP">
-    <title lang="en">Roblox Obbys with KREW</title>
-    <desc lang="en">Krew plays Roblox Obbys!</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205152120638,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+<programme start="20261116023138 +0000" stop="20261116033557 +0000" channel="vizio.93TCBSH">
+    <title lang="en">The Best Of The Carol Burnett Show</title>
+    <sub-title lang="en">Eydie Gorme, Paul Sand</sub-title>
+    <desc lang="en">Paul Sand and Eydie Gorme guest star in a salute to movie series such as "Dr. Kildaire".</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205192392432,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S07E05</episode-num>
+    <episode-num system="xmltv_ns">6.4.</episode-num>
     <rating>
-      <value>TV-Y7</value>
+      <value>TV-G</value>
     </rating>
   </programme>
-<programme start="20261116040000 +0000" stop="20261116050000 +0000" channel="vizio.93SC8UP">
-    <title lang="en">Roblox Obbys with KREW</title>
-    <desc lang="en">Krew plays Roblox Obbys!</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205152120629,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+<programme start="20261116033557 +0000" stop="20261116043940 +0000" channel="vizio.93TCBSH">
+    <title lang="en">The Best Of The Carol Burnett Show</title>
+    <sub-title lang="en">Gloria Swanson</sub-title>
+    <desc lang="en">Guest Gloria Swanson arrives for the Q&amp;A...but she only has eyes for Lyle.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205192392846,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S07E03</episode-num>
+    <episode-num system="xmltv_ns">6.2.</episode-num>
     <rating>
-      <value>TV-Y7</value>
+      <value>TV-G</value>
     </rating>
   </programme>
 <programme start="20261115233144 +0000" stop="20261116001733 +0000" channel="vizio.93TPRDS">
@@ -1303,14 +1238,6 @@
     <sub-title lang="en">Broken Trust</sub-title>
     <desc lang="en">A NYPD officer promises to make a teen girl's ambitions come true.</desc>
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%200,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-  </programme>
-<programme start="20261115231157 +0000" stop="20261116000230 +0000" channel="vizio.93amg00136c49">
-    <title lang="en">Most Terrifying Places in America</title>
-    <sub-title lang="en">Haunted Hot Spots</sub-title>
-    <desc lang="en">We tour more of the spookiest spots across America.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205078735160,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
   </programme>
 <programme start="20261116000230 +0000" stop="20261116005303 +0000" channel="vizio.93amg00136c49">
     <title lang="en">Most Terrifying Places in America</title>
@@ -1878,105 +1805,6 @@
     <episode-num system="xmltv_ns">0.2.</episode-num>
     <rating>
       <value>PG</value>
-    </rating>
-  </programme>
-<programme start="20261115233030 +0000" stop="20261116000030 +0000" channel="vizio.93amg27048c3">
-    <title lang="en">My Hero Academia</title>
-    <sub-title lang="en">Encounter (English Dubbed)</sub-title>
-    <desc lang="en">Class 1-A goes shopping for training camp supplies, but Izuku is suddenly pulled aside by a villain.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205070578966,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E25</episode-num>
-    <episode-num system="xmltv_ns">1.24.</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-<programme start="20261116000030 +0000" stop="20261116003030 +0000" channel="vizio.93amg27048c3">
-    <title lang="en">TOUGEN ANKI: Nikko Kegon Falls Arc</title>
-    <sub-title lang="en">Let the Training Begin!</sub-title>
-    <desc lang="en">Shiki and his fellow Rasetsu Academy students face a new training challenge: climbing a mountain in a freezing blizzard. Every student must reach the summit within 24 hours, but part-time instructors Hagure Nekosaki and Yu Innami have been brought in to stand in their way.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205122700137,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E01</episode-num>
-    <episode-num system="xmltv_ns">1.0.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261116003030 +0000" stop="20261116010030 +0000" channel="vizio.93amg27048c3">
-    <title lang="en">TOUGEN ANKI: Nikko Kegon Falls Arc</title>
-    <sub-title lang="en">The Path to Growing Strong</sub-title>
-    <desc lang="en">Shiki passes out after protecting Homare while the rest of the students battle Innami and Nekosaki.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205133413021,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E02</episode-num>
-    <episode-num system="xmltv_ns">1.1.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261116010030 +0000" stop="20261116013030 +0000" channel="vizio.93amg27048c3">
-    <title lang="en">TOUGEN ANKI: Nikko Kegon Falls Arc</title>
-    <sub-title lang="en">Purpose</sub-title>
-    <desc lang="en">Everyone but Jin and an impatient Yaoroshi have reached the summit when Nekosaki and Innami appear.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205144941330,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E03</episode-num>
-    <episode-num system="xmltv_ns">1.2.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261116013030 +0000" stop="20261116020030 +0000" channel="vizio.93amg27048c3">
-    <title lang="en">TOUGEN ANKI: Nikko Kegon Falls Arc</title>
-    <sub-title lang="en">Child of Kishin: Hayate Todoroki</sub-title>
-    <desc lang="en">The Oni Brigade wants to recruit Shiki, who rejects their ideals. However, they interest Yaoroshi.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205154960058,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E04</episode-num>
-    <episode-num system="xmltv_ns">1.3.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261116020030 +0000" stop="20261116023030 +0000" channel="vizio.93amg27048c3">
-    <title lang="en">TOUGEN ANKI: Nikko Kegon Falls Arc</title>
-    <sub-title lang="en">New Blood</sub-title>
-    <desc lang="en">The Oni Brigade members, including Yaoroshi, set their sights on the Momotaro base at Kegon Falls.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205166662966,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E05</episode-num>
-    <episode-num system="xmltv_ns">1.4.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261116023030 +0000" stop="20261116030030 +0000" channel="vizio.93amg27048c3">
-    <title lang="en">TOUGEN ANKI: Nikko Kegon Falls Arc</title>
-    <sub-title lang="en">Out of Focus</sub-title>
-    <desc lang="en">Yaoroshi finds himself questioning his decision to join the Oni Brigade when he sees them in action.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205177730119,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E06</episode-num>
-    <episode-num system="xmltv_ns">1.5.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261116030030 +0000" stop="20261116033030 +0000" channel="vizio.93amg27048c3">
-    <title lang="en">TOUGEN ANKI: Nikko Kegon Falls Arc</title>
-    <sub-title lang="en">The General's Back</sub-title>
-    <desc lang="en">While battling Shingi, Torikai recalls his first meeting with Todoroki, General of the Oni Brigade.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205190101492,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E07</episode-num>
-    <episode-num system="xmltv_ns">1.6.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261116033030 +0000" stop="20261116043030 +0000" channel="vizio.93amg27048c3">
-    <title lang="en">Tomodachi Talks</title>
-    <sub-title lang="en">Episode 2: Ray Chase</sub-title>
-    <desc lang="en">Meet Ray Chase!</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205177730120,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <rating>
-      <value>TV-PG</value>
     </rating>
   </programme>
 <programme start="20261115234619 +0000" stop="20261116002529 +0000" channel="vizio.93amg35360c1">
@@ -2672,17 +2500,6 @@
       <value>NR</value>
     </rating>
   </programme>
-<programme start="20261115232658 +0000" stop="20261115235712 +0000" channel="vizio.96Station_88885600">
-    <title lang="en">ZHC</title>
-    <sub-title lang="en">Can I Paint a Mansion in 50 Hours?</sub-title>
-    <desc lang="en">Zach and his team customize DJ legend Steve Aoki's mansion! How does he react?</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204927845207,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
 <programme start="20261115235712 +0000" stop="20261116002458 +0000" channel="vizio.96Station_88885600">
     <title lang="en">ZHC</title>
     <sub-title lang="en">We Took Over the Faze House!</sub-title>
@@ -3090,17 +2907,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20261115232828 +0000" stop="20261115235603 +0000" channel="vizio.98wurl_playworks_digital_lawbymike_1">
-    <title lang="en">Law By Mike</title>
-    <sub-title lang="en">Viral Gadgets and Legal Videos</sub-title>
-    <desc lang="en">Mike tests viral self-defense gadgets to find the real deals versus scams. He then explains the legal side of viral videos that need a lawyer to understand.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204979979315,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E12</episode-num>
-    <episode-num system="xmltv_ns">1.11.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
 <programme start="20261115235603 +0000" stop="20261116001349 +0000" channel="vizio.98wurl_playworks_digital_lawbymike_1">
     <title lang="en">Law by MIke Shorts</title>
     <sub-title lang="en">Law by Mike Shorts Compilation 4</sub-title>
@@ -3244,17 +3050,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20261115233949 +0000" stop="20261116000114 +0000" channel="vizio.98wurl_playworks_digital_ssundee_1">
-    <title lang="en">SSundee</title>
-    <sub-title lang="en">My OP Loadout in Roblox Overkill</sub-title>
-    <desc lang="en">SSundee and his friends jump into Roblox Overkill, collecting powerful upgrades each round to construct the ultimate, most overpowered loadout.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204979979020,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S17E03</episode-num>
-    <episode-num system="xmltv_ns">16.2.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
 <programme start="20261116000114 +0000" stop="20261116002209 +0000" channel="vizio.98wurl_playworks_digital_ssundee_1">
     <title lang="en">SSundee</title>
     <sub-title lang="en">Dragon Fruits In Among Us</sub-title>
@@ -3372,17 +3167,6 @@
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204979979122,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <episode-num system="onscreen">S17E13</episode-num>
     <episode-num system="xmltv_ns">16.12.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261115233548 +0000" stop="20261115235605 +0000" channel="vizio.98wurl_playworks_digital_theroyaltyfamily_1">
-    <title lang="en">The Royalty Family</title>
-    <sub-title lang="en">I'm Finally Moving Out</sub-title>
-    <desc lang="en">Ferran tries living on his own for a day to see what it's like.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204979978952,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E11</episode-num>
-    <episode-num system="xmltv_ns">0.10.</episode-num>
     <rating>
       <value>TV-PG</value>
     </rating>
