@@ -314,6 +314,7 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
     ('Asian', _words("""
         amasian tv
         aliwko
+        goldentv
         asiancrush
         asian drama
         bollywood
@@ -807,6 +808,8 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
     ('Reality TV', _words("""
         reality
         bad girls club
+        grind hard plumbing co
+        extreme living
         car chase
         extreme jobs
         reality tv
@@ -1070,6 +1073,7 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
     # group. (Nature is in category_exclude_list.py, so these are dropped from output.)
     ('Nature', _words("""
         pbs nature
+        go wild
         brave wilderness
         dog whisperer
         dinos 24/7
@@ -1190,6 +1194,7 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
     ('Drama', _words("""
         more tv drama
         filmrise drama
+        felicity
         nip/tuck
         pluto tv drama
         bbc drama
