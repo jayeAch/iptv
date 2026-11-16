@@ -808,6 +808,7 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
         reality
         bad girls club
         car chase
+        extreme jobs
         reality tv
         wicked tuna
         deal masters
