@@ -19,4 +19,5 @@ CATEGORY_EXCEPTION_LIST = [
     "Reno 911",
     "Law & Order",
     "NYPD Blue",
+    "NYPD Blue [DRM]",
 ]
