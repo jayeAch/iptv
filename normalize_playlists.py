@@ -779,6 +779,7 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
     ('Reality TV', _words("""
         reality
         reality tv
+        antiques eoad trip
         judge judy
         hot bench
         all weddings we tv
@@ -1183,6 +1184,7 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
     ('Toons', _words("""
         aqua teen hunger force
         archer
+        animation+
         american dad
         beavis and butt-head
         beavis and butthead
