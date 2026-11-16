@@ -52,6 +52,10 @@
     <display-name>Xumo Horror &amp; Thriller</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/1736242005/1/267/150/0.jpg"/>
   </channel>
+<channel id="vizio.98wurl_all3media_midsomer_1">
+    <display-name>Midsomer Murders</display-name>
+    <icon src="https://images.vizio.com/v4/btv/1/1719740769/1/267/150/0.jpg"/>
+  </channel>
 <channel id="vizio.149station_1287">
     <display-name>On Patrol: Live Channel</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/1736245997/1/267/150/0.jpg"/>
@@ -1245,14 +1249,6 @@
       <value>PG</value>
     </rating>
   </programme>
-<programme start="20261116002424 +0000" stop="20261116004326 +0000" channel="vizio.93amg35360c2">
-    <title lang="en">I Challenged The Worst Rated Female Footballer</title>
-    <desc lang="en">Alexia Fernandez is the lowest rated female footballer in FC25. Let's see if she can prove the online stats wrong..</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204961709463,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
 <programme start="20261116004326 +0000" stop="20261116005740 +0000" channel="vizio.93amg35360c2">
     <title lang="en">I Challenged World's Strongest Footballer In Real Life</title>
     <desc lang="en">In this video I challenge Victor Boniface &amp; Amine Adli in a strength football challenge.. Boniface his strength is rated 99..</desc>
@@ -1337,14 +1333,6 @@
     <title lang="en">I Signed A Pro Contract For 1 Day</title>
     <desc lang="en">I lived like a pro footballer at Cristiano Ronaldo's first club ‪Sporting CP‬ &amp; this happened..</desc>
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204961709436,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-<programme start="20261116002601 +0000" stop="20261116004749 +0000" channel="vizio.93amg35360c3">
-    <title lang="en">This Is Going To Change Climbing FOREVER...</title>
-    <desc lang="en">Magnus Midtbo explores an innovation that could transform climbing with new equipment and techniques.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204995527362,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
       <value>G</value>
     </rating>
@@ -1814,6 +1802,28 @@
       <value>NR</value>
     </rating>
   </programme>
+<programme start="20261116004800 +0000" stop="20261116023620 +0000" channel="vizio.98wurl_all3media_midsomer_1">
+    <title lang="en">Midsomer Murders</title>
+    <sub-title lang="en">The Axeman Cometh</sub-title>
+    <desc lang="en">The Midsomer Rocks festival is due to take place and music fans descend on neighbouring fields to enjoy the fiesta. The recently reformed band Hired Gun, are one of the headline acts and during their opening performance, the bands vocalist Mimi Clifton is electrocuted on stage whilst holding on to her microphone stand, that had an added mystery wire. Barnaby and Jones soon discover other band members could be targets.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%203860134480,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S10E04</episode-num>
+    <episode-num system="xmltv_ns">9.3.</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261116023620 +0000" stop="20261116042441 +0000" channel="vizio.98wurl_all3media_midsomer_1">
+    <title lang="en">Midsomer Murders</title>
+    <sub-title lang="en">Death And Dust</sub-title>
+    <desc lang="en">When popular GP, Doctor Alan Delaney borrows fellow Dr. James Kirkwood's new car to do an evening call-out. He is mysteriously killed in a hit and run during a drive through woods in a thunderstorm. Barnaby and Jones start investigating in Midsomer Market and discover that James may have been the intended victim. The case leads them to North Walesformer home of Delyth Mostyn, James's fiance to delve further.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%203861367306,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S10E05</episode-num>
+    <episode-num system="xmltv_ns">9.4.</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
 <programme start="20261116000913 +0000" stop="20261116010547 +0000" channel="vizio.98wurl_dangertv">
     <title lang="en">UK Border Force</title>
     <sub-title lang="en">Seeds of Doubt</sub-title>
@@ -1854,17 +1864,6 @@
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%203774440170,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <episode-num system="onscreen">S01E10</episode-num>
     <episode-num system="xmltv_ns">0.9.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261116003048 +0000" stop="20261116005151 +0000" channel="vizio.98wurl_playworks_digital_benazelart_1">
-    <title lang="en">Stay Wild</title>
-    <sub-title lang="en">Laugh, Lose $100!</sub-title>
-    <desc lang="en">Ben and Cam react to hilarious videos, risking $100 every time they crack a smile - can they keep it together?</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204979978932,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S03E04</episode-num>
-    <episode-num system="xmltv_ns">2.3.</episode-num>
     <rating>
       <value>TV-PG</value>
     </rating>
@@ -1920,17 +1919,6 @@
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204979979080,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <episode-num system="onscreen">S03E09</episode-num>
     <episode-num system="xmltv_ns">2.8.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261116001349 +0000" stop="20261116004602 +0000" channel="vizio.98wurl_playworks_digital_lawbymike_1">
-    <title lang="en">Law By Mike</title>
-    <sub-title lang="en">Legal Issues: Swift &amp; OceanGate</sub-title>
-    <desc lang="en">Mike discusses Taylor Swift's album re-releases and potential legal risks surrounding the OceanGate submersible scandal.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204979979057,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E19</episode-num>
-    <episode-num system="xmltv_ns">0.18.</episode-num>
     <rating>
       <value>TV-PG</value>
     </rating>
@@ -2052,17 +2040,6 @@
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205160556372,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <episode-num system="onscreen">S01E17</episode-num>
     <episode-num system="xmltv_ns">0.16.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261116002209 +0000" stop="20261116004331 +0000" channel="vizio.98wurl_playworks_digital_ssundee_1">
-    <title lang="en">SSundee</title>
-    <sub-title lang="en">Illegal Soccer in Minecraft</sub-title>
-    <desc lang="en">SSundee plays combat soccer in modded Minecraft.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204979979106,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
     <rating>
       <value>TV-PG</value>
     </rating>
