@@ -15,6 +15,7 @@ on:
       - "epg_urls.txt"
       - "exclude_list.py"
       - "category_exclude_list.py"
+      - "category_exception_list.py"
       - "filter_m3u.py"
       - "filter_epg.py"
       - "dedupe_m3u.py"
