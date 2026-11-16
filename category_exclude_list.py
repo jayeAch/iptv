@@ -5,6 +5,7 @@
 CATEGORY_EXCLUDE_LIST = [
     "Paranormal",
     "Supernatural Drama",
+    "Classic TV",
     "Documentaries",
     "Game Shows",
     "History",
