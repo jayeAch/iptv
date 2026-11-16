@@ -1285,6 +1285,7 @@ NAME_PINS: list[tuple[str, tuple[str, ...]]] = [
     # here to force it into Classic TV (apostrophes are stripped: hogans heroes).
     ('Classic TV', _words("""
         classic tv
+        three's company
         classic television
         vintage tv
         retro tv
