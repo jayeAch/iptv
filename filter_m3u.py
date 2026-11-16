@@ -85,23 +85,13 @@ def norm_category(c):
     return " ".join(html.unescape(c).split()).casefold()
 
 
-_NAME_SUFFIX_RE = re.compile(r'(?:\s*\([A-Za-z]{2}\)|\s*\[DRM\])+\s*$')
-
-
 def norm_name(n):
     """Collapse whitespace runs and casefold a channel display name."""
     return " ".join(n.split()).casefold()
 
 
-def norm_exception_name(n):
-    """norm_name, also ignoring trailing "(US)" / "[DRM]" markers, so an exemption
-    for "NYPD Blue" matches "NYPD Blue [DRM]" / "NYPD Blue (US) [DRM]" too
-    (same suffix rule normalize_playlists.category_for_channel uses)."""
-    return norm_name(_NAME_SUFFIX_RE.sub("", n.strip()))
-
-
 _EXCLUDE_CATEGORIES = {norm_category(c) for c in CATEGORY_EXCLUDE_LIST}
-_CATEGORY_EXCEPTIONS = {norm_exception_name(n) for n in CATEGORY_EXCEPTION_LIST}
+_CATEGORY_EXCEPTIONS = {norm_name(n) for n in CATEGORY_EXCEPTION_LIST}
 
 
 def load_urls(path):
@@ -280,7 +270,7 @@ def filter_items(items):
         name = entry_name(extinf)
         category = entry_category(extinf, tags)
         if (category is not None
-                and norm_exception_name(name) not in _CATEGORY_EXCEPTIONS
+                and norm_name(name) not in _CATEGORY_EXCEPTIONS
                 and (norm_category(category) in _EXCLUDE_CATEGORIES
                      or norm_category(final_category(name, html.unescape(category)) or "")
                      in _EXCLUDE_CATEGORIES)):
