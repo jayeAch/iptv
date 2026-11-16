@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+<channel id="us-ion_ion_plus_1">
+    <display-name>ION Plus</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/378/lg/165a68/LG-Logo-PNG-100x100_v1.png"/>
+  </channel>
 <channel id="99992272">
     <display-name>FilmRise Free Movies</display-name>
     <icon src="https://image.xumo.com/v1/channels/channel/99992272/400x200.png?type=white_cropped"/>
@@ -15,10 +19,6 @@
 <channel id="us-cinedigm_entertainment_corp_screamboxtv_1">
     <display-name>Screambox TV</display-name>
     <icon src="http://img.platform.wurl.dev/channel/1845/lg/88167e/LG-Logo-PNG-100x100_v1.png"/>
-  </channel>
-<channel id="FREQ938">
-    <display-name>BBC Drama Classics</display-name>
-    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/bbc/channels/938-400x200.png"/>
   </channel>
 <channel id="FREQ896">
     <display-name>Dove Channel</display-name>
@@ -313,56 +313,6 @@
     <episode-num system="dd_progid">9424367</episode-num>
     <rating>
       <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261116055519 +0000" stop="20261116065526 +0000" channel="FREQ938">
-    <title lang="en">Pride and Prejudice</title>
-    <desc lang="en">Jane and Bingley are reunited, but Darcy and Lizzie's future is usurped by a visitor.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/7291136392683214621/solid/rectangle/w1920_h1080/xj5r2d88xgaq1bciw65fb2fe1.jpg"/>
-    <episode-num system="dd_progid">5080581</episode-num>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
-<programme start="20261116065526 +0000" stop="20261116084341 +0000" channel="FREQ938">
-    <title lang="en">Persuasion</title>
-    <desc lang="en">An unmarried woman encounters her former love after he returns from battle.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/7291136274324963095/solid/rectangle/w1920_h1080/1dori6tjgjvag1j0xsszdws9aq.jpg"/>
-    <episode-num system="dd_progid">5032012</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261116084341 +0000" stop="20261116095110 +0000" channel="FREQ938">
-    <title lang="en">Emma (2009)</title>
-    <desc lang="en">Emma persuades Harriet that she is too good for her suitor, the farmer Robert Martin.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/5mcg5bb5o2iw1qlt8yy2e69lw/w1920_h1080/5mcg5bb5o2iw1qlt8yy2e69lw.jpg"/>
-    <episode-num system="dd_progid">4478098</episode-num>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
-<programme start="20261116095110 +0000" stop="20261116110009 +0000" channel="FREQ938">
-    <title lang="en">Emma (2009)</title>
-    <desc lang="en">Emma is intrigued by the mysterious and elusive newcomer Frank Churchill.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/1hxhx54pmi5sz1pajh6eget0w/w1920_h1080/1hxhx54pmi5sz1pajh6eget0w.jpg"/>
-    <episode-num system="dd_progid">4478096</episode-num>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
-<programme start="20261116060140 +0000" stop="20261116063423 +0000" channel="abcentertains_entert_US">
-    <title lang="en">We Can Be Heroes</title>
-    <desc lang="en">An introduction to five unique Australians who have been nominated for the Australian of the Year Award.</desc>
-    <category lang="en">Talk show &amp; Entertainment</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/entert/resized_541315c877be666c7b8b10140773c0559acd7de748908eab66b5be0dd0b794be_abcentertainsthumbnail1920x1080png_768_432.jpeg"/>
-    <episode-num system="dd_progid">entert_wecanbeheroes_01_01_v2_US</episode-num>
-    <rating>
-      <value>TV-MA</value>
     </rating>
   </programme>
 <programme start="20261116063423 +0000" stop="20261116070630 +0000" channel="abcentertains_entert_US">
@@ -733,6 +683,46 @@
     <episode-num system="dd_progid">US-CineverseEntertainmentCorp-118056873-52541967-52525612</episode-num>
     <rating>
       <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261116060000 +0000" stop="20261116070000 +0000" channel="us-ion_ion_plus_1">
+    <title lang="en">Criminal Minds</title>
+    <desc lang="en">With the help of the BAU team, Reid tries to find his girlfriend before it's too late.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/378/lg/165a68/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120603387-56790419-56763377</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261116070000 +0000" stop="20261116090000 +0000" channel="us-ion_ion_plus_1">
+    <title lang="en">Midsomer Murders</title>
+    <desc lang="en">Barnaby and Nelson uncover a conflict between the village church and ancient pagan traditions when a pub landlady is crushed to death during a magic show.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/378/lg/165a68/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120603410-56794051-56763825</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261116090000 +0000" stop="20261116110000 +0000" channel="us-ion_ion_plus_1">
+    <title lang="en">Midsomer Murders</title>
+    <desc lang="en">Barnaby investigates whether a ballad made famous by a late, lamented folk singer could have been the inspiration for a murder.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/378/lg/165a68/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120603446-56794051-56763825</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261116110000 +0000" stop="20261116130000 +0000" channel="us-ion_ion_plus_1">
+    <title lang="en">Midsomer Murders</title>
+    <desc lang="en">When a wine launch turns deadly, Barnaby tries to find out who is targeting the Midsomer Vinae Winery and what it has to do with the death of a child in a hit-and-run accident.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/378/lg/165a68/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120603478-56794051-56763825</episode-num>
+    <rating>
+      <value>TV-PG</value>
     </rating>
   </programme>
 </tv>
