@@ -1025,6 +1025,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     'Reality TV': _words("""
         reality
         emergency rescue
+        paradise hotel
         the osbournes
         ice road truckers
         supernanny
