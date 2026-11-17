@@ -4,6 +4,11 @@
 # matching.
 CATEGORY_EXCLUDE_LIST = [
     "Paranormal",
+    "Creators",
+    "Pets & Animals",
+    "Pop Culture",
+    "Home & DIY",
+    "British TV",
     "Soap Operas",
     "Action",
     "Military",
