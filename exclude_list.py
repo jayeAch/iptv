@@ -10,6 +10,12 @@ GLOBAL_EXCLUDE_LIST = [
 
 # All other entries (alphabetized, case-insensitive, deduplicated)
   "21 Jump Street",
+  "Matlock",
+  "Murder, She Wrote",
+  "Nash Bridges",
+  "The Practice",
+  "Midsomer Murders",
+  "Prime Suspect",
   "80's Sitcom Flashback",
   "According to Jim [DRM]",
   "AFV with Alfonso Ribeiro",
