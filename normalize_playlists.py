@@ -1491,6 +1491,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     'True Crime': _words("""
         60 days in jail
         20/20
+        american crimes
         crime 360
         law&crime
         buzzfeed unsolved
