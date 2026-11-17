@@ -696,6 +696,9 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     # 'The Kids in the Hall' is a NAME_OVERRIDE (Comedy).
     'Kids': _words("""
         kids
+        det stora experimentet
+        det store eksperiment
+        det store eksperimentet
         familien thunderman
         familjen thunderman
         svampebob
