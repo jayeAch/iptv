@@ -36,6 +36,7 @@ GLOBAL_EXCLUDE_LIST = [
   "Conan O'Brien TV",
   "Corner Gas",
   "Crazy Ex-Girlfriend",
+  "Creator Television",
   "Creator TV",
   "Doctor Who",
   "Dry Bar Comedy",
