@@ -852,6 +852,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     'Latino': _words("""
         spanish
         en espanol
+        zona investigación
         telemundo
         vix
         4fangs
