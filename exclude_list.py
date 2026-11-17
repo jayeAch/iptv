@@ -20,7 +20,7 @@ GLOBAL_EXCLUDE_LIST = [
   "Pluto TV Crime Thrillers",
   "Cagney & Lacey",
   "Ironside",
-  "Hawaii Five-0",
+  "Hawaii Five-O",
   "Pluto TV Crime Movies",
   "Britbox Mysteries",
   "Universal Movies",
