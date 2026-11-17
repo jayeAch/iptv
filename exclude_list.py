@@ -52,6 +52,7 @@ GLOBAL_EXCLUDE_LIST = [
   "The Conners",
   "The Daily Show",
   "The Millers",
+  "The Nanny",
   "The Walking Dead",
   "Toon Goggles",
   "Your Pretty Face Is Going to Hell",
