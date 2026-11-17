@@ -502,6 +502,8 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     """),
     'Crime': _words("""
         cagney & lacey
+        rookie blue
+        walker texas ranger
         nash bridges
         the practice
         columbo
@@ -1022,6 +1024,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     # Life Below Zero, American Ninja Warrior). Bare 'survivor' is a NAME_OVERRIDE.
     'Reality TV': _words("""
         reality
+        emergency rescue
         the osbournes
         ice road truckers
         supernanny
