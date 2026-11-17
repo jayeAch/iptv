@@ -755,6 +755,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     'Kids': _words("""
         kids
         pluto tv tegnefilm
+        pluto tv klassiske tegnefilmer
         pluto tv klassiske tegnefilm
         det stora experimentet
         det store eksperiment
