@@ -12,6 +12,7 @@ GLOBAL_EXCLUDE_LIST = [
   "21 Jump Street",
   "Matlock",
   "Third Watch",
+  "Rookie Blue",
   "BritBox Mysteries",
   "Narcos",
   "Diagnosis Murder",
