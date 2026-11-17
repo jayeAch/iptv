@@ -227,6 +227,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     'Action': _words("""
         walker texas ranger
         walker, texas ranger
+        pluto tv action
         las vegas
         nikita
         universal action
@@ -753,6 +754,8 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     # 'The Kids in the Hall' is a NAME_OVERRIDE (Comedy).
     'Kids': _words("""
         kids
+        pluto tv tegnefilm
+        pluto tv klassiske tegnefilm
         det stora experimentet
         det store eksperiment
         det store eksperimentet
@@ -954,7 +957,11 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         movies
         film
         films
+        pluto tv movies
+        moviesphere
+        pluto tv family movie club
         cinema
+        pluto tv film
         filmrise action
         action hollywood movies
     """),
@@ -1160,6 +1167,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     'Romance': _words("""
         romance
         pluto tv romantik
+        pluto tv romantikk
         romantic
         romance 365
         great american romcoms
