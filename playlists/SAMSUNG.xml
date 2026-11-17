@@ -28,6 +28,10 @@
     <display-name>Stories by AMC</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2500018X6_20261023T223625SQUARE.png" />
   </channel>
+<channel id="US3000015O4">
+    <display-name>Law &amp; Order</display-name>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3000015O4_20261008T213610SQUARE.png" />
+  </channel>
 <channel id="US36000086E">
     <display-name>Drop Dead Diva</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US36000086E_20261113T181309SQUARE.png" />
@@ -234,6 +238,26 @@
     <desc>Don takes a trip with his children.</desc>
     <category lang="en">Entertainment</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_839631471_0_20250212T192208927Z_108_imageprocessorclient-tvplus-linear-b76dd9bbb-5jlst.jpeg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme channel="US3000015O4" start="20261117203400 +0000" stop="20261117212700 +0000">
+    <title>Law &amp; Order</title>
+    <sub-title>Trophy</sub-title>
+    <desc>Detectives link the murders of two male teens to a case that occurred five years earlier  McCoy fears he convicted the wrong man for the earlier murders.</desc>
+    <category lang="en">Crime</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3513496968_0_20260922T214235757Z_1_imageprocessorclient-tvplus-linear-6b56cc9f55-cwddm.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="US3000015O4" start="20261117212700 +0000" stop="20261117222100 +0000">
+    <title>Law &amp; Order</title>
+    <sub-title>Charm City</sub-title>
+    <desc>A subway-station bombing prompts the squad to seek help from detectives in Baltimore where their prime suspect is wanted.</desc>
+    <category lang="en">Crime</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3513496968_0_20260922T214235757Z_1_imageprocessorclient-tvplus-linear-6b56cc9f55-cwddm.jpeg" />
     <rating>
       <value>TV-14</value>
     </rating>
