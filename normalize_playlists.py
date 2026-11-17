@@ -227,6 +227,11 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     'Action': _words("""
         walker texas ranger
         walker, texas ranger
+        universal action
+        all action
+        action plus
+        pluto tv 80's action
+        xumo free action
         macgyver
         renegade
         knight rider
@@ -1046,7 +1051,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         paradise hotel
         the osbournes
         ice road truckers
-        untold stories of the e.r.
+        untold stories of the
         chaos on cam
         earthxtra
         supernanny
