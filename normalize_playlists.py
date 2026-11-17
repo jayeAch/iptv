@@ -227,10 +227,13 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     'Action': _words("""
         walker texas ranger
         walker, texas ranger
+        las vegas
+        nikita
         universal action
         all action
         action plus
         pluto tv 80's action
+        pluto tv more 80's action
         xumo free action
         macgyver
         renegade
