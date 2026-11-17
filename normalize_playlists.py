@@ -568,6 +568,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     'Documentaries': _words("""
         documentary
         documentaries
+        reelz famous & infamous
         documentary channel
         documentaries channel
         docurama
@@ -1502,6 +1503,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         20/20
         the fbi files
         american crimes
+        oxygen true crimes
         crime 360
         law&crime
         buzzfeed unsolved
