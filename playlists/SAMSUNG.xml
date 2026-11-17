@@ -40,10 +40,6 @@
     <display-name>Wildfire</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900013Z7_20260421T133738SQUARE.png" />
   </channel>
-<channel id="US1900014Y2">
-    <display-name>Nash Bridges</display-name>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900014Y2_20260421T133740SQUARE.png" />
-  </channel>
 <channel id="USAJ22000130U">
     <display-name>MHz Mysteries</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ22000130U_20261117T052540SQUARE.png" />
@@ -55,6 +51,10 @@
 <channel id="USBB36000040M">
     <display-name>Crime Zone</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB36000040M_20261001T230639SQUARE.png" />
+  </channel>
+<channel id="US35000201T">
+    <display-name>Acorn TV Mysteries</display-name>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US35000201T_20260609T035122SQUARE.png" />
   </channel>
 <channel id="USAK3508703A">
     <display-name>Crime 24/7</display-name>
@@ -95,6 +95,10 @@
 <channel id="US37000036P">
     <display-name>TruBlu</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US37000036P_20250401T004913SQUARE.png" />
+  </channel>
+<channel id="US2600022YJ">
+    <display-name>BuzzFeed Unsolved</display-name>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600022YJ_20260421T133748SQUARE.png" />
   </channel>
 <channel id="US310000101">
     <display-name>MrBeast</display-name>
@@ -236,15 +240,6 @@
     <desc>After barely surviving the opening night of the Hell's Kitchen restaurant, the contestants prepare for their second dinner service.</desc>
     <category lang="en">Entertainment</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_552892737_0_20241213T043748098Z_98_imageprocessorclient-tvplus-linear-5dc4fd45f6-8b57x.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="USBD2500018X6" start="20261117185611 +0000" stop="20261117195424 +0000">
-    <title>Mad Men</title>
-    <desc>A visitor rattles Betty.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_839631471_0_20250212T192208927Z_108_imageprocessorclient-tvplus-linear-b76dd9bbb-5jlst.jpeg" />
     <rating>
       <value>TV-14</value>
     </rating>
@@ -419,36 +414,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme channel="US1900014Y2" start="20261117195000 +0000" stop="20261117204200 +0000">
-    <title>Nash Bridges</title>
-    <sub-title>Downtime</sub-title>
-    <desc>A forced vacation has Nash and Joe working outside conventional channels to solve a string of armored car robberies.</desc>
-    <category lang="en">Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3253631567_0_20260728T131202844Z_37_imageprocessorclient-tvplus-linear-9468c5484-p4rrd.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="US1900014Y2" start="20261117204200 +0000" stop="20261117213500 +0000">
-    <title>Nash Bridges</title>
-    <sub-title>Patriots</sub-title>
-    <desc>The Irish husband of Nash's first ex-wife is in San Francisco looking for revenge against IRA terrorists.</desc>
-    <category lang="en">Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3253631567_0_20260728T131202844Z_37_imageprocessorclient-tvplus-linear-9468c5484-p4rrd.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="US1900014Y2" start="20261117213500 +0000" stop="20261117222800 +0000">
-    <title>Nash Bridges</title>
-    <sub-title>Lady Killer</sub-title>
-    <desc>Nash tries to figure out who is framing Bettina for murder  someone is using Joe's stolen credit cards to live the playboy lifestyle.</desc>
-    <category lang="en">Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3253631567_0_20260728T131202844Z_37_imageprocessorclient-tvplus-linear-9468c5484-p4rrd.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme channel="USAJ22000130U" start="20261117191319 +0000" stop="20261117210200 +0000">
     <title>Murder In: Strasbourg (Sn 3 Ep 8)</title>
     <desc>Part of a gorgeous collection of mysteries, each one set in a different, picturesque region of France.  In Strasbourg, former sweethearts investigate the death of a winemaker discovered inside a vat. French with English subtitles.</desc>
@@ -466,16 +431,6 @@
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352137A_2443705324_0_20260121T222821402Z_35_imageprocessorclient-tvplus-linear-584c967455-l5ngp.jpeg" />
     <rating>
       <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="US410000230" start="20261117192736 +0000" stop="20261117195900 +0000">
-    <title>Making Good</title>
-    <sub-title>Laughing Bear Bakery</sub-title>
-    <desc>Kirby helps a bakery that gives ex-offenders second chances.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_839268002_0_20250212T172313980Z_55_imageprocessorclient-tvplus-linear-b76dd9bbb-gvkfw.png" />
-    <rating>
-      <value>TV-G</value>
     </rating>
   </programme>
 <programme channel="US410000230" start="20261117195900 +0000" stop="20261117205300 +0000">
@@ -544,6 +499,36 @@
     <desc>This episode follows an extensive investigation and how the revolutionary science of familial DNA revealed a perpetrator's identity.</desc>
     <category lang="en">True Crime</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550791421_15_20241113T060449805Z_62_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme channel="US35000201T" start="20261117195700 +0000" stop="20261117205100 +0000">
+    <title>Dalgliesh</title>
+    <sub-title>A Taste for Death</sub-title>
+    <desc>Two bodies are found in a London church with their throats slashed: a homeless man and an aristocratic Tory MP, who had recently resigned after a guest drowned at his wife's birthday party  Dalgliesh is called in to investigate.</desc>
+    <category lang="en">Crime</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1906428055_0_20250905T234944800Z_86_imageprocessorclient-tvplus-linear-d7c8c765b-nfvpt.jpeg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme channel="US35000201T" start="20261117205100 +0000" stop="20261117214500 +0000">
+    <title>Dalgliesh</title>
+    <sub-title>A Taste for Death</sub-title>
+    <desc>Another violent attack at the church seems to rule out Dalgliesh's main suspect  after discovering more home truths about Sir Paul's family, Dalgliesh is forced to draw on his own personal tragedies to disarm the killer.</desc>
+    <category lang="en">Crime</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1906428055_0_20250905T234944800Z_86_imageprocessorclient-tvplus-linear-d7c8c765b-nfvpt.jpeg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme channel="US35000201T" start="20261117214500 +0000" stop="20261117224000 +0000">
+    <title>Dalgliesh</title>
+    <sub-title>Death of an Expert Witness: Part 1</sub-title>
+    <desc>A girl's body is found in a remote part of Norfolk  the postmortem seems routine, but shortly afterwards the senior biologist at the forensics lab is murdered  DCI Adam Dalgliesh and DS Kate Miskin are called in to lead the inquiry.</desc>
+    <category lang="en">Crime</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1906428055_0_20250905T234944800Z_86_imageprocessorclient-tvplus-linear-d7c8c765b-nfvpt.jpeg" />
     <rating>
       <value>TV-14</value>
     </rating>
@@ -912,15 +897,6 @@
       <value>NA</value>
     </rating>
   </programme>
-<programme channel="US37000036P" start="20261117192043 +0000" stop="20261117195501 +0000">
-    <title>Takedown With Chris Hansen</title>
-    <desc>Chris Hansen continues his mission to hunt predators and protect children.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2869608982_3_20260502T233713615Z_44_imageprocessorclient-tvplus-linear-796646965d-96ghk.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme channel="US37000036P" start="20261117195501 +0000" stop="20261117202425 +0000">
     <title>Takedown With Chris Hansen</title>
     <desc>Chris and Ronald meet face-to-face during a Blount County sting operation.</desc>
@@ -971,6 +947,26 @@
     <desc>During a night patrol, Sheriff Swanson and Deputy Chris Carone encounter an unexpected situation.</desc>
     <category lang="en">True Crime</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_835717413_0_20250212T001948876Z_57_imageprocessorclient-tvplus-linear-b76dd9bbb-z2cj4.jpeg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme channel="US2600022YJ" start="20261117200000 +0000" stop="20261117220000 +0000">
+    <title>BuzzFeed Unsolved</title>
+    <sub-title>True Crime &amp; Supernatural Earliest Cases</sub-title>
+    <desc>Revisit some of BuzzFeed Unsolved's earliest cases!</desc>
+    <category lang="en">True Crime</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1689253009_0_20250715T223300467Z_82_imageprocessorclient-tvplus-linear-d7c8c765b-69wjt.jpeg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme channel="US2600022YJ" start="20261117220000 +0000" stop="20261117230000 +0000">
+    <title>BuzzFeed Unsolved</title>
+    <sub-title>3 Horrifying Cases of Ghosts and Demons</sub-title>
+    <desc>Can ghosts and demons harm the living?</desc>
+    <category lang="en">True Crime</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1689253017_0_20250715T223259472Z_78_imageprocessorclient-tvplus-linear-d7c8c765b-69wjt.jpeg" />
     <rating>
       <value>TV-14</value>
     </rating>

@@ -24,6 +24,10 @@
     <display-name>Tribeca</display-name>
     <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/tribeca/Tribeca_Logo_800w200h.png"/>
   </channel>
+<channel id="electricnoweng_eleno_US">
+    <display-name>Electric Now</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/electric/ENOW_White_logo_800x200.png"/>
+  </channel>
 <channel id="portraittv_amg30859c1_us">
     <display-name>Portrait TV</display-name>
     <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Portrait-TV_Logo_400x200.png"/>
@@ -39,6 +43,10 @@
 <channel id="FREQ541-US">
     <display-name>Mysteria</display-name>
     <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/lawandcrime/channels/541-400x200.png"/>
+  </channel>
+<channel id="99993006">
+    <display-name>World's Most Evil Killers</display-name>
+    <icon src="https://image.xumo.com/v1/channels/channel/99993006/400x200.png?type=white_cropped"/>
   </channel>
 <channel id="99992255">
     <display-name>Forensic Files</display-name>
@@ -134,16 +142,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20261117180838 +0000" stop="20261117195727 +0000" channel="99992272">
-    <title lang="en">Kill Switch</title>
-    <desc lang="en">A psychopathic killer is ravaging Memphis, Tennesse by murdering young women and Detective Jacob Stillwell is on the case. Known as the resident tough cop due to his aggressive tactics, he gets knocked sideways when his girlfriend becomes one of the murder victims. With his partner, Storm Anderson, in tow, Jacob casts the rules aside and infiltrates the seedy criminal underworld of the city looking to avenge his lover's death and put an end to the killings.</desc>
-    <category lang="en">Movies</category>
-    <icon src="https://image.xumo.com/v1/assets/asset/XM0MHFBYW00IU4/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992272%2F768x432.jpg%3Ftype%3DchannelTile"/>
-    <episode-num system="dd_progid">XM0MHFBYW00IU4</episode-num>
-    <rating>
-      <value>PG-13</value>
-    </rating>
-  </programme>
 <programme start="20261117195727 +0000" stop="20261117214110 +0000" channel="99992272">
     <title lang="en">Killing Season</title>
     <desc lang="en">Oscar winner Robert De Niro ("Raging Bull") and Oscar nominee John Travolta ("Pulp Fiction") star as two Bosnian War veterans hunting each other in this thrilling game of cat and mouse.</desc>
@@ -172,6 +170,56 @@
     <episode-num system="dd_progid">XM0MHFWLRVGVI1</episode-num>
     <rating>
       <value>PG-13</value>
+    </rating>
+  </programme>
+<programme start="20261117195746 +0000" stop="20261117205335 +0000" channel="99993006">
+    <title lang="en">World's Most Evil Killers</title>
+    <desc lang="en">The story of the Baton Rouge Serial Killer, known for murdering seven women in the area and sentenced to death for his chilling crimes.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0OJBK3XEAFEH/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993006%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM0OJBK3XEAFEH</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261117205335 +0000" stop="20261117214902 +0000" channel="99993006">
+    <title lang="en">World's Most Evil Killers</title>
+    <desc lang="en">She became the first woman to be executed by lethal injection after taking six lives. What drove her to commit these callous murders?</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM02FL6CAAH3WN/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993006%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM02FL6CAAH3WN</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261117214902 +0000" stop="20261117224455 +0000" channel="99993006">
+    <title lang="en">World's Most Evil Killers</title>
+    <desc lang="en">The story of the cold-blooded serial killer who took the lives of eleven people during a terrifying decade-long murder campaign.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0G4AVH12X11X/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993006%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM0G4AVH12X11X</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261117224455 +0000" stop="20261117234113 +0000" channel="99993006">
+    <title lang="en">World's Most Evil Killers</title>
+    <desc lang="en">The chilling story of the serial killer who worked as a nurse in Texas, where she killed many children and infants by injecting them with drugs.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM01QYAHG5G6CJ/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993006%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM01QYAHG5G6CJ</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261117234113 +0000" stop="20261118003500 +0000" channel="99993006">
+    <title lang="en">World's Most Evil Killers</title>
+    <desc lang="en">Two criminals, who met in prison while serving time for previous murders, struck up a friendship, which had deadly consequences.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0NAZI9E3JZCH/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993006%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM0NAZI9E3JZCH</episode-num>
+    <rating>
+      <value>TV-14</value>
     </rating>
   </programme>
 <programme start="20261117192538 +0000" stop="20261117220842 +0000" channel="FREQ1287-US">
@@ -292,6 +340,56 @@
     <episode-num system="dd_progid">9424378</episode-num>
     <rating>
       <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261117200000 +0000" stop="20261117210000 +0000" channel="electricnoweng_eleno_US">
+    <title lang="en">The Librarians</title>
+    <desc lang="en">The Serpent Society use a portal through space and time and unravel history.</desc>
+    <category lang="en">Action</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/ELENO/resized_6ba4bdc3f2b26ee010a6e33f7f9eff70ddd1291b71ee8a88b430876aada84602_thelibrarianswidescreenpng_768_432.jpeg"/>
+    <episode-num system="dd_progid">ELENO_electricent_TheLibrarians_110_ProRes422HQ_stereo_US</episode-num>
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+<programme start="20261117210000 +0000" stop="20261117220000 +0000" channel="electricnoweng_eleno_US">
+    <title lang="en">Leverage Redemption</title>
+    <desc lang="en">The Leverage team finds themselves taking shelter among oligarchs.</desc>
+    <category lang="en">Crime</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/ELENO/resized_7c900a039820235336b1eccf5aaaa64a3a724110ca522a6372f677f8fb7ac1fb_leverageredemptions3keyart1920x1080png_768_432.jpeg"/>
+    <episode-num system="dd_progid">ELENO_LVRG_301_ProRes422HQ_1920x1080_Stereo_250313_US</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+<programme start="20261117220000 +0000" stop="20261117230000 +0000" channel="electricnoweng_eleno_US">
+    <title lang="en">Leverage Redemption</title>
+    <desc lang="en">The team conducts a sting to snare a corrupt judge.</desc>
+    <category lang="en">Crime</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/ELENO/resized_7c900a039820235336b1eccf5aaaa64a3a724110ca522a6372f677f8fb7ac1fb_leverageredemptions3keyart1920x1080png_768_432.jpeg"/>
+    <episode-num system="dd_progid">ELENO_LVRG_307_ProRes422HQ_1920x1080_Stereo_US</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+<programme start="20261117230000 +0000" stop="20261118000000 +0000" channel="electricnoweng_eleno_US">
+    <title lang="en">The Librarians: The Next Chapter</title>
+    <desc lang="en">Connor faces his past as an old enemy returns stronger than ever.</desc>
+    <category lang="en">Fantasy</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/ELENO/resized_170731f2075ad1c4cc2d8b37d7163cd3de029bf5afbfa2dd504fee8ce40a2571_107andtheconconjpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">ELENO_TheLibrariansTheNextChapter_Ep107_AndtheCon-Con_Stereo_US</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261118000000 +0000" stop="20261118010000 +0000" channel="electricnoweng_eleno_US">
+    <title lang="en">The Librarians: The Next Chapter</title>
+    <desc lang="en">A forgotten night leads the team to uncover the truth about Lysa's mysterious friend.</desc>
+    <category lang="en">Fantasy</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/ELENO/resized_60afb3e7fb7a242c376bb334d081742b2bc84ff9c4a1a6bf8d3d470027d62b75_108andthehangoverfromhelljpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">ELENO_TheLibrariansTheNextChapter_Ep108_AndtheHangoverfromHell_Stereo_US</episode-num>
+    <rating>
+      <value>TV-PG</value>
     </rating>
   </programme>
 <programme start="20261117195137 +0000" stop="20261117202401 +0000" channel="hersphere_movsf_US">
@@ -530,16 +628,6 @@
     <category lang="en">Drama</category>
     <icon src="http://img.platform.wurl.dev/channel/1845/lg/88167e/LG-768x432_v1.png"/>
     <episode-num system="dd_progid">US-CineverseEntertainmentCorp-118056893-52541967-52525612</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261117190000 +0000" stop="20261117200000 +0000" channel="us-ion_ion_plus_1">
-    <title lang="en">Criminal Minds</title>
-    <desc lang="en">As the team searches for a vigilante killer in Cleveland, Rossi's former Marine sergeant goes missing in Los Angeles; J.J.'s secret catches up with her.</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://img.platform.wurl.dev/channel/378/lg/165a68/LG-768x432_v1.png"/>
-    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120677278-56783275-56763377</episode-num>
     <rating>
       <value>TV-14</value>
     </rating>

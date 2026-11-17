@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
+<channel id="localnow.FAB3945A-F8EB-4ED4-B8A5-05FCEA44FD4A">
+    <display-name>48 Hours</display-name>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/FAB3945A-F8EB-4ED4-B8A5-05FCEA44FD4A/3-1x1.png" />
+  </channel>
 <channel id="localnow.41830D3A-37B5-4C6C-B242-A08B82B441D9">
     <display-name>Forensic Files</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/41830D3A-37B5-4C6C-B242-A08B82B441D9/3-1x1.png" />
@@ -64,10 +68,6 @@
     <display-name>Shout! TV</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/BB4BC900-1313-4711-8483-9DB687F4AE5E/3-1x1.png" />
   </channel>
-<channel id="localnow.9EF0203B-766B-4822-8A34-D0C5C41E0E36">
-    <display-name>ElectricNOW</display-name>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/9EF0203B-766B-4822-8A34-D0C5C41E0E36/3-1x1.png" />
-  </channel>
 <channel id="localnow.6D30170C-D7B3-46A2-8C1F-302D8399F44D">
     <display-name>Free Movies Plus</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/6D30170C-D7B3-46A2-8C1F-302D8399F44D/3-1x1.png" />
@@ -88,12 +88,6 @@
     <display-name>WFXB Myrtle Beach SC (FOX)</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/72384889-EEEB-4EEA-93B3-F26FF4E12D6B/3-1x1.png" />
   </channel>
-<programme start="20261117190000 +0000" stop="20261117200000 +0000" channel="localnow.06FFDD3B-A149-4023-8EF8-96685EB19DDE">
-    <title lang="en">Screambox TV</title>
-    <desc lang="en">Your home for horror featuring Screambox exclusives, originals, and curated horror movies and TV to make you scream 24/7.</desc>
-    <category lang="en">Horror</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/06FFDD3B-A149-4023-8EF8-96685EB19DDE/0-2x3.png" />
-  </programme>
 <programme start="20261117200000 +0000" stop="20261117210000 +0000" channel="localnow.06FFDD3B-A149-4023-8EF8-96685EB19DDE">
     <title lang="en">Screambox TV</title>
     <desc lang="en">Your home for horror featuring Screambox exclusives, originals, and curated horror movies and TV to make you scream 24/7.</desc>
@@ -165,14 +159,6 @@
     <category lang="en">Movies</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/6D30170C-D7B3-46A2-8C1F-302D8399F44D/0-2x3.png" />
   </programme>
-<programme start="20261117190100 +0000" stop="20261117195700 +0000" channel="localnow.70E6008B-8E98-4B80-8CE2-D721592DF1C1">
-    <title lang="en">World's Most Evil Killers</title>
-    <desc lang="en">The I-95 killer, who brutally killed six men in 1994, is executed three years later.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/70E6008B-8E98-4B80-8CE2-D721592DF1C1/0-2x3.png" />
-    <episode-num system="onscreen">S06E06</episode-num>
-    <episode-num system="xmltv_ns">5.5.</episode-num>
-  </programme>
 <programme start="20261117195700 +0000" stop="20261117205300 +0000" channel="localnow.70E6008B-8E98-4B80-8CE2-D721592DF1C1">
     <title lang="en">World's Most Evil Killers</title>
     <desc lang="en">The Baton Rouge Serial Killer, known for murdering seven women is sentenced to death for his crimes.</desc>
@@ -209,13 +195,6 @@
     <category lang="en">News</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/72384889-EEEB-4EEA-93B3-F26FF4E12D6B/0-2x3.png" />
     <episode-num system="dd_progid">program-wfxb-20261118033000</episode-num>
-  </programme>
-<programme start="20261117193000 +0000" stop="20261117200000 +0000" channel="localnow.7439B766-5F61-43D6-A61B-D58FEF6824FD">
-    <title lang="en">TNDAY2 Replay</title>
-    <desc lang="en">America's News, Now. Bringing you award-winning local storytelling from the nation's capital.</desc>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7439B766-5F61-43D6-A61B-D58FEF6824FD/0-2x3.png" />
-    <episode-num system="dd_progid">program-wpde-myrtle-beach-sc-20261117193000</episode-num>
   </programme>
 <programme start="20261117200000 +0000" stop="20261117203000 +0000" channel="localnow.7439B766-5F61-43D6-A61B-D58FEF6824FD">
     <title lang="en">TNDAY1 Replay</title>
@@ -273,34 +252,6 @@
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/79549FA0-4EBE-48C3-957F-037BA02E827F/0-2x3.png" />
     <episode-num system="dd_progid">program-epg-horror-machine-20261117220000</episode-num>
   </programme>
-<programme start="20261117190000 +0000" stop="20261117200000 +0000" channel="localnow.9EF0203B-766B-4822-8A34-D0C5C41E0E36">
-    <title lang="en">The Librarians</title>
-    <desc lang="en">A missing person investigation uncovers what appears to be an alien invasion.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/9EF0203B-766B-4822-8A34-D0C5C41E0E36/0-2x3.png" />
-    <episode-num system="dd_progid">program-electric-now-20261117190000</episode-num>
-  </programme>
-<programme start="20261117200000 +0000" stop="20261117210000 +0000" channel="localnow.9EF0203B-766B-4822-8A34-D0C5C41E0E36">
-    <title lang="en">The Librarians</title>
-    <desc lang="en">The Serpent Society use a portal through space and time and unravel history.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/9EF0203B-766B-4822-8A34-D0C5C41E0E36/0-2x3.png" />
-    <episode-num system="dd_progid">program-electric-now-20261117200000</episode-num>
-  </programme>
-<programme start="20261117210000 +0000" stop="20261117220000 +0000" channel="localnow.9EF0203B-766B-4822-8A34-D0C5C41E0E36">
-    <title lang="en">Leverage Redemption</title>
-    <desc lang="en">The Leverage team finds themselves taking shelter among oligarchs.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/9EF0203B-766B-4822-8A34-D0C5C41E0E36/0-2x3.png" />
-    <episode-num system="dd_progid">program-electric-now-20261117210000</episode-num>
-  </programme>
-<programme start="20261117190000 +0000" stop="20261117200000 +0000" channel="localnow.A0A87EFE-61FA-477E-A0E3-44A88013AE74">
-    <title lang="en">Local News Live</title>
-    <desc lang="en">News of the day from the experts who know their communities best – our local journalists across the country.</desc>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/A0A87EFE-61FA-477E-A0E3-44A88013AE74/0-2x3.png" />
-    <episode-num system="dd_progid">program-wmbf-2026-11-17T19-00-00</episode-num>
-  </programme>
 <programme start="20261117200000 +0000" stop="20261117210000 +0000" channel="localnow.A0A87EFE-61FA-477E-A0E3-44A88013AE74">
     <title lang="en">Local News Live</title>
     <desc lang="en">WMBF News in Myrtle Beach goes into the Grand Strand and Pee Dee communities to provide our viewers with the news, weather and sports they need to know.</desc>
@@ -322,27 +273,12 @@
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/A48FFE37-5FF8-486F-B048-D8793F969F26/0-2x3.png" />
     <episode-num system="dd_progid">program-hunter-20261117202116</episode-num>
   </programme>
-<programme start="20261117193000 +0000" stop="20261117200000 +0000" channel="localnow.A7FA55BD-F771-46DA-B7A0-B974DA61DF21">
-    <title lang="en">How The Most Notorious Criminals and Spies Were Caught</title>
-    <desc lang="en">How some of the most notorious criminals and spies were finally caught.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/A7FA55BD-F771-46DA-B7A0-B974DA61DF21/0-2x3.png" />
-    <episode-num system="dd_progid">program-buzzfeed-unsolved-20261117193000</episode-num>
-  </programme>
 <programme start="20261117200000 +0000" stop="20261117220000 +0000" channel="localnow.A7FA55BD-F771-46DA-B7A0-B974DA61DF21">
     <title lang="en">BuzzFeed Unsolved</title>
     <desc lang="en">Revisit some of BuzzFeed Unsolved's earliest cases!</desc>
     <category lang="en">True Crime</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/A7FA55BD-F771-46DA-B7A0-B974DA61DF21/0-2x3.png" />
     <episode-num system="dd_progid">program-buzzfeed-unsolved-20261117200000</episode-num>
-  </programme>
-<programme start="20261117175800 +0000" stop="20261117195400 +0000" channel="localnow.AFE4F17B-882F-4DFF-9014-972E16331779">
-    <title lang="en">The Truth About Emanuel</title>
-    <desc lang="en">A troubled young woman becomes obsessed with her mysterious new neighbor, who bears a striking resemblance to the girl's dead mother.</desc>
-    <category lang="en">Sci-Fi</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/AFE4F17B-882F-4DFF-9014-972E16331779/0-2x3.png" />
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
 <programme start="20261117195400 +0000" stop="20261117215400 +0000" channel="localnow.AFE4F17B-882F-4DFF-9014-972E16331779">
     <title lang="en">The War Between</title>
@@ -388,13 +324,6 @@
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/B2DACF04-EB66-492A-96BE-DC13E160C5EE/0-2x3.png" />
     <episode-num system="dd_progid">program-buzzfeed-celeb-20261117224500</episode-num>
   </programme>
-<programme start="20261117192647 +0000" stop="20261117195634 +0000" channel="localnow.BB4BC900-1313-4711-8483-9DB687F4AE5E">
-    <title lang="en">Father Knows Best</title>
-    <desc lang="en">Flashback to an earlier episode about Jim building a playhouse for Kathy.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/BB4BC900-1313-4711-8483-9DB687F4AE5E/0-2x3.png" />
-    <episode-num system="dd_progid">program-shout-factory-tv-20261117192647</episode-num>
-  </programme>
 <programme start="20261117182808 +0000" stop="20261117202122 +0000" channel="localnow.D0DF28EB-0756-4476-80C4-FD05DE2E4E09">
     <title lang="en">Howling IV: The Original Nightmare</title>
     <desc lang="en">An author moves to a small town after suffering a mental breakdown and is tormented by demons and werewolves.</desc>
@@ -423,14 +352,6 @@
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D0DF28EB-0756-4476-80C4-FD05DE2E4E09/0-2x3.png" />
     <episode-num system="dd_progid">program-scream-factory-tv-20261117235807</episode-num>
   </programme>
-<programme start="20261117190000 +0000" stop="20261117200000 +0000" channel="localnow.DFA77213-D191-4A0D-993A-54AB336FB0C3">
-    <title lang="en">Chicago Fire</title>
-    <desc lang="en">Brett and Mackey find their lives in peril; Casey and Brett tread in unfamiliar territory.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/DFA77213-D191-4A0D-993A-54AB336FB0C3/0-2x3.png" />
-    <episode-num system="onscreen">S09E02</episode-num>
-    <episode-num system="xmltv_ns">8.1.</episode-num>
-  </programme>
 <programme start="20261117200000 +0000" stop="20261117210000 +0000" channel="localnow.DFA77213-D191-4A0D-993A-54AB336FB0C3">
     <title lang="en">Chicago Fire</title>
     <desc lang="en">A mishap on the aerial ladder in the midst of a fire rescue leaves Mouch shaken.</desc>
@@ -446,5 +367,21 @@
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/DFA77213-D191-4A0D-993A-54AB336FB0C3/0-2x3.png" />
     <episode-num system="onscreen">S09E04</episode-num>
     <episode-num system="xmltv_ns">8.3.</episode-num>
+  </programme>
+<programme start="20261117200000 +0000" stop="20261117210000 +0000" channel="localnow.FAB3945A-F8EB-4ED4-B8A5-05FCEA44FD4A">
+    <title lang="en">48 Hours</title>
+    <desc lang="en">Convicted murderer Scott Peterson has his death penalty conviction overturned.</desc>
+    <category lang="en">True Crime</category>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/FAB3945A-F8EB-4ED4-B8A5-05FCEA44FD4A/0-2x3.png" />
+    <episode-num system="onscreen">S34E30</episode-num>
+    <episode-num system="xmltv_ns">33.29.</episode-num>
+  </programme>
+<programme start="20261117210000 +0000" stop="20261117220100 +0000" channel="localnow.FAB3945A-F8EB-4ED4-B8A5-05FCEA44FD4A">
+    <title lang="en">48 Hours</title>
+    <desc lang="en">A 10-year-old girl helps police catch one of the country's most prolific killers.</desc>
+    <category lang="en">True Crime</category>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/FAB3945A-F8EB-4ED4-B8A5-05FCEA44FD4A/0-2x3.png" />
+    <episode-num system="onscreen">S14E59</episode-num>
+    <episode-num system="xmltv_ns">13.58.</episode-num>
   </programme>
 </tv>
