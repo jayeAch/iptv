@@ -20,6 +20,14 @@
     <display-name>Pluto TV Fantastic</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300017PK_20261116T193805SQUARE.png" />
   </channel>
+<channel id="US18000163F">
+    <display-name>Miramax Movie Channel</display-name>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US18000163F_20261009T160639SQUARE.png" />
+  </channel>
+<channel id="USBD700011RE">
+    <display-name>Gravitas Movies</display-name>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700011RE_20241203T004808SQUARE.png" />
+  </channel>
 <channel id="US300068X7">
     <display-name>Samsung Television Network</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300068X7_20261103T171625SQUARE.png" />
@@ -27,6 +35,14 @@
 <channel id="USBD2500018X6">
     <display-name>Stories by AMC</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2500018X6_20261023T223625SQUARE.png" />
+  </channel>
+<channel id="US25000075Y">
+    <display-name>CW FOREVER</display-name>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US25000075Y_20261109T015448SQUARE.png" />
+  </channel>
+<channel id="US25000063S">
+    <display-name>CW Gold</display-name>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US25000063S_20260303T070420SQUARE.png" />
   </channel>
 <channel id="US3000015O4">
     <display-name>Law &amp; Order</display-name>
@@ -55,10 +71,6 @@
 <channel id="USBB36000040M">
     <display-name>Crime Zone</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB36000040M_20261001T230639SQUARE.png" />
-  </channel>
-<channel id="US2600027AI">
-    <display-name>Silent Witness &amp; New Tricks</display-name>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600027AI_20261006T051031SQUARE.png" />
   </channel>
 <channel id="USAK3508703A">
     <display-name>Crime 24/7</display-name>
@@ -108,13 +120,25 @@
     <display-name>MrBeast</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US310000101_20260421T143255SQUARE.png" />
   </channel>
+<channel id="US4500009VV">
+    <display-name>BBC Comedy</display-name>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4500009VV_20260421T143330SQUARE.png" />
+  </channel>
 <channel id="US4600011ZJ">
     <display-name>Urban TV + Movies</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4600011ZJ_20261026T044632SQUARE.png" />
   </channel>
+<channel id="USBB10000047W">
+    <display-name>Unidentified</display-name>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB10000047W_20240520T214719SQUARE.png" />
+  </channel>
 <channel id="USAJ17000014C">
     <display-name>The Asylum</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ17000014C_20260421T141813SQUARE.png" />
+  </channel>
+<channel id="USBD700015LK">
+    <display-name>Midnight Pulp</display-name>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700015LK_20241112T000919SQUARE.png" />
   </channel>
 <programme channel="USBA3000041ZP" start="20261117195004 +0000" stop="20261117215445 +0000">
     <title>Father Figures</title>
@@ -180,6 +204,33 @@
       <value>PG-13</value>
     </rating>
   </programme>
+<programme channel="US18000163F" start="20261117202700 +0000" stop="20261117223400 +0000">
+    <title>Witness</title>
+    <desc>An eight-year-old Amish boy witnesses a drug-related murder in a Philadelphia train station. The Philadelphia police captain discovers that the murderers are cops trying to squelch a corruption investigation.</desc>
+    <category lang="en">Movies</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1051228747_2_20250325T002137098Z_69_imageprocessorclient-tvplus-linear-b76dd9bbb-cnffn.jpeg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+<programme channel="USBD700011RE" start="20261117194600 +0000" stop="20261117213500 +0000">
+    <title>Monty Python and the Holy Grail</title>
+    <desc>A comedic send-up of the grim circumstances of the Middle Ages as told through the story of King Arthur and framed by a modern-day murder investigation. When the mythical king of the Britons leads his knights on a quest for the Holy Grail, they face a wide array of horrors, including a persistent Black Knight, a three-headed giant, a cadre of shrubbery-challenged knights, the perilous Castle Anthrax, a killer rabbit, a house of virgins, and a handful of rude Frenchmen.</desc>
+    <category lang="en">Movies</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_9728525_14_20260421T160835231Z_32_imageprocessorclient-tvplus-linear-796646965d-pnqz4.jpeg" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+<programme channel="USBD700011RE" start="20261117213500 +0000" stop="20261117235300 +0000">
+    <title>Find Me Guilty</title>
+    <desc>Imprisoned on a drug charge, mobster Jack DiNorscio refuses to testify against his former associates in the Lucchesi crime family. When an ambitious prosecutor brings him back to court, he decides to defend himself. Initially regarded with disbelief, his forceful presence and knowledge of the law turn the tide of the trial.</desc>
+    <category lang="en">Movies</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2447221150_2_20260122T203055960Z_88_imageprocessorclient-tvplus-linear-584c967455-ntwwh.jpeg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
 <programme channel="US300068X7" start="20261117202522 +0000" stop="20261117211536 +0000">
     <title>Gordon Ramsay Food Stars</title>
     <sub-title>Host With The Most</sub-title>
@@ -210,15 +261,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme channel="USBD2500018X6" start="20261117195424 +0000" stop="20261117205236 +0000">
-    <title>Mad Men</title>
-    <desc>Employees gossip over a called meeting.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_839631471_0_20250212T192208927Z_108_imageprocessorclient-tvplus-linear-b76dd9bbb-5jlst.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme channel="USBD2500018X6" start="20261117205236 +0000" stop="20261117215051 +0000">
     <title>Mad Men</title>
     <desc>Don runs into an old friend.</desc>
@@ -233,6 +275,46 @@
     <desc>Don takes a trip with his children.</desc>
     <category lang="en">Entertainment</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_839631471_0_20250212T192208927Z_108_imageprocessorclient-tvplus-linear-b76dd9bbb-5jlst.jpeg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme channel="US25000075Y" start="20261117205100 +0000" stop="20261117214000 +0000">
+    <title>Beauty and the Beast</title>
+    <sub-title>Beast Is the New Black</sub-title>
+    <desc>Cat and the team work to clear Vincent's name when he is arrested for murder  an enemy comes to light.</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3216205527_0_20260720T045950100Z_120_imageprocessorclient-tvplus-linear-75df688c49-bwtc7.jpeg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme channel="US25000075Y" start="20261117214000 +0000" stop="20261117223000 +0000">
+    <title>Beauty and the Beast</title>
+    <sub-title>Cat and Mouse</sub-title>
+    <desc>A city-wide manhunt for Vincent forces him and Cat to stay under the radar  Vincent and Cat find a surprising ally when the FBI asks them for help with an important case.</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3216205527_0_20260720T045950100Z_120_imageprocessorclient-tvplus-linear-75df688c49-bwtc7.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="US25000063S" start="20261117204700 +0000" stop="20261117213600 +0000">
+    <title>Scorpion</title>
+    <sub-title>Pilot</sub-title>
+    <desc>When a crisis at LAX prevents dozens of airplanes from landing, the government brings in a group of misfit geniuses to sort things out.</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_534915947_0_20231111T005156944Z_78.jpeg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme channel="US25000063S" start="20261117213600 +0000" stop="20261117222400 +0000">
+    <title>Scorpion</title>
+    <sub-title>Single Point of Failure</sub-title>
+    <desc>The team is called upon by the governor when a virus leaves his daughter with only 24 hours to live  Walter receives a letter about his sister.</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_534915947_0_20231111T005156944Z_78.jpeg" />
     <rating>
       <value>TV-14</value>
     </rating>
@@ -285,15 +367,6 @@
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3584414131_0_20261007T194734024Z_135_imageprocessorclient-tvplus-linear-6b56cc9f55-x5z8k.jpeg" />
     <rating>
       <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme channel="US2100005WS" start="20261117201534 +0000" stop="20261117204539 +0000">
-    <title>Tomboy Is Shamed at Her School</title>
-    <desc>Jessie, a tomboyish Punjabi teen, struggles with conservative parental expectations. Inspired by Lilly Singh, she raps an original song at her school talent show to come out and embrace her true self.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1963838506_0_20250923T013539311Z_93_imageprocessorclient-tvplus-linear-d7c8c765b-t9c8d.jpeg" />
-    <rating>
-      <value>TV-G</value>
     </rating>
   </programme>
 <programme channel="US2100005WS" start="20261117204539 +0000" stop="20261117211014 +0000">
@@ -390,16 +463,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme channel="US410000230" start="20261117195900 +0000" stop="20261117205300 +0000">
-    <title>Ruby and the Well</title>
-    <sub-title>I Wish Tom Didn't Ruin Everything</sub-title>
-    <desc>Ruby rushes to fulfill the wish and save Thanksgiving.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_917705159_0_20250227T202410091Z_47_imageprocessorclient-tvplus-linear-b76dd9bbb-9fv29.png" />
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
 <programme channel="US410000230" start="20261117205300 +0000" stop="20261117214643 +0000">
     <title>Ruby and the Well</title>
     <sub-title>I Wish I Wouldn't Lose</sub-title>
@@ -430,16 +493,6 @@
       <value>TV-G</value>
     </rating>
   </programme>
-<programme channel="USBB36000040M" start="20261117195207 +0000" stop="20261117204916 +0000">
-    <title>World's Most Evil Killers</title>
-    <sub-title>Danville Neil</sub-title>
-    <desc>In 2022, Danville Neil was finally jailed for the brutal 1993 murders of a WWII veteran and his sister.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550791291_20_20241113T060450720Z_119_imageprocessorclient-tvplus-linear-5dc4fd45f6-prfs6.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme channel="USBB36000040M" start="20261117204916 +0000" stop="20261117214653 +0000">
     <title>World's Most Evil Killers</title>
     <sub-title>Nicholas Burton</sub-title>
@@ -458,36 +511,6 @@
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550791421_15_20241113T060449805Z_62_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
     <rating>
       <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="US2600027AI" start="20261117194349 +0000" stop="20261117204232 +0000">
-    <title>New Tricks</title>
-    <sub-title>Episode 2</sub-title>
-    <desc>UCOS take to the streets of Southall to track down the attacker of a young Asian woman.</desc>
-    <category lang="en">Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_548057233_0_20240925T062229641Z_40_imageprocessorclient-tvplus-linear-5dc4fd45f6-qbw2m.jpeg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme channel="US2600027AI" start="20261117204232 +0000" stop="20261117214037 +0000">
-    <title>New Tricks</title>
-    <sub-title>Episode 3</sub-title>
-    <desc>A bungled murder case involving a misidentified girl is re-investigated by the team.</desc>
-    <category lang="en">Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_548057233_0_20240925T062229641Z_40_imageprocessorclient-tvplus-linear-5dc4fd45f6-qbw2m.jpeg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme channel="US2600027AI" start="20261117214037 +0000" stop="20261117223920 +0000">
-    <title>New Tricks</title>
-    <sub-title>Episode 4</sub-title>
-    <desc>Does the squeaky clean image of celebrity chef conceal a dark secret from her past?</desc>
-    <category lang="en">Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_548057233_0_20240925T062229641Z_40_imageprocessorclient-tvplus-linear-5dc4fd45f6-qbw2m.jpeg" />
-    <rating>
-      <value>TV-PG</value>
     </rating>
   </programme>
 <programme channel="USAK3508703A" start="20261117204102 +0000" stop="20261117210841 +0000">
@@ -756,15 +779,6 @@
       <value>NA</value>
     </rating>
   </programme>
-<programme channel="US37000036P" start="20261117202425 +0000" stop="20261117205048 +0000">
-    <title>Takedown With Chris Hansen</title>
-    <desc>Chris Hansen continues his mission to hunt predators and protect children.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2869608982_3_20260502T233713615Z_44_imageprocessorclient-tvplus-linear-796646965d-96ghk.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme channel="US37000036P" start="20261117205048 +0000" stop="20261117211641 +0000">
     <title>Takedown With Chris Hansen</title>
     <desc>Chris meets Caleb face-to-face during a Blount County sting operation.</desc>
@@ -841,6 +855,46 @@
       <value>TV-14</value>
     </rating>
   </programme>
+<programme channel="US4500009VV" start="20261117202800 +0000" stop="20261117210100 +0000">
+    <title>Coupling</title>
+    <sub-title>The Freckle, the Key and the Couple Who Weren't</sub-title>
+    <desc>Steve is concerned about a mole  Jeff accidentally swallows the key to the handcuffs binding Julia.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1207391191_2_20250423T052730846Z_48_imageprocessorclient-tvplus-linear-b76dd9bbb-v2p5r.jpeg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme channel="US4500009VV" start="20261117210100 +0000" stop="20261117213500 +0000">
+    <title>Coupling</title>
+    <sub-title>The Girl With One Heart</sub-title>
+    <desc>Susan invites Patrick and his girlfriend to dinner  Sally makes a startling announcement.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1207391191_2_20250423T052730846Z_48_imageprocessorclient-tvplus-linear-b76dd9bbb-v2p5r.jpeg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme channel="US4500009VV" start="20261117213500 +0000" stop="20261117220800 +0000">
+    <title>Coupling</title>
+    <sub-title>Perhaps, Perhaps, Perhaps</sub-title>
+    <desc>Sally thinks she may be pregnant  Patrick agrees to meet Sally for a drink.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1207391191_2_20250423T052730846Z_48_imageprocessorclient-tvplus-linear-b76dd9bbb-v2p5r.jpeg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme channel="US4500009VV" start="20261117220800 +0000" stop="20261117224200 +0000">
+    <title>Coupling</title>
+    <sub-title>9 1/2 Minutes</sub-title>
+    <desc>Jane has a blind date  Susan tries to talk to Steve about childbirth.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1207401429_4_20250423T052728552Z_99_imageprocessorclient-tvplus-linear-b76dd9bbb-t8jnc.jpeg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
 <programme channel="US4600011ZJ" start="20261117193523 +0000" stop="20261117211649 +0000">
     <title>Merry Wishmas</title>
     <desc>A “feel good” Christmas movie where a sophisticated Atlantan finds her voice when she returns home.</desc>
@@ -859,6 +913,24 @@
       <value>TV-PG</value>
     </rating>
   </programme>
+<programme channel="USBB10000047W" start="20261117200225 +0000" stop="20261117210859 +0000">
+    <title>The Pentagon UFO Files</title>
+    <desc>Years of secrecy the US government has revealed evidence of extra-terrestrial life</desc>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_643290387_14_20250104T132043894Z_75_imageprocessorclient-tvplus-linear-5dc4fd45f6-jwswd.jpeg" />
+  </programme>
+<programme channel="USBB10000047W" start="20261117210859 +0000" stop="20261117221216 +0000">
+    <title>Space Force: The Dawn of Galactic Warfare</title>
+    <desc>Come with us as we dissect humanity's voyage into outer space and prepare for the Dawn of Galactic Warfare.</desc>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_643290386_11_20250104T132040959Z_34_imageprocessorclient-tvplus-linear-5dc4fd45f6-zzjmh.jpeg" />
+  </programme>
+<programme channel="USBB10000047W" start="20261117221216 +0000" stop="20261117232612 +0000">
+    <title>The Interdimensional Connection</title>
+    <desc>Where do they come from? Ufologists posing the question of origination, the answer lies outside of our senses</desc>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_643290479_16_20250104T132041733Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-z28mc.jpeg" />
+  </programme>
 <programme channel="USAJ17000014C" start="20261117193039 +0000" stop="20261117211729 +0000">
     <title>Age of Dinosaurs</title>
     <desc>Dinosaurs escape a biotech firm and terrorize Los Angeles. A father must rescue his daughter in the chaos.</desc>
@@ -875,6 +947,24 @@
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2542058389_9_20260214T064328780Z_142_imageprocessorclient-tvplus-linear-584c967455-b2nbt.jpeg" />
     <rating>
       <value>TV-14</value>
+    </rating>
+  </programme>
+<programme channel="USBD700015LK" start="20261117202000 +0000" stop="20261117220000 +0000">
+    <title>Hollow Gate</title>
+    <desc>Four teenagers go to a Halloween party hosted by a dog owner with mayhem on his mind.</desc>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1988052435_1_20250930T011942269Z_84_imageprocessorclient-tvplus-linear-d7c8c765b-l4q7s.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+<programme channel="USBD700015LK" start="20261117220000 +0000" stop="20261117232600 +0000">
+    <title>Mother Superior</title>
+    <desc>A nurse and her eccentric patient share a longing: the old lady's memory contains the secret to Sigrun's past  the young woman's life force holds the key to the future for the Baroness.</desc>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2020069785_0_20251009T014152321Z_101_imageprocessorclient-tvplus-linear-d7c8c765b-tws4m.jpeg" />
+    <rating>
+      <value>NA</value>
     </rating>
   </programme>
 </tv>

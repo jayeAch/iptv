@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+<channel id="whale.1047721653058412082">
+    <display-name>Legacy</display-name>
+    <icon src="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/legacy_white.png"/>
+  </channel>
 <channel id="whale.925725895506330246">
     <display-name>The Red Green Channel</display-name>
     <icon src="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/theredgreenchannel_white.png"/>
@@ -27,6 +31,10 @@
 <channel id="whale.1088385876566278483">
     <display-name>AVAZ</display-name>
     <icon src="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/avaz_white.png"/>
+  </channel>
+<channel id="whale.967946649035481273">
+    <display-name>Movieitaly Channel</display-name>
+    <icon src="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/movieitaly_white.png"/>
   </channel>
 <channel id="whale.609411515976060398">
     <display-name>Filmzie</display-name>
@@ -214,14 +222,6 @@
 <programme start="20261119170655 +0000" stop="20261119173841 +0000" channel="whale.1022125030546936761">
     <title lang="en">The Veil</title>
   </programme>
-<programme start="20261117190507 +0000" stop="20261117205310 +0000" channel="whale.1022125030546936766">
-    <title lang="en">Stepfather 2</title>
-    <desc lang="en">After escaping the insane asylum in which he was incarcerated, Jerry Blake (Terry O'Quinn) impersonates a marriage counselor and manages to win over a patient (Meg Foster) and her young son (Jonathan Brandis).</desc>
-    <icon src="https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-10-25/02d1c9aaaeb5214ea2a2806a08d35923.jpeg.webp"/>
-    <rating>
-      <value>R</value>
-    </rating>
-  </programme>
 <programme start="20261117205310 +0000" stop="20261117224045 +0000" channel="whale.1022125030546936766">
     <title lang="en">Apache</title>
   </programme>
@@ -245,9 +245,6 @@
   </programme>
 <programme start="20261118091059 +0000" stop="20261118104750 +0000" channel="whale.1022125030546936766">
     <title lang="en">The Shooting</title>
-  </programme>
-<programme start="20261117203018 +0000" stop="20261117204947 +0000" channel="whale.1022125030546936773">
-    <title lang="en">MIA SORELLA</title>
   </programme>
 <programme start="20261117204947 +0000" stop="20261117210907 +0000" channel="whale.1022125030546936773">
     <title lang="en">Missing Dog</title>
@@ -353,10 +350,6 @@
   </programme>
 <programme start="20261118124511 +0000" stop="20261118130604 +0000" channel="whale.1022125030546936773">
     <title lang="en">A Toy In The River</title>
-  </programme>
-<programme start="20261117190216 +0000" stop="20261117204638 +0000" channel="whale.1022125030546936778">
-    <title lang="en">Unknown</title>
-    <icon src="https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-07-23/64ca5bf2805bdd4bb2c12fe413e67256.png.webp"/>
   </programme>
 <programme start="20261117204638 +0000" stop="20261117220322 +0000" channel="whale.1022125030546936778">
     <title lang="en">Slave Girls on the Moon</title>
@@ -483,9 +476,6 @@
   </programme>
 <programme start="20261118195449 +0000" stop="20261118212837 +0000" channel="whale.1034986045911343817">
     <title lang="en">Adam Ondra: Pushing the Limits</title>
-  </programme>
-<programme start="20261117201833 +0000" stop="20261117205327 +0000" channel="whale.1034986045911343818">
-    <title lang="en">The Smoothness of Our Teeth</title>
   </programme>
 <programme start="20261117205327 +0000" stop="20261117210500 +0000" channel="whale.1034986045911343818">
     <title lang="en">Stained Skin</title>
@@ -618,6 +608,186 @@
   </programme>
 <programme start="20261119195859 +0000" stop="20261119214641 +0000" channel="whale.1034986045911343818">
     <title lang="en">Berlin Excelsior</title>
+  </programme>
+<programme start="20261117203235 +0000" stop="20261117211914 +0000" channel="whale.1047721653058412082">
+    <title lang="en">Legacy - S04:E09 - Episode 09</title>
+  </programme>
+<programme start="20261117211914 +0000" stop="20261117220557 +0000" channel="whale.1047721653058412082">
+    <title lang="en">Legacy - S04:E10 - Episode 10</title>
+  </programme>
+<programme start="20261117220557 +0000" stop="20261117225323 +0000" channel="whale.1047721653058412082">
+    <title lang="en">Legacy - S04:E11 - Episode 11</title>
+  </programme>
+<programme start="20261117225323 +0000" stop="20261117234025 +0000" channel="whale.1047721653058412082">
+    <title lang="en">Legacy - S04:E12 - Episode 12</title>
+  </programme>
+<programme start="20261117234025 +0000" stop="20261118003142 +0000" channel="whale.1047721653058412082">
+    <title lang="en">Legacy - S04:E13 - Episode 13</title>
+  </programme>
+<programme start="20261118003142 +0000" stop="20261118012011 +0000" channel="whale.1047721653058412082">
+    <title lang="en">Legacy - S04:E14 - Episode 14</title>
+  </programme>
+<programme start="20261118012011 +0000" stop="20261118020901 +0000" channel="whale.1047721653058412082">
+    <title lang="en">Legacy - S04:E07 - Episode 07</title>
+  </programme>
+<programme start="20261118020901 +0000" stop="20261118025709 +0000" channel="whale.1047721653058412082">
+    <title lang="en">Legacy - S04:E08 - Episode 08</title>
+  </programme>
+<programme start="20261118025709 +0000" stop="20261118034348 +0000" channel="whale.1047721653058412082">
+    <title lang="en">Legacy - S04:E09 - Episode 09</title>
+  </programme>
+<programme start="20261118034348 +0000" stop="20261118043241 +0000" channel="whale.1047721653058412082">
+    <title lang="en">Legacy - S04:E10 - Episode 10</title>
+  </programme>
+<programme start="20261118043241 +0000" stop="20261118060000 +0000" channel="whale.1047721653058412082">
+    <title lang="en">Legacy - S04:E11 - Episode 11</title>
+  </programme>
+<programme start="20261118060000 +0000" stop="20261118065018 +0000" channel="whale.1047721653058412082">
+    <title lang="en">Legacy - S04:E08 - Episode 08</title>
+  </programme>
+<programme start="20261118065018 +0000" stop="20261118073447 +0000" channel="whale.1047721653058412082">
+    <title lang="en">Legacy - S04:E09 - Episode 09</title>
+  </programme>
+<programme start="20261118073447 +0000" stop="20261118082340 +0000" channel="whale.1047721653058412082">
+    <title lang="en">Legacy - S04:E10 - Episode 10</title>
+  </programme>
+<programme start="20261118082340 +0000" stop="20261118091106 +0000" channel="whale.1047721653058412082">
+    <title lang="en">Legacy - S04:E11 - Episode 11</title>
+  </programme>
+<programme start="20261118091106 +0000" stop="20261118095807 +0000" channel="whale.1047721653058412082">
+    <title lang="en">Legacy - S04:E12 - Episode 12</title>
+  </programme>
+<programme start="20261118095807 +0000" stop="20261118104715 +0000" channel="whale.1047721653058412082">
+    <title lang="en">Legacy - S04:E13 - Episode 13</title>
+  </programme>
+<programme start="20261118104715 +0000" stop="20261118113754 +0000" channel="whale.1047721653058412082">
+    <title lang="en">Legacy - S04:E14 - Episode 14</title>
+  </programme>
+<programme start="20261118113754 +0000" stop="20261118122637 +0000" channel="whale.1047721653058412082">
+    <title lang="en">Legacy - S04:E15 - Episode 15</title>
+  </programme>
+<programme start="20261118122637 +0000" stop="20261118131655 +0000" channel="whale.1047721653058412082">
+    <title lang="en">Legacy - S04:E08 - Episode 08</title>
+  </programme>
+<programme start="20261118131655 +0000" stop="20261118140124 +0000" channel="whale.1047721653058412082">
+    <title lang="en">Legacy - S04:E09 - Episode 09</title>
+  </programme>
+<programme start="20261118140124 +0000" stop="20261118145016 +0000" channel="whale.1047721653058412082">
+    <title lang="en">Legacy - S04:E10 - Episode 10</title>
+  </programme>
+<programme start="20261118145016 +0000" stop="20261118153742 +0000" channel="whale.1047721653058412082">
+    <title lang="en">Legacy - S04:E11 - Episode 11</title>
+  </programme>
+<programme start="20261118153742 +0000" stop="20261118162444 +0000" channel="whale.1047721653058412082">
+    <title lang="en">Legacy - S04:E12 - Episode 12</title>
+  </programme>
+<programme start="20261118162444 +0000" stop="20261118171352 +0000" channel="whale.1047721653058412082">
+    <title lang="en">Legacy - S04:E13 - Episode 13</title>
+  </programme>
+<programme start="20261118171352 +0000" stop="20261118180431 +0000" channel="whale.1047721653058412082">
+    <title lang="en">Legacy - S04:E14 - Episode 14</title>
+  </programme>
+<programme start="20261118180431 +0000" stop="20261118185314 +0000" channel="whale.1047721653058412082">
+    <title lang="en">Legacy - S04:E15 - Episode 15</title>
+  </programme>
+<programme start="20261118185314 +0000" stop="20261118194331 +0000" channel="whale.1047721653058412082">
+    <title lang="en">Legacy - S04:E08 - Episode 08</title>
+  </programme>
+<programme start="20261118194331 +0000" stop="20261118202800 +0000" channel="whale.1047721653058412082">
+    <title lang="en">Legacy - S04:E09 - Episode 09</title>
+  </programme>
+<programme start="20261118202800 +0000" stop="20261118211653 +0000" channel="whale.1047721653058412082">
+    <title lang="en">Legacy - S04:E10 - Episode 10</title>
+  </programme>
+<programme start="20261118211653 +0000" stop="20261118220419 +0000" channel="whale.1047721653058412082">
+    <title lang="en">Legacy - S04:E11 - Episode 11</title>
+  </programme>
+<programme start="20261118220419 +0000" stop="20261118225121 +0000" channel="whale.1047721653058412082">
+    <title lang="en">Legacy - S04:E12 - Episode 12</title>
+  </programme>
+<programme start="20261118225121 +0000" stop="20261118234029 +0000" channel="whale.1047721653058412082">
+    <title lang="en">Legacy - S04:E13 - Episode 13</title>
+  </programme>
+<programme start="20261118234029 +0000" stop="20261119003107 +0000" channel="whale.1047721653058412082">
+    <title lang="en">Legacy - S04:E14 - Episode 14</title>
+  </programme>
+<programme start="20261119003107 +0000" stop="20261119011950 +0000" channel="whale.1047721653058412082">
+    <title lang="en">Legacy - S04:E15 - Episode 15</title>
+  </programme>
+<programme start="20261119011950 +0000" stop="20261119020758 +0000" channel="whale.1047721653058412082">
+    <title lang="en">Legacy - S04:E08 - Episode 08</title>
+  </programme>
+<programme start="20261119020758 +0000" stop="20261119025437 +0000" channel="whale.1047721653058412082">
+    <title lang="en">Legacy - S04:E09 - Episode 09</title>
+  </programme>
+<programme start="20261119025437 +0000" stop="20261119034330 +0000" channel="whale.1047721653058412082">
+    <title lang="en">Legacy - S04:E10 - Episode 10</title>
+  </programme>
+<programme start="20261119034330 +0000" stop="20261119043056 +0000" channel="whale.1047721653058412082">
+    <title lang="en">Legacy - S04:E11 - Episode 11</title>
+  </programme>
+<programme start="20261119043056 +0000" stop="20261119051548 +0000" channel="whale.1047721653058412082">
+    <title lang="en">Legacy - S04:E12 - Episode 12</title>
+  </programme>
+<programme start="20261119051548 +0000" stop="20261119060000 +0000" channel="whale.1047721653058412082">
+    <title lang="en">Legacy - S04:E13 - Episode 13</title>
+  </programme>
+<programme start="20261119060000 +0000" stop="20261119064639 +0000" channel="whale.1047721653058412082">
+    <title lang="en">Legacy - S04:E09 - Episode 09</title>
+  </programme>
+<programme start="20261119064639 +0000" stop="20261119073532 +0000" channel="whale.1047721653058412082">
+    <title lang="en">Legacy - S04:E10 - Episode 10</title>
+  </programme>
+<programme start="20261119073532 +0000" stop="20261119082258 +0000" channel="whale.1047721653058412082">
+    <title lang="en">Legacy - S04:E11 - Episode 11</title>
+  </programme>
+<programme start="20261119082258 +0000" stop="20261119090750 +0000" channel="whale.1047721653058412082">
+    <title lang="en">Legacy - S04:E12 - Episode 12</title>
+  </programme>
+<programme start="20261119090750 +0000" stop="20261119095907 +0000" channel="whale.1047721653058412082">
+    <title lang="en">Legacy - S04:E13 - Episode 13</title>
+  </programme>
+<programme start="20261119095907 +0000" stop="20261119104946 +0000" channel="whale.1047721653058412082">
+    <title lang="en">Legacy - S04:E14 - Episode 14</title>
+  </programme>
+<programme start="20261119104946 +0000" stop="20261119113829 +0000" channel="whale.1047721653058412082">
+    <title lang="en">Legacy - S04:E15 - Episode 15</title>
+  </programme>
+<programme start="20261119113829 +0000" stop="20261119122529 +0000" channel="whale.1047721653058412082">
+    <title lang="en">Legacy - S04:E16 - Episode 16</title>
+  </programme>
+<programme start="20261119122529 +0000" stop="20261119131208 +0000" channel="whale.1047721653058412082">
+    <title lang="en">Legacy - S04:E09 - Episode 09</title>
+  </programme>
+<programme start="20261119131208 +0000" stop="20261119135851 +0000" channel="whale.1047721653058412082">
+    <title lang="en">Legacy - S04:E10 - Episode 10</title>
+  </programme>
+<programme start="20261119135851 +0000" stop="20261119144616 +0000" channel="whale.1047721653058412082">
+    <title lang="en">Legacy - S04:E11 - Episode 11</title>
+  </programme>
+<programme start="20261119144616 +0000" stop="20261119153318 +0000" channel="whale.1047721653058412082">
+    <title lang="en">Legacy - S04:E12 - Episode 12</title>
+  </programme>
+<programme start="20261119153318 +0000" stop="20261119162436 +0000" channel="whale.1047721653058412082">
+    <title lang="en">Legacy - S04:E13 - Episode 13</title>
+  </programme>
+<programme start="20261119162436 +0000" stop="20261119171305 +0000" channel="whale.1047721653058412082">
+    <title lang="en">Legacy - S04:E14 - Episode 14</title>
+  </programme>
+<programme start="20261119171305 +0000" stop="20261119180148 +0000" channel="whale.1047721653058412082">
+    <title lang="en">Legacy - S04:E15 - Episode 15</title>
+  </programme>
+<programme start="20261119180148 +0000" stop="20261119184848 +0000" channel="whale.1047721653058412082">
+    <title lang="en">Legacy - S04:E16 - Episode 16</title>
+  </programme>
+<programme start="20261119184848 +0000" stop="20261119193526 +0000" channel="whale.1047721653058412082">
+    <title lang="en">Legacy - S04:E09 - Episode 09</title>
+  </programme>
+<programme start="20261119193526 +0000" stop="20261119202419 +0000" channel="whale.1047721653058412082">
+    <title lang="en">Legacy - S04:E10 - Episode 10</title>
+  </programme>
+<programme start="20261119202419 +0000" stop="20261119211145 +0000" channel="whale.1047721653058412082">
+    <title lang="en">Legacy - S04:E11 - Episode 11</title>
   </programme>
 <programme start="20261117203039 +0000" stop="20261117221611 +0000" channel="whale.1088385876566278483">
     <title lang="en">Deep Fever</title>
@@ -1059,9 +1229,6 @@
 <programme start="20261118230000 +0000" stop="20261119000003 +0000" channel="whale.877395929391956163">
     <title lang="en">La Entrevista de 24 Lifestyle</title>
   </programme>
-<programme start="20261117202306 +0000" stop="20261117205047 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
 <programme start="20261117205047 +0000" stop="20261117211703 +0000" channel="whale.925725895506330246">
     <title lang="en">The Red Green Show</title>
   </programme>
@@ -1352,6 +1519,53 @@
   </programme>
 <programme start="20261119202822 +0000" stop="20261119205617 +0000" channel="whale.925725895506330246">
     <title lang="en">The Red Green Show</title>
+  </programme>
+<programme start="20261117190230 +0000" stop="20261117210924 +0000" channel="whale.967946649035481273">
+    <title lang="en">Super Fuzz</title>
+    <desc lang="en">Policeman Dave Speed is not like any other policeman: as a result of an atomic explosion he acquired superpowers, which he uses to fight crime. However, his super strength has limits: the colour red nullifies his extraordinary abilities...</desc>
+    <icon src="https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-11-16/f4a99182cdb7e23b6b4ccc5c894b7bb0.jpg.webp"/>
+  </programme>
+<programme start="20261117210924 +0000" stop="20261117231928 +0000" channel="whale.967946649035481273">
+    <title lang="en">The Day of the Owl</title>
+  </programme>
+<programme start="20261117231928 +0000" stop="20261118011516 +0000" channel="whale.967946649035481273">
+    <title lang="en">Creeping Death</title>
+  </programme>
+<programme start="20261118011516 +0000" stop="20261118031311 +0000" channel="whale.967946649035481273">
+    <title lang="en">Bang bank</title>
+  </programme>
+<programme start="20261118031311 +0000" stop="20261118051401 +0000" channel="whale.967946649035481273">
+    <title lang="en">Stunt Squad</title>
+  </programme>
+<programme start="20261118051401 +0000" stop="20261118070000 +0000" channel="whale.967946649035481273">
+    <title lang="en">Ready to fight</title>
+  </programme>
+<programme start="20261118070000 +0000" stop="20261118090135 +0000" channel="whale.967946649035481273">
+    <title lang="en">Murder Obsession</title>
+  </programme>
+<programme start="20261118090135 +0000" stop="20261118110438 +0000" channel="whale.967946649035481273">
+    <title lang="en">La moglie in vacanza l'amante in città</title>
+  </programme>
+<programme start="20261118110438 +0000" stop="20261118125644 +0000" channel="whale.967946649035481273">
+    <title lang="en">Garter Colt</title>
+  </programme>
+<programme start="20261118125644 +0000" stop="20261118150328 +0000" channel="whale.967946649035481273">
+    <title lang="en">Iguana</title>
+  </programme>
+<programme start="20261118150328 +0000" stop="20261118170228 +0000" channel="whale.967946649035481273">
+    <title lang="en">Summer Love</title>
+  </programme>
+<programme start="20261118170228 +0000" stop="20261118190300 +0000" channel="whale.967946649035481273">
+    <title lang="en">Bed of a thousand pleasure</title>
+  </programme>
+<programme start="20261118190300 +0000" stop="20261118210135 +0000" channel="whale.967946649035481273">
+    <title lang="en">Murder Obsession</title>
+  </programme>
+<programme start="20261118210135 +0000" stop="20261118230438 +0000" channel="whale.967946649035481273">
+    <title lang="en">La moglie in vacanza l'amante in città</title>
+  </programme>
+<programme start="20261118230438 +0000" stop="20261119005644 +0000" channel="whale.967946649035481273">
+    <title lang="en">Garter Colt</title>
   </programme>
 <programme start="20261117202938 +0000" stop="20261117210619 +0000" channel="whale.968813239419275714">
     <title lang="en">Crown Lake</title>
