@@ -23,7 +23,7 @@ GLOBAL_EXCLUDE_LIST = [
   "Hawaii Five-O",
   "Pluto TV Crime Movies",
   "Britbox Mysteries",
-  "Universal Movies",
+  "Universal Crime",
   "In The Heat Of The Night by MGM",
   "Crime ThrillHer",
   "ION Mystery",
