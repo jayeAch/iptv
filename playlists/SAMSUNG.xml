@@ -24,10 +24,6 @@
     <display-name>Samsung Television Network</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300068X7_20261103T171625SQUARE.png" />
   </channel>
-<channel id="USBB2300001QP">
-    <display-name>ALL ACTION</display-name>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300001QP_20260915T194725SQUARE.png" />
-  </channel>
 <channel id="USBD2500018X6">
     <display-name>Stories by AMC</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2500018X6_20261023T223625SQUARE.png" />
@@ -92,6 +88,10 @@
     <display-name>ABC 20/20</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4800001W5_20260421T133700SQUARE.png" />
   </channel>
+<channel id="USBD42000250Q">
+    <display-name>American Crimes</display-name>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD42000250Q_20260901T055738SQUARE.png" />
+  </channel>
 <channel id="US37000036P">
     <display-name>TruBlu</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US37000036P_20250401T004913SQUARE.png" />
@@ -108,15 +108,6 @@
     <display-name>The Asylum</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ17000014C_20260421T141813SQUARE.png" />
   </channel>
-<programme channel="USBA3000041ZP" start="20261117175750 +0000" stop="20261117195004 +0000">
-    <title>Cheaper by the Dozen (2003)</title>
-    <desc>While raising twelve children, a middle-aged couple decides to pursue more demanding careers -- He as a \"Big Ten\" university football coach, she as an author on book tour -- only to discover that big families and big careers are a difficult mix.</desc>
-    <category lang="en">Movies</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3674951775_0_20261027T011505102Z_1_imageprocessorclient-tvplus-linear-6b56cc9f55-jvt28.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
 <programme channel="USBA3000041ZP" start="20261117195004 +0000" stop="20261117215445 +0000">
     <title>Father Figures</title>
     <desc>Brothers Kyle and Peter Reynolds were raised to believe that their dad died when they were young. They're shocked to discover that their mother lied about his death because she never knew who the biological father was. Setting out on an epic quest to find him, the two siblings soon learn more about their mom's past than they ever wanted to know.</desc>
@@ -247,36 +238,6 @@
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_552892737_0_20241213T043748098Z_98_imageprocessorclient-tvplus-linear-5dc4fd45f6-8b57x.jpeg" />
     <rating>
       <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="USBB2300001QP" start="20261117191756 +0000" stop="20261117201137 +0000">
-    <title>Nash Bridges</title>
-    <sub-title>Shake, Rattle &amp; Roll</sub-title>
-    <desc>Nash and Joe track down a former mob underboss who's murdering San Francisco criminals  and, when Inger has to go out of town unexpectedly, she leaves Nash and Joe with the baby.</desc>
-    <category lang="en">Action</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2251932363_0_20251206T170130304Z_24_imageprocessorclient-tvplus-linear-584c967455-8jhvt.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="USBB2300001QP" start="20261117201137 +0000" stop="20261117212533 +0000">
-    <title>Top Gear UK</title>
-    <sub-title>Season 22, Episode 1</sub-title>
-    <desc>Jeremy Clarkson, Richard Hammond and James May race each other across St. Petersburg.</desc>
-    <category lang="en">Action</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_903477955_0_20250225T052112949Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-gvkfw.jpeg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme channel="USBB2300001QP" start="20261117212533 +0000" stop="20261117223544 +0000">
-    <title>Top Gear UK</title>
-    <sub-title>Season 22, Episode 2</sub-title>
-    <desc>Jeremy Clarkson, Richard Hammond and James May road trip across Australia's Northern Territory.</desc>
-    <category lang="en">Action</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_903477955_0_20250225T052112949Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-gvkfw.jpeg" />
-    <rating>
-      <value>TV-PG</value>
     </rating>
   </programme>
 <programme channel="USBD2500018X6" start="20261117185611 +0000" stop="20261117195424 +0000">
@@ -458,16 +419,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme channel="US1900014Y2" start="20261117185700 +0000" stop="20261117195000 +0000">
-    <title>Nash Bridges</title>
-    <sub-title>Live Shot</sub-title>
-    <desc>Nash gets drugged during a bust just before he and Joe are scheduled to recount their careers for Geraldo's cameras.</desc>
-    <category lang="en">Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3253631567_0_20260728T131202844Z_37_imageprocessorclient-tvplus-linear-9468c5484-p4rrd.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme channel="US1900014Y2" start="20261117195000 +0000" stop="20261117204200 +0000">
     <title>Nash Bridges</title>
     <sub-title>Downtime</sub-title>
@@ -565,16 +516,6 @@
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_839268002_0_20250212T172313980Z_55_imageprocessorclient-tvplus-linear-b76dd9bbb-gvkfw.png" />
     <rating>
       <value>TV-G</value>
-    </rating>
-  </programme>
-<programme channel="USBB36000040M" start="20261117185355 +0000" stop="20261117195207 +0000">
-    <title>World's Most Evil Killers</title>
-    <sub-title>Jordan Monaghan</sub-title>
-    <desc>Jordan Monaghan killed his 24-day-old daughter Ruby on New Year's Day in January 2013.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550791291_20_20241113T060450720Z_119_imageprocessorclient-tvplus-linear-5dc4fd45f6-prfs6.jpeg" />
-    <rating>
-      <value>TV-14</value>
     </rating>
   </programme>
 <programme channel="USBB36000040M" start="20261117195207 +0000" stop="20261117204916 +0000">
@@ -741,16 +682,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme channel="US2001109K" start="20261117192548 +0000" stop="20261117195010 +0000">
-    <title>Killer Mysteries</title>
-    <sub-title>The Happy Face Killer</sub-title>
-    <desc>A long-haul trucker with a lust for killing crisscrosses the country looking for his next victim. Police don't connect any of this serial murderer's crimes until he slips up and takes out someone from his inner circle.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2395387221_0_20260109T045742778Z_72_imageprocessorclient-tvplus-linear-584c967455-p9wk7.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme channel="US2001109K" start="20261117195010 +0000" stop="20261117201432 +0000">
     <title>Killer Mysteries</title>
     <sub-title>Blood on the Chef's Apron</sub-title>
@@ -861,16 +792,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme channel="USBD42000073E" start="20261117183636 +0000" stop="20261117195056 +0000">
-    <title>60 Days In</title>
-    <sub-title>The Aftermath</sub-title>
-    <desc>All nine participants sit down with Journalist Soledad O'Brien.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3223620141_0_20260721T192403730Z_65_imageprocessorclient-tvplus-linear-9468c5484-2n2hv.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme channel="USBD42000073E" start="20261117195056 +0000" stop="20261117210001 +0000">
     <title>60 Days In</title>
     <sub-title>New Sheriff in Town</sub-title>
@@ -957,6 +878,36 @@
     <desc>04/07/23: An open marriage, a secret affair and a sinister plot for murder.</desc>
     <category lang="en">True Crime</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3489966404_0_20260917T210617251Z_62_imageprocessorclient-tvplus-linear-6b56cc9f55-wlc7k.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+<programme channel="USBD42000250Q" start="20261117194800 +0000" stop="20261117203900 +0000">
+    <title>Lockup</title>
+    <sub-title>Wabash: Extended Stay: Da Future</sub-title>
+    <desc>With over 2,000 inmates, the Wabash Valley Correctional Facility has a larger population and more acreage than the small town in which it's located  after a decade in confinement, one of Indiana's most infamous inmates moves to general population.</desc>
+    <category lang="en">Crime</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_536110327_0_20231211T204901902Z_90.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="USBD42000250Q" start="20261117203900 +0000" stop="20261117213000 +0000">
+    <title>Lockup</title>
+    <sub-title>Wabash: Extended Stay: Father Figure</sub-title>
+    <desc>The killer of a corrections officer fights to be freed from 16 years of solitary confinement, and boyhood friends struggle to parent their kids from behind prison walls  but one, cut-off from visits with his son, is on a razor's edge.</desc>
+    <category lang="en">Crime</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_536110327_0_20231211T204901902Z_90.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme channel="USBD42000250Q" start="20261117213000 +0000" stop="20261117222000 +0000">
+    <title>Lockup</title>
+    <sub-title>Savannah: Extended Stay: Outlaws and In-Laws</sub-title>
+    <desc>Five miles from the riverfront hotels and restaurants of Savannah, Georgia, is a more ominous site, a place where an inmate is severely injured, and a friendship is torn  two soon to be brothers-in-law are accused of double homicide.</desc>
+    <category lang="en">Crime</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_536011044_0_20231208T224712762Z_87.jpeg" />
     <rating>
       <value>NA</value>
     </rating>
