@@ -1028,6 +1028,8 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         paradise hotel
         the osbournes
         ice road truckers
+        chaos on cam
+        earthxtra
         supernanny
         bad girls club
         grind hard plumbing co
@@ -1403,6 +1405,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     # Tabloid / daytime talk. Judge shows and late night are not included.
     'Talk Shows': _words("""
         jerry springer
+        drew barrymore show
         springer
         maury
         steve wilkos
