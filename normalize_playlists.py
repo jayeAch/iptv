@@ -436,7 +436,6 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     # British-branded drama/mystery/comedy/classic series. Above Comedy/Crime/Drama in PIN_ORDER. Home, baking and
     # antiques shows are NOT listed: they stay in Home & DIY / Reality Competition.
     'British TV': _words("""
-        bbc comedy
         bbc drama
         bbc drama classics
         bbc sci-fi
@@ -563,6 +562,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     'Comedy (after Classic TV)': _words("""
         comedy central
         according to jim
+        bbc comedy
         pluto tv comedy
         pluto tv komedi
         pluto tv komedie
