@@ -32,6 +32,7 @@ GLOBAL_EXCLUDE_LIST = [
   "The Sherlock Holmes Channel",
   "Acorn TV Mysteries",
   "Silent Witness and New Tricks",
+  "Silent Witness & New Tricks",
   "Pluto TV FBI",
   "NCIS",
   "Los Angeles",
