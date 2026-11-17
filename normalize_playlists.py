@@ -526,6 +526,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     'Crime': _words("""
         cagney & lacey
         rookie blue
+        third watch
         nash bridges
         the practice
         columbo
@@ -816,6 +817,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         sprout
         noggin
         chuggington
+        svampbob
         veggietales
         veggie tales
         fraggle rock
@@ -1432,6 +1434,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         jerry springer
         drew barrymore show
         springer
+        graham norton
         maury
         steve wilkos
         geraldo
