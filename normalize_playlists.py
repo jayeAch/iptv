@@ -524,6 +524,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         nash bridges
         the practice
         columbo
+        miami vice
         prime suspect
         crime thrillher
         pluto tv crime thrillers
@@ -1045,6 +1046,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         paradise hotel
         the osbournes
         ice road truckers
+        untold stories of the e.r.
         chaos on cam
         earthxtra
         supernanny
@@ -1178,6 +1180,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         the asylum
         the twilight zone
         mutant x
+        unidentified
         beyond belief
         farscape
         outersphere
