@@ -39,7 +39,7 @@ GLOBAL_EXCLUDE_LIST = [
   "Key & Peele",
   "Man with a Plan",
   "Mr. Bean",
-  "MSTK3",
+  "MST3K",
   "RiffTrax",
   "Sabrina the Teenage Witch",
   "Saved by the Bell",
@@ -59,7 +59,6 @@ GLOBAL_EXCLUDE_LIST = [
   "Z Nation",
   #
   "Comedy Dynamics",
-"Hit Sitcoms",
 "LOL! Network",
 "MADtv",
 "Pluto TV Comedy Movies",
