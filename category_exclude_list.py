@@ -5,6 +5,7 @@
 CATEGORY_EXCLUDE_LIST = [
     "Paranormal",
     "Soap Operas",
+    "Action",
     "Military",
     "Drama",
     "Supernatural Drama",
