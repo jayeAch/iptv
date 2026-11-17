@@ -20,7 +20,7 @@ on:
       - "filter_epg.py"
       - "dedupe_m3u.py"
       - "prune_playlists.py"
-      - "normalize_playlists.py"
+      #- "normalize_playlists.py"
 
 permissions:
   contents: write
