@@ -713,6 +713,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         mrbeast
         mr beast
         fgteev
+        w3
         ssundee
         jesser
         zhc
@@ -771,6 +772,9 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     'Drama': _words("""
         more tv drama
         love boat
+        legacy
+        candyjar
+        wildfire
         nashville
         filmrise drama
         felicity
@@ -1374,6 +1378,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         paradise hotel
         the osbournes
         ice road truckers
+        dangertv
         untold stories of the
         chaos on cam
         earthxtra
@@ -1533,6 +1538,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     'Shopping': _words("""
         shopping
         home shopping
+        ontv4u
         tv shopping
         teleshopping
         shopping network
