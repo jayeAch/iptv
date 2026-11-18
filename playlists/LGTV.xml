@@ -8,10 +8,6 @@
     <display-name>FilmRise Free Movies</display-name>
     <icon src="https://image.xumo.com/v1/channels/channel/99992272/400x200.png?type=white_cropped"/>
   </channel>
-<channel id="freemoviesplus_amg02042c1eng_US">
-    <display-name>Free Movies Plus</display-name>
-    <icon src="https://preview-amagistv-amg02042-cloudport.now.amagi.tv/Images/S3/FMPLOGOLG.png"/>
-  </channel>
 <channel id="theasylummoviechannel_tasmc_US">
     <display-name>The Asylum</display-name>
     <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Asylum_Movie_Channel_Logo_LG_400x200.png"/>
@@ -40,30 +36,14 @@
     <display-name>Mysteria</display-name>
     <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/lawandcrime/channels/541-400x200.png"/>
   </channel>
+<channel id="99993006">
+    <display-name>World's Most Evil Killers</display-name>
+    <icon src="https://image.xumo.com/v1/channels/channel/99993006/400x200.png?type=white_cropped"/>
+  </channel>
 <channel id="99992255">
     <display-name>Forensic Files</display-name>
     <icon src="https://image.xumo.com/v1/channels/channel/99992255/400x200.png?type=white_cropped"/>
   </channel>
-<programme start="20261118013111 +0000" stop="20261118015922 +0000" channel="99992255">
-    <title lang="en">Forensic Files</title>
-    <desc lang="en">On a cold December night in 1993, Rose Larner stopped in a convenience store on her way to her boyfriend's house. She was never seen or heard from again. A tiny clue found years later revealed a tragic tale of drugs, romance and revenge.</desc>
-    <category lang="en">ETC</category>
-    <icon src="https://image.xumo.com/v1/assets/asset/XM00XFEO4Q0UWP/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992255%2F768x432.jpg%3Ftype%3DchannelTile"/>
-    <episode-num system="dd_progid">XM00XFEO4Q0UWP</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261118015922 +0000" stop="20261118022733 +0000" channel="99992255">
-    <title lang="en">Forensic Files</title>
-    <desc lang="en">A 1995 fire razes the mansion of a Kansas doctor, killing two of her three children; disturbing accounts from an ex-husband lead investigators to believe the doctor set the blaze herself.</desc>
-    <category lang="en">ETC</category>
-    <icon src="https://image.xumo.com/v1/assets/asset/XM03XTM5Z0B78C/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992255%2F768x432.jpg%3Ftype%3DchannelTile"/>
-    <episode-num system="dd_progid">XM03XTM5Z0B78C</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
 <programme start="20261118022733 +0000" stop="20261118025644 +0000" channel="99992255">
     <title lang="en">Forensic Files</title>
     <desc lang="en">A boy is mysteriously shot in his father's gun club. Ballistics, laser technology, scale models and animation reveal the bullet's amazing path and who was responsible.</desc>
@@ -194,12 +174,62 @@
       <value>PG-13</value>
     </rating>
   </programme>
-<programme start="20261118014218 +0000" stop="20261118023358 +0000" channel="FREQ541-US">
-    <title lang="en">Killer Cases</title>
-    <desc lang="en">Firefighters fought to save a family, but arson is suspected after two fatal blazes rocked the neighborhood.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/77fl6ntvkosc14fcyzqkqw3jj/w1920_h1080/77fl6ntvkosc14fcyzqkqw3jj.jpg"/>
-    <episode-num system="dd_progid">4231940</episode-num>
+<programme start="20261118022206 +0000" stop="20261118031248 +0000" channel="99993006">
+    <title lang="en">World's Most Evil Prisoners</title>
+    <desc lang="en">James Robertson is one of the most feared men in the US prison system; he murdered his cellmate, attacked a prison employee and doesn't hold back from getting what he wants.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0YP6NKQTSMIV/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993006%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM0YP6NKQTSMIV</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261118031248 +0000" stop="20261118040702 +0000" channel="99993006">
+    <title lang="en">World's Most Evil Prisoners</title>
+    <desc lang="en">Gary Vinter, in prison for double murder, stabs a fellow inmate in the eye and gives another brain damage.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0OO9SH6HF4V0/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993006%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM0OO9SH6HF4V0</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261118040702 +0000" stop="20261118050000 +0000" channel="99993006">
+    <title lang="en">World's Most Evil Prisoners</title>
+    <desc lang="en">James 'Porky' O'Rourke's addiction to violence means he is one of the most feared men in the UK prison system.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0GWNNAZ77UPS/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993006%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM0GWNNAZ77UPS</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261118050000 +0000" stop="20261118055350 +0000" channel="99993006">
+    <title lang="en">World's Most Evil Killers</title>
+    <desc lang="en">Levi Bellfield killed two young women by bludgeoning them to death with a hammer, and he also attempted to murder a third. While in prison, he was convicted of a third murder that was unsolved for years.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM054VI6KB1IBR/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993006%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM054VI6KB1IBR</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261118055350 +0000" stop="20261118064824 +0000" channel="99993006">
+    <title lang="en">World's Most Evil Killers</title>
+    <desc lang="en">Joanne Dennehy violently stabbed three men to death in March 2013. She killed for her own entertainment and has been diagnosed as a psychotic sadomasochist.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0F70PO9R9XLO/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993006%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM0F70PO9R9XLO</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261118064824 +0000" stop="20261118074319 +0000" channel="99993006">
+    <title lang="en">World's Most Evil Killers</title>
+    <desc lang="en">Stephen Griffiths, the self-proclaimed Crossbow Cannibal, had always fantasized about murder. In 2009, he acted on his murderous instincts and killed three women.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0UCP7P45B0KX/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993006%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM0UCP7P45B0KX</episode-num>
     <rating>
       <value>TV-14</value>
     </rating>
@@ -274,16 +304,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261118010006 +0000" stop="20261118024523 +0000" channel="FREQ896">
-    <title lang="en">A Missed Connection</title>
-    <desc lang="en">After finding a spark with a woman on train platform, a photographer posts a missed connection in newspaper.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/7283391225128297476/solid/rectangle/w1920_h1080/14ppoop9zjjn613rzdbe4dqpzk.jpg"/>
-    <episode-num system="dd_progid">9424359</episode-num>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
 <programme start="20261118024523 +0000" stop="20261118043508 +0000" channel="FREQ896">
     <title lang="en">How to Find Forever</title>
     <desc lang="en">When designing a proposal for someone else, will Marley find her own match in the process?</desc>
@@ -312,66 +332,6 @@
     <episode-num system="dd_progid">9424361</episode-num>
     <rating>
       <value>TV-G</value>
-    </rating>
-  </programme>
-<programme start="20261117235811 +0000" stop="20261118022740 +0000" channel="freemoviesplus_amg02042c1eng_US">
-    <title lang="en">Sabotage</title>
-    <desc lang="en">Members of an elite DEA task force find themselves being taken down one by one after they rob a drug</desc>
-    <category lang="en">Action</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg02042/resized_images/resized_4d8110fc9f448b8dfdc6a67cb372380913753b2789c07af5cd658698975470e8_fmp2216png_768_432.jpeg"/>
-    <episode-num system="dd_progid">amg02042c32_AYaEqAGNufgd7Vfa8q9AWPc_us</episode-num>
-    <rating>
-      <value>R</value>
-    </rating>
-  </programme>
-<programme start="20261118022740 +0000" stop="20261118051210 +0000" channel="freemoviesplus_amg02042c1eng_US">
-    <title lang="en">Point Break</title>
-    <desc lang="en">An F.B.I. Agent goes undercover to catch a gang of surfers who may be bank robbers</desc>
-    <category lang="en">Action</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg02042/resized_images/resized_c9e75306c3d11e9e7b811d147c7dbb6a802c8e58878e728bac48ee4452d08ae0_fmp21157png_768_432.jpeg"/>
-    <episode-num system="dd_progid">amg02042c32_AMwXjkj1v2e5Sn3kfneCYnv_us</episode-num>
-    <rating>
-      <value>R</value>
-    </rating>
-  </programme>
-<programme start="20261118051210 +0000" stop="20261118080423 +0000" channel="freemoviesplus_amg02042c1eng_US">
-    <title lang="en">The Infiltrator</title>
-    <desc lang="en">A U.S. Customs official uncovers a money laundering scheme involving Colombian drug lord Pablo Escobar.</desc>
-    <category lang="en">Movies</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg02042/resized_images/resized_2baf2b5170ac4f42957a64a63c0047a66ad6e16f916dfd133b1f91e9e12b659a_fmp21047png_768_432.jpeg"/>
-    <episode-num system="dd_progid">amg02042c32_ARNryKbR6eyBfmKGN8jycg7_us</episode-num>
-    <rating>
-      <value>R</value>
-    </rating>
-  </programme>
-<programme start="20261118010158 +0000" stop="20261118015427 +0000" channel="hersphere_movsf_US">
-    <title lang="en">Family Law</title>
-    <desc lang="en">Abigail represents a former client and friend who happens to be an anti-vaxxer.</desc>
-    <category lang="en">Drama</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/MOVSF/resized_370d6b927fc246b3579bd2b77fe4243e62084f6762e987cd1f8fc23653339c42_familylawlandscapejpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">MOVSF_FMLY008_US</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261118015427 +0000" stop="20261118022147 +0000" channel="hersphere_movsf_US">
-    <title lang="en">Weeds</title>
-    <desc lang="en">Nancy digs deeper into the drug world and finds comfort in an unlikely family member.</desc>
-    <category lang="en">Drama</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/MOVSF/resized_4608335a5ff68f7c1b68d2cee5e553fbeac914bcfbd64a10acae6df9c82d3090_weedslandscapejpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">MOVSF_WDSEDT051_US</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261118022147 +0000" stop="20261118024851 +0000" channel="hersphere_movsf_US">
-    <title lang="en">Weeds</title>
-    <desc lang="en">Nancy pays the imprisoned Guillermo a secret visit and Shane leaves to live with Nancy's sister.</desc>
-    <category lang="en">Drama</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/MOVSF/resized_4608335a5ff68f7c1b68d2cee5e553fbeac914bcfbd64a10acae6df9c82d3090_weedslandscapejpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">MOVSF_WDSEDT052_US</episode-num>
-    <rating>
-      <value>TV-14</value>
     </rating>
   </programme>
 <programme start="20261118024851 +0000" stop="20261118031607 +0000" channel="hersphere_movsf_US">
@@ -494,26 +454,6 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-<programme start="20261118010857 +0000" stop="20261118015824 +0000" channel="theasylummoviechannel_tasmc_US">
-    <title lang="en">Disaster Strike Force</title>
-    <desc lang="en">Oahu’s volcanic disaster becomes a global threat.</desc>
-    <category lang="en">Action</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/tasmc/resized_28a83d1bc180f8cba2830291898d2f0a54731ebf029f0fb4720dd07537941f72_disasterstrikeforce960x540jpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">tasmc_DisasterStrikeForce_EP2_Feature_2997_20_US</episode-num>
-    <rating>
-      <value>TV14</value>
-    </rating>
-  </programme>
-<programme start="20261118015824 +0000" stop="20261118024727 +0000" channel="theasylummoviechannel_tasmc_US">
-    <title lang="en">Z Nation</title>
-    <desc lang="en">Warren's dream leads our heroes back to MERCY LABS.</desc>
-    <category lang="en">Action</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/tasmc/resized_1b5e1129e10e2f9f8fb757867c26572d46cc47241885862393a3684c10c9a4ca_stationcoverart1920x1080lgjpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">tasmc_ZNation_411_2997_20_US</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme start="20261118024727 +0000" stop="20261118042454 +0000" channel="theasylummoviechannel_tasmc_US">
     <title lang="en">Robotapocalypse</title>
     <desc lang="en">An expert hacker tries to stop a powerful, sentient A.I. as it takes over the world's military.</desc>
@@ -612,16 +552,6 @@
     <episode-num system="dd_progid">US-CineverseEntertainmentCorp-118056897-52541967-52525612</episode-num>
     <rating>
       <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261118010000 +0000" stop="20261118020000 +0000" channel="us-ion_ion_plus_1">
-    <title lang="en">Criminal Minds</title>
-    <desc lang="en">Morgan's visit with a survivor of unusual stabbings in upstate New York leads to more questions about the case.</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://img.platform.wurl.dev/channel/378/lg/165a68/LG-768x432_v1.png"/>
-    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120754752-56783275-56763377</episode-num>
-    <rating>
-      <value>TV-14</value>
     </rating>
   </programme>
 <programme start="20261118020000 +0000" stop="20261118030000 +0000" channel="us-ion_ion_plus_1">
