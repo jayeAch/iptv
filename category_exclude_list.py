@@ -5,6 +5,7 @@
 CATEGORY_EXCLUDE_LIST = [
     "Paranormal",
     "Creators",
+    "Women's Interests",
     "Reality Competition",
     "Pets & Animals",
     "Pop Culture",
