@@ -29,6 +29,12 @@ https://jmp2.uk/stvp-USBD17000117B
 https://jmp2.uk/stvp-USBA300017PK
 #EXTINF:-1 channel-id="US18000163F" tvg-id="US18000163F" tvg-name="Miramax Movie Channel" group-title="Movies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US18000163F_20261009T160639SQUARE.png" tvg-chno="1237" tvg-description="Miramax Movie Channel - We are movies for all levels of film fans, from indie films & box office hits to period pieces & cutting edge new classics.",Miramax Movie Channel
 https://jmp2.uk/stvp-US18000163F
+#EXTINF:-1 channel-id="USAJ30000148W" tvg-id="USAJ30000148W" tvg-name="CINEVAULT" group-title="Movies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ30000148W_20260421T133423SQUARE.png" tvg-chno="1240" tvg-description="Think 80s hair was big? Our stars are bigger. Hollywood’s biggest stars are for sure the highlight of these totally awesome movies from an epic decade.",CINEVAULT [DRM]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?drm-type=widevine||R{SSM}|
+https://jmp2.uk/stvp-USAJ30000148W
 #EXTINF:-1 channel-id="USBB3200015M8" tvg-id="USBB3200015M8" tvg-name="CINEVAULT: Classics" group-title="Movies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200015M8_20260421T133902SQUARE.png" tvg-chno="1245" tvg-description="Hollywood’s brightest stars and movies from the Golden Age of Hollywood.",CINEVAULT: Classics [DRM]
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -189,3 +195,5 @@ https://jmp2.uk/stvp-USBB10000047W
 https://jmp2.uk/stvp-USAJ17000014C
 #EXTINF:-1 channel-id="USBC100001175" tvg-id="USBC100001175" tvg-name="Horror by ALTER" group-title="Horror" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC100001175_20240730T012800SQUARE.png" tvg-chno="3075" tvg-description="The official home of cutting-edge horror. Binge-worthy TV. Cult-classic movies. Mind-bending originals from warped human perspectives. Slip into the dark where you deserve to be disturbed. Only on ALTER.",Horror by ALTER
 https://jmp2.uk/stvp-USBC100001175
+#EXTINF:-1 channel-id="USBD700015LK" tvg-id="USBD700015LK" tvg-name="Midnight Pulp" group-title="Sci-Fi" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700015LK_20241112T000919SQUARE.png" tvg-chno="3080" tvg-description="Want to watch something strange?  Midnight Pulp is the place to find crazy action, hysterical horror, out-of-this-world sci-fi, offbeat docs, and much more!  Let your freak flag fly 24/7 on Midnight Pulp!",Midnight Pulp
+https://jmp2.uk/stvp-USBD700015LK
