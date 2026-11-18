@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-<channel id="us-ion_ion_plus_1">
-    <display-name>ION Plus</display-name>
-    <icon src="http://img.platform.wurl.dev/channel/378/lg/165a68/LG-Logo-PNG-100x100_v1.png"/>
-  </channel>
 <channel id="99992272">
     <display-name>FilmRise Free Movies</display-name>
     <icon src="https://image.xumo.com/v1/channels/channel/99992272/400x200.png?type=white_cropped"/>
@@ -16,10 +12,6 @@
     <display-name>Screambox TV</display-name>
     <icon src="http://img.platform.wurl.dev/channel/1845/lg/88167e/LG-Logo-PNG-100x100_v1.png"/>
   </channel>
-<channel id="FREQ896">
-    <display-name>Dove Channel</display-name>
-    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/cineverse/channels/dove-400x200.png"/>
-  </channel>
 <channel id="tribeca_tribe_US">
     <display-name>Tribeca</display-name>
     <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/tribeca/Tribeca_Logo_800w200h.png"/>
@@ -28,13 +20,9 @@
     <display-name>Horror by ALTER</display-name>
     <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/gunpowderandsky/channels/Horror-By-ALTER_white_logo_800x200.png"/>
   </channel>
-<channel id="portraittv_amg30859c1_us">
-    <display-name>Portrait TV</display-name>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Portrait-TV_Logo_400x200.png"/>
-  </channel>
-<channel id="FREQ1287-US">
-    <display-name>On Patrol: Live</display-name>
-    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/reelz/channels/1287-400x200.png"/>
+<channel id="electricnoweng_eleno_US">
+    <display-name>Electric Now</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/electric/ENOW_White_logo_800x200.png"/>
   </channel>
 <channel id="FREQ541-US">
     <display-name>Mysteria</display-name>
@@ -171,26 +159,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261118195322 +0000" stop="20261118223625 +0000" channel="FREQ1287-US">
-    <title lang="en">On Patrol: Live</title>
-    <desc lang="en">Officers pursue a speeding motorcycle; officers search for a man who was stabbed.</desc>
-    <category lang="en">ETC</category>
-    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/40a5pzz79uq61v0vssopjzbro/w1920_h1080/40a5pzz79uq61v0vssopjzbro.jpg"/>
-    <episode-num system="dd_progid">7329479</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261118223625 +0000" stop="20261119011929 +0000" channel="FREQ1287-US">
-    <title lang="en">On Patrol: Live</title>
-    <desc lang="en">Officers pursue a speeding motorcycle; officers search for a man who was stabbed.</desc>
-    <category lang="en">ETC</category>
-    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/1pbi6zomj00px1jihg49jf3ds/w1920_h1080/1pbi6zomj00px1jihg49jf3ds.jpg"/>
-    <episode-num system="dd_progid">7329486</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme start="20261118200928 +0000" stop="20261118205923 +0000" channel="FREQ541-US">
     <title lang="en">Coffeehouse Crime</title>
     <desc lang="en">From viral teen violence to a brutal family murder, two shocking crimes that felt eerily similar.</desc>
@@ -311,114 +279,64 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261118194456 +0000" stop="20261118213008 +0000" channel="FREQ896">
-    <title lang="en">Christmas in the City</title>
-    <desc lang="en">Wendy and her 5-year-old daughter travel to the big city in the hope of making enough money to save it.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/7290411415434375275/solid/rectangle/w1920_h1080/y4g99hukigj01nexec73h45bi.jpg"/>
-    <episode-num system="dd_progid">9424686</episode-num>
+<programme start="20261118200000 +0000" stop="20261118210000 +0000" channel="electricnoweng_eleno_US">
+    <title lang="en">The Librarians</title>
+    <desc lang="en">Prospero summons up other Fictionals in order to retrieve the parts of his Staff from a museum.</desc>
+    <category lang="en">Action</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/ELENO/resized_6ba4bdc3f2b26ee010a6e33f7f9eff70ddd1291b71ee8a88b430876aada84602_thelibrarianswidescreenpng_768_432.jpeg"/>
+    <episode-num system="dd_progid">ELENO_electricent_TheLibrarians_208_stereo_US</episode-num>
     <rating>
-      <value>TV-G</value>
+      <value>PG-13</value>
     </rating>
   </programme>
-<programme start="20261118213008 +0000" stop="20261118231504 +0000" channel="FREQ896">
-    <title lang="en">Love at First Like</title>
-    <desc lang="en">A journalist covering the Don Juan of dating apps ends up finding there's more than meets the eye.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/vi0fx50evew71k7fz9xpdt7ym/w1920_h1080/vi0fx50evew71k7fz9xpdt7ym.jpg"/>
-    <episode-num system="dd_progid">9424687</episode-num>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
-<programme start="20261118231504 +0000" stop="20261119010001 +0000" channel="FREQ896">
-    <title lang="en">The Best Version of Love</title>
-    <desc lang="en">Image upgrader Rebecca discovers the best version of herself might include stubborn client Clive.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/xl3ekfku1j2o1dn7jbbc315or/w1920_h1080/xl3ekfku1j2o1dn7jbbc315or.jpg"/>
-    <episode-num system="dd_progid">9424693</episode-num>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
-<programme start="20261118195446 +0000" stop="20261118211735 +0000" channel="portraittv_amg30859c1_us">
-    <title lang="en">The Shop</title>
-    <desc lang="en">The music and entertainment industry has shifted in 2025. Offset, FlaujaeJohnson, JID and MattFriend pulled up to TheShop and sat down with hosts Paul Rivera and Maverick Carter to discuss the evolving music landscape, why virality doesn’t equal success, cancel culture and more.</desc>
-    <category lang="en">Charity Program</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg30859/resized_images/resized_fb20644a230e4ba08cc706d55473e7daad473ff6ef742484edd6b6e154bfe31b_b7d53730d33d49d49e8f53a907db0b91jpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">amg30859c1_A4faBrPc9YZSHg4nx2CHu1M_us</episode-num>
-    <rating>
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-<programme start="20261118211735 +0000" stop="20261118221523 +0000" channel="portraittv_amg30859c1_us">
-    <title lang="en">3G's</title>
-    <desc lang="en">Nicky Paris defends la más toxica Britney Spears, Doknow reveals his dating requirements while Erik, Sasha and Jesus audition for life-changing rom-com roles.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg30859/resized_images/resized_ff18ddf8ad1e4439ce3542bb5807a8375b5e0e98e7ae03a7358496060eeab290_doknownickyparisjpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">amg30859c1_ATnoEgLm7TVQRDNVfHFUv7V_us</episode-num>
-    <rating>
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-<programme start="20261118221523 +0000" stop="20261118231710 +0000" channel="portraittv_amg30859c1_us">
-    <title lang="en">3G's</title>
-    <desc lang="en">Comedian Jazmyn W. finds out skinny legs are not it and actor Arturo Castro explains how he lost his Guatemalan accent while Erik, Sasha, &amp; Jesus debate the corniess of Lin Manuel Miranda.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg30859/resized_images/resized_910032b911e2a22ef28183c05ab269abc42927aa58e1e94bc58e6122aa6ed038_arturocastrojazmynwandthegspotjpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">amg30859c1_ARBXsuqRp2HL4gXMmPGkRV4_us</episode-num>
-    <rating>
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-<programme start="20261118231710 +0000" stop="20261118234223 +0000" channel="portraittv_amg30859c1_us">
-    <title lang="en">Go Big or Go Home</title>
-    <desc lang="en">Chris Spencer quizzes people in downtown Atlanta for a chance to win up to $600 in prize cash.</desc>
-    <category lang="en">Game</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg30859/resized_images/resized_5d8d4952be468e35fecf0147b66b97a95fa4206ca6bfc211345597b48e6faca9_gboghlandscapepng_768_432.jpeg"/>
-    <episode-num system="dd_progid">amg30859c1_AGS9ERaBC1wnrw1JoCaNYB6_us</episode-num>
+<programme start="20261118210000 +0000" stop="20261118220000 +0000" channel="electricnoweng_eleno_US">
+    <title lang="en">Leverage Redemption</title>
+    <desc lang="en">Our team runs the ambitious “Christmas Carol” con.</desc>
+    <category lang="en">Crime</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/ELENO/resized_7c900a039820235336b1eccf5aaaa64a3a724110ca522a6372f677f8fb7ac1fb_leverageredemptions3keyart1920x1080png_768_432.jpeg"/>
+    <episode-num system="dd_progid">ELENO_LVRG_305_ProRes422HQ_1920x1080_Stereo_US</episode-num>
     <rating>
       <value>PG</value>
     </rating>
   </programme>
-<programme start="20261118234223 +0000" stop="20261119000614 +0000" channel="portraittv_amg30859c1_us">
-    <title lang="en">Go Big or Go Home</title>
-    <desc lang="en">Chris Spencer quizzes people in downtown Atlanta for a chance to win up to $600 in prize cash.</desc>
-    <category lang="en">Game</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg30859/resized_images/resized_e92e04ee1dac86f18d72db9fff14e577ea2abfb06f13ee56616ee8069da5160d_gboghlandscapepng_768_432.jpeg"/>
-    <episode-num system="dd_progid">amg30859c1_AHv1TpS4zF7EfoRrpECaSMN_us</episode-num>
+<programme start="20261118220000 +0000" stop="20261118230000 +0000" channel="electricnoweng_eleno_US">
+    <title lang="en">Leverage Redemption</title>
+    <desc lang="en">The crew takes on a phone scamming ring.</desc>
+    <category lang="en">Crime</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/ELENO/resized_7c900a039820235336b1eccf5aaaa64a3a724110ca522a6372f677f8fb7ac1fb_leverageredemptions3keyart1920x1080png_768_432.jpeg"/>
+    <episode-num system="dd_progid">ELENO_LVRG_302_ProRes422HQ_1920x1080_Stereo_US</episode-num>
     <rating>
       <value>PG</value>
     </rating>
   </programme>
-<programme start="20261119000614 +0000" stop="20261119003118 +0000" channel="portraittv_amg30859c1_us">
-    <title lang="en">Go Big or Go Home</title>
-    <desc lang="en">Chris Spencer quizzes people in downtown Atlanta for a chance to win up to $600 in prize cash.</desc>
-    <category lang="en">Game</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg30859/resized_images/resized_1b6aaab3a37ab526e6ebb60a8421bbcee9cb6e86ca8d44c3c9fbfca056bdfcfb_gboghlandscapepng_768_432.jpeg"/>
-    <episode-num system="dd_progid">amg30859c1_A85Nit4GKpLiWT4AoippwVZ_us</episode-num>
+<programme start="20261118230000 +0000" stop="20261119000000 +0000" channel="electricnoweng_eleno_US">
+    <title lang="en">The Librarians: The Next Chapter</title>
+    <desc lang="en">Connor battles the world's first vampire before becoming one himself.</desc>
+    <category lang="en">Fantasy</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/ELENO/resized_5fd1a914a22271ff961cdfbe7734dc9f20201c9a4be230f72cd68610e331a6ca_109andthefeastofthevampirjpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">ELENO_TheLibrariansTheNextChapter_Ep109_AndtheFeastoftheVampire_Stereo_US</episode-num>
     <rating>
-      <value>PG</value>
+      <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20261119003118 +0000" stop="20261119005334 +0000" channel="portraittv_amg30859c1_us">
-    <title lang="en">Go Big or Go Home</title>
-    <desc lang="en">Chris Spencer quizzes people in downtown Atlanta for a chance to win up to $600 in prize cash.</desc>
-    <category lang="en">Game</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg30859/resized_images/resized_63cae42e18f11f86d3bdcd11503cc80b21705f15ee7b913d849d1b39e18a70ef_gboghlandscapepng_768_432.jpeg"/>
-    <episode-num system="dd_progid">amg30859c1_AMdcCMLvEL3meFgdB1Hjgpn_us</episode-num>
+<programme start="20261119000000 +0000" stop="20261119010000 +0000" channel="electricnoweng_eleno_US">
+    <title lang="en">The Librarians: The Next Chapter</title>
+    <desc lang="en">A time travel mishap sends the team to Camelot to uncover Elaine's true story.</desc>
+    <category lang="en">Fantasy</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/ELENO/resized_6420b5abc7064224fd3c8c23dee9ddeef12a651e418d83623225f6900c8ab9c9_110andgoingmedevialjpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">ELENO_TheLibrariansTheNextChapter_Ep110_AndGoingMedieval_Stereo_US</episode-num>
     <rating>
-      <value>PG</value>
+      <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20261119005334 +0000" stop="20261119024037 +0000" channel="portraittv_amg30859c1_us">
-    <title lang="en">The Love You Save</title>
-    <desc lang="en">Portrait TV, the premium home for Gen Next, bridges the gap between icons and innovators. We don't just stream culture; we frame it.</desc>
-    <category lang="en">Talk show &amp; Entertainment</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg30859/resized_images/resized_639c14598c4be262e842c1282a9bf372e45e709c74347a6d0f6819311ee10e33_theloveyousavelandscape169jpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">amg30859c1_A83xrYcisrYoFVLHeT1bWo2_us</episode-num>
+<programme start="20261119010000 +0000" stop="20261119030000 +0000" channel="electricnoweng_eleno_US">
+    <title lang="en">Ask Me to Dance</title>
+    <desc lang="en">On a starry night, Jack and Jill separately meet a fortune teller.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/ELENO/resized_a28f5513d266a578a77c85d18dcaab0a489cff8862d7bd2683766168c220cafc_askmetodance1920x1080png_768_432.jpeg"/>
+    <episode-num system="dd_progid">ELENO_electricent_AskMeToDance_ProRes_422_Full_HD_Stereo_US</episode-num>
     <rating>
-      <value>PG</value>
+      <value>PG-13</value>
     </rating>
   </programme>
 <programme start="20261118191145 +0000" stop="20261118205658 +0000" channel="theasylummoviechannel_tasmc_US">
@@ -517,66 +435,6 @@
     <category lang="en">Drama</category>
     <icon src="http://img.platform.wurl.dev/channel/1845/lg/88167e/LG-768x432_v1.png"/>
     <episode-num system="dd_progid">US-CineverseEntertainmentCorp-117520320-52541967-52525612</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261118200000 +0000" stop="20261118210000 +0000" channel="us-ion_ion_plus_1">
-    <title lang="en">MacGyver</title>
-    <desc lang="en">MacGyver and the team attempt to rescue Jack's former CIA partner who went missing in Venezuela after finding evidence to take down an international arms dealer.</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://img.platform.wurl.dev/channel/378/lg/165a68/LG-768x432_v1.png"/>
-    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120755396-56783235-56763341</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261118210000 +0000" stop="20261118220000 +0000" channel="us-ion_ion_plus_1">
-    <title lang="en">MacGyver</title>
-    <desc lang="en">In Malaysia, MacGyver and the team extract a terrorist group's money man who has intel on an impending attack, but when the man is shot, MacGyver must keep him alive in order to learn the terrorists' plans.</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://img.platform.wurl.dev/channel/378/lg/165a68/LG-768x432_v1.png"/>
-    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120755442-56783235-56763341</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261118220000 +0000" stop="20261118230000 +0000" channel="us-ion_ion_plus_1">
-    <title lang="en">MacGyver</title>
-    <desc lang="en">Mac and Jack work with a Russian bomb programmer and his alienated handler to defuse a Soviet-era warhead in Moscow; when the antiquated computer breaks down, Mac must find a way to fix it.</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://img.platform.wurl.dev/channel/378/lg/165a68/LG-768x432_v1.png"/>
-    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120755500-56783235-56763341</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261118230000 +0000" stop="20261119000000 +0000" channel="us-ion_ion_plus_1">
-    <title lang="en">MacGyver</title>
-    <desc lang="en">MacGyver must fix a sabotaged train to protect a woman who has proof that her boss is selling weapons to enemies of the U.S.</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://img.platform.wurl.dev/channel/378/lg/165a68/LG-768x432_v1.png"/>
-    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120755536-56783235-56763341</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261119000000 +0000" stop="20261119010000 +0000" channel="us-ion_ion_plus_1">
-    <title lang="en">MacGyver</title>
-    <desc lang="en">MacGyver must defuse a bomb planted near the United Nations by his old adversary, the Ghost, then track the criminal down.</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://img.platform.wurl.dev/channel/378/lg/165a68/LG-768x432_v1.png"/>
-    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120755898-56783235-56763341</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261119010000 +0000" stop="20261119020000 +0000" channel="us-ion_ion_plus_1">
-    <title lang="en">MacGyver</title>
-    <desc lang="en">When MacGyver goes undercover to break a notorious drug kingpin out of a maximum security prison, he must track the fugitive to the cartel's location to dismantle it after they escape.</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://img.platform.wurl.dev/channel/378/lg/165a68/LG-768x432_v1.png"/>
-    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120755930-56783235-56763341</episode-num>
     <rating>
       <value>TV-14</value>
     </rating>
