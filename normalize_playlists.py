@@ -213,6 +213,7 @@ NAME_OVERRIDES: dict[str, str] = {
     'another world': 'Soap Operas',
     'sunset beach': 'Soap Operas',
     'port charles': 'Soap Operas',
+    'bbc comedy': 'Comedy',
     'pluto tv retro action movies': 'Movies',  # Classic TV pin ('pluto tv retro') would take it
     'at home with family handyman': 'Home & DIY',  # 'family' name keyword would make it Kids
     'the fbi': 'Classic TV',          # 1965 series; 'The FBI Files' stays True Crime
@@ -562,7 +563,6 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     'Comedy (after Classic TV)': _words("""
         comedy central
         according to jim
-        bbc comedy
         pluto tv comedy
         pluto tv komedi
         pluto tv komedie
