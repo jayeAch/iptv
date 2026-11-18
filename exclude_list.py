@@ -11,6 +11,9 @@ GLOBAL_EXCLUDE_LIST = [
 # All other entries (alphabetized, case-insensitive, deduplicated)
   "21 Jump Street",
   "Matlock",
+  "More TV Sitcoms",
+  "Pluto TV Sitcoms",
+  "Just For Laughs Gags",
   "Third Watch",
   "Rookie Blue",
   "BritBox Mysteries",
