@@ -1825,6 +1825,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         little women: la
         dance moms
         matched married meet
+        hersphere
         real housewives
         bad girls club
         teen mom
