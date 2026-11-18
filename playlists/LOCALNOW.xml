@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
+<channel id="localnow.41830D3A-37B5-4C6C-B242-A08B82B441D9">
+    <display-name>Forensic Files</display-name>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/41830D3A-37B5-4C6C-B242-A08B82B441D9/3-1x1.png" />
+  </channel>
 <channel id="localnow.558211BE-E921-43BA-9C55-9DE79921BF9C">
     <display-name>FBI Files</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/558211BE-E921-43BA-9C55-9DE79921BF9C/3-1x1.png" />
@@ -96,13 +100,21 @@
     <category lang="en">Horror</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/06FFDD3B-A149-4023-8EF8-96685EB19DDE/0-2x3.png" />
   </programme>
-<programme start="20261118003800 +0000" stop="20261118012900 +0000" channel="localnow.4D2A3ADC-5310-4895-A676-6A1BEEB941EE">
-    <title lang="en">Beyond Belief: Fact or Fiction?</title>
-    <desc lang="en">Boy clings to toy bear; door lock protects woman.</desc>
-    <category lang="en">Sci-Fi</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/4D2A3ADC-5310-4895-A676-6A1BEEB941EE/0-2x3.png" />
-    <episode-num system="onscreen">S01E03</episode-num>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
+<programme start="20261118012500 +0000" stop="20261118015000 +0000" channel="localnow.41830D3A-37B5-4C6C-B242-A08B82B441D9">
+    <title lang="en">Forensic Files</title>
+    <desc lang="en">Identification of a highly toxic metal in the victim's blood leads to his poisoner.</desc>
+    <category lang="en">True Crime</category>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/41830D3A-37B5-4C6C-B242-A08B82B441D9/0-2x3.png" />
+    <episode-num system="onscreen">S07E11</episode-num>
+    <episode-num system="xmltv_ns">6.10.</episode-num>
+  </programme>
+<programme start="20261118015000 +0000" stop="20261118021500 +0000" channel="localnow.41830D3A-37B5-4C6C-B242-A08B82B441D9">
+    <title lang="en">Forensic Files</title>
+    <desc lang="en">When a 6-year-old disappears, clues point to her father, but new revelations surface 10 years later.</desc>
+    <category lang="en">True Crime</category>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/41830D3A-37B5-4C6C-B242-A08B82B441D9/0-2x3.png" />
+    <episode-num system="onscreen">S07E30</episode-num>
+    <episode-num system="xmltv_ns">6.29.</episode-num>
   </programme>
 <programme start="20261118012900 +0000" stop="20261118022100 +0000" channel="localnow.4D2A3ADC-5310-4895-A676-6A1BEEB941EE">
     <title lang="en">Beyond Belief: Fact or Fiction?</title>
@@ -151,14 +163,6 @@
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/558211BE-E921-43BA-9C55-9DE79921BF9C/0-2x3.png" />
     <episode-num system="onscreen">S01E06</episode-num>
     <episode-num system="xmltv_ns">0.5.</episode-num>
-  </programme>
-<programme start="20261118003500 +0000" stop="20261118012800 +0000" channel="localnow.70E6008B-8E98-4B80-8CE2-D721592DF1C1">
-    <title lang="en">World's Most Evil Prisoners</title>
-    <desc lang="en">A whole channel dedicated to the lives and crimes of some of the World's Most Evil Killers like Jeffrey Dahmer, Richard Ramirez, Dorothea Puente and more.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/70E6008B-8E98-4B80-8CE2-D721592DF1C1/0-2x3.png" />
-    <episode-num system="onscreen">S01E03</episode-num>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
   </programme>
 <programme start="20261118012800 +0000" stop="20261118022200 +0000" channel="localnow.70E6008B-8E98-4B80-8CE2-D721592DF1C1">
     <title lang="en">World's Most Evil Prisoners</title>
@@ -219,13 +223,6 @@
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/72384889-EEEB-4EEA-93B3-F26FF4E12D6B/0-2x3.png" />
     <episode-num system="dd_progid">program-wfxb-20261118120000</episode-num>
   </programme>
-<programme start="20261118010000 +0000" stop="20261118013000 +0000" channel="localnow.7439B766-5F61-43D6-A61B-D58FEF6824FD">
-    <title lang="en">WPDE News Replay</title>
-    <desc lang="en">Myrtle Beach/Florence News, Weather, Sports, Breaking News</desc>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7439B766-5F61-43D6-A61B-D58FEF6824FD/0-2x3.png" />
-    <episode-num system="dd_progid">program-wpde-myrtle-beach-sc-20261118010000</episode-num>
-  </programme>
 <programme start="20261118013000 +0000" stop="20261118020000 +0000" channel="localnow.7439B766-5F61-43D6-A61B-D58FEF6824FD">
     <title lang="en">WPDE News Replay</title>
     <desc lang="en">Myrtle Beach/Florence News, Weather, Sports, Breaking News</desc>
@@ -267,13 +264,6 @@
     <category lang="en">Horror</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/746F014B-ACE1-4DE4-B494-BFAE6DE92608/0-2x3.png" />
     <episode-num system="dd_progid">program-horror-plus-20261118072901</episode-num>
-  </programme>
-<programme start="20261117233000 +0000" stop="20261118013000 +0000" channel="localnow.79549FA0-4EBE-48C3-957F-037BA02E827F">
-    <title lang="en">Max Reload and the Nether Blasters</title>
-    <desc lang="en">A small town video game store clerk must go from zero to hero after accidentally unleashing the forces of evil from a cursed Colecovision video game cartridge.</desc>
-    <category lang="en">Horror</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/79549FA0-4EBE-48C3-957F-037BA02E827F/0-2x3.png" />
-    <episode-num system="dd_progid">program-epg-horror-machine-20261117233000</episode-num>
   </programme>
 <programme start="20261118013000 +0000" stop="20261118031500 +0000" channel="localnow.79549FA0-4EBE-48C3-957F-037BA02E827F">
     <title lang="en">Black Ghosts</title>
@@ -368,13 +358,6 @@
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/9EF0203B-766B-4822-8A34-D0C5C41E0E36/0-2x3.png" />
     <episode-num system="dd_progid">program-electric-now-20261118040000</episode-num>
   </programme>
-<programme start="20261118010000 +0000" stop="20261118013000 +0000" channel="localnow.A0A87EFE-61FA-477E-A0E3-44A88013AE74">
-    <title lang="en">The Good Side Show</title>
-    <desc lang="en">The Good Side Show</desc>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/A0A87EFE-61FA-477E-A0E3-44A88013AE74/0-2x3.png" />
-    <episode-num system="dd_progid">program-wmbf-2026-11-18T01-00-00</episode-num>
-  </programme>
 <programme start="20261118013000 +0000" stop="20261118020000 +0000" channel="localnow.A0A87EFE-61FA-477E-A0E3-44A88013AE74">
     <title lang="en">Aging Untold</title>
     <desc lang="en">Experts share aging, health and caregiving advice for people entering a new chapter of life.</desc>
@@ -409,13 +392,6 @@
     <category lang="en">Entertainment</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/A48FFE37-5FF8-486F-B048-D8793F969F26/0-2x3.png" />
     <episode-num system="dd_progid">program-hunter-20261118031238</episode-num>
-  </programme>
-<programme start="20261118010000 +0000" stop="20261118013000 +0000" channel="localnow.A7FA55BD-F771-46DA-B7A0-B974DA61DF21">
-    <title lang="en">BuzzFeed Unsolved: Supernatural</title>
-    <desc lang="en">Is the Bobby Mackey bar in Kentucky - long rumored to be haunted - a gateway to the underworld?</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/A7FA55BD-F771-46DA-B7A0-B974DA61DF21/0-2x3.png" />
-    <episode-num system="dd_progid">program-buzzfeed-unsolved-20261118010000</episode-num>
   </programme>
 <programme start="20261118013000 +0000" stop="20261118020000 +0000" channel="localnow.A7FA55BD-F771-46DA-B7A0-B974DA61DF21">
     <title lang="en">BuzzFeed Unsolved: Supernatural</title>
@@ -477,13 +453,6 @@
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/AFE4F17B-882F-4DFF-9014-972E16331779/0-2x3.png" />
     <episode-num system="onscreen">S01E01</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-<programme start="20261118005835 +0000" stop="20261118012939 +0000" channel="localnow.BB4BC900-1313-4711-8483-9DB687F4AE5E">
-    <title lang="en">The Best Of Flip Wilson</title>
-    <desc lang="en">Jack Benny plays a gypsy violinist and an unwelcome boarder in the home of an arguing couple (Flip &amp; Pearl).</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/BB4BC900-1313-4711-8483-9DB687F4AE5E/0-2x3.png" />
-    <episode-num system="dd_progid">program-shout-factory-tv-20261118005835</episode-num>
   </programme>
 <programme start="20261118012939 +0000" stop="20261118020258 +0000" channel="localnow.BB4BC900-1313-4711-8483-9DB687F4AE5E">
     <title lang="en">The Best Of Flip Wilson</title>
