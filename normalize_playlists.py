@@ -384,6 +384,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         anime
         animeverse
         caylus
+        bizaar
         avatar
         anime all day
         crunchyroll
@@ -718,6 +719,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         jesser
         zhc
         ben azelart
+        simba prisen
         magnus midtbo
         sam and colby
         ryan trahan
@@ -1376,6 +1378,8 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         reality
         emergency rescue
         paradise hotel
+        the therapy couch
+        paradise
         the osbournes
         ice road truckers
         dangertv
@@ -1874,6 +1878,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         to catch a smuggler
         true crime
         unsolved mysteries
+        buzzfeed unsolved
         world's most evil killers
         world's wildest police videos
         xumo free crime tv
