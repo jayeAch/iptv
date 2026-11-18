@@ -257,6 +257,8 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         pluto tv retro action
         pluto tv rocky + creed
         walker, texas ranger
+        mgm presents: action
+        filmrise action
         pluto tv action
         las vegas
         nikita
@@ -401,6 +403,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         tv one
         allblk
         beyond the gates
+        avaz
         allblk gems
         black enterprise streaming television
         black family sitcoms
