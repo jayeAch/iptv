@@ -1,85 +1,489 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+<channel id="us-ion_ion_plus_1">
+    <display-name>ION Plus</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/378/lg/165a68/LG-Logo-PNG-100x100_v1.png"/>
+  </channel>
 <channel id="99992272">
     <display-name>FilmRise Free Movies</display-name>
     <icon src="https://image.xumo.com/v1/channels/channel/99992272/400x200.png?type=white_cropped"/>
-  </channel>
-<channel id="us-gsn_cinevault_80s_1">
-    <display-name>CINEVAULT</display-name>
-    <icon src="http://img.platform.wurl.dev/channel/691/lg/e11147/LG-Logo-PNG-100x100_v1.png"/>
   </channel>
 <channel id="theasylummoviechannel_tasmc_US">
     <display-name>The Asylum</display-name>
     <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Asylum_Movie_Channel_Logo_LG_400x200.png"/>
   </channel>
+<channel id="us-cinedigm_entertainment_corp_screamboxtv_1">
+    <display-name>Screambox TV</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/1845/lg/88167e/LG-Logo-PNG-100x100_v1.png"/>
+  </channel>
+<channel id="FREQ896">
+    <display-name>Dove Channel</display-name>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/cineverse/channels/dove-400x200.png"/>
+  </channel>
+<channel id="tribeca_tribe_US">
+    <display-name>Tribeca</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/tribeca/Tribeca_Logo_800w200h.png"/>
+  </channel>
 <channel id="portraittv_amg30859c1_us">
     <display-name>Portrait TV</display-name>
     <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Portrait-TV_Logo_400x200.png"/>
-  </channel>
-<channel id="FREQ1287-US">
-    <display-name>On Patrol: Live</display-name>
-    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/reelz/channels/1287-400x200.png"/>
   </channel>
 <channel id="FREQ541-US">
     <display-name>Mysteria</display-name>
     <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/lawandcrime/channels/541-400x200.png"/>
   </channel>
-<channel id="99993006">
-    <display-name>World's Most Evil Killers</display-name>
-    <icon src="https://image.xumo.com/v1/channels/channel/99993006/400x200.png?type=white_cropped"/>
-  </channel>
 <channel id="99992255">
     <display-name>Forensic Files</display-name>
     <icon src="https://image.xumo.com/v1/channels/channel/99992255/400x200.png?type=white_cropped"/>
   </channel>
-<programme start="20261118065314 +0000" stop="20261118072100 +0000" channel="99992255">
+<programme start="20261118114009 +0000" stop="20261118120820 +0000" channel="99992255">
     <title lang="en">Forensic Files</title>
-    <desc lang="en">The victim has been stabbed more than thirty times, and the crime scene is awash with her blood. Near her head, police discover a distinctive button with strands of thread still attached.</desc>
+    <desc lang="en">A woman disappears without a trace. Even though foul play is suspected, the leads don't pan out and the trail turns cold. Twenty years would pass before police are able to link a clump of hair discovered in an isolated area with the missing woman.</desc>
     <category lang="en">ETC</category>
-    <icon src="https://image.xumo.com/v1/assets/asset/XM0CNV92A2H3V2/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992255%2F768x432.jpg%3Ftype%3DchannelTile"/>
-    <episode-num system="dd_progid">XM0CNV92A2H3V2</episode-num>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0EM20W1E860P/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992255%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM0EM20W1E860P</episode-num>
     <rating>
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20261118064824 +0000" stop="20261118074319 +0000" channel="99993006">
-    <title lang="en">World's Most Evil Killers</title>
-    <desc lang="en">Stephen Griffiths, the self-proclaimed Crossbow Cannibal, had always fantasized about murder. In 2009, he acted on his murderous instincts and killed three women.</desc>
+<programme start="20261118120820 +0000" stop="20261118123657 +0000" channel="99992255">
+    <title lang="en">Forensic Files</title>
+    <desc lang="en">A woman is found dead in a ravine, but crucial crime scene evidence had been washed away by severe thunderstorms. Almost 20 years later, an old hat brought the killer to justice.</desc>
     <category lang="en">ETC</category>
-    <icon src="https://image.xumo.com/v1/assets/asset/XM0UCP7P45B0KX/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993006%2F768x432.jpg%3Ftype%3DchannelTile"/>
-    <episode-num system="dd_progid">XM0UCP7P45B0KX</episode-num>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM08K4374GD3U9/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992255%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM08K4374GD3U9</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261118123657 +0000" stop="20261118130443 +0000" channel="99992255">
+    <title lang="en">Forensic Files</title>
+    <desc lang="en">On May 12, 1994, Crystal Perry was viciously murdered in her home in Bridgton, Maine. Michael Hutchinson, 32, was found guilty of murder in the 1994 slaying at Perry's home.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM002KKI2P97QX/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992255%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM002KKI2P97QX</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261118130443 +0000" stop="20261118133254 +0000" channel="99992255">
+    <title lang="en">Forensic Files</title>
+    <desc lang="en">A beverage company pleads guilty to violating federal safety laws when a baby dies from E. coli after drinking apple juice.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0USRUJBZFDJW/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992255%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM0USRUJBZFDJW</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261118133254 +0000" stop="20261118140122 +0000" channel="99992255">
+    <title lang="en">Forensic Files</title>
+    <desc lang="en">A teen was killed by her parents in what they said was self-defense, but forensic evidence told otherwise.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0X3AOYBSHL79/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992255%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM0X3AOYBSHL79</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261118140122 +0000" stop="20261118142934 +0000" channel="99992255">
+    <title lang="en">Forensic Files</title>
+    <desc lang="en">An investigation into the murder of a World War II veteran slowed to a halt when the prime suspect had a solid alibi. But a lucky break led to a shady character who wore distinctive boots.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0G0KRNO5WU3G/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992255%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM0G0KRNO5WU3G</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261118142934 +0000" stop="20261118145746 +0000" channel="99992255">
+    <title lang="en">Forensic Files</title>
+    <desc lang="en">An 82-year-old woman was found dead. Clues on the victim's body would tell police what happened that night.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM003SOZPF3YV4/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992255%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM003SOZPF3YV4</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261118145746 +0000" stop="20261118152558 +0000" channel="99992255">
+    <title lang="en">Forensic Files</title>
+    <desc lang="en">A killer tried to incinerate and destroy everything that could link him to his crime. But in doing so, he inadvertently created new forensic evidence, evidence which came to light with a technique never before used in a criminal investigation.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0SEGT5LDTPZI/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992255%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM0SEGT5LDTPZI</episode-num>
     <rating>
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261118061759 +0000" stop="20261118090104 +0000" channel="FREQ1287-US">
-    <title lang="en">On Patrol: Live</title>
-    <desc lang="en">Officers administer a possibly life-saving treatment to an unresponsive man in a hotel.</desc>
+<programme start="20261118152558 +0000" stop="20261118155459 +0000" channel="99992255">
+    <title lang="en">Forensic Files</title>
+    <desc lang="en">Three seemingly unrelated deaths proved to be serial murders. The killer used poison which had no taste.</desc>
     <category lang="en">ETC</category>
-    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/1vtlntunjahlk1wq2u1mw3bpf/w1920_h1080/1vtlntunjahlk1wq2u1mw3bpf.jpg"/>
-    <episode-num system="dd_progid">7329408</episode-num>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0YWI7SJPJ3IT/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992255%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM0YWI7SJPJ3IT</episode-num>
     <rating>
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261118061849 +0000" stop="20261118071847 +0000" channel="portraittv_amg30859c1_us">
+<programme start="20261118155459 +0000" stop="20261118162800 +0000" channel="99992255">
+    <title lang="en">Forensic Files</title>
+    <desc lang="en">In 1999, a 12-year-old was found murdered in her home in Minnesota. Despite a meticulous search of the home and an exhaustive investigation, police had no suspects.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0W79YN5DHSTF/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992255%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM0W79YN5DHSTF</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261118105817 +0000" stop="20261118124926 +0000" channel="99992272">
+    <title lang="en">The Devil's Arithmetic</title>
+    <desc lang="en">Hannah Stern (Kirsten Dunst), an American-born Jewish adolescent, is uninterested in the culture, faith and customs of her relatives; however, Hannah begins to reevaluate her heritage when she has a supernatural experience that transports her back to a Nazi death camp in 1941. There, she meets a young girl named Rivkah (Brittany Murphy), a fellow captive in the camp. As Rivkah and Hannah struggle to survive in the face of daily atrocities, they form an unbreakable bond.</desc>
+    <category lang="en">Movies</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0BMYEUD446HA/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992272%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM0BMYEUD446HA</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261118124926 +0000" stop="20261118144256 +0000" channel="99992272">
+    <title lang="en">Blind Horizon [Broadcast Edit]</title>
+    <desc lang="en">Found in the New Mexico desert with a head wound and total amnesia, Frank Kavanaugh (Val Kilmer) is brought to a hospital. When he recovers some of his memory, he begins raving about an upcoming assassination attempt on the president. Despite the man's unstable state, Sheriff Jack Kolb (Sam Shepard) is troubled by Frank's story. Discovering the truth grows more complicated when Chloe Richards (Neve Campbell) arrives and claims to be Frank's fiancée, even though he has no memory of her.</desc>
+    <category lang="en">Movies</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0IZU1IAOW1XQ/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992272%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM0IZU1IAOW1XQ</episode-num>
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+<programme start="20261118144256 +0000" stop="20261118163035 +0000" channel="99992272">
+    <title lang="en">Prom Night</title>
+    <desc lang="en">This slasher movie follows a relentless killer who is out to avenge the death of a young girl who died after being bullied and teased by four of her classmates. Now high-school students, the guilt-ridden kids have kept their involvement a secret, but when they start being murdered, one by one, it's clear that someone knows the truth. Also coping with the past are members of the dead girl's family, most notably her prom-queen sister, Kim Hammond.</desc>
+    <category lang="en">Movies</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0IZQHSZJZ3H8/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992272%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM0IZQHSZJZ3H8</episode-num>
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+<programme start="20261118105732 +0000" stop="20261118114857 +0000" channel="FREQ541-US">
+    <title lang="en">Prime Crime</title>
+    <desc lang="en">A police officer’s party becomes a real-life murder mystery when an officer’s body turns up outside.</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/7289700872013578779/solid/rectangle/w1920_h1080/1u9o9p15azs7x1xgh7dpz7r53r.jpg"/>
+    <episode-num system="dd_progid">4967939</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261118114857 +0000" stop="20261118124022 +0000" channel="FREQ541-US">
+    <title lang="en">Prime Crime</title>
+    <desc lang="en">When a young girl's disappearance goes unnoticed for two years, suspicion surrounds her father.</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/7289705914418945212/solid/rectangle/w1920_h1080/z7uyifz48w8u15x62c2g7o3br.jpg"/>
+    <episode-num system="dd_progid">4967881</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261118124022 +0000" stop="20261118132252 +0000" channel="FREQ541-US">
+    <title lang="en">Deadly Deep Dives with Kimbyrleigha</title>
+    <desc lang="en">An 18-year-old girl's day turns tragic when she's kidnapped and murdered, leading to a quest for justice.</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/c3k5wktus2z111lakh9pew3pq/w1920_h1080/c3k5wktus2z111lakh9pew3pq.jpg"/>
+    <episode-num system="dd_progid">3703920</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261118132252 +0000" stop="20261118141152 +0000" channel="FREQ541-US">
+    <title lang="en">Deadly Deep Dives with Kimbyrleigha</title>
+    <desc lang="en">An 18-year-old girl's day turns tragic when she's kidnapped and murdered, leading to a quest for justice.</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/1lc9zimfkzehg1bbvy1ndp1ju/w1920_h1080/1lc9zimfkzehg1bbvy1ndp1ju.jpg"/>
+    <episode-num system="dd_progid">3703931</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261118141152 +0000" stop="20261118144737 +0000" channel="FREQ541-US">
+    <title lang="en">Deadly Deep Dives with Kimbyrleigha</title>
+    <desc lang="en">A Halloween party turns deadly when two friends plot to silence and murder Nicole Hutchings.</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/3g85afpnfxbw11s2gf0fhf785/w1920_h1080/3g85afpnfxbw11s2gf0fhf785.jpg"/>
+    <episode-num system="dd_progid">3946187</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261118144737 +0000" stop="20261118153917 +0000" channel="FREQ541-US">
+    <title lang="en">Killer Cases</title>
+    <desc lang="en">A camper finds a Mennonite woman's body far from home, baffling loved ones who say she had no known enemies.</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/9q3tyd2yrrtv19zpicqybbixs/w1920_h1080/9q3tyd2yrrtv19zpicqybbixs.jpg"/>
+    <episode-num system="dd_progid">4231989</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261118153917 +0000" stop="20261118163057 +0000" channel="FREQ541-US">
+    <title lang="en">Killer Cases</title>
+    <desc lang="en">An exchange student vanishes from Columbia, MO, leaving behind her child, phone, and unanswered questions.</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/9juuazfs16ae171s425f53wli/w1920_h1080/9juuazfs16ae171s425f53wli.jpg"/>
+    <episode-num system="dd_progid">4232016</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261118110013 +0000" stop="20261118124518 +0000" channel="FREQ896">
+    <title lang="en">Love at First Like</title>
+    <desc lang="en">A journalist covering the Don Juan of dating apps ends up finding there's more than meets the eye.</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/vi0fx50evew71k7fz9xpdt7ym/w1920_h1080/vi0fx50evew71k7fz9xpdt7ym.jpg"/>
+    <episode-num system="dd_progid">9424685</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261118124518 +0000" stop="20261118143016 +0000" channel="FREQ896">
+    <title lang="en">The Best Version of Love</title>
+    <desc lang="en">Image upgrader Rebecca discovers the best version of herself might include stubborn client Clive.</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/xl3ekfku1j2o1dn7jbbc315or/w1920_h1080/xl3ekfku1j2o1dn7jbbc315or.jpg"/>
+    <episode-num system="dd_progid">9424692</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261118143016 +0000" stop="20261118161522 +0000" channel="FREQ896">
+    <title lang="en">Steal Your Heart</title>
+    <desc lang="en">A mix up leads Melissa to work with her CEO’s son Jake on an important jewelry line.</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/15wg44qzyunsj1cxak6ot4d64/w1920_h1080/15wg44qzyunsj1cxak6ot4d64.jpg"/>
+    <episode-num system="dd_progid">9424676</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261118104212 +0000" stop="20261118115534 +0000" channel="portraittv_amg30859c1_us">
+    <title lang="en">The Shop</title>
+    <desc lang="en">We’re back like we never left. JordanHowlett, FredWarner, HannahHidalgo, and UtkarshAmbudkar pulled up to TheShop and sat down with hosts Paul Rivera and Maverick Carter to discuss upbringings, mastering their crafts, adversity, staying motivated, and more.</desc>
+    <category lang="en">Charity Program</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg30859/resized_images/resized_0c821a9a2f1515b9a13c819c6435aea292c52e5cd2040227129ebd398b2072f8_c3c8a01f55114b328170da5edeccf286jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg30859c1_AV1r6ABrJkwa5rbAj3YPMZA_us</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+<programme start="20261118115534 +0000" stop="20261118131823 +0000" channel="portraittv_amg30859c1_us">
+    <title lang="en">The Shop</title>
+    <desc lang="en">The music and entertainment industry has shifted in 2025. Offset, FlaujaeJohnson, JID and MattFriend pulled up to TheShop and sat down with hosts Paul Rivera and Maverick Carter to discuss the evolving music landscape, why virality doesn’t equal success, cancel culture and more.</desc>
+    <category lang="en">Charity Program</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg30859/resized_images/resized_fb20644a230e4ba08cc706d55473e7daad473ff6ef742484edd6b6e154bfe31b_b7d53730d33d49d49e8f53a907db0b91jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg30859c1_A4faBrPc9YZSHg4nx2CHu1M_us</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+<programme start="20261118131823 +0000" stop="20261118141611 +0000" channel="portraittv_amg30859c1_us">
     <title lang="en">3G's</title>
-    <desc lang="en">Stand-up comic, actor, and tall queen Marcella Arguello roasts the boys for an hour straight, and Jesus teaches us the best way to hook up on a hike.</desc>
+    <desc lang="en">Nicky Paris defends la más toxica Britney Spears, Doknow reveals his dating requirements while Erik, Sasha and Jesus audition for life-changing rom-com roles.</desc>
     <category lang="en">Comedy</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg30859/resized_images/resized_fa781b1a6c60d89e09555b56678b7e7a3e65a80ca1e80d789e33ecaf624a2b5c_shortkinginterventionwithmarcellaaguellojpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">amg30859c1_ARUR7MbiQXSD2MmSdVGQ2S6_us</episode-num>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg30859/resized_images/resized_ff18ddf8ad1e4439ce3542bb5807a8375b5e0e98e7ae03a7358496060eeab290_doknownickyparisjpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg30859c1_ATnoEgLm7TVQRDNVfHFUv7V_us</episode-num>
     <rating>
       <value>TV-MA</value>
     </rating>
   </programme>
-<programme start="20261118060405 +0000" stop="20261118073855 +0000" channel="theasylummoviechannel_tasmc_US">
-    <title lang="en">Hillside Cannibals</title>
-    <desc lang="en">A true story that inspired THE HILLS HAVE EYES of a family who lived in caves and ate the flesh of passersby.</desc>
-    <category lang="en">Horror</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/tasmc/resized_15217cec0ae34e90db7e94b3dfadf96a9b017f7e7c89549a31b8b728084935af_hillsidecannibals1920x1080jpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">tasmc_HillsideCannibals_Feature_2997_20_US</episode-num>
+<programme start="20261118141611 +0000" stop="20261118151757 +0000" channel="portraittv_amg30859c1_us">
+    <title lang="en">3G's</title>
+    <desc lang="en">Comedian Jazmyn W. finds out skinny legs are not it and actor Arturo Castro explains how he lost his Guatemalan accent while Erik, Sasha, &amp; Jesus debate the corniess of Lin Manuel Miranda.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg30859/resized_images/resized_910032b911e2a22ef28183c05ab269abc42927aa58e1e94bc58e6122aa6ed038_arturocastrojazmynwandthegspotjpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg30859c1_ARBXsuqRp2HL4gXMmPGkRV4_us</episode-num>
     <rating>
       <value>TV-MA</value>
+    </rating>
+  </programme>
+<programme start="20261118151757 +0000" stop="20261118154311 +0000" channel="portraittv_amg30859c1_us">
+    <title lang="en">Go Big or Go Home</title>
+    <desc lang="en">Chris Spencer quizzes people in downtown Atlanta for a chance to win up to $600 in prize cash.</desc>
+    <category lang="en">Game</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg30859/resized_images/resized_5d8d4952be468e35fecf0147b66b97a95fa4206ca6bfc211345597b48e6faca9_gboghlandscapepng_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg30859c1_AGS9ERaBC1wnrw1JoCaNYB6_us</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+<programme start="20261118154311 +0000" stop="20261118160702 +0000" channel="portraittv_amg30859c1_us">
+    <title lang="en">Go Big or Go Home</title>
+    <desc lang="en">Chris Spencer quizzes people in downtown Atlanta for a chance to win up to $600 in prize cash.</desc>
+    <category lang="en">Game</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg30859/resized_images/resized_e92e04ee1dac86f18d72db9fff14e577ea2abfb06f13ee56616ee8069da5160d_gboghlandscapepng_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg30859c1_AHv1TpS4zF7EfoRrpECaSMN_us</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+<programme start="20261118110000 +0000" stop="20261118123155 +0000" channel="theasylummoviechannel_tasmc_US">
+    <title lang="en">End Of The World</title>
+    <desc lang="en">As a mass of solar storms causes tsunamis, volcanoes, and flooding, a family flees to high-elevation caves.</desc>
+    <category lang="en">Action</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/tasmc/resized_f56d14518c54ccff088d1640da6522a310dd612f886fb62ce2106e9d9e841355_endoftheworld1920x1080jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">tasmc_EndOfTheWorld_Feature_2997_20_Amagi_US</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261118123155 +0000" stop="20261118141151 +0000" channel="theasylummoviechannel_tasmc_US">
+    <title lang="en">Ice Sharks</title>
+    <desc lang="en">As scientists study the effects of climate change on sea life, a new breed of shark breaks through.</desc>
+    <category lang="en">Action</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/tasmc/resized_230fa5f4601bcb035d4d0acb791a6956f15b0b116422b1ac36a941954ce973b6_icesharks1920x1080jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">tasmc_IceSharks_Feature_2997_20_Clean_US</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261118141151 +0000" stop="20261118155457 +0000" channel="theasylummoviechannel_tasmc_US">
+    <title lang="en">Bermuda Tentacles</title>
+    <desc lang="en">When Air Force One crashes in the Bermuda Triangle, a Navy rescue team awakens a deadly creature.</desc>
+    <category lang="en">Action</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/tasmc/resized_c2568a02b7b69c2e5880904e8a4a44b360f9485a4208740926764cf9103bb5de_bermudatentacles1920x1080jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">tasmc_BermudaTentacles_Feature_2997_20_Amagi_US</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261118155457 +0000" stop="20261118173551 +0000" channel="theasylummoviechannel_tasmc_US">
+    <title lang="en">Sharknado 2: The Second One</title>
+    <desc lang="en">As Sharknados tear through New York, no vehicle, building, or national monument is safe.</desc>
+    <category lang="en">Action</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/tasmc/resized_3f8aa140ecdbedf37aa47fe4910872cf5a9dbd4ee4eb5a66693746f8e1daadae_sharkwarning1920x1080jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">tasmc_Sharknado2TheSecondOne_Feature_2997_20_Amagi_US</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261118105100 +0000" stop="20261118130417 +0000" channel="tribeca_tribe_US">
+    <title lang="en">One Chance</title>
+    <desc lang="en">The true story of Paul Potts, a shy, bullied shop assistant by day and an amateur opera singer by night who became a phenomenon after being chosen for -- and ultimately winning -- Britain's Got Talent (2007)</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg02042/resized_images/resized_949cc99e638c9d59a332e32cccbda5917fb8b58a1e212947f7ec67150c77149a_fmp21118png_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg02042c61_ALvGE4Hww2GQUXtrJUkHsUZ_us</episode-num>
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+<programme start="20261118130417 +0000" stop="20261118152402 +0000" channel="tribeca_tribe_US">
+    <title lang="en">Breakfast Of Champions</title>
+    <desc lang="en">A satire on American consumerism.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg02042/resized_images/resized_689f905425e2e9718178df2b44046e9ac29f6ca461d3f644d17cac6207324d65_fmp109693png_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg02042c61_AYUCsv6uLBVM7qEdZJ5uPQJ_us</episode-num>
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+<programme start="20261118152402 +0000" stop="20261118173116 +0000" channel="tribeca_tribe_US">
+    <title lang="en">Blind Dating</title>
+    <desc lang="en">A young blind man (Pine) thinks he's found love with an Indian woman (Jay) though their relationship is fraught with cultural differences</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg02042/resized_images/resized_ce9767f1d05a7a4c73a96ce3930b2333155b4d86c4a60af813bb47ad78a3614e_fmp21116png_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg02042c61_AGCkBPfQvNmmNwZYdASBWxZ_us</episode-num>
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+<programme start="20261118100505 +0000" stop="20261118121012 +0000" channel="us-cinedigm_entertainment_corp_screamboxtv_1">
+    <title lang="en">Elvira's Movie Macabre: The Devil’s Wedding Night (Edited Version)</title>
+    <desc lang="en">Elvira presents a classic vampire tale following Lady Dracula as she lures unsuspecting girls to her castle so she can murder them.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/1845/lg/88167e/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-CineverseEntertainmentCorp-117520302-52541967-52525612</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+<programme start="20261118121012 +0000" stop="20261118140516 +0000" channel="us-cinedigm_entertainment_corp_screamboxtv_1">
+    <title lang="en">Elvira's Movie Macabre: The Doomsday Machine</title>
+    <desc lang="en">Elvira showcases the 1972 Sci-Fi Disaster film The Doomsday Machine which follows a group on a spaceship who witnessed the earth being destroyed.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/1845/lg/88167e/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-CineverseEntertainmentCorp-117520303-52541967-52525612</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261118140516 +0000" stop="20261118161018 +0000" channel="us-cinedigm_entertainment_corp_screamboxtv_1">
+    <title lang="en">Elvira's Movie Macabre: Frankenstein’s Castle Of Freaks (Edited Version)</title>
+    <desc lang="en">Elvira showcases this classic horror film where Count Frankenstein brings a Neanderthal man back to life.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/1845/lg/88167e/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-CineverseEntertainmentCorp-117520306-52541967-52525612</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+<programme start="20261118110000 +0000" stop="20261118120000 +0000" channel="us-ion_ion_plus_1">
+    <title lang="en">The Listener</title>
+    <desc lang="en">The murder of a British spy may be linked to an adulterous dating site.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/378/lg/165a68/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120755119-56796978-56763537</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261118120000 +0000" stop="20261118130000 +0000" channel="us-ion_ion_plus_1">
+    <title lang="en">The Listener</title>
+    <desc lang="en">Toby and Michelle team up with a con artist to catch a human trafficker.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/378/lg/165a68/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120755151-56796978-56763537</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261118130000 +0000" stop="20261118140000 +0000" channel="us-ion_ion_plus_1">
+    <title lang="en">The Listener</title>
+    <desc lang="en">An actor is murdered while filming an alleged cursed horror movie.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/378/lg/165a68/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120755187-56796978-56763537</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261118140000 +0000" stop="20261118150000 +0000" channel="us-ion_ion_plus_1">
+    <title lang="en">The Listener</title>
+    <desc lang="en">The police superintendent interferes with the capture of a murder suspect.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/378/lg/165a68/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120755223-56796978-56763537</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261118150000 +0000" stop="20261118160000 +0000" channel="us-ion_ion_plus_1">
+    <title lang="en">The Listener</title>
+    <desc lang="en">Toby struggles with PTSD after killing a suspect while the IIB attempts to stop an assassination.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/378/lg/165a68/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120755253-56796978-56763537</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261118160000 +0000" stop="20261118170000 +0000" channel="us-ion_ion_plus_1">
+    <title lang="en">The Listener</title>
+    <desc lang="en">A serial killer imitates a past murderer; while on maternity leave, Michelle must return to the IIB in order to save her reputation.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/378/lg/165a68/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120755281-56783463-56763537</episode-num>
+    <rating>
+      <value>TV-14</value>
     </rating>
   </programme>
 </tv>
