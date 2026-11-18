@@ -31,6 +31,7 @@ CATEGORY_EXCLUDE_LIST = [
     "Talk Shows",
     "Ambiance",
     "Kung Fu Flicks",
+    "Bravo Vault",
     "Sports",
     "Combat Sports",
     "Travel",
