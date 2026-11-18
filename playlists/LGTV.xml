@@ -1,63 +1,373 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+<channel id="us-ion_ion_plus_1">
+    <display-name>ION Plus</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/378/lg/165a68/LG-Logo-PNG-100x100_v1.png"/>
+  </channel>
+<channel id="99992272">
+    <display-name>FilmRise Free Movies</display-name>
+    <icon src="https://image.xumo.com/v1/channels/channel/99992272/400x200.png?type=white_cropped"/>
+  </channel>
+<channel id="freemoviesplus_amg02042c1eng_US">
+    <display-name>Free Movies Plus</display-name>
+    <icon src="https://preview-amagistv-amg02042-cloudport.now.amagi.tv/Images/S3/FMPLOGOLG.png"/>
+  </channel>
 <channel id="theasylummoviechannel_tasmc_US">
     <display-name>The Asylum</display-name>
     <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Asylum_Movie_Channel_Logo_LG_400x200.png"/>
+  </channel>
+<channel id="us-cinedigm_entertainment_corp_screamboxtv_1">
+    <display-name>Screambox TV</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/1845/lg/88167e/LG-Logo-PNG-100x100_v1.png"/>
+  </channel>
+<channel id="FREQ896">
+    <display-name>Dove Channel</display-name>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/cineverse/channels/dove-400x200.png"/>
+  </channel>
+<channel id="tribeca_tribe_US">
+    <display-name>Tribeca</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/tribeca/Tribeca_Logo_800w200h.png"/>
   </channel>
 <channel id="portraittv_amg30859c1_us">
     <display-name>Portrait TV</display-name>
     <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Portrait-TV_Logo_400x200.png"/>
   </channel>
-<channel id="FREQ1287-US">
-    <display-name>On Patrol: Live</display-name>
-    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/reelz/channels/1287-400x200.png"/>
-  </channel>
-<channel id="99993006">
-    <display-name>World's Most Evil Killers</display-name>
-    <icon src="https://image.xumo.com/v1/channels/channel/99993006/400x200.png?type=white_cropped"/>
+<channel id="hersphere_movsf_US">
+    <display-name>Hersphere</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/hersphere/HerSphere_LGLaunch_Guide_Logo_White_Stacked_800x200.png"/>
   </channel>
 <channel id="99992255">
     <display-name>Forensic Files</display-name>
     <icon src="https://image.xumo.com/v1/channels/channel/99992255/400x200.png?type=white_cropped"/>
   </channel>
-<programme start="20261117233844 +0000" stop="20261118000629 +0000" channel="99992255">
+<programme start="20261118010326 +0000" stop="20261118013111 +0000" channel="99992255">
     <title lang="en">Forensic Files</title>
-    <desc lang="en">In 1995, Palm Beach waitress Denise O'Neill is abducted and murdered. Her neighbor Luis Caballero arouses suspicions by his odd behavior toward TV crews covering the crime.</desc>
+    <desc lang="en">In 2008, college co-ed Jenna Verhaalen was found dead in her Bryan, Texas apartment and petechial hemorrhages in her eyes indicated that she was strangled.</desc>
     <category lang="en">ETC</category>
-    <icon src="https://image.xumo.com/v1/assets/asset/XM03NWPQYXLO1Z/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992255%2F768x432.jpg%3Ftype%3DchannelTile"/>
-    <episode-num system="dd_progid">XM03NWPQYXLO1Z</episode-num>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM05H6YKHLOHMO/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992255%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM05H6YKHLOHMO</episode-num>
     <rating>
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20261117234113 +0000" stop="20261118003500 +0000" channel="99993006">
-    <title lang="en">World's Most Evil Killers</title>
-    <desc lang="en">Two criminals, who met in prison while serving time for previous murders, struck up a friendship, which had deadly consequences.</desc>
+<programme start="20261118013111 +0000" stop="20261118015922 +0000" channel="99992255">
+    <title lang="en">Forensic Files</title>
+    <desc lang="en">On a cold December night in 1993, Rose Larner stopped in a convenience store on her way to her boyfriend's house. She was never seen or heard from again. A tiny clue found years later revealed a tragic tale of drugs, romance and revenge.</desc>
     <category lang="en">ETC</category>
-    <icon src="https://image.xumo.com/v1/assets/asset/XM0NAZI9E3JZCH/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993006%2F768x432.jpg%3Ftype%3DchannelTile"/>
-    <episode-num system="dd_progid">XM0NAZI9E3JZCH</episode-num>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM00XFEO4Q0UWP/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992255%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM00XFEO4Q0UWP</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261118015922 +0000" stop="20261118022733 +0000" channel="99992255">
+    <title lang="en">Forensic Files</title>
+    <desc lang="en">A 1995 fire razes the mansion of a Kansas doctor, killing two of her three children; disturbing accounts from an ex-husband lead investigators to believe the doctor set the blaze herself.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM03XTM5Z0B78C/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992255%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM03XTM5Z0B78C</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261118022733 +0000" stop="20261118025644 +0000" channel="99992255">
+    <title lang="en">Forensic Files</title>
+    <desc lang="en">A boy is mysteriously shot in his father's gun club. Ballistics, laser technology, scale models and animation reveal the bullet's amazing path and who was responsible.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM09JTUOQ6XGBU/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992255%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM09JTUOQ6XGBU</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261118025644 +0000" stop="20261118032501 +0000" channel="99992255">
+    <title lang="en">Forensic Files</title>
+    <desc lang="en">The crime scene was especially violent: A couple had been shot to death. Was their teenage daughter complicit?</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0DOTHPMYAGOA/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992255%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM0DOTHPMYAGOA</episode-num>
     <rating>
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261117220842 +0000" stop="20261118005146 +0000" channel="FREQ1287-US">
-    <title lang="en">On Patrol: Live</title>
-    <desc lang="en">Officers in Spotsylvania County, Va., are involved in a high-speed pursuit.</desc>
+<programme start="20261118032501 +0000" stop="20261118035407 +0000" channel="99992255">
+    <title lang="en">Forensic Files</title>
+    <desc lang="en">The police investigate when a severed leg is discovered among garbage. Conventional means of identifying the victim are impossible, leading investigators to rely on DNA, forensic anthropology and toxicology.</desc>
     <category lang="en">ETC</category>
-    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/1sbx1r7meeaft1n4z74vkvd5n/w1920_h1080/1sbx1r7meeaft1n4z74vkvd5n.jpg"/>
-    <episode-num system="dd_progid">7329393</episode-num>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0FQPDUPXC4VL/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992255%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM0FQPDUPXC4VL</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261118035407 +0000" stop="20261118042630 +0000" channel="99992255">
+    <title lang="en">Forensic Files</title>
+    <desc lang="en">In one of the most brazen crimes of the 20th century, the chairman of the Coors Brewing Company was kidnapped.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM00OQJO48L3VU/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992255%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM00OQJO48L3VU</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261118042630 +0000" stop="20261118050000 +0000" channel="99992255">
+    <title lang="en">Forensic Files</title>
+    <desc lang="en">Timothy Wilson Spencer was identified as the man who raped and strangled five young women in Virginia. With the use of DNA profiling, an innocent man is freed and the real killer is convicted.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM01YDFH8FZC1D/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992255%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM01YDFH8FZC1D</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261118050000 +0000" stop="20261118052906 +0000" channel="99992255">
+    <title lang="en">Forensic Files</title>
+    <desc lang="en">When more than 700 Oregonians contracted food poisoning from a unique strain of salmonella in 1984, investigators uncovered a secret plot to influence local elections.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM03AC2V2ZJE58/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992255%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM03AC2V2ZJE58</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261118052906 +0000" stop="20261118055652 +0000" channel="99992255">
+    <title lang="en">Forensic Files</title>
+    <desc lang="en">Volunteers and police spend weeks searching for a missing girl. A psychic later leads them to a field where the body was found.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0MUXU4JY3NAP/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992255%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM0MUXU4JY3NAP</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261118055652 +0000" stop="20261118062503 +0000" channel="99992255">
+    <title lang="en">Forensic Files</title>
+    <desc lang="en">California police had several suspects in the robbery and brutal murder of an elderly couple. Ten years later, a determined forensic scientist used material from a dentist's office to uncover ballistic evidence that had been overlooked.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM032Y0I8CDTVD/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992255%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM032Y0I8CDTVD</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261118062503 +0000" stop="20261118065314 +0000" channel="99992255">
+    <title lang="en">Forensic Files</title>
+    <desc lang="en">When two women from the same town were murdered in the same way, police feared a serial killer was on the loose. At first they thought the victims had nothing in common until they found tiny clues linking them to the same man.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0NM0M5QEOV4L/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992255%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM0NM0M5QEOV4L</episode-num>
     <rating>
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261117233039 +0000" stop="20261117235623 +0000" channel="portraittv_amg30859c1_us">
-    <title lang="en">Go Big or Go Home</title>
-    <desc lang="en">Chris Spencer quizzes people in downtown Atlanta for a chance to win up to $600 in prize cash.</desc>
-    <category lang="en">Game</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg30859/resized_images/resized_4d0bade408380e3ee0c2d87dbceaa147b2655a55441ce9de6e944d4d4de9bc06_gboghlandscapepng_768_432.jpeg"/>
-    <episode-num system="dd_progid">amg30859c1_A39JX9MDrGTf61PT9Y5qQ3v_us</episode-num>
+<programme start="20261118065314 +0000" stop="20261118072100 +0000" channel="99992255">
+    <title lang="en">Forensic Files</title>
+    <desc lang="en">The victim has been stabbed more than thirty times, and the crime scene is awash with her blood. Near her head, police discover a distinctive button with strands of thread still attached.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0CNV92A2H3V2/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992255%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM0CNV92A2H3V2</episode-num>
     <rating>
-      <value>PG</value>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261118011751 +0000" stop="20261118030410 +0000" channel="99992272">
+    <title lang="en">Gang of Roses</title>
+    <desc lang="en">A gang of gold-hunting outlaws, headed by the ruthless Left Eye Watkins (Bobby Brown), takes over the peaceful town of Flatridge, tearing the sleepy outpost to shreds as they search for riches. They murder a can-can girl, who is the sister of Rachel (Monica Calhoun), the onetime leader of a notorious all-girl gang. Rachel then rounds up her four old associates, and they seek revenge for her sister. Using teamwork and a sassy attitude, Rachel's gang goes up against Watkins' tough crew.</desc>
+    <category lang="en">Movies</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM07AHMOYNLL2I/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992272%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM07AHMOYNLL2I</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261118030410 +0000" stop="20261118050000 +0000" channel="99992272">
+    <title lang="en">Going All The Way [Broadcast Edit]</title>
+    <desc lang="en">Korean War--era veterans and ex-classmates "Gunner" Casselman (Ben Affleck) and "Sonny" Burns (Jeremy Davies) reunite upon their return home. Gunner, who spent the war years abroad, is trying to convince his mother that his gal Marty (Rachel Weisz) is good enough for him, while Sonny, who was stationed stateside, is torn between loyal Buddy (Amy Locane) and tempting Gale Ann (Rose McGowan). As they commiserate, the men realize that they're outgrowing the lives they lived before the war.</desc>
+    <category lang="en">Movies</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0BAOMI1YUWXS/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992272%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM0BAOMI1YUWXS</episode-num>
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+<programme start="20261118050000 +0000" stop="20261118070018 +0000" channel="99992272">
+    <title lang="en">Heathers [Broadcast Edit]</title>
+    <desc lang="en">Veronica (Winona Ryder) is part of the most popular clique at her high school, but she disapproves of the other girls' cruel behavior. When Veronica and her new boyfriend, J.D. (Christian Slater), confront clique leader Heather Chandler (Kim Walker) and accidentally poison her, they make it appear a suicide. Soon Veronica realizes that J.D. is intentionally killing students he does not like. She races to stop J.D. while also clashing with the clique's new leader, Heather Duke (Shannen Doherty).</desc>
+    <category lang="en">Movies</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0VHFQ9R30EY9/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992272%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM0VHFQ9R30EY9</episode-num>
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+<programme start="20261118010006 +0000" stop="20261118024523 +0000" channel="FREQ896">
+    <title lang="en">A Missed Connection</title>
+    <desc lang="en">After finding a spark with a woman on train platform, a photographer posts a missed connection in newspaper.</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/7283391225128297476/solid/rectangle/w1920_h1080/14ppoop9zjjn613rzdbe4dqpzk.jpg"/>
+    <episode-num system="dd_progid">9424359</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261118024523 +0000" stop="20261118043508 +0000" channel="FREQ896">
+    <title lang="en">How to Find Forever</title>
+    <desc lang="en">When designing a proposal for someone else, will Marley find her own match in the process?</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/18angh399qgzj1pvqwvw7rbuu/w1920_h1080/18angh399qgzj1pvqwvw7rbuu.jpg"/>
+    <episode-num system="dd_progid">9424384</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261118043508 +0000" stop="20261118061539 +0000" channel="FREQ896">
+    <title lang="en">Mistletoe Mixup</title>
+    <desc lang="en">A workaholic's Christmas wish goes sideways when the two men she falls for turn out to be brothers.</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/7478594911172838222/solid/rectangle/w1920_h1080/1jr0ippj85yfv12f3thq5v294d.jpg"/>
+    <episode-num system="dd_progid">9424362</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261118061539 +0000" stop="20261118080005 +0000" channel="FREQ896">
+    <title lang="en">Falling For the Competition</title>
+    <desc lang="en">A local mom’s and dad’s group clash for the prestigious Modern Parenting Group of the Year award.</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/cznemzqlnhs7179to8ucn06q0/w1920_h1080/cznemzqlnhs7179to8ucn06q0.jpg"/>
+    <episode-num system="dd_progid">9424361</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261117235811 +0000" stop="20261118022740 +0000" channel="freemoviesplus_amg02042c1eng_US">
+    <title lang="en">Sabotage</title>
+    <desc lang="en">Members of an elite DEA task force find themselves being taken down one by one after they rob a drug</desc>
+    <category lang="en">Action</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg02042/resized_images/resized_4d8110fc9f448b8dfdc6a67cb372380913753b2789c07af5cd658698975470e8_fmp2216png_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg02042c32_AYaEqAGNufgd7Vfa8q9AWPc_us</episode-num>
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+<programme start="20261118022740 +0000" stop="20261118051210 +0000" channel="freemoviesplus_amg02042c1eng_US">
+    <title lang="en">Point Break</title>
+    <desc lang="en">An F.B.I. Agent goes undercover to catch a gang of surfers who may be bank robbers</desc>
+    <category lang="en">Action</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg02042/resized_images/resized_c9e75306c3d11e9e7b811d147c7dbb6a802c8e58878e728bac48ee4452d08ae0_fmp21157png_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg02042c32_AMwXjkj1v2e5Sn3kfneCYnv_us</episode-num>
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+<programme start="20261118051210 +0000" stop="20261118080423 +0000" channel="freemoviesplus_amg02042c1eng_US">
+    <title lang="en">The Infiltrator</title>
+    <desc lang="en">A U.S. Customs official uncovers a money laundering scheme involving Colombian drug lord Pablo Escobar.</desc>
+    <category lang="en">Movies</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg02042/resized_images/resized_2baf2b5170ac4f42957a64a63c0047a66ad6e16f916dfd133b1f91e9e12b659a_fmp21047png_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg02042c32_ARNryKbR6eyBfmKGN8jycg7_us</episode-num>
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+<programme start="20261118010158 +0000" stop="20261118015427 +0000" channel="hersphere_movsf_US">
+    <title lang="en">Family Law</title>
+    <desc lang="en">Abigail represents a former client and friend who happens to be an anti-vaxxer.</desc>
+    <category lang="en">Drama</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/MOVSF/resized_370d6b927fc246b3579bd2b77fe4243e62084f6762e987cd1f8fc23653339c42_familylawlandscapejpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">MOVSF_FMLY008_US</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261118015427 +0000" stop="20261118022147 +0000" channel="hersphere_movsf_US">
+    <title lang="en">Weeds</title>
+    <desc lang="en">Nancy digs deeper into the drug world and finds comfort in an unlikely family member.</desc>
+    <category lang="en">Drama</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/MOVSF/resized_4608335a5ff68f7c1b68d2cee5e553fbeac914bcfbd64a10acae6df9c82d3090_weedslandscapejpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">MOVSF_WDSEDT051_US</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261118022147 +0000" stop="20261118024851 +0000" channel="hersphere_movsf_US">
+    <title lang="en">Weeds</title>
+    <desc lang="en">Nancy pays the imprisoned Guillermo a secret visit and Shane leaves to live with Nancy's sister.</desc>
+    <category lang="en">Drama</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/MOVSF/resized_4608335a5ff68f7c1b68d2cee5e553fbeac914bcfbd64a10acae6df9c82d3090_weedslandscapejpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">MOVSF_WDSEDT052_US</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261118024851 +0000" stop="20261118031607 +0000" channel="hersphere_movsf_US">
+    <title lang="en">Weeds</title>
+    <desc lang="en">Jill pays Nancy a surprise visit. Meanwhile, Celia gets sent back to the U.S.</desc>
+    <category lang="en">Drama</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/MOVSF/resized_4608335a5ff68f7c1b68d2cee5e553fbeac914bcfbd64a10acae6df9c82d3090_weedslandscapejpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">MOVSF_WDSEDT053_US</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261118031607 +0000" stop="20261118034309 +0000" channel="hersphere_movsf_US">
+    <title lang="en">Weeds</title>
+    <desc lang="en">Nancy is visited by DEA agent Roy Till who has gone rogue and homecomer Celia moves into Nancy's garage.</desc>
+    <category lang="en">Drama</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/MOVSF/resized_4608335a5ff68f7c1b68d2cee5e553fbeac914bcfbd64a10acae6df9c82d3090_weedslandscapejpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">MOVSF_WDSEDT054_US</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261118034309 +0000" stop="20261118041024 +0000" channel="hersphere_movsf_US">
+    <title lang="en">Weeds</title>
+    <desc lang="en">Nancy talks with her obstetrician about ending the pregnancy. Shane needs help to get his weed back.</desc>
+    <category lang="en">Drama</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/MOVSF/resized_4608335a5ff68f7c1b68d2cee5e553fbeac914bcfbd64a10acae6df9c82d3090_weedslandscapejpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">MOVSF_WDSEDT055_US</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261118041024 +0000" stop="20261118050239 +0000" channel="hersphere_movsf_US">
+    <title lang="en">Private Eyes</title>
+    <desc lang="en">When someone takes a shot at Angie’s nemesis, he fakes his own death and hires Angie and Shade to investigate.</desc>
+    <category lang="en">Drama</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/MOVSF/resized_3e3dcc92cea0e2d4b27deab80e34a2d39b782f54cfefcb2c55613af788301e2e_privateeyeslandscapejpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">MOVSF_PRVE040_US</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261118050239 +0000" stop="20261118055305 +0000" channel="hersphere_movsf_US">
+    <title lang="en">Private Eyes</title>
+    <desc lang="en">Shade and Angie investigate the seemingly paranoid claims of a wealthy and ailing patriarch.</desc>
+    <category lang="en">Drama</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/MOVSF/resized_3e3dcc92cea0e2d4b27deab80e34a2d39b782f54cfefcb2c55613af788301e2e_privateeyeslandscapejpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">MOVSF_PRVE041_US</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261118055305 +0000" stop="20261118064535 +0000" channel="hersphere_movsf_US">
+    <title lang="en">Private Eyes</title>
+    <desc lang="en">Don finds himself the main suspect in a robbery that took place at a store during a food truck festival.</desc>
+    <category lang="en">Drama</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/MOVSF/resized_3e3dcc92cea0e2d4b27deab80e34a2d39b782f54cfefcb2c55613af788301e2e_privateeyeslandscapejpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">MOVSF_PRVE042_US</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261118064535 +0000" stop="20261118073805 +0000" channel="hersphere_movsf_US">
+    <title lang="en">Family Law</title>
+    <desc lang="en">The lawyers represent the jilted lover in a poly relationship.</desc>
+    <category lang="en">Drama</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/MOVSF/resized_370d6b927fc246b3579bd2b77fe4243e62084f6762e987cd1f8fc23653339c42_familylawlandscapejpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">MOVSF_FMLY007_US</episode-num>
+    <rating>
+      <value>TV-14</value>
     </rating>
   </programme>
 <programme start="20261117235623 +0000" stop="20261118013842 +0000" channel="portraittv_amg30859c1_us">
@@ -70,12 +380,252 @@
       <value>PG-13</value>
     </rating>
   </programme>
-<programme start="20261117233355 +0000" stop="20261118010857 +0000" channel="theasylummoviechannel_tasmc_US">
-    <title lang="en">Tomb Invader</title>
-    <desc lang="en">Determined to find out why her mother disappeared, an adventurer enters the dangerous Tomb of Quin Shi Huang.</desc>
+<programme start="20261118013842 +0000" stop="20261118032140 +0000" channel="portraittv_amg30859c1_us">
+    <title lang="en">The Love Letter</title>
+    <desc lang="en">Portrait TV, the premium home for Gen Next, bridges the gap between icons and innovators. We don't just stream culture; we frame it.</desc>
+    <category lang="en">Talk show &amp; Entertainment</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg30859/resized_images/resized_89f88ff861ab5b405b383ae9b3ad02d3163775039cb604a8107cef939b6831db_theloveletterlandscapejpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg30859c1_A3arRcnaMEpvbuPWQ9f8MjJ_us</episode-num>
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+<programme start="20261118032140 +0000" stop="20261118043402 +0000" channel="portraittv_amg30859c1_us">
+    <title lang="en">The Shop</title>
+    <desc lang="en">We’re back with our final episode of the season, and we got an incredible group together for this one.This week Paul Rivera and Maverick Carter sit down with Dana White, Sam Jay, Brent Faiyaz, Sean O’Malley, Wiz Khalifa, Steve-O and Sloane Stephens. Dana talks about what makes the UFC special and different from other sports, building the brand and not caring what others think. Sam Jay opens up about her growth as a comedian, stand-up stories while coming up in Boston and always being present. Brent discusses starting as a rapper before singing, his writing approach and being a music executive. O’Malley talks about how he first got into fighting, his preparation as a professional and how that approach informs his lifestyle. Wiz breaks down how he brings people together through music, why he first got into sparring and the benefits of martial arts. Steve-O reminisces on the Jackass era, craving attention and how he’s evolved over the years. Sloane shares tennis stories, from her longest match to how she breaks down her opponents, and talks about taking her mom to a UFC event. A range of great conversations is throughout this one.</desc>
+    <category lang="en">Charity Program</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg30859/resized_images/resized_1ceaece1e95b33b90704581fdbd1a8d2fa378ea676603a9e3233940498117ff0_501d6d655ba14318b7cbadf693544173png_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg30859c1_AJy4qaKzVXEctKvQq1MuX8n_us</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+<programme start="20261118043402 +0000" stop="20261118052539 +0000" channel="portraittv_amg30859c1_us">
+    <title lang="en">The Shop</title>
+    <desc lang="en">The wait is over. Grab a virtual seat in #TheShop for the Season 7 premiere with co-hosts Maverick Carter and Paul Rivera as they're joined by entrepreneur and investor Nelly, back-to-back WNBA Champion, 6x WNBA All-Star and Naismith Hall of Famer Becky Hammon and actor, comedian, director and producer Cedric The Entertainer. The crew discusses snubs, disses, respect, disrespect, business and everything in between.</desc>
+    <category lang="en">Charity Program</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg30859/resized_images/resized_994e467e449f32bab4f62eec584806fbf083246c8e15ed4008595b52c8c2f143_fd95e98c110f460faa801d9c2ffdc8c7jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg30859c1_AL4P4c8dRhNZYu1qNiS22Mb_us</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+<programme start="20261118052539 +0000" stop="20261118061849 +0000" channel="portraittv_amg30859c1_us">
+    <title lang="en">3G's</title>
+    <desc lang="en">Erik and Sasha step into the supernatural realm with the guidance of psychic medium AJ Barrera, while Jesus proves chivalry is still dead in these Hollywood streets.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg30859/resized_images/resized_0be67679d2cab837a597b44ab2fd854494b6702a7bc53636e4589d374dd6beab_psychicmediumajbarrerajoinsthegsandshtgetsrealjpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg30859c1_ANPQr4716WESdRVgs123eJa_us</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+<programme start="20261118061849 +0000" stop="20261118071847 +0000" channel="portraittv_amg30859c1_us">
+    <title lang="en">3G's</title>
+    <desc lang="en">Stand-up comic, actor, and tall queen Marcella Arguello roasts the boys for an hour straight, and Jesus teaches us the best way to hook up on a hike.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg30859/resized_images/resized_fa781b1a6c60d89e09555b56678b7e7a3e65a80ca1e80d789e33ecaf624a2b5c_shortkinginterventionwithmarcellaaguellojpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg30859c1_ARUR7MbiQXSD2MmSdVGQ2S6_us</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+<programme start="20261118010857 +0000" stop="20261118015824 +0000" channel="theasylummoviechannel_tasmc_US">
+    <title lang="en">Disaster Strike Force</title>
+    <desc lang="en">Oahu’s volcanic disaster becomes a global threat.</desc>
     <category lang="en">Action</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/tasmc/resized_895adb80d152ca54a00da1ef4b8c20a59d455b1c166533c4d9e7f238ed808664_tombinvader1920x1080jpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">tasmc_TombInvader_Feature_2997_20_US</episode-num>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/tasmc/resized_28a83d1bc180f8cba2830291898d2f0a54731ebf029f0fb4720dd07537941f72_disasterstrikeforce960x540jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">tasmc_DisasterStrikeForce_EP2_Feature_2997_20_US</episode-num>
+    <rating>
+      <value>TV14</value>
+    </rating>
+  </programme>
+<programme start="20261118015824 +0000" stop="20261118024727 +0000" channel="theasylummoviechannel_tasmc_US">
+    <title lang="en">Z Nation</title>
+    <desc lang="en">Warren's dream leads our heroes back to MERCY LABS.</desc>
+    <category lang="en">Action</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/tasmc/resized_1b5e1129e10e2f9f8fb757867c26572d46cc47241885862393a3684c10c9a4ca_stationcoverart1920x1080lgjpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">tasmc_ZNation_411_2997_20_US</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261118024727 +0000" stop="20261118042454 +0000" channel="theasylummoviechannel_tasmc_US">
+    <title lang="en">Robotapocalypse</title>
+    <desc lang="en">An expert hacker tries to stop a powerful, sentient A.I. as it takes over the world's military.</desc>
+    <category lang="en">Action</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/tasmc/resized_020fe39ee36b59bd4e4af2f165fe682d72278ae76150387cda2e4067c6d1c36a_robotapocalypse1920x1080jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">tasmc_Robotapocalypse_FEATURE_2997_20_US</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261118042454 +0000" stop="20261118060405 +0000" channel="theasylummoviechannel_tasmc_US">
+    <title lang="en">Hold Your Breath</title>
+    <desc lang="en">The urban legend is true. As friends wander a cemetery, a killer's ghost hops bodies, killing them one by one.</desc>
+    <category lang="en">Horror</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/tasmc/resized_a285e9d9d3a54d062d102db607dc64d95f5b6eac710c993626698fbb100eae08_holdyourbreath1920x1080jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">tasmc_HoldYourBreath_Feature_2997_20_Clean_US</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261118060405 +0000" stop="20261118073855 +0000" channel="theasylummoviechannel_tasmc_US">
+    <title lang="en">Hillside Cannibals</title>
+    <desc lang="en">A true story that inspired THE HILLS HAVE EYES of a family who lived in caves and ate the flesh of passersby.</desc>
+    <category lang="en">Horror</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/tasmc/resized_15217cec0ae34e90db7e94b3dfadf96a9b017f7e7c89549a31b8b728084935af_hillsidecannibals1920x1080jpg_768_432.jpeg"/>
+    <episode-num system="dd_progid">tasmc_HillsideCannibals_Feature_2997_20_US</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+<programme start="20261117232341 +0000" stop="20261118014022 +0000" channel="tribeca_tribe_US">
+    <title lang="en">Half Nelson</title>
+    <desc lang="en">An inner-city junior high school teacher with a drug habit forms an unlikely friendship with one of his students</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg02042/resized_images/resized_4e0ef264ed4188601b27d8ff9b7fa098aa4d69eb9e22b0b25c93e1547efeb8d5_fmp21053png_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg02042c61_A8BpdpR9z2aGQ4G1EMBzgMg_us</episode-num>
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+<programme start="20261118014022 +0000" stop="20261118035024 +0000" channel="tribeca_tribe_US">
+    <title lang="en">A Fantastic Fear Of Everything</title>
+    <desc lang="en">A writer becomes paranoid about his own life.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg02042/resized_images/resized_fb90396ae256b4ab0ccc784d52226290d4adf526492b5b8f7e29ff51c4318644_fmp109753png_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg02042c61_AHyjvoUF8aeSHgh7WtPUCYk_us</episode-num>
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+<programme start="20261118035024 +0000" stop="20261118060511 +0000" channel="tribeca_tribe_US">
+    <title lang="en">Grind</title>
+    <desc lang="en">Four skaters follow their idol on his summer tour in an attempt to get noticed, get sponsored, and become stars themselves.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg02042/resized_images/resized_3077bce79e904a225fea4c7b4b0d80ddc93873021dd9bdded5aca0e00a83c63d_fmp21114png_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg02042c61_ATXopqBebAFCrSaQLG8dA4V_us</episode-num>
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+<programme start="20261118060511 +0000" stop="20261118083419 +0000" channel="tribeca_tribe_US">
+    <title lang="en">The Road To Wellville</title>
+    <desc lang="en">A story about the ins and outs of one unusual health facility in the early twentieth century, run by the eccentric Dr. John Harvey Kellogg</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg02042/resized_images/resized_cd830964b28022d46f431ec95afaed03bda2e653ce4d5e7553f1d4de8e60df38_fmp21119png_768_432.jpeg"/>
+    <episode-num system="dd_progid">amg02042c61_ABVhJM1Azirmb5k5Pwkhj2x_us</episode-num>
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+<programme start="20261118010556 +0000" stop="20261118030112 +0000" channel="us-cinedigm_entertainment_corp_screamboxtv_1">
+    <title lang="en">Heavy Trip</title>
+    <desc lang="en">In this offbeat comedy from Finland, Turo is stuck in a small village where the best thing in his life is being the lead vocalist for the amateur metal band Impaled Rektum. The only problem? He and his bandmates have practiced for over a decade without playing a single gig. The guys get a surprise visitor from Norwaythe promoter for a huge heavy metal music festivaland decide its now or never. They steal a van, a corpse, and even a new drummer in order to make their dreams a reality.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/1845/lg/88167e/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-CineverseEntertainmentCorp-118056894-52541967-52525612</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261118030112 +0000" stop="20261118045114 +0000" channel="us-cinedigm_entertainment_corp_screamboxtv_1">
+    <title lang="en">The Beyond (Edited Version)</title>
+    <desc lang="en">The seven dreaded gateways to hell are concealed in seven cursed places... And on the day the gates of hell are opened, the dead will walk the earth!From legendary Italian horror master Lucio Fulci come the ultimate classic of supernatural terror. A remote and cursed hotel, built over one of the seven gateways, becomes a yawning malevolent abyss that begins devouring both the bodies and the souls of all who enter in a graphic frenzy of gory crucifixions, chunkblowing chain-whippings, eyeball impalements, sulfuric acid meltdowns, flesh-eating tarantulas, throat-shredding demon dogs and ravenous bloodthirsty zombies. THE BEYOND is a towering achievement in hair-raising, mind-bending cinematic terror!</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/1845/lg/88167e/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-CineverseEntertainmentCorp-118056895-52541967-52525612</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+<programme start="20261118045114 +0000" stop="20261118065104 +0000" channel="us-cinedigm_entertainment_corp_screamboxtv_1">
+    <title lang="en">Elvira's Movie Macabre: Legacy Of Blood (Edited Version)</title>
+    <desc lang="en">Elvira presents this horror thriller where a family is stalked by an unknown killer while attending the reading of a relative's will.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/1845/lg/88167e/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-CineverseEntertainmentCorp-118056896-52541967-52525612</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261118065104 +0000" stop="20261118080000 +0000" channel="us-cinedigm_entertainment_corp_screamboxtv_1">
+    <title lang="en">Creature From the Haunted Sea (In Color &amp; Restored)</title>
+    <desc lang="en">Robert Towne (screenwriter Chinatown) assumes a pseudonym to star in Roger Corman's Creature from the Haunted Sea. Renzo Capetto, a dastardly gangster, intends to smuggle a fortune out of Cuba, and it's up to Towne to infiltrate his gang. When he does, he discovers that Capetto's plan is to kill off his crew and blame their deaths on the mythical Creature from the Haunted Sea. In typical Corman fashion, the terror takes a backseat to the laughs. With campy performances, a zilch-o budget and a truly hilarious monster, this Creature is a must Sea for any B-movie fan! Spectacularly restored and in color for the first time!</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/1845/lg/88167e/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-CineverseEntertainmentCorp-118056897-52541967-52525612</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261118010000 +0000" stop="20261118020000 +0000" channel="us-ion_ion_plus_1">
+    <title lang="en">Criminal Minds</title>
+    <desc lang="en">Morgan's visit with a survivor of unusual stabbings in upstate New York leads to more questions about the case.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/378/lg/165a68/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120754752-56783275-56763377</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261118020000 +0000" stop="20261118030000 +0000" channel="us-ion_ion_plus_1">
+    <title lang="en">Criminal Minds</title>
+    <desc lang="en">The discovery of two murder victims in West Virginia uncovers a long-simmering feud between two families.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/378/lg/165a68/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120754783-56783275-56763377</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261118030000 +0000" stop="20261118040000 +0000" channel="us-ion_ion_plus_1">
+    <title lang="en">Criminal Minds</title>
+    <desc lang="en">The team searches for a commonality when a series of target abductions take place; Savannah is frustrated with Morgan's traveling.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/378/lg/165a68/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120754822-56783275-56763377</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261118040000 +0000" stop="20261118050000 +0000" channel="us-ion_ion_plus_1">
+    <title lang="en">Criminal Minds</title>
+    <desc lang="en">When people are killed by arsenic poisoning and handwritten death threats are found, the team pursues a suspect fascinated by Greek mythology; Hotch is worried about participating in a Career Day at Jack's school.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/378/lg/165a68/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120754859-56783275-56763377</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261118050000 +0000" stop="20261118060000 +0000" channel="us-ion_ion_plus_1">
+    <title lang="en">Criminal Minds</title>
+    <desc lang="en">When prostitutes are murdered in Texas, their deaths seem to have religious overtones; members of the team are put at risk throughout the course of the investigation.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/378/lg/165a68/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120754901-56783275-56763377</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261118060000 +0000" stop="20261118070000 +0000" channel="us-ion_ion_plus_1">
+    <title lang="en">Criminal Minds</title>
+    <desc lang="en">The investigation in Texas reveals a deep web of corruption; Garcia must save a friend.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/378/lg/165a68/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120754929-56783275-56763377</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261118070000 +0000" stop="20261118080000 +0000" channel="us-ion_ion_plus_1">
+    <title lang="en">The Listener</title>
+    <desc lang="en">Toby goes undercover to find a group of thieves posing as police officers.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/378/lg/165a68/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120754982-56796978-56763537</episode-num>
     <rating>
       <value>TV-14</value>
     </rating>
