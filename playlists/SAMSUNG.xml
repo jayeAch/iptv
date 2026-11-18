@@ -20,6 +20,10 @@
     <display-name>Samsung Television Network</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300068X7_20261103T171625SQUARE.png" />
   </channel>
+<channel id="USBC6000225M">
+    <display-name>ElectricNOW</display-name>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC6000225M_20250602T231429SQUARE.png" />
+  </channel>
 <channel id="USBB36000040M">
     <display-name>Crime Zone</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB36000040M_20261001T230639SQUARE.png" />
@@ -182,6 +186,36 @@
     <desc>Bryan must stop an act of biological terrorism when invasive species are stolen.</desc>
     <category lang="en">Crime</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2473738437_1_20260129T062808440Z_1_imageprocessorclient-tvplus-linear-584c967455-8jhvt.jpeg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme channel="USBC6000225M" start="20261118210000 +0000" stop="20261118220000 +0000">
+    <title>Leverage: Redemption</title>
+    <sub-title>The Scared Stiff Job</sub-title>
+    <desc>Our team runs the "Christmas Carol" con on a wannabe cryonics mogul who coerces dying patients into exploitative contracts bankrupting the loved ones they leave behind.</desc>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1177268432_0_20250417T152643023Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-njxgs.jpeg" />
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+<programme channel="USBC6000225M" start="20261118220000 +0000" stop="20261118230000 +0000">
+    <title>Leverage: Redemption</title>
+    <sub-title>The Hustler Job</sub-title>
+    <desc>The crew takes on a phone scamming ring that uses deepfake technology to con their marks, run by an old school hustler who came up via the pool hall circuit  to infiltrate his organization, they have to best him on and off the felt.</desc>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1177268432_0_20250417T152643023Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-njxgs.jpeg" />
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+<programme channel="USBC6000225M" start="20261118230000 +0000" stop="20261119000000 +0000">
+    <title>The Librarians</title>
+    <sub-title>The Next Chapter: And the Feast of the Vampire</sub-title>
+    <desc>While on a visit to a small-town festival, Connor encounters the very first vampire, and finds himself fighting the clock to save himself from turning into one.</desc>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1396599542_0_20250526T232933791Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-fgxfq.jpeg" />
     <rating>
       <value>TV-14</value>
     </rating>
@@ -352,16 +386,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme channel="US2001109K" start="20261118203448 +0000" stop="20261118205910 +0000">
-    <title>Killer Mysteries</title>
-    <sub-title>Cold Storage Killer</sub-title>
-    <desc>Police follow the trail of a young Southern California woman who vanishes without a trace. Authorities work the missing person investigation for years until a random encounter turns them onto a chilling discovery and an even colder criminal.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2395387221_0_20260109T045742778Z_72_imageprocessorclient-tvplus-linear-584c967455-p9wk7.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme channel="US2001109K" start="20261118205910 +0000" stop="20261118212322 +0000">
     <title>Killer Mysteries</title>
     <sub-title>Killer Cabbie</sub-title>
@@ -450,16 +474,6 @@
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550791291_20_20241113T060450720Z_119_imageprocessorclient-tvplus-linear-5dc4fd45f6-prfs6.jpeg" />
     <rating>
       <value>TV-MA</value>
-    </rating>
-  </programme>
-<programme channel="USBD42000073E" start="20261118200438 +0000" stop="20261118210001 +0000">
-    <title>60 Days In</title>
-    <sub-title>You Don't Belong Here</sub-title>
-    <desc>Sheriff Lamb and his team are forced to make a decision.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3223620141_0_20260721T192403730Z_65_imageprocessorclient-tvplus-linear-9468c5484-2n2hv.jpeg" />
-    <rating>
-      <value>TV-PG</value>
     </rating>
   </programme>
 <programme channel="USBD42000073E" start="20261118210001 +0000" stop="20261118215311 +0000">
@@ -731,16 +745,6 @@
     <desc>A series that profiles some of the most influential R&amp;B, Soul and Gospel artists of the 1970s, '80s and '90s. Candi Staton is known as The Queen of Southern Soul, thanks to a string of hits.</desc>
     <category lang="en">Movies</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3783140922_3_20261118T093128809Z_18_imageprocessorclient-tvplus-linear-6b56cc9f55-d5g9z.jpeg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme channel="US39000221B" start="20261118202700 +0000" stop="20261118210000 +0000">
-    <title>Tales From the Crypt</title>
-    <sub-title>Maniac at Large</sub-title>
-    <desc>A librarian fears a serial killer  with Blythe Danner, Adam Ant, Clarence Williams III  director John Frankenheimer.</desc>
-    <category lang="en">Sci-Fi</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3524437302_0_20260925T055346413Z_76_imageprocessorclient-tvplus-linear-6b56cc9f55-hrddh.jpeg" />
     <rating>
       <value>TV-PG</value>
     </rating>
