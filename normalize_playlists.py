@@ -574,7 +574,9 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         komedie
         the nanny
         rifftrax
+        just for laughs
         just for laughs comedy
+        just for laughs gags
         comedy vault
         spin city
         dry bar comedy
