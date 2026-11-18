@@ -1008,6 +1008,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     # "Telemundo Noticias" etc. beat the English-name pins below (csi, cops, sports...).
     'Latino': _words("""
         spanish
+        123go! español
         en espanol
         tock tock movies
         conecta
