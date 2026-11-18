@@ -1427,7 +1427,6 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         reality
         emergency rescue
         paradise hotel
-        the therapy couch
         paradise
         the osbournes
         ice road truckers
