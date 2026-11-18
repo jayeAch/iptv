@@ -36,6 +36,10 @@
     <display-name>Horror Plus</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/746F014B-ACE1-4DE4-B494-BFAE6DE92608/3-1x1.png" />
   </channel>
+<channel id="localnow.D2DC3D4D-2ACF-475A-A254-0016D18F3BF0">
+    <display-name>At the Movies</display-name>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D2DC3D4D-2ACF-475A-A254-0016D18F3BF0/3-1x1.png" />
+  </channel>
 <channel id="localnow.6D30170C-D7B3-46A2-8C1F-302D8399F44D">
     <display-name>Free Movies Plus</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/6D30170C-D7B3-46A2-8C1F-302D8399F44D/3-1x1.png" />
@@ -308,6 +312,27 @@
     <category lang="en">Horror</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D0DF28EB-0756-4476-80C4-FD05DE2E4E09/0-2x3.png" />
     <episode-num system="dd_progid">program-scream-factory-tv-20261119001624</episode-num>
+  </programme>
+<programme start="20261118205339 +0000" stop="20261118223729 +0000" channel="localnow.D2DC3D4D-2ACF-475A-A254-0016D18F3BF0">
+    <title lang="en">Overnight Delivery</title>
+    <desc lang="en">Friends have 24 hours to stop a package, prevent disaster and fall in love.</desc>
+    <category lang="en">Movies</category>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D2DC3D4D-2ACF-475A-A254-0016D18F3BF0/0-2x3.png" />
+    <episode-num system="dd_progid">program-at-the-movies-20261118205339</episode-num>
+  </programme>
+<programme start="20261118223729 +0000" stop="20261119005334 +0000" channel="localnow.D2DC3D4D-2ACF-475A-A254-0016D18F3BF0">
+    <title lang="en">Matchstick Men</title>
+    <desc lang="en">A con artist’s daughter turns out to have a knack for being a con artist!</desc>
+    <category lang="en">Movies</category>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D2DC3D4D-2ACF-475A-A254-0016D18F3BF0/0-2x3.png" />
+    <episode-num system="dd_progid">program-at-the-movies-20261118223729</episode-num>
+  </programme>
+<programme start="20261119005334 +0000" stop="20261119032913 +0000" channel="localnow.D2DC3D4D-2ACF-475A-A254-0016D18F3BF0">
+    <title lang="en">Victor/Victoria</title>
+    <desc lang="en">A cabaret singer finds fame when she goes on stage as female impersonator.</desc>
+    <category lang="en">Movies</category>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D2DC3D4D-2ACF-475A-A254-0016D18F3BF0/0-2x3.png" />
+    <episode-num system="dd_progid">program-at-the-movies-20261119005334</episode-num>
   </programme>
 <programme start="20261118200000 +0000" stop="20261118210000 +0000" channel="localnow.DFA77213-D191-4A0D-993A-54AB336FB0C3">
     <title lang="en">Blue Bloods</title>
