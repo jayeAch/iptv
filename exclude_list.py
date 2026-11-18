@@ -27,6 +27,8 @@ GLOBAL_EXCLUDE_LIST = [
   "Universal Crime",
   "In The Heat Of The Night by MGM",
   "Crime ThrillHer",
+  "Pluto TV Erotica",
+  "Pluto TV Spicy",
   "ION Mystery",
   "Ion Mystery",
   "The Sherlock Holmes Channel",
