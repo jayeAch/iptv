@@ -254,6 +254,8 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     # ('Pluto TV Action Movies') are not listed: they stay in Movies.
     'Action': _words("""
         walker texas ranger
+        pluto tv retro action
+        pluto tv rocky + creed
         walker, texas ranger
         pluto tv action
         las vegas
@@ -998,6 +1000,8 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     'Latino': _words("""
         spanish
         en espanol
+        tock tock movies
+        conecta
         zona investigación
         telemundo
         vix
