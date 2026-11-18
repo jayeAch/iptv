@@ -27,7 +27,6 @@ CATEGORY_EXCLUDE_LIST = [
     "Anime & Gaming",
     "LGB",
     "Romance",
-    "Christmas",
     "Westerns",
     "Asian",
     "Talk Shows",
