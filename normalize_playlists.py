@@ -502,7 +502,6 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         classic television
         vintage tv
         retro tv
-        pluto tv retro
         nostalgia tv
         tv land
         i love lucy
