@@ -309,6 +309,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     'Action': _words("""
         walker texas ranger
         pluto tv rocky + creed
+        warrior princess
         mgm presents: action
         filmrise action
         pluto tv action
@@ -513,6 +514,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         pluto tv comedy
         komedi
         the daily show
+        weeds & nurse jackie
         komedie
         the nanny
         rifftrax
@@ -707,6 +709,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     # 'The Kids in the Hall' is a NAME_OVERRIDE (Comedy).
     'Kids': _words("""
         kids
+        svampbob
         pluto tv tegnefilm
         pluto tv klassiske tegnefilm
         det stora experimentet
@@ -1233,7 +1236,6 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         crime scenes
         crime up close
         crime zone
-        dateline
         first 48
         forensic
         i (almost) got away with it
