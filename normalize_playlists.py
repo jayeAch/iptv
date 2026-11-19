@@ -215,7 +215,6 @@ NAME_OVERRIDES: dict[str, str] = {
     'the fbi': 'Classic TV',          # 1965 series; 'The FBI Files' stays True Crime
     # --- Entertainment clean-up (Nov 2026): exact names found in the catch-all ---
     'rules of engagement': 'Comedy',
-    'nathan for you': 'Comedy',
     'life with derek': 'Comedy',
     'ttl tv': 'Comedy',
     'murdoch mysteries': 'Crime',
@@ -226,7 +225,6 @@ NAME_OVERRIDES: dict[str, str] = {
     'ion television': 'Crime',
     'lawless': 'Crime',
     'reelz famous and infamous': 'True Crime',
-    'xena warrior princess': 'Action',
     'sea patrol': 'Action',
     'designated survivor': 'Drama',
     'degrassi': 'Drama',
@@ -320,6 +318,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         walker texas ranger
         pluto tv rocky + creed
         warrior princess
+        xena
         mgm presents: action
         filmrise action
         pluto tv action
