@@ -1212,6 +1212,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         movies
         film
         films
+        cinevault
         pluto tv movies
         moviesphere
         pluto tv family movie club
@@ -1438,6 +1439,8 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     'Reality TV': _words("""
         reality
         emergency rescue
+        the therapy crouch
+        afterwork tv
         paradise hotel
         paradise
         the osbournes
@@ -1777,7 +1780,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         team liquid
         retake e-sport live
         american ninja warrior
-        ninja warrior
+        ninja warriori
         american gladiators
         american gladiators by mgm
     """),
@@ -1886,6 +1889,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         60 days in jail
         20/20
         the fbi files
+        chasing criminals
         american crimes
         oxygen true crimes
         crime 360
