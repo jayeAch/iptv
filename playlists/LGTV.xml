@@ -1,9 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
-<channel id="99992272">
-    <display-name>FilmRise Free Movies</display-name>
-    <icon src="https://image.xumo.com/v1/channels/channel/99992272/400x200.png?type=white_cropped" />
-  </channel>
 <channel id="us-gsn_cinevault_80s_1">
     <display-name>CINEVAULT</display-name>
     <icon src="http://img.platform.wurl.dev/channel/691/lg/e11147/LG-Logo-PNG-100x100_v1.png" />
@@ -28,6 +24,10 @@
     <display-name>Horror by ALTER</display-name>
     <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/gunpowderandsky/channels/Horror-By-ALTER_white_logo_800x200.png" />
   </channel>
+<channel id="electricnoweng_eleno_US">
+    <display-name>Electric Now</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/electric/ENOW_White_logo_800x200.png" />
+  </channel>
 <channel id="FREQ541-US">
     <display-name>Mysteria</display-name>
     <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/lawandcrime/channels/541-400x200.png" />
@@ -48,16 +48,6 @@
     <display-name>Crimes Cults Killers  by A&amp;E</display-name>
     <icon src="http://img.platform.wurl.dev/channel/1055/lg/22f210/LG-Logo-PNG-100x100_v2.png" />
   </channel>
-<programme start="20261119042757 +0000" stop="20261119050000 +0000" channel="99992255">
-    <title lang="en">Forensic Files</title>
-    <desc lang="en">Foul play is suspected when Fort Worth factory worker Glenda Furch disappears after completing her shift.</desc>
-    <category lang="en">ETC</category>
-    <icon src="https://image.xumo.com/v1/assets/asset/XM0AQVZ2C2S4F0/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992255%2F768x432.jpg%3Ftype%3DchannelTile" />
-    <episode-num system="dd_progid">XM0AQVZ2C2S4F0</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
 <programme start="20261119050000 +0000" stop="20261119052536 +0000" channel="99992255">
     <title lang="en">Forensic Files</title>
     <desc lang="en">Fifteen years later, DNA technology leads to justice for a murdered woman and her savagely beaten 4-year-old daughter.</desc>
@@ -128,43 +118,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20261119031435 +0000" stop="20261119050000 +0000" channel="99992272">
-    <title lang="en">Mysteria</title>
-    <desc lang="en">Fighting to finish his script for a producer (Billy Zane), screenwriter Aleister (Robert Miano) finds inspiration amid a murder investigation led by Captain McCarthy (Michael Rooker) and his interrogator (Danny Glover).</desc>
-    <category lang="en">Movies</category>
-    <icon src="https://image.xumo.com/v1/assets/asset/XM08CP3WTEHL5O/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992272%2F768x432.jpg%3Ftype%3DchannelTile" />
-    <episode-num system="dd_progid">XM08CP3WTEHL5O</episode-num>
-  </programme>
-<programme start="20261119050000 +0000" stop="20261119070757 +0000" channel="99992272">
-    <title lang="en">The Getaway (1994) [Broadcast Edit]</title>
-    <desc lang="en">Doc and Carol McCoy are married criminals looking for a high-paying score. When Doc ends up in a Mexican prison, Carol tells mob boss Jack Benyon that Doc will work for him if Benyon can free him from prison. Benyon hires Doc to rob a dog track, but after the heist goes terribly wrong, Doc and Carol escape with the cash. With a bitter thief and Benyon's hired help on their trail, Doc and Carol must fight to survive.</desc>
-    <category lang="en">Movies</category>
-    <icon src="https://image.xumo.com/v1/assets/asset/XM0RJS53FS4XAT/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992272%2F768x432.jpg%3Ftype%3DchannelTile" />
-    <episode-num system="dd_progid">XM0RJS53FS4XAT</episode-num>
-    <rating>
-      <value>R</value>
-    </rating>
-  </programme>
-<programme start="20261119070757 +0000" stop="20261119085429 +0000" channel="99992272">
-    <title lang="en">Eye See You</title>
-    <desc lang="en">Recovering from the psychological effects of witnessing a brutal crime, FBI Agent Jake Malloy (Sylvester Stallone) checks into a rehabilitation clinic for law enforcement officers in the remote wilderness of Wyoming during the dead of winter. He soon finds himself helping other patients as a serial killer begins killing them one by one.</desc>
-    <category lang="en">Movies</category>
-    <icon src="https://image.xumo.com/v1/assets/asset/XM0DJVRCFJNM77/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992272%2F768x432.jpg%3Ftype%3DchannelTile" />
-    <episode-num system="dd_progid">XM0DJVRCFJNM77</episode-num>
-    <rating>
-      <value>PG-13</value>
-    </rating>
-  </programme>
-<programme start="20261119040945 +0000" stop="20261119050000 +0000" channel="99993006">
-    <title lang="en">World's Most Evil Killers</title>
-    <desc lang="en">Over six years, Eddie Seda, the copycat Zodiac killer stalked the streets of New York City, in search of easy targets. His cowardly attacks culminated with the ferocious murder of a woman, who had only asked him for a cigarette.</desc>
-    <category lang="en">ETC</category>
-    <icon src="https://image.xumo.com/v1/assets/asset/XM0R66ENF6QDYB/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993006%2F768x432.jpg%3Ftype%3DchannelTile" />
-    <episode-num system="dd_progid">XM0R66ENF6QDYB</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme start="20261119050000 +0000" stop="20261119055451 +0000" channel="99993006">
     <title lang="en">World's Most Evil Killers</title>
     <desc lang="en">A dangerous sexual predator murders a young woman, just days after his release from prison.</desc>
@@ -201,16 +154,6 @@
     <category lang="en">ETC</category>
     <icon src="https://image.xumo.com/v1/assets/asset/XM0QIRV6Q5JVQX/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993006%2F768x432.jpg%3Ftype%3DchannelTile" />
     <episode-num system="dd_progid">XM0QIRV6Q5JVQX</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261119041833 +0000" stop="20261119050013 +0000" channel="FREQ541-US">
-    <title lang="en">True Crime Recaps</title>
-    <desc lang="en">Teens arrested for a murder case now face uncertain justice as evidence has been mysteriously destroyed.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/1t3dok393rc7w1e6x0q38aa9s/w1920_h1080/1t3dok393rc7w1e6x0q38aa9s.jpg" />
-    <episode-num system="dd_progid">2065704</episode-num>
     <rating>
       <value>TV-14</value>
     </rating>
@@ -285,16 +228,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261119040655 +0000" stop="20261119050000 +0000" channel="coldcasefiles_aeccf_US">
-    <title lang="en">Cold Case Files</title>
-    <desc lang="en">In the heart of Cajun country, a young mother is found murdered in her home.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/AECCF/resized_83aaa62e7100831c7aa97a5d590deb7ca4d45e301f80ab1f7da6bf255f90074e_254921415220thumbjpg_768_432.jpeg" />
-    <episode-num system="dd_progid">AECCF_254921_415220_US</episode-num>
-    <rating>
-      <value>TV14</value>
-    </rating>
-  </programme>
 <programme start="20261119050000 +0000" stop="20261119054833 +0000" channel="coldcasefiles_aeccf_US">
     <title lang="en">Cold Case Files Classic</title>
     <desc lang="en">The murder of a 73-year-old man leads police on a long chase.</desc>
@@ -335,14 +268,44 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261119032326 +0000" stop="20261119045740 +0000" channel="theasylummoviechannel_tasmc_US">
-    <title lang="en">Megalodon: The Frenzy</title>
-    <desc lang="en">A “frenzy” of five Megalodons - spawn of the original - terrorizes the open ocean.</desc>
+<programme start="20261119050000 +0000" stop="20261119060000 +0000" channel="electricnoweng_eleno_US">
+    <title lang="en">The Librarians</title>
+    <desc lang="en">The Librarians take on a shape-shifting god who grows in strength any time a lie is told.</desc>
     <category lang="en">Action</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/tasmc/resized_b02510392fcc60a9c6cc218107eef38e895932b850c54ba1c9aa933b1aa688c7_megalodonthefrenzy1920x1080jpg_768_432.jpeg" />
-    <episode-num system="dd_progid">tasmc_MegalodonTheFrenzy_FEATURE_2997_20_US</episode-num>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/ELENO/resized_6ba4bdc3f2b26ee010a6e33f7f9eff70ddd1291b71ee8a88b430876aada84602_thelibrarianswidescreenpng_768_432.jpeg" />
+    <episode-num system="dd_progid">ELENO_electricent_TheLibrarians_203_stereo_US</episode-num>
     <rating>
-      <value>TV-14</value>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+<programme start="20261119060000 +0000" stop="20261119070000 +0000" channel="electricnoweng_eleno_US">
+    <title lang="en">The Librarians</title>
+    <desc lang="en">Students start disappearing at Wexler College.</desc>
+    <category lang="en">Action</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/ELENO/resized_6ba4bdc3f2b26ee010a6e33f7f9eff70ddd1291b71ee8a88b430876aada84602_thelibrarianswidescreenpng_768_432.jpeg" />
+    <episode-num system="dd_progid">ELENO_electricent_TheLibrarians_205_stereo_US</episode-num>
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+<programme start="20261119070000 +0000" stop="20261119080000 +0000" channel="electricnoweng_eleno_US">
+    <title lang="en">Generation Z</title>
+    <desc lang="en">An army truck crash infects care home residents, forcing four teens to fight for survival.</desc>
+    <category lang="en">Drama</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/ELENO/resized_56b50bc30f1ea13f3d7ae124c1909e72dbb6b295cb8ff330543f87acf5c0837f_generationzkeyartlandscape1920x1080p4551jpg_768_432.jpeg" />
+    <episode-num system="dd_progid">ELENO_Generation_Z_S01E01_VOD_TXT_P4551_US</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+<programme start="20261119080000 +0000" stop="20261119090000 +0000" channel="electricnoweng_eleno_US">
+    <title lang="en">Generation Z</title>
+    <desc lang="en">Charlie and Kelly face Kelly's nan while Steff and Finn risk everything on a dangerous mission.</desc>
+    <category lang="en">Drama</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/ELENO/resized_56b50bc30f1ea13f3d7ae124c1909e72dbb6b295cb8ff330543f87acf5c0837f_generationzkeyartlandscape1920x1080p4551jpg_768_432.jpeg" />
+    <episode-num system="dd_progid">ELENO_Generation_Z_S01E02_VOD_TXT_P4551_US</episode-num>
+    <rating>
+      <value>TV-MA</value>
     </rating>
   </programme>
 <programme start="20261119045740 +0000" stop="20261119064545 +0000" channel="theasylummoviechannel_tasmc_US">
@@ -393,16 +356,6 @@
     <episode-num system="dd_progid">amg02042c61_ACmttz5VtUQVw2zyNn3qe4N_us</episode-num>
     <rating>
       <value>PG</value>
-    </rating>
-  </programme>
-<programme start="20261119040947 +0000" stop="20261119050000 +0000" channel="us-aenetworks_kriminal_1">
-    <title lang="en">Mobsters</title>
-    <desc lang="en">Tony Spilotro, Chicago's Outfit gang key figure, led its Las Vegas operations.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="http://img.platform.wurl.dev/channel/1055/lg/22f210/LG-768x432_v1.png" />
-    <episode-num system="dd_progid">US-AETelevisionNetworksLLC-119500459-56840166-8027968</episode-num>
-    <rating>
-      <value>TV-14</value>
     </rating>
   </programme>
 <programme start="20261119050000 +0000" stop="20261119055126 +0000" channel="us-aenetworks_kriminal_1">
