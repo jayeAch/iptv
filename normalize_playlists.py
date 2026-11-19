@@ -1404,6 +1404,8 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         the amazing race
         fear factor
         wipeout
+        mtv ink master
+        mtv pluto tv
         wipeout xtra
         big brother
         the challenge
