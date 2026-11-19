@@ -234,7 +234,6 @@ NAME_OVERRIDES: dict[str, str] = {
     'ion plus': 'Crime',
     'ion television': 'Crime',
     'lawless': 'Crime',
-    'samsung television network': 'Crime',
     'reelz famous and infamous': 'True Crime',
     'xena: warrior princess': 'Action',
     'xena warrior princess': 'Action',
