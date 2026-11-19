@@ -381,7 +381,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         series k heart
         series k legacy
         thailand tv
-        joysauce network
+        joysauce
         tvb pearl drama
     """),
     # Car culture: build/restoration shows, auctions, car-review shows. Live racing
