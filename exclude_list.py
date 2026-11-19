@@ -10,6 +10,7 @@ GLOBAL_EXCLUDE_LIST = [
 
 # All other entries (alphabetized, case-insensitive, deduplicated)
   "21 Jump Street",
+  "The Twilight Zone:",
   "Matlock",
   "More TV Sitcoms",
   "Pluto TV Sitcoms",
