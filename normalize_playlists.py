@@ -593,6 +593,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     # dokumentär == dokumentar). History/Nature/True Crime sit in their own lists.
     'Documentaries': _words("""
         documentary
+        icons unleashed+
         modern marvels
         reelz famous & infamous
         dokumentar
