@@ -19,4 +19,6 @@ CATEGORY_EXCEPTION_LIST = [
     "Reno 911",
     "Law & Order",
     "NYPD Blue",
+    "Jul med familien Bundy",
+    "Jul med familjen Bundy",
 ]
