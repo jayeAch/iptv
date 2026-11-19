@@ -56,6 +56,10 @@
     <display-name>Free Movies Plus</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/6D30170C-D7B3-46A2-8C1F-302D8399F44D/3-1x1.png" />
   </channel>
+<channel id="localnow.327482AD-61C8-4D3B-84D2-046658B687F6">
+    <display-name>VEEPS Concert Pass</display-name>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/327482AD-61C8-4D3B-84D2-046658B687F6/3-1x1.png" />
+  </channel>
 <channel id="localnow.A7FA55BD-F771-46DA-B7A0-B974DA61DF21">
     <display-name>BuzzFeed Unsolved</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/A7FA55BD-F771-46DA-B7A0-B974DA61DF21/3-1x1.png" />
@@ -106,13 +110,26 @@
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/105AF9C8-EDE4-4F5B-95E7-9DD5A17E261F/0-2x3.png" />
     <episode-num system="dd_progid">program-true-crime-now-20261119045937</episode-num>
   </programme>
-<programme start="20261119032400 +0000" stop="20261119041300 +0000" channel="localnow.4D2A3ADC-5310-4895-A676-6A1BEEB941EE">
-    <title lang="en">Beyond Belief: Fact or Fiction?</title>
-    <desc lang="en">A mysterious nurse appears and saves a child's life. Host: Jonathan Frakes.</desc>
-    <category lang="en">Sci-Fi</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/4D2A3ADC-5310-4895-A676-6A1BEEB941EE/0-2x3.png" />
-    <episode-num system="onscreen">S04E02</episode-num>
-    <episode-num system="xmltv_ns">3.1.</episode-num>
+<programme start="20261119035700 +0000" stop="20261119050900 +0000" channel="localnow.327482AD-61C8-4D3B-84D2-046658B687F6">
+    <title lang="en">Catherine Cohen: Come For Me</title>
+    <desc lang="en">In this acclaimed one-woman show, comedian and cabaret star Catherine Cohen delivers a sharp, musical, and self-aware exploration of modern womanhood. Blending stand-up, original songs, and theatrical flair, Cohen takes the audience through her thought...</desc>
+    <category lang="en">Music</category>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/327482AD-61C8-4D3B-84D2-046658B687F6/0-2x3.png" />
+    <episode-num system="dd_progid">program-answer_media_veepsconcertpass_1-2026-11-19-0357</episode-num>
+  </programme>
+<programme start="20261119050900 +0000" stop="20261119061000 +0000" channel="localnow.327482AD-61C8-4D3B-84D2-046658B687F6">
+    <title lang="en">Ice Nine Kills: I Heard They Kill Live 2</title>
+    <desc lang="en">Watch I Heard They Kill Live 2, a live Ice Nine Kills concert film captured at Thanx-killing 2022 in Massachusetts.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/327482AD-61C8-4D3B-84D2-046658B687F6/0-2x3.png" />
+    <episode-num system="dd_progid">program-answer_media_veepsconcertpass_1-2026-11-19-0509</episode-num>
+  </programme>
+<programme start="20261119061000 +0000" stop="20261119062500 +0000" channel="localnow.327482AD-61C8-4D3B-84D2-046658B687F6">
+    <title lang="en">Metal From the Dirt: Rez Metal on the Navajo Nation</title>
+    <desc lang="en">Navajo (Diné) musicians and scene builders trace the rise of Rez Metal, from generator-powered desert shows to Hogan rehearsals, blending heavy music with culture, pride, and survival.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/327482AD-61C8-4D3B-84D2-046658B687F6/0-2x3.png" />
+    <episode-num system="dd_progid">program-answer_media_veepsconcertpass_1-2026-11-19-0610</episode-num>
   </programme>
 <programme start="20261119041300 +0000" stop="20261119050000 +0000" channel="localnow.4D2A3ADC-5310-4895-A676-6A1BEEB941EE">
     <title lang="en">Beyond Belief: Fact or Fiction?</title>
