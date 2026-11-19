@@ -621,7 +621,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     # specific (a bare 'faith' or 'jesus' would hit Judge Faith / Black Jesus).
     'Faith': _words("""
         jewish life tv
-        dove channel
+        dove
         trinity broadcast network
         cowboy christian network
         daystar
