@@ -405,6 +405,8 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     'Black Entertainment': _words("""
         bet
         perform
+        peekflick
+        urban tv
         tv one
         allblk
         beyond the gates
@@ -521,6 +523,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         comedy central
         according to jim
         pluto tv comedy
+        the red green channel
         komedi
         the daily show
         weeds & nurse jackie
