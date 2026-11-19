@@ -164,7 +164,7 @@ GLOBAL_EXCLUDE_LIST = [
   "The Eric Andre Show",
   "The Millers",
   "The Nanny",
-  "The Red Green Show",
+  "The Red Green Channel",
   "The Try Guys",
   "The Walking Dead",
   "Toon Goggles",
