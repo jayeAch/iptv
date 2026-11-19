@@ -403,6 +403,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     # "BET ..." channel; 'tv one' catches the TV One channels.
     'Black Entertainment': _words("""
         bet
+        perform
         tv one
         allblk
         beyond the gates
@@ -591,6 +592,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     # dokumentär == dokumentar). History/Nature/True Crime sit in their own lists.
     'Documentaries': _words("""
         documentary
+        modern marvels
         reelz famous & infamous
         dokumentar
     """),
@@ -718,6 +720,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     # 'The Kids in the Hall' is a NAME_OVERRIDE (Comedy).
     'Kids': _words("""
         kids
+        123 go
         svampbob
         pluto tv tegnefilm
         pluto tv klassiske tegnefilm
