@@ -945,8 +945,6 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         inside edition
         buzzfeed celeb
         hollywire
-        in depth with graham bensinger
-        complex tv
     """),
     # Competition-format reality. Above Reality TV; below Sports so 'American Ninja Warrior' stays Sports.
     # 'survivor' is an exact NAME_OVERRIDE ('Designated Survivor' is a drama).
@@ -1208,7 +1206,6 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         toons
     """),
     'True Crime': _words("""
-        20/20
         the fbi files
         chasing criminals
         american crimes
