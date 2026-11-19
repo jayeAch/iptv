@@ -655,6 +655,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     # Outdoors so 'American Ninja Warrior' stays Sports.
     'Game Shows': _words("""
         pluto tv game shows
+        funny you should ask
         buzzr
         deal or no deal
         family feud
@@ -1013,6 +1014,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     # Life Below Zero, American Ninja Warrior). Bare 'survivor' is a NAME_OVERRIDE.
     'Reality TV': _words("""
         reality
+        nathan for you
         emergency rescue
         a&e alaska state troopers
         the therapy crouch
