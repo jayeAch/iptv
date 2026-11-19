@@ -25,6 +25,7 @@ CATEGORY_EXCLUDE_LIST = [
     "Science",
     "Shopping",
     "Anime & Gaming",
+    "Music",
     "LGB",
     "Romance",
     "Westerns",
