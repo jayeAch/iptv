@@ -12,14 +12,6 @@
     <display-name>Screambox TV</display-name>
     <icon src="http://img.platform.wurl.dev/channel/1845/lg/88167e/LG-Logo-PNG-100x100_v1.png"/>
   </channel>
-<channel id="us-amc_scaresbyshudder_1">
-    <display-name>Scares by Shudder</display-name>
-    <icon src="http://img.platform.wurl.dev/channel/1566/lg/835604/LG-Logo-PNG-100x100_v1.png"/>
-  </channel>
-<channel id="FREQ896">
-    <display-name>Dove Channel</display-name>
-    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/cineverse/channels/dove-400x200.png"/>
-  </channel>
 <channel id="tribeca_tribe_US">
     <display-name>Tribeca</display-name>
     <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/tribeca/Tribeca_Logo_800w200h.png"/>
@@ -178,36 +170,6 @@
       <value>PG-13</value>
     </rating>
   </programme>
-<programme start="20261119194518 +0000" stop="20261119213022 +0000" channel="FREQ896">
-    <title lang="en">Aloha with Love</title>
-    <desc lang="en">Gemma, a big city architect, must fly to Hawaii in order to handle the estate of her late Aunt.</desc>
-    <category lang="en">Drama</category>
-    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/1cbke5jsz4ns61foeqztvdgzo/w1920_h1080/1cbke5jsz4ns61foeqztvdgzo.jpg"/>
-    <episode-num system="dd_progid">9424675</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261119213022 +0000" stop="20261119231003 +0000" channel="FREQ896">
-    <title lang="en">Christmas Lucky Charm</title>
-    <desc lang="en">After swearing off dating for the holidays, Jessica meets a charming gallery owner across the street.</desc>
-    <category lang="en">Drama</category>
-    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/7335562724107750060/solid/rectangle/w1920_h1080/ghv2vngxrgqa16c3qtjzlzv12.jpg"/>
-    <episode-num system="dd_progid">9424688</episode-num>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
-<programme start="20261119231003 +0000" stop="20261120010022 +0000" channel="FREQ896">
-    <title lang="en">A Sprinkle of Christmas</title>
-    <desc lang="en">Libby, an up-and-coming baker, has opened up her storefront business just in time for the Christmas season.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/7285933939039349452/solid/rectangle/w1920_h1080/m1exbam0nmg517zarenf3xv8p.jpg"/>
-    <episode-num system="dd_progid">9424699</episode-num>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
 <programme start="20261119182602 +0000" stop="20261119200250 +0000" channel="theasylummoviechannel_tasmc_US">
     <title lang="en">Thor: God of Thunder</title>
     <desc lang="en">Loki escapes Asgard to gain dominion of Earth. Thor must stop him before it’s too late.</desc>
@@ -286,46 +248,6 @@
     <episode-num system="dd_progid">amg02042c61_ABRNMJhK7SDvboS8WJcSujk_us</episode-num>
     <rating>
       <value>PG</value>
-    </rating>
-  </programme>
-<programme start="20261119180814 +0000" stop="20261119195330 +0000" channel="us-amc_scaresbyshudder_1">
-    <title lang="en">Mandrake</title>
-    <desc lang="en">Mandrake follows probation officer Cathy Madden, who is given the task of rehabilitating notorious killer 'Bloody' Mary Laidlaw back into society after twenty years of jail.</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://img.platform.wurl.dev/channel/1566/lg/835604/LG-768x432_v1.png"/>
-    <episode-num system="dd_progid">US-RAINBOWMEDIAHOLDINGSLLC-118659425-578231-570729</episode-num>
-    <rating>
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-<programme start="20261119195330 +0000" stop="20261119215926 +0000" channel="us-amc_scaresbyshudder_1">
-    <title lang="en">Infested</title>
-    <desc lang="en">Facing an invasion of venomous spiders, residents of a suburb building will have to find their way out to survive.</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://img.platform.wurl.dev/channel/1566/lg/835604/LG-768x432_v1.png"/>
-    <episode-num system="dd_progid">US-RAINBOWMEDIAHOLDINGSLLC-118659426-578231-570729</episode-num>
-    <rating>
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-<programme start="20261119215926 +0000" stop="20261119235720 +0000" channel="us-amc_scaresbyshudder_1">
-    <title lang="en">Blood Quantum</title>
-    <desc lang="en">Blood Quantum</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://img.platform.wurl.dev/channel/1566/lg/835604/LG-768x432_v1.png"/>
-    <episode-num system="dd_progid">US-RAINBOWMEDIAHOLDINGSLLC-118659427-578231-570729</episode-num>
-    <rating>
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-<programme start="20261119235720 +0000" stop="20261120014601 +0000" channel="us-amc_scaresbyshudder_1">
-    <title lang="en">Virus 32</title>
-    <desc lang="en">A virus breaks out and a chilling massacre rages through the streets of Montevideo. The sick become hunters, and only calm their fever by unscrupulously killing all those not yet infected.</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://img.platform.wurl.dev/episodemeta/73686482/lg/85bebd/lg_episode_thumbnail768x432_v1.jpg"/>
-    <episode-num system="dd_progid">US-RAINBOWMEDIAHOLDINGSLLC-118659428-578231-570729</episode-num>
-    <rating>
-      <value>TV-MA</value>
     </rating>
   </programme>
 <programme start="20261119180527 +0000" stop="20261119200031 +0000" channel="us-cinedigm_entertainment_corp_screamboxtv_1">
