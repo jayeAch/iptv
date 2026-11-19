@@ -32,10 +32,6 @@
     <display-name>Shout! Movies</display-name>
     <icon src="https://image.xumo.com/v1/channels/channel/99951411/168x168.png?type=color_onBlack"/>
   </channel>
-<channel id="99951518">
-    <display-name>20/20</display-name>
-    <icon src="https://image.xumo.com/v1/channels/channel/99951518/168x168.png?type=color_onBlack"/>
-  </channel>
 <channel id="99951471">
     <display-name>A&amp;E Crime 360</display-name>
     <icon src="https://image.xumo.com/v1/channels/channel/99951471/168x168.png?type=color_onBlack"/>
@@ -95,6 +91,10 @@
 <channel id="99951603">
     <display-name>At The Movies</display-name>
     <icon src="https://image.xumo.com/v1/channels/channel/99951603/168x168.png?type=color_onBlack"/>
+  </channel>
+<channel id="99951461">
+    <display-name>American Crimes</display-name>
+    <icon src="https://image.xumo.com/v1/channels/channel/99951461/168x168.png?type=color_onBlack"/>
   </channel>
 <channel id="99991300">
     <display-name>Stash TV</display-name>
@@ -1869,166 +1869,6 @@
     <title lang="en">Movie</title>
     <desc lang="en">Movie to be announced.</desc>
     <episode-num system="dd_assetid">SH024995750000</episode-num>
-  </programme>
-<programme start="20261119050400 +0000" stop="20261119064600 +0000" channel="99951518">
-    <title lang="en">Diary of a Killer</title>
-    <desc lang="en">When a beloved mother is killed, police uncover clues in the accused killer's diary.</desc>
-    <episode-num system="dd_progid">EP000000212075</episode-num>
-  </programme>
-<programme start="20261119064600 +0000" stop="20261119082800 +0000" channel="99951518">
-    <title lang="en">All American Murder</title>
-    <desc lang="en">When a Texas couple is murdered in their bed, authorities investigate whether the culprit is a masked intruder or someone closer to home.</desc>
-    <episode-num system="dd_progid">EP000000212076</episode-num>
-  </programme>
-<programme start="20261119082800 +0000" stop="20261119101000 +0000" channel="99951518">
-    <title lang="en">Three Shots in the Dark</title>
-    <desc lang="en">When a pro athlete is murdered, police embark on an international chase for the killer.</desc>
-    <episode-num system="dd_progid">EP000000212077</episode-num>
-  </programme>
-<programme start="20261119101000 +0000" stop="20261119115200 +0000" channel="99951518">
-    <title lang="en">Missing From the Mall</title>
-    <desc lang="en">When a college student vanishes from a mall parking lot, police hunt her killer.</desc>
-    <episode-num system="dd_progid">EP000000212078</episode-num>
-  </programme>
-<programme start="20261119115200 +0000" stop="20261119133400 +0000" channel="99951518">
-    <title lang="en">There Is a Monster in Me</title>
-    <desc lang="en">When a woman is killed in small-town Texas, a secret diary reveals the killer's motive.</desc>
-    <episode-num system="dd_progid">EP000000212079</episode-num>
-  </programme>
-<programme start="20261119133400 +0000" stop="20261119151500 +0000" channel="99951518">
-    <title lang="en">The Murderer in the Minivan</title>
-    <desc lang="en">Three women -- one missing, one murdered, one kidnapped -- and the clues leading to a killer.</desc>
-    <episode-num system="dd_progid">EP000000212081</episode-num>
-  </programme>
-<programme start="20261119151500 +0000" stop="20261119165800 +0000" channel="99951518">
-    <title lang="en">Sealed With a Kill</title>
-    <desc lang="en">An inside look at an undercover investigation involving conspiracy, escorts and murder for hire.</desc>
-    <episode-num system="dd_progid">EP000000212082</episode-num>
-  </programme>
-<programme start="20261119165800 +0000" stop="20261119184200 +0000" channel="99951518">
-    <title lang="en">Love. Honor. Betray.</title>
-    <desc lang="en">John Quiñones reports on the story of a young husband, father and soldier murdered while at home for the holidays; interrogation tapes and extensive police body camera footage reveal a twisted tale of heartache and greed.</desc>
-    <episode-num system="dd_progid">EP000000212083</episode-num>
-  </programme>
-<programme start="20261119184200 +0000" stop="20261119202400 +0000" channel="99951518">
-    <title lang="en">A Killer Renovation</title>
-    <desc lang="en">A Florida mom's mysterious death leads authorities to investigate the connection to a missing engagement ring, a disastrous home renovation, and a popular TV home-makeover show.</desc>
-    <episode-num system="dd_progid">EP000000212084</episode-num>
-  </programme>
-<programme start="20261119202400 +0000" stop="20261119220900 +0000" channel="99951518">
-    <title lang="en">Killer on Campus</title>
-    <desc lang="en">A Florida university campus is on edge when a student disappears; police say love, lies and obsession led to murder; a new witness comes forward with a claim that could potentially overturn the case.</desc>
-    <episode-num system="dd_progid">EP000000212085</episode-num>
-  </programme>
-<programme start="20261119220900 +0000" stop="20261119235100 +0000" channel="99951518">
-    <title lang="en">Into the Darkness</title>
-    <desc lang="en">More than a decade after a teenage girl vanishes from a popular tourist destination, her killer is brought to justice; interviews with the FBI team who broke the case wide open and identified her killer.</desc>
-    <episode-num system="dd_progid">EP000000212086</episode-num>
-  </programme>
-<programme start="20261119235100 +0000" stop="20261120013100 +0000" channel="99951518">
-    <title lang="en">Highway Hunter</title>
-    <desc lang="en">When four young women go missing, police hunt for a serial killer roaming the interstate; John Quiñones explores the families' quests for answers.</desc>
-    <episode-num system="dd_progid">EP000000212087</episode-num>
-  </programme>
-<programme start="20261120013100 +0000" stop="20261120031400 +0000" channel="99951518">
-    <title lang="en">Ruby Franke: From Momfluencer to Felon</title>
-    <desc lang="en">Ruby Franke is a popular YouTuber known for her strict parenting; after her emaciated son escapes, begging for help, her seemingly perfect world implodes; featuring all-new body camera footage, recorded calls and a look at Ruby's private journal.</desc>
-    <episode-num system="dd_progid">EP000000212088</episode-num>
-  </programme>
-<programme start="20261120031400 +0000" stop="20261120045600 +0000" channel="99951518">
-    <title lang="en">Am I Next?</title>
-    <desc lang="en">When a young couple is found dead, police learn they were involved in an online feud and uncover a deadly catfishing scheme; "20/20" untangles the web of lies and unmasks the unlikely mastermind behind the murders.</desc>
-    <episode-num system="dd_progid">EP000000212089</episode-num>
-  </programme>
-<programme start="20261120045600 +0000" stop="20261120063700 +0000" channel="99951518">
-    <title lang="en">How'd You Rather Die?</title>
-    <desc lang="en">When a 16-year-old girl disappears, police have a surveillance video showing her getting into an unknown vehicle shortly after midnight; when the truth of her disappearance finally comes to light, the community is shocked by who is behind the plot.</desc>
-    <episode-num system="dd_progid">EP000000212090</episode-num>
-  </programme>
-<programme start="20261120063700 +0000" stop="20261120081900 +0000" channel="99951518">
-    <title lang="en">'Til Death Do Us Part</title>
-    <desc lang="en">A beloved small-town minister is found killed in his family home and his wife and three children are nowhere to be found.</desc>
-    <episode-num system="dd_progid">EP000000212091</episode-num>
-  </programme>
-<programme start="20261120081900 +0000" stop="20261120100200 +0000" channel="99951518">
-    <title lang="en">The Hungryland Homicides</title>
-    <desc lang="en">When a young mother goes missing, police question a pastor, the ex-husband and even a local ventriloquist.</desc>
-    <episode-num system="dd_progid">EP000000212092</episode-num>
-  </programme>
-<programme start="20261120100200 +0000" stop="20261120114400 +0000" channel="99951518">
-    <title lang="en">Forever 17</title>
-    <desc lang="en">When two teen girls never make it home after a night out, authorities discover their dead bodies in the trunk of a car; detectives go to exhaustive lengths to identify the killer, but it takes decades before they zero in on a very unlikely suspect.</desc>
-    <episode-num system="dd_progid">EP000000212093</episode-num>
-  </programme>
-<programme start="20261120114400 +0000" stop="20261120132500 +0000" channel="99951518">
-    <title lang="en">The Unkindest Cut</title>
-    <desc lang="en">When a beloved celebrity hairstylist is found murdered in his home, authorities consider whether it was a burglary gone wrong or something more sinister.</desc>
-    <episode-num system="dd_progid">EP000000212094</episode-num>
-  </programme>
-<programme start="20261120132500 +0000" stop="20261120150800 +0000" channel="99951518">
-    <title lang="en">A Deadly Scream</title>
-    <desc lang="en">After the largest investigation in Tennessee's history, a key witness recants his testimony when the remains of a 20-year-old nursing student are found three years after her disappearance.</desc>
-    <episode-num system="dd_progid">EP000000212095</episode-num>
-  </programme>
-<programme start="20261120150800 +0000" stop="20261120165000 +0000" channel="99951518">
-    <title lang="en">Follow the Fingerprints</title>
-    <desc lang="en">In the eyes of the law, a man killed his first wife, but his second wife thinks he is innocent; incredible new developments take this investigation in a completely new direction, as John Quiñones reports on the crime, the courts and the confession.</desc>
-    <episode-num system="dd_progid">EP000000212096</episode-num>
-  </programme>
-<programme start="20261120165000 +0000" stop="20261120183200 +0000" channel="99951518">
-    <title lang="en">To Have and to Hoax</title>
-    <desc lang="en">Interview with Keith Papini after his ex-wife, Sherri Papini, served 10 months in prison for lying to federal agents about her fabricated kidnapping.</desc>
-    <episode-num system="dd_progid">EP000000212098</episode-num>
-  </programme>
-<programme start="20261120183200 +0000" stop="20261120201500 +0000" channel="99951518">
-    <title lang="en">Night Terror</title>
-    <desc lang="en">A couple is murdered inside their home, possibly by someone trying to hide a secret double life.</desc>
-    <episode-num system="dd_progid">EP000000212100</episode-num>
-  </programme>
-<programme start="20261120201500 +0000" stop="20261120215700 +0000" channel="99951518">
-    <title lang="en">Karen Read: The Perfect Storm</title>
-    <desc lang="en">Karen Read answers questions surrounding the night at issue in her controversial trial.</desc>
-    <episode-num system="dd_progid">EP000000212101</episode-num>
-  </programme>
-<programme start="20261120215700 +0000" stop="20261120233900 +0000" channel="99951518">
-    <title lang="en">The Pointe of No Return</title>
-    <desc lang="en">Features an interview with Ashley Benefield, the woman at the center of the so-called "Black Swan Trial."</desc>
-    <episode-num system="dd_progid">EP000000212102</episode-num>
-  </programme>
-<programme start="20261120233900 +0000" stop="20261121003300 +0000" channel="99951518">
-    <title lang="en">Dangerous Game</title>
-    <desc lang="en">An Illinois man jokes on national TV that he regrets his marriage; a couple of months later, his wife is murdered; authorities wonder whether a ghostly figure on a bike caught on surveillance video could be the killer.</desc>
-    <episode-num system="dd_progid">EP049901520001</episode-num>
-  </programme>
-<programme start="20261121003300 +0000" stop="20261121012400 +0000" channel="99951518">
-    <title lang="en">No Trace</title>
-    <desc lang="en">A situation involving a husband, a wife and a young bar hostess results in a disappearance.</desc>
-    <episode-num system="dd_progid">EP049901520002</episode-num>
-  </programme>
-<programme start="20261121012400 +0000" stop="20261121021800 +0000" channel="99951518">
-    <title lang="en">Shot in the Dark</title>
-    <desc lang="en">A high school love story turns deadly.</desc>
-    <episode-num system="dd_progid">EP049901520003</episode-num>
-  </programme>
-<programme start="20261121021800 +0000" stop="20261121031100 +0000" channel="99951518">
-    <title lang="en">Tangled Web</title>
-    <desc lang="en">A couple is stalked, a woman goes missing, and one cellphone holds the key.</desc>
-    <episode-num system="dd_progid">EP049901520004</episode-num>
-  </programme>
-<programme start="20261121031100 +0000" stop="20261121040400 +0000" channel="99951518">
-    <title lang="en">Deadly Night</title>
-    <desc lang="en">A home invasion and shooting may have a sinister motive.</desc>
-    <episode-num system="dd_progid">EP049901520005</episode-num>
-  </programme>
-<programme start="20261121040400 +0000" stop="20261121045800 +0000" channel="99951518">
-    <title lang="en">Shattered Love</title>
-    <desc lang="en">A beloved young mother is found murdered in her bedroom closet; the incredible investigation leads to multiple trials and a 24-year search for justice.</desc>
-    <episode-num system="dd_progid">EP049901520006</episode-num>
-  </programme>
-<programme start="20261121045800 +0000" stop="20261121054900 +0000" channel="99951518">
-    <title lang="en">Dark Waters</title>
-    <desc lang="en">When a military hero's body is found at the bottom of a pond, authorities race to find the killer; the shocking evidence leads to someone closer than authorities could have imagined.</desc>
-    <episode-num system="dd_progid">EP049901520007</episode-num>
   </programme>
 <programme start="20261119050000 +0000" stop="20261119052700 +0000" channel="99951471">
     <title lang="en">Episode 14</title>
@@ -5720,6 +5560,301 @@
     <desc lang="en">Greedy executive Sidney J. Mussburger (Paul Newman) hopes to take control of the company he works for by purchasing a majority share -- but he must first devalue the stock. So he convinces the board to appoint know-nothing recent graduate Norville Barnes (Tim Robbins). But Mussburger's plot backfires when Barnes' latest invention succeeds, thereby increasing the company's value. Worse yet, undercover reporter Amy Archer (Jennifer Jason Leigh) has the scoop on Mussburger's shady dealings.</desc>
     <episode-num system="dd_assetid">XT0KMYU9O8G5SP</episode-num>
   </programme>
+<programme start="20261119052500 +0000" stop="20261119061500 +0000" channel="99951461">
+    <title lang="en">Mail, Nails, Jail</title>
+    <desc lang="en">The jail's Special Operations Group is called in to deal with a difficult inmate; a well-known inmate returns to jail, but this time, he's in with his girlfriend, who might be harboring a secret that could dramatically affect both their lives.</desc>
+    <episode-num system="dd_progid">EP024347930006</episode-num>
+  </programme>
+<programme start="20261119061500 +0000" stop="20261119070600 +0000" channel="99951461">
+    <title lang="en">Two Degrees of Murder</title>
+    <desc lang="en">A pregnant woman faces the charge of killing her husband two months away from giving birth; her future lies in the hands of a judge; another inmate, also facing a murder charge, pays a price when he disobeys orders.</desc>
+    <episode-num system="dd_progid">EP024346020004</episode-num>
+  </programme>
+<programme start="20261119070600 +0000" stop="20261119075700 +0000" channel="99951461">
+    <title lang="en">Baptism by Fire</title>
+    <desc lang="en">Inside Suffolk County Jail, one inmate finds himself on the wrong end of a vicious attack; another, with a reputation for violence, keeps the staff on constant alert; a young man with a bright future awaits trial for first-degree murder.</desc>
+    <episode-num system="dd_progid">EP024317010006</episode-num>
+  </programme>
+<programme start="20261119075700 +0000" stop="20261119084700 +0000" channel="99951461">
+    <title lang="en">The Shakedown</title>
+    <desc lang="en">Correctional officers are outnumbered 10 to 1 and are constantly searching over 1,000 inmates to find their home-made weapons, which are very easy to conceal; hours after the Lock-Up crew wraps shooting, an inmate is stabbed in the honor dorm.</desc>
+    <episode-num system="dd_progid">EP010129700004</episode-num>
+  </programme>
+<programme start="20261119084700 +0000" stop="20261119093800 +0000" channel="99951461">
+    <title lang="en">Blue Balloons</title>
+    <desc lang="en">A young couple comes to jail after a crime spree, but their stories don't add up; one of the jail's most prolific contraband smugglers makes her return, but staff cracks down on the pipeline.</desc>
+    <episode-num system="dd_progid">EP024353420006</episode-num>
+  </programme>
+<programme start="20261119093800 +0000" stop="20261119102800 +0000" channel="99951461">
+    <title lang="en">Get Out and Stay Out</title>
+    <desc lang="en">For some inmates, the only way out of prison is "paroling legit," or leaving in a body bag; others earn a lump sum of good time by completing programs or holding a prison job, while a few will take any chance to try to escape.</desc>
+    <episode-num system="dd_progid">EP011103800006</episode-num>
+  </programme>
+<programme start="20261119102800 +0000" stop="20261119111700 +0000" channel="99951461">
+    <title lang="en">All the President's Money?</title>
+    <desc lang="en">The best bank robbers in American history hatch an ingenious plan to steal 30 million from a rumored Nixon slush fund, sparking the biggest FBI manhunt since the Kennedy assassination.</desc>
+    <episode-num system="dd_progid">EP039111470001</episode-num>
+  </programme>
+<programme start="20261119111700 +0000" stop="20261119120500 +0000" channel="99951461">
+    <title lang="en">Secrets of the Transy Book Heist</title>
+    <desc lang="en">Four clean-cut college students risk it all to become super-thieves by targeting $12 million in rare books in a brash daylight heist that baffles the cops hunting them.</desc>
+    <episode-num system="dd_progid">EP039111470002</episode-num>
+  </programme>
+<programme start="20261119120500 +0000" stop="20261119125400 +0000" channel="99951461">
+    <title lang="en">A Van Full of Dollars</title>
+    <desc lang="en">A model bank employee pulls off the second-biggest cash heist in history when he stuffs a work van with $17 million in untraceable cash and flees to Mexico, only to be betrayed by his partners when greed fuels a murder plot.</desc>
+    <episode-num system="dd_progid">EP039111470003</episode-num>
+  </programme>
+<programme start="20261119125400 +0000" stop="20261119134300 +0000" channel="99951461">
+    <title lang="en">The Inside Job</title>
+    <desc lang="en">When a violent gang of bank robbers executes a perfect heist, cops don't realize that one of the terrified bank tellers is actually the mastermind behind it all.</desc>
+    <episode-num system="dd_progid">EP039111470004</episode-num>
+  </programme>
+<programme start="20261119134300 +0000" stop="20261119143100 +0000" channel="99951461">
+    <title lang="en">The Picasso Thief</title>
+    <desc lang="en">When an irreplaceable Picasso is plucked from a gallery wall, cops know they have just 24 hours to track the thief down before it's likely gone for good.</desc>
+    <episode-num system="dd_progid">EP039111470005</episode-num>
+  </programme>
+<programme start="20261119143100 +0000" stop="20261119152000 +0000" channel="99951461">
+    <title lang="en">The Heist of the Century</title>
+    <desc lang="en">TV cameras are there when armed bank robbers take hostages at a large, international bank; police don't realize the robbery only masks a more spectacular heist taking place right under their feet.</desc>
+    <episode-num system="dd_progid">EP039111470006</episode-num>
+  </programme>
+<programme start="20261119152000 +0000" stop="20261119160900 +0000" channel="99951461">
+    <title lang="en">Counterfeit Goods</title>
+    <desc lang="en">Carl Quintanilla investigates the counterfeit goods industry, which brings in billions every year.</desc>
+    <episode-num system="dd_progid">EP014186500004</episode-num>
+  </programme>
+<programme start="20261119160900 +0000" stop="20261119165700 +0000" channel="99951461">
+    <title lang="en">Human Trafficking</title>
+    <desc lang="en">Young girls line the streets of Mexico; sex houses litter Midwest neighborhoods; U.S. immigrants are exploited.</desc>
+    <episode-num system="dd_progid">EP014186500001</episode-num>
+  </programme>
+<programme start="20261119165700 +0000" stop="20261119174700 +0000" channel="99951461">
+    <title lang="en">Madoff Behind Bars</title>
+    <desc lang="en">Learn what prison life is really like for Bernie Madoff, the perpetrator of the biggest financial scams in US history.</desc>
+    <episode-num system="dd_progid">EP009370080052</episode-num>
+  </programme>
+<programme start="20261119174700 +0000" stop="20261119183600 +0000" channel="99951461">
+    <title lang="en">Million Dollar Prison Kickback</title>
+    <desc lang="en">Chris Epps charms his way up the ladder, from prison guard to the top post of Mississippi Department of Corrections Commissioner. Once in office, he and his businessman buddy, Cecil McCrory, set up shop, siphoning kickbacks and bribes.</desc>
+    <episode-num system="dd_progid">EP009370080307</episode-num>
+  </programme>
+<programme start="20261119183600 +0000" stop="20261119192400 +0000" channel="99951461">
+    <title lang="en">All the President's Money?</title>
+    <desc lang="en">The best bank robbers in American history hatch an ingenious plan to steal 30 million from a rumored Nixon slush fund, sparking the biggest FBI manhunt since the Kennedy assassination.</desc>
+    <episode-num system="dd_progid">EP039111470001</episode-num>
+  </programme>
+<programme start="20261119192400 +0000" stop="20261119201300 +0000" channel="99951461">
+    <title lang="en">Secrets of the Transy Book Heist</title>
+    <desc lang="en">Four clean-cut college students risk it all to become super-thieves by targeting $12 million in rare books in a brash daylight heist that baffles the cops hunting them.</desc>
+    <episode-num system="dd_progid">EP039111470002</episode-num>
+  </programme>
+<programme start="20261119201300 +0000" stop="20261119210100 +0000" channel="99951461">
+    <title lang="en">A Van Full of Dollars</title>
+    <desc lang="en">A model bank employee pulls off the second-biggest cash heist in history when he stuffs a work van with $17 million in untraceable cash and flees to Mexico, only to be betrayed by his partners when greed fuels a murder plot.</desc>
+    <episode-num system="dd_progid">EP039111470003</episode-num>
+  </programme>
+<programme start="20261119210100 +0000" stop="20261119215000 +0000" channel="99951461">
+    <title lang="en">The Inside Job</title>
+    <desc lang="en">When a violent gang of bank robbers executes a perfect heist, cops don't realize that one of the terrified bank tellers is actually the mastermind behind it all.</desc>
+    <episode-num system="dd_progid">EP039111470004</episode-num>
+  </programme>
+<programme start="20261119215000 +0000" stop="20261119223900 +0000" channel="99951461">
+    <title lang="en">The Picasso Thief</title>
+    <desc lang="en">When an irreplaceable Picasso is plucked from a gallery wall, cops know they have just 24 hours to track the thief down before it's likely gone for good.</desc>
+    <episode-num system="dd_progid">EP039111470005</episode-num>
+  </programme>
+<programme start="20261119223900 +0000" stop="20261119232700 +0000" channel="99951461">
+    <title lang="en">The Heist of the Century</title>
+    <desc lang="en">TV cameras are there when armed bank robbers take hostages at a large, international bank; police don't realize the robbery only masks a more spectacular heist taking place right under their feet.</desc>
+    <episode-num system="dd_progid">EP039111470006</episode-num>
+  </programme>
+<programme start="20261119232700 +0000" stop="20261120001600 +0000" channel="99951461">
+    <title lang="en">Counterfeit Goods</title>
+    <desc lang="en">Carl Quintanilla investigates the counterfeit goods industry, which brings in billions every year.</desc>
+    <episode-num system="dd_progid">EP014186500004</episode-num>
+  </programme>
+<programme start="20261120001600 +0000" stop="20261120010500 +0000" channel="99951461">
+    <title lang="en">Human Trafficking</title>
+    <desc lang="en">Young girls line the streets of Mexico; sex houses litter Midwest neighborhoods; U.S. immigrants are exploited.</desc>
+    <episode-num system="dd_progid">EP014186500001</episode-num>
+  </programme>
+<programme start="20261120010500 +0000" stop="20261120015400 +0000" channel="99951461">
+    <title lang="en">Madoff Behind Bars</title>
+    <desc lang="en">Learn what prison life is really like for Bernie Madoff, the perpetrator of the biggest financial scams in US history.</desc>
+    <episode-num system="dd_progid">EP009370080052</episode-num>
+  </programme>
+<programme start="20261120015400 +0000" stop="20261120024300 +0000" channel="99951461">
+    <title lang="en">Million Dollar Prison Kickback</title>
+    <desc lang="en">Chris Epps charms his way up the ladder, from prison guard to the top post of Mississippi Department of Corrections Commissioner. Once in office, he and his businessman buddy, Cecil McCrory, set up shop, siphoning kickbacks and bribes.</desc>
+    <episode-num system="dd_progid">EP009370080307</episode-num>
+  </programme>
+<programme start="20261120024300 +0000" stop="20261120033200 +0000" channel="99951461">
+    <title lang="en">All the President's Money?</title>
+    <desc lang="en">The best bank robbers in American history hatch an ingenious plan to steal 30 million from a rumored Nixon slush fund, sparking the biggest FBI manhunt since the Kennedy assassination.</desc>
+    <episode-num system="dd_progid">EP039111470001</episode-num>
+  </programme>
+<programme start="20261120033200 +0000" stop="20261120042000 +0000" channel="99951461">
+    <title lang="en">Secrets of the Transy Book Heist</title>
+    <desc lang="en">Four clean-cut college students risk it all to become super-thieves by targeting $12 million in rare books in a brash daylight heist that baffles the cops hunting them.</desc>
+    <episode-num system="dd_progid">EP039111470002</episode-num>
+  </programme>
+<programme start="20261120042000 +0000" stop="20261120050900 +0000" channel="99951461">
+    <title lang="en">A Van Full of Dollars</title>
+    <desc lang="en">A model bank employee pulls off the second-biggest cash heist in history when he stuffs a work van with $17 million in untraceable cash and flees to Mexico, only to be betrayed by his partners when greed fuels a murder plot.</desc>
+    <episode-num system="dd_progid">EP039111470003</episode-num>
+  </programme>
+<programme start="20261120050900 +0000" stop="20261120055700 +0000" channel="99951461">
+    <title lang="en">The Inside Job</title>
+    <desc lang="en">When a violent gang of bank robbers executes a perfect heist, cops don't realize that one of the terrified bank tellers is actually the mastermind behind it all.</desc>
+    <episode-num system="dd_progid">EP039111470004</episode-num>
+  </programme>
+<programme start="20261120055700 +0000" stop="20261120064600 +0000" channel="99951461">
+    <title lang="en">The Picasso Thief</title>
+    <desc lang="en">When an irreplaceable Picasso is plucked from a gallery wall, cops know they have just 24 hours to track the thief down before it's likely gone for good.</desc>
+    <episode-num system="dd_progid">EP039111470005</episode-num>
+  </programme>
+<programme start="20261120064600 +0000" stop="20261120073400 +0000" channel="99951461">
+    <title lang="en">The Heist of the Century</title>
+    <desc lang="en">TV cameras are there when armed bank robbers take hostages at a large, international bank; police don't realize the robbery only masks a more spectacular heist taking place right under their feet.</desc>
+    <episode-num system="dd_progid">EP039111470006</episode-num>
+  </programme>
+<programme start="20261120073400 +0000" stop="20261120082300 +0000" channel="99951461">
+    <title lang="en">Counterfeit Goods</title>
+    <desc lang="en">Carl Quintanilla investigates the counterfeit goods industry, which brings in billions every year.</desc>
+    <episode-num system="dd_progid">EP014186500004</episode-num>
+  </programme>
+<programme start="20261120082300 +0000" stop="20261120091200 +0000" channel="99951461">
+    <title lang="en">Human Trafficking</title>
+    <desc lang="en">Young girls line the streets of Mexico; sex houses litter Midwest neighborhoods; U.S. immigrants are exploited.</desc>
+    <episode-num system="dd_progid">EP014186500001</episode-num>
+  </programme>
+<programme start="20261120091200 +0000" stop="20261120100100 +0000" channel="99951461">
+    <title lang="en">Madoff Behind Bars</title>
+    <desc lang="en">Learn what prison life is really like for Bernie Madoff, the perpetrator of the biggest financial scams in US history.</desc>
+    <episode-num system="dd_progid">EP009370080052</episode-num>
+  </programme>
+<programme start="20261120100100 +0000" stop="20261120105200 +0000" channel="99951461">
+    <title lang="en">Bad Rep</title>
+    <desc lang="en">A man accused of possessing child porn tries to salvage his relationship with his daughter and her children; deputies contend with an inmate on a mission.</desc>
+    <episode-num system="dd_progid">EP024317010005</episode-num>
+  </programme>
+<programme start="20261120105200 +0000" stop="20261120114300 +0000" channel="99951461">
+    <title lang="en">Checkmate</title>
+    <desc lang="en">The tenth floor of Cuyahoga County Correction Center contains the Special Response Team, or SERT, a tactical unit trained in the use of riot gear, non-lethal weapons and controlling high-risk inmates.</desc>
+    <episode-num system="dd_progid">EP024326350006</episode-num>
+  </programme>
+<programme start="20261120114300 +0000" stop="20261120123400 +0000" channel="99951461">
+    <title lang="en">Severed Ties</title>
+    <desc lang="en">A grim field trip for one inmate, while another offers up clues to an Ohio sex slave mystery; horseplay in the county jail usually doesn't mean fun and games.</desc>
+    <episode-num system="dd_progid">EP010201250054</episode-num>
+  </programme>
+<programme start="20261120123400 +0000" stop="20261120132500 +0000" channel="99951461">
+    <title lang="en">No Boys Allowed</title>
+    <desc lang="en">A look at female inmates that start off socializing, but end up creating a lot drama for the staff.</desc>
+    <episode-num system="dd_progid">EP010201250050</episode-num>
+  </programme>
+<programme start="20261120132500 +0000" stop="20261120141400 +0000" channel="99951461">
+    <title lang="en">The Flip Side</title>
+    <desc lang="en">A U.S. Marine violates the code and now faces a murder charge; a would-be soccer mom takes up with a violent street gang; an openly gay inmate adheres to the convict code and pays the price.</desc>
+    <episode-num system="dd_progid">EP010201250038</episode-num>
+  </programme>
+<programme start="20261120141400 +0000" stop="20261120150400 +0000" channel="99951461">
+    <title lang="en">Word to the Wise</title>
+    <desc lang="en">Using inmates to turn troubled teens away from a life of crime; inmates express their regrets.</desc>
+    <episode-num system="dd_progid">EP010201250040</episode-num>
+  </programme>
+<programme start="20261120150400 +0000" stop="20261120155500 +0000" channel="99951461">
+    <title lang="en">The Damage Done</title>
+    <desc lang="en">Inside Florida's toughest maximum-security prison a convicted murderer breaks down the ways of prison, while a young, fresh-faced inmate learns about them; another inmate mails a death threat to the White House and then carries out a shocking act.</desc>
+    <episode-num system="dd_progid">EP015497410006</episode-num>
+  </programme>
+<programme start="20261120155500 +0000" stop="20261120164600 +0000" channel="99951461">
+    <title lang="en">Jail Born</title>
+    <desc lang="en">A night at the beach in his brother's truck sends a repeat offender back to jail; a Christmas morning hold-up leaves a young man dead and four people in jail with serious charges.</desc>
+    <episode-num system="dd_progid">EP024353420002</episode-num>
+  </programme>
+<programme start="20261120164600 +0000" stop="20261120173700 +0000" channel="99951461">
+    <title lang="en">Taking a Hostage</title>
+    <desc lang="en">At the Penitentiary of New Mexico, officers are outnumbered, and the inmates are unpredictable, especially in Level 6, the maximum-security facility; it's where the deputy warden says "the worst of the worst" are housed.</desc>
+    <episode-num system="dd_progid">EP011103800001</episode-num>
+  </programme>
+<programme start="20261120173700 +0000" stop="20261120182700 +0000" channel="99951461">
+    <title lang="en">Bad Rep</title>
+    <desc lang="en">A man accused of possessing child porn tries to salvage his relationship with his daughter and her children; deputies contend with an inmate on a mission.</desc>
+    <episode-num system="dd_progid">EP024317010005</episode-num>
+  </programme>
+<programme start="20261120182700 +0000" stop="20261120191800 +0000" channel="99951461">
+    <title lang="en">Checkmate</title>
+    <desc lang="en">The tenth floor of Cuyahoga County Correction Center contains the Special Response Team, or SERT, a tactical unit trained in the use of riot gear, non-lethal weapons and controlling high-risk inmates.</desc>
+    <episode-num system="dd_progid">EP024326350006</episode-num>
+  </programme>
+<programme start="20261120191800 +0000" stop="20261120200900 +0000" channel="99951461">
+    <title lang="en">Severed Ties</title>
+    <desc lang="en">A grim field trip for one inmate, while another offers up clues to an Ohio sex slave mystery; horseplay in the county jail usually doesn't mean fun and games.</desc>
+    <episode-num system="dd_progid">EP010201250054</episode-num>
+  </programme>
+<programme start="20261120200900 +0000" stop="20261120210000 +0000" channel="99951461">
+    <title lang="en">No Boys Allowed</title>
+    <desc lang="en">A look at female inmates that start off socializing, but end up creating a lot drama for the staff.</desc>
+    <episode-num system="dd_progid">EP010201250050</episode-num>
+  </programme>
+<programme start="20261120210000 +0000" stop="20261120214900 +0000" channel="99951461">
+    <title lang="en">The Flip Side</title>
+    <desc lang="en">A U.S. Marine violates the code and now faces a murder charge; a would-be soccer mom takes up with a violent street gang; an openly gay inmate adheres to the convict code and pays the price.</desc>
+    <episode-num system="dd_progid">EP010201250038</episode-num>
+  </programme>
+<programme start="20261120214900 +0000" stop="20261120224000 +0000" channel="99951461">
+    <title lang="en">Word to the Wise</title>
+    <desc lang="en">Using inmates to turn troubled teens away from a life of crime; inmates express their regrets.</desc>
+    <episode-num system="dd_progid">EP010201250040</episode-num>
+  </programme>
+<programme start="20261120224000 +0000" stop="20261120233000 +0000" channel="99951461">
+    <title lang="en">The Damage Done</title>
+    <desc lang="en">Inside Florida's toughest maximum-security prison a convicted murderer breaks down the ways of prison, while a young, fresh-faced inmate learns about them; another inmate mails a death threat to the White House and then carries out a shocking act.</desc>
+    <episode-num system="dd_progid">EP015497410006</episode-num>
+  </programme>
+<programme start="20261120233000 +0000" stop="20261121002100 +0000" channel="99951461">
+    <title lang="en">Jail Born</title>
+    <desc lang="en">A night at the beach in his brother's truck sends a repeat offender back to jail; a Christmas morning hold-up leaves a young man dead and four people in jail with serious charges.</desc>
+    <episode-num system="dd_progid">EP024353420002</episode-num>
+  </programme>
+<programme start="20261121002100 +0000" stop="20261121011200 +0000" channel="99951461">
+    <title lang="en">Taking a Hostage</title>
+    <desc lang="en">At the Penitentiary of New Mexico, officers are outnumbered, and the inmates are unpredictable, especially in Level 6, the maximum-security facility; it's where the deputy warden says "the worst of the worst" are housed.</desc>
+    <episode-num system="dd_progid">EP011103800001</episode-num>
+  </programme>
+<programme start="20261121011200 +0000" stop="20261121020300 +0000" channel="99951461">
+    <title lang="en">Bad Rep</title>
+    <desc lang="en">A man accused of possessing child porn tries to salvage his relationship with his daughter and her children; deputies contend with an inmate on a mission.</desc>
+    <episode-num system="dd_progid">EP024317010005</episode-num>
+  </programme>
+<programme start="20261121020300 +0000" stop="20261121025400 +0000" channel="99951461">
+    <title lang="en">Checkmate</title>
+    <desc lang="en">The tenth floor of Cuyahoga County Correction Center contains the Special Response Team, or SERT, a tactical unit trained in the use of riot gear, non-lethal weapons and controlling high-risk inmates.</desc>
+    <episode-num system="dd_progid">EP024326350006</episode-num>
+  </programme>
+<programme start="20261121025400 +0000" stop="20261121034400 +0000" channel="99951461">
+    <title lang="en">Severed Ties</title>
+    <desc lang="en">A grim field trip for one inmate, while another offers up clues to an Ohio sex slave mystery; horseplay in the county jail usually doesn't mean fun and games.</desc>
+    <episode-num system="dd_progid">EP010201250054</episode-num>
+  </programme>
+<programme start="20261121034400 +0000" stop="20261121043500 +0000" channel="99951461">
+    <title lang="en">No Boys Allowed</title>
+    <desc lang="en">A look at female inmates that start off socializing, but end up creating a lot drama for the staff.</desc>
+    <episode-num system="dd_progid">EP010201250050</episode-num>
+  </programme>
+<programme start="20261121043500 +0000" stop="20261121052500 +0000" channel="99951461">
+    <title lang="en">The Flip Side</title>
+    <desc lang="en">A U.S. Marine violates the code and now faces a murder charge; a would-be soccer mom takes up with a violent street gang; an openly gay inmate adheres to the convict code and pays the price.</desc>
+    <episode-num system="dd_progid">EP010201250038</episode-num>
+  </programme>
+<programme start="20261121052500 +0000" stop="20261121061500 +0000" channel="99951461">
+    <title lang="en">Word to the Wise</title>
+    <desc lang="en">Using inmates to turn troubled teens away from a life of crime; inmates express their regrets.</desc>
+    <episode-num system="dd_progid">EP010201250040</episode-num>
+  </programme>
 <programme start="20261119042931 +0000" stop="20261119063737 +0000" channel="99991300">
     <title lang="en">Get the Girl</title>
     <desc lang="en">When a strange girl appears do you help, or mind your business? A retired hitman and his trainee get pulled into the shit when they decide to save a girl who escapes from trafficking. Sometimes you gotta do bad things to bad people.</desc>
@@ -6084,11 +6219,6 @@
     <title lang="en">Corrupt Correspondence</title>
     <desc lang="en">After battle, the party finds the Medaji working with The Future.</desc>
     <episode-num system="dd_assetid">XT0DYQWI4TDWSD</episode-num>
-  </programme>
-<programme start="20261119033735 +0000" stop="20261119052459 +0000" channel="9999615">
-    <title lang="en">Dragon Boys Part 2</title>
-    <desc lang="en">Set in Richmond and Vancouver, British Columbia, DRAGON BOYS, is both compelling family drama and a high-octane thriller. The two-part, four-hour mini-series centers on a Chinese Canadian police detective and an immigrant family who confront a deadly threat from Asian organized crime.</desc>
-    <episode-num system="dd_assetid">XM0VSGU1HLIWS9</episode-num>
   </programme>
 <programme start="20261119052459 +0000" stop="20261119071735 +0000" channel="9999615">
     <title lang="en">Shortwave</title>
