@@ -508,7 +508,13 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         one championship
         glory kickboxing
     """),
+    # Must sit ABOVE Crime: the Crime list has the whole word 'mystery', which
+    # would otherwise capture "Mystery Science Theater 3000".
     'Comedy': _words("""
+        mystery science theater
+        mst3k
+    """),
+    'Comedy (after Classic TV)': _words("""
         comedy central
         according to jim
         pluto tv comedy
