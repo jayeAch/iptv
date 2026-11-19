@@ -32,10 +32,6 @@
     <display-name>Samsung Television Network</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300068X7_20261103T171625SQUARE.png" />
   </channel>
-<channel id="USBD300003LK">
-    <display-name>ION Plus</display-name>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300003LK_20260421T133722SQUARE.png" />
-  </channel>
 <channel id="USBB36000040M">
     <display-name>Crime Zone</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB36000040M_20261001T230639SQUARE.png" />
@@ -76,6 +72,10 @@
     <display-name>TruBlu</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US37000036P_20250401T004913SQUARE.png" />
   </channel>
+<channel id="US2600022YJ">
+    <display-name>BuzzFeed Unsolved</display-name>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600022YJ_20260421T133748SQUARE.png" />
+  </channel>
 <channel id="US4600011ZJ">
     <display-name>Urban TV + Movies</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4600011ZJ_20261026T044632SQUARE.png" />
@@ -88,15 +88,6 @@
     <display-name>The Asylum</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ17000014C_20260421T141813SQUARE.png" />
   </channel>
-<programme channel="USBA3000041ZP" start="20261119013222 +0000" stop="20261119033137 +0000">
-    <title>The Roundup</title>
-    <desc>A police officer travels to Vietnam to extradite a suspect and discovers a murderer who has been targeting tourists for years.</desc>
-    <category lang="en">Movies</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_50549736_0_20261109T113611869Z_107_imageprocessorclient-tvplus-linear-6b56cc9f55-hrddh.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme channel="USBA3000041ZP" start="20261119033137 +0000" stop="20261119060005 +0000">
     <title>A Few Good Men</title>
     <desc>Lt. Daniel Kaffee (Tom Cruise) is a military lawyer defending two U.S. Marines charged with killing a fellow Marine at the Guantánamo Bay Naval Base in Cuba. Although Kaffee is known for seeking plea bargains, a fellow lawyer, Lt. Cdr. JoAnne Galloway (Demi Moore), convinces him that the accused marines were most likely carrying out an order from a commanding officer. Kaffee takes a risk by calling Col. Nathan R. Jessep (Jack Nicholson) to the stand in an effort to uncover the conspiracy.</desc>
@@ -113,15 +104,6 @@
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_48859113_0_20261029T062918736Z_60_imageprocessorclient-tvplus-linear-6b56cc9f55-rhk9l.jpeg" />
     <rating>
       <value>PG-13</value>
-    </rating>
-  </programme>
-<programme channel="USBD3500036HP" start="20261119001214 +0000" stop="20261119023515 +0000">
-    <title>Enemy of the State</title>
-    <desc>Robert Clayton Dean is a successful Washington, D.C., attorney who -- without his knowledge -- is given a video that ties a top official of the National Security Agency to a political murder!</desc>
-    <category lang="en">Movies</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1875827870_0_20250828T030431760Z_132_imageprocessorclient-tvplus-linear-d7c8c765b-5qctb.jpeg" />
-    <rating>
-      <value>TV-14</value>
     </rating>
   </programme>
 <programme channel="USBD3500036HP" start="20261119023515 +0000" stop="20261119043222 +0000">
@@ -147,15 +129,6 @@
     <desc>Lt. Daniel Kaffee (Tom Cruise) is a military lawyer defending two U.S. Marines charged with killing a fellow Marine at the Guantánamo Bay Naval Base in Cuba. Although Kaffee is known for seeking plea bargains, a fellow lawyer, Lt. Cdr. JoAnne Galloway (Demi Moore), convinces him that the accused marines were most likely carrying out an order from a commanding officer. Kaffee takes a risk by calling Col. Nathan R. Jessep (Jack Nicholson) to the stand in an effort to uncover the conspiracy.</desc>
     <category lang="en">Movies</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_48985583_0_20261030T011142278Z_15_imageprocessorclient-tvplus-linear-6b56cc9f55-t79l9.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="USBD3500032H0" start="20261119012827 +0000" stop="20261119031951 +0000">
-    <title>Unstoppable (2010)</title>
-    <desc>Thousands of lives are at stake as ordinary heroes try to stop a runaway train transporting toxic chemicals in this action-thriller starring Denzel Washington and Chris Pine!</desc>
-    <category lang="en">Movies</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2204441793_0_20251125T110441594Z_55_imageprocessorclient-tvplus-linear-584c967455-zslhb.jpeg" />
     <rating>
       <value>TV-14</value>
     </rating>
@@ -214,15 +187,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme channel="US3600007N4" start="20261119012216 +0000" stop="20261119030629 +0000">
-    <title>Christmas a la Mode</title>
-    <desc>A woman needs a miracle in order to save her family's farm and her father's legacy in time for a happy Christmas.</desc>
-    <category lang="en">Christmas</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_48148163_4_20261025T021013527Z_1_imageprocessorclient-tvplus-linear-6b56cc9f55-wlc7k.jpeg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
 <programme channel="US3600007N4" start="20261119030629 +0000" stop="20261119045221 +0000">
     <title>A Christmas Post</title>
     <desc>Noah Harrington's construction in Oak Creek unearths old Letters to Santa. He partners with historian Tessa Findlay to fulfill Christmas wishes, sparking an unexpected romance.</desc>
@@ -279,15 +243,6 @@
       <value>PG-13</value>
     </rating>
   </programme>
-<programme channel="USBD700011RE" start="20261119011600 +0000" stop="20261119025600 +0000">
-    <title>Direct Contact</title>
-    <desc>An American prisoner in a Russian jail is given the chance for freedom if he is able to rescue a kidnapped American woman.</desc>
-    <category lang="en">Movies</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_9727489_12_20260421T160835003Z_91_imageprocessorclient-tvplus-linear-796646965d-s5xsw.jpeg" />
-    <rating>
-      <value>R</value>
-    </rating>
-  </programme>
 <programme channel="USBD700011RE" start="20261119025600 +0000" stop="20261119043500 +0000">
     <title>Trespass</title>
     <desc>Fast-talking diamond dealer Kyle Miller (Nicolas Cage) and his wife, Sarah (Nicole Kidman), live the good life in a beautiful home surrounded by thick woods. Their dream life turns into a nightmare when violent thieves, led by Elias (Ben Mendelsohn), invade their home disguised as police officers. With Kyle and Sarah now frightened captives, Kyle knows he must use every negotiating trick in his book, for once Elias and his men get what they want, the Millers will likely be killed.</desc>
@@ -313,26 +268,6 @@
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2436311977_0_20260120T020253465Z_88_imageprocessorclient-tvplus-linear-584c967455-gfmfr.jpeg" />
     <rating>
       <value>NA</value>
-    </rating>
-  </programme>
-<programme channel="US300068X7" start="20261119020920 +0000" stop="20261119030648 +0000">
-    <title>Extracted</title>
-    <sub-title>Survive the Night</sub-title>
-    <desc>How far will families push their loved ones for the chance to win $250,000?</desc>
-    <category lang="en">Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3762579073_0_20261114T033633961Z_95_imageprocessorclient-tvplus-linear-6b56cc9f55-7bxq7.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="US300068X7" start="20261119030648 +0000" stop="20261119040008 +0000">
-    <title>Extracted</title>
-    <sub-title>Gimme Shelter</sub-title>
-    <desc>Will any families leave the competition after day two?</desc>
-    <category lang="en">Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3762579073_0_20261114T033633961Z_95_imageprocessorclient-tvplus-linear-6b56cc9f55-7bxq7.jpeg" />
-    <rating>
-      <value>TV-14</value>
     </rating>
   </programme>
 <programme channel="US300068X7" start="20261119040008 +0000" stop="20261119042453 +0000">
@@ -389,75 +324,6 @@
     <desc>Will any families leave the competition after day two?</desc>
     <category lang="en">Crime</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3762579073_0_20261114T033633961Z_95_imageprocessorclient-tvplus-linear-6b56cc9f55-7bxq7.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="USBD300003LK" start="20261119020000 +0000" stop="20261119030000 +0000">
-    <title>MacGyver</title>
-    <sub-title>Corkscrew</sub-title>
-    <desc>When MacGyver faces an international assassin hired to kill him, he must defend both himself and Bozer with only a corkscrew and paper towel rolls  Bozer learns MacGyver's true identity.</desc>
-    <category lang="en">Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_534007569_0_20231017T002650274Z_64.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="USBD300003LK" start="20261119030000 +0000" stop="20261119040000 +0000">
-    <title>MacGyver</title>
-    <sub-title>Chisel</sub-title>
-    <desc>In Latvia, MacGyver and his team must defend themselves and a group of U.S. embassy workers from extremists trying to retrieve their leader  Bozer faces an important decision.</desc>
-    <category lang="en">Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_534007569_0_20231017T002650274Z_64.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="USBD300003LK" start="20261119040000 +0000" stop="20261119050000 +0000">
-    <title>MacGyver</title>
-    <sub-title>Pliers</sub-title>
-    <desc>Mac and the team search for a kidnapped prodigy from Mac's former middle school  with only pliers and some wire, Mac attempts to rescue the young genius.</desc>
-    <category lang="en">Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_534007569_0_20231017T002650274Z_64.jpeg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme channel="USBD300003LK" start="20261119050000 +0000" stop="20261119060000 +0000">
-    <title>MacGyver</title>
-    <sub-title>Scissors</sub-title>
-    <desc>MacGyver and Jack must find Riley after she disappears and hacks into the NSA  Bozer embarks on his first mission  Jack reveals his history with Riley's mother.</desc>
-    <category lang="en">Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_534007569_0_20231017T002650274Z_64.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="USBD300003LK" start="20261119060000 +0000" stop="20261119070000 +0000">
-    <title>MacGyver</title>
-    <sub-title>Screwdriver</sub-title>
-    <desc>MacGyver hunts a U.S. government mole who is leaking classified information to the organization trying to take down the Phoenix Foundation  Sarah comes back to help with the mission  Mac can't tell which side Nikki is on.</desc>
-    <category lang="en">Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_534007569_0_20231017T002650274Z_64.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="USBD300003LK" start="20261119070000 +0000" stop="20261119090000 +0000">
-    <title>Midsomer Murders: Breaking the Chain</title>
-    <desc>An international cycling race leader is murdered  Barnaby and Nelson find themselves drawn into a competitive world of blackmail, bribery and bloodshed.</desc>
-    <category lang="en">Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2173483268_0_20251118T011500616Z_1_imageprocessorclient-tvplus-linear-76c46fff7-mtpzg.jpeg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme channel="USBB36000040M" start="20261119022829 +0000" stop="20261119032153 +0000">
-    <title>Making a Serial Killer</title>
-    <sub-title>William Davis</sub-title>
-    <desc>To friends and family, William Davis is a loving Dad and caring nurse. But when his patients start dying unexpectedly, investigators uncover a shocking sinister side.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550796455_46_20241113T062842755Z_122_imageprocessorclient-tvplus-linear-5dc4fd45f6-kmjnf.jpeg" />
     <rating>
       <value>TV-14</value>
     </rating>
@@ -528,15 +394,6 @@
     <desc>Cops investigate the apparent carjacking of a husband and wife in East Los Angeles, California. They soon discover that the ambush was a ruse, carried out by cousins, to kill the husband for insurance money.</desc>
     <category lang="en">True Crime</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2395387221_0_20260109T045742778Z_72_imageprocessorclient-tvplus-linear-584c967455-p9wk7.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="USAK3508703A" start="20261119022510 +0000" stop="20261119031621 +0000">
-    <title>The First 48</title>
-    <desc>In Tulsa, Det. White needs a former student to tell the truth about a shooting.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3223225053_1_20260721T175511939Z_55_imageprocessorclient-tvplus-linear-9468c5484-8t2sc.jpeg" />
     <rating>
       <value>TV-14</value>
     </rating>
@@ -613,16 +470,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme channel="USBD1700008H9" start="20261119022313 +0000" stop="20261119031619 +0000">
-    <title>I Survived...</title>
-    <sub-title>Anita/Jim and Glen/Sabret</sub-title>
-    <desc>A young woman is abducted and put through a horrifying eight day ordeal.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_836743265_1_20250212T052214899Z_63_imageprocessorclient-tvplus-linear-b76dd9bbb-5jlst.jpeg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
 <programme channel="USBD1700008H9" start="20261119031619 +0000" stop="20261119040811 +0000">
     <title>I Survived...</title>
     <sub-title>Tennille/Chris/Joyce</sub-title>
@@ -673,16 +520,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme channel="USBB3200004X3" start="20261119021700 +0000" stop="20261119031400 +0000">
-    <title>Dr. G: Medical Examiner</title>
-    <sub-title>False Impressions</sub-title>
-    <desc>A man is found dismembered in a swamp  a slow van kills a pedestrian.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1327341480_2_20250514T175413671Z_43_imageprocessorclient-tvplus-linear-b76dd9bbb-7njgf.jpeg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
 <programme channel="USBB3200004X3" start="20261119031400 +0000" stop="20261119040500 +0000">
     <title>Dr. G: Medical Examiner</title>
     <sub-title>Needle in the Haystack</sub-title>
@@ -731,46 +568,6 @@
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1327341521_2_20250514T175412685Z_79_imageprocessorclient-tvplus-linear-b76dd9bbb-7njgf.jpeg" />
     <rating>
       <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme channel="US2001109K" start="20261119021546 +0000" stop="20261119024008 +0000">
-    <title>Killer Mysteries</title>
-    <sub-title>A Preference for Poison</sub-title>
-    <desc>When a Southern California high school teacher suddenly dies, it appears his death was due to natural causes. But once law enforcement starts looking into his widow, they uncover her treacherous past and her preference for using poison to kill.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2395387221_0_20260109T045742778Z_72_imageprocessorclient-tvplus-linear-584c967455-p9wk7.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="US2001109K" start="20261119024008 +0000" stop="20261119030430 +0000">
-    <title>Killer Mysteries</title>
-    <sub-title>Missing in Minnesota</sub-title>
-    <desc>Police in northern Minnesota rush to rescue a kidnapped college student. It takes NASA technology for law enforcement to uncover the identity of the abductor, who turns out to be a serial predator.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2395387221_0_20260109T045742778Z_72_imageprocessorclient-tvplus-linear-584c967455-p9wk7.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="US2001109K" start="20261119030430 +0000" stop="20261119032852 +0000">
-    <title>Killer Mysteries</title>
-    <sub-title>A Split Personality</sub-title>
-    <desc>When a woman is gunned down in the parking lot of her therapist's office building, it looks like a random act of violence. But security footage and eyewitnesses quickly reveal that the murder is part of a larger, coldblooded scheme carried out by a decorated community figure.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2395387221_0_20260109T045742778Z_72_imageprocessorclient-tvplus-linear-584c967455-p9wk7.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="US2001109K" start="20261119032852 +0000" stop="20261119035304 +0000">
-    <title>Killer Mysteries</title>
-    <sub-title>Lethal Payback</sub-title>
-    <desc>Cops in suburban Fort Worth, Texas, investigate a brutal killing at a construction site. After months of interviews, extensive forensic analysis, and a massive process of elimination, homicide detectives finally track down a suspect who they've been eyeing from the beginning.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2395387221_0_20260109T045742778Z_72_imageprocessorclient-tvplus-linear-584c967455-p9wk7.jpeg" />
-    <rating>
-      <value>TV-14</value>
     </rating>
   </programme>
 <programme channel="US2001109K" start="20261119035304 +0000" stop="20261119041725 +0000">
@@ -863,26 +660,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme channel="USBC1000002NP" start="20261119015614 +0000" stop="20261119025012 +0000">
-    <title>World's Most Evil Killers</title>
-    <sub-title>Diane Downs</sub-title>
-    <desc>Diane Downs shot her three children, killing her seven-year-old daughter Cheryl and wounding her other two children.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550791291_20_20241113T060450720Z_119_imageprocessorclient-tvplus-linear-5dc4fd45f6-prfs6.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="USBC1000002NP" start="20261119025012 +0000" stop="20261119034348 +0000">
-    <title>World's Most Evil Killers</title>
-    <sub-title>Robert Pickton</sub-title>
-    <desc>The story of one of the most prolific serial killers in Canadian history, "The Pig Farmer Killer."</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550791291_20_20241113T060450720Z_119_imageprocessorclient-tvplus-linear-5dc4fd45f6-prfs6.jpeg" />
-    <rating>
-      <value>TV-MA</value>
-    </rating>
-  </programme>
 <programme channel="USBC1000002NP" start="20261119034348 +0000" stop="20261119043705 +0000">
     <title>World's Most Evil Killers</title>
     <sub-title>Aileen Wuornos</sub-title>
@@ -933,16 +710,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme channel="USBD42000073E" start="20261119021817 +0000" stop="20261119031121 +0000">
-    <title>60 Days In</title>
-    <sub-title>Pick a Side</sub-title>
-    <desc>The participants struggle with race politics and jailhouse thieves.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3223620141_0_20260721T192403730Z_65_imageprocessorclient-tvplus-linear-9468c5484-2n2hv.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme channel="USBD42000073E" start="20261119031121 +0000" stop="20261119040439 +0000">
     <title>60 Days In</title>
     <sub-title>Loose Lips Sink Ships</sub-title>
@@ -979,36 +746,6 @@
     <desc>Sheriff Horton enlists the help of 7 innocent civilians to go undercover.</desc>
     <category lang="en">True Crime</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3223620141_0_20260721T192403730Z_65_imageprocessorclient-tvplus-linear-9468c5484-2n2hv.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="US700010XK" start="20261119021439 +0000" stop="20261119024230 +0000">
-    <title>Rescue Cam</title>
-    <sub-title>(#111)</sub-title>
-    <desc>Two skydivers get caught in their plane's landing gear. Matt Iseman hosts.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_840042838_0_20250212T212425071Z_19_imageprocessorclient-tvplus-linear-b76dd9bbb-v2p5r.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="US700010XK" start="20261119024230 +0000" stop="20261119031026 +0000">
-    <title>Rescue Cam</title>
-    <sub-title>(#112)</sub-title>
-    <desc>A wild cougar stalks a jogger. A gas explosion wreaks chaos in North Carolina.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_840042838_0_20250212T212425071Z_19_imageprocessorclient-tvplus-linear-b76dd9bbb-v2p5r.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="US700010XK" start="20261119031026 +0000" stop="20261119033803 +0000">
-    <title>Rescue Cam</title>
-    <sub-title>(#113)</sub-title>
-    <desc>Sailors race to save passengers from a plane crash in the ocean.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_840042838_0_20250212T212425071Z_19_imageprocessorclient-tvplus-linear-b76dd9bbb-v2p5r.jpeg" />
     <rating>
       <value>TV-14</value>
     </rating>
@@ -1073,16 +810,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme channel="US4800001W5" start="20261119013900 +0000" stop="20261119032100 +0000">
-    <title>20/20</title>
-    <sub-title>First Divorced Then Dead</sub-title>
-    <desc>A beloved professor is murdered  inside the trial.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3489966404_0_20260917T210617251Z_62_imageprocessorclient-tvplus-linear-6b56cc9f55-wlc7k.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
 <programme channel="US4800001W5" start="20261119032100 +0000" stop="20261119050400 +0000">
     <title>20/20</title>
     <sub-title>The One That Got Out</sub-title>
@@ -1111,33 +838,6 @@
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3489966404_0_20260917T210617251Z_62_imageprocessorclient-tvplus-linear-6b56cc9f55-wlc7k.jpeg" />
     <rating>
       <value>NA</value>
-    </rating>
-  </programme>
-<programme channel="US37000036P" start="20261119021734 +0000" stop="20261119024654 +0000">
-    <title>Press Box Chronicles With Jeff Pearlman</title>
-    <desc>The First Woman To Play In The NBA</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2026412631_0_20251010T194838248Z_115_imageprocessorclient-tvplus-linear-d7c8c765b-gphjj.png" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="US37000036P" start="20261119024654 +0000" stop="20261119031654 +0000">
-    <title>Press Box Chronicles With Jeff Pearlman</title>
-    <desc>A Cackling Douchebag... Or At Least That's What I Thought</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2026412631_0_20251010T194838248Z_115_imageprocessorclient-tvplus-linear-d7c8c765b-gphjj.png" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="US37000036P" start="20261119031654 +0000" stop="20261119034503 +0000">
-    <title>Takedown With Chris Hansen</title>
-    <desc>Chris Hansen continues his mission to hunt predators and protect children.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2869608982_3_20260502T233713615Z_44_imageprocessorclient-tvplus-linear-796646965d-96ghk.jpeg" />
-    <rating>
-      <value>TV-14</value>
     </rating>
   </programme>
 <programme channel="US37000036P" start="20261119034503 +0000" stop="20261119040751 +0000">
@@ -1221,13 +921,63 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme channel="US4600011ZJ" start="20261119015241 +0000" stop="20261119033458 +0000">
-    <title>Dear Santa I Need A Date</title>
-    <desc>Each holiday, Mr. and Mrs. Vaughn hope their successful kids, Janelle and Jason, will bring someone home.</desc>
-    <category lang="en">Movies</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3684573028_1_20261029T021729610Z_46_imageprocessorclient-tvplus-linear-6b56cc9f55-4hrj4.jpeg" />
+<programme channel="US2600022YJ" start="20261119033000 +0000" stop="20261119043000 +0000">
+    <title>BuzzFeed Unsolved</title>
+    <sub-title>The Unexplained Phoenix Lights Phenomenon</sub-title>
+    <desc>Extraterrestrials, or something even stranger?</desc>
+    <category lang="en">True Crime</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1689252927_0_20250715T223255334Z_57_imageprocessorclient-tvplus-linear-d7c8c765b-69wjt.jpeg" />
     <rating>
-      <value>TV-PG</value>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme channel="US2600022YJ" start="20261119043000 +0000" stop="20261119053000 +0000">
+    <title>BuzzFeed Unsolved</title>
+    <sub-title>The Spirits of Moon River Brewing</sub-title>
+    <desc>Ryan and Shane travel to one of the most haunted locations in Savannah, Georgia.</desc>
+    <category lang="en">True Crime</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1689252927_0_20250715T223255334Z_57_imageprocessorclient-tvplus-linear-d7c8c765b-69wjt.jpeg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme channel="US2600022YJ" start="20261119053000 +0000" stop="20261119060000 +0000">
+    <title>BuzzFeed Unsolved</title>
+    <sub-title>The Horrifying Sorrel-Weed Haunted Mansion</sub-title>
+    <desc>Do the spirits of the Civil War still haunt this Savannah landmark?</desc>
+    <category lang="en">True Crime</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1689252927_0_20250715T223255334Z_57_imageprocessorclient-tvplus-linear-d7c8c765b-69wjt.jpeg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme channel="US2600022YJ" start="20261119060000 +0000" stop="20261119063000 +0000">
+    <title>BuzzFeed Unsolved</title>
+    <sub-title>The Mystical Villa Montezuma Mansion</sub-title>
+    <desc>Is this musical mansion a gateway to the spirit world?</desc>
+    <category lang="en">True Crime</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1689252927_0_20250715T223255334Z_57_imageprocessorclient-tvplus-linear-d7c8c765b-69wjt.jpeg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme channel="US2600022YJ" start="20261119063000 +0000" stop="20261119070000 +0000">
+    <title>BuzzFeed Unsolved</title>
+    <sub-title>The Sinister Disappearance of Jimmy Hoffa</sub-title>
+    <desc>What really happened to this famed Mob figure?</desc>
+    <category lang="en">True Crime</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1689252929_1_20250715T223256078Z_1_imageprocessorclient-tvplus-linear-d7c8c765b-ktlvd.jpeg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme channel="US2600022YJ" start="20261119070000 +0000" stop="20261119080000 +0000">
+    <title>Unsolved Almost 70th Episode Retrospective: Reliving Our Biggest Cases</title>
+    <desc>Unsolved Almost 70th Episode Retrospective: Reliving Our Biggest Cases</desc>
+    <category lang="en">True Crime</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_533870053_0_20231012T063324407Z_71.jpeg" />
+    <rating>
+      <value>NA</value>
     </rating>
   </programme>
 <programme channel="US4600011ZJ" start="20261119033458 +0000" stop="20261119051715 +0000">
@@ -1253,36 +1003,6 @@
     <desc>A couple acts like they're getting divorced to lure their children home for the holiday.</desc>
     <category lang="en">Movies</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3679897457_2_20261028T021008780Z_39_imageprocessorclient-tvplus-linear-6b56cc9f55-fngwt.jpeg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme channel="US39000221B" start="20261119022700 +0000" stop="20261119030100 +0000">
-    <title>Tales From the Crypt</title>
-    <sub-title>Dead Right</sub-title>
-    <desc>A greedy woman (Demi Moore) marries on a seer's advice  with Jeffrey Tambor.</desc>
-    <category lang="en">Sci-Fi</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3524437302_0_20260925T055346413Z_76_imageprocessorclient-tvplus-linear-6b56cc9f55-hrddh.jpeg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme channel="US39000221B" start="20261119030100 +0000" stop="20261119033400 +0000">
-    <title>Tales From the Crypt</title>
-    <sub-title>The Switch</sub-title>
-    <desc>An aging millionaire (William Hickey) trades wealth for love  with Kelly Preston  director Arnold Schwarzenegger.</desc>
-    <category lang="en">Sci-Fi</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3524437302_0_20260925T055346413Z_76_imageprocessorclient-tvplus-linear-6b56cc9f55-hrddh.jpeg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme channel="US39000221B" start="20261119033400 +0000" stop="20261119040000 +0000">
-    <title>Tales From the Crypt</title>
-    <sub-title>Cutting Cards</sub-title>
-    <desc>Rival gamblers (Lance Henriksen, Kevin Tighe) play for high stakes  director Walter Hill.</desc>
-    <category lang="en">Sci-Fi</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3524437302_0_20260925T055346413Z_76_imageprocessorclient-tvplus-linear-6b56cc9f55-hrddh.jpeg" />
     <rating>
       <value>TV-PG</value>
     </rating>
@@ -1345,26 +1065,6 @@
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3524437302_0_20260925T055346413Z_76_imageprocessorclient-tvplus-linear-6b56cc9f55-hrddh.jpeg" />
     <rating>
       <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme channel="USAJ17000014C" start="20261119015630 +0000" stop="20261119024933 +0000">
-    <title>Z Nation</title>
-    <sub-title>Z Nation - Mt. Weather</sub-title>
-    <desc>Warren and Our Heroes must stop Zona from launching operation "Black Rainbow."</desc>
-    <category lang="en">Sci-Fi</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2338544066_0_20251227T091523714Z_24_imageprocessorclient-tvplus-linear-584c967455-vwqpv.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="USAJ17000014C" start="20261119024933 +0000" stop="20261119033300 +0000">
-    <title>Disaster Strike Force</title>
-    <sub-title>Disaster Strike Force: Super Volcano</sub-title>
-    <desc>Oahu's volcanic disaster becomes a global threat.</desc>
-    <category lang="en">Sci-Fi</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2338575368_0_20251227T091523962Z_115_imageprocessorclient-tvplus-linear-584c967455-vwqpv.jpeg" />
-    <rating>
-      <value>NA</value>
     </rating>
   </programme>
 <programme channel="USAJ17000014C" start="20261119033300 +0000" stop="20261119051403 +0000">

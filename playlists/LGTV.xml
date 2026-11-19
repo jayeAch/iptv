@@ -1,16 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
-<channel id="us-ion_ion_plus_1">
-    <display-name>ION Plus</display-name>
-    <icon src="http://img.platform.wurl.dev/channel/378/lg/165a68/LG-Logo-PNG-100x100_v1.png" />
-  </channel>
 <channel id="99992272">
     <display-name>FilmRise Free Movies</display-name>
     <icon src="https://image.xumo.com/v1/channels/channel/99992272/400x200.png?type=white_cropped" />
-  </channel>
-<channel id="freemoviesplus_amg02042c1eng_US">
-    <display-name>Free Movies Plus</display-name>
-    <icon src="https://preview-amagistv-amg02042-cloudport.now.amagi.tv/Images/S3/FMPLOGOLG.png" />
   </channel>
 <channel id="us-gsn_cinevault_80s_1">
     <display-name>CINEVAULT</display-name>
@@ -36,6 +28,10 @@
     <display-name>Horror by ALTER</display-name>
     <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/gunpowderandsky/channels/Horror-By-ALTER_white_logo_800x200.png" />
   </channel>
+<channel id="FREQ541-US">
+    <display-name>Mysteria</display-name>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/lawandcrime/channels/541-400x200.png" />
+  </channel>
 <channel id="99992255">
     <display-name>Forensic Files</display-name>
     <icon src="https://image.xumo.com/v1/channels/channel/99992255/400x200.png?type=white_cropped" />
@@ -48,46 +44,6 @@
     <display-name>Crimes Cults Killers  by A&amp;E</display-name>
     <icon src="http://img.platform.wurl.dev/channel/1055/lg/22f210/LG-Logo-PNG-100x100_v2.png" />
   </channel>
-<programme start="20261119020600 +0000" stop="20261119023412 +0000" channel="99992255">
-    <title lang="en">Forensic Files</title>
-    <desc lang="en">An investigation into the murder of a World War II veteran slowed to a halt when the prime suspect had a solid alibi. But a lucky break led to a shady character who wore distinctive boots.</desc>
-    <category lang="en">ETC</category>
-    <icon src="https://image.xumo.com/v1/assets/asset/XM0G0KRNO5WU3G/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992255%2F768x432.jpg%3Ftype%3DchannelTile" />
-    <episode-num system="dd_progid">XM0G0KRNO5WU3G</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261119023412 +0000" stop="20261119030223 +0000" channel="99992255">
-    <title lang="en">Forensic Files</title>
-    <desc lang="en">In 1987, a human skull and some bones were discovered at a boy scout camp near Farmington, Missouri. A facial reconstruction aided the investigators in this case.</desc>
-    <category lang="en">ETC</category>
-    <icon src="https://image.xumo.com/v1/assets/asset/XM0J778FVUIEE4/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992255%2F768x432.jpg%3Ftype%3DchannelTile" />
-    <episode-num system="dd_progid">XM0J778FVUIEE4</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261119030223 +0000" stop="20261119032825 +0000" channel="99992255">
-    <title lang="en">Forensic Files</title>
-    <desc lang="en">Seattle police had no suspects in the violent murder of post-grunge singer, Mia Zapata. More than a decade passed before the evidence could be used by forensic scientists to identify the killer.</desc>
-    <category lang="en">ETC</category>
-    <icon src="https://image.xumo.com/v1/assets/asset/XM0XAMQSX90BHF/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992255%2F768x432.jpg%3Ftype%3DchannelTile" />
-    <episode-num system="dd_progid">XM0XAMQSX90BHF</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261119032825 +0000" stop="20261119035728 +0000" channel="99992255">
-    <title lang="en">Forensic Files</title>
-    <desc lang="en">An investigation of a pediatrician, prompted by the death of one of her patients, leads to a Texas hospital where the pediatric mortality rate is higher than at any hospital in the country.</desc>
-    <category lang="en">ETC</category>
-    <icon src="https://image.xumo.com/v1/assets/asset/XM05TKJRRWARWU/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992255%2F768x432.jpg%3Ftype%3DchannelTile" />
-    <episode-num system="dd_progid">XM05TKJRRWARWU</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
 <programme start="20261119035728 +0000" stop="20261119042757 +0000" channel="99992255">
     <title lang="en">Forensic Files</title>
     <desc lang="en">A 29-year-old woman was killed instantly when a bomb exploded in her home. The device was so powerful that shrapnel was embedded in houses across the street. The bomber had not only knowledge and skill, but also a motive for murder.</desc>
@@ -178,16 +134,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20261119012441 +0000" stop="20261119031435 +0000" channel="99992272">
-    <title lang="en">Jack's Back [Broadcast Edit]</title>
-    <desc lang="en">In a sickening coincidence -- or a sinister homage to actual crimes -- women are being murdered in Los Angeles 100 years after Jack the Ripper terrorized London. Police think John Westford, a young doctor, is the murderer, and when he's found hanging from a noose, authorities believe his apparent suicide is a tacit admission of guilt. But his twin brother, Rick (also Spader), insists John was killed, and, when it appears Rick is right, the investigation takes a stunning turn.</desc>
-    <category lang="en">Movies</category>
-    <icon src="https://image.xumo.com/v1/assets/asset/XM0HDXWFB0CSTM/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992272%2F768x432.jpg%3Ftype%3DchannelTile" />
-    <episode-num system="dd_progid">XM0HDXWFB0CSTM</episode-num>
-    <rating>
-      <value>PG-13</value>
-    </rating>
-  </programme>
 <programme start="20261119031435 +0000" stop="20261119050000 +0000" channel="99992272">
     <title lang="en">Mysteria</title>
     <desc lang="en">Fighting to finish his script for a producer (Billy Zane), screenwriter Aleister (Robert Miano) finds inspiration amid a murder investigation led by Captain McCarthy (Michael Rooker) and his interrogator (Danny Glover).</desc>
@@ -215,12 +161,52 @@
       <value>PG-13</value>
     </rating>
   </programme>
-<programme start="20261119012256 +0000" stop="20261119031225 +0000" channel="FREQ874">
-    <title lang="en">Piranha</title>
-    <desc lang="en">When flesh-eating piranhas are accidentally released into a resort's rivers, the guests become their next meal.</desc>
-    <category lang="en">Movies</category>
-    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/7325978851255946235/solid/rectangle/w1920_h1080/okwb5ba9rpeq1d3evvx7tle79.jpg" />
-    <episode-num system="dd_progid">9074696</episode-num>
+<programme start="20261119034738 +0000" stop="20261119041833 +0000" channel="FREQ541-US">
+    <title lang="en">True Crime Recaps</title>
+    <desc lang="en">The case of one brother surviving abduction, and another becoming a killer. Then, an update on Chris Watts.</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/tgybbnhdbvbq1qmcn9lg7mbnm/w1920_h1080/tgybbnhdbvbq1qmcn9lg7mbnm.jpg" />
+    <episode-num system="dd_progid">2770341</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261119041833 +0000" stop="20261119050013 +0000" channel="FREQ541-US">
+    <title lang="en">True Crime Recaps</title>
+    <desc lang="en">Teens arrested for a murder case now face uncertain justice as evidence has been mysteriously destroyed.</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/1t3dok393rc7w1e6x0q38aa9s/w1920_h1080/1t3dok393rc7w1e6x0q38aa9s.jpg" />
+    <episode-num system="dd_progid">2065704</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261119050013 +0000" stop="20261119061301 +0000" channel="FREQ541-US">
+    <title lang="en">Rotten Mango</title>
+    <desc lang="en">The Vietnamese Butcher Case exposed a chilling crime that shocked the internet.</desc>
+    <category lang="en">Crime</category>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/7485335266804739783/solid/rectangle/w1920_h1080/1u01v0a5tc69u1spbqs2z195fp.jpg" />
+    <episode-num system="dd_progid">8922478</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261119061301 +0000" stop="20261119072004 +0000" channel="FREQ541-US">
+    <title lang="en">Rotten Mango</title>
+    <desc lang="en">A marriage ended in tragedy after a husband reacted violently to his wife’s refusal.</desc>
+    <category lang="en">Crime</category>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/7485344513512615451/solid/rectangle/w1920_h1080/wku4nypq2vo91bjbxras49byh.jpg" />
+    <episode-num system="dd_progid">8922767</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261119072004 +0000" stop="20261119085754 +0000" channel="FREQ541-US">
+    <title lang="en">Rotten Mango</title>
+    <desc lang="en">A wealthy husband became a target, but the deadly plan took a shocking turn.</desc>
+    <category lang="en">Crime</category>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/7485341153229167254/solid/rectangle/w1920_h1080/19wgzx9u4e9911fgfjypvh4ojb.jpg" />
+    <episode-num system="dd_progid">8922595</episode-num>
     <rating>
       <value>TV-14</value>
     </rating>
@@ -271,16 +257,6 @@
     <category lang="en">Movies</category>
     <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/kso4l1of02c1sly6mjau2hh8/w1920_h1080/kso4l1of02c1sly6mjau2hh8.jpg" />
     <episode-num system="dd_progid">9074706</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261119022240 +0000" stop="20261119031352 +0000" channel="coldcasefiles_aeccf_US">
-    <title lang="en">Cold Case Files Classic</title>
-    <desc lang="en">Police in Overland Park, Kansas, hunt for over 15 years for a serial killer.</desc>
-    <category lang="en">Documentary</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/AECCF/resized_69356f7663bebe89af3aef6acc2847b3a679747d7d98554fd50ed1a925b85207_22447214407thumbjpg_768_432.jpeg" />
-    <episode-num system="dd_progid">AECCF_22447_214407_US</episode-num>
     <rating>
       <value>TV-14</value>
     </rating>
@@ -345,46 +321,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261119003653 +0000" stop="20261119031802 +0000" channel="freemoviesplus_amg02042c1eng_US">
-    <title lang="en">Mother's Day</title>
-    <desc lang="en">Moms, daughters and sons in Atlanta cross paths in the days leading up to Mother's Day.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg02042/resized_images/resized_f7e00d0eb2bf974dccdd80620be5d05768e9a4ebe0f23740200f9073fe2eca11_fmp2006m49png_768_432.jpeg" />
-    <episode-num system="dd_progid">amg02042c32_ALWjPRjirjPKvRQn7LkjFGG_us</episode-num>
-    <rating>
-      <value>PG-13</value>
-    </rating>
-  </programme>
-<programme start="20261119031802 +0000" stop="20261119054545 +0000" channel="freemoviesplus_amg02042c1eng_US">
-    <title lang="en">Machete Kills</title>
-    <desc lang="en">The U.S. government recruits Machete to battle his way through Mexico.</desc>
-    <category lang="en">Action</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg02042/resized_images/resized_d9d9877adb029150eaef50229b9aa964a9a7f81504a097246cb28f0bab877943_fmp21162png_768_432.jpeg" />
-    <episode-num system="dd_progid">amg02042c32_AQ8N9aTHCNmjAsg4sbFYUSA_us</episode-num>
-    <rating>
-      <value>R</value>
-    </rating>
-  </programme>
-<programme start="20261119054545 +0000" stop="20261119083321 +0000" channel="freemoviesplus_amg02042c1eng_US">
-    <title lang="en">Two For the Money</title>
-    <desc lang="en">Brandon Lang loves football: an injury keeps him from the pros.</desc>
-    <category lang="en">Movies</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg02042/resized_images/resized_3e1902347273d8d4ae5d7db1384ef39e0be682560878c31a3a4d38d54c2b2e42_fmp21165png_768_432.jpeg" />
-    <episode-num system="dd_progid">amg02042c32_APLhh8EVzKDUeoZLyeNXXYt_us</episode-num>
-    <rating>
-      <value>R</value>
-    </rating>
-  </programme>
-<programme start="20261119023247 +0000" stop="20261119032326 +0000" channel="theasylummoviechannel_tasmc_US">
-    <title lang="en">Disaster Strike Force</title>
-    <desc lang="en">The team responds to the threat of a potentially devastating earthquake in Los Angeles.</desc>
-    <category lang="en">Action</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/tasmc/resized_28a83d1bc180f8cba2830291898d2f0a54731ebf029f0fb4720dd07537941f72_disasterstrikeforce960x540jpg_768_432.jpeg" />
-    <episode-num system="dd_progid">tasmc_DisasterStrikeForce_EP3_Feature_2997_20_US</episode-num>
-    <rating>
-      <value>TV14</value>
-    </rating>
-  </programme>
 <programme start="20261119032326 +0000" stop="20261119045740 +0000" channel="theasylummoviechannel_tasmc_US">
     <title lang="en">Megalodon: The Frenzy</title>
     <desc lang="en">A “frenzy” of five Megalodons - spawn of the original - terrorizes the open ocean.</desc>
@@ -415,16 +351,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261119014043 +0000" stop="20261119034406 +0000" channel="tribeca_tribe_US">
-    <title lang="en">Agent Red</title>
-    <desc lang="en">A bio-weapon threat on a submarine.</desc>
-    <category lang="en">Action</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg02042/resized_images/resized_36e913ba8b71976613d88487c7fd1b0bd2a9d3b92386cc896da76bdf7f79c786_fmp109720png_768_432.jpeg" />
-    <episode-num system="dd_progid">amg02042c61_ANaPB4ipxU9JKrWsMwkaGXN_us</episode-num>
-    <rating>
-      <value>R</value>
-    </rating>
-  </programme>
 <programme start="20261119034406 +0000" stop="20261119054148 +0000" channel="tribeca_tribe_US">
     <title lang="en">Cover-Up</title>
     <desc lang="en">A journalist uncovers a deadly conspiracy.</desc>
@@ -453,16 +379,6 @@
     <episode-num system="dd_progid">amg02042c61_ACmttz5VtUQVw2zyNn3qe4N_us</episode-num>
     <rating>
       <value>PG</value>
-    </rating>
-  </programme>
-<programme start="20261119022648 +0000" stop="20261119031832 +0000" channel="us-aenetworks_kriminal_1">
-    <title lang="en">Mobsters</title>
-    <desc lang="en">Nitti took Capone's empire, faced prison or death, shot himself.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="http://img.platform.wurl.dev/channel/1055/lg/22f210/LG-768x432_v1.png" />
-    <episode-num system="dd_progid">US-AETelevisionNetworksLLC-119500457-56840167-8027968</episode-num>
-    <rating>
-      <value>TV-14</value>
     </rating>
   </programme>
 <programme start="20261119031832 +0000" stop="20261119040947 +0000" channel="us-aenetworks_kriminal_1">
@@ -525,16 +441,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261119012041 +0000" stop="20261119032546 +0000" channel="us-cinedigm_entertainment_corp_screamboxtv_1">
-    <title lang="en">The Toxic Avenger Part 3</title>
-    <desc lang="en">Times are hard for Toxie. What's a hideously deformed creature of superhuman size and strength to do after he's eliminated crime from his hometown? Desperate to raise money for the experimental surgery that could restore his blind girlfriend's eyesight, Toxie accepts a lucrative job with the evil multinational conglomerate Apocalypse Inc. Now, Toxie's transforming into an even more monstrous creature: a yuppie. And all of Tromaville is paying the price of Toxie's Faustian bargain. The Toxic Avenger must defeat his own inner demons before taking on the Devil himself in a battle royale, while the fate of Tromaville hangs in the balance.</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://img.platform.wurl.dev/channel/1845/lg/88167e/LG-768x432_v1.png" />
-    <episode-num system="dd_progid">US-CineverseEntertainmentCorp-117520323-52541967-52525612</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme start="20261119032546 +0000" stop="20261119052548 +0000" channel="us-cinedigm_entertainment_corp_screamboxtv_1">
     <title lang="en">Nefarious</title>
     <desc lang="en">On the day of his scheduled execution, a convicted serial killer (Sean Patrick Flanery) gets a psychiatric evaluation during which he claims he is a demon and further claims that before their time is over, the psychiatrist will commit three murders of his own.</desc>
@@ -563,16 +469,6 @@
     <episode-num system="dd_progid">US-CineverseEntertainmentCorp-117520333-52541967-52525612</episode-num>
     <rating>
       <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261119011301 +0000" stop="20261119030901 +0000" channel="us-gsn_cinevault_80s_1">
-    <title lang="en">Blue Streak</title>
-    <desc lang="en">Miles Logan (Martin Lawrence) is a talented jewel thief who has stolen $20 million dollars worth of diamonds and has hidden them at a construction site before being captured. Now, after three years in jail, he returns to pick up the diamonds only to find that the site is now a police precinct. To recover his stash, Logan has to impersonate a detective. Using his criminal expertise he solves case after case, earning the admiration of his "fellow cops" while desperately trying to get his diamonds.</desc>
-    <category lang="en">Movies</category>
-    <icon src="http://img.platform.wurl.dev/channel/691/lg/e11147/LG-768x432_v1.png" />
-    <episode-num system="dd_progid">US-GAMESHOWNETWORKLLC-106328045-485884-478422</episode-num>
-    <rating>
-      <value>PG-13</value>
     </rating>
   </programme>
 <programme start="20261119030901 +0000" stop="20261119055301 +0000" channel="us-gsn_cinevault_80s_1">
@@ -605,16 +501,6 @@
       <value>PG-13</value>
     </rating>
   </programme>
-<programme start="20261119010118 +0000" stop="20261119025919 +0000" channel="us-gsn_cinevault_classics_2">
-    <title lang="en">Our Wife</title>
-    <desc lang="en">A self-pitying, drunken composer finds inspiration in a new woman only to have his ex-wife decide that she now wants him back.</desc>
-    <category lang="en">Movies</category>
-    <icon src="http://img.platform.wurl.dev/channel/1043/lg/374298/LG-768x432_v1.png" />
-    <episode-num system="dd_progid">US-GAMESHOWNETWORKLLC-37784009-485884-478422</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme start="20261119025919 +0000" stop="20261119051020 +0000" channel="us-gsn_cinevault_classics_2">
     <title lang="en">Gidget Goes To Rome</title>
     <desc lang="en">Gidget, in Rome for a holiday, misinterprets attention she receives from a famous journalist.</desc>
@@ -643,66 +529,6 @@
     <episode-num system="dd_progid">US-GAMESHOWNETWORKLLC-17120419-485884-478422</episode-num>
     <rating>
       <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261119020000 +0000" stop="20261119030000 +0000" channel="us-ion_ion_plus_1">
-    <title lang="en">MacGyver</title>
-    <desc lang="en">When MacGyver faces an international assassin hired to kill him, he must defend both himself and Bozer with only a corkscrew and paper towel rolls; Bozer learns MacGyver's true identity.</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://img.platform.wurl.dev/channel/378/lg/165a68/LG-768x432_v1.png" />
-    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120755964-56783235-56763341</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261119030000 +0000" stop="20261119040000 +0000" channel="us-ion_ion_plus_1">
-    <title lang="en">MacGyver</title>
-    <desc lang="en">In Latvia, MacGyver and his team must defend themselves and a group of U.S. embassy workers from extremists trying to retrieve their leader; Bozer faces an important decision.</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://img.platform.wurl.dev/channel/378/lg/165a68/LG-768x432_v1.png" />
-    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120756002-56783235-56763341</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261119040000 +0000" stop="20261119050000 +0000" channel="us-ion_ion_plus_1">
-    <title lang="en">MacGyver</title>
-    <desc lang="en">Mac and the team search for a kidnapped prodigy from Mac's former middle school; with only pliers and some wire, Mac attempts to rescue the young genius.</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://img.platform.wurl.dev/channel/378/lg/165a68/LG-768x432_v1.png" />
-    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120756056-56783235-56763341</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261119050000 +0000" stop="20261119060000 +0000" channel="us-ion_ion_plus_1">
-    <title lang="en">MacGyver</title>
-    <desc lang="en">MacGyver and Jack must find Riley after she disappears and hacks into the NSA; Bozer embarks on his first mission; Jack reveals his history with Riley's mother.</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://img.platform.wurl.dev/channel/378/lg/165a68/LG-768x432_v1.png" />
-    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120756093-56783235-56763341</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261119060000 +0000" stop="20261119070000 +0000" channel="us-ion_ion_plus_1">
-    <title lang="en">MacGyver</title>
-    <desc lang="en">MacGyver hunts a U.S. government mole who is leaking classified information to the organization trying to take down the Phoenix Foundation; Sarah comes back to help with the mission; Mac can't tell which side Nikki is on.</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://img.platform.wurl.dev/channel/378/lg/165a68/LG-768x432_v1.png" />
-    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120756130-56783235-56763341</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261119070000 +0000" stop="20261119090000 +0000" channel="us-ion_ion_plus_1">
-    <title lang="en">Midsomer Murders</title>
-    <desc lang="en">An international cycling race leader is murdered; Barnaby and Nelson find themselves drawn into a competitive world of blackmail, bribery and bloodshed.</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://img.platform.wurl.dev/channel/378/lg/165a68/LG-768x432_v1.png" />
-    <episode-num system="dd_progid">US-THEEWSCRIPPSCOMPANY-120756166-56794529-56763825</episode-num>
-    <rating>
-      <value>TV-PG</value>
     </rating>
   </programme>
 </tv>
