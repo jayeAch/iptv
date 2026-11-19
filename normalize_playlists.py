@@ -276,6 +276,8 @@ NAME_OVERRIDES: dict[str, str] = {
     'arous beiru': 'International',
     'stiletto': 'International',
     'til julefrokost hos r8dio': 'Christmas',
+    'jul med familien bundy': 'Comedy',
+    'jul med familjen bundy': 'Comedy',
 }
 
 # ---------------------------------------------------------------------------
