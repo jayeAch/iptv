@@ -232,11 +232,6 @@
         <lcn>456</lcn>
         <icon src="https://images.pluto.tv/channels/6512edf7473a540008599a31/colorLogoPNG.png" />
     </channel>
-<channel id="67a9d71dec91870008ad6477-DK">
-        <display-name>Xena: Warrior Princess</display-name>
-        <lcn>608</lcn>
-        <icon src="https://images.pluto.tv/channels/67a9d71dec91870008ad6477/colorLogoPNG.png" />
-    </channel>
 <channel id="61f9598588f86000078ee7d6-DK">
         <display-name>Pluto TV Sci-Fi</display-name>
         <lcn>752</lcn>
@@ -777,11 +772,6 @@
         <lcn>724</lcn>
         <icon src="https://images.pluto.tv/channels/62cdad7b5c38c00007f566c2/colorLogoPNG.png" />
     </channel>
-<channel id="61c0ba0816e2fd00086cb6b1-SE">
-        <display-name>SvampBob Fyrkant</display-name>
-        <lcn>910</lcn>
-        <icon src="https://images.pluto.tv/channels/61c0ba0816e2fd00086cb6b1/colorLogoPNG.png" />
-    </channel>
 <channel id="61c0b550e0d3a700072b6a2a-SE">
         <display-name>Comedy Central Pluto TV</display-name>
         <lcn>958</lcn>
@@ -1235,6 +1225,10 @@
     <display-name>Lionsgate Network</display-name>
     <icon src="https://image.xumo.com/v1/channels/channel/99951614/168x168.png?type=color_onBlack" />
   </channel>
+<channel id="localnow.A60BF0C6-3ED5-4A10-B189-FE6864B29180">
+    <display-name>Crime Scenes</display-name>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/A60BF0C6-3ED5-4A10-B189-FE6864B29180/3-1x1.png" />
+  </channel>
 <channel id="localnow.4D2A3ADC-5310-4895-A676-6A1BEEB941EE">
     <display-name>Beyond Belief: Fact or Fiction</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/4D2A3ADC-5310-4895-A676-6A1BEEB941EE/3-1x1.png" />
@@ -1262,10 +1256,6 @@
 <channel id="localnow.DDAE054E-F126-420F-89D8-72465BE2FD9A">
     <display-name>FilmRise True Crime</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/DDAE054E-F126-420F-89D8-72465BE2FD9A/3-1x1.png" />
-  </channel>
-<channel id="localnow.D0DF28EB-0756-4476-80C4-FD05DE2E4E09">
-    <display-name>Scream Factory TV</display-name>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D0DF28EB-0756-4476-80C4-FD05DE2E4E09/3-1x1.png" />
   </channel>
 <channel id="localnow.06FFDD3B-A149-4023-8EF8-96685EB19DDE">
     <display-name>Screambox TV</display-name>
@@ -1397,6 +1387,7 @@
 <channel id="6a1610bebdf296985fd95603-66180428e06c9878b6d9d76c"><display-name>Plex24</display-name><icon src="https://provider-static.plex.tv/epg/cms/production/dffc8d37-e5af-41e1-ade1-b36379ec773c/Plex24-forDarkRDX.png" /></channel>
 <channel id="6a1610bebdf296985fd95603-66bfb17c144c201b8b61c10d"><display-name>RCM</display-name><icon src="https://provider-static.plex.tv/epg/cms/production/f2c732af-553a-4ec1-b8ab-14277415e5b0/RCM_logo_white_-_Angela_Chan.png" /></channel>
 <channel id="6a1610bebdf296985fd95603-6aa779185ceba459edaf9997"><display-name>Scandal</display-name><icon src="https://provider-static.plex.tv/epg/cms/production/0813fc98-7d64-4d08-8edb-2e48dc886d36/Plex_SCANDAL_Logo_Light_1500x1000RDX.png" /></channel>
+<channel id="6a1610bebdf296985fd95603-6351991cccee3e1547a8831e"><display-name>Scream Factory TV</display-name><icon src="https://provider-static.plex.tv/epg/cms/production/9043fa4d-851d-4cca-bc0c-ae48981b91ad/ScreamFactoryTV_logo_light_-_Paige_Sherman.png" /></channel>
 <channel id="6a1610bebdf296985fd95603-6707dc42da81682f2d1e6846"><display-name>Sheriffs: El Dorado County</display-name><icon src="https://provider-static.plex.tv/epg/cms/production/ea9a1621-fb9e-4c60-b8c4-57d57a8a12df/SheriffsElDoradoCounty_Color_Logo_wht_TXT_RDX.png" /></channel>
 <channel id="6a1610bebdf296985fd95603-6627ab12580825e8a7bc4f04"><display-name>The Asylum</display-name><icon src="https://provider-static.plex.tv/epg/cms/production/a244b785-f73c-400f-9395-e93ca077d9e0/channel_logo_1500x1000_light.png.png" /></channel>
 <channel id="6a1610bebdf296985fd95603-6582a024a90606db3c841b1b"><display-name>The FBI Files</display-name><icon src="https://provider-static.plex.tv/epg/cms/production/7c8f08bd-78d1-45e6-a447-ad9c0142963d/FilmRise_FBIFilesThe_Logo_Color.png" /></channel>
@@ -1806,10 +1797,6 @@
     <title>Satans Triangle</title>
     <desc>A mysterious woman is the sole survivor of a boat wreck caused by a sudden terrible storm off the coast of Florida</desc>
   </programme>
-<programme start="20261119032124 +0000" stop="20261119051754 +0000" channel="airy-650">
-    <title>City of the Living Dead</title>
-    <desc>A psychic and a journalist head to Dunvich to prevent an apocalypse after a priest commits suicide in a cemetery somehow causing the gates of hell to open and allowing the dead to rise</desc>
-  </programme>
 <programme start="20261119051754 +0000" stop="20261119064620 +0000" channel="airy-650">
     <title>Killdozer</title>
     <desc>Construction workers Clint Walker Carl Betz Neville Brand battle an unmanned bulldozer energized by an alien force</desc>
@@ -1946,11 +1933,6 @@
         <desc>Al, Peggy, Kelly, Bud, Jefferson, and Marcy find the gold mine in the desert. Al discovers the first gold nugget and everyone but the feeble-minded Kelly winds up with a bag full of gold.</desc>
         <icon src="https://images.pluto.tv/series/66c363902fca060013453725/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="62bdaa32a1b2fd00076693e8-CA" start="20261119041400 +0000" stop="20261119051400 +0000">
-        <title>The FBI Files</title>
-        <desc>Money may not be the root of all evil, but for some men, a million dollars is enough to justify murder.  Even men sworn to uphold the law can sometimes be tempted.</desc>
-        <icon src="https://images.pluto.tv/series/62d6ffc2677eae00138741a4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="62bdaa32a1b2fd00076693e8-CA" start="20261119051400 +0000" stop="20261119061400 +0000">
         <title>The FBI Files</title>
         <desc>At a coffee shop in Washington, DC, three employees were shot to death.  Evidence at the crime scene pointed in many different directions.  Was this a hate crime, a robbery gone wrong or an act of cold-blooded vengeance?</desc>
@@ -1960,11 +1942,6 @@
         <title>The FBI Files</title>
         <desc>Philadelphia, Mississippi, 1964.  A sleepy southern town steeped in tradition finds itself targeted for invasion.</desc>
         <icon src="https://images.pluto.tv/series/62d6ffc2677eae00138741a4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="62bdabbc5611f2000761ca30-CA" start="20261119041000 +0000" stop="20261119051300 +0000">
-        <title>The New Detectives</title>
-        <desc>For a price, anything's possible. Contract killings arose out of the need to establish the perfect alibi. By hiring someone else to do the dirty work, a person can deflect guilt, at least in theory.</desc>
-        <icon src="https://images.pluto.tv/series/62d1c1ecbe1ffb0014fb596e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="62bdabbc5611f2000761ca30-CA" start="20261119051300 +0000" stop="20261119061500 +0000">
         <title>The New Detectives</title>
@@ -2010,11 +1987,6 @@
         <title>Unsolved Mysteries with Robert Stack</title>
         <desc>Hosted by Robert Stack, this series uses re-enactments and interviews to retell the circumstances of mysteries that remain unsolved. Covering crimes, tales of lost love, unexplained history and paranormal events.</desc>
         <icon src="https://images.pluto.tv/series/62e42b60d7fb2b001387376f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="62e925bc68d18a00077bb990-CA" start="20261119042700 +0000" stop="20261119051800 +0000">
-        <title>48 Hours</title>
-        <desc>10-year-old Krystal Surles and her friend Kaylene Harris were attacked in Kaylene’s home by an intruder who slashed both girls’ throats. Kaylene died. Krystal not only survived but was able to help police, leading to the arrest of her attacker.</desc>
-        <icon src="https://images.pluto.tv/series/62d1b8ba75b9dc0013ca09f2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="62e925bc68d18a00077bb990-CA" start="20261119051800 +0000" stop="20261119060700 +0000">
         <title>48 Hours</title>
@@ -2081,11 +2053,6 @@
         <desc>The mutilated body of a transgender woman is found in a pond outside Cleveland; detectives close in on three prime suspects, but it's up to the medical examiner to find a forensic link between the victim and her killer.</desc>
         <icon src="https://images.pluto.tv/series/66dac4d722dfe900133d949c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="66166cb1307fa30008f275e7-CA" start="20261119042532 +0000" stop="20261119051532 +0000">
-        <title>The 100</title>
-        <desc>It's the end of the world as we know it in the first season finale as the conflict on the ground comes to a head and the situation on the Ark comes to a stunning conclusion.</desc>
-        <icon src="https://images.pluto.tv/series/6abbc19a7102b85b82e93d57/tile_1790689691046.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="66166cb1307fa30008f275e7-CA" start="20261119051532 +0000" stop="20261119060532 +0000">
         <title>The 100</title>
         <desc>In the season premiere, Clarke is still trapped, while the fate of Bellamy, Finn &amp; Raven is still unknown.  Meanwhile, the survivors of the Ark face a dangerous new world.</desc>
@@ -2130,11 +2097,6 @@
         <title>The Outer Limits</title>
         <desc>Alien ships are headed for Earth, and a newly sworn-in U.S. president must make his first foreign-policy decision.</desc>
         <icon src="https://images.pluto.tv/series/69300b4563142c96a934e80a/tile_1764756294667.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="691b023a7613e09a8b209539-CA" start="20261119041700 +0000" stop="20261119051000 +0000">
-        <title>The X-Files</title>
-        <desc>An armed man instructs Mulder to keep his car in constant motion.</desc>
-        <icon src="https://images.pluto.tv/series/693ad40063f946a2cea6c6c4/tile_1792429923357.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="691b023a7613e09a8b209539-CA" start="20261119051000 +0000" stop="20261119060300 +0000">
         <title>The X-Files</title>
@@ -5241,11 +5203,6 @@
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6abab1c8d33c7e25d227502e/featuredImage_1790624099121.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     </programme>
-<programme channel="61c09515fbb4b50007d221f5-DK" start="20261119032029 +0000" stop="20261119051545 +0000">
-        <title>Notorious</title>
-        <desc>Datteren af en dømt nazistisk spion bliver bedt af amerikanske agenter om at indsamle oplysninger om en ring af nazistiske videnskabsmænd i Sydamerika. Hvor langt skal hun gå for at infiltrere dem?</desc>
-        <icon src="https://images.pluto.tv/series/6940945d779bf41d1d600350/tile_1765840010166.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="61c09515fbb4b50007d221f5-DK" start="20261119051545 +0000" stop="20261119072044 +0000">
         <title>Fisherman's Friends</title>
         <desc>FISHERMAN'S FRIENDS er baseret på den sande og utrolige historie om ti erfarne fiskere, som gik fra at optræde på den lokale pub i Port Isaac til udsolgte stadionkoncerter. Det er en hjertevarm, humoristisk og ikke mindst musikalsk film.</desc>
@@ -5260,11 +5217,6 @@
         <title>Ghost Town</title>
         <desc>Den muntre, romantiske komedie Ghost Town er historien om Bertram Pincus, en vred tandlæge fra Manhattan, der udvikler en uønsket evne til at se afdøde mennesker.</desc>
         <icon src="https://images.pluto.tv/series/6290964cb7376c001a3cdaad/tile_1784544482277.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="63a1c9790cc44a0007dc8857-DK" start="20261119044433 +0000" stop="20261119051144 +0000">
-        <title>New Twilight Zone: Dream Me a Life</title>
-        <desc>A man in a retirement home dreams of a woman holding back a monster, and in real life realizes the woman is his cataleptic neighbor.</desc>
-        <icon src="https://images.pluto.tv/series/65843dd87864330014f2473d/tile_1779485042513.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="63a1c9790cc44a0007dc8857-DK" start="20261119051144 +0000" stop="20261119053855 +0000">
         <title>New Twilight Zone: Memories</title>
@@ -5306,20 +5258,10 @@
         <desc>Ellehammer er nygift. Alt hans tid bliver brugt på at gøre opfindelser, så ind imellem har den lille familie det hård. Men da Ellehammer endelig er klar til sin første flyvning venter alle hans nærmeste spændt på om det vil lykkes.</desc>
         <icon src="https://images.pluto.tv/series/67f932a8a8cdcdbb7d284f8a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="69f84f38b56fa4a9fe661fd4-DK" start="20261119035602 +0000" stop="20261119051447 +0000">
-        <title>White Zombie</title>
-        <desc>A plantation owner desires another man's bride and enlists the help of a witch doctor to use a mind-control potion to make her fall in love with him.  Instead, the witch doctor turns against them both.</desc>
-        <icon src="https://images.pluto.tv/series/6a8485b90c0818ddd3c7cf48/tile_1787069882296.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="69f84f38b56fa4a9fe661fd4-DK" start="20261119051447 +0000" stop="20261119064647 +0000">
         <title>Dark Star</title>
         <desc>Vi er i midten af det 21. århundarede, og mennesket har udforsket hele solsystemet. Kolonister har forladt Jorden for at finde nye hjem i universet. Det bevæbnede rumskib "Dark Star" skal bane vej for alle disse fredelige kolonister.</desc>
         <icon src="https://images.pluto.tv/series/6409bc334e878b001370e4b2/tile_1768520165075.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="62bebc3459624e00078209c3-DK" start="20261119033426 +0000" stop="20261119051609 +0000">
-        <title>American Siege</title>
-        <desc>Den afdankede sherif i en lille by i Georgia, Ben Watts, bliver presset til hurtigt at løse en gidselsituation – og indser snart, at han er en brik i et større spil blandt byens skumle hemmeligheder.</desc>
-        <icon src="https://images.pluto.tv/series/65d707735c25f60013e062d6/tile_1778802492168.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="62bebc3459624e00078209c3-DK" start="20261119051609 +0000" stop="20261119065209 +0000">
         <title>Setup</title>
@@ -5376,11 +5318,6 @@
         <desc>Tre rumvæsener, der udgør en alvorlig trussel mod menneskeheden, har Shalimar som mål, så holdet tager af sted for at redde hende fra deres onde kløer.</desc>
         <icon src="https://images.pluto.tv/series/62319602ff21e500131bd183/tile_1767918961365.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="6512ec9f3a0d700008db4f0c-DK" start="20261119044800 +0000" stop="20261119051700 +0000">
-        <title>The Twilight Zone: The Changing of the Guard</title>
-        <desc>An elderly private school teacher wonders if his life has meant anything as he contemplates suicide on Christmas Eve and is reminded by former students that he has, indeed, had an impact on their lives.</desc>
-        <icon src="https://images.pluto.tv/series/650bf71acecd3f00138ac9c6/tile_1794870787234.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="6512ec9f3a0d700008db4f0c-DK" start="20261119051700 +0000" stop="20261119054700 +0000">
         <title>The Twilight Zone: In Praise Of Pip</title>
         <desc>An alcoholic bookie regrets that he wasn't a better father to his son, Pip, critically wounded in South Vietnam. A visit to an amusement park gives them both a second chance.</desc>
@@ -5395,16 +5332,6 @@
         <title>The Twilight Zone: Nightmare at 20,000 Feet</title>
         <desc>Mr. Wilson believes he sees a gremlin on the wing of the commercial aircraft he is taking back home... from the sanitarium, where he has been committed for six months after a mental breakdown during a similar flight.</desc>
         <icon src="https://images.pluto.tv/series/650bf71acecd3f00138ac9c6/tile_1794870787234.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="67a9d71dec91870008ad6477-DK" start="20261119050000 +0000" stop="20261119055000 +0000">
-        <title>Xena: Warrior Princess</title>
-        <desc>Xena returns to a village she once conquered in order to keep a magical stone out of evil hands, and while there, sees her 9-year-old son.</desc>
-        <icon src="https://images.pluto.tv/series/680bab1530b839eca5590212/tile_1745595170428.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="67a9d71dec91870008ad6477-DK" start="20261119055000 +0000" stop="20261119063800 +0000">
-        <title>Xena: Warrior Princess</title>
-        <desc>When the three Fates allow Xena to travel back in time to her pre-warrior days, she attempts to lead a life devoid of violence.</desc>
-        <icon src="https://images.pluto.tv/series/680bab1530b839eca5590212/tile_1745595170428.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="6181241c1a35d50007874c27-DK" start="20261119050515 +0000" stop="20261119053155 +0000">
         <title>Forensic Files: In the Bag</title>
@@ -5486,11 +5413,6 @@
         <desc>48 Hours is television's most popular true-crime series, investigating shocking cases and compelling real-life dramas with journalistic integrity and cutting-edge style.</desc>
         <icon src="https://images.pluto.tv/series/6362d0d50888bc001ad1ddba/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="6400bc50953da40008b94668-DK" start="20261119044456 +0000" stop="20261119051456 +0000">
-        <title>COPS</title>
-        <desc>A traffic stop takes a surprising turn when a suspect creates a spur-of-the-moment diversion, and a soft-spoken driver has difficulty being upfront with the officers.</desc>
-        <icon src="https://images.pluto.tv/series/65676a5b6206380013b11863/tile_1793663536162.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="6400bc50953da40008b94668-DK" start="20261119051456 +0000" stop="20261119054456 +0000">
         <title>COPS</title>
         <desc>A wanted woman gives deputies a fake name, but her brother accidentally reveals the truth, and two officers respond to a domestic dispute.</desc>
@@ -5536,11 +5458,6 @@
         <desc>I Survived kombinerer interviews med genskabte scener for at fortælle historierne om mennesker, som overkom ubegribelige omstændigheder, der ændrede deres liv for altid.</desc>
         <icon src="https://images.pluto.tv/series/66040499e5c32c0008bd8839/tile_1784650535604.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="6a0f0dd902b6c1c00aa51cb9-DK" start="20261119043312 +0000" stop="20261119051520 +0000">
-        <title>Mollie Westbrook</title>
-        <desc>In 1999, 27-year-old Michelle Despinasse was shot dead in her Nanuet, NY home. Her answering machine captured her final moments, her voice pleading "Ken, stop", and became key evidence that convicted her ex-boyfriend.</desc>
-        <icon src="https://images.pluto.tv/series/6a3becd2aac2f7c6ec368217/tile_1790722801904.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="6a0f0dd902b6c1c00aa51cb9-DK" start="20261119051520 +0000" stop="20261119060418 +0000">
         <title>Mollie Westbrook</title>
         <desc>In December 2019, 30-year-old Nadine Lott was brutally beaten by her ex-partner Daniel Murtagh in her Arklow, Ireland apartment. A neighbor witnessed him attacking her "like a wild animal," growling with rage. She died days later.</desc>
@@ -5565,11 +5482,6 @@
         <title>Comedy Central Pluto TV</title>
         <desc>Smil! Comedy Central Pluto TV er kanalen med de bedste komedieserier, de mest ikoniske stand-up-shows, de skøreste tegnefilm og meget mere.</desc>
         <icon src="https://images.pluto.tv/series/6a9a69876d62a56d3b1f42d0/tile_1788504456120.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="6486e8984cfc2c0008b6844e-DK" start="20261119043501 +0000" stop="20261119051100 +0000">
-        <title>Beavis and Butt-Head: Work is Death (aka Burger World) /  Werewolves of Highland / Tech Support</title>
-        <desc>After the Manager explains that Workers Compensation pays you for getting injured on the job, Butt-head sets out to injure Beavis / A Vampire craze hits the high school / Beavis and Butt-Head misinterpret what it means to ask a man for his daughter's hand</desc>
-        <icon src="https://images.pluto.tv/series/64b7c6cad264b00013ee9919/tile.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="6486e8984cfc2c0008b6844e-DK" start="20261119051100 +0000" stop="20261119053744 +0000">
         <title>Beavis and Butt-Head: Politically Correct / True Crime</title>
@@ -5900,31 +5812,6 @@
         <title>The Twilight Zone: Uncle Simon</title>
         <desc>Barbara accidentally causes her cruel Uncle Simon's death. His will stipulates that she must care for his latest invention - a robot. The robot begins to take on Uncle Simon's traits.</desc>
         <icon src="https://images.pluto.tv/series/650bf71acecd3f00138ac9c6/tile_1794870787234.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="67a9d71dec91870008ad6477-DK" start="20261119063800 +0000" stop="20261119072900 +0000">
-        <title>Xena: Warrior Princess</title>
-        <desc>When Gabrielle defends a young Israelite named David, her life is threatened until Xena proposes to fight her old friend Goliath in return for freedom from the Philistines.</desc>
-        <icon src="https://images.pluto.tv/series/680bab1530b839eca5590212/tile_1745595170428.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="67a9d71dec91870008ad6477-DK" start="20261119072900 +0000" stop="20261119082000 +0000">
-        <title>Xena: Warrior Princess</title>
-        <desc>When Orpheus loses the power to subdue the god Bacchus with his music, Xena and Gabrielle risk their lives to end Bacchus' reign of terror.</desc>
-        <icon src="https://images.pluto.tv/series/680bab1530b839eca5590212/tile_1745595170428.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="67a9d71dec91870008ad6477-DK" start="20261119082000 +0000" stop="20261119091000 +0000">
-        <title>Xena: Warrior Princess</title>
-        <desc>Gabrielle is wooed by her former fiancé, Perdicas, but her future with him is threatened by Xena's old enemy, the avenging female warrior Callisto.</desc>
-        <icon src="https://images.pluto.tv/series/680bab1530b839eca5590212/tile_1745595170428.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="67a9d71dec91870008ad6477-DK" start="20261119091000 +0000" stop="20261119100100 +0000">
-        <title>Xena: Warrior Princess</title>
-        <desc>Xena's second effort in protecting her look-alike, Princess Diana, is complicated by the fact that Diana and her latest enemy both resemble Xena.</desc>
-        <icon src="https://images.pluto.tv/series/680bab1530b839eca5590212/tile_1745595170428.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="67a9d71dec91870008ad6477-DK" start="20261119100100 +0000" stop="20261119105000 +0000">
-        <title>Xena: Warrior Princess</title>
-        <desc>Callisto escapes from the Underworld and assumes Xena's identity in order to continue her revenge against the warrior princess.</desc>
-        <icon src="https://images.pluto.tv/series/680bab1530b839eca5590212/tile_1745595170428.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="6181241c1a35d50007874c27-DK" start="20261119065138 +0000" stop="20261119071817 +0000">
         <title>Forensic Files: Road Rage</title>
@@ -6661,31 +6548,6 @@
         <desc>An old man fears that he will die if his grandfather clock stops running.</desc>
         <icon src="https://images.pluto.tv/series/650bf71acecd3f00138ac9c6/tile_1794870787234.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="67a9d71dec91870008ad6477-DK" start="20261119105000 +0000" stop="20261119113900 +0000">
-        <title>Xena: Warrior Princess</title>
-        <desc>While still trapped in Callisto's body, Xena is invited to a gathering of warlords who have been summoned to a competition to replace a fallen Ares.</desc>
-        <icon src="https://images.pluto.tv/series/680bab1530b839eca5590212/tile_1745595170428.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="67a9d71dec91870008ad6477-DK" start="20261119113900 +0000" stop="20261119122900 +0000">
-        <title>Xena: Warrior Princess</title>
-        <desc>At the time of the winter solstice, Xena and Gabrielle deal with an embittered king who forbids holiday celebrations and even threatens to close an orphanage.</desc>
-        <icon src="https://images.pluto.tv/series/680bab1530b839eca5590212/tile_1745595170428.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="67a9d71dec91870008ad6477-DK" start="20261119122900 +0000" stop="20261119132000 +0000">
-        <title>Xena: Warrior Princess</title>
-        <desc>In the year 1940, two female archaeologists searching for the Xena Scrolls end up in an ancient tomb confronting legendary figures from the past.</desc>
-        <icon src="https://images.pluto.tv/series/680bab1530b839eca5590212/tile_1745595170428.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="67a9d71dec91870008ad6477-DK" start="20261119132000 +0000" stop="20261119140800 +0000">
-        <title>Xena: Warrior Princess</title>
-        <desc>Xena poses as a beauty contestant to discover the mastermind behind attacks on the well-connected entrants in Salmoneus' pageant.</desc>
-        <icon src="https://images.pluto.tv/series/680bab1530b839eca5590212/tile_1745595170428.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="67a9d71dec91870008ad6477-DK" start="20261119140800 +0000" stop="20261119145700 +0000">
-        <title>Xena: Warrior Princess</title>
-        <desc>As a gravely injured Xena lingers between life and death, she dreams about her exploits with Julius Caesar and how a mysterious girl once saved her life.</desc>
-        <icon src="https://images.pluto.tv/series/680bab1530b839eca5590212/tile_1745595170428.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="6181241c1a35d50007874c27-DK" start="20261119104652 +0000" stop="20261119111330 +0000">
         <title>Forensic Files: Bad Medicine</title>
         <desc>A young woman suddenly becomes critically ill, eventually leaving her unable to walk. A bone marrow test reveals the cause: arsenic poisoning. Investigators must determine if the poisoning was caused by groundwater contamination or something sinister.</desc>
@@ -7421,31 +7283,6 @@
         <desc>In a future where everyone must undergo an operation at the age of 19 to make them identical to everyone else, one woman desperately tries to hang onto her own identity.</desc>
         <icon src="https://images.pluto.tv/series/650bf71acecd3f00138ac9c6/tile_1794870787234.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="67a9d71dec91870008ad6477-DK" start="20261119145700 +0000" stop="20261119154700 +0000">
-        <title>Xena: Warrior Princess</title>
-        <desc>Xena's spirit asks the thief Autolycus to help her live again by finding the life-restoring food of the gods, Ambrosia.</desc>
-        <icon src="https://images.pluto.tv/series/680bab1530b839eca5590212/tile_1745595170428.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="67a9d71dec91870008ad6477-DK" start="20261119154700 +0000" stop="20261119163800 +0000">
-        <title>Xena: Warrior Princess</title>
-        <desc>Presumed dead, the defeated Amazon leader Velasca returns to do battle and forces Xena to make a risky deal with her old enemy Callisto.</desc>
-        <icon src="https://images.pluto.tv/series/680bab1530b839eca5590212/tile_1745595170428.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="67a9d71dec91870008ad6477-DK" start="20261119163800 +0000" stop="20261119172900 +0000">
-        <title>Xena: Warrior Princess</title>
-        <desc>Xena and Gabrielle have a busy day saving two villages, one threatened by a warlord and the other by a giant.</desc>
-        <icon src="https://images.pluto.tv/series/680bab1530b839eca5590212/tile_1745595170428.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="67a9d71dec91870008ad6477-DK" start="20261119172900 +0000" stop="20261119181700 +0000">
-        <title>Xena: Warrior Princess</title>
-        <desc>The conniving love goddess Aphrodite turns the bumbling Joxer into a dashing warrior and uses him to stop a royal wedding.</desc>
-        <icon src="https://images.pluto.tv/series/680bab1530b839eca5590212/tile_1745595170428.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="67a9d71dec91870008ad6477-DK" start="20261119181700 +0000" stop="20261119190800 +0000">
-        <title>Xena: Warrior Princess</title>
-        <desc>Xena and Gabrielle come to the aid of their friend Meleager the Mighty when he faces the death penalty for murder.</desc>
-        <icon src="https://images.pluto.tv/series/680bab1530b839eca5590212/tile_1745595170428.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="6181241c1a35d50007874c27-DK" start="20261119143946 +0000" stop="20261119150546 +0000">
         <title>Forensic Files: Burning Ambition</title>
         <desc>When a policeman's house goes up in flames, experts suspect arson. The officer whose home was torched arrests low-level drug dealer James Wren, who confesses. But when the suspect vanishes, investigators question the authenticity of the confession.</desc>
@@ -8146,31 +7983,6 @@
         <desc>When the quick-witted Claudia (Kylie Bunbury) has a chance run-in with Mark (Topher Grace) at a museum, he dazzles her with his seemingly miraculous abilities. But after the true source of his charisma is revealed, the encounter takes a dark turn.</desc>
         <icon src="https://images.pluto.tv/series/653a22268026ff001ac4812e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="67a9d71dec91870008ad6477-DK" start="20261119190800 +0000" stop="20261119195900 +0000">
-        <title>Xena: Warrior Princess</title>
-        <desc>Though blinded by oil while fighting Gabrielle's kidnapper, Xena attempts to find and free her friend before seeking a cure.</desc>
-        <icon src="https://images.pluto.tv/series/680bab1530b839eca5590212/tile_1745595170428.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="67a9d71dec91870008ad6477-DK" start="20261119195900 +0000" stop="20261119204800 +0000">
-        <title>Xena: Warrior Princess</title>
-        <desc>Xena and Gabrielle encounter pirates, the sea god Poseidon and the alluring Sirens when they help Ulysses sail home to Ithaca to re-claim his kingdom.</desc>
-        <icon src="https://images.pluto.tv/series/680bab1530b839eca5590212/tile_1745595170428.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="67a9d71dec91870008ad6477-DK" start="20261119204800 +0000" stop="20261119213800 +0000">
-        <title>Xena: Warrior Princess</title>
-        <desc>Xena reverts to her bloodthirsty ways when she takes charge of a decimated army struggling to fight off one of her old enemies, the Horde.</desc>
-        <icon src="https://images.pluto.tv/series/680bab1530b839eca5590212/tile_1745595170428.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="67a9d71dec91870008ad6477-DK" start="20261119213800 +0000" stop="20261119222900 +0000">
-        <title>Xena: Warrior Princess</title>
-        <desc>Xena challenges the sea god Poseidon when Gabrielle becomes trapped aboard a ship that's cursed to remain at sea forever.</desc>
-        <icon src="https://images.pluto.tv/series/680bab1530b839eca5590212/tile_1745595170428.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="67a9d71dec91870008ad6477-DK" start="20261119222900 +0000" stop="20261119232000 +0000">
-        <title>Xena: Warrior Princess</title>
-        <desc>Even the warlord Draco becomes a comedic victim of Cupid's son, Bliss, when the mischievous boy creates unlikely romantic pairings among Xena, Gabrielle, Joxer and Draco.</desc>
-        <icon src="https://images.pluto.tv/series/680bab1530b839eca5590212/tile_1745595170428.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="6181241c1a35d50007874c27-DK" start="20261119183557 +0000" stop="20261119190247 +0000">
         <title>Forensic Files: Bump in the Night</title>
         <desc>When a victim is brutally murdered in his own bed, investigators find a shoe impression in the mud outside — physical evidence they hope will lead to the killer.</desc>
@@ -8726,11 +8538,6 @@
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6512ec9f3a0d700008db4f0c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     </programme>
-<programme channel="67a9d71dec91870008ad6477-DK" start="20261119232000 +0000" stop="20261120023000 +0000">
-        <title>Xena: Warrior Princess</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/67a9d71dec91870008ad6477/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-    </programme>
 <programme channel="6181241c1a35d50007874c27-DK" start="20261119223140 +0000" stop="20261119225818 +0000">
         <title>Forensic Files: Oily in the Morning</title>
         <desc>When police recovered the submerged car of a missing man, they expected to find his body — but it wasn't there. The investigation that followed would uncover an obsession turned deadly.</desc>
@@ -8901,11 +8708,6 @@
         <desc>The Marx Brothers are employed at a hotel in post-war Casablanca, where a ring of Nazis are trying to recover a cache of stolen treasure. (1946) Starring:  Groucho Marx, Harpo Marx, Chico Marx</desc>
         <icon src="https://images.pluto.tv/series/5b190522c65a06426376225f/tile_1792526403555.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="5dbfedccc563080009b60f4a-GB" start="20261119030519 +0000" stop="20261119051711 +0000">
-        <title>Criminal Law</title>
-        <desc>Attorney Oldman successfully defends accused killer Kevin Bacon. It is only after proving his client's innocence by discrediting eyewitness, that Oldman discovers Bacon is guilty--and intends to kill again.</desc>
-        <icon src="https://images.pluto.tv/series/5d0d55623107ec5394ecca77/tile_1786404242348.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="5dbfedccc563080009b60f4a-GB" start="20261119051711 +0000" stop="20261119072911 +0000">
         <title>High Crimes</title>
         <desc>A woman's life becomes embroiled in a huge military cover-up when it's revealed her husband is not who he says he is.</desc>
@@ -8961,11 +8763,6 @@
         <desc>With the senior officers off on another assignment, the rookies of 15 Division are on their own; a seemingly innocuous shift leads to a frenzied night in the station when an improperly searched prisoner pulls a gun on Chris in cells.</desc>
         <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="66275fd09e68c200089e0335-GB" start="20261119044406 +0000" stop="20261119050920 +0000">
-        <title>Rules of Engagement: Free Free Time</title>
-        <desc>When Audrey's weekly girls' night out is canceled, Jeff seeks out time alone; however, his plans are foiled every step of the way. Meanwhile, Russell discovers that Timmy has a lot of pent-up aggression toward him.</desc>
-        <icon src="https://images.pluto.tv/series/664b6843112397001414141c/tile_1785269162612.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="66275fd09e68c200089e0335-GB" start="20261119050920 +0000" stop="20261119053444 +0000">
         <title>Rules of Engagement: The Score</title>
         <desc>Jeff spends the evening trying to avoid learning the score of a Rangers game after Audrey forces him to give up his tickets and go to her boss' party instead. Meanwhile, at the game, Russell is mortified when Timmy roots against the home team.</desc>
@@ -8985,11 +8782,6 @@
         <title>Rules of Engagement: The Surrogate</title>
         <desc>An overly enthusiastic Audrey pushes it too far with a surrogate mother who she and Jeff are considering paying to have their baby. Meanwhile, Russell shamelessly pokes fun at Jennifer and Adam's wedding Web site.</desc>
         <icon src="https://images.pluto.tv/series/664b6843112397001414141c/tile_1785269162612.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="686fc8fe1889b4ad04604704-GB" start="20261119042100 +0000" stop="20261119051301 +0000">
-        <title>Icons Unearthed: The Lord of the Rings</title>
-        <desc>J.R.R Tolkien’s children’s book and trilogy take the world by storm, appealing to the fans its author would least expect. After several failed attempts to adapt the books and one half-successful animated movie, an unlikely hero takes on the film.</desc>
-        <icon src="https://images.pluto.tv/series/68eccc3833c97983916bee0a/tile_1760349253152.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="686fc8fe1889b4ad04604704-GB" start="20261119051301 +0000" stop="20261119060502 +0000">
         <title>Icons Unearthed: The Lord of the Rings</title>
@@ -9045,11 +8837,6 @@
         <title>Battlerstar Galactica</title>
         <desc>A mysterious stranger grants the interplanetary immigrants three miraculous wishes in exchange for their blind allegiance.</desc>
         <icon src="https://images.pluto.tv/series/67a4bef88fb894287fefe532/tile_1790723169504.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="66f1331f9409630008077623-GB" start="20261119042900 +0000" stop="20261119051600 +0000">
-        <title>Earth: Final Conflict</title>
-        <desc>Using Jiridian technology, scientists create a physical bio surrogates where a human consciousness can be transferred. When a surrogate escapes, they must find it before it uses its fighting and weapons knowledge.</desc>
-        <icon src="https://images.pluto.tv/series/6140a703aeae500014d5951c/tile_1790723891624.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="66f1331f9409630008077623-GB" start="20261119051600 +0000" stop="20261119060300 +0000">
         <title>Earth: Final Conflict: Second Chances</title>
@@ -9130,11 +8917,6 @@
         <title>Bob and Margaret: Jury Duty</title>
         <desc>Margaret gets called to Jury Duty but Bob has planned a holiday for them and begs her to get herself excused.</desc>
         <icon src="https://images.pluto.tv/series/5b19051ec65a064263761fb0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="615af74dfe3d8e0007524511-GB" start="20261119042100 +0000" stop="20261119051200 +0000">
-        <title>On the Case: One of Us</title>
-        <desc>A young records clerk at the Seattle police department is murdered on her way to work her overnight shift. Can police find the evidence to catch the killer of one of their own?</desc>
-        <icon src="https://images.pluto.tv/series/64f5aed888887a0013db5304/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="615af74dfe3d8e0007524511-GB" start="20261119051200 +0000" stop="20261119060400 +0000">
         <title>On the Case: Heartbreak in the Heartland</title>
@@ -9236,11 +9018,6 @@
         <desc>Between 1975 and 1981, the Yorkshire Ripper murdered 13 females and brutally attacked at least seven more in the north of England. When Peter Sutcliffe was eventually captured, his family were stunned.</desc>
         <icon src="https://images.pluto.tv/series/6669ce441c02820013392354/tile_1751753141820.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="66ba1e23d2d50d00084a1e57-GB" start="20261119041800 +0000" stop="20261119051500 +0000">
-        <title>Crimes That Shook Britain: Stephanie Slater</title>
-        <desc>Estate agent Stephanie Slater reveals the story of her abduction, rape and incarceration, which occurred in 1992 whilst showing a man around a house.</desc>
-        <icon src="https://images.pluto.tv/series/61efb6ce04ff25001a4f0841/tile_1790723889051.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="66ba1e23d2d50d00084a1e57-GB" start="20261119051500 +0000" stop="20261119061000 +0000">
         <title>Crimes That Shook Britain: Garry Newlove</title>
         <desc>Garry Newlove’s wife Helen talks about the events on the night of his murder and the days afterwards, as well as her current work as a peer in the House of Lords combatting anti-social behaviour.</desc>
@@ -9280,11 +9057,6 @@
         <title>Land of the Lost</title>
         <desc>Torchy, a fire-breathing and poisonous dinosaur, injures Will. His fate hangs in the balance as Enik refuses to reveal the antidote until the family rids the valley of these pesky creatures.</desc>
         <icon src="https://images.pluto.tv/series/68ca9e9aa44f8dcccded5deb/tile_1790723535108.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="68d113f9184f1a0620c8101c-GB" start="20261119045021 +0000" stop="20261119051659 +0000">
-        <title>Medical Detectives: Last Will</title>
-        <desc>Analysing the evidence, the medical detectives solve real crimes using forensic techniques, alongside reconstructions</desc>
-        <icon src="https://images.pluto.tv/series/6596a798478df60013c7c22e/tile_1790722082253.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="68d113f9184f1a0620c8101c-GB" start="20261119051659 +0000" stop="20261119054259 +0000">
         <title>Medical Detectives: Dessert Served Cold</title>
@@ -9370,11 +9142,6 @@
         <title>Murdertown</title>
         <desc>Emilia uncovers details surrounding the brutal murder of Rosie Darbyshire. Witnesses and CCTV were key to solving the case which shocked the local communit</desc>
         <icon src="https://images.pluto.tv/series/693a9bda63142c96a9245b2e/tile_1792678689661.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="691b453846ca5e6d1665f03b-GB" start="20261119042356 +0000" stop="20261119051456 +0000">
-        <title>Meet, Marry, Murder: Brian Burns</title>
-        <desc>Brian and Carla Burns were both medics in their 40s when they met and fell in love. But married bliss didn’t last, and divorce proceedings were messy. Carla disappeared, and fingers pointed at Brian, but he was ready with a bizarre explanation.</desc>
-        <icon src="https://images.pluto.tv/series/652fa7062a6001001adb80ec/tile_1790723882971.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="691b453846ca5e6d1665f03b-GB" start="20261119051456 +0000" stop="20261119060556 +0000">
         <title>Meet, Marry, Murder: Lois Riess</title>
@@ -13908,11 +13675,6 @@ Director: Wes Craven</desc>
         <desc>Etter en romantisk kveld i deres avsidesliggende hus, våkner Emma opp lenket til sin døde ektemann. Hun er fanget og isolert og må kjempe mot leiemordere for å unnslippe ektemannens avsindige plan.</desc>
         <icon src="https://images.pluto.tv/series/660fcfd82fd04d0013b7d5de/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="63a19cb7847a090007f230d7-NO" start="20261119044136 +0000" stop="20261119051136 +0000">
-        <title>The Twilight Zone: Little Girl Lost</title>
-        <desc>Old Ben, who is able to transform himself into anything, tries to help a crippled little girl.</desc>
-        <icon src="https://images.pluto.tv/series/650bf7f8f64f18001308bea4/tile_1794870870878.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="63a19cb7847a090007f230d7-NO" start="20261119051136 +0000" stop="20261119054136 +0000">
         <title>The Twilight Zone: Mirror Image</title>
         <desc>Millicent Barnes sees her double at a bus terminal.</desc>
@@ -13968,11 +13730,6 @@ Director: Wes Craven</desc>
         <desc>When an evil troll named Torok attempts to bring about cataclysmic changes that will forever erase mankind, an ancient sorceress and a young boy join forces to stop him before he can carry out his diabolical plan.</desc>
         <icon src="https://images.pluto.tv/series/6a2fe400812ca100162f821c/tile_1781523457782.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="61f957e051cca800076f2358-NO" start="20261119042825 +0000" stop="20261119051725 +0000">
-        <title>Mutant X: Body and Soul</title>
-        <desc>En kroppsløs mutant overtar likene til forskjellige mennesker og setter seg for å gå etter de som gjorde dette mot ham. En av dem er en lege som Shalimar liker.</desc>
-        <icon src="https://images.pluto.tv/series/61f3a920161b65001a9eb205/tile_1767636361878.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="61f957e051cca800076f2358-NO" start="20261119051725 +0000" stop="20261119060625 +0000">
         <title>Mutant X: Understudy</title>
         <desc>Mens han er på jobb, blir Shalimar skadet og blir hjulpet av en annen vill mutant, Nikki, som hun kjente og nesten ble valgt for laget. Mens Shalimar blir frisk, tilbyr hun å fylle ut.</desc>
@@ -13997,11 +13754,6 @@ Director: Wes Craven</desc>
         <title>Andromeda: Vekten (del 2)</title>
         <desc>Beka blir dumpet på Seefra etter at Andromeda er stjålet, og Dylan må bevise at skipet er hans.</desc>
         <icon src="https://images.pluto.tv/series/61bc8a040a7fe8001a080734/tile_1776072601229.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="6181262dc68b92000780fed2-NO" start="20261119045437 +0000" stop="20261119051837 +0000">
-        <title>Forensic Files: Best Foot Forward</title>
-        <desc>In 2007, Shamaia Smith disappears from a strip club in East Hartford, CT. Police consider various patrons of the club, but focus on local businessman Kenneth Otto.</desc>
-        <icon src="https://images.pluto.tv/series/617feadd5eb49a001ae1cdf4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="6181262dc68b92000780fed2-NO" start="20261119051837 +0000" stop="20261119054501 +0000">
         <title>Forensic Files: Purebread Murder</title>
@@ -14082,11 +13834,6 @@ Director: Wes Craven</desc>
         <title>48 Hours: Fall From Grace</title>
         <desc>An investigation into the October 2012 death of Bethany Deaton -- whether her death was a suicide, the fundamentalist Christian religious group to which she belonged, her marriage to the group's leader, and the quest by her family for answers.</desc>
         <icon src="https://images.pluto.tv/series/6346a4f9f030950013a062f1/tile_1778837402198.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="6400bdb1219c4c00081751aa-NO" start="20261119044420 +0000" stop="20261119051002 +0000">
-        <title>COPS: You'll Shoot Your Eye Out</title>
-        <desc>A mom takes sides when a battle breaks out between brothers, and a man is accused of targeting children with a BB gun.</desc>
-        <icon src="https://images.pluto.tv/series/6595561ea95cb100146140fe/tile_1793663688328.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="6400bdb1219c4c00081751aa-NO" start="20261119051002 +0000" stop="20261119053544 +0000">
         <title>COPS: I'll Raise My Voice Right Back!</title>
@@ -17188,11 +16935,6 @@ Director: Wes Craven</desc>
         <desc>Producer-director Otto Preminger’s epic treatment of the bombing of Pearl Harbor details the devastating attack on the Hawaiian naval base as well as the explosive, behind-the-scenes stories.</desc>
         <icon src="https://images.pluto.tv/series/6777ace2cb848d001367bcf0/tile_1786021922808.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="6512d7aca1217e00092c13b0-SE" start="20261119044318 +0000" stop="20261119050934 +0000">
-        <title>Nathan For You: Electronics Store</title>
-        <desc>Nathan tar sig an ett storbolag i ett försök att hjälpa en krisande elektronikbutik.</desc>
-        <icon src="https://images.pluto.tv/series/61f28336f72e7b001a7242e7/tile_1785431162057.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="6512d7aca1217e00092c13b0-SE" start="20261119050934 +0000" stop="20261119053548 +0000">
         <title>Nathan For You: Horseback Riding / Man Zone</title>
         <desc>Nathan kommer på hur en ranch ska kunna ta emot överviktiga ryttare, en damboutique försöker blidka manliga kunder, och Nathan upptäcker att han kan ha begått ett hatbrott.</desc>
@@ -17288,11 +17030,6 @@ Director: Wes Craven</desc>
         <desc>Filmen kommer från den BAFTA-prisbelönte regissören Chen Kaige och utspelar sig under Tangdynastin. En demonkatt dyker plötsligt upp och stör friden i staden Chang'an och orsakar en rad märkliga händelser.</desc>
         <icon src="https://images.pluto.tv/series/638ef904c61978001382be41/tile_1767981614674.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="617807a1a3a6160007f615e4-SE" start="20261119042400 +0000" stop="20261119051300 +0000">
-        <title>Andromeda: Så bränn de otämnda länderna</title>
-        <desc>En kristall som kan återställa Andromedas kraft upptäcks, men för att få tag på den måste Dylan arbeta för gruvans ägare.</desc>
-        <icon src="https://images.pluto.tv/series/61bc89280a7fe8001a07a2f1/tile_1776072601416.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="617807a1a3a6160007f615e4-SE" start="20261119051300 +0000" stop="20261119060200 +0000">
         <title>Andromeda: Det som kommer att bli var inte</title>
         <desc>Tunnlar upptäcks på Seefra som kan användas för att nå åtta andra Seefra-planeter.</desc>
@@ -17318,11 +17055,6 @@ Director: Wes Craven</desc>
         <desc>This episode includes: Chameleon, Crime Novelist, Lourdes and Death Row Defender.</desc>
         <icon src="https://images.pluto.tv/series/65576fa462063800133dc010/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="61f9597e78607000074f6c2a-SE" start="20261119042945 +0000" stop="20261119051845 +0000">
-        <title>Mutant X: Chocken av det nya (pilot)</title>
-        <desc>En mutant empatiker som är på flykt från mystiska regeringsagenter räddas av ett team av andra " Nya mutanter ", gruppen Mutant X.</desc>
-        <icon src="https://images.pluto.tv/series/627a3ace73a0a1001454747d/tile_1767914657452.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="61f9597e78607000074f6c2a-SE" start="20261119051845 +0000" stop="20261119060745 +0000">
         <title>Mutant X: Jag skriker kroppen Elektrisk</title>
         <desc>Brennan tillfångatas och hamnar under Eckharts kontroll och tvingas arbeta mot de nya mutanterna.</desc>
@@ -17347,11 +17079,6 @@ Director: Wes Craven</desc>
         <title>48 Hours: Natalie Wood: Death in Dark Water</title>
         <desc>Los Angeles County Sheriff's investigators talk about the drowning death of actress Natalie Wood and suspicions about her then-husband, actor Robert Wagner.</desc>
         <icon src="https://images.pluto.tv/series/6346b241cba1290014d7d137/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="6400be67219c4c00081755d3-SE" start="20261119044749 +0000" stop="20261119051332 +0000">
-        <title>COPS: Blood and Scars, Bro!</title>
-        <desc>A patrolman pursues a scooter speeding through a neighborhood, officers try to subdue a raving man, and a woman has issues with her neighbor's dogs.</desc>
-        <icon src="https://images.pluto.tv/series/659562c453180b0013a10f6e/tile_1793663552423.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="6400be67219c4c00081755d3-SE" start="20261119051332 +0000" stop="20261119053806 +0000">
         <title>COPS</title>
@@ -17388,11 +17115,6 @@ Director: Wes Craven</desc>
         <desc>Efterlyst tar upp mordet på 24-åriga Saba Abraham i Älvsjö den 16 oktober. Två tonåringar sitter häktade på sannolika skäl misstänkta för mordet. I tisdags greps och anhölls en tredje person.</desc>
         <icon src="https://images.pluto.tv/series/64d5ddd9535c0d001363145c/tile_1790724964605.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="6512d6c92ce8e40008bd5c81-SE" start="20261119044209 +0000" stop="20261119051209 +0000">
-        <title>The Twilight Zone: Nightmare as a Child</title>
-        <desc>Schoolteacher Helen Foley finds a strange and very serious little girl on the stairs outside her apartment. The little girl seems to know her and tries to jog her memory about a man she saw earlier that day. The man arrives at Helen's door…</desc>
-        <icon src="https://images.pluto.tv/series/6501ba9cccaa29001322675c/tile_1794870807996.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="6512d6c92ce8e40008bd5c81-SE" start="20261119051209 +0000" stop="20261119054209 +0000">
         <title>The Twilight Zone: A Stop at Willoughby</title>
         <desc>Riding home on the train one day, a man falls asleep and dreams it is 1880, and he is entering a small town called Willoughby.</desc>
@@ -17402,11 +17124,6 @@ Director: Wes Craven</desc>
         <title>The Twilight Zone: The Leprechaun Artist/Dead Run</title>
         <desc>Vacationing in the United States, an Irish leprechaun is caught by three boys. To be freed, he must grant them three wishes/A truck driver accepts a job to deliver souls to Hell.</desc>
         <icon src="https://images.pluto.tv/series/65a67691786433001401402e/tile_1776980178229.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="618124b2e53c8d00077b37f8-SE" start="20261119045100 +0000" stop="20261119051700 +0000">
-        <title>Forensic Files: Lasting Impression</title>
-        <desc>When the decomposed body of a teenage girl is discovered, police have no clues to her identity. To solve the case, investigators turn to bug larvae found on the body and a tiny wad of chewing gum found near the victim's body.</desc>
-        <icon src="https://images.pluto.tv/series/617fed8ec3995d001ab1766e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="618124b2e53c8d00077b37f8-SE" start="20261119051700 +0000" stop="20261119054200 +0000">
         <title>Forensic Files: Foundation of Lies</title>
@@ -17453,11 +17170,6 @@ Director: Wes Craven</desc>
         <desc>Arson fires are set for their own sake, or to cover a different crime, such as murder. Think fire consumes all vital clues? Think again. Arson investigators can glean important clues from scorched rubble and ignite the unquenchable flames of justice.</desc>
         <icon src="https://images.pluto.tv/series/61a7989eeeb8a3001308c5e8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="61c0b438244e50000758083b-SE" start="20261119041834 +0000" stop="20261119051348 +0000">
-        <title>Women Behind Bars</title>
-        <desc>This episode features a woman who was convicted of murdering her adoptive grandmother and a woman who shot a teenager after losing money playing a game.</desc>
-        <icon src="https://images.pluto.tv/series/69f89d147b310cf6d50d7624/tile_1777900820894.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="61c0b438244e50000758083b-SE" start="20261119051348 +0000" stop="20261119054201 +0000">
         <title>Bizarre Murders: Shapeshifter</title>
         <desc>A young German grifter moves to America, adopts various identities and kills many people along the way.</desc>
@@ -17472,11 +17184,6 @@ Director: Wes Craven</desc>
         <title>Bizarre Murders: It's a Lying Shame</title>
         <desc>A privileged prep school kid will do anything to live on easy street, and when his father forces him to come clean, dad's ultimatum proves deadly.</desc>
         <icon src="https://images.pluto.tv/series/65772f1a954dcc0014c6a85d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="61c0ba0816e2fd00086cb6b1-SE" start="20261119050035 +0000" stop="20261119070035 +0000">
-        <title>SvampBob Fyrkant</title>
-        <desc>SvampBob Fyrkant helt egna kanal! Här följer du historien om Svampbob och hans vattenvänners upptåg och äventyr i undervattensbyn Bikini Botten.</desc>
-        <icon src="https://images.pluto.tv/series/669122c7a4ee270008ee25eb/tile_1784653327753.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="62cdad7b5c38c00007f566c2-SE" start="20261119043139 +0000" stop="20261119052839 +0000">
         <title>On the Case: The Ultimate Sin</title>
@@ -17528,11 +17235,6 @@ Director: Wes Craven</desc>
         <desc>A Belize police superintendent is found dead in the water, shot with his own gun. The only witness? A Canadian socialite with ties to one of the country's most powerful families. Her story didn't add up.</desc>
         <icon src="https://images.pluto.tv/series/6a54c8853aa4669fc75b37df/tile_1783941253890.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="61c0b550e0d3a700072b6a2a-SE" start="20261119044556 +0000" stop="20261119051556 +0000">
-        <title>Comedy Central Pluto TV</title>
-        <desc>Säg cheese! Comedy Central Pluto TV är kanalen som bjuder på de bästa komediserierna, de mest ikoniska standup-showerna, de galnaste tecknade serierna och mycket mer.</desc>
-        <icon src="https://images.pluto.tv/series/6a9a6ab3815e1932eb26f45f/tile_1788504756483.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="61c0b550e0d3a700072b6a2a-SE" start="20261119051556 +0000" stop="20261119054556 +0000">
         <title>Comedy Central Pluto TV</title>
         <desc>Säg cheese! Comedy Central Pluto TV är kanalen som bjuder på de bästa komediserierna, de mest ikoniska standup-showerna, de galnaste tecknade serierna och mycket mer.</desc>
@@ -17567,11 +17269,6 @@ Director: Wes Craven</desc>
         <title>Våra värsta år: Death of a Shoe Salesman</title>
         <desc>Al buys a cemetery plot so that he will be buried next to a western movie star and a mule. But Peggy feels excluded.</desc>
         <icon src="https://images.pluto.tv/series/65b0e736debc810013dea69b/tile_1761829156068.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="6486e8b48e3c0a0008e56914-SE" start="20261119044722 +0000" stop="20261119051406 +0000">
-        <title>Beavis and Butt-Head: Substitute / Shopping List</title>
-        <desc>A substitute teacher tries unconventional methods to reach Beavis and Butt-head. / Tom Anderson sends Beavis and Butt-head to the store to pick up a few items. They don't do a very good job.</desc>
-        <icon src="https://images.pluto.tv/series/64b79d000a21a3001308a5c3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="6486e8b48e3c0a0008e56914-SE" start="20261119051406 +0000" stop="20261119054118 +0000">
         <title>Beavis and Butt-Head: Tainted Meat / Bad Dog</title>
@@ -18052,16 +17749,6 @@ Director: Wes Craven</desc>
         <title>Murder Maps</title>
         <desc>Henri Landru targeted lonely vulnerable women left behind by the war. He seduced them with promises of marriage and lured them to houses outside Paris where they vanished</desc>
         <icon src="https://images.pluto.tv/series/6911de7e71d0752d8716e95e/tile_1782273626361.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="61c0ba0816e2fd00086cb6b1-SE" start="20261119070035 +0000" stop="20261119090035 +0000">
-        <title>SvampBob Fyrkant</title>
-        <desc>SvampBob Fyrkant helt egna kanal! Här följer du historien om Svampbob och hans vattenvänners upptåg och äventyr i undervattensbyn Bikini Botten.</desc>
-        <icon src="https://images.pluto.tv/series/669122c7a4ee270008ee25eb/tile_1784653327753.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="61c0ba0816e2fd00086cb6b1-SE" start="20261119090035 +0000" stop="20261119110035 +0000">
-        <title>SvampBob Fyrkant</title>
-        <desc>SvampBob Fyrkant helt egna kanal! Här följer du historien om Svampbob och hans vattenvänners upptåg och äventyr i undervattensbyn Bikini Botten.</desc>
-        <icon src="https://images.pluto.tv/series/669122c7a4ee270008ee25eb/tile_1784653327753.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="62cdad7b5c38c00007f566c2-SE" start="20261119071239 +0000" stop="20261119080839 +0000">
         <title>On the Case: Race To Judgment</title>
@@ -18793,16 +18480,6 @@ Director: Wes Craven</desc>
         <desc>A look at the case of estate agent Suzy Lamplugh, who showed a client around a house in Fulham in July 1986 and was never seen again. Dermot Murnaghan hosts.</desc>
         <icon src="https://images.pluto.tv/series/65703b96d68a200013791d91/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="61c0ba0816e2fd00086cb6b1-SE" start="20261119110035 +0000" stop="20261119130035 +0000">
-        <title>SvampBob Fyrkant</title>
-        <desc>SvampBob Fyrkant helt egna kanal! Här följer du historien om Svampbob och hans vattenvänners upptåg och äventyr i undervattensbyn Bikini Botten.</desc>
-        <icon src="https://images.pluto.tv/series/669122c7a4ee270008ee25eb/tile_1784653327753.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="61c0ba0816e2fd00086cb6b1-SE" start="20261119130035 +0000" stop="20261119150035 +0000">
-        <title>SvampBob Fyrkant</title>
-        <desc>SvampBob Fyrkant helt egna kanal! Här följer du historien om Svampbob och hans vattenvänners upptåg och äventyr i undervattensbyn Bikini Botten.</desc>
-        <icon src="https://images.pluto.tv/series/669122c7a4ee270008ee25eb/tile_1784653327753.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="62cdad7b5c38c00007f566c2-SE" start="20261119104539 +0000" stop="20261119114239 +0000">
         <title>On the Case: Justice Never Quits</title>
         <desc>Mary-Jane Marquardt, mother and wife from Chippewa, Wisconsin, was found  stabbed to death in her own home. With Mary-Jane's son also missing, the detectives couldn't help but wonder if his disappearance was connected to the murder.</desc>
@@ -19527,16 +19204,6 @@ till en tjänstgöring i Europa.</desc>
         <desc>This episode profiles a woman who murdered her own father and stepmother for money. Then, a woman allegedly conspires to murder her husband's ex-wife.</desc>
         <icon src="https://images.pluto.tv/series/69f89d147b310cf6d50d7624/tile_1777900820894.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="61c0ba0816e2fd00086cb6b1-SE" start="20261119150035 +0000" stop="20261119170035 +0000">
-        <title>SvampBob Fyrkant</title>
-        <desc>SvampBob Fyrkant helt egna kanal! Här följer du historien om Svampbob och hans vattenvänners upptåg och äventyr i undervattensbyn Bikini Botten.</desc>
-        <icon src="https://images.pluto.tv/series/669122c7a4ee270008ee25eb/tile_1784653327753.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="61c0ba0816e2fd00086cb6b1-SE" start="20261119170035 +0000" stop="20261119190035 +0000">
-        <title>SvampBob Fyrkant</title>
-        <desc>SvampBob Fyrkant helt egna kanal! Här följer du historien om Svampbob och hans vattenvänners upptåg och äventyr i undervattensbyn Bikini Botten.</desc>
-        <icon src="https://images.pluto.tv/series/669122c7a4ee270008ee25eb/tile_1784653327753.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="62cdad7b5c38c00007f566c2-SE" start="20261119150739 +0000" stop="20261119160339 +0000">
         <title>On the Case: Murder At Sunset- Part 1</title>
         <desc>A mother and two daughters are discovered floating in Tampa Bay after a brutal triple homicide. Police must rely on a victim who survived a similar attack to bring the killer to justice in this special two-hour On The Case.</desc>
@@ -20257,16 +19924,6 @@ till en tjänstgöring i Europa.</desc>
         <desc>A group of men attempt to smuggle a large amount of drugs over the Atlantic Ocean from Denmark to the Faeroe Islands and Iceland. What they don't know is that the Coast Guard is observing them almost all the way.</desc>
         <icon src="https://images.pluto.tv/series/6244193d7936240013158fa9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="61c0ba0816e2fd00086cb6b1-SE" start="20261119190035 +0000" stop="20261119210035 +0000">
-        <title>SvampBob Fyrkant</title>
-        <desc>SvampBob Fyrkant helt egna kanal! Här följer du historien om Svampbob och hans vattenvänners upptåg och äventyr i undervattensbyn Bikini Botten.</desc>
-        <icon src="https://images.pluto.tv/series/669122c7a4ee270008ee25eb/tile_1784653327753.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="61c0ba0816e2fd00086cb6b1-SE" start="20261119210035 +0000" stop="20261119230035 +0000">
-        <title>SvampBob Fyrkant</title>
-        <desc>SvampBob Fyrkant helt egna kanal! Här följer du historien om Svampbob och hans vattenvänners upptåg och äventyr i undervattensbyn Bikini Botten.</desc>
-        <icon src="https://images.pluto.tv/series/669122c7a4ee270008ee25eb/tile_1784653327753.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="62cdad7b5c38c00007f566c2-SE" start="20261119184039 +0000" stop="20261119193039 +0000">
         <title>On the Case: Snake in the Grass</title>
         <desc>A cloud of smoke leads two truckers to a shocking discovery; the smoldering remains of a teenage girl.</desc>
@@ -20696,11 +20353,6 @@ till en tjänstgöring i Europa.</desc>
         <title>Pluto TV True Crime</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/61c0b438244e50000758083b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-    </programme>
-<programme channel="61c0ba0816e2fd00086cb6b1-SE" start="20261119230035 +0000" stop="20261120023000 +0000">
-        <title>SvampBob Fyrkant</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/61c0ba0816e2fd00086cb6b1/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     </programme>
 <programme channel="62cdad7b5c38c00007f566c2-SE" start="20261119230239 +0000" stop="20261120023000 +0000">
         <title>On the Case</title>
@@ -21151,11 +20803,6 @@ till en tjänstgöring i Europa.</desc>
         <title>PD True</title>
         <desc>NYPD Homicide Detectives have very little to go on as they search for a sexual predator; unraveling one of New York City's most disturbing murder cases.</desc>
         <icon src="https://images.pluto.tv/series/6ad2a9a37a5624e68de26973/tile_1792190884436.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="6ad79f775db95e3dac2ae44c-US" start="20261119042348 +0000" stop="20261119051222 +0000">
-        <title>Dead of Night</title>
-        <desc>A young college student vanishes, and a shocking discovery is made.</desc>
-        <icon src="https://images.pluto.tv/series/6ae10e09256eee83f16a79d6/tile_1793134090376.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="6ad79f775db95e3dac2ae44c-US" start="20261119051222 +0000" stop="20261119060057 +0000">
         <title>Dead of Night</title>
@@ -28564,13 +28211,6 @@ till en tjänstgöring i Europa.</desc>
     <episode-num system="onscreen">S03E04</episode-num>
     <rating system="USA Parental Rating">TVMA</rating>
   </programme>
-<programme channel="8abbea29b86a5a5da299c7ef2e288cab" start="20261119041455 +0000" stop="20261119050949 +0000">
-    <title>Magic's Biggest Secrets Finally Revealed</title>
-    <desc>Making a woman appear inside a glass cylinder; how to float in air.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/4eddc1aa3dfd5edea99dc93a4815d869/images/gracenote/assets/p189661_b_h10_ac.jpg" />
-    <episode-num system="onscreen">S01E07</episode-num>
-    <rating system="USA Parental Rating">TV14</rating>
-  </programme>
 <programme channel="8abbea29b86a5a5da299c7ef2e288cab" start="20261119050949 +0000" stop="20261119060443 +0000">
     <title>Magic's Biggest Secrets Finally Revealed</title>
     <desc>Walking on water; slicing off and reattaching a woman's hand.</desc>
@@ -31528,11 +31168,6 @@ till en tjänstgöring i Europa.</desc>
     <title lang="en">Reality Check</title>
     <desc lang="en">With absurd excuses and blatant disregard for the law, these individuals believed they were untouchable.</desc>
     <episode-num system="dd_progid">EP052722400087</episode-num>
-  </programme>
-<programme start="20261119041900 +0000" stop="20261119051200 +0000" channel="99951468">
-    <title lang="en">Denial</title>
-    <desc lang="en">The detectives follow the trail of a stolen credit card to locate two teens they suspect may have killed their newborn baby.</desc>
-    <episode-num system="dd_progid">EP000176170178</episode-num>
   </programme>
 <programme start="20261119051200 +0000" stop="20261119060400 +0000" channel="99951468">
     <title lang="en">Navy Blues</title>
@@ -36279,11 +35914,6 @@ till en tjänstgöring i Europa.</desc>
     <desc lang="en">Chases in California and North Carolina, a routine traffic stop that turns deadly and a riot at a soccer game. Retired Sheriff John Bunnell hosts this explosive series consisting of the most outrageous police footage: car chases, robberies, riots, arrests and more! #policevideos #policefootage #policechases #clips #bodycam #police #cops #copshow #caughtoncamera #hiddencamera</desc>
     <episode-num system="dd_assetid">XM0C965LR66XWL</episode-num>
   </programme>
-<programme start="20261119025150 +0000" stop="20261119051338 +0000" channel="99951573">
-    <title lang="en">Hotel Rwanda</title>
-    <desc lang="en">A hotel manager (Don Cheadle) risks his life and his family to take in over 1,000 refugees during the 1994 Rwandan genocide.</desc>
-    <episode-num system="dd_assetid">XT07J6W6MRGCRD</episode-num>
-  </programme>
 <programme start="20261119051338 +0000" stop="20261119072334 +0000" channel="99951573">
     <title lang="en">Leaving Las Vegas</title>
     <desc lang="en">In this 90s classic, a suicidal, career alcoholic falls for a compassionate Las Vegas hooker.</desc>
@@ -36408,6 +36038,11 @@ till en tjänstgöring i Europa.</desc>
     <title lang="en">River's Edge</title>
     <desc lang="en">A powerful portrait of disaffected teens based on the horrifying real-life murder of a young California girl.</desc>
     <episode-num system="dd_assetid">XT0CZ1MN6SIJMA</episode-num>
+  </programme>
+<programme start="20261121050929 +0000" stop="20261121074256 +0000" channel="99951573">
+    <title lang="en">Showgirls</title>
+    <desc lang="en">Passion and power struggles unfold when a young woman will do anything to make it as a Las Vegas showgirl!</desc>
+    <episode-num system="dd_assetid">XT02ZD3XRK1EPI</episode-num>
   </programme>
 <programme start="20261119050000 +0000" stop="20261119065121 +0000" channel="99991337">
     <title lang="en">The Long Walk Home</title>
@@ -37479,6 +37114,11 @@ till en tjänstgöring i Europa.</desc>
     <desc lang="en">Police suspect a mother of two has relapsed into drugs when she disappears, but her family and friend suspect foul play.</desc>
     <episode-num system="dd_progid">EP027644490010</episode-num>
   </programme>
+<programme start="20261121051300 +0000" stop="20261121060200 +0000" channel="99951466">
+    <title lang="en">Seneca Falls</title>
+    <desc lang="en">An accidental death in upstate New York becomes a possible murder scene, and a wife and mother provides a crucial piece of evidence; investigators confront the darkest side of humanity to discover an unspeakable truth.</desc>
+    <episode-num system="dd_progid">EP027644490008</episode-num>
+  </programme>
 <programme start="20261119050000 +0000" stop="20261119065628 +0000" channel="99991312">
     <title lang="en">From Embers</title>
     <desc lang="en">After the tragic loss of her husband Ron, Lily finds herself navigating a challenging new reality with her son Kevin. As they settle into a modest apartment, Lily's encounter with their neighbor Marty brings up an unexpected revelation about Ron's suspicious death. Marty is an alcoholic and his passion for music is only surpassed by his love for his daughter Chloe. When Lily delves deeper into the mystery surrounding Ron's demise, she forms a bond with his co-worker Angela.</desc>
@@ -38144,6 +37784,11 @@ till en tjänstgöring i Europa.</desc>
     <desc lang="en">Dr. Teresa Sievers was found bludgeoned to death in her home, leaving investigators baffled by the strange clues at the scene. Detectives ultimately uncovered a sinister murder plot and the mastermind behind the killing.</desc>
     <episode-num system="dd_assetid">XM0VUZQMD6AAFJ</episode-num>
   </programme>
+<programme start="20261121051545 +0000" stop="20261121060749 +0000" channel="99991384">
+    <title lang="en">Drinkin' &amp; Scooterin'</title>
+    <desc lang="en">Police struggle with a drunk man on a scooter in a Walmart.</desc>
+    <episode-num system="dd_assetid">XM09CGNM07PK9A</episode-num>
+  </programme>
 <programme start="20261119050358 +0000" stop="20261119055631 +0000" channel="99951614">
     <title lang="en">A House is not a Home</title>
     <desc lang="en">Grace disposes of a body; a drunken and depressed Jimmy shows up at Grace's apartment.</desc>
@@ -38419,6 +38064,11 @@ till en tjänstgöring i Europa.</desc>
     <desc lang="en">Grace discovers Ethan hasn't been truthful about the night Cheat died. Leni reaches out to a Pentagon contact.</desc>
     <episode-num system="dd_assetid">XT074EX6D4F8B8</episode-num>
   </programme>
+<programme start="20261121051654 +0000" stop="20261121061117 +0000" channel="99951614">
+    <title lang="en">Hooker</title>
+    <desc lang="en">Grace contemplates going undercover. Elliot confronts Leni about speaking to her Pentagon contact.</desc>
+    <episode-num system="dd_assetid">XT0PP9UHE7ERYL</episode-num>
+  </programme>
 <programme start="20261119050000 +0000" stop="20261119060000 +0000" channel="localnow.06FFDD3B-A149-4023-8EF8-96685EB19DDE">
     <title lang="en">Screambox TV</title>
     <desc lang="en">Your home for horror featuring Screambox exclusives, originals, and curated horror movies and TV to make you scream 24/7.</desc>
@@ -38539,36 +38189,6 @@ till en tjänstgöring i Europa.</desc>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/AFE4F17B-882F-4DFF-9014-972E16331779/0-2x3.png" />
     <episode-num system="onscreen">S01E01</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-<programme start="20261119032718 +0000" stop="20261119051501 +0000" channel="localnow.D0DF28EB-0756-4476-80C4-FD05DE2E4E09">
-    <title lang="en">MST3K: Blood Waters Of Dr. Z</title>
-    <desc lang="en">Dr. Z mutates himself into a half-human-half-fish-like creature!</desc>
-    <category lang="en">Horror</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D0DF28EB-0756-4476-80C4-FD05DE2E4E09/0-2x3.png" />
-    <episode-num system="dd_progid">program-scream-factory-tv-20261119032718</episode-num>
-  </programme>
-<programme start="20261119051501 +0000" stop="20261119061501 +0000" channel="localnow.D0DF28EB-0756-4476-80C4-FD05DE2E4E09">
-    <title lang="en">Hammer House Of Horror</title>
-    <sub-title lang="en">Witching Time</sub-title>
-    <desc lang="en">A 17th-century witch uses her craft to transport herself to the 20th century.</desc>
-    <category lang="en">Horror</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D0DF28EB-0756-4476-80C4-FD05DE2E4E09/0-2x3.png" />
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-<programme start="20261119061501 +0000" stop="20261119082153 +0000" channel="localnow.D0DF28EB-0756-4476-80C4-FD05DE2E4E09">
-    <title lang="en">Rabid (2019)</title>
-    <desc lang="en">Horribly disfigured after a freak accident, a woman develops a taste for human blood.</desc>
-    <category lang="en">Horror</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D0DF28EB-0756-4476-80C4-FD05DE2E4E09/0-2x3.png" />
-    <episode-num system="dd_progid">program-scream-factory-tv-20261119061501</episode-num>
-  </programme>
-<programme start="20261119032913 +0000" stop="20261119051047 +0000" channel="localnow.D2DC3D4D-2ACF-475A-A254-0016D18F3BF0">
-    <title lang="en">Alex &amp; Me</title>
-    <desc lang="en">A poster of soccer star Alex Morgan magically comes to life.</desc>
-    <category lang="en">Movies</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D2DC3D4D-2ACF-475A-A254-0016D18F3BF0/0-2x3.png" />
-    <episode-num system="dd_progid">program-at-the-movies-20261119032913</episode-num>
   </programme>
 <programme start="20261119051047 +0000" stop="20261119070057 +0000" channel="localnow.D2DC3D4D-2ACF-475A-A254-0016D18F3BF0">
     <title lang="en">Her Alibi</title>
@@ -39017,16 +38637,6 @@ till en tjänstgöring i Europa.</desc>
       <value>PG-13</value>
     </rating>
   </programme>
-<programme start="20261119025919 +0000" stop="20261119051020 +0000" channel="us-gsn_cinevault_classics_2">
-    <title lang="en">Gidget Goes To Rome</title>
-    <desc lang="en">Gidget, in Rome for a holiday, misinterprets attention she receives from a famous journalist.</desc>
-    <category lang="en">Movies</category>
-    <icon src="http://img.platform.wurl.dev/channel/1043/lg/374298/LG-768x432_v1.png" />
-    <episode-num system="dd_progid">US-GAMESHOWNETWORKLLC-16435732-485884-478422</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme start="20261119051020 +0000" stop="20261119065320 +0000" channel="us-gsn_cinevault_classics_2">
     <title lang="en">Her Husband's Affairs</title>
     <desc lang="en">Trouble abounds when an advertising executive and his meddling, madcap wife team up to promote a crackpot inventor's new embalming fluid.</desc>
@@ -39232,6 +38842,17 @@ till en tjänstgöring i Europa.</desc>
 <programme start="20261119214922 +0000" stop="20261119224429 +0000" channel="6a1610bebdf296985fd95603-6227d1d2c9f485cc7afe8c44"><title>Alien Autopsy</title><sub-title>The Film</sub-title><desc>Unearthed in the 90’s. the alien autopsy film added fuel to the unsolved mystery of the Roswell UFO crash.</desc><category>Sci-Fi</category><episode-num system="onscreen">S1E2</episode-num><episode-num system="xmltv_ns">0.1.</episode-num><rating><value>TV-G</value></rating></programme>
 <programme start="20261119224429 +0000" stop="20261119233848 +0000" channel="6a1610bebdf296985fd95603-6227d1d2c9f485cc7afe8c44"><title>Alien Autopsy</title><sub-title>The Leaks</sub-title><desc>Startling new leaks have thrust the Roswell saga back into the spotlight.</desc><category>Sci-Fi</category><episode-num system="onscreen">S1E3</episode-num><episode-num system="xmltv_ns">0.2.</episode-num><rating><value>TV-G</value></rating></programme>
 <programme start="20261119233848 +0000" stop="20261120003401 +0000" channel="6a1610bebdf296985fd95603-6227d1d2c9f485cc7afe8c44"><title>Alien Autopsy</title><sub-title>The Answers</sub-title><desc>Philip Mantle looks back and casts his verdict with evidence, on one of the greatest mysteries of all time.</desc><category>Sci-Fi</category><episode-num system="onscreen">S1E4</episode-num><episode-num system="xmltv_ns">0.3.</episode-num><rating><value>TV-G</value></rating></programme>
+<programme start="20261119051501 +0000" stop="20261119061501 +0000" channel="6a1610bebdf296985fd95603-6351991cccee3e1547a8831e"><title>Hammer House of Horror</title><sub-title>Hammer House Of Horror: S1 E1 - Witching Time</sub-title><desc>A 17th-century witch uses her craft to transport herself to the 20th century.</desc><category>Adrenaline + Sci-Fi</category><episode-num system="onscreen">S1E1</episode-num><episode-num system="xmltv_ns">0.0.</episode-num><rating><value>TV-MA</value></rating></programme>
+<programme start="20261119061501 +0000" stop="20261119082153 +0000" channel="6a1610bebdf296985fd95603-6351991cccee3e1547a8831e"><title>Rabid (2019) (2019)</title><desc>Horribly disfigured after a freak accident, a woman develops a taste for human blood.</desc><category>Adrenaline + Sci-Fi</category><rating><value>TV-MA</value></rating></programme>
+<programme start="20261119082153 +0000" stop="20261119101120 +0000" channel="6a1610bebdf296985fd95603-6351991cccee3e1547a8831e"><title>Season of the Witch (2011)</title><desc>A 14th-century knight battles plague, betrayal, and dark sorcery on a perilous quest to banish evil.</desc><category>Action</category><category>Adventure</category><category>Fantasy</category><rating><value>PG-13</value></rating></programme>
+<programme start="20261119101120 +0000" stop="20261119121552 +0000" channel="6a1610bebdf296985fd95603-6351991cccee3e1547a8831e"><title>Dog Soldiers (2002)</title><desc>A routine military exercise turns into a nightmare in the Scotland wilderness.</desc><category>Horror</category><category>Action</category><category>Thriller</category><rating><value>R</value></rating></programme>
+<programme start="20261119121552 +0000" stop="20261119135445 +0000" channel="6a1610bebdf296985fd95603-6351991cccee3e1547a8831e"><title>Bloodsucking Bastards (2015)</title><desc>A loser and his friend who work at a soulless telemarketing company discover their new boss is a vampire.</desc><category>Comedy</category><category>Horror</category><category>Action</category><rating><value>TV-MA</value></rating></programme>
+<programme start="20261119135445 +0000" stop="20261119154738 +0000" channel="6a1610bebdf296985fd95603-6351991cccee3e1547a8831e"><title>House in the Alley (2012)</title><desc>Dark forces invade the home of a young couple after they lose their baby.</desc><category>Horror</category><rating><value>TV-Y</value></rating></programme>
+<programme start="20261119154738 +0000" stop="20261119161343 +0000" channel="6a1610bebdf296985fd95603-6351991cccee3e1547a8831e"><title>Backlot</title><sub-title>Backlot: Forbidden World: Interview With Roger Corman</sub-title><desc>Interviews with producer Roger Corman and special makeup effects guru John Carl Beuchler.</desc><category>Adrenaline + Sci-Fi</category><episode-num system="onscreen">S1E13</episode-num><episode-num system="xmltv_ns">0.12.</episode-num><rating><value>UR</value></rating></programme>
+<programme start="20261119161343 +0000" stop="20261119181540 +0000" channel="6a1610bebdf296985fd95603-6351991cccee3e1547a8831e"><title>Doppelganger (1993)</title><desc>A writer acquires a strange new roommate with a psychotic alter-ego that follows her wherever she goes.</desc><category>Horror</category><category>Mystery</category><category>Romance</category><category>Thriller</category><rating><value>R</value></rating></programme>
+<programme start="20261119181540 +0000" stop="20261119201145 +0000" channel="6a1610bebdf296985fd95603-6351991cccee3e1547a8831e"><title>Elvira's Movie Macabre: The Werewolf Of Washington (1981) (1981)</title><desc>While on assignment in Hungary, a young reporter is attacked by a mysterious animal.</desc><category>Adrenaline + Sci-Fi</category><rating><value>TV-14</value></rating></programme>
+<programme start="20261119201145 +0000" stop="20261119220802 +0000" channel="6a1610bebdf296985fd95603-6351991cccee3e1547a8831e"><title>The Howling III: The Marsupials (1987)</title><desc>A female werewolf runs away from her family, and falls in love with a man who works in the movie business.</desc><category>Horror</category><category>Comedy</category><rating><value>PG-13</value></rating></programme>
+<programme start="20261119220802 +0000" stop="20261119235204 +0000" channel="6a1610bebdf296985fd95603-6351991cccee3e1547a8831e"><title>Sharktopus vs. Pteracuda (2014)</title><desc>Sharktopus battles a half-pterodactyl, half-barracuda creature, Pteracuda.</desc><category>Science Fiction</category><category>Horror</category><category>Comedy</category><category>Action</category><category>Adventure</category><category>Thriller</category><category>TV Movie</category><rating><value>UR</value></rating></programme>
 <programme start="20261119031802 +0000" stop="20261119054545 +0000" channel="6a1610bebdf296985fd95603-636d46934ea1109a7d205a55"><title>Machete Kills (2013)</title><desc>The U.S. government recruits Machete to battle his way through Mexico.</desc><category>Action</category><category>Comedy</category><category>Crime</category><category>Thriller</category><rating><value>R</value></rating></programme>
 <programme start="20261119054545 +0000" stop="20261119083321 +0000" channel="6a1610bebdf296985fd95603-636d46934ea1109a7d205a55"><title>Two For the Money (2005)</title><desc>Brandon Lang loves football: an injury keeps him from the pros.</desc><category>Drama</category><category>Crime</category><category>Thriller</category><category>Sport</category><category>Comedy</category><rating><value>R</value></rating></programme>
 <programme start="20261119083321 +0000" stop="20261119105709 +0000" channel="6a1610bebdf296985fd95603-636d46934ea1109a7d205a55"><title>Rock the Kasbah (2015)</title><desc>Bill Murray stars as a down-on-his-luck rock manager stranded in Kabul who discovers a gifted young Afghan woman with an extraordinary voice, then risks everything to get her onto a national TV singing competition. A ragged culture-clash comedy wrapped around an underdog story.</desc><category>Comedy</category><category>War</category><category>Music</category><rating><value>R</value></rating></programme>
@@ -39359,7 +38980,6 @@ till en tjänstgöring i Europa.</desc>
 <programme start="20261119210000 +0000" stop="20261119220000 +0000" channel="6a1610bebdf296985fd95603-648095ad190e97d15c3470e9"><title>Sex, Cyanide and a Doctor on the Run Case</title><sub-title>Following The Poisoned Trail</sub-title><desc>The second detective who investigated the murder of Yazeed Essa's wife continued his testimony.</desc><category>Law</category><category>Documentary</category><category>Bingeworthy</category><category>Crime</category><category>Explore</category><episode-num system="onscreen">S1E88</episode-num><episode-num system="xmltv_ns">0.87.</episode-num><rating><value>TV-PG</value></rating></programme>
 <programme start="20261119220000 +0000" stop="20261119230000 +0000" channel="6a1610bebdf296985fd95603-648095ad190e97d15c3470e9"><title>Sex, Cyanide and a Doctor on the Run Case</title><sub-title>Investigating Abroad</sub-title><desc>The jury got further details into the murder investigation of Rosemarie Essa. On the stand was the detective who went all the way to Greece to corroborate Yazeed's location as a wanted U.S. fugitive living in Lebanon.</desc><category>Law</category><category>Documentary</category><category>Bingeworthy</category><category>Crime</category><category>Explore</category><episode-num system="onscreen">S1E89</episode-num><episode-num system="xmltv_ns">0.88.</episode-num><rating><value>TV-PG</value></rating></programme>
 <programme start="20261119230000 +0000" stop="20261120000000 +0000" channel="6a1610bebdf296985fd95603-648095ad190e97d15c3470e9"><title>Sex, Cyanide and a Doctor on the Run Case</title><sub-title>Defense Delivers Their Case</sub-title><desc>Yazeed Essa's defense team began their case on the importance of taking calcium as a person ages. At the time of her death, Rosemarie was taking a daily dose of calcium supplements along with prenatal vitamins.</desc><category>Law</category><category>Documentary</category><category>Bingeworthy</category><category>Crime</category><category>Explore</category><episode-num system="onscreen">S1E90</episode-num><episode-num system="xmltv_ns">0.89.</episode-num><rating><value>TV-PG</value></rating></programme>
-<programme start="20261119033231 +0000" stop="20261119051315 +0000" channel="6a1610bebdf296985fd95603-64a04b8a261d597ce8b4c9ec"><title>JeruZalem (2016)</title><desc>Two American girls on vacation follow a mysterious anthropology student on a trip to Jerusalem. The party is cut short when the trio is caught in the middle of a biblical apocalypse. Trapped between the ancient walls of the holy city, they must find a way out as the fury of hell is unleashed upon them.</desc><category>Horror</category><category>Thriller</category><category>Adventure</category><category>Fantasy</category><category>Science Fiction</category><rating><value>R</value></rating></programme>
 <programme start="20261119051315 +0000" stop="20261119063716 +0000" channel="6a1610bebdf296985fd95603-64a04b8a261d597ce8b4c9ec"><title>Mark of the Witch (2014)</title><desc>On her 18th birthday, she will belong to the devil. Compelled by the idea she has an evil twin, a beautiful young woman is driven into a dark underworld of demonic possession, desire, and extreme indulgences when she learns she may be the devil's daughter.</desc><category>Horror</category><category>Fantasy</category><category>Science Fiction</category><rating><value>TV-14</value></rating></programme>
 <programme start="20261119063716 +0000" stop="20261119075757 +0000" channel="6a1610bebdf296985fd95603-64a04b8a261d597ce8b4c9ec"><title>Red Letter Day (2019)</title><desc>While adjusting to a new life in a quiet suburban community, a recently divorced mother and her two teens receive mysterious red letters instructing them each to kill or be killed.</desc><category>Thriller</category><category>Comedy</category><category>Crime</category><category>Horror</category><rating><value>TV-14</value></rating></programme>
 <programme start="20261119075757 +0000" stop="20261119093943 +0000" channel="6a1610bebdf296985fd95603-64a04b8a261d597ce8b4c9ec"><title>The Curse of Audrey Earnshaw (2020)</title><desc>A devout community suffering from a plague is torn apart by a beautiful young woman and the forces of witchcraft, black magic, and possession.</desc><category>Drama</category><category>Horror</category><category>Mystery</category><rating><value>TV-14</value></rating></programme>
@@ -39433,7 +39053,6 @@ till en tjänstgöring i Europa.</desc>
 <programme start="20261119215003 +0000" stop="20261119224217 +0000" channel="6a1610bebdf296985fd95603-654a8041fa75888bea239718"><title>The Librarians (2014)</title><sub-title>And the Apple of Discord</sub-title><desc>When the dragons sleeping beneath the earth threaten to awaken and wreak havoc around the world, Flynn returns to help find their hidden treasure.</desc><category>Adrenaline + Sci-Fi</category><episode-num system="onscreen">S1E5</episode-num><episode-num system="xmltv_ns">0.4.</episode-num><rating><value>TV-14</value></rating></programme>
 <programme start="20261119224217 +0000" stop="20261119233308 +0000" channel="6a1610bebdf296985fd95603-654a8041fa75888bea239718"><title>The Librarians (2014)</title><sub-title>And the Fables of Doom</sub-title><desc>The Librarians travel to a town where fairy tales are coming to life - and attacking.</desc><category>Adrenaline + Sci-Fi</category><episode-num system="onscreen">S1E6</episode-num><episode-num system="xmltv_ns">0.5.</episode-num><rating><value>TV-14</value></rating></programme>
 <programme start="20261119233308 +0000" stop="20261120002556 +0000" channel="6a1610bebdf296985fd95603-654a8041fa75888bea239718"><title>The Librarians (2014)</title><sub-title>And the Rule of Three</sub-title><desc>When a group of competitive high-school students start undercutting each other with witchcraft, the Librarians have to intercede before disaster destroys them all.</desc><category>Adrenaline + Sci-Fi</category><episode-num system="onscreen">S1E7</episode-num><episode-num system="xmltv_ns">0.6.</episode-num><rating><value>TV-14</value></rating></programme>
-<programme start="20261119043513 +0000" stop="20261119051033 +0000" channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643"><title>Gavin and Stacey</title><sub-title>Episode 3</sub-title><desc>Gavin, Stacey and Smithy head for Barry so that Smithy can go for the scan with Nessa.</desc><category>Comedy</category><episode-num system="onscreen">S2E3</episode-num><episode-num system="xmltv_ns">1.2.</episode-num><rating><value>TV-14</value></rating></programme>
 <programme start="20261119051033 +0000" stop="20261119054524 +0000" channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643"><title>Gavin and Stacey</title><sub-title>Episode 4</sub-title><desc>Stacey is miserable and homesick because she still hasn't got a job, or her own home.</desc><category>Comedy</category><episode-num system="onscreen">S2E4</episode-num><episode-num system="xmltv_ns">1.3.</episode-num><rating><value>TV-14</value></rating></programme>
 <programme start="20261119054524 +0000" stop="20261119061813 +0000" channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643"><title>Gavin and Stacey</title><sub-title>Episode 5</sub-title><desc>Stacey and Gavin argue over where to live and Smithy admits to another fling with Nessa.</desc><category>Comedy</category><episode-num system="onscreen">S2E5</episode-num><episode-num system="xmltv_ns">1.4.</episode-num><rating><value>TV-14</value></rating></programme>
 <programme start="20261119061813 +0000" stop="20261119073139 +0000" channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643"><title>Gavin and Stacey Specials</title><sub-title>Gavin and Stacey: Special: Christmas 2019: A Special Christmas</sub-title><desc>The iconic, multi-award-winning sitcom returns after 10 years for a Christmas special.</desc><category>Comedy</category><episode-num system="onscreen">S1E3</episode-num><episode-num system="xmltv_ns">0.2.</episode-num><rating><value>TV-G</value></rating></programme>
@@ -39779,7 +39398,6 @@ till en tjänstgöring i Europa.</desc>
 <programme start="20261119204347 +0000" stop="20261119214558 +0000" channel="6a1610bebdf296985fd95603-67cbd471cc5136329877e098"><title>The New Detectives</title><sub-title>At Close Range</sub-title><desc>The most obvious suspect.</desc><category>Crime</category><episode-num system="onscreen">S8E8</episode-num><episode-num system="xmltv_ns">7.7.</episode-num><rating><value>TV-14</value></rating></programme>
 <programme start="20261119214558 +0000" stop="20261119224809 +0000" channel="6a1610bebdf296985fd95603-67cbd471cc5136329877e098"><title>The New Detectives</title><sub-title>Lethal Encounter</sub-title><desc>In most murder cases, police rely on motive to pursue a killer.</desc><category>Crime</category><episode-num system="onscreen">S8E9</episode-num><episode-num system="xmltv_ns">7.8.</episode-num><rating><value>TV-PG</value></rating></programme>
 <programme start="20261119224809 +0000" stop="20261119234959 +0000" channel="6a1610bebdf296985fd95603-67cbd471cc5136329877e098"><title>The New Detectives</title><sub-title>Crimes of Passion</sub-title><desc>When killers are driven by jealousy, rage and desire, their desperation is evident.</desc><category>Crime</category><episode-num system="onscreen">S8E10</episode-num><episode-num system="xmltv_ns">7.9.</episode-num><rating><value>TV-PG</value></rating></programme>
-<programme start="20261119042101 +0000" stop="20261119051600 +0000" channel="6a1610bebdf296985fd95603-68a795469c93a153bd8cba4d"><title>Andromeda</title><sub-title>Mathematics of Tears</sub-title><desc>The Andromeda discovers the crew aboard the ship Pax is 300 years old, but have not aged a day.</desc><category>Adrenaline + Sci-Fi</category><episode-num system="onscreen">S1E12</episode-num><episode-num system="xmltv_ns">0.11.</episode-num><rating><value>TV-14</value></rating></programme>
 <programme start="20261119051600 +0000" stop="20261119060857 +0000" channel="6a1610bebdf296985fd95603-68a795469c93a153bd8cba4d"><title>Andromeda</title><sub-title>Music of a Distant Drum</sub-title><desc>Tyr crash lands the Eureka Maru on a Nietzschean planet and develops amnesia.</desc><category>Adrenaline + Sci-Fi</category><episode-num system="onscreen">S1E13</episode-num><episode-num system="xmltv_ns">0.12.</episode-num><rating><value>TV-14</value></rating></programme>
 <programme start="20261119060857 +0000" stop="20261119070155 +0000" channel="6a1610bebdf296985fd95603-68a795469c93a153bd8cba4d"><title>Andromeda</title><sub-title>Harper 2.0</sub-title><desc>Harper receives the "gift" of knowledge from a dying Perseid and discovers the Perseid was being hunted.</desc><category>Adrenaline + Sci-Fi</category><episode-num system="onscreen">S1E14</episode-num><episode-num system="xmltv_ns">0.13.</episode-num><rating><value>TV-14</value></rating></programme>
 <programme start="20261119070155 +0000" stop="20261119075652 +0000" channel="6a1610bebdf296985fd95603-68a795469c93a153bd8cba4d"><title>Andromeda</title><sub-title>Forced Perspective</sub-title><desc>Dylan is arrested for assassinating a dictator 300 years ago, by the man he helped install in his place.</desc><category>Adrenaline + Sci-Fi</category><episode-num system="onscreen">S1E15</episode-num><episode-num system="xmltv_ns">0.14.</episode-num><rating><value>TV-14</value></rating></programme>
@@ -39879,7 +39497,6 @@ till en tjänstgöring i Europa.</desc>
 <programme start="20261119230300 +0000" stop="20261119231800 +0000" channel="6a1610bebdf296985fd95603-6a0373bd58b72ffa94d84b6a"><title>Travels With Malika</title><sub-title>Flagstaff and Phoenix: Fire!</sub-title><desc>From hand-forging knives to interviewing undocumented youth, Malika experiences it all in Arizona.</desc><category>Reality</category><category>Bingeworthy</category><rating><value>TV-PG</value></rating></programme>
 <programme start="20261119231800 +0000" stop="20261119233300 +0000" channel="6a1610bebdf296985fd95603-6a0373bd58b72ffa94d84b6a"><title>Travels With Malika</title><sub-title>Miami: Home to the Sunshine State</sub-title><desc>Find out the South Florida culinary staple that Malika says is one of humanity's greatest creations; Florida welcomes Malika home in style with gator sightings and a food tour through Little Havana.</desc><category>Reality</category><category>Entertainment</category><rating><value>TV-PG</value></rating></programme>
 <programme start="20261119233300 +0000" stop="20261120000300 +0000" channel="6a1610bebdf296985fd95603-6a0373bd58b72ffa94d84b6a"><title>Kisses From Death</title><sub-title>Birthday Parting</sub-title><desc>It's Addison's birthday and her best friend Minnie is throwing her a party at an old chalet bungalow that she has rented for the night.</desc><category>Drama</category><category>Bingeworthy</category><episode-num system="onscreen">S1E1</episode-num><episode-num system="xmltv_ns">0.0.</episode-num><rating><value>TV-PG</value></rating></programme>
-<programme start="20261119033224 +0000" stop="20261119051826 +0000" channel="6a1610bebdf296985fd95603-6aa779185ceba459edaf9997"><title>Choices of the Heart (1995)</title><desc>A nurse in 1914 became a pioneering crusader for women's reproductive rights after she published a booklet.</desc><category>Drama</category><category>Biography</category><category>TV Movie</category><rating><value>TV-14</value></rating></programme>
 <programme start="20261119051826 +0000" stop="20261119070603 +0000" channel="6a1610bebdf296985fd95603-6aa779185ceba459edaf9997"><title>Blind Witness (1989)</title><desc>A blind woman sets out to catch her husband's killers after the police arrest the wrong men.</desc><category>Mystery</category><category>Thriller</category><category>Drama</category><category>Horror</category><category>TV Movie</category><rating><value>PG-13</value></rating></programme>
 <programme start="20261119070603 +0000" stop="20261119085357 +0000" channel="6a1610bebdf296985fd95603-6aa779185ceba459edaf9997"><title>Taking Back Our Town (2001)</title><desc>A mother and an elderly woman fight a ruthless corporation from buidling a chemical plant in their hometown.</desc><category>Drama</category><category>TV Movie</category><rating><value>TV-PG</value></rating></programme>
 <programme start="20261119085357 +0000" stop="20261119104318 +0000" channel="6a1610bebdf296985fd95603-6aa779185ceba459edaf9997"><title>Trial by Media (2000)</title><desc>A prominent doctor decides to enter politics, only to find herself the subject of an intense media witch-hunt.</desc><category>Drama</category><category>TV Movie</category><rating><value>PG</value></rating></programme>
@@ -42909,18 +42526,6 @@ till en tjänstgöring i Europa.</desc>
     <episode-num system="xmltv_ns">0.11.0/1</episode-num>
     <date>20061016</date>
   </programme>
-<programme start="20261119050327 +0000" stop="20261119051744 +0000" channel="mr-pickles">
-    <title lang="en">Mr. Pickles</title>
-    <sub-title lang="en">Tommy's Cartoon</sub-title>
-    <desc lang="en">Tommy sets out to make his own cartoon show but finds it harder than he thought.</desc>
-    <category lang="en">Toons</category>
-    <rating system="VCHIP">
-      <value>TV-MA V</value>
-    </rating>
-    <icon src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15218288818828.jpg" />
-    <episode-num system="xmltv_ns">2.8.0/1</episode-num>
-    <date>20180326</date>
-  </programme>
 <programme start="20261119051744 +0000" stop="20261119053159 +0000" channel="mr-pickles">
     <title lang="en">Mr. Pickles</title>
     <sub-title lang="en">Season 3 Finale</sub-title>
@@ -45301,18 +44906,6 @@ till en tjänstgöring i Europa.</desc>
     <category lang="en">Toons</category>
     <icon src="https://media.cdn.adultswim.com/uploads/20210914/219141616186-1910281358343-RAM.jpg" />
     <episode-num system="xmltv_ns">4.6.0/1</episode-num>
-  </programme>
-<programme start="20261119050049 +0000" stop="20261119051456 +0000" channel="robot-chicken">
-    <title lang="en">Robot Chicken</title>
-    <sub-title lang="en">Secret of the Booze</sub-title>
-    <desc lang="en">The RC writers wonder what would happen if the alien from Alien was a different alien? Bert from Sesame Street gets a new roommate, we see what The Terminator would have been like as a step-dad, and Papa Smurf sees what goes on behind the scenes in Undercover Smurf.</desc>
-    <category lang="en">Toons</category>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-    <icon src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046121189-robotchicken_123-704_dup-20140422.jpg" />
-    <episode-num system="xmltv_ns">6.2.0/1</episode-num>
-    <date>20140428</date>
   </programme>
 <programme start="20261119051456 +0000" stop="20261119052850 +0000" channel="robot-chicken">
     <title lang="en">Robot Chicken</title>
@@ -48585,6 +48178,12 @@ There's nothing like a party to stir up decades worth of sibling rivalries, bitt
     <category lang="en">True Crime</category>
     <icon src="https://img.vidaahub.com/s3_bucket/60158/live/60158_d7437bba-11ff-4f29-9225-b5f2208a93ac_e65dd69b2-1432-43e2-a1d6-dcc18d8f3222_1795235283000/c24d5ea8dc2e10d80ba78616935923cb?f=webp&amp;resize=w_480,h_270" />
   </programme>
+<programme start="20261121051808 +0000" stop="20261121060812 +0000" channel="10499">
+    <title lang="en">Party Drugs</title>
+    <desc lang="en">CBP cracks down on party drugs, prostitution and counterfeit goods during the Super Bowl.</desc>
+    <category lang="en">True Crime</category>
+    <icon src="https://img.vidaahub.com/s3_bucket/60158/live/60158_d7437bba-11ff-4f29-9225-b5f2208a93ac_e3ed64bc8-4abf-428f-a2ff-6660737cdcf7_1795238288000/c24d5ea8dc2e10d80ba78616935923cb?f=webp&amp;resize=w_480,h_270" />
+  </programme>
 <programme start="20261119044834 +0000" stop="20261119054006 +0000" channel="10506">
     <title lang="en">Mexico Money Machine</title>
     <desc lang="en">Dream adventures turn into hellish nightmares for the travelers featured in this series, which recounts through first-hand interviews and re-enactments their experiences of being arrested in a foreign country for drug smuggling, and how they coped with the resulting lengthy prison terms.</desc>
@@ -49262,6 +48861,12 @@ There's nothing like a party to stir up decades worth of sibling rivalries, bitt
     <desc lang="en">Sipowicz is taken hostage in an interrogation room by a murder suspect.</desc>
     <category lang="en">Crime</category>
     <icon src="https://img.vidaahub.com/s3_bucket/60158/live/60158_53ee9b59-581e-4fd2-85b7-51a83adabeca_eba639c12-7ca4-4626-a82b-7e2e39185f7f_1795234901000/9d0f3f469f9edb1e030b0c7519d606df?f=webp&amp;resize=w_480,h_270" />
+  </programme>
+<programme start="20261121051110 +0000" stop="20261121060011 +0000" channel="10517">
+    <title lang="en">Dead Meat In New Deli</title>
+    <desc lang="en">An unreliable witness and an overzealous detective hinder an investigation.</desc>
+    <category lang="en">Crime</category>
+    <icon src="https://img.vidaahub.com/s3_bucket/60158/live/60158_53ee9b59-581e-4fd2-85b7-51a83adabeca_eb5cd71eb-ce37-4bce-a8d2-27782490d492_1795237870000/9d0f3f469f9edb1e030b0c7519d606df?f=webp&amp;resize=w_480,h_270" />
   </programme>
 <programme start="20261119050000 +0000" stop="20261119055516 +0000" channel="10592">
     <title lang="en">The Tool Bench: Hand Tools</title>
@@ -52665,15 +52270,6 @@ There's nothing like a party to stir up decades worth of sibling rivalries, bitt
       <value>TV-14</value>
     </rating>
   </programme>
-<programme channel="USBD3500032H0" start="20261119031951 +0000" stop="20261119051713 +0000">
-    <title>The Commuter</title>
-    <desc>Insurance salesman Michael MacCauley is on his daily commute home, which becomes anything but routine. After being contacted by a stranger, Michael is forced to uncover the identity of a hidden passenger on the train before the last stop. As he works against the clock to solve the puzzle, he realizes a plan is unfolding, and he is caught up in a criminal conspiracy that carries life and death stakes for everyone on the train.</desc>
-    <category lang="en">Movies</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_48526502_2_20261027T082108125Z_73_imageprocessorclient-tvplus-linear-6b56cc9f55-wlc7k.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme channel="USBD3500032H0" start="20261119051713 +0000" stop="20261119071737 +0000">
     <title>Final Score</title>
     <desc>A former soldier wages a one-man war against deadly terrorists who hold his niece hostage at a soccer game.</desc>
@@ -53092,15 +52688,6 @@ There's nothing like a party to stir up decades worth of sibling rivalries, bitt
       <value>NA</value>
     </rating>
   </programme>
-<programme channel="US37000036P" start="20261119045118 +0000" stop="20261119051450 +0000">
-    <title>Takedown With Chris Hansen</title>
-    <desc>Chris Hansen continues his mission to hunt predators and protect children.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2869608982_3_20260502T233713615Z_44_imageprocessorclient-tvplus-linear-796646965d-96ghk.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme channel="US37000036P" start="20261119051450 +0000" stop="20261119054845 +0000">
     <title>Takedown With Chris Hansen</title>
     <desc>Chris Hansen continues his mission to hunt predators and protect children.</desc>
@@ -53195,15 +52782,6 @@ There's nothing like a party to stir up decades worth of sibling rivalries, bitt
       <value>NA</value>
     </rating>
   </programme>
-<programme channel="US4600011ZJ" start="20261119033458 +0000" stop="20261119051715 +0000">
-    <title>Second Chance Christmas</title>
-    <desc>Lawrence has to cope with major changes in a short amount of time.</desc>
-    <category lang="en">Movies</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3679905478_3_20261028T021005367Z_70_imageprocessorclient-tvplus-linear-6b56cc9f55-7p58r.jpeg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
 <programme channel="US4600011ZJ" start="20261119051715 +0000" stop="20261119065619 +0000">
     <title>A Royal Family Christmas</title>
     <desc>A group of grown siblings decide to gather the whole family together for Christmas,</desc>
@@ -53260,15 +52838,6 @@ There's nothing like a party to stir up decades worth of sibling rivalries, bitt
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3524437302_0_20260925T055346413Z_76_imageprocessorclient-tvplus-linear-6b56cc9f55-hrddh.jpeg" />
     <rating>
       <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme channel="USAJ17000014C" start="20261119033300 +0000" stop="20261119051403 +0000">
-    <title>Tomb Invader</title>
-    <desc>Determined to find out why her mother disappeared, an adventurer enters the dangerous Tomb of Quin Shi Huang.</desc>
-    <category lang="en">Sci-Fi</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2297397674_0_20251218T002346787Z_1_imageprocessorclient-tvplus-linear-584c967455-zrlnq.jpeg" />
-    <rating>
-      <value>TV-14</value>
     </rating>
   </programme>
 <programme channel="USAJ17000014C" start="20261119051403 +0000" stop="20261119070336 +0000">
@@ -53538,9 +53107,6 @@ There's nothing like a party to stir up decades worth of sibling rivalries, bitt
   </programme>
 <programme start="20261120215802 +0000" stop="20261120233454 +0000" channel="whale.1022125030546936766">
     <title lang="en">The Shooting</title>
-  </programme>
-<programme start="20261119044237 +0000" stop="20261119051404 +0000" channel="whale.1022125030546936773">
-    <title lang="en">LA DEMOCRAZIA E IL SAPONE</title>
   </programme>
 <programme start="20261119051404 +0000" stop="20261119054510 +0000" channel="whale.1022125030546936773">
     <title lang="en">Unknown</title>
@@ -53892,9 +53458,6 @@ There's nothing like a party to stir up decades worth of sibling rivalries, bitt
   </programme>
 <programme start="20261120005632 +0000" stop="20261120011523 +0000" channel="whale.1022125030546936778">
     <title lang="en">The Looking Planet</title>
-  </programme>
-<programme start="20261119043946 +0000" stop="20261119051404 +0000" channel="whale.1034986045911343817">
-    <title lang="en">Brother</title>
   </programme>
 <programme start="20261119051404 +0000" stop="20261119054706 +0000" channel="whale.1034986045911343817">
     <title lang="en">Who Am I Happy</title>
@@ -54618,6 +54181,9 @@ There's nothing like a party to stir up decades worth of sibling rivalries, bitt
 <programme start="20261121044543 +0000" stop="20261121051410 +0000" channel="whale.925725895506330246">
     <title lang="en">The Red Green Show</title>
   </programme>
+<programme start="20261121051410 +0000" stop="20261121054832 +0000" channel="whale.925725895506330246">
+    <title lang="en">The Red Green Show Compilations</title>
+  </programme>
 <programme start="20261119045959 +0000" stop="20261119063144 +0000" channel="whale.979187723418476860">
     <title lang="en">Fantastic Planet</title>
   </programme>
@@ -54697,17 +54263,6 @@ There's nothing like a party to stir up decades worth of sibling rivalries, bitt
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204009228329,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80" />
     <episode-num system="onscreen">S01E65</episode-num>
     <episode-num system="xmltv_ns">0.64.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261119044856 +0000" stop="20261119051531 +0000" channel="vizio.93DARKS">
-    <title lang="en">Dark Side of the Ring: After Dark</title>
-    <sub-title lang="en">After David Schultz</sub-title>
-    <desc lang="en">Interviews with B. Brian Blair, “Dirty” Dutch Mantel and Ricky Morton.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205161877687,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80" />
-    <episode-num system="onscreen">S01E06</episode-num>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
     <rating>
       <value>TV-14</value>
     </rating>
@@ -55173,14 +54728,6 @@ There's nothing like a party to stir up decades worth of sibling rivalries, bitt
     <rating>
       <value>TV-14</value>
     </rating>
-  </programme>
-<programme start="20261119042541 +0000" stop="20261119051245 +0000" channel="vizio.93amg00136c177">
-    <title lang="en">MADtv</title>
-    <sub-title lang="en">Episode 6</sub-title>
-    <desc lang="en">Christopher Meloni ("Law &amp; Order: SVU") guest-stars on MADtv.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205070338393,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80" />
-    <episode-num system="onscreen">S11E06</episode-num>
-    <episode-num system="xmltv_ns">10.5.</episode-num>
   </programme>
 <programme start="20261119051245 +0000" stop="20261119055944 +0000" channel="vizio.93amg00136c177">
     <title lang="en">MADtv</title>

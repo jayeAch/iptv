@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
+<channel id="localnow.A60BF0C6-3ED5-4A10-B189-FE6864B29180">
+    <display-name>Crime Scenes</display-name>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/A60BF0C6-3ED5-4A10-B189-FE6864B29180/3-1x1.png" />
+  </channel>
 <channel id="localnow.4D2A3ADC-5310-4895-A676-6A1BEEB941EE">
     <display-name>Beyond Belief: Fact or Fiction</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/4D2A3ADC-5310-4895-A676-6A1BEEB941EE/3-1x1.png" />
@@ -27,10 +31,6 @@
 <channel id="localnow.DDAE054E-F126-420F-89D8-72465BE2FD9A">
     <display-name>FilmRise True Crime</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/DDAE054E-F126-420F-89D8-72465BE2FD9A/3-1x1.png" />
-  </channel>
-<channel id="localnow.D0DF28EB-0756-4476-80C4-FD05DE2E4E09">
-    <display-name>Scream Factory TV</display-name>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D0DF28EB-0756-4476-80C4-FD05DE2E4E09/3-1x1.png" />
   </channel>
 <channel id="localnow.06FFDD3B-A149-4023-8EF8-96685EB19DDE">
     <display-name>Screambox TV</display-name>
@@ -200,36 +200,6 @@
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/AFE4F17B-882F-4DFF-9014-972E16331779/0-2x3.png" />
     <episode-num system="onscreen">S01E01</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-<programme start="20261119032718 +0000" stop="20261119051501 +0000" channel="localnow.D0DF28EB-0756-4476-80C4-FD05DE2E4E09">
-    <title lang="en">MST3K: Blood Waters Of Dr. Z</title>
-    <desc lang="en">Dr. Z mutates himself into a half-human-half-fish-like creature!</desc>
-    <category lang="en">Horror</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D0DF28EB-0756-4476-80C4-FD05DE2E4E09/0-2x3.png" />
-    <episode-num system="dd_progid">program-scream-factory-tv-20261119032718</episode-num>
-  </programme>
-<programme start="20261119051501 +0000" stop="20261119061501 +0000" channel="localnow.D0DF28EB-0756-4476-80C4-FD05DE2E4E09">
-    <title lang="en">Hammer House Of Horror</title>
-    <sub-title lang="en">Witching Time</sub-title>
-    <desc lang="en">A 17th-century witch uses her craft to transport herself to the 20th century.</desc>
-    <category lang="en">Horror</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D0DF28EB-0756-4476-80C4-FD05DE2E4E09/0-2x3.png" />
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-<programme start="20261119061501 +0000" stop="20261119082153 +0000" channel="localnow.D0DF28EB-0756-4476-80C4-FD05DE2E4E09">
-    <title lang="en">Rabid (2019)</title>
-    <desc lang="en">Horribly disfigured after a freak accident, a woman develops a taste for human blood.</desc>
-    <category lang="en">Horror</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D0DF28EB-0756-4476-80C4-FD05DE2E4E09/0-2x3.png" />
-    <episode-num system="dd_progid">program-scream-factory-tv-20261119061501</episode-num>
-  </programme>
-<programme start="20261119032913 +0000" stop="20261119051047 +0000" channel="localnow.D2DC3D4D-2ACF-475A-A254-0016D18F3BF0">
-    <title lang="en">Alex &amp; Me</title>
-    <desc lang="en">A poster of soccer star Alex Morgan magically comes to life.</desc>
-    <category lang="en">Movies</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D2DC3D4D-2ACF-475A-A254-0016D18F3BF0/0-2x3.png" />
-    <episode-num system="dd_progid">program-at-the-movies-20261119032913</episode-num>
   </programme>
 <programme start="20261119051047 +0000" stop="20261119070057 +0000" channel="localnow.D2DC3D4D-2ACF-475A-A254-0016D18F3BF0">
     <title lang="en">Her Alibi</title>
