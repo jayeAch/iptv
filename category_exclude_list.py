@@ -5,6 +5,7 @@
 CATEGORY_EXCLUDE_LIST = [
     "Paranormal",
     "Creators",
+    "Christmas",
     "Women's Interests",
     "International",
     "Reality Competition",
@@ -22,7 +23,6 @@ CATEGORY_EXCLUDE_LIST = [
     "Game Shows",
     "History",
     "Science",
-    "Music",
     "Shopping",
     "Anime & Gaming",
     "LGB",
