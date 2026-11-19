@@ -316,6 +316,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         pluto tv rocky + creed
         warrior princess
         xena
+        complex tv
         mgm presents: action
         filmrise action
         pluto tv action
