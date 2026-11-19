@@ -216,7 +216,6 @@ NAME_OVERRIDES: dict[str, str] = {
     # --- Entertainment clean-up (Nov 2026): exact names found in the catch-all ---
     'rules of engagement': 'Comedy',
     'life with derek': 'Comedy',
-    'ttl tv': 'Comedy',
     'murdoch mysteries': 'Crime',
     'the doctor blake mysteries': 'Crime',
     'hunter': 'Crime',
