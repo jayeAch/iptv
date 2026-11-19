@@ -1090,6 +1090,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         the twilight zone
         mutant x
         unidentified
+        andromeda
         beyond belief
         farscape
         outersphere
@@ -1323,6 +1324,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     "Women's Interests": _words("""
         lifetime movies
         drop dead diva
+        xumo her movies
         little women: la
         dance moms
         matched married meet
