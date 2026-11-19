@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-<channel id="vizio.FEATURED1">
-    <display-name>Third Watch</display-name>
-    <icon src="https://images.vizio.com/v4/btv/1/1736245785/1/267/150/0.jpg"/>
-  </channel>
 <channel id="vizio.FEATURED3">
     <display-name>FREE Romance Network</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/1736242600/1/267/150/0.jpg"/>
@@ -59,6 +55,10 @@
 <channel id="vizio.93KMOV">
     <display-name>KMOV4 News Missouri</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/1647826587/1/267/150/0.jpg"/>
+  </channel>
+<channel id="vizio.93KCTVKSMO">
+    <display-name>KCTV5 News Kansas City</display-name>
+    <icon src="https://images.vizio.com/v4/btv/1/1647826586/1/267/150/0.jpg"/>
   </channel>
 <channel id="vizio.93WFSB">
     <display-name>WFSB Eyewitness News 3 Connecticut</display-name>
@@ -220,10 +220,6 @@
     <display-name>KPAX</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/1736242422/1/267/150/0.jpg"/>
   </channel>
-<channel id="vizio.93WTVF">
-    <display-name>NewsChannel 5</display-name>
-    <icon src="https://images.vizio.com/v4/btv/1/1736242366/1/267/150/0.jpg"/>
-  </channel>
 <channel id="vizio.93WTKR">
     <display-name>WTKR News 3</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/1736242452/1/267/150/0.jpg"/>
@@ -260,14 +256,6 @@
     <display-name>25 News</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/1736242458/1/267/150/0.jpg"/>
   </channel>
-<channel id="vizio.93WPTV">
-    <display-name>WPTV NewsChannel 5</display-name>
-    <icon src="https://images.vizio.com/v4/btv/1/1736242440/1/267/150/0.jpg"/>
-  </channel>
-<channel id="vizio.93LGNVBP">
-    <display-name>Anger Management Channel</display-name>
-    <icon src="https://images.vizio.com/v4/btv/1/1646279472/1/267/150/0.jpg"/>
-  </channel>
 <channel id="vizio.98wurl_new_id_co_kdrama_2">
     <display-name>K-Drama+</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/6950819879555597594/1/267/150/0.jpg"/>
@@ -276,17 +264,13 @@
     <display-name>Dawson's Creek &amp; Party of Five</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/1736246188/1/267/150/0.jpg"/>
   </channel>
-<channel id="vizio.149station_1648">
-    <display-name>Great Comedy</display-name>
-    <icon src="https://images.vizio.com/v4/btv/1/818745074072492974/1/267/150/0.jpg"/>
-  </channel>
 <channel id="vizio.93126">
     <display-name>The Dead Files</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/1735730162/1/267/150/0.jpg"/>
   </channel>
-<channel id="vizio.96Station_88885576">
-    <display-name>Filmrise Z Nation</display-name>
-    <icon src="https://images.vizio.com/v4/btv/1/1707605980/1/267/150/0.jpg"/>
+<channel id="vizio.93HTHRU">
+    <display-name>Highway Thru Hell</display-name>
+    <icon src="https://images.vizio.com/v4/btv/1/1736179408/1/267/150/0.jpg"/>
   </channel>
 <channel id="vizio.93amg00136c44">
     <display-name>All-Out Alaska</display-name>
@@ -347,6 +331,10 @@
 <channel id="vizio.93AMG02451C1ENG">
     <display-name>The Three Stooges+</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/1652535931/1/267/150/0.jpg"/>
+  </channel>
+<channel id="vizio.93TCBSH">
+    <display-name>The Carol Burnett Show</display-name>
+    <icon src="https://images.vizio.com/v4/btv/1/1646848034/1/267/150/0.jpg"/>
   </channel>
 <channel id="vizio.149station_1751">
     <display-name>Circle</display-name>
@@ -464,10 +452,6 @@
     <display-name>ZHC</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/1736244387/1/267/150/0.jpg"/>
   </channel>
-<channel id="vizio.96Station_88885598">
-    <display-name>Sam and Colby</display-name>
-    <icon src="https://images.vizio.com/v4/btv/1/1736244112/1/267/150/0.jpg"/>
-  </channel>
 <channel id="vizio.93amg16763c3">
     <display-name>Jesser</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/1736244395/1/267/150/0.jpg"/>
@@ -547,6 +531,10 @@
 <channel id="vizio.93amg00136c24">
     <display-name>In the Garage</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/1736245814/1/267/150/0.jpg"/>
+  </channel>
+<channel id="vizio.149station_1683">
+    <display-name>Speedvision</display-name>
+    <icon src="https://images.vizio.com/v4/btv/1/1727343611/1/267/150/0.jpg"/>
   </channel>
 <channel id="vizio.93VEVHH">
     <display-name>Vevo Hip-Hop</display-name>
@@ -932,17 +920,6 @@
       <value>NR</value>
     </rating>
   </programme>
-<programme start="20261119034642 +0000" stop="20261119043754 +0000" channel="vizio.149station_1184">
-    <title lang="en">Doña Bárbara</title>
-    <sub-title lang="en">Episodio 86</sub-title>
-    <desc lang="en">Bárbara llega a Altamira con prepotencia. Lorenzo y Marisela intentan detenerla.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%20642487249,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E86</episode-num>
-    <episode-num system="xmltv_ns">0.85.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme start="20261119043754 +0000" stop="20261119052906 +0000" channel="vizio.149station_1184">
     <title lang="en">Doña Bárbara</title>
     <sub-title lang="en">Episodio 79</sub-title>
@@ -1229,16 +1206,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261119040713 +0000" stop="20261119043158 +0000" channel="vizio.149station_1647">
-    <title lang="en">America Says</title>
-    <desc lang="en">John Michael Higgins hosts as two teams of friends and family race against a clock to guess how America filled in the blanks on a series of survey questions covering every topic under the sun.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205091742579,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E149</episode-num>
-    <episode-num system="xmltv_ns">0.148.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
 <programme start="20261119043158 +0000" stop="20261119045642 +0000" channel="vizio.149station_1647">
     <title lang="en">America Says</title>
     <desc lang="en">John Michael Higgins hosts as two teams of friends and family race against a clock to guess how America filled in the blanks on a series of survey questions covering every topic under the sun.</desc>
@@ -1459,186 +1426,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20261119043000 +0000" stop="20261119050000 +0000" channel="vizio.149station_1648">
-    <title lang="en">The Jeffersons</title>
-    <desc lang="en">George and Louise are in for the surprise of their lives.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205178006462,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S09E918</episode-num>
-    <episode-num system="xmltv_ns">8.917.</episode-num>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
-<programme start="20261119050000 +0000" stop="20261119053000 +0000" channel="vizio.149station_1648">
-    <title lang="en">The Steve Harvey Show</title>
-    <desc lang="en">A young student's crush on Regina upsets Steve's plans to woo her with a sentimental birthday gift.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205107146580,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E121</episode-num>
-    <episode-num system="xmltv_ns">0.120.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261119053000 +0000" stop="20261119060000 +0000" channel="vizio.149station_1648">
-    <title lang="en">The Steve Harvey Show</title>
-    <desc lang="en">As Steve's insensitivity upsets Regina, Romeo and Bullethead square off over a beautiful classmate.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205107146579,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E201</episode-num>
-    <episode-num system="xmltv_ns">1.200.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261119060000 +0000" stop="20261119063000 +0000" channel="vizio.149station_1648">
-    <title lang="en">The Steve Harvey Show</title>
-    <desc lang="en">Upset with Lovita's constant presence, Steve asks Cedric to move.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205107146583,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E202</episode-num>
-    <episode-num system="xmltv_ns">1.201.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261119063000 +0000" stop="20261119070000 +0000" channel="vizio.149station_1648">
-    <title lang="en">Malcolm &amp; Eddie</title>
-    <desc lang="en">When Malcolm grows tired of quirky ex-race car driver Rusty Shaeffer hanging around the bar all day he asks Eddie for help. Owing his start in the car repair business to Rusty, Eddie agrees to give his old friend a job.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205099904787,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E219</episode-num>
-    <episode-num system="xmltv_ns">1.218.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261119070000 +0000" stop="20261119073000 +0000" channel="vizio.149station_1648">
-    <title lang="en">Malcolm &amp; Eddie</title>
-    <desc lang="en">Malcolm decides to redesign McGee's, he gets a carpenter to build an replica of the bar at Kansas City's legendary Jelly Roll Club. However, there's a problem when Eddie finds that the man hired is Harvey Squires, his nemesis from their days in the Navy.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205099904784,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E220</episode-num>
-    <episode-num system="xmltv_ns">1.219.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261119073000 +0000" stop="20261119080000 +0000" channel="vizio.149station_1648">
-    <title lang="en">The Steve Harvey Show</title>
-    <desc lang="en">Romeo tries to avoid having to take a tough girl to a school dance; Regina is upset after losing to Steve.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205107146582,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E203</episode-num>
-    <episode-num system="xmltv_ns">1.202.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261119080000 +0000" stop="20261119083000 +0000" channel="vizio.149station_1648">
-    <title lang="en">The Steve Harvey Show</title>
-    <desc lang="en">Steve talks Romeo into joining the choir and regrets it soon afterwards.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205107146581,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E204</episode-num>
-    <episode-num system="xmltv_ns">1.203.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261119083000 +0000" stop="20261119090000 +0000" channel="vizio.149station_1648">
-    <title lang="en">The Steve Harvey Show</title>
-    <desc lang="en">When Steve agrees to entertain at a school fund-raiser, Cedric is upset when he asks Regina to sing a duet.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205109164033,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E205</episode-num>
-    <episode-num system="xmltv_ns">1.204.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261119090000 +0000" stop="20261119093000 +0000" channel="vizio.149station_1648">
-    <title lang="en">The Steve Harvey Show</title>
-    <desc lang="en">Steve's audition for a job with singer Teddy Riley is jeopardized when Romeo pawns his saxophone.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205109164032,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E206</episode-num>
-    <episode-num system="xmltv_ns">1.205.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261119093000 +0000" stop="20261119100000 +0000" channel="vizio.149station_1648">
-    <title lang="en">Malcolm &amp; Eddie</title>
-    <desc lang="en">After a wild night leaves him with a named tattooed on his arm, Malcolm needs to find some way to make it a little less obvious. Instead of having the tattoo altered, Tim offers to get Malcolm laser surgery, provided he go on a date with his sister.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205101190220,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E221</episode-num>
-    <episode-num system="xmltv_ns">1.220.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261119100000 +0000" stop="20261119103000 +0000" channel="vizio.149station_1648">
-    <title lang="en">Malcolm &amp; Eddie</title>
-    <desc lang="en">When Malcolm's car gives out, Nicolette suggests buying a new one at an auction. To make sure he gets a deal, Eddie offers to go along.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205101190218,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E222</episode-num>
-    <episode-num system="xmltv_ns">1.221.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261119103000 +0000" stop="20261119110000 +0000" channel="vizio.149station_1648">
-    <title lang="en">The Steve Harvey Show</title>
-    <desc lang="en">Steve and Cedric face off against former Hi-Tops at a nightclub audition; Bullethead develops a crush.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205109164031,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E207</episode-num>
-    <episode-num system="xmltv_ns">1.206.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261119110000 +0000" stop="20261119113000 +0000" channel="vizio.149station_1648">
-    <title lang="en">227</title>
-    <desc lang="en">Unimpressed with Brenda's wisecracking history teacher, Mary has words with the school principal.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205110996339,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S04E412</episode-num>
-    <episode-num system="xmltv_ns">3.411.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261119113000 +0000" stop="20261119120000 +0000" channel="vizio.149station_1648">
-    <title lang="en">227</title>
-    <desc lang="en">When her parents refuse to send her to Europe, Brenda turns to coercion by accepting a proposal of marriage.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205110996327,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S04E413</episode-num>
-    <episode-num system="xmltv_ns">3.412.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261119120000 +0000" stop="20261119123000 +0000" channel="vizio.149station_1648">
-    <title lang="en">227</title>
-    <desc lang="en">While on a hike with Alexandria and her Buttercup troop, Mary and Sandra capture an escaped killer.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205110996329,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S04E414</episode-num>
-    <episode-num system="xmltv_ns">3.413.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261119123000 +0000" stop="20261119130000 +0000" channel="vizio.149station_1648">
-    <title lang="en">What's Happening Now!!</title>
-    <desc lang="en">Raj and Shirley divide the diner down the middle and see whose side can bring in the most money.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205107146575,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E110</episode-num>
-    <episode-num system="xmltv_ns">0.109.</episode-num>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
-<programme start="20261119130000 +0000" stop="20261119133000 +0000" channel="vizio.149station_1648">
-    <title lang="en">What's Happening Now!!</title>
-    <desc lang="en">Dee comes home from college and decides to drop out of school in favor of a sales career.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205109163908,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E111</episode-num>
-    <episode-num system="xmltv_ns">0.110.</episode-num>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
 <programme start="20261119040000 +0000" stop="20261119045400 +0000" channel="vizio.149station_1660">
     <title lang="en">Dawson's Creek</title>
     <desc lang="en">An offer for Joey to study abroad forces her and Dawson to reconsider their feelings for each other.</desc>
@@ -1745,16 +1532,6 @@
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%20113054647,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <episode-num system="onscreen">S02E06</episode-num>
     <episode-num system="xmltv_ns">1.5.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261119041156 +0000" stop="20261119043755 +0000" channel="vizio.149station_1668">
-    <title lang="en">Baggage</title>
-    <desc lang="en">Jerry Springer hosts as daters decide how much emotional "baggage" they are willing to put up with when finding love. A dater must choose between men whose baggage includes being obsessed with Bruce Lee and doing dinosaur impressions when nervous.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205142043810,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S03E09</episode-num>
-    <episode-num system="xmltv_ns">2.8.</episode-num>
     <rating>
       <value>TV-14</value>
     </rating>
@@ -1967,6 +1744,204 @@
     <episode-num system="xmltv_ns">2.29.</episode-num>
     <rating>
       <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261119043000 +0000" stop="20261119050000 +0000" channel="vizio.149station_1683">
+    <title lang="en">Caffeine &amp; Octane</title>
+    <sub-title lang="en">Brumos Collection with Hurley</sub-title>
+    <desc lang="en">C &amp; O Jacksonville: Featuring Hurley Haywood's Brumos Porsches, a street legal Indy car, and a dynamic '60 Olds</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%203666154646,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S06E03</episode-num>
+    <episode-num system="xmltv_ns">5.2.</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261119050000 +0000" stop="20261119053000 +0000" channel="vizio.149station_1683">
+    <title lang="en">Caffeine &amp; Octane</title>
+    <sub-title lang="en">Caffeine &amp; Octane - Graffiti Artist KBMER</sub-title>
+    <desc lang="en">Jacksonville's C &amp; O's colorful and quirky car culture.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205122279511,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S06E604</episode-num>
+    <episode-num system="xmltv_ns">5.603.</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261119053000 +0000" stop="20261119060000 +0000" channel="vizio.149station_1683">
+    <title lang="en">Caffeine &amp; Octane</title>
+    <sub-title lang="en">Caffeine &amp; Octane - Voices: Sport's Radio Legend, Mike Bell</sub-title>
+    <desc lang="en">C &amp; O: North America's greatest car show</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%203721314210,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S06E05</episode-num>
+    <episode-num system="xmltv_ns">5.4.</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261119060000 +0000" stop="20261119063000 +0000" channel="vizio.149station_1683">
+    <title lang="en">Caffeine &amp; Octane</title>
+    <sub-title lang="en">Caffeine &amp; Octane - Voices: Killer Mike</sub-title>
+    <desc lang="en">Caffeine &amp; Octane: North America's greatest car show</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205122280268,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S06E606</episode-num>
+    <episode-num system="xmltv_ns">5.605.</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261119063000 +0000" stop="20261119070000 +0000" channel="vizio.149station_1683">
+    <title lang="en">Caffeine &amp; Octane</title>
+    <sub-title lang="en">Caffeine &amp; Octane - Fuller's Fab 5</sub-title>
+    <desc lang="en">Amelia Island's own Caffeine &amp; Octane car show,: Featuring $2,000 Wrek Racing Truck, David Patterson's favorite C&amp;O cars, a plastic Citroen Mehari, and much more.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205122280259,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S06E607</episode-num>
+    <episode-num system="xmltv_ns">5.606.</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261119070000 +0000" stop="20261119073000 +0000" channel="vizio.149station_1683">
+    <title lang="en">Caffeine &amp; Octane</title>
+    <sub-title lang="en">Caffeine &amp; Octane - Generation Amelia</sub-title>
+    <desc lang="en">The Concours d'Elegance from Amelia Island: Featuring bomb-proof Conquest Knight XV, '69 Camaro Hagerty Fixer-Upper, and car-enthusiast John Oates.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205122280256,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S06E608</episode-num>
+    <episode-num system="xmltv_ns">5.607.</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261119073000 +0000" stop="20261119080000 +0000" channel="vizio.149station_1683">
+    <title lang="en">Caffeine &amp; Octane</title>
+    <sub-title lang="en">Delta Wing Racer with a Vengance - Caffeine &amp; Octane</sub-title>
+    <desc lang="en">State-of-the-art engineering and passion projects take center stage on this edition of Caffeine &amp; Octane. The revolutionary Delta Wing Racer turns on hot lap after hot lap at Road Atlanta, and driver Katherine Legge offers insight on how “less is more” when it comes to power to weight ratios; the dark world of a graffiti artist paints a picture of a car called Vengeance while the hosts share the eclectic hybrids of machines that make it to Caffeine and Octane with Vengance’s creator Totem.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205122279515,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S01E101</episode-num>
+    <episode-num system="xmltv_ns">0.100.</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261119080000 +0000" stop="20261119083000 +0000" channel="vizio.149station_1683">
+    <title lang="en">Caffeine &amp; Octane</title>
+    <sub-title lang="en">Henry Ford III &amp; Counterfeit Cars - Caffeine &amp; Octane</sub-title>
+    <desc lang="en">The word is out that Caffeine &amp; Octane is the ultimate scene and the place to be seen. Even after 12 hours of racing at the Petit Le Mans endurance race, Henry Ford III, the great grandson of Henry Ford the industrial magnate and current member of Ford’s Board of Directors, showed up to take in the sights, address the crowds, and sign a one of a kind Ford Shelby GT350R.  The GT350R will hit the road with Operation Hope to encourage young people to study math and science through motorsports; Covert car counterfeiter, Chuck Beck looks for Ford’s approval on his own version of a muscled up Festiva. YouTuber ‘That Dude in Blue’ David Patterson joins Skip and Bryan to get a special look at the motor-based philanthropic outreach and amazing cars that come with it done by John Hope Bryant, friend of Caffeine and Octane.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%20468659165,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261119083000 +0000" stop="20261119090000 +0000" channel="vizio.149station_1683">
+    <title lang="en">Caffeine &amp; Octane</title>
+    <sub-title lang="en">Go Fast Collections - Caffeine &amp; Octane</sub-title>
+    <desc lang="en">Rickey and Bryan race outside of their comfort zones, each competing to find the raddest car collection. Rickey hangs out with classic racer, Ron Green, who shows him the ropes in the ultra light '83 Ralt RT5. Bryan visits a collection of 120 racing motorcycle owned by mechanic and racer Mike McConville. Mike takes Bryan motorcross racing in his backyard after showing off his high horsepowered car collection. Caffeine and Octane alongside Ron Green visit Atlanta's first Concours d'elegance to look at classic cars that have been perfectly maintained for decades.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205122279516,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S01E103</episode-num>
+    <episode-num system="xmltv_ns">0.102.</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261119090000 +0000" stop="20261119093000 +0000" channel="vizio.149station_1683">
+    <title lang="en">Rutter's Detailin Garage</title>
+    <sub-title lang="en">Rutter's Detailin Garage - Matte Finishes</sub-title>
+    <desc lang="en">Nick Rutter shows you the how to clean and coat your matte finish</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204064266833,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S01E12</episode-num>
+    <episode-num system="xmltv_ns">0.11.</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261119093000 +0000" stop="20261119100000 +0000" channel="vizio.149station_1683">
+    <title lang="en">Rutter's Detailin Garage</title>
+    <sub-title lang="en">Rutter's Detailin Garage - Daily Driver Transformation Part 1</sub-title>
+    <desc lang="en">Nick Rutter provides valuable tips and techniques for how to detail an engine bay, deep clean wheels and tires, paint decontamination, and headlight restoration on a 10 year old daily driver.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204128857099,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S02E01</episode-num>
+    <episode-num system="xmltv_ns">1.0.</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261119100000 +0000" stop="20261119103000 +0000" channel="vizio.149station_1683">
+    <title lang="en">Two Guys Garage</title>
+    <sub-title lang="en">Two Guys Garage - EcoBoost Mustang</sub-title>
+    <desc lang="en">Willie B. and Kevin go under the hood of the new Mustang EcoBoost 4-cylinder to add some performance upgrades.  Meanwhile, progress on an old pickup project continues with rust repair and new body panels.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%2088609527,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S15E08</episode-num>
+    <episode-num system="xmltv_ns">14.7.</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261119103000 +0000" stop="20261119110000 +0000" channel="vizio.149station_1683">
+    <title lang="en">Two Guys Garage</title>
+    <sub-title lang="en">Two Guys Garage - Tipsy Track Car</sub-title>
+    <desc lang="en">When a 1969 Camaro with bad body roll is delivered to the shop, Kevin and Willie tackle the suspension to help it perform better on the track.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%2091958558,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S15E09</episode-num>
+    <episode-num system="xmltv_ns">14.8.</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261119110000 +0000" stop="20261119113000 +0000" channel="vizio.149station_1683">
+    <title lang="en">Two Guys Garage</title>
+    <sub-title lang="en">Two Guys Garage - A Pair of Pickups</sub-title>
+    <desc lang="en">Kevin and Willie build a new bed for an ongoing 1973 truck project before solving some issues with the hub assembly on a hefty F-350.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%20289734671,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S15E10</episode-num>
+    <episode-num system="xmltv_ns">14.9.</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261119113000 +0000" stop="20261119120000 +0000" channel="vizio.149station_1683">
+    <title lang="en">Two Guys Garage</title>
+    <sub-title lang="en">Two Guys Garage - Sweepstakes Jeep</sub-title>
+    <desc lang="en">Federated Auto Parts send Willie B. and Kevin a Jeep Wrangler to outfit with a new Dana 44 and a few other upgrades for a lucky winner.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%20289734672,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S15E11</episode-num>
+    <episode-num system="xmltv_ns">14.10.</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261119120000 +0000" stop="20261119123000 +0000" channel="vizio.149station_1683">
+    <title lang="en">Two Guys Garage</title>
+    <sub-title lang="en">Two Guys Garage - Make Some Noise</sub-title>
+    <desc lang="en">With a powerful Dodge Challenger in the shop for maintenance and performance upgrades, Kevin and Willie can’t resist adding on a new exhaust for the owner as well.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%20289734673,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S15E12</episode-num>
+    <episode-num system="xmltv_ns">14.11.</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261119123000 +0000" stop="20261119130000 +0000" channel="vizio.149station_1683">
+    <title lang="en">Two Guys Garage</title>
+    <sub-title lang="en">Two Guys Garage - Vintage M37 Engine Swap</sub-title>
+    <desc lang="en">When Willie and Kevin find a 1953 M37 sitting in a friend’s garage next to a Cummins 4BT and all the parts needed for an engine swap, they volunteer to provide the labor.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%20289734674,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S15E13</episode-num>
+    <episode-num system="xmltv_ns">14.12.</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261119130000 +0000" stop="20261119133000 +0000" channel="vizio.149station_1683">
+    <title lang="en">Two Guys Garage</title>
+    <sub-title lang="en">Two Guys Garage - Chevelle Re-Awakening</sub-title>
+    <desc lang="en">The guys have a sweet 1970 Chevelle in the shop with a worn-out interior and a problematic cowl induction system seal.  Plus, Kevin tackles the daunting task of rebuilding an infamous Rochester Quadrajet Carburetor.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%20619323083,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S16E01</episode-num>
+    <episode-num system="xmltv_ns">15.0.</episode-num>
+    <rating>
+      <value>TV-PG</value>
     </rating>
   </programme>
 <programme start="20261119025512 +0000" stop="20261119044746 +0000" channel="vizio.149station_1751">
@@ -2938,17 +2913,6 @@
       <value>G</value>
     </rating>
   </programme>
-<programme start="20261119034524 +0000" stop="20261119043310 +0000" channel="vizio.93126">
-    <title lang="en">The Dead Files</title>
-    <sub-title lang="en">Darkness Rises</sub-title>
-    <desc lang="en">Steve and Amy investigate violent paranormal activity in Tonawanda, NY.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%202146965238,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S11E01</episode-num>
-    <episode-num system="xmltv_ns">10.0.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme start="20261119043310 +0000" stop="20261119052111 +0000" channel="vizio.93126">
     <title lang="en">The Dead Files</title>
     <sub-title lang="en">Demon Seed</sub-title>
@@ -3580,14 +3544,6 @@
       <value>NR (NOT RATED)</value>
     </rating>
   </programme>
-<programme start="20261119041352 +0000" stop="20261119043428 +0000" channel="vizio.93AMG02451C1ENG">
-    <title lang="en">Bubble Trouble</title>
-    <desc lang="en">The Stooges are pharmacists who invent a fountain of youth.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205153598554,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
 <programme start="20261119043428 +0000" stop="20261119045643 +0000" channel="vizio.93AMG02451C1ENG">
     <title lang="en">An Ache In Every Stake</title>
     <desc lang="en">The Stooges are icemen.</desc>
@@ -4113,6 +4069,127 @@ about in weather, space and science.</desc>
       <value>TV-14</value>
     </rating>
   </programme>
+<programme start="20261119035040 +0000" stop="20261119044636 +0000" channel="vizio.93HTHRU">
+    <title lang="en">Heavy Rescue: 401</title>
+    <sub-title lang="en">There is nothing else</sub-title>
+    <desc lang="en">Gary and the team tackle a tanker wreck; Steve's crew fights to get a tall tractor off the highway.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205179187150,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S03E10</episode-num>
+    <episode-num system="xmltv_ns">2.9.</episode-num>
+    <rating>
+      <value>NR (NOT RATED)</value>
+    </rating>
+  </programme>
+<programme start="20261119044636 +0000" stop="20261119054232 +0000" channel="vizio.93HTHRU">
+    <title lang="en">Heavy Rescue: 401</title>
+    <sub-title lang="en">Only getting worse</sub-title>
+    <desc lang="en">The crew scrambles to keep the roads open during a whiteout.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205171043874,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S03E05</episode-num>
+    <episode-num system="xmltv_ns">2.4.</episode-num>
+    <rating>
+      <value>NR (NOT RATED)</value>
+    </rating>
+  </programme>
+<programme start="20261119054232 +0000" stop="20261119063828 +0000" channel="vizio.93HTHRU">
+    <title lang="en">Heavy Rescue: 401</title>
+    <sub-title lang="en">We're not safe here</sub-title>
+    <desc lang="en">Collin gets caught in the middle of icy road.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205180770493,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S03E12</episode-num>
+    <episode-num system="xmltv_ns">2.11.</episode-num>
+    <rating>
+      <value>NR (NOT RATED)</value>
+    </rating>
+  </programme>
+<programme start="20261119063828 +0000" stop="20261119073224 +0000" channel="vizio.93HTHRU">
+    <title lang="en">Heavy Rescue: 401</title>
+    <sub-title lang="en">Whole lot of faith</sub-title>
+    <desc lang="en">The crew responds to a wreck scene that stretches over half a kilometre.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205179187152,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S03E09</episode-num>
+    <episode-num system="xmltv_ns">2.8.</episode-num>
+    <rating>
+      <value>NR (NOT RATED)</value>
+    </rating>
+  </programme>
+<programme start="20261119073224 +0000" stop="20261119082614 +0000" channel="vizio.93HTHRU">
+    <title lang="en">Highway Thru Hell</title>
+    <sub-title lang="en">Episode 2</sub-title>
+    <desc lang="en">Jamie tests the limits of his classic wrecker against a rock crusher in a gravel pit.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205135275049,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S08E02</episode-num>
+    <episode-num system="xmltv_ns">7.1.</episode-num>
+    <rating>
+      <value>NR (NOT RATED)</value>
+    </rating>
+  </programme>
+<programme start="20261119082614 +0000" stop="20261119092205 +0000" channel="vizio.93HTHRU">
+    <title lang="en">Highway Thru Hell</title>
+    <sub-title lang="en">Episode 4</sub-title>
+    <desc lang="en">In Hope, Jamie, Colin and Cam battle heavy rains to recover a rolled semi blocking the highway through town.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205162971676,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S08E04</episode-num>
+    <episode-num system="xmltv_ns">7.3.</episode-num>
+    <rating>
+      <value>NR (NOT RATED)</value>
+    </rating>
+  </programme>
+<programme start="20261119092205 +0000" stop="20261119101756 +0000" channel="vizio.93HTHRU">
+    <title lang="en">Highway Thru Hell</title>
+    <sub-title lang="en">Episode 8</sub-title>
+    <desc lang="en">After years of relying on older equipment, Jamie Davis brings home a surprise for the team.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205135275042,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S08E08</episode-num>
+    <episode-num system="xmltv_ns">7.7.</episode-num>
+    <rating>
+      <value>NR (NOT RATED)</value>
+    </rating>
+  </programme>
+<programme start="20261119101756 +0000" stop="20261119111346 +0000" channel="vizio.93HTHRU">
+    <title lang="en">Highway Thru Hell</title>
+    <sub-title lang="en">Episode 000817</sub-title>
+    <desc lang="en">The men of the Jamie Davis Heavy Rescue company battle the treacherous Coquihalla Highway in British Columbia.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205135275052,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S08E17</episode-num>
+    <episode-num system="xmltv_ns">7.16.</episode-num>
+    <rating>
+      <value>NR (NOT RATED)</value>
+    </rating>
+  </programme>
+<programme start="20261119111346 +0000" stop="20261119120937 +0000" channel="vizio.93HTHRU">
+    <title lang="en">Highway Thru Hell</title>
+    <sub-title lang="en">Episode 10</sub-title>
+    <desc lang="en">Colin fights to recover a frozen rig; Cam finds himself in a dilemma with one of Jamie's classic wreckers.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205135275047,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S08E10</episode-num>
+    <episode-num system="xmltv_ns">7.9.</episode-num>
+    <rating>
+      <value>NR (NOT RATED)</value>
+    </rating>
+  </programme>
+<programme start="20261119120937 +0000" stop="20261119130527 +0000" channel="vizio.93HTHRU">
+    <title lang="en">Highway Thru Hell</title>
+    <sub-title lang="en">Episode 15</sub-title>
+    <desc lang="en">A flipped logging truck near Merritt turns into a tussle for Mitch and James.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205164711650,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S08E15</episode-num>
+    <episode-num system="xmltv_ns">7.14.</episode-num>
+    <rating>
+      <value>NR (NOT RATED)</value>
+    </rating>
+  </programme>
+<programme start="20261119130527 +0000" stop="20261119140123 +0000" channel="vizio.93HTHRU">
+    <title lang="en">Highway Thru Hell</title>
+    <sub-title lang="en">Episode 1</sub-title>
+    <desc lang="en">An early snowfall catches truckers off guard and puts Jamie Davis face to face with a heavy fuel tanker.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205135275044,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S08E01</episode-num>
+    <episode-num system="xmltv_ns">7.0.</episode-num>
+    <rating>
+      <value>NR (NOT RATED)</value>
+    </rating>
+  </programme>
 <programme start="20261119040000 +0000" stop="20261119050000 +0000" channel="vizio.93KATC">
     <title lang="en">We the People 2026</title>
     <desc lang="en">We the People 2026</desc>
@@ -4295,6 +4372,118 @@ about in weather, space and science.</desc>
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205200706957,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
       <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261119043500 +0000" stop="20261119050000 +0000" channel="vizio.93KCTVKSMO">
+    <title lang="en">We the People 2026</title>
+    <desc lang="en">We the People 2026</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205184396401,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261119050000 +0000" stop="20261119053000 +0000" channel="vizio.93KCTVKSMO">
+    <title lang="en">The Good Side Show</title>
+    <desc lang="en">The Good Side Show</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205184386877,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261119053000 +0000" stop="20261119060000 +0000" channel="vizio.93KCTVKSMO">
+    <title lang="en">Aging Untold</title>
+    <desc lang="en">Experts share aging, health and caregiving advice for people entering a new chapter of life.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205184396387,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261119060000 +0000" stop="20261119063000 +0000" channel="vizio.93KCTVKSMO">
+    <title lang="en">We the People</title>
+    <desc lang="en">We the People</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205184378059,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261119063000 +0000" stop="20261119070000 +0000" channel="vizio.93KCTVKSMO">
+    <title lang="en">Investigate TV +</title>
+    <desc lang="en">Investigate TV +</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205184378050,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261119070000 +0000" stop="20261119073000 +0000" channel="vizio.93KCTVKSMO">
+    <title lang="en">Investigate TV +</title>
+    <desc lang="en">Investigate TV +</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205184386964,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261119073000 +0000" stop="20261119080000 +0000" channel="vizio.93KCTVKSMO">
+    <title lang="en">Uncovered: ANF Investigates</title>
+    <desc lang="en">Uncovered: ANF Investigates</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205184396411,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261119080000 +0000" stop="20261119090000 +0000" channel="vizio.93KCTVKSMO">
+    <title lang="en">We the People 2026</title>
+    <desc lang="en">We the People 2026</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205184396424,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261119090000 +0000" stop="20261119100000 +0000" channel="vizio.93KCTVKSMO">
+    <title lang="en">Uncovered: ANF Investigates</title>
+    <desc lang="en">Uncovered: ANF Investigates</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205184377356,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261119100000 +0000" stop="20261119103000 +0000" channel="vizio.93KCTVKSMO">
+    <title lang="en">The Good Side Show</title>
+    <desc lang="en">The Good Side Show</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205184396419,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261119103000 +0000" stop="20261119110000 +0000" channel="vizio.93KCTVKSMO">
+    <title lang="en">KCTV 5 News This Morning</title>
+    <desc lang="en">KCTV 5 News This Morning</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205193156086,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261119110000 +0000" stop="20261119120000 +0000" channel="vizio.93KCTVKSMO">
+    <title lang="en">KCTV 5 News This Morning</title>
+    <desc lang="en">KCTV 5 News This Morning</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205193156058,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261119120000 +0000" stop="20261119130000 +0000" channel="vizio.93KCTVKSMO">
+    <title lang="en">KCTV 5 News This Morning</title>
+    <desc lang="en">KCTV 5 News This Morning</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205193156046,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261119130000 +0000" stop="20261119150000 +0000" channel="vizio.93KCTVKSMO">
+    <title lang="en">KCTV5 News This Morning</title>
+    <desc lang="en">Start your day with the Kansas City metro's most energetic morning team, delivering essential overnight breaking news, real-time traffic updates, and your First Warn 5 forecast to get you ready for the day.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205184378031,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>TV-G</value>
     </rating>
   </programme>
 <programme start="20261119023000 +0000" stop="20261119070000 +0000" channel="vizio.93KERO">
@@ -4705,14 +4894,6 @@ about in weather, space and science.</desc>
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20261119040000 +0000" stop="20261119043500 +0000" channel="vizio.93KMOV">
-    <title lang="en">First Alert 4 at 10pm</title>
-    <desc lang="en">First Alert 4 at 10pm</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205190805563,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
 <programme start="20261119043500 +0000" stop="20261119050000 +0000" channel="vizio.93KMOV">
     <title lang="en">We the People 2026</title>
     <desc lang="en">We the People 2026</desc>
@@ -4831,14 +5012,6 @@ about in weather, space and science.</desc>
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205187789320,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
       <value>TV-G</value>
-    </rating>
-  </programme>
-<programme start="20261119030000 +0000" stop="20261119043500 +0000" channel="vizio.93KMSP">
-    <title lang="en">FOX 9 News at 9-10 p.m.</title>
-    <desc lang="en">The latest local news, breaking news, weather, and sports impacting Minnesota and the surrounding region.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205200707604,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-14</value>
     </rating>
   </programme>
 <programme start="20261119043500 +0000" stop="20261119050500 +0000" channel="vizio.93KMSP">
@@ -5993,14 +6166,6 @@ about in weather, space and science.</desc>
       <value>TV-G</value>
     </rating>
   </programme>
-<programme start="20261119040000 +0000" stop="20261119043500 +0000" channel="vizio.93KWCH">
-    <title lang="en">12 News at 10:00pm</title>
-    <desc lang="en">Latest news and weather from Kansas and around the world.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205190805795,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
 <programme start="20261119043500 +0000" stop="20261119050000 +0000" channel="vizio.93KWCH">
     <title lang="en">We the People 2026</title>
     <desc lang="en">We the People 2026</desc>
@@ -6121,14 +6286,6 @@ about in weather, space and science.</desc>
       <value>TV-G</value>
     </rating>
   </programme>
-<programme start="20261119040058 +0000" stop="20261119043215 +0000" channel="vizio.93KXXV">
-    <title lang="en">25 News at 10p</title>
-    <desc lang="en">25 ABC News KXXV in Central Texas - The latest local and national news and local weather, traffic and sports.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205183726333,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
 <programme start="20261119043215 +0000" stop="20261119060000 +0000" channel="vizio.93KXXV">
     <title lang="en">25 News</title>
     <desc lang="en">25 ABC News KXXV in Central Texas - The latest local and national news and local weather, traffic and sports.</desc>
@@ -6159,248 +6316,6 @@ about in weather, space and science.</desc>
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205183726424,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
       <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261119042329 +0000" stop="20261119044858 +0000" channel="vizio.93LGNVBP">
-    <title lang="en">Anger Management</title>
-    <sub-title lang="en">Charlie Helps Lacey Stay Rich</sub-title>
-    <desc lang="en">Charlie offers immoral dating advice to Lacey.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205157357161,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E42</episode-num>
-    <episode-num system="xmltv_ns">1.41.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261119044858 +0000" stop="20261119051432 +0000" channel="vizio.93LGNVBP">
-    <title lang="en">Anger Management</title>
-    <sub-title lang="en">Charlie Loses His Virginity Again</sub-title>
-    <desc lang="en">Charlie asks for a second chance with the woman to whom he lost his virginity.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205188301605,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E43</episode-num>
-    <episode-num system="xmltv_ns">1.42.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261119051432 +0000" stop="20261119054004 +0000" channel="vizio.93LGNVBP">
-    <title lang="en">Anger Management</title>
-    <sub-title lang="en">Charlie Does It for Science</sub-title>
-    <desc lang="en">Charlie is pursued by a reporter who is interested in his sex study.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205183213602,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E44</episode-num>
-    <episode-num system="xmltv_ns">1.43.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261119054004 +0000" stop="20261119060543 +0000" channel="vizio.93LGNVBP">
-    <title lang="en">Anger Management</title>
-    <sub-title lang="en">Charlie &amp; Lacey Shack Up</sub-title>
-    <desc lang="en">Charlie's bad-girl patient gets sentenced to house arrest and moves in with Charlie.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205161644892,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E45</episode-num>
-    <episode-num system="xmltv_ns">1.44.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261119060543 +0000" stop="20261119063121 +0000" channel="vizio.93LGNVBP">
-    <title lang="en">Anger Management</title>
-    <sub-title lang="en">Charlie &amp; The Christmas Hooker</sub-title>
-    <desc lang="en">Ed derails Charlie's plans for Christmas.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205188301552,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E46</episode-num>
-    <episode-num system="xmltv_ns">1.45.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261119063121 +0000" stop="20261119065658 +0000" channel="vizio.93LGNVBP">
-    <title lang="en">Anger Management</title>
-    <sub-title lang="en">Charlie and the Pajama Intervention</sub-title>
-    <desc lang="en">Charlie seeks his prison group's help when his partying ways result in him getting arrested.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205161644960,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E47</episode-num>
-    <episode-num system="xmltv_ns">1.46.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261119065658 +0000" stop="20261119072232 +0000" channel="vizio.93LGNVBP">
-    <title lang="en">Anger Management</title>
-    <sub-title lang="en">Charlie Sets Jordan Up With a Serial Killer</sub-title>
-    <desc lang="en">Jordan does an unusual favor for Charlie.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205157357166,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E48</episode-num>
-    <episode-num system="xmltv_ns">1.47.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261119072232 +0000" stop="20261119074811 +0000" channel="vizio.93LGNVBP">
-    <title lang="en">Anger Management</title>
-    <sub-title lang="en">Charlie and the Twins</sub-title>
-    <desc lang="en">Charlie sleeps with Jordan's twin sister.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205174911220,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E49</episode-num>
-    <episode-num system="xmltv_ns">1.48.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261119074811 +0000" stop="20261119081347 +0000" channel="vizio.93LGNVBP">
-    <title lang="en">Anger Management</title>
-    <sub-title lang="en">Charlie and Sean Fight Over a Girl</sub-title>
-    <desc lang="en">Charlie and Sean compete for the same woman's affection.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205157357157,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E50</episode-num>
-    <episode-num system="xmltv_ns">1.49.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261119081347 +0000" stop="20261119083919 +0000" channel="vizio.93LGNVBP">
-    <title lang="en">Anger Management</title>
-    <sub-title lang="en">Charlie &amp; The Last Temptation of Eugenio</sub-title>
-    <desc lang="en">Charlie tries to tempt his best party buddy when he becomes a priest.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205157357182,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E51</episode-num>
-    <episode-num system="xmltv_ns">1.50.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261119083919 +0000" stop="20261119090450 +0000" channel="vizio.93LGNVBP">
-    <title lang="en">Anger Management</title>
-    <sub-title lang="en">Charlie and the Hot Latina</sub-title>
-    <desc lang="en">A forbidden romance tempts Charlie.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205190457544,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E52</episode-num>
-    <episode-num system="xmltv_ns">1.51.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261119090450 +0000" stop="20261119093017 +0000" channel="vizio.93LGNVBP">
-    <title lang="en">Anger Management</title>
-    <sub-title lang="en">Charlie &amp; His Probation Officer’s Daughter</sub-title>
-    <desc lang="en">A one-night stand gets Charlie into trouble.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205154388984,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E53</episode-num>
-    <episode-num system="xmltv_ns">1.52.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261119093017 +0000" stop="20261119095555 +0000" channel="vizio.93LGNVBP">
-    <title lang="en">Anger Management</title>
-    <sub-title lang="en">Charlie Gets Date Rated</sub-title>
-    <desc lang="en">Charlie uses Jordan to improve his online rating.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205196316441,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E54</episode-num>
-    <episode-num system="xmltv_ns">1.53.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261119095555 +0000" stop="20261119102128 +0000" channel="vizio.93LGNVBP">
-    <title lang="en">Anger Management</title>
-    <sub-title lang="en">Charlie and Jordan Go To Prison</sub-title>
-    <desc lang="en">After Jordan wrecks their sex study, Charlie is inspired to start a new clinic at the prison.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205151303302,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E55</episode-num>
-    <episode-num system="xmltv_ns">1.54.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261119102128 +0000" stop="20261119104701 +0000" channel="vizio.93LGNVBP">
-    <title lang="en">Anger Management</title>
-    <sub-title lang="en">Charlie and The Re-Virginized Hooker</sub-title>
-    <desc lang="en">Charlie gets cut off from sex after neglecting his work.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205197193377,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E56</episode-num>
-    <episode-num system="xmltv_ns">1.55.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261119104701 +0000" stop="20261119111234 +0000" channel="vizio.93LGNVBP">
-    <title lang="en">Anger Management</title>
-    <sub-title lang="en">Charlie Catches Jordan in the Act</sub-title>
-    <desc lang="en">Jordan kisses a prisoner, sending Charlie into a rage.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205178092690,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E57</episode-num>
-    <episode-num system="xmltv_ns">1.56.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261119111234 +0000" stop="20261119113814 +0000" channel="vizio.93LGNVBP">
-    <title lang="en">Anger Management</title>
-    <sub-title lang="en">Charlie Spends the Night with Lacey</sub-title>
-    <desc lang="en">Charlie helps Lacey keep her anger in check.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205161644961,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E58</episode-num>
-    <episode-num system="xmltv_ns">1.57.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261119113814 +0000" stop="20261119120343 +0000" channel="vizio.93LGNVBP">
-    <title lang="en">Anger Management</title>
-    <sub-title lang="en">Charlie Screws a Prisoner's Girlriend</sub-title>
-    <desc lang="en">An ill-advised tryst puts Charlie in the sights of a soon-to-be-released prisoner.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205154388980,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E59</episode-num>
-    <episode-num system="xmltv_ns">1.58.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261119120343 +0000" stop="20261119122922 +0000" channel="vizio.93LGNVBP">
-    <title lang="en">Anger Management</title>
-    <sub-title lang="en">Charlie Cops a Feel</sub-title>
-    <desc lang="en">Charlie breaks up with a Cop.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205157357148,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E60</episode-num>
-    <episode-num system="xmltv_ns">1.59.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261119122922 +0000" stop="20261119125502 +0000" channel="vizio.93LGNVBP">
-    <title lang="en">Anger Management</title>
-    <sub-title lang="en">Charlie, Lacey &amp; The Dangerous Plumber</sub-title>
-    <desc lang="en">Charlie tries to prevent a potentially dangerous hookup.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205157357138,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E61</episode-num>
-    <episode-num system="xmltv_ns">1.60.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261119125502 +0000" stop="20261119132038 +0000" channel="vizio.93LGNVBP">
-    <title lang="en">Anger Management</title>
-    <sub-title lang="en">Charlie &amp; The Mother of All Sessions</sub-title>
-    <desc lang="en">Charlie creates chaos when he surprises his therapy group by bringing their dysfunctional parents to a session.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205178092715,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E62</episode-num>
-    <episode-num system="xmltv_ns">1.61.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261119132038 +0000" stop="20261119134618 +0000" channel="vizio.93LGNVBP">
-    <title lang="en">Anger Management</title>
-    <sub-title lang="en">Charlie &amp; Sean's Twisted Sister</sub-title>
-    <desc lang="en">Charlie struggles to resist temptations from Sean's hot younger sister.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205157357181,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E63</episode-num>
-    <episode-num system="xmltv_ns">1.62.</episode-num>
-    <rating>
-      <value>TV-14</value>
     </rating>
   </programme>
 <programme start="20261119035215 +0000" stop="20261119045011 +0000" channel="vizio.93NMS4K">
@@ -6594,6 +6509,138 @@ about in weather, space and science.</desc>
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205178485300,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
       <value>TV-Y7</value>
+    </rating>
+  </programme>
+<programme start="20261119043558 +0000" stop="20261119050248 +0000" channel="vizio.93TCBSH">
+    <title lang="en">The Carol Burnett Show</title>
+    <sub-title lang="en">Soupy Sales, Mel Torme</sub-title>
+    <desc lang="en">Guest star Soupy Sales plays a hospital patient, and joins Carol for the movie spoof "Mildred Fierce."</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205192807782,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S03E18</episode-num>
+    <episode-num system="xmltv_ns">2.17.</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261119050248 +0000" stop="20261119052854 +0000" channel="vizio.93TCBSH">
+    <title lang="en">The Carol Burnett Show</title>
+    <sub-title lang="en">Jack Weston</sub-title>
+    <desc lang="en">Guest Jack Weston matches with Carol on a computer date, Carol sings, and Harvey plays Dr. Jekyll.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205192392818,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S07E06</episode-num>
+    <episode-num system="xmltv_ns">6.5.</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261119052854 +0000" stop="20261119063222 +0000" channel="vizio.93TCBSH">
+    <title lang="en">The Best Of The Carol Burnett Show</title>
+    <sub-title lang="en">Nanette Fabray, Burt Reynolds</sub-title>
+    <desc lang="en">Burt Reynolds and Nanette Fabray join the gang for a series of Carol's patented commercial parodies.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205192392400,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S05E20</episode-num>
+    <episode-num system="xmltv_ns">4.19.</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261119063222 +0000" stop="20261119070210 +0000" channel="vizio.93TCBSH">
+    <title lang="en">The Carol Burnett Show</title>
+    <sub-title lang="en">Bob Newhart</sub-title>
+    <desc lang="en">Bob Newhart appears in "Carol &amp; Sis" as Roger's accountant. Also: a hungover Harvey gets a bigger headache.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205192392900,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S04E23</episode-num>
+    <episode-num system="xmltv_ns">3.22.</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261119070210 +0000" stop="20261119080207 +0000" channel="vizio.93TCBSH">
+    <title lang="en">The Best Of The Carol Burnett Show</title>
+    <sub-title lang="en">Jim Nabors</sub-title>
+    <desc lang="en">Jim Nabors returns for his eleventh and final season premiere guest star spot!</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205196319199,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S11E01</episode-num>
+    <episode-num system="xmltv_ns">10.0.</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261119080207 +0000" stop="20261119090656 +0000" channel="vizio.93TCBSH">
+    <title lang="en">The Best Of The Carol Burnett Show</title>
+    <sub-title lang="en">Maggie Smith</sub-title>
+    <desc lang="en">Maggie Smith returns to guest star as the erudite teacher of Eunice and Ed's son Bubba in "The Family."</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205192392306,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S09E10</episode-num>
+    <episode-num system="xmltv_ns">8.9.</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261119090656 +0000" stop="20261119101505 +0000" channel="vizio.93TCBSH">
+    <title lang="en">The Best Of The Carol Burnett Show</title>
+    <sub-title lang="en">Wayne Rogers, Buddy Ebsen</sub-title>
+    <desc lang="en">Sketches include: "The West Dakota County Fair", "War Is Heck", and another visit with "The Old Folks."</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205192392349,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S08E20</episode-num>
+    <episode-num system="xmltv_ns">7.19.</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261119101505 +0000" stop="20261119104146 +0000" channel="vizio.93TCBSH">
+    <title lang="en">The Carol Burnett Show</title>
+    <sub-title lang="en">Tim Conway, Charo</sub-title>
+    <desc lang="en">Tim Conway and Charo guest! Tim plays a man at a unisex salon, a guy trying to stay awake, and a journalist.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205192392825,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S07E02</episode-num>
+    <episode-num system="xmltv_ns">6.1.</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261119104146 +0000" stop="20261119111228 +0000" channel="vizio.93TCBSH">
+    <title lang="en">The Carol Burnett Show</title>
+    <sub-title lang="en">Anthony Newley, Dick Martin</sub-title>
+    <desc lang="en">Anthony Newley &amp; Dick Martin appear in a tribute to movie detectives, and Carol &amp; Vicki are ready to mingle.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205192392827,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S07E13</episode-num>
+    <episode-num system="xmltv_ns">6.12.</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261119111228 +0000" stop="20261119121405 +0000" channel="vizio.93TCBSH">
+    <title lang="en">The Best Of The Carol Burnett Show</title>
+    <sub-title lang="en">Jim Nabors</sub-title>
+    <desc lang="en">Carol's good luck charm Jim Nabors guest stars!</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205192392386,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S06E01</episode-num>
+    <episode-num system="xmltv_ns">5.0.</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261119121405 +0000" stop="20261119124439 +0000" channel="vizio.93TCBSH">
+    <title lang="en">The Carol Burnett Show</title>
+    <sub-title lang="en">Ken Berry, Cass Elliot</sub-title>
+    <desc lang="en">Guests Mama Cass Elliot and Ken Berry offer up some musical numbers and a series of commercial parodies.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205192392420,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S05E05</episode-num>
+    <episode-num system="xmltv_ns">4.4.</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+<programme start="20261119124439 +0000" stop="20261119134858 +0000" channel="vizio.93TCBSH">
+    <title lang="en">The Best Of The Carol Burnett Show</title>
+    <sub-title lang="en">Dick Chamberlain, Gloria Loring, Kay Medford</sub-title>
+    <desc lang="en">Frankly my dear, guest star Richard Chamberlain gives it his all in "Gone With The Breeze".</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205192392095,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <rating>
+      <value>TV-G</value>
     </rating>
   </programme>
 <programme start="20261119040000 +0000" stop="20261119050000 +0000" channel="vizio.93TDAMERITRADE">
@@ -7197,17 +7244,6 @@ about in weather, space and science.</desc>
       <value>R</value>
     </rating>
   </programme>
-<programme start="20261119034828 +0000" stop="20261119044123 +0000" channel="vizio.93VZHUS">
-    <title lang="en">Holmes on Homes</title>
-    <sub-title lang="en">Blind Faith</sub-title>
-    <desc lang="en">Keep the faith as Mike fixes a $30K bathroom reno that became an unholy mess.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204713392665,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S07E06</episode-num>
-    <episode-num system="xmltv_ns">6.5.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
 <programme start="20261119044123 +0000" stop="20261119050718 +0000" channel="vizio.93VZHUS">
     <title lang="en">Sarah's House</title>
     <sub-title lang="en">Grand Finale</sub-title>
@@ -7435,14 +7471,6 @@ about in weather, space and science.</desc>
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204713392691,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <episode-num system="onscreen">S02E08</episode-num>
     <episode-num system="xmltv_ns">1.7.</episode-num>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
-<programme start="20261119025910 +0000" stop="20261119044307 +0000" channel="vizio.93VZONO2">
-    <title lang="en">A Christmas Less Traveled</title>
-    <desc lang="en">As Desi faces the dilemma of selling her late father's beloved truck, a chance encounter with a handsome stranger leads to a transformative road trip where they find the courage to embrace the future.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205180505869,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
       <value>TV-G</value>
     </rating>
@@ -7719,14 +7747,6 @@ about in weather, space and science.</desc>
       <value>TV-G</value>
     </rating>
   </programme>
-<programme start="20261119040000 +0000" stop="20261119043500 +0000" channel="vizio.93WBAY">
-    <title lang="en">Action 2 News at 10</title>
-    <desc lang="en">The day's news events, late-breaking news, continuing stories of interest in the Green Bay area, the latest business and financial reports, sports updates, weather information and tomorrow's forecast are presented by the Action 2 News Team.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205192762876,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
 <programme start="20261119043500 +0000" stop="20261119050000 +0000" channel="vizio.93WBAY">
     <title lang="en">We the People 2026</title>
     <desc lang="en">We the People 2026</desc>
@@ -7819,14 +7839,6 @@ about in weather, space and science.</desc>
     <title lang="en">Action 2 Livestream</title>
     <desc lang="en">More stories, fewer scripts. More interviews, more candid moments.</desc>
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205184378082,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
-<programme start="20261119040000 +0000" stop="20261119043500 +0000" channel="vizio.93WBRC">
-    <title lang="en">WBRC 6 News at 10p</title>
-    <desc lang="en">WBRC 6 News at 10p</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205192761183,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
       <value>TV-G</value>
     </rating>
@@ -7947,14 +7959,6 @@ about in weather, space and science.</desc>
     <title lang="en">Good Day Alabama 7a</title>
     <desc lang="en">Good Day Alabama 7a</desc>
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205192761172,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
-<programme start="20261119040000 +0000" stop="20261119043500 +0000" channel="vizio.93WBTV">
-    <title lang="en">WBTV News 3 at 11:00PM</title>
-    <desc lang="en">WBTV is On Your Side with trusted local news, accurate weather forecasts and up-to-the-minute traffic updates.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205187790121,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
       <value>TV-G</value>
     </rating>
@@ -8671,14 +8675,6 @@ about in weather, space and science.</desc>
       <value>TV-G</value>
     </rating>
   </programme>
-<programme start="20261119040000 +0000" stop="20261119043500 +0000" channel="vizio.93WDBJ">
-    <title lang="en">WDBJ7 News at 11</title>
-    <desc lang="en">WDBJ7 News at 11</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205187807628,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
 <programme start="20261119043500 +0000" stop="20261119050000 +0000" channel="vizio.93WDBJ">
     <title lang="en">We the People 2026</title>
     <desc lang="en">We the People 2026</desc>
@@ -8805,14 +8801,6 @@ about in weather, space and science.</desc>
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205183723491,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
       <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261119040000 +0000" stop="20261119043500 +0000" channel="vizio.93WFSB">
-    <title lang="en">Eyewitness News at 11:00PM</title>
-    <desc lang="en">The Eyewitness News Team presents an in-depth report on the major news events of the day and the details of late breaking news stories, along with the latest sports updates, First Alert Weather conditions and the weather forecast for tomorrow.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205187797438,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-G</value>
     </rating>
   </programme>
 <programme start="20261119043500 +0000" stop="20261119050000 +0000" channel="vizio.93WFSB">
@@ -9071,14 +9059,6 @@ about in weather, space and science.</desc>
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20261119040000 +0000" stop="20261119043500 +0000" channel="vizio.93WFXTB">
-    <title lang="en">Live Local News</title>
-    <desc lang="en">Live newscast covering important local topics and events</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205202464095,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
 <programme start="20261119043500 +0000" stop="20261119050000 +0000" channel="vizio.93WFXTB">
     <title lang="en">National News Now</title>
     <desc lang="en">National headlines from reporters who are embedded in the communities they cover.</desc>
@@ -9227,14 +9207,6 @@ about in weather, space and science.</desc>
     <title lang="en">NBC 26 News</title>
     <desc lang="en">NBC 26 in Green Bay - The latest local and national news and local weather, traffic and sports.</desc>
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205183722085,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261119040000 +0000" stop="20261119043315 +0000" channel="vizio.93WHIOB">
-    <title lang="en">Live Local News</title>
-    <desc lang="en">Live newscast covering important local topics and events</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205200782911,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
       <value>TV-PG</value>
     </rating>
@@ -9479,14 +9451,6 @@ about in weather, space and science.</desc>
       <value>TV-G</value>
     </rating>
   </programme>
-<programme start="20261119040000 +0000" stop="20261119043500 +0000" channel="vizio.93WJAXB">
-    <title lang="en">Live Local News</title>
-    <desc lang="en">Live newscast covering important local topics and events</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205200782772,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
 <programme start="20261119043500 +0000" stop="20261119050500 +0000" channel="vizio.93WJAXB">
     <title lang="en">National News Now</title>
     <desc lang="en">National headlines from reporters who are embedded in the communities they cover.</desc>
@@ -9615,14 +9579,6 @@ about in weather, space and science.</desc>
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20261119040000 +0000" stop="20261119043500 +0000" channel="vizio.93WKBW">
-    <title lang="en">7 News at 11</title>
-    <desc lang="en">The latest headlines and stories impacting the Western New York community. Andy Parker provides the latest weather updates.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205183722086,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
 <programme start="20261119043500 +0000" stop="20261119050000 +0000" channel="vizio.93WKBW">
     <title lang="en">7 News</title>
     <desc lang="en">WKBW 7 news in Buffalo - The latest local and national news and local weather, traffic and sports.</desc>
@@ -9677,14 +9633,6 @@ about in weather, space and science.</desc>
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205183721788,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
       <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261119040000 +0000" stop="20261119043500 +0000" channel="vizio.93WKYT">
-    <title lang="en">WKYT News at 11 PM</title>
-    <desc lang="en">WKYT News at 11 PM</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205187724174,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-G</value>
     </rating>
   </programme>
 <programme start="20261119043500 +0000" stop="20261119050000 +0000" channel="vizio.93WKYT">
@@ -9871,14 +9819,6 @@ about in weather, space and science.</desc>
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20261119040000 +0000" stop="20261119043500 +0000" channel="vizio.93WMC">
-    <title lang="en">WMC Action News 5 at 10:00 PM</title>
-    <desc lang="en">The WMC Action Nightly News Team presents the latest local, state, and national news, along with updates on breaking news events, weather, sports stories, and traffic reports for residents in the Memphis, Tennessee, region.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205190412902,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
 <programme start="20261119043500 +0000" stop="20261119050000 +0000" channel="vizio.93WMC">
     <title lang="en">We the People 2026</title>
     <desc lang="en">We the People 2026</desc>
@@ -9995,17 +9935,6 @@ about in weather, space and science.</desc>
     <title lang="en">Action News 5 at 7 AM</title>
     <desc lang="en">Your source for live local news, weather, breaking news, sports, and more.</desc>
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205185730782,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
-<programme start="20261119041400 +0000" stop="20261119043721 +0000" channel="vizio.93WONDER">
-    <title lang="en">Wildchild</title>
-    <sub-title lang="en">North American Fun</sub-title>
-    <desc lang="en">Journey around North America to find the most fascinating families in the wild.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205200708007,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
     <rating>
       <value>TV-G</value>
     </rating>
@@ -10263,54 +10192,6 @@ about in weather, space and science.</desc>
       <value>TV-G</value>
     </rating>
   </programme>
-<programme start="20261119043000 +0000" stop="20261119050000 +0000" channel="vizio.93WPTV">
-    <title lang="en">WPTV News</title>
-    <desc lang="en">WPTV in West Palm Beach - The latest local and national news and local weather, traffic and sports.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205183725418,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261119050000 +0000" stop="20261119093000 +0000" channel="vizio.93WPTV">
-    <title lang="en">WPTV News</title>
-    <desc lang="en">WPTV in West Palm Beach - The latest local and national news and local weather, traffic and sports.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205183723730,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261119093000 +0000" stop="20261119100000 +0000" channel="vizio.93WPTV">
-    <title lang="en">WPTV News at 4:30 am</title>
-    <desc lang="en">WPTV in West Palm Beach - The latest local and national news and local weather, traffic and sports.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205183722422,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261119100000 +0000" stop="20261119110000 +0000" channel="vizio.93WPTV">
-    <title lang="en">WPTV News at 5 am</title>
-    <desc lang="en">WPTV in West Palm Beach - The latest local and national news and local weather, traffic and sports.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205183723657,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261119110000 +0000" stop="20261119120000 +0000" channel="vizio.93WPTV">
-    <title lang="en">WPTV News at 6 am</title>
-    <desc lang="en">WPTV in West Palm Beach - The latest local and national news and local weather, traffic and sports.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205183723677,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261119120000 +0000" stop="20261119160000 +0000" channel="vizio.93WPTV">
-    <title lang="en">WPTV News</title>
-    <desc lang="en">WPTV in West Palm Beach - The latest local and national news and local weather, traffic and sports.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205183723724,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
 <programme start="20261119043000 +0000" stop="20261119050000 +0000" channel="vizio.93WPXIB">
     <title lang="en">National News Now</title>
     <desc lang="en">National headlines from reporters who are embedded in the communities they cover.</desc>
@@ -10431,14 +10312,6 @@ about in weather, space and science.</desc>
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20261119040000 +0000" stop="20261119043235 +0000" channel="vizio.93WTKR">
-    <title lang="en">News 3 at 11</title>
-    <desc lang="en">WTKR News 3 in Hampton Roads - The latest local and national news and local weather, traffic and sports.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205183723864,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
 <programme start="20261119043235 +0000" stop="20261119050000 +0000" channel="vizio.93WTKR">
     <title lang="en">News 3</title>
     <desc lang="en">WTKR News 3 in Hampton Roads - The latest local and national news and local weather, traffic and sports.</desc>
@@ -10543,70 +10416,6 @@ about in weather, space and science.</desc>
       <value>NR (NOT RATED)</value>
     </rating>
   </programme>
-<programme start="20261119040000 +0000" stop="20261119043500 +0000" channel="vizio.93WTVF">
-    <title lang="en">NewsChannel 5 at 10 p.m.</title>
-    <desc lang="en">NewsChannel 5 in Nashville - The latest local and national news and local weather, traffic and sports.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205183723854,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261119043500 +0000" stop="20261119060000 +0000" channel="vizio.93WTVF">
-    <title lang="en">NewsChannel 5 News</title>
-    <desc lang="en">NewsChannel 5 in Nashville - The latest local and national news and local weather, traffic and sports.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205183723865,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261119060000 +0000" stop="20261119100000 +0000" channel="vizio.93WTVF">
-    <title lang="en">NewsChannel 5 News</title>
-    <desc lang="en">NewsChannel 5 in Nashville - The latest local and national news and local weather, traffic and sports.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205183723900,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261119100000 +0000" stop="20261119110000 +0000" channel="vizio.93WTVF">
-    <title lang="en">NewsChannel 5 This Morning at 4</title>
-    <desc lang="en">NewsChannel 5 in Nashville - The latest local and national news and local weather, traffic and sports.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205183723866,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261119110000 +0000" stop="20261119120000 +0000" channel="vizio.93WTVF">
-    <title lang="en">NewsChannel 5 This Morning at 5</title>
-    <desc lang="en">NewsChannel 5 in Nashville - The latest local and national news and local weather, traffic and sports.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205183723862,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261119120000 +0000" stop="20261119130000 +0000" channel="vizio.93WTVF">
-    <title lang="en">NewsChannel 5 This Morning at 6</title>
-    <desc lang="en">NewsChannel 5 in Nashville - The latest local and national news and local weather, traffic and sports.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205183723879,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261119130000 +0000" stop="20261119150000 +0000" channel="vizio.93WTVF">
-    <title lang="en">NewsChannel 5 News</title>
-    <desc lang="en">NewsChannel 5 in Nashville - The latest local and national news and local weather, traffic and sports.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205183726346,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261119040000 +0000" stop="20261119043500 +0000" channel="vizio.93WTVR">
-    <title lang="en">CBS 6 News at 11 p.m.</title>
-    <desc lang="en">Get the latest breaking news, weather and sports with Julie Bragg, Chief Meteorologist Zach Daniel and Sports Director Lane Casadonte.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205183726666,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
 <programme start="20261119043500 +0000" stop="20261119093000 +0000" channel="vizio.93WTVR">
     <title lang="en">CBS 6 News: 24/7 News &amp; Weather</title>
     <desc lang="en">WTVR CBS 6: News on your schedule. The latest news in Richmond, Virginia - weather, traffic and sports.</desc>
@@ -10669,14 +10478,6 @@ about in weather, space and science.</desc>
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205183723732,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
       <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261119040000 +0000" stop="20261119043500 +0000" channel="vizio.93WVLT">
-    <title lang="en">WVLT News @ 11P</title>
-    <desc lang="en">WVLT News @ 11P</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205189731593,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-G</value>
     </rating>
   </programme>
 <programme start="20261119043500 +0000" stop="20261119050000 +0000" channel="vizio.93WVLT">
@@ -10791,14 +10592,6 @@ about in weather, space and science.</desc>
       <value>TV-G</value>
     </rating>
   </programme>
-<programme start="20261119040000 +0000" stop="20261119043500 +0000" channel="vizio.93WVUE">
-    <title lang="en">FOX 8 News at 10pm</title>
-    <desc lang="en">Fox 8 Local First has your latest News with Lee Zurik and Meg Gatto. Bruce Katz has your updated Weather Authority Forecast and Juan Kincaid has the latest headlines from the world of Sports.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205190811698,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
 <programme start="20261119043500 +0000" stop="20261119050500 +0000" channel="vizio.93WVUE">
     <title lang="en">FOX 8 Game Plan</title>
     <desc lang="en">FOX 8 Game Plan</desc>
@@ -10899,14 +10692,6 @@ about in weather, space and science.</desc>
     <title lang="en">FOX 8 Morning Edition at 7am</title>
     <desc lang="en">The FOX 8 Local First news team presents the latest headline news from around the community, along with weather conditions, traffic reports and more.</desc>
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205192761650,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
-<programme start="20261119040000 +0000" stop="20261119043500 +0000" channel="vizio.93WWBT">
-    <title lang="en">12 News at 11:00PM</title>
-    <desc lang="en">The day's major news events, late-breaking news, continuing stories of interest in the Richmond area, the latest business and financial reports, local sports updates, weather information and tomorrow's forecast are presented by the 12 News Team.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205193159065,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
       <value>TV-G</value>
     </rating>
@@ -11039,14 +10824,6 @@ about in weather, space and science.</desc>
       <value>TV-G</value>
     </rating>
   </programme>
-<programme start="20261119040000 +0000" stop="20261119043500 +0000" channel="vizio.93WXIX">
-    <title lang="en">FOX19 Now at 11pm</title>
-    <desc lang="en">Details affecting local, regional, statewide, and national news events are provided along with timely updates on community issues, breaking news, traffic and the weather forecast.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205187553417,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
 <programme start="20261119043500 +0000" stop="20261119050000 +0000" channel="vizio.93WXIX">
     <title lang="en">We the People 2026</title>
     <desc lang="en">We the People 2026</desc>
@@ -11159,14 +10936,6 @@ about in weather, space and science.</desc>
       <value>TV-G</value>
     </rating>
   </programme>
-<programme start="20261119040000 +0000" stop="20261119043500 +0000" channel="vizio.93WXMI">
-    <title lang="en">FOX 17 News at 11</title>
-    <desc lang="en">FOX 17 News at Eleven brings you the latest local and national headlines, plus a look at your West Michigan forecast.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205183725371,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
 <programme start="20261119043500 +0000" stop="20261119050000 +0000" channel="vizio.93WXMI">
     <title lang="en">FOX 17 News</title>
     <desc lang="en">FOX 17 News in West Michigan - The latest local and national news and local weather, traffic and sports.</desc>
@@ -11187,14 +10956,6 @@ about in weather, space and science.</desc>
     <title lang="en">FOX 17 Morning News</title>
     <desc lang="en">FOX 17 Morning News brings the most local news, weather, traffic and sports from across West Michigan.</desc>
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205183723111,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261119040000 +0000" stop="20261119043500 +0000" channel="vizio.93WXYZ">
-    <title lang="en">7 News Detroit at 11PM</title>
-    <desc lang="en">WXYZ 7 Action News is Detroit's breaking news and weather leader. Channel 7 - on-air, online at WXYZ.com and always Taking Action for You.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205183723874,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
       <value>TV-PG</value>
     </rating>
@@ -11484,17 +11245,6 @@ about in weather, space and science.</desc>
       <value>TV-G</value>
     </rating>
   </programme>
-<programme start="20261119042001 +0000" stop="20261119044501 +0000" channel="vizio.93amg00047c106">
-    <title lang="en">Barbecue: Life of Fire</title>
-    <sub-title lang="en">Spearfishing off Florida's Emerald Coast</sub-title>
-    <desc lang="en">Pat joins his friend Adam Evans on a spearfishing adventure, sourcing fresh fish to cook over live fire.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205177369583,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E07</episode-num>
-    <episode-num system="xmltv_ns">1.6.</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
 <programme start="20261119044501 +0000" stop="20261119051001 +0000" channel="vizio.93amg00047c106">
     <title lang="en">Barbecue: Life of Fire</title>
     <sub-title lang="en">The Legend of Louis Mueller's Dino Beef Ribs</sub-title>
@@ -11689,17 +11439,6 @@ about in weather, space and science.</desc>
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204799521613,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <episode-num system="onscreen">S01E09</episode-num>
     <episode-num system="xmltv_ns">0.8.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261119041902 +0000" stop="20261119044237 +0000" channel="vizio.93amg00136c176">
-    <title lang="en">Hangin' with Mr. Cooper</title>
-    <sub-title lang="en">Lifesaver</sub-title>
-    <desc lang="en">Geneva's boyfriend wants to marry her.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205071959078,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S05E10</episode-num>
-    <episode-num system="xmltv_ns">4.9.</episode-num>
     <rating>
       <value>TV-PG</value>
     </rating>
@@ -12520,17 +12259,6 @@ about in weather, space and science.</desc>
       <value>TV-G</value>
     </rating>
   </programme>
-<programme start="20261119041630 +0000" stop="20261119044203 +0000" channel="vizio.93amg00136c53">
-    <title lang="en">My First Place</title>
-    <sub-title lang="en">Acting Faster in Phoenix</sub-title>
-    <desc lang="en">As couple learns to be more aggressive as they house hunt in Phoenix.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205072089347,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S10E02</episode-num>
-    <episode-num system="xmltv_ns">9.1.</episode-num>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
 <programme start="20261119044203 +0000" stop="20261119050735 +0000" channel="vizio.93amg00136c53">
     <title lang="en">My First Place</title>
     <sub-title lang="en">Pricing Ups and Downs</sub-title>
@@ -12894,17 +12622,6 @@ about in weather, space and science.</desc>
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261119035804 +0000" stop="20261119043154 +0000" channel="vizio.93amg00285c14">
-    <title lang="en">Caylus</title>
-    <sub-title lang="en">Sibling Rivalry</sub-title>
-    <desc lang="en">Caylus and his brother compete to see who can find the best car in GTA.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205003154096,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S07E18</episode-num>
-    <episode-num system="xmltv_ns">6.17.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme start="20261119043154 +0000" stop="20261119045131 +0000" channel="vizio.93amg00285c14">
     <title lang="en">Caylus</title>
     <sub-title lang="en">Breaking All My Bones Again</sub-title>
@@ -13222,14 +12939,6 @@ about in weather, space and science.</desc>
       <value>TV-Y</value>
     </rating>
   </programme>
-<programme start="20261119032554 +0000" stop="20261119044100 +0000" channel="vizio.93amg00346c32">
-    <title lang="en">Vermont Leaves</title>
-    <desc lang="en">Brilliant fall colors surround a charming countryside barn overlooking a peaceful lake and distant mountains.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205173467287,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>NR (NOT RATED)</value>
-    </rating>
-  </programme>
 <programme start="20261119044100 +0000" stop="20261119055606 +0000" channel="vizio.93amg00346c32">
     <title lang="en">Bavarian Forest</title>
     <desc lang="en">A stunning forrest unfolds below an impressive Bavarian mountain.</desc>
@@ -13381,14 +13090,6 @@ about in weather, space and science.</desc>
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205096591517,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <episode-num system="onscreen">S01E03</episode-num>
     <episode-num system="xmltv_ns">0.2.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261119041856 +0000" stop="20261119044251 +0000" channel="vizio.93amg02134c2">
-    <title lang="en">How These Instagram Illustrators are Disrupting the Car Industry / Which Performance Badges Are a Scam</title>
-    <desc lang="en">Nolan explores the wide world of digital car art and gives you a list of artists you should follow right now!</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204963812161,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
       <value>TV-14</value>
     </rating>
@@ -13997,14 +13698,6 @@ about in weather, space and science.</desc>
       <value>PG</value>
     </rating>
   </programme>
-<programme start="20261119041644 +0000" stop="20261119043145 +0000" channel="vizio.93amg35360c1">
-    <title lang="en">Steroid Women vs. Average Joe's - (Who's Stronger?)</title>
-    <desc lang="en">Women on steroids vs. average guys — the results speak for themselves.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204961709442,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
 <programme start="20261119043145 +0000" stop="20261119050720 +0000" channel="vizio.93amg35360c1">
     <title lang="en">I Transformed My Camera Man in 45 Days (-18lbs lost!)</title>
     <desc lang="en">My cameraman lost 18 pounds in 45 days. Here's exactly how he did it.</desc>
@@ -14193,14 +13886,6 @@ about in weather, space and science.</desc>
     <title lang="en">Dwarfs vs. Kids - (Who's Stronger?)</title>
     <desc lang="en">Jesse James West organizes a series of athletic showdowns between the world's strongest children and a team of professional little people. Participants face off in six demanding physical tests, ranging from heavy deadlifts and endurance obstacles to competitive tug-of-war, to determine which group possesses superior strength and coordination.</desc>
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205131735493,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-<programme start="20261119041606 +0000" stop="20261119043913 +0000" channel="vizio.93amg35360c2">
-    <title lang="en">Guess The Pro Women's Footballer</title>
-    <desc lang="en">In this challenge our guest Billy needs to guess who is the pro female footballer! Can he do it or do I get the forfait?</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204961709488,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
       <value>G</value>
     </rating>
@@ -14565,14 +14250,6 @@ about in weather, space and science.</desc>
       <value>G</value>
     </rating>
   </programme>
-<programme start="20261119040739 +0000" stop="20261119043304 +0000" channel="vizio.93amg35360c4">
-    <title lang="en">Building the World's Smallest Twin Engine Jet Boat!</title>
-    <desc lang="en">Engineers construct a miniature twin-engine jet boat in this precision build project.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204995527379,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
 <programme start="20261119043304 +0000" stop="20261119051519 +0000" channel="vizio.93amg35360c4">
     <title lang="en">Our 100HP Power Wheels Needs a Turbo!</title>
     <desc lang="en">The team upgrades their best power wheels build with a turbo for maximum performance and speed.</desc>
@@ -14675,14 +14352,6 @@ about in weather, space and science.</desc>
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204995527388,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
       <value>G</value>
-    </rating>
-  </programme>
-<programme start="20261119042000 +0000" stop="20261119044000 +0000" channel="vizio.93ldsus">
-    <title lang="en">Breaking News</title>
-    <desc lang="en">The day's top stories from CBC News, CNBC, Bloomberg and Reuters.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205177364813,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>TV-PG</value>
     </rating>
   </programme>
 <programme start="20261119044000 +0000" stop="20261119050000 +0000" channel="vizio.93ldsus">
@@ -14993,127 +14662,6 @@ about in weather, space and science.</desc>
     <title lang="en">Anaconda: Death Coil</title>
     <desc lang="en">Four friends visit a inherited cabin for nostalgia, but after finding a mutilated ranger and signs of a massive ancient anaconda, they're hunted by the creature and must survive the wilderness and uncover the land's dark history.</desc>
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205068539789,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-<programme start="20261119040746 +0000" stop="20261119050000 +0000" channel="vizio.96Station_88885576">
-    <title lang="en">Z Nation</title>
-    <sub-title lang="en">Party with the Zeros</sub-title>
-    <desc lang="en">Near the Mexican border, the group is rescued from a zombie hoard by Escorpion, who leads them to La Reina, the "Queen of the Dead." As a bounty for Murphy, La Reina offers them a reward or a free pass to join her group.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204279150446,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E12</episode-num>
-    <episode-num system="xmltv_ns">1.11.</episode-num>
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-<programme start="20261119050000 +0000" stop="20261119055358 +0000" channel="vizio.96Station_88885576">
-    <title lang="en">Z Nation</title>
-    <sub-title lang="en">Adios, Muchachos</sub-title>
-    <desc lang="en">All hell breaks loose when it's discovered that not only does Dr. Kurian's vaccine not work but everyone who was injected will come under Murphy's control after an incubation period.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204279150460,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E13</episode-num>
-    <episode-num system="xmltv_ns">1.12.</episode-num>
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-<programme start="20261119055358 +0000" stop="20261119064726 +0000" channel="vizio.96Station_88885576">
-    <title lang="en">Z Nation</title>
-    <sub-title lang="en">Day One</sub-title>
-    <desc lang="en">The team finally arrives in California. As they near their goal, each member thinks back to where they were at the beginning of the apocalypse and what it took to get where they are today.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204279150668,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E14</episode-num>
-    <episode-num system="xmltv_ns">1.13.</episode-num>
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-<programme start="20261119064726 +0000" stop="20261119074124 +0000" channel="vizio.96Station_88885576">
-    <title lang="en">Z Nation</title>
-    <sub-title lang="en">All Good Things Must Come to an End</sub-title>
-    <desc lang="en">In Los Angeles, the team drives through the abandoned city to the coordinates of the mobile CDC lab provided by Citizen Z. There, they discover the lab isn't just a lab - it's a submarine.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204279150516,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E15</episode-num>
-    <episode-num system="xmltv_ns">1.14.</episode-num>
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-<programme start="20261119074124 +0000" stop="20261119083641 +0000" channel="vizio.96Station_88885576">
-    <title lang="en">Z Nation</title>
-    <sub-title lang="en">No Mercy (Part 1)</sub-title>
-    <desc lang="en">In this epic flashback movie, the gang protects the town against a new enemy known as The Man. Part 1.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204279150508,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S03E01</episode-num>
-    <episode-num system="xmltv_ns">2.0.</episode-num>
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-<programme start="20261119083641 +0000" stop="20261119093013 +0000" channel="vizio.96Station_88885576">
-    <title lang="en">Z Nation</title>
-    <sub-title lang="en">No Mercy (Part 2)</sub-title>
-    <desc lang="en">In this epic flashback movie, the gang protects the town against a new enemy known as The Man. Part 2.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204279150505,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S03E02</episode-num>
-    <episode-num system="xmltv_ns">2.1.</episode-num>
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-<programme start="20261119093013 +0000" stop="20261119102031 +0000" channel="vizio.96Station_88885576">
-    <title lang="en">Z Nation</title>
-    <sub-title lang="en">A New Mission</sub-title>
-    <desc lang="en">Warren and the group are taken prisoner while Murphy manages to escape with his newly formed group of blends.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204279150491,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S03E03</episode-num>
-    <episode-num system="xmltv_ns">2.2.</episode-num>
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-<programme start="20261119102031 +0000" stop="20261119111429 +0000" channel="vizio.96Station_88885576">
-    <title lang="en">Z Nation</title>
-    <sub-title lang="en">Murphy's Miracle</sub-title>
-    <desc lang="en">While on the road to establish his headquarters in Spokane, Murphy saves the life of a dying girl. When her parents show up and ask to be bitten too, his mission gains momentum. Meanwhile, Warren leads the new mission group to a strange town.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204279150453,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S03E04</episode-num>
-    <episode-num system="xmltv_ns">2.3.</episode-num>
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-<programme start="20261119111429 +0000" stop="20261119120517 +0000" channel="vizio.96Station_88885576">
-    <title lang="en">Z Nation</title>
-    <sub-title lang="en">Escorpion and the Red Hand</sub-title>
-    <desc lang="en">As more people flock to Murphy's new cult, Dr. Merch works on a blend vaccine as well as a booster shot to slow to Murphy's descent into zombiedom.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204279150464,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S03E05</episode-num>
-    <episode-num system="xmltv_ns">2.4.</episode-num>
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-<programme start="20261119120517 +0000" stop="20261119125815 +0000" channel="vizio.96Station_88885576">
-    <title lang="en">Z Nation</title>
-    <sub-title lang="en">Little Red and the WolfZ</sub-title>
-    <desc lang="en">Alone and suffering from the effects of Merch's booster, 10K barely escapes Murphy and is stalked by a blend.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204279150472,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S03E06</episode-num>
-    <episode-num system="xmltv_ns">2.5.</episode-num>
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-<programme start="20261119125815 +0000" stop="20261119134833 +0000" channel="vizio.96Station_88885576">
-    <title lang="en">Z Nation</title>
-    <sub-title lang="en">Doc Flew Over the Cuckoo's Nest</sub-title>
-    <desc lang="en">Doc finds himself taken captive by a psychotic nurse and her surviving mental patients, and he later discovers that 10K is being held too.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204279150645,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S03E07</episode-num>
-    <episode-num system="xmltv_ns">2.6.</episode-num>
     <rating>
       <value>NR</value>
     </rating>
@@ -15619,17 +15167,6 @@ about in weather, space and science.</desc>
       <value>NR</value>
     </rating>
   </programme>
-<programme start="20261119040534 +0000" stop="20261119043529 +0000" channel="vizio.96Station_88885596">
-    <title lang="en">Garfield and Friends</title>
-    <sub-title lang="en">Model Behaviour/U.S Acres: Egg Over Easy 2/Another Ant Episode</sub-title>
-    <desc lang="en">Supermodel Heather keeps leading Jon on, while only wanting Garfield for herself; Wade realizes he can't just escape from the world by closing himself off and unshells himself; ants are back and Jon calls Mr. Crater, a bug exterminator.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205026143350,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S07E06</episode-num>
-    <episode-num system="xmltv_ns">6.5.</episode-num>
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
 <programme start="20261119043529 +0000" stop="20261119050525 +0000" channel="vizio.96Station_88885596">
     <title lang="en">Garfield and Friends</title>
     <sub-title lang="en">The Guy of Her Dreams/U.S Acres: Discount of Monty Cristo/Fairy Dogmother</sub-title>
@@ -15979,94 +15516,6 @@ about in weather, space and science.</desc>
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204927845331,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <episode-num system="onscreen">S01E17</episode-num>
     <episode-num system="xmltv_ns">0.16.</episode-num>
-  </programme>
-<programme start="20261119041040 +0000" stop="20261119050000 +0000" channel="vizio.96Station_88885598">
-    <title lang="en">Sam and Colby</title>
-    <sub-title lang="en">Exploring the World's Largest Haunted House</sub-title>
-    <desc lang="en">Sam and Colby explore overnight in the world's largest haunted house.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204927845171,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E09</episode-num>
-    <episode-num system="xmltv_ns">1.8.</episode-num>
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-<programme start="20261119050000 +0000" stop="20261119060900 +0000" channel="vizio.96Station_88885598">
-    <title lang="en">Sam and Colby</title>
-    <sub-title lang="en">Shadow Man Encounter</sub-title>
-    <desc lang="en">Sam and Colby encounter a shadow man at the Trans Allegheny Lunatic Asylum, one of the most haunted asylums in the world.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204927845271,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E10</episode-num>
-    <episode-num system="xmltv_ns">1.9.</episode-num>
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-<programme start="20261119060900 +0000" stop="20261119071347 +0000" channel="vizio.96Station_88885598">
-    <title lang="en">Sam and Colby</title>
-    <sub-title lang="en">Ritual in the Catacombs</sub-title>
-    <desc lang="en">Sam, Colby and Nate explore deep inside the world's largest catacombs in Odesa, Ukraine, where the group holds their scariest seance ever.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204927845173,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E11</episode-num>
-    <episode-num system="xmltv_ns">1.10.</episode-num>
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-<programme start="20261119071347 +0000" stop="20261119084343 +0000" channel="vizio.96Station_88885598">
-    <title lang="en">Sam and Colby</title>
-    <sub-title lang="en">A Night Alone at the Fairfield Infirmary</sub-title>
-    <desc lang="en">Sam and Colby stay overnight at the haunted Fairfield County Infirmary.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204927845452,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E12</episode-num>
-    <episode-num system="xmltv_ns">1.11.</episode-num>
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-<programme start="20261119084343 +0000" stop="20261119094858 +0000" channel="vizio.96Station_88885598">
-    <title lang="en">Sam and Colby</title>
-    <sub-title lang="en">A Night Alone in the Haunted Lighthouse</sub-title>
-    <desc lang="en">Sam and Colby experience a terrifying night alone at the world's most haunted lighthouse in St. Augustine, Florida.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204967170673,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E13</episode-num>
-    <episode-num system="xmltv_ns">1.12.</episode-num>
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-<programme start="20261119094858 +0000" stop="20261119105810 +0000" channel="vizio.96Station_88885598">
-    <title lang="en">Sam and Colby</title>
-    <sub-title lang="en">Our Night at Shadow Man Manor</sub-title>
-    <desc lang="en">Sam and Colby investigate the Shadow Man Manor overnight. This scary night ends with the two being the first people to ever investigate the witch attic.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204927845197,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E14</episode-num>
-    <episode-num system="xmltv_ns">1.13.</episode-num>
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-<programme start="20261119105810 +0000" stop="20261119121155 +0000" channel="vizio.96Station_88885598">
-    <title lang="en">Sam and Colby</title>
-    <sub-title lang="en">The Demon of Bell Witch Cave</sub-title>
-    <desc lang="en">Sam and Colby investigate the demon in Bell Witch Cave, a.k.a. America's scariest ghost story: the only death by the supernatural in history.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204927845154,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E15</episode-num>
-    <episode-num system="xmltv_ns">1.14.</episode-num>
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-<programme start="20261119121155 +0000" stop="20261119140457 +0000" channel="vizio.96Station_88885598">
-    <title lang="en">Sam and Colby</title>
-    <sub-title lang="en">The Conjuring House</sub-title>
-    <desc lang="en">Join Sam and Colby as they spend a night in the legendary Conjuring House.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204927845214,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S03E01</episode-num>
-    <episode-num system="xmltv_ns">2.0.</episode-num>
-    <rating>
-      <value>NR</value>
-    </rating>
   </programme>
 <programme start="20261119042758 +0000" stop="20261119050000 +0000" channel="vizio.96Station_88885600">
     <title lang="en">ZHC</title>
@@ -16522,17 +15971,6 @@ about in weather, space and science.</desc>
     <episode-num system="xmltv_ns">1.5.</episode-num>
     <rating>
       <value>NR</value>
-    </rating>
-  </programme>
-<programme start="20261119040525 +0000" stop="20261119043239 +0000" channel="vizio.98wurl_all3media_four_in_a_bed_1">
-    <title lang="en">Four In A Bed</title>
-    <sub-title lang="en">The Hero</sub-title>
-    <desc lang="en">The competition kicks off in north Norfolk at The Hero, run by friends Harry Farrow and Rowan Glennie</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204125640300,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S11E71</episode-num>
-    <episode-num system="xmltv_ns">10.70.</episode-num>
-    <rating>
-      <value>TV-PG</value>
     </rating>
   </programme>
 <programme start="20261119043239 +0000" stop="20261119045953 +0000" channel="vizio.98wurl_all3media_four_in_a_bed_1">
@@ -17625,17 +17063,6 @@ about in weather, space and science.</desc>
       <value>TV-Y</value>
     </rating>
   </programme>
-<programme start="20261119041109 +0000" stop="20261119044012 +0000" channel="vizio.98wurl_playworks_digital_benazelart_1">
-    <title lang="en">Ben Azelart</title>
-    <sub-title lang="en">Secret Movie Theater Build</sub-title>
-    <desc lang="en">Ben Azelart builds a secret movie theater in his room, surprising his girlfriend and upgrading his home!</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204979978925,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E20</episode-num>
-    <episode-num system="xmltv_ns">0.19.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
 <programme start="20261119044012 +0000" stop="20261119050517 +0000" channel="vizio.98wurl_playworks_digital_benazelart_1">
     <title lang="en">Ben Azelart</title>
     <sub-title lang="en">Building Secret Rooms Challenge</sub-title>
@@ -17797,17 +17224,6 @@ about in weather, space and science.</desc>
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204979978817,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <episode-num system="onscreen">S02E14</episode-num>
     <episode-num system="xmltv_ns">1.13.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261119040043 +0000" stop="20261119043246 +0000" channel="vizio.98wurl_playworks_digital_lawbymike_1">
-    <title lang="en">Law By Mike</title>
-    <sub-title lang="en">Banned Items And Dark Web Drives</sub-title>
-    <desc lang="en">Mike explores ridiculous global bans and strange punishments before testing five mysterious USB drives bought from the dark web to reveal creepy files inside.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205064949587,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S03E04</episode-num>
-    <episode-num system="xmltv_ns">2.3.</episode-num>
     <rating>
       <value>TV-PG</value>
     </rating>
@@ -18241,17 +17657,6 @@ about in weather, space and science.</desc>
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20261119041732 +0000" stop="20261119043652 +0000" channel="vizio.98wurl_playworks_digital_theroyaltyfamily_1">
-    <title lang="en">The Royalty Family</title>
-    <sub-title lang="en">I Crashed My Mom's Car</sub-title>
-    <desc lang="en">Ferran gets into a stressful situation after crashing mom's car and revealing the damage.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204979978923,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S04E04</episode-num>
-    <episode-num system="xmltv_ns">3.3.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
 <programme start="20261119043652 +0000" stop="20261119045423 +0000" channel="vizio.98wurl_playworks_digital_theroyaltyfamily_1">
     <title lang="en">The Royalty Family</title>
     <sub-title lang="en">A Vicious Wolf Destroyed Our Backyard</sub-title>
@@ -18673,17 +18078,6 @@ about in weather, space and science.</desc>
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204872559933,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <episode-num system="onscreen">S05E04</episode-num>
     <episode-num system="xmltv_ns">4.3.</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20261119042331 +0000" stop="20261119043821 +0000" channel="vizio.98wurl_videoelephant_limited_valuetainment_1">
-    <title lang="en">Numbers Scream</title>
-    <sub-title lang="en">Number Scream with Tom Ellsworth</sub-title>
-    <desc lang="en">This episode explains why the money is going into servers and data centers instead of payroll. Tom walks through big tech’s AI spending spree and its impact on future depreciation and stock prices, then looks at the latest jobs report, the revisions, the drop in labor force participation, and why the hiring engine is basically idling even as capital expenditure explodes.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205073806279,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E33</episode-num>
-    <episode-num system="xmltv_ns">0.32.</episode-num>
     <rating>
       <value>TV-PG</value>
     </rating>
