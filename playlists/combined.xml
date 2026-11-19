@@ -1191,6 +1191,10 @@
     <display-name>World's Most Evil Killers</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/70E6008B-8E98-4B80-8CE2-D721592DF1C1/3-1x1.png" />
   </channel>
+<channel id="localnow.61FD3E40-54BC-4E1E-9BB1-40B60DDD6662">
+    <display-name>The Red Green Show</display-name>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/61FD3E40-54BC-4E1E-9BB1-40B60DDD6662/3-1x1.png" />
+  </channel>
 <channel id="localnow.D0DF28EB-0756-4476-80C4-FD05DE2E4E09">
     <display-name>Scream Factory TV</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D0DF28EB-0756-4476-80C4-FD05DE2E4E09/3-1x1.png" />
@@ -1251,10 +1255,6 @@
     <display-name>Screambox TV</display-name>
     <icon src="http://img.platform.wurl.dev/channel/1845/lg/88167e/LG-Logo-PNG-100x100_v1.png" />
   </channel>
-<channel id="tribeca_tribe_US">
-    <display-name>Tribeca</display-name>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/tribeca/Tribeca_Logo_800w200h.png" />
-  </channel>
 <channel id="FREQ541-US">
     <display-name>Mysteria</display-name>
     <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/lawandcrime/channels/541-400x200.png" />
@@ -1300,6 +1300,7 @@
 <channel id="6a1610bebdf296985fd95603-654a8041fa75888bea239718"><display-name>The Librarians</display-name><icon src="https://provider-static.plex.tv/epg/cms/production/7a844a53-a5ad-4ef0-9217-24323f0e80de/Channel_Logo_The_Librarians_WHITERDX.png" /></channel>
 <channel id="6a1610bebdf296985fd95603-67cbd471cc5136329877e098"><display-name>The New Detectives</display-name><icon src="https://provider-static.plex.tv/epg/cms/production/a301a4e7-5c14-47c3-a0a0-de3a3145c848/Plex_FilmRiseNewDetectives_WHITELogo.png" /></channel>
 <channel id="6a1610bebdf296985fd95603-6762ec6a4a292357428c1b59"><display-name>The Outpost</display-name><icon src="https://provider-static.plex.tv/epg/cms/production/b7e0f2e6-cc2c-4d32-9e43-908e23018635/Plex_FilmRise_OutpostThe_Logo_ColorRDX.png" /></channel>
+<channel id="6a1610bebdf296985fd95603-60ede94f7da2ef002c55ce9b"><display-name>Tribeca Channel</display-name><icon src="https://provider-static.plex.tv/epg/cms/production/c3609f1e-21bc-4899-9399-2f6ab8f9b49d/TribecaChannel_Logo_Dark.png" /></channel>
 <channel id="6a1610bebdf296985fd95603-61ae679103baf19077bbf933"><display-name>True Crime Now</display-name><icon src="https://provider-static.plex.tv/epg/cms/production/5dadb527-c892-41f0-a43e-dbdc3071f66d/true_crime_now_logordx_white.png" /></channel>
 <channel id="6a1610bebdf296985fd95603-6227d1d2c9f485cc7afe8c44"><display-name>Unidentified</display-name><icon src="https://provider-static.plex.tv/epg/cms/production/8e929c59-4a28-4375-8ff1-2c92314bfc6a/unidentified.png" /></channel>
 <channel id="6a1610bebdf296985fd95603-621671d05abdd3d5556a1baf"><display-name>Watch it SCREAM</display-name><icon src="https://provider-static.plex.tv/epg/cms/production/945765a1-a848-4105-bf4d-5c27192e79ed/WatchitScream_logo_dark.png" /></channel>
@@ -1477,10 +1478,6 @@
 <channel id="USAJ17000014C">
     <display-name>The Asylum</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ17000014C_20260421T141813SQUARE.png" />
-  </channel>
-<channel id="whale.925725895506330246">
-    <display-name>The Red Green Channel</display-name>
-    <icon src="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/theredgreenchannel_white.png" />
   </channel>
 <channel id="whale.1022125030546936778">
     <display-name>Scifi World</display-name>
@@ -2467,11 +2464,6 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
         <title>Cold Case Files</title>
         <desc>Rapes plague the Linden area of Columbus, Ohio; a hitchhiker's corpse is found in the California redwoods.</desc>
         <icon src="https://images.pluto.tv/series/6ae49f86e92f473633dc4c7d/tile_1793367947271.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="64f8a408bd341e000818fcda-CA" start="20261119203100 +0000" stop="20261119205600 +0000">
-        <title>Comedy Central Presents</title>
-        <desc>Arj Barker expresses his disgust with Halloween's urban legend laziness, Citibank's terrible spelling and Google's haughty search suggestions.</desc>
-        <icon src="https://images.pluto.tv/series/64dcd4f8c6c2a60013ec3c38/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="64f8a408bd341e000818fcda-CA" start="20261119205600 +0000" stop="20261119212100 +0000">
         <title>Comedy Central Presents</title>
@@ -6812,11 +6804,6 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
         <title>Tokarev</title>
         <desc>Da datteren af en tidligere kriminel bliver kidnappet, samler han sit gamle hold og forsøger sig med sin egen form for retfærdighed.</desc>
         <icon src="https://images.pluto.tv/series/66601b0fa2d47500145e1ad7/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="63dbe7ed51f5d000083e9499-DK" start="20261119191430 +0000" stop="20261119205544 +0000">
-        <title>Gi' den hele armen</title>
-        <desc>Trinity brødrene, som vi har vredet os af grin over som western helte, skal her opleves som luftens cowboys. Luften over Sydamerika er blevet temmelig usikker. De to helte skal sørge for at få gamle højt forsikrede flyvemaskiner til at styrte ned.</desc>
-        <icon src="https://images.pluto.tv/series/65b760abb65b8700137e871f/tile_1768002493070.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="63dbe7ed51f5d000083e9499-DK" start="20261119205544 +0000" stop="20261119223640 +0000">
         <title>The Raven (1963)</title>
@@ -17320,11 +17307,6 @@ Rated R</desc>
         <desc>The owners of St. Rita's Nursing Home in St. Bernard Parish, La., are charged with negligent homicide after 35 residents died in the flood waters of Hurricane Katrina.</desc>
         <icon src="https://images.pluto.tv/series/6346a4f9f030950013a062f1/tile_1778837402198.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="6400bdb1219c4c00081751aa-NO" start="20261119203138 +0000" stop="20261119205707 +0000">
-        <title>COPS: Mom Still Loves You</title>
-        <desc>Officers track down a suspect who eluded them earlier, a suspicious vehicle takes off at the sight of police, and a man gets busted for possession in front of his mom.</desc>
-        <icon src="https://images.pluto.tv/series/6595561ea95cb100146140fe/tile_1793663688328.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="6400bdb1219c4c00081751aa-NO" start="20261119205707 +0000" stop="20261119212237 +0000">
         <title>COPS: The Young and the Reckless</title>
         <desc>Police catch up to a man with warrants and a history of resisting arrest, a fidgety driver arouses suspicion, and a minor with beers in his pants has to answer to his mom.</desc>
@@ -20905,11 +20887,6 @@ Rated R</desc>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/67f508f68ddd60c57dc44766/featuredImage_1748955227030.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     </programme>
-<programme channel="690488f374601d957af0106b-SE" start="20261119203039 +0000" stop="20261119205649 +0000">
-        <title>Våra värsta år: The Worst Noel</title>
-        <desc>Kelly and Bud try to sneak a jukebox, their Christmas present for Al and Peggy, into the house on Christmas Eve while Al and Peggy argue over channel surfing.</desc>
-        <icon src="https://images.pluto.tv/series/65b0e736debc810013dea69b/tile_1761829156068.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="690488f374601d957af0106b-SE" start="20261119205649 +0000" stop="20261119212442 +0000">
         <title>Våra värsta år: I Can't Believe It's Butter</title>
         <desc>Al forces Peggy's mom to get a job right before Christmas.</desc>
@@ -20989,11 +20966,6 @@ Rated R</desc>
         <title>Skumma Polare</title>
         <desc>Två laglösa hjälper bybor att slåss mot ett gäng och en korrupt sheriff, som har upptäckt att det finns guld under byn. När ett gäng våldsamma brottslingar försöker ta över staden, visar det sig att hans sanna talang är att slå ner skurkar</desc>
         <icon src="https://images.pluto.tv/series/673710668d00c6001427f8b8/tile_1767920920345.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="69f84fca74d248c172bf4887-SE" start="20261119193500 +0000" stop="20261119205548 +0000">
-        <title>The Little Shop Of Horrors</title>
-        <desc>En butiksanställd upptäcker en mystisk växt med en blodtörstig aptit. Framgång följer, men priset visar sig vara människoliv, och situationen eskalerar.</desc>
-        <icon src="https://images.pluto.tv/series/659eacbfd40ef3001306cd75/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="69f84fca74d248c172bf4887-SE" start="20261119205548 +0000" stop="20261119223944 +0000">
         <title>The Masque of the Red Death (1964)</title>
@@ -30951,14 +30923,6 @@ PG-13</desc>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c4df68f5f0d954fcacc27f708945396d/rokuFeed/assets/ccc763a1d18e59e18236eb7a027c077f.jpeg" />
     <episode-num system="onscreen">S03E06</episode-num>
     <rating system="USA Parental Rating">TV14</rating>
-  </programme>
-<programme channel="ebb810a8868251f18ac64056834c749a" start="20261119200303 +0000" stop="20261119205651 +0000">
-    <title>World's Most Evil Prisoners</title>
-    <sub-title>World's Most Evil Prisoners</sub-title>
-    <desc>Joshua Gardner commits his first murder at 24; even behind bars, he can't contain his rage.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/29d5606eb039589ea5f22221385c210c/rokuFeed/assets/1e8f572e4a015fa6ac73c9380b79da62.jpg" />
-    <episode-num system="onscreen">S03E05</episode-num>
-    <rating system="USA Parental Rating">TVMA</rating>
   </programme>
 <programme channel="ebb810a8868251f18ac64056834c749a" start="20261119205651 +0000" stop="20261119214616 +0000">
     <title>World's Most Evil Prisoners</title>
@@ -41848,11 +41812,6 @@ PG-13</desc>
     <desc lang="en">Three singing caballeros blaze a side-splitting trail across the western frontier!</desc>
     <episode-num system="dd_assetid">XT0P6SM3D0EP31</episode-num>
   </programme>
-<programme start="20261119193622 +0000" stop="20261119205550 +0000" channel="99991300">
-    <title lang="en">All I Want Is You</title>
-    <desc lang="en">After holding her man down on a long 4-year bid, Chloe is ready to risk it all when another woman tries to steal her man.</desc>
-    <episode-num system="dd_assetid">XM0KO5I4DH4G91</episode-num>
-  </programme>
 <programme start="20261119205550 +0000" stop="20261119222340 +0000" channel="99991300">
     <title lang="en">The Knock Knock Man</title>
     <desc lang="en">A group of teens dare each other to summon a mysterious figure from an old urban legend. What was supposed to be a harmless game turns deadly when one of them breaks an unspoken rule, unleashing the terrifying entity into the real world.</desc>
@@ -43354,6 +43313,22 @@ PG-13</desc>
     <episode-num system="onscreen">S05E14</episode-num>
     <episode-num system="xmltv_ns">4.13.</episode-num>
   </programme>
+<programme start="20261119205600 +0000" stop="20261119212400 +0000" channel="localnow.61FD3E40-54BC-4E1E-9BB1-40B60DDD6662">
+    <title lang="en">The Red Green Show</title>
+    <desc lang="en">Stinky Peterson's girlfriend gets stuck.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/61FD3E40-54BC-4E1E-9BB1-40B60DDD6662/0-2x3.png" />
+    <episode-num system="onscreen">S04E20</episode-num>
+    <episode-num system="xmltv_ns">3.19.</episode-num>
+  </programme>
+<programme start="20261119212400 +0000" stop="20261119215200 +0000" channel="localnow.61FD3E40-54BC-4E1E-9BB1-40B60DDD6662">
+    <title lang="en">The Red Green Show</title>
+    <desc lang="en">The Lodge members to come up with various tactics to play golf after they're banned from the local golf course.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/61FD3E40-54BC-4E1E-9BB1-40B60DDD6662/0-2x3.png" />
+    <episode-num system="onscreen">S06E10</episode-num>
+    <episode-num system="xmltv_ns">5.9.</episode-num>
+  </programme>
 <programme start="20261119203551 +0000" stop="20261119224928 +0000" channel="localnow.6D30170C-D7B3-46A2-8C1F-302D8399F44D">
     <title lang="en">Legionnaire</title>
     <desc lang="en">Alain is a boxer in 1925 Marseille, France. When he doesn't take the dive paid to take by a mob boss, he has to split.</desc>
@@ -43878,36 +43853,6 @@ PG-13</desc>
       <value>TV14</value>
     </rating>
   </programme>
-<programme start="20261119184011 +0000" stop="20261119205707 +0000" channel="tribeca_tribe_US">
-    <title lang="en">Until Death</title>
-    <desc lang="en">Anthony Stowe is a dirty cop who is hooked on heroin—and everyone hates him. After a serious accident, he is placed into an induced coma, but emerges from it a better person who wants to put things right.</desc>
-    <category lang="en">Action</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg02042/resized_images/resized_ae5c122709e37bc8ee07642fd8b13032ff8a521960de3f1051fa8020123abec0_fmp2006m79png_768_432.jpeg" />
-    <episode-num system="dd_progid">amg02042c61_AMv7y5s8eBw5a35kFCNVwUX_us</episode-num>
-    <rating>
-      <value>R</value>
-    </rating>
-  </programme>
-<programme start="20261119205707 +0000" stop="20261119231551 +0000" channel="tribeca_tribe_US">
-    <title lang="en">The Exorcist III</title>
-    <desc lang="en">A chilling sequel to the horror classic.</desc>
-    <category lang="en">Horror</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg02042/resized_images/resized_b860c35eb5d330aa919b6aac8bd4802b657db364204f05630cffbff2e971f597_fmp109678png_768_432.jpeg" />
-    <episode-num system="dd_progid">amg02042c61_A37buFenyo5H1F7xZwe25Hg_us</episode-num>
-    <rating>
-      <value>R</value>
-    </rating>
-  </programme>
-<programme start="20261119231551 +0000" stop="20261120010214 +0000" channel="tribeca_tribe_US">
-    <title lang="en">Dark Star</title>
-    <desc lang="en">In the far reaches of space, a small crew, 20 years into their solitary mission.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg02042/resized_images/resized_36264509ea78c9444b44bcefa20e93df086f7f9cc65b0a0a9a320230ccb20bd7_fmp210882x3png_768_432.jpeg" />
-    <episode-num system="dd_progid">amg02042c61_ABRNMJhK7SDvboS8WJcSujk_us</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
 <programme start="20261119200031 +0000" stop="20261119222033 +0000" channel="us-cinedigm_entertainment_corp_screamboxtv_1">
     <title lang="en">The Undefeated</title>
     <desc lang="en">After the Civil War, ex-Confederates en route to Mexico clash with Union horse traders, but they must unite to battle Mexican bandits and revolutionaries threatening them both.</desc>
@@ -43998,6 +43943,15 @@ PG-13</desc>
 <programme start="20261120113719 +0000" stop="20261120113749 +0000" channel="6a1610bebdf296985fd95603-5fd115bab7ef8d002dcf181d"><title>30 Night's of Sex Promo (2026)</title><desc /><category>Movies</category><rating><value>NR</value></rating></programme>
 <programme start="20261120113749 +0000" stop="20261120142338 +0000" channel="6a1610bebdf296985fd95603-5fd115bab7ef8d002dcf181d"><title>Dot Com Mom (2026)</title><desc>In this fish out of water tale, a traditional Indian house wife, visits her successful son in the USA but this simple mother cannot cope with the modern ways and soon finds herself in trouble.</desc><category>Movies</category><rating><value>NR</value></rating></programme>
 <programme start="20261120142338 +0000" stop="20261120152338 +0000" channel="6a1610bebdf296985fd95603-5fd115bab7ef8d002dcf181d"><title>24 Hour Free Movies (2021)</title><desc>24 Hour Free Movies brings you a growing collection of popular movies and TV shows from around the world. Always Free &amp; Always Fun</desc><category>Movies</category><rating><value>NR</value></rating></programme>
+<programme start="20261119205707 +0000" stop="20261119231551 +0000" channel="6a1610bebdf296985fd95603-60ede94f7da2ef002c55ce9b"><title>The Exorcist III (1990)</title><desc>A chilling sequel to the horror classic.</desc><category>Movies</category><rating><value>R</value></rating></programme>
+<programme start="20261119231551 +0000" stop="20261120010214 +0000" channel="6a1610bebdf296985fd95603-60ede94f7da2ef002c55ce9b"><title>Dark Star (1975)</title><desc>In the far reaches of space, a small crew, 20 years into their solitary mission.</desc><category>Movies</category><rating><value>PG</value></rating></programme>
+<programme start="20261120010214 +0000" stop="20261120025542 +0000" channel="6a1610bebdf296985fd95603-60ede94f7da2ef002c55ce9b"><title>Saturn 3 (1980)</title><desc>Two lovers stationed are intruded upon by an anal-retentive technocrat from Earth</desc><category>Movies</category><rating><value>R</value></rating></programme>
+<programme start="20261120025542 +0000" stop="20261120044614 +0000" channel="6a1610bebdf296985fd95603-60ede94f7da2ef002c55ce9b"><title>Apollo 18</title><desc>A found footage horror about a secret lunar mission.</desc><category>Movies</category><rating><value>PG-13</value></rating></programme>
+<programme start="20261120044614 +0000" stop="20261120064336 +0000" channel="6a1610bebdf296985fd95603-60ede94f7da2ef002c55ce9b"><title>Halo 4: Forward Unto Dawn (2012)</title><desc>UNSC Cadet Thomas Lasky must conquer his inner fears and join forces with super-soldier.</desc><category>Movies</category><rating><value>PG</value></rating></programme>
+<programme start="20261120064336 +0000" stop="20261120090248 +0000" channel="6a1610bebdf296985fd95603-60ede94f7da2ef002c55ce9b"><title>Communion (1989)</title><desc>On December 26th Whitley Strieber has a strange nightmare.</desc><category>Movies</category><rating><value>R</value></rating></programme>
+<programme start="20261120090248 +0000" stop="20261120114357 +0000" channel="6a1610bebdf296985fd95603-60ede94f7da2ef002c55ce9b"><title>The Lawnmower Man (1992)</title><desc>A simple man is turned into a genius through the application of computer science.</desc><category>Movies</category><rating><value>R</value></rating></programme>
+<programme start="20261120114357 +0000" stop="20261120142505 +0000" channel="6a1610bebdf296985fd95603-60ede94f7da2ef002c55ce9b"><title>The Lawnmower Man (1992)</title><desc>A simple man is turned into a genius through the application of computer science.</desc><category>Movies</category><rating><value>R</value></rating></programme>
+<programme start="20261120142505 +0000" stop="20261120163454 +0000" channel="6a1610bebdf296985fd95603-60ede94f7da2ef002c55ce9b"><title>Prospect (2019)</title><desc>A teenage girl and her father land on a forest moon to mine for gems.</desc><category>Movies</category><rating><value>PG-13</value></rating></programme>
 <programme start="20261119200000 +0000" stop="20261119210000 +0000" channel="6a1610bebdf296985fd95603-61ae679103baf19077bbf933"><title>True Crime Now</title><desc>True Crime Now features more than 1,000 true crime series and documentary films, with new content joining the channel each week.</desc><category>Crime</category><rating><value>NR</value></rating></programme>
 <programme start="20261119210000 +0000" stop="20261119220000 +0000" channel="6a1610bebdf296985fd95603-61ae679103baf19077bbf933"><title>True Crime Now</title><desc>True Crime Now features more than 1,000 true crime series and documentary films, with new content joining the channel each week.</desc><category>Crime</category><rating><value>NR</value></rating></programme>
 <programme start="20261119220000 +0000" stop="20261119230000 +0000" channel="6a1610bebdf296985fd95603-61ae679103baf19077bbf933"><title>True Crime Now</title><desc>True Crime Now features more than 1,000 true crime series and documentary films, with new content joining the channel each week.</desc><category>Crime</category><rating><value>NR</value></rating></programme>
@@ -44203,7 +44157,6 @@ PG-13</desc>
 <programme start="20261120103935 +0000" stop="20261120121104 +0000" channel="6a1610bebdf296985fd95603-64a04b8a261d597ce8b4c9ec"><title>Terrifier (2016)</title><desc>Based on a character from the successful horror anthology franchise All Hallows’ Eve, Art The Clown returns and sets his sights on three young women, along with anyone else that gets in his way.</desc><category>Horror</category><rating><value>TV-MA</value></rating></programme>
 <programme start="20261120121104 +0000" stop="20261120133819 +0000" channel="6a1610bebdf296985fd95603-64a04b8a261d597ce8b4c9ec"><title>Haunt Season</title><sub-title>Episode 1</sub-title><desc>A masked maniac targets cast members at a suburban Halloween haunt attraction, turning their staged injuries into gruesome real-life horrors. As the terror escalates, the lines between performance and reality blur.</desc><category>Adrenaline + Sci-Fi</category><episode-num system="onscreen">S1E1</episode-num><episode-num system="xmltv_ns">0.0.</episode-num><rating><value>TV-MA</value></rating></programme>
 <programme start="20261120133819 +0000" stop="20261120150804 +0000" channel="6a1610bebdf296985fd95603-64a04b8a261d597ce8b4c9ec"><title>Tiny Cinema</title><sub-title>Episode 1</sub-title><desc>A twisted tale of seemingly unconnected strangers caught in a series of bizarre and otherworldly events.</desc><category>Adrenaline + Sci-Fi</category><episode-num system="onscreen">S1E1</episode-num><episode-num system="xmltv_ns">0.0.</episode-num><rating><value>TV-14</value></rating></programme>
-<programme start="20261119200059 +0000" stop="20261119205708 +0000" channel="6a1610bebdf296985fd95603-64f101b1c4b308f2fe3e7c0c"><title>Beyond Belief: Fact or Fiction</title><sub-title>Episode 12</sub-title><desc>This episode features the following cases: Merry-Go-Round, Red Eyed Creature, Used Car Salesman, Graffiti.</desc><category>Sci-Fi</category><episode-num system="onscreen">S2E12</episode-num><episode-num system="xmltv_ns">1.11.</episode-num><rating><value>NR</value></rating></programme>
 <programme start="20261119205708 +0000" stop="20261119215523 +0000" channel="6a1610bebdf296985fd95603-64f101b1c4b308f2fe3e7c0c"><title>Beyond Belief: Fact or Fiction</title><sub-title>Episode 13</sub-title><desc>This episode features the following cases: The Warning, Bus Stop, The Cure, The Guardian, The Gift.</desc><category>Sci-Fi</category><episode-num system="onscreen">S2E13</episode-num><episode-num system="xmltv_ns">1.12.</episode-num><rating><value>NR</value></rating></programme>
 <programme start="20261119215523 +0000" stop="20261119225126 +0000" channel="6a1610bebdf296985fd95603-64f101b1c4b308f2fe3e7c0c"><title>Beyond Belief: Fact or Fiction</title><sub-title>Episode 1</sub-title><desc>This episode features the following cases: Morning Sickness, The Curse of Hampton Manor, Wax Executioner, Blood Bank, Ring Toss.</desc><category>Sci-Fi</category><episode-num system="onscreen">S3E1</episode-num><episode-num system="xmltv_ns">2.0.</episode-num><rating><value>NR</value></rating></programme>
 <programme start="20261119225126 +0000" stop="20261119232148 +0000" channel="6a1610bebdf296985fd95603-64f101b1c4b308f2fe3e7c0c"><title>Stalked: Someone's Watching</title><sub-title>Devil in Disguise</sub-title><desc>Sandi Musk was looking for a partner when she meets a young man with a violent streak.</desc><category>Sci-Fi</category><episode-num system="onscreen">S3E1</episode-num><episode-num system="xmltv_ns">2.0.</episode-num><rating><value>PG</value></rating></programme>
@@ -57454,12 +57407,6 @@ begin to suspect his wife or the gruesome shooting of an elderly couple whose bo
     <category lang="en">Movies</category>
     <icon src="https://img.vidaahub.com/s3_bucket/60010/live/60010_2582441126/00428373f5b3d9301de4fbf7f3cc2b03?f=webp&amp;resize=w_480,h_270" />
   </programme>
-<programme start="20261119190304 +0000" stop="20261119205612 +0000" channel="8060">
-    <title lang="en">Men (2022)</title>
-    <desc lang="en">In the aftermath of a personal tragedy, Harper (Jessie Buckley) retreats alone to the beautiful English countryside, hoping to have found a place to heal. But someone or something from the surrounding woods appears to be stalking her. What begins as simmering dread becomes a fully-formed nightmare, inhabited by her darkest memories and fears in visionary filmmaker Alex Garland's (Ex Machina, Annihilation) feverish, shape-shifting horror film.</desc>
-    <category lang="en">Horror</category>
-    <icon src="https://img.vidaahub.com/s3_bucket/60010/live/60010_2577797515/14d27722a4011532d7dc3ffa3ffb4ada?f=webp&amp;resize=w_480,h_270" />
-  </programme>
 <programme start="20261119204133 +0000" stop="20261119223108 +0000" channel="8060">
     <title lang="en">Night of the Rising Dead</title>
     <desc lang="en">In a remake of George RomeroÄôs 1968 cult classic horror film, amidst a worldwide event where the dead awake and roam the earth as zombies, a small group of human survivors struggle to stay alive and fight off the wandering zombies who are intent on eating them and turning them into the walking dead.</desc>
@@ -60389,301 +60336,6 @@ Charlie is not at all sure: Is it so wonderful to have a baby, or will her own n
   </programme>
 <programme start="20261121200000 +0000" stop="20261121210000 +0000" channel="whale.643123720684571896">
     <title lang="en">Movie Mania</title>
-  </programme>
-<programme start="20261119202822 +0000" stop="20261119205617 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-    <sub-title lang="en">The Compost Heap</sub-title>
-    <desc lang="en">The guys try their hands at gardening.</desc>
-    <icon src="https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-08-30/3ea6c33bec46309b620156ece5965923.jpeg.webp" />
-    <episode-num system="onscreen">S05E23</episode-num>
-    <episode-num system="xmltv_ns">4.22.</episode-num>
-    <rating>
-      <value>TVPG</value>
-    </rating>
-  </programme>
-<programme start="20261119205617 +0000" stop="20261119212433 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-    <sub-title lang="en">The Stuck Truck Project</sub-title>
-    <desc lang="en">Stinky Peterson's girlfriend gets stuck.</desc>
-    <icon src="https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-11-15/3fb11dbd33220aa08577a010d7ed5853.jpeg.webp" />
-    <episode-num system="onscreen">S04E20</episode-num>
-    <episode-num system="xmltv_ns">3.19.</episode-num>
-    <rating>
-      <value>TVPG</value>
-    </rating>
-  </programme>
-<programme start="20261119212433 +0000" stop="20261119215231 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261119215231 +0000" stop="20261119221909 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261119221909 +0000" stop="20261120000153 +0000" channel="whale.925725895506330246">
-    <title lang="en">Red Green - Bonus Material</title>
-  </programme>
-<programme start="20261120000153 +0000" stop="20261120002811 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261120002811 +0000" stop="20261120005606 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261120005606 +0000" stop="20261120012451 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261120012451 +0000" stop="20261120015300 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261120015300 +0000" stop="20261120022027 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261120022027 +0000" stop="20261120024705 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261120024705 +0000" stop="20261120031404 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261120031404 +0000" stop="20261120034051 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261120034051 +0000" stop="20261120040926 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261120040926 +0000" stop="20261120043805 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261120043805 +0000" stop="20261120050443 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261120050443 +0000" stop="20261120053120 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261120053120 +0000" stop="20261120055817 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261120055817 +0000" stop="20261120062434 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261120062434 +0000" stop="20261120070306 +0000" channel="whale.925725895506330246">
-    <title lang="en">Handyman Corner</title>
-  </programme>
-<programme start="20261120070306 +0000" stop="20261120072943 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261120072943 +0000" stop="20261120075809 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261120075809 +0000" stop="20261120091813 +0000" channel="whale.925725895506330246">
-    <title lang="en">Red Green - On Tour</title>
-  </programme>
-<programme start="20261120091813 +0000" stop="20261120094513 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261120094513 +0000" stop="20261120101321 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261120101321 +0000" stop="20261120104731 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show Compilations</title>
-  </programme>
-<programme start="20261120104731 +0000" stop="20261120114000 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261120114000 +0000" stop="20261120120659 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261120120659 +0000" stop="20261120123550 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261120123550 +0000" stop="20261120130337 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261120130337 +0000" stop="20261120133015 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261120133015 +0000" stop="20261120135709 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261120135709 +0000" stop="20261120142504 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261120142504 +0000" stop="20261120145702 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show Compilations</title>
-  </programme>
-<programme start="20261120145702 +0000" stop="20261120152552 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261120152552 +0000" stop="20261120155428 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261120155428 +0000" stop="20261120162731 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show Compilations</title>
-  </programme>
-<programme start="20261120162731 +0000" stop="20261120170920 +0000" channel="whale.925725895506330246">
-    <title lang="en">Handyman Corner</title>
-  </programme>
-<programme start="20261120170920 +0000" stop="20261120173625 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261120173625 +0000" stop="20261120180304 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261120180304 +0000" stop="20261120183004 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261120183004 +0000" stop="20261120185811 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261120185811 +0000" stop="20261120192517 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261120192517 +0000" stop="20261120195155 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261120195155 +0000" stop="20261120201949 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261120201949 +0000" stop="20261120205442 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show Compilations</title>
-  </programme>
-<programme start="20261120205442 +0000" stop="20261120212229 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261120212229 +0000" stop="20261120215055 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261120215055 +0000" stop="20261120221436 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show Compilations</title>
-  </programme>
-<programme start="20261120221436 +0000" stop="20261120224115 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261120224115 +0000" stop="20261120232056 +0000" channel="whale.925725895506330246">
-    <title lang="en">Handyman Corner</title>
-  </programme>
-<programme start="20261120232056 +0000" stop="20261120234750 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261120234750 +0000" stop="20261121001614 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261121001614 +0000" stop="20261121004252 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261121004252 +0000" stop="20261121010951 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261121010951 +0000" stop="20261121022908 +0000" channel="whale.925725895506330246">
-    <title lang="en">Red Green - Bonus Material</title>
-  </programme>
-<programme start="20261121022908 +0000" stop="20261121025609 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261121025609 +0000" stop="20261121032226 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261121032226 +0000" stop="20261121035022 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261121035022 +0000" stop="20261121041712 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261121041712 +0000" stop="20261121044543 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261121044543 +0000" stop="20261121051410 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261121051410 +0000" stop="20261121054832 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show Compilations</title>
-  </programme>
-<programme start="20261121054832 +0000" stop="20261121061701 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261121061701 +0000" stop="20261121064530 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261121064530 +0000" stop="20261121070526 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show Compilations</title>
-  </programme>
-<programme start="20261121070526 +0000" stop="20261121073355 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261121073355 +0000" stop="20261121080514 +0000" channel="whale.925725895506330246">
-    <title lang="en">Red Green - Bonus Material</title>
-  </programme>
-<programme start="20261121080514 +0000" stop="20261121083310 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261121083310 +0000" stop="20261121090057 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261121090057 +0000" stop="20261121092935 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261121092935 +0000" stop="20261121095744 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261121095744 +0000" stop="20261121102555 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261121102555 +0000" stop="20261121105344 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261121105344 +0000" stop="20261121112353 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show Compilations</title>
-  </programme>
-<programme start="20261121112353 +0000" stop="20261121115147 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261121115147 +0000" stop="20261121133431 +0000" channel="whale.925725895506330246">
-    <title lang="en">Red Green - Bonus Material</title>
-  </programme>
-<programme start="20261121133431 +0000" stop="20261121141408 +0000" channel="whale.925725895506330246">
-    <title lang="en">Handyman Corner</title>
-  </programme>
-<programme start="20261121141408 +0000" stop="20261121144209 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261121144209 +0000" stop="20261121150853 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261121150853 +0000" stop="20261121153553 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261121153553 +0000" stop="20261121160407 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261121160407 +0000" stop="20261121163114 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261121163114 +0000" stop="20261121165930 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261121165930 +0000" stop="20261121172754 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261121172754 +0000" stop="20261121175621 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261121175621 +0000" stop="20261121182438 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261121182438 +0000" stop="20261121185230 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261121185230 +0000" stop="20261121191915 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261121191915 +0000" stop="20261121194133 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show Compilations</title>
-  </programme>
-<programme start="20261121194133 +0000" stop="20261121201012 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261121201012 +0000" stop="20261121203718 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
-  </programme>
-<programme start="20261121203718 +0000" stop="20261121210356 +0000" channel="whale.925725895506330246">
-    <title lang="en">The Red Green Show</title>
   </programme>
 <programme start="20261119190300 +0000" stop="20261119210939 +0000" channel="whale.967946649035481273">
     <title lang="en">Three Wives</title>
