@@ -1,9 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
-<channel id="localnow.FAB3945A-F8EB-4ED4-B8A5-05FCEA44FD4A">
-    <display-name>48 Hours</display-name>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/FAB3945A-F8EB-4ED4-B8A5-05FCEA44FD4A/3-1x1.png" />
-  </channel>
 <channel id="localnow.41830D3A-37B5-4C6C-B242-A08B82B441D9">
     <display-name>Forensic Files</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/41830D3A-37B5-4C6C-B242-A08B82B441D9/3-1x1.png" />
@@ -40,6 +36,10 @@
     <display-name>Horror Plus</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/746F014B-ACE1-4DE4-B494-BFAE6DE92608/3-1x1.png" />
   </channel>
+<channel id="localnow.9EF0203B-766B-4822-8A34-D0C5C41E0E36">
+    <display-name>ElectricNOW</display-name>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/9EF0203B-766B-4822-8A34-D0C5C41E0E36/3-1x1.png" />
+  </channel>
 <channel id="localnow.6D30170C-D7B3-46A2-8C1F-302D8399F44D">
     <display-name>Free Movies Plus</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/6D30170C-D7B3-46A2-8C1F-302D8399F44D/3-1x1.png" />
@@ -60,78 +60,70 @@
     <display-name>WFXB Myrtle Beach SC (FOX)</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/72384889-EEEB-4EEA-93B3-F26FF4E12D6B/3-1x1.png" />
   </channel>
-<programme start="20261120120000 +0000" stop="20261120130000 +0000" channel="localnow.06FFDD3B-A149-4023-8EF8-96685EB19DDE">
+<programme start="20261120200000 +0000" stop="20261120210000 +0000" channel="localnow.06FFDD3B-A149-4023-8EF8-96685EB19DDE">
     <title lang="en">Screambox TV</title>
     <desc lang="en">Your home for horror featuring Screambox exclusives, originals, and curated horror movies and TV to make you scream 24/7.</desc>
     <category lang="en">Horror</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/06FFDD3B-A149-4023-8EF8-96685EB19DDE/0-2x3.png" />
   </programme>
-<programme start="20261120130000 +0000" stop="20261120140000 +0000" channel="localnow.06FFDD3B-A149-4023-8EF8-96685EB19DDE">
+<programme start="20261120210000 +0000" stop="20261120220000 +0000" channel="localnow.06FFDD3B-A149-4023-8EF8-96685EB19DDE">
     <title lang="en">Screambox TV</title>
     <desc lang="en">Your home for horror featuring Screambox exclusives, originals, and curated horror movies and TV to make you scream 24/7.</desc>
     <category lang="en">Horror</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/06FFDD3B-A149-4023-8EF8-96685EB19DDE/0-2x3.png" />
   </programme>
-<programme start="20261120115400 +0000" stop="20261120124600 +0000" channel="localnow.4D2A3ADC-5310-4895-A676-6A1BEEB941EE">
+<programme start="20261120220000 +0000" stop="20261120230000 +0000" channel="localnow.06FFDD3B-A149-4023-8EF8-96685EB19DDE">
+    <title lang="en">Screambox TV</title>
+    <desc lang="en">Your home for horror featuring Screambox exclusives, originals, and curated horror movies and TV to make you scream 24/7.</desc>
+    <category lang="en">Horror</category>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/06FFDD3B-A149-4023-8EF8-96685EB19DDE/0-2x3.png" />
+  </programme>
+<programme start="20261120193800 +0000" stop="20261120202900 +0000" channel="localnow.4D2A3ADC-5310-4895-A676-6A1BEEB941EE">
     <title lang="en">Beyond Belief: Fact or Fiction?</title>
-    <desc lang="en">An evil landlady is driven insane; girl puts curse on psychologist.</desc>
+    <desc lang="en">A woman with corneal transplants recognizes the donor's murderer and brings him to justice.</desc>
     <category lang="en">Sci-Fi</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/4D2A3ADC-5310-4895-A676-6A1BEEB941EE/0-2x3.png" />
-    <episode-num system="onscreen">S03E08</episode-num>
-    <episode-num system="xmltv_ns">2.7.</episode-num>
+    <episode-num system="onscreen">S04E04</episode-num>
+    <episode-num system="xmltv_ns">3.3.</episode-num>
   </programme>
-<programme start="20261120124600 +0000" stop="20261120133800 +0000" channel="localnow.4D2A3ADC-5310-4895-A676-6A1BEEB941EE">
+<programme start="20261120202900 +0000" stop="20261120211900 +0000" channel="localnow.4D2A3ADC-5310-4895-A676-6A1BEEB941EE">
     <title lang="en">Beyond Belief: Fact or Fiction?</title>
-    <desc lang="en">Legendary gunslinger's spirit haunts a police officer.</desc>
+    <desc lang="en">A young girl is house sitting and keeps seeing a man burying something.</desc>
     <category lang="en">Sci-Fi</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/4D2A3ADC-5310-4895-A676-6A1BEEB941EE/0-2x3.png" />
-    <episode-num system="onscreen">S03E09</episode-num>
-    <episode-num system="xmltv_ns">2.8.</episode-num>
+    <episode-num system="dd_progid">EP002232740073</episode-num>
   </programme>
-<programme start="20261120112200 +0000" stop="20261120122000 +0000" channel="localnow.558211BE-E921-43BA-9C55-9DE79921BF9C">
+<programme start="20261120211900 +0000" stop="20261120221000 +0000" channel="localnow.4D2A3ADC-5310-4895-A676-6A1BEEB941EE">
+    <title lang="en">Beyond Belief: Fact or Fiction?</title>
+    <desc lang="en">A tornado flattens a local weatherman after he falsifies the forecast.</desc>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/4D2A3ADC-5310-4895-A676-6A1BEEB941EE/0-2x3.png" />
+    <episode-num system="onscreen">S04E06</episode-num>
+    <episode-num system="xmltv_ns">3.5.</episode-num>
+  </programme>
+<programme start="20261120195900 +0000" stop="20261120205500 +0000" channel="localnow.558211BE-E921-43BA-9C55-9DE79921BF9C">
     <title lang="en">The FBI Files</title>
-    <desc lang="en">A domestic terrorist shoots a state trooper.</desc>
+    <desc lang="en">The FBI captures five terrorists who tried to hijack a Royal Jordanian flight in 1985.</desc>
     <category lang="en">True Crime</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/558211BE-E921-43BA-9C55-9DE79921BF9C/0-2x3.png" />
-    <episode-num system="onscreen">S06E12</episode-num>
-    <episode-num system="xmltv_ns">5.11.</episode-num>
+    <episode-num system="onscreen">S07E01</episode-num>
+    <episode-num system="xmltv_ns">6.0.</episode-num>
   </programme>
-<programme start="20261120122000 +0000" stop="20261120131900 +0000" channel="localnow.558211BE-E921-43BA-9C55-9DE79921BF9C">
+<programme start="20261120205500 +0000" stop="20261120215100 +0000" channel="localnow.558211BE-E921-43BA-9C55-9DE79921BF9C">
     <title lang="en">The FBI Files</title>
-    <desc lang="en">Agents discover a pattern in a series of violent carjackings.</desc>
+    <desc lang="en">The Cuban nationalist group Omega 7 takes credit for a murder.</desc>
     <category lang="en">True Crime</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/558211BE-E921-43BA-9C55-9DE79921BF9C/0-2x3.png" />
-    <episode-num system="onscreen">S06E11</episode-num>
-    <episode-num system="xmltv_ns">5.10.</episode-num>
+    <episode-num system="onscreen">S06E20</episode-num>
+    <episode-num system="xmltv_ns">5.19.</episode-num>
   </programme>
-<programme start="20261120131900 +0000" stop="20261120141500 +0000" channel="localnow.558211BE-E921-43BA-9C55-9DE79921BF9C">
+<programme start="20261120215100 +0000" stop="20261120225000 +0000" channel="localnow.558211BE-E921-43BA-9C55-9DE79921BF9C">
     <title lang="en">The FBI Files</title>
-    <desc lang="en">Cuban detainees in Atlanta revolt in response to their impending deportation.</desc>
+    <desc lang="en">The investigation of a New York City bombing that cost a young officer his eye.</desc>
     <category lang="en">True Crime</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/558211BE-E921-43BA-9C55-9DE79921BF9C/0-2x3.png" />
-    <episode-num system="onscreen">S06E14</episode-num>
-    <episode-num system="xmltv_ns">5.13.</episode-num>
-  </programme>
-<programme start="20261120110400 +0000" stop="20261120140744 +0000" channel="localnow.6D30170C-D7B3-46A2-8C1F-302D8399F44D">
-    <title lang="en">Alice In Wonderland</title>
-    <desc lang="en">A twisted retelling of the classic tale.</desc>
-    <category lang="en">Movies</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/6D30170C-D7B3-46A2-8C1F-302D8399F44D/0-2x3.png" />
-    <episode-num system="dd_progid">program-foodfree-movie-plus-20261120110400</episode-num>
-  </programme>
-<programme start="20261120140744 +0000" stop="20261120164101 +0000" channel="localnow.6D30170C-D7B3-46A2-8C1F-302D8399F44D">
-    <title lang="en">Beauty And The Beast</title>
-    <desc lang="en">A modern retelling of the classic fairy tale.</desc>
-    <category lang="en">Movies</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/6D30170C-D7B3-46A2-8C1F-302D8399F44D/0-2x3.png" />
-    <episode-num system="dd_progid">program-foodfree-movie-plus-20261120140744</episode-num>
-  </programme>
-<programme start="20261120164101 +0000" stop="20261120185055 +0000" channel="localnow.6D30170C-D7B3-46A2-8C1F-302D8399F44D">
-    <title lang="en">Season Of The Witch</title>
-    <desc lang="en">14th-century knights transport a suspected witch to a monastery, where monks deduce that her powers.</desc>
-    <category lang="en">Movies</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/6D30170C-D7B3-46A2-8C1F-302D8399F44D/0-2x3.png" />
-    <episode-num system="dd_progid">program-foodfree-movie-plus-20261120164101</episode-num>
+    <episode-num system="onscreen">S07E02</episode-num>
+    <episode-num system="xmltv_ns">6.1.</episode-num>
   </programme>
 <programme start="20261120185055 +0000" stop="20261120213205 +0000" channel="localnow.6D30170C-D7B3-46A2-8C1F-302D8399F44D">
     <title lang="en">The Beastmaster</title>
@@ -140,172 +132,258 @@
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/6D30170C-D7B3-46A2-8C1F-302D8399F44D/0-2x3.png" />
     <episode-num system="dd_progid">program-foodfree-movie-plus-20261120185055</episode-num>
   </programme>
-<programme start="20261120120700 +0000" stop="20261120130100 +0000" channel="localnow.70E6008B-8E98-4B80-8CE2-D721592DF1C1">
-    <title lang="en">World's Most Evil Killers</title>
-    <desc lang="en">A profile of child killer Roy Whiting, the sex offender who murdered eight-year-old Sarah Payne.</desc>
+<programme start="20261120213205 +0000" stop="20261120233619 +0000" channel="localnow.6D30170C-D7B3-46A2-8C1F-302D8399F44D">
+    <title lang="en">Security</title>
+    <desc lang="en">A security guard protects an eleven year-old girl who is being targeted by a gang for participating</desc>
+    <category lang="en">Movies</category>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/6D30170C-D7B3-46A2-8C1F-302D8399F44D/0-2x3.png" />
+    <episode-num system="dd_progid">program-foodfree-movie-plus-20261120213205</episode-num>
+  </programme>
+<programme start="20261120233619 +0000" stop="20261121022049 +0000" channel="localnow.6D30170C-D7B3-46A2-8C1F-302D8399F44D">
+    <title lang="en">Point Break</title>
+    <desc lang="en">An F.B.I. Agent goes undercover to catch a gang of surfers who may be bank robbers</desc>
+    <category lang="en">Movies</category>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/6D30170C-D7B3-46A2-8C1F-302D8399F44D/0-2x3.png" />
+    <episode-num system="dd_progid">program-foodfree-movie-plus-20261120233619</episode-num>
+  </programme>
+<programme start="20261121022049 +0000" stop="20261121032049 +0000" channel="localnow.6D30170C-D7B3-46A2-8C1F-302D8399F44D">
+    <title lang="en">Free Movies Plus</title>
+    <desc lang="en">Free Movies Plus is the ultimate channel for movie lovers, featuring blockbuster hits 24/7.</desc>
+    <category lang="en">Movies</category>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/6D30170C-D7B3-46A2-8C1F-302D8399F44D/0-2x3.png" />
+  </programme>
+<programme start="20261120201300 +0000" stop="20261120210500 +0000" channel="localnow.70E6008B-8E98-4B80-8CE2-D721592DF1C1">
+    <title lang="en">World's Most Evil Prisoners</title>
+    <desc lang="en">Feared Aryan Warriors gang leader 'Mugsy' Williams was a one-man crime wave - even behind bars.</desc>
     <category lang="en">True Crime</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/70E6008B-8E98-4B80-8CE2-D721592DF1C1/0-2x3.png" />
-    <episode-num system="onscreen">S02E05</episode-num>
-    <episode-num system="xmltv_ns">1.4.</episode-num>
+    <episode-num system="onscreen">S02E10</episode-num>
+    <episode-num system="xmltv_ns">1.9.</episode-num>
   </programme>
-<programme start="20261120130100 +0000" stop="20261120135600 +0000" channel="localnow.70E6008B-8E98-4B80-8CE2-D721592DF1C1">
+<programme start="20261120210500 +0000" stop="20261120215800 +0000" channel="localnow.70E6008B-8E98-4B80-8CE2-D721592DF1C1">
     <title lang="en">World's Most Evil Killers</title>
-    <desc lang="en">Tracie Andrews' fiancé, Lee Harvey, is murdered in an apparent road-rage incident.</desc>
+    <desc lang="en">A man who terrorized Phoenix in an extensive year-long crime spree, committing nine murders.</desc>
     <category lang="en">True Crime</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/70E6008B-8E98-4B80-8CE2-D721592DF1C1/0-2x3.png" />
-    <episode-num system="onscreen">S02E07</episode-num>
-    <episode-num system="xmltv_ns">1.6.</episode-num>
+    <episode-num system="onscreen">S07E17</episode-num>
+    <episode-num system="xmltv_ns">6.16.</episode-num>
   </programme>
-<programme start="20261120120000 +0000" stop="20261120140000 +0000" channel="localnow.72384889-EEEB-4EEA-93B3-F26FF4E12D6B">
-    <title lang="en">FOX Morning News</title>
-    <desc lang="en">The veteran news team presents all the latest headline news from around the community, along with current and coming weather conditions, sports highlights, late-breaking news and other timely reports for the area viewers.</desc>
+<programme start="20261120200000 +0000" stop="20261120210000 +0000" channel="localnow.72384889-EEEB-4EEA-93B3-F26FF4E12D6B">
+    <title lang="en">WFXB Myrtle Beach SC (FOX)</title>
+    <desc lang="en">WFXB FOX TV is the Grand Strand’s home for big shows, big games, and even bigger local involvement! From can’t-miss FOX entertainment and live sports to connecting with the community through exciting events and giveaways, we’re where the Carolinas come to watch, play, and celebrate together.</desc>
     <category lang="en">News</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/72384889-EEEB-4EEA-93B3-F26FF4E12D6B/0-2x3.png" />
-    <episode-num system="dd_progid">program-wfxb-20261120120000</episode-num>
   </programme>
-<programme start="20261120140000 +0000" stop="20261120150000 +0000" channel="localnow.72384889-EEEB-4EEA-93B3-F26FF4E12D6B">
-    <title lang="en">Carolina A.M.</title>
-    <desc lang="en">Covering regional, state and national news along with the latest breaking news events, road conditions and the weather forecasts.</desc>
+<programme start="20261120210000 +0000" stop="20261120220000 +0000" channel="localnow.72384889-EEEB-4EEA-93B3-F26FF4E12D6B">
+    <title lang="en">WFXB Myrtle Beach SC (FOX)</title>
+    <desc lang="en">WFXB FOX TV is the Grand Strand’s home for big shows, big games, and even bigger local involvement! From can’t-miss FOX entertainment and live sports to connecting with the community through exciting events and giveaways, we’re where the Carolinas come to watch, play, and celebrate together.</desc>
     <category lang="en">News</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/72384889-EEEB-4EEA-93B3-F26FF4E12D6B/0-2x3.png" />
-    <episode-num system="dd_progid">program-wfxb-20261120140000</episode-num>
   </programme>
-<programme start="20261120150000 +0000" stop="20261120173000 +0000" channel="localnow.72384889-EEEB-4EEA-93B3-F26FF4E12D6B">
-    <title lang="en">Carolina A.M.</title>
-    <desc lang="en">Covering regional, state and national news along with the latest breaking news events, road conditions and the weather forecasts.</desc>
+<programme start="20261120220000 +0000" stop="20261120230000 +0000" channel="localnow.72384889-EEEB-4EEA-93B3-F26FF4E12D6B">
+    <title lang="en">WFXB Myrtle Beach SC (FOX)</title>
+    <desc lang="en">WFXB FOX TV is the Grand Strand’s home for big shows, big games, and even bigger local involvement! From can’t-miss FOX entertainment and live sports to connecting with the community through exciting events and giveaways, we’re where the Carolinas come to watch, play, and celebrate together.</desc>
     <category lang="en">News</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/72384889-EEEB-4EEA-93B3-F26FF4E12D6B/0-2x3.png" />
-    <episode-num system="dd_progid">program-wfxb-20261120150000</episode-num>
   </programme>
-<programme start="20261120173000 +0000" stop="20261120180000 +0000" channel="localnow.72384889-EEEB-4EEA-93B3-F26FF4E12D6B">
-    <title lang="en">FOX Midday News</title>
-    <desc lang="en">The latest local, regional, statewide and national news updates of the day are offered by the news team, as well as detailed and timely reports on business and upcoming events, area weather conditions and midday traffic.</desc>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/72384889-EEEB-4EEA-93B3-F26FF4E12D6B/0-2x3.png" />
-    <episode-num system="dd_progid">program-wfxb-20261120173000</episode-num>
-  </programme>
-<programme start="20261120120000 +0000" stop="20261120130000 +0000" channel="localnow.7439B766-5F61-43D6-A61B-D58FEF6824FD">
-    <title lang="en">WPDE News Replay</title>
-    <desc lang="en">Myrtle Beach/Florence News, Weather, Sports, Breaking News</desc>
+<programme start="20261120200000 +0000" stop="20261120203000 +0000" channel="localnow.7439B766-5F61-43D6-A61B-D58FEF6824FD">
+    <title lang="en">TNDAY1 Replay</title>
+    <desc lang="en">America's News, Now. Bringing you award-winning local storytelling from the nation's capital.</desc>
     <category lang="en">News</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7439B766-5F61-43D6-A61B-D58FEF6824FD/0-2x3.png" />
-    <episode-num system="dd_progid">program-wpde-myrtle-beach-sc-20261120120000</episode-num>
+    <episode-num system="dd_progid">program-wpde-myrtle-beach-sc-20261120200000</episode-num>
   </programme>
-<programme start="20261120130000 +0000" stop="20261120140000 +0000" channel="localnow.7439B766-5F61-43D6-A61B-D58FEF6824FD">
-    <title lang="en">WPDE News Replay</title>
-    <desc lang="en">Myrtle Beach/Florence News, Weather, Sports, Breaking News</desc>
+<programme start="20261120203000 +0000" stop="20261120210000 +0000" channel="localnow.7439B766-5F61-43D6-A61B-D58FEF6824FD">
+    <title lang="en">TNDAY2 Replay</title>
+    <desc lang="en">America's News, Now. Bringing you award-winning local storytelling from the nation's capital.</desc>
     <category lang="en">News</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7439B766-5F61-43D6-A61B-D58FEF6824FD/0-2x3.png" />
-    <episode-num system="dd_progid">program-wpde-myrtle-beach-sc-20261120130000</episode-num>
+    <episode-num system="dd_progid">program-wpde-myrtle-beach-sc-20261120203000</episode-num>
   </programme>
-<programme start="20261120115303 +0000" stop="20261120135532 +0000" channel="localnow.746F014B-ACE1-4DE4-B494-BFAE6DE92608">
-    <title lang="en">Villains</title>
-    <desc lang="en">A couple of burglars meet their match.</desc>
+<programme start="20261120175945 +0000" stop="20261120204604 +0000" channel="localnow.746F014B-ACE1-4DE4-B494-BFAE6DE92608">
+    <title lang="en">The Lawnmower Man</title>
+    <desc lang="en">A simple man is turned into a genius through the application of computer science.</desc>
     <category lang="en">Horror</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/746F014B-ACE1-4DE4-B494-BFAE6DE92608/0-2x3.png" />
-    <episode-num system="dd_progid">program-horror-plus-20261120115303</episode-num>
+    <episode-num system="dd_progid">program-horror-plus-20261120175945</episode-num>
   </programme>
-<programme start="20261120135532 +0000" stop="20261120155837 +0000" channel="localnow.746F014B-ACE1-4DE4-B494-BFAE6DE92608">
-    <title lang="en">Eyes Without a Face</title>
-    <desc lang="en">A French horror-art landmark. After a car crash disfigures his daughter, a brilliant, obsessive surgeon kidnaps young women and removes their faces in desperate attempts to restore hers. Poetic and chilling, it blends surgical horror with eerie beauty and stands as one of the most influential works the genre has produced.</desc>
+<programme start="20261120204604 +0000" stop="20261120223903 +0000" channel="localnow.746F014B-ACE1-4DE4-B494-BFAE6DE92608">
+    <title lang="en">Last Straw</title>
+    <desc lang="en">A small town killing spree lands on the doorstep of a rural diner, where a young waitress must fight for her life over the course of one long night.</desc>
     <category lang="en">Horror</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/746F014B-ACE1-4DE4-B494-BFAE6DE92608/0-2x3.png" />
-    <episode-num system="dd_progid">program-horror-plus-20261120135532</episode-num>
+    <episode-num system="dd_progid">program-horror-plus-20261120204604</episode-num>
   </programme>
-<programme start="20261120155837 +0000" stop="20261120175945 +0000" channel="localnow.746F014B-ACE1-4DE4-B494-BFAE6DE92608">
-    <title lang="en">Bitten</title>
-    <desc lang="en">A paramedic's life is turned upside down by a vampire.</desc>
+<programme start="20261120223903 +0000" stop="20261121004141 +0000" channel="localnow.746F014B-ACE1-4DE4-B494-BFAE6DE92608">
+    <title lang="en">Wish Upon</title>
+    <desc lang="en">A magical box grants deadly wishes.</desc>
     <category lang="en">Horror</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/746F014B-ACE1-4DE4-B494-BFAE6DE92608/0-2x3.png" />
-    <episode-num system="dd_progid">program-horror-plus-20261120155837</episode-num>
+    <episode-num system="dd_progid">program-horror-plus-20261120223903</episode-num>
   </programme>
-<programme start="20261120114500 +0000" stop="20261120123000 +0000" channel="localnow.79549FA0-4EBE-48C3-957F-037BA02E827F">
-    <title lang="en">Forbidden Science - Love Doll</title>
-    <desc lang="en">Forbidden Science is a unique blend of noir science fiction and erotic programming. Set in the near future, the stories revolve around the evil corporation, 4Ever Innovations, whose young and brilliant scientists download and sell memories. They replace those we've lost with clones and devise technology that helps us live out our greatest fantasies; from saving a failed relationship, to creating the perfect lover, to being irresistible to the opposite sex - but sometimes our deepest desires come at a terrible price. 4Ever offers customers the opportunity to live out their fantasies in a virtual world but there are secrets within 4Ever Innovations that may cost you your life.</desc>
+<programme start="20261121004141 +0000" stop="20261121025147 +0000" channel="localnow.746F014B-ACE1-4DE4-B494-BFAE6DE92608">
+    <title lang="en">Season Of The Witch</title>
+    <desc lang="en">14th-century knights transport a suspected witch to a monastery, where monks deduce that her powers.</desc>
+    <category lang="en">Horror</category>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/746F014B-ACE1-4DE4-B494-BFAE6DE92608/0-2x3.png" />
+    <episode-num system="dd_progid">program-horror-plus-20261121004141</episode-num>
+  </programme>
+<programme start="20261121025147 +0000" stop="20261121051652 +0000" channel="localnow.746F014B-ACE1-4DE4-B494-BFAE6DE92608">
+    <title lang="en">Separation</title>
+    <desc lang="en">A family are tormented by unexplained paranormal activities.</desc>
+    <category lang="en">Horror</category>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/746F014B-ACE1-4DE4-B494-BFAE6DE92608/0-2x3.png" />
+    <episode-num system="dd_progid">program-horror-plus-20261121025147</episode-num>
+  </programme>
+<programme start="20261120193000 +0000" stop="20261120210000 +0000" channel="localnow.79549FA0-4EBE-48C3-957F-037BA02E827F">
+    <title lang="en">Horror Machine | Atomic Punks</title>
+    <desc lang="en">When the death of a gang member gets pinned on a female band, they go on a cross-country chase that ends in a showdown in the junker lots of New Vegas.</desc>
     <category lang="en">Horror</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/79549FA0-4EBE-48C3-957F-037BA02E827F/0-2x3.png" />
-    <episode-num system="dd_progid">program-epg-horror-machine-20261120114500</episode-num>
+    <episode-num system="dd_progid">program-epg-horror-machine-20261120193000</episode-num>
   </programme>
-<programme start="20261120123000 +0000" stop="20261120130000 +0000" channel="localnow.79549FA0-4EBE-48C3-957F-037BA02E827F">
-    <title lang="en">Area 51 Base: Experimental Aircraft or Extraterrestrial Evidence?</title>
-    <desc lang="en">The U.S. Government says Area 51 is just an Air Force ‘operating location’. Planes are warned they'll be shot down if they fly over. Signs authorizing deadly force surround the base. Helicopters and Humvees are on constant patrol. What are they guarding?</desc>
+<programme start="20261120210000 +0000" stop="20261120230000 +0000" channel="localnow.79549FA0-4EBE-48C3-957F-037BA02E827F">
+    <title lang="en">Horror Machine | 1000 Zombies!</title>
+    <desc lang="en">Over 3 hours of gory zombie chaos! Found footage, diaries, and undead carnage await. Can you survive the apocalypse? Learn before it's too late!</desc>
     <category lang="en">Horror</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/79549FA0-4EBE-48C3-957F-037BA02E827F/0-2x3.png" />
-    <episode-num system="dd_progid">program-epg-horror-machine-20261120123000</episode-num>
+    <episode-num system="dd_progid">program-epg-horror-machine-20261120210000</episode-num>
   </programme>
-<programme start="20261120120000 +0000" stop="20261120123000 +0000" channel="localnow.A7FA55BD-F771-46DA-B7A0-B974DA61DF21">
-    <title lang="en">BuzzFeed Unsolved: True Crime</title>
-    <desc lang="en">A young secretary mysteriously disappears. Was it murder or did she flee?</desc>
+<programme start="20261120230000 +0000" stop="20261121004500 +0000" channel="localnow.79549FA0-4EBE-48C3-957F-037BA02E827F">
+    <title lang="en">Horror Machine | Aleister Crowley: Legend of the Beast</title>
+    <desc lang="en">A dying occultist magician also hailed as a great philosopher and sensationalist relays his life story from birth to deathbed for his beloved wife to record for posterity.</desc>
+    <category lang="en">Horror</category>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/79549FA0-4EBE-48C3-957F-037BA02E827F/0-2x3.png" />
+    <episode-num system="dd_progid">program-epg-horror-machine-20261120230000</episode-num>
+  </programme>
+<programme start="20261121004500 +0000" stop="20261121023000 +0000" channel="localnow.79549FA0-4EBE-48C3-957F-037BA02E827F">
+    <title lang="en">Horror Machine | All Sinners Night</title>
+    <desc lang="en">A reporter's wife committed suicide on Halloween, and he suspects a satanic cult is responsible for it and other strange deaths.</desc>
+    <category lang="en">Horror</category>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/79549FA0-4EBE-48C3-957F-037BA02E827F/0-2x3.png" />
+    <episode-num system="dd_progid">program-epg-horror-machine-20261121004500</episode-num>
+  </programme>
+<programme start="20261120200000 +0000" stop="20261120210000 +0000" channel="localnow.9EF0203B-766B-4822-8A34-D0C5C41E0E36">
+    <title lang="en">The Librarians</title>
+    <desc lang="en">An old friend of Baird's is running for Mayor of a small New Hampshire town.</desc>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/9EF0203B-766B-4822-8A34-D0C5C41E0E36/0-2x3.png" />
+    <episode-num system="dd_progid">program-electric-now-20261120200000</episode-num>
+  </programme>
+<programme start="20261120210000 +0000" stop="20261120220000 +0000" channel="localnow.9EF0203B-766B-4822-8A34-D0C5C41E0E36">
+    <title lang="en">Leverage Redemption</title>
+    <desc lang="en">Sophie, Eliot, and Parker get caught in a small-town speed trap.</desc>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/9EF0203B-766B-4822-8A34-D0C5C41E0E36/0-2x3.png" />
+    <episode-num system="dd_progid">program-electric-now-20261120210000</episode-num>
+  </programme>
+<programme start="20261120220000 +0000" stop="20261120230000 +0000" channel="localnow.9EF0203B-766B-4822-8A34-D0C5C41E0E36">
+    <title lang="en">Leverage Redemption</title>
+    <desc lang="en">Old friend Hurley stumbles into the path of a Mark out for vengeance on the crew.</desc>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/9EF0203B-766B-4822-8A34-D0C5C41E0E36/0-2x3.png" />
+    <episode-num system="dd_progid">program-electric-now-20261120220000</episode-num>
+  </programme>
+<programme start="20261120200000 +0000" stop="20261120210000 +0000" channel="localnow.A0A87EFE-61FA-477E-A0E3-44A88013AE74">
+    <title lang="en">Local News Live</title>
+    <desc lang="en">WMBF News in Myrtle Beach goes into the Grand Strand and Pee Dee communities to provide our viewers with the news, weather and sports they need to know.</desc>
+    <category lang="en">News</category>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/A0A87EFE-61FA-477E-A0E3-44A88013AE74/0-2x3.png" />
+    <episode-num system="dd_progid">program-wmbf-2026-11-20T20-00-00</episode-num>
+  </programme>
+<programme start="20261120210000 +0000" stop="20261120220000 +0000" channel="localnow.A0A87EFE-61FA-477E-A0E3-44A88013AE74">
+    <title lang="en">WMBF News at 4 PM</title>
+    <desc lang="en">Details affecting local, regional and national news events are provided by the WMBF Evening News Team, along with timely updates on community issues in the Myrtle Beach area, business reports, sports scores, weather conditions and traffic.</desc>
+    <category lang="en">News</category>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/A0A87EFE-61FA-477E-A0E3-44A88013AE74/0-2x3.png" />
+    <episode-num system="dd_progid">program-wmbf-2026-11-20T21-00-00</episode-num>
+  </programme>
+<programme start="20261120220000 +0000" stop="20261120223000 +0000" channel="localnow.A0A87EFE-61FA-477E-A0E3-44A88013AE74">
+    <title lang="en">WMBF News at 5 PM</title>
+    <desc lang="en">The WMBF News Team presents a comprehensive look at local, regional, state and national news events of the day, along with the latest information concerning business and finance, Myrtle Beach area weather conditions and rush-hour traffic.</desc>
+    <category lang="en">News</category>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/A0A87EFE-61FA-477E-A0E3-44A88013AE74/0-2x3.png" />
+    <episode-num system="dd_progid">program-wmbf-2026-11-20T22-00-00</episode-num>
+  </programme>
+<programme start="20261120193000 +0000" stop="20261120203000 +0000" channel="localnow.A7FA55BD-F771-46DA-B7A0-B974DA61DF21">
+    <title lang="en">BuzzFeed Unsolved: Supernatural</title>
+    <desc lang="en">Does this rural Iowan home hold the spirits of its tragic history?</desc>
     <category lang="en">True Crime</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/A7FA55BD-F771-46DA-B7A0-B974DA61DF21/0-2x3.png" />
-    <episode-num system="dd_progid">program-buzzfeed-unsolved-20261120120000</episode-num>
+    <episode-num system="dd_progid">program-buzzfeed-unsolved-20261120193000</episode-num>
   </programme>
-<programme start="20261120101600 +0000" stop="20261120123000 +0000" channel="localnow.AFE4F17B-882F-4DFF-9014-972E16331779">
-    <title lang="en">Let The Right One In</title>
-    <desc lang="en">Oskar, an overlooked and bullied boy, finds love and revenge through Eli, a beautiful but peculiar girl.</desc>
-    <category lang="en">Sci-Fi</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/AFE4F17B-882F-4DFF-9014-972E16331779/0-2x3.png" />
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-<programme start="20261120123000 +0000" stop="20261120141800 +0000" channel="localnow.AFE4F17B-882F-4DFF-9014-972E16331779">
-    <title lang="en">Lilith</title>
-    <desc lang="en">A family sequesters themselves in a high-rise apartment after the mysterious death of their daughter Lilith. Haunted by their past, the survivor's lies, deceits and strange behavior will have you asking: who killed Lilith and who will be next?</desc>
-    <category lang="en">Sci-Fi</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/AFE4F17B-882F-4DFF-9014-972E16331779/0-2x3.png" />
-    <episode-num system="dd_progid">program-tricoast_tv_dark_matter_01-2026-11-20-1230</episode-num>
-  </programme>
-<programme start="20261120141800 +0000" stop="20261120161600 +0000" channel="localnow.AFE4F17B-882F-4DFF-9014-972E16331779">
-    <title lang="en">Lionheart</title>
-    <desc lang="en">Jean-Claude Van Damme stars as Lyon Gaultier, a member of the French Foreign Legion who deserts his post in order to come to America and help the family of his murdered brother. But crossing the U.S. without a penny to his name proves difficult. Lyon t...</desc>
-    <category lang="en">Sci-Fi</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/AFE4F17B-882F-4DFF-9014-972E16331779/0-2x3.png" />
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-<programme start="20261120161600 +0000" stop="20261120183000 +0000" channel="localnow.AFE4F17B-882F-4DFF-9014-972E16331779">
-    <title lang="en">Marrowbone</title>
-    <desc lang="en">A ghostly presence and a lawyer come between four young siblings. They must stand together or be torn apart.</desc>
-    <category lang="en">Sci-Fi</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/AFE4F17B-882F-4DFF-9014-972E16331779/0-2x3.png" />
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-<programme start="20261120114526 +0000" stop="20261120135155 +0000" channel="localnow.D0DF28EB-0756-4476-80C4-FD05DE2E4E09">
-    <title lang="en">Magic</title>
-    <desc lang="en">Anthony Hopkins and Ann-Margret star in this thriller about a ventriloquist dummy with a mind of its own.</desc>
-    <category lang="en">Horror</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D0DF28EB-0756-4476-80C4-FD05DE2E4E09/0-2x3.png" />
-    <episode-num system="dd_progid">program-scream-factory-tv-20261120114526</episode-num>
-  </programme>
-<programme start="20261120135155 +0000" stop="20261120154049 +0000" channel="localnow.D0DF28EB-0756-4476-80C4-FD05DE2E4E09">
-    <title lang="en">Elvira's Movie Macabre: The Manster</title>
-    <desc lang="en">Elvira tries to figure out a way to avoid being deported while showing The Manster</desc>
-    <category lang="en">Horror</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D0DF28EB-0756-4476-80C4-FD05DE2E4E09/0-2x3.png" />
-    <episode-num system="dd_progid">program-scream-factory-tv-20261120135155</episode-num>
-  </programme>
-<programme start="20261120154049 +0000" stop="20261120174309 +0000" channel="localnow.D0DF28EB-0756-4476-80C4-FD05DE2E4E09">
-    <title lang="en">Stepfather III</title>
-    <desc lang="en">A suspicious youth uses his computer skills to learn the identity of the menacing man romancing his mother.</desc>
-    <category lang="en">Horror</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D0DF28EB-0756-4476-80C4-FD05DE2E4E09/0-2x3.png" />
-    <episode-num system="dd_progid">program-scream-factory-tv-20261120154049</episode-num>
-  </programme>
-<programme start="20261120115900 +0000" stop="20261120125900 +0000" channel="localnow.FAB3945A-F8EB-4ED4-B8A5-05FCEA44FD4A">
-    <title lang="en">48 Hours</title>
-    <desc lang="en">A fire destroys an abandoned building in Worcester, Mass., killing six.</desc>
+<programme start="20261120203000 +0000" stop="20261120213000 +0000" channel="localnow.A7FA55BD-F771-46DA-B7A0-B974DA61DF21">
+    <title lang="en">BuzzFeed Unsolved: Supernatural</title>
+    <desc lang="en">Do the lost spirits of this historic battle remain in this inn?</desc>
     <category lang="en">True Crime</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/FAB3945A-F8EB-4ED4-B8A5-05FCEA44FD4A/0-2x3.png" />
-    <episode-num system="onscreen">S14E09</episode-num>
-    <episode-num system="xmltv_ns">13.8.</episode-num>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/A7FA55BD-F771-46DA-B7A0-B974DA61DF21/0-2x3.png" />
+    <episode-num system="dd_progid">program-buzzfeed-unsolved-20261120203000</episode-num>
   </programme>
-<programme start="20261120125900 +0000" stop="20261120135900 +0000" channel="localnow.FAB3945A-F8EB-4ED4-B8A5-05FCEA44FD4A">
-    <title lang="en">48 Hours</title>
-    <desc lang="en">An investigator tries to solve two murder cases that occurred 30 years ago.</desc>
+<programme start="20261120213000 +0000" stop="20261120223000 +0000" channel="localnow.A7FA55BD-F771-46DA-B7A0-B974DA61DF21">
+    <title lang="en">BuzzFeed Unsolved: Supernatural</title>
+    <desc lang="en">Do the spirits of American historical figures roam in this New York mansion?</desc>
     <category lang="en">True Crime</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/FAB3945A-F8EB-4ED4-B8A5-05FCEA44FD4A/0-2x3.png" />
-    <episode-num system="onscreen">S18E20</episode-num>
-    <episode-num system="xmltv_ns">17.19.</episode-num>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/A7FA55BD-F771-46DA-B7A0-B974DA61DF21/0-2x3.png" />
+    <episode-num system="dd_progid">program-buzzfeed-unsolved-20261120213000</episode-num>
+  </programme>
+<programme start="20261120183000 +0000" stop="20261120203000 +0000" channel="localnow.AFE4F17B-882F-4DFF-9014-972E16331779">
+    <title lang="en">Meek's Cutoff</title>
+    <desc lang="en">Settlers traveling through the Oregon desert in 1845 find themselves stranded in harsh conditions.</desc>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/AFE4F17B-882F-4DFF-9014-972E16331779/0-2x3.png" />
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+<programme start="20261120203000 +0000" stop="20261120222000 +0000" channel="localnow.AFE4F17B-882F-4DFF-9014-972E16331779">
+    <title lang="en">Monsters</title>
+    <desc lang="en">After Earth has suffered an alien invasion a journalist escort an American tourist through an infected zone.</desc>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/AFE4F17B-882F-4DFF-9014-972E16331779/0-2x3.png" />
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+<programme start="20261120222000 +0000" stop="20261121003400 +0000" channel="localnow.AFE4F17B-882F-4DFF-9014-972E16331779">
+    <title lang="en">Night Moves</title>
+    <desc lang="en">Three radical environmentalists look to execute the protest of their lives: the explosion of a hydroelectric dam.</desc>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/AFE4F17B-882F-4DFF-9014-972E16331779/0-2x3.png" />
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+<programme start="20261121003400 +0000" stop="20261121023200 +0000" channel="localnow.AFE4F17B-882F-4DFF-9014-972E16331779">
+    <title lang="en">Anna</title>
+    <desc lang="en">A man with the ability to enter people's memories takes on the case of a brilliant, troubled sixteen-year-old girl to determine whether she is a sociopath or a victim of trauma.</desc>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/AFE4F17B-882F-4DFF-9014-972E16331779/0-2x3.png" />
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+<programme start="20261120192846 +0000" stop="20261120211306 +0000" channel="localnow.D0DF28EB-0756-4476-80C4-FD05DE2E4E09">
+    <title lang="en">Night Of The Seagulls [Spanish-Language Version]</title>
+    <desc lang="en">A doctor and his wife move to a small coastal village to discover undead demon-worshiping Templar Knights.</desc>
+    <category lang="en">Horror</category>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D0DF28EB-0756-4476-80C4-FD05DE2E4E09/0-2x3.png" />
+    <episode-num system="dd_progid">program-scream-factory-tv-20261120192846</episode-num>
+  </programme>
+<programme start="20261120211306 +0000" stop="20261120230947 +0000" channel="localnow.D0DF28EB-0756-4476-80C4-FD05DE2E4E09">
+    <title lang="en">Class of 1984  [VHS Vault]</title>
+    <desc lang="en">A new teacher at an inner-city high school soon ends up clashing with the delinquent leader of a posse.</desc>
+    <category lang="en">Horror</category>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D0DF28EB-0756-4476-80C4-FD05DE2E4E09/0-2x3.png" />
+    <episode-num system="dd_progid">program-scream-factory-tv-20261120211306</episode-num>
+  </programme>
+<programme start="20261120230947 +0000" stop="20261121005815 +0000" channel="localnow.D0DF28EB-0756-4476-80C4-FD05DE2E4E09">
+    <title lang="en">Black Sabbath [Italian Language Version]</title>
+    <desc lang="en">Boris Karloff hosts a trio of horror stories concerning a stalked call girl, a monster, and a haunted nurse.</desc>
+    <category lang="en">Horror</category>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D0DF28EB-0756-4476-80C4-FD05DE2E4E09/0-2x3.png" />
+    <episode-num system="dd_progid">program-scream-factory-tv-20261120230947</episode-num>
+  </programme>
+<programme start="20261121005815 +0000" stop="20261121023140 +0000" channel="localnow.D0DF28EB-0756-4476-80C4-FD05DE2E4E09">
+    <title lang="en">Trancers 6</title>
+    <desc lang="en">Jack Deth travels back in time, into the body of his own daughter, to save the world from lethal Trancers.</desc>
+    <category lang="en">Horror</category>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D0DF28EB-0756-4476-80C4-FD05DE2E4E09/0-2x3.png" />
+    <episode-num system="dd_progid">program-scream-factory-tv-20261121005815</episode-num>
   </programme>
 </tv>
