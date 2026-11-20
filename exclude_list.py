@@ -18,6 +18,7 @@ GLOBAL_EXCLUDE_LIST = [
   "Life with Derek",
   "Weeds & Nurse Jackie",
   "Rules of Engagement",
+  "Rules Of Engagement",
   "ION",
   "ION Plus",
   "ION Television",
