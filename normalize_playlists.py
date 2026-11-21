@@ -572,6 +572,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         fgteev
         w3
         ssundee
+        wonderviz
         jesser
         zhc
         ben azelart
@@ -711,6 +712,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     """),
     'Horror': _words("""
         dread tv
+        fearstream
         frightflix
         horror
         itn's creatureverse
