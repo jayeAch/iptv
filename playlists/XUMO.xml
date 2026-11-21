@@ -80,10 +80,6 @@
     <display-name>The Asylum</display-name>
     <icon src="https://image.xumo.com/v1/channels/channel/99991331/168x168.png?type=color_onBlack"/>
   </channel>
-<channel id="99991680">
-    <display-name>Unsolved Mysteries</display-name>
-    <icon src="https://image.xumo.com/v1/channels/channel/99991680/168x168.png?type=color_onBlack"/>
-  </channel>
 <channel id="99951440">
     <display-name>Dungeons &amp; Dragons Adventures</display-name>
     <icon src="https://image.xumo.com/v1/channels/channel/99951440/168x168.png?type=color_onBlack"/>
@@ -103,6 +99,10 @@
 <channel id="9999615">
     <display-name>Dark Matter TV</display-name>
     <icon src="https://image.xumo.com/v1/channels/channel/9999615/168x168.png?type=color_onBlack"/>
+  </channel>
+<channel id="99951466">
+    <display-name>Oxygen True Crime Archives</display-name>
+    <icon src="https://image.xumo.com/v1/channels/channel/99951466/168x168.png?type=color_onBlack"/>
   </channel>
 <programme start="20261121180053 +0000" stop="20261121195237 +0000" channel="99951571">
     <title lang="en">The Oblong Box</title>
@@ -1039,11 +1039,6 @@
     <desc lang="en">Gavel-to-gavel coverage and legal analysis of the nation's most compelling trials.</desc>
     <episode-num system="dd_progid">EP032147245723</episode-num>
   </programme>
-<programme start="20261121184222 +0000" stop="20261121193449 +0000" channel="99951579">
-    <title lang="en">Time To Time</title>
-    <desc lang="en">A time traveler recruits a young woman from present day to join a team of time travelers-for-hire, but when she ends up attempting to change her own past, doing irreparable damage to the present and the future, the institute must race to stop her.</desc>
-    <episode-num system="dd_assetid">XT0VOTXIS7VZMV</episode-num>
-  </programme>
 <programme start="20261121193449 +0000" stop="20261121202717 +0000" channel="99951579">
     <title lang="en">Abduction</title>
     <desc lang="en">When an alien abducts five students and transports them to a reproduction of their school, it informs them that they are part of a grand experiment. But as part of that experiment, together they must decide which of the five should be killed.</desc>
@@ -1308,6 +1303,11 @@
     <title lang="en">Stream Of Consciousness</title>
     <desc lang="en">When "the Stream" -- an artificial system providing information to all society members through computer chips implanted in their brains -- begins to malfunction, an unlikely, "primitive" man (George Newbern) may be the mankind's only hope.</desc>
     <episode-num system="dd_assetid">XT0Q1L4PDKK4Q6</episode-num>
+  </programme>
+<programme start="20261123191458 +0000" stop="20261123200756 +0000" channel="99951579">
+    <title lang="en">Dark Rain</title>
+    <desc lang="en">After a chemical war renders the world's population unable to conceive healthy children, a mother and father must escape from a sinister government agency intent on using their miraculously healthy newborn to repopulate the species.</desc>
+    <episode-num system="dd_assetid">XT0UV9O3DNGQBO</episode-num>
   </programme>
 <programme start="20261121190000 +0000" stop="20261121200000 +0000" channel="99991320">
     <title lang="en">Influencer Trouble</title>
@@ -2139,11 +2139,6 @@
     <desc lang="en">A substitute teacher's crushing discontent drives her to an ill-advised transgression.</desc>
     <episode-num system="dd_assetid">MV012891350000</episode-num>
   </programme>
-<programme start="20261121185209 +0000" stop="20261121192046 +0000" channel="99991367">
-    <title lang="en">True Lies</title>
-    <desc lang="en">In the summer of 1986, Kathleen Lipscomb's body was found on a deserted road outside of San Antonio. Months passed, then years, and the crime was never solved.</desc>
-    <episode-num system="dd_assetid">XM0VJVF6GCAWYK</episode-num>
-  </programme>
 <programme start="20261121192046 +0000" stop="20261121194926 +0000" channel="99991367">
     <title lang="en">Bed of Deceit</title>
     <desc lang="en">A cop is found dead. His wife first says the motive was robbery; then she tells police it was suicide.</desc>
@@ -2654,6 +2649,11 @@
     <desc lang="en">When a woman went missing, friends and family were determined to find her. Their worst fears were confirmed weeks later when her body was discovered.</desc>
     <episode-num system="dd_assetid">XM0NTF980JZCKC</episode-num>
   </programme>
+<programme start="20261123193530 +0000" stop="20261123200345 +0000" channel="99991367">
+    <title lang="en">A Case of the Flue</title>
+    <desc lang="en">An 82-year-old woman was found dead. Clues on the victim's body would tell police what happened that night.</desc>
+    <episode-num system="dd_assetid">XM003SOZPF3YV4</episode-num>
+  </programme>
 <programme start="20261121184300 +0000" stop="20261121204000 +0000" channel="99951377">
     <title lang="en">Watcher</title>
     <desc lang="en">As a serial killer stalks the city, a young actress who just moved to town with her boyfriend notices a mysterious stranger watching her from across the street.</desc>
@@ -2789,11 +2789,6 @@
     <desc lang="en">Astronauts (Christian Slater, Brendan Fehr) come under attack by dangerous alien spores after a meteor collides with their moon base.</desc>
     <episode-num system="dd_assetid">MV004897490000</episode-num>
   </programme>
-<programme start="20261121173200 +0000" stop="20261121192900 +0000" channel="99991621">
-    <title lang="en">Doom</title>
-    <desc lang="en">A team of space marines known as the Rapid Response Tactical Squad, led by Sarge (Karl Urban), is sent to a science facility on Mars after somebody reports a security breach. There, they learn that the alert came after a test subject, a mass murderer purposefully injected with alien DNA, broke free and began killing people. Dr. Grimm (Rosamund Pike), who is related to team member Reaper (The Rock), informs them all that the chromosome can mutate humans into monsters -- and is highly infectious.</desc>
-    <episode-num system="dd_assetid">MV001623710000</episode-num>
-  </programme>
 <programme start="20261121192900 +0000" stop="20261121212200 +0000" channel="99991621">
     <title lang="en">The Thing</title>
     <desc lang="en">After Norwegian researchers discover an alien ship buried in the ice, paleontologist Kate Lloyd (Mary Elizabeth Winstead) joins the team at the isolated Arctic outpost to investigate. She finds an organism that appears to have perished in the crash eons ago but, in fact, is about to awake. Freed from its icy prison, the insidious life-form goes on the attack. Paranoia spreads like wildfire among the crew as they fight to survive against a creature that assumes the shapes of its victims.</desc>
@@ -2918,11 +2913,6 @@
     <title lang="en">Bride of Chucky</title>
     <desc lang="en">After being cut apart by the police, killer doll Chucky (Brad Dourif) is resurrected by Tiffany (Jennifer Tilly), an ex-girlfriend of the serial murderer whose soul is inside the toy. Following an argument, Chucky kills Tiffany and transfers her soul into a bride doll. To find the magical amulet that can restore them both to human form, Chucky and Tiffany arrange to be driven to New Jersey by Jesse (Nick Stabile) and Jade (Katherine Heigl), who are unaware that their cargo is alive.</desc>
     <episode-num system="dd_assetid">MV000649160000</episode-num>
-  </programme>
-<programme start="20261121183639 +0000" stop="20261121192756 +0000" channel="99951614">
-    <title lang="en">Exposure</title>
-    <desc lang="en">Unable to make headway in her investigation, Audrey recruits an old friend to help her communicate with Nathan</desc>
-    <episode-num system="dd_assetid">XT03BOQO1IMELE</episode-num>
   </programme>
 <programme start="20261121192756 +0000" stop="20261121201859 +0000" channel="99951614">
     <title lang="en">Morbidity</title>
@@ -3149,6 +3139,11 @@
     <desc lang="en">Abby throws herself into helping Jessie, a woman who claims that her ex-husband is criminally harassing her.</desc>
     <episode-num system="dd_assetid">XT0IR7YQLHPPU5</episode-num>
   </programme>
+<programme start="20261123192504 +0000" stop="20261123201707 +0000" channel="99951614">
+    <title lang="en">Arrested Development</title>
+    <desc lang="en">Abby and Daniel represent Drew, a forty-year-old man whose parents want to evict him from their basement.</desc>
+    <episode-num system="dd_assetid">XT0NEQS5W1F7RH</episode-num>
+  </programme>
 <programme start="20261121182019 +0000" stop="20261121195931 +0000" channel="99951593">
     <title lang="en">The Devil's Forest</title>
     <desc lang="en">Based on true events. Filmmakers travel to Transylvania to document the world's most haunted Baciu forest which has a dark history of strange occurrences, ghost sightings and countless cases of missing people.</desc>
@@ -3304,10 +3299,10 @@
     <desc lang="en">A group of virtual hunters unleash a deadly shark in a Texas lake, causing a young couple to fight for their lives during a peaceful fishing trip in a secluded cove.</desc>
     <episode-num system="dd_assetid">XM08RIB78GYPVR</episode-num>
   </programme>
-<programme start="20261121183645 +0000" stop="20261121193513 +0000" channel="99951544">
-    <title lang="en">World's Wildest Police Videos</title>
-    <desc lang="en">This episode features a chase in Texas, rioting in Illinois and a drunk driver who gets belligerent. Retired Sheriff John Bunnell hosts this explosive series consisting of the most outrageous police footage: car chases, robberies, riots, arrests and more! #policevideos #policefootage #policechases #clips #bodycam #police #cops #copshow #caughtoncamera #hiddencamera</desc>
-    <episode-num system="dd_assetid">XM0HF64X6BPK9C</episode-num>
+<programme start="20261123193802 +0000" stop="20261123205920 +0000" channel="99951593">
+    <title lang="en">Lone Star Shark 2</title>
+    <desc lang="en">A new victim has been chosen to face off against a ravenous shark in a Texas lake.</desc>
+    <episode-num system="dd_assetid">XM0C488SMK5EGA</episode-num>
   </programme>
 <programme start="20261121193513 +0000" stop="20261121203341 +0000" channel="99951544">
     <title lang="en">World's Wildest Police Videos</title>
@@ -3559,6 +3554,11 @@
     <desc lang="en">This episode features a chase in Colorado, a liquor store robbery and rioting in Argentina. Retired Sheriff John Bunnell hosts this explosive series consisting of the most outrageous police footage: car chases, robberies, riots, arrests and more! #policevideos #policefootage #policechases #clips #bodycam #police #cops #copshow #caughtoncamera #hiddencamera</desc>
     <episode-num system="dd_assetid">XM0GMU8IF4D24P</episode-num>
   </programme>
+<programme start="20261123191617 +0000" stop="20261123201345 +0000" channel="99951544">
+    <title lang="en">World's Wildest Police Videos</title>
+    <desc lang="en">This episode features a chase in South Carolina, a dairy truck theft and a bail jumper. Retired Sheriff John Bunnell hosts this explosive series consisting of the most outrageous police footage: car chases, robberies, riots, arrests and more! #policevideos #policefootage #policechases #clips #bodycam #police #cops #copshow #caughtoncamera #hiddencamera</desc>
+    <episode-num system="dd_assetid">XM0DBCUENQT0BW</episode-num>
+  </programme>
 <programme start="20261121184406 +0000" stop="20261121202404 +0000" channel="99951573">
     <title lang="en">Igor</title>
     <desc lang="en">To prove himself, Igor, a mad scientist's assistant, creates a sweet, show-tune-singing monster.</desc>
@@ -3673,6 +3673,11 @@
     <title lang="en">Witness For The Prosecution</title>
     <desc lang="en">Marlene Dietrich stars in an exceptional courtroom drama about a man on trial for a wealthy widow's murder.</desc>
     <episode-num system="dd_assetid">XT0B3AP1DWR8BY</episode-num>
+  </programme>
+<programme start="20261123192510 +0000" stop="20261123221227 +0000" channel="99951573">
+    <title lang="en">Irma La Douce</title>
+    <desc lang="en">Billy Wilder's bawdy, charming and romantic farce about a French policeman who falls in love with a prostitute</desc>
+    <episode-num system="dd_assetid">XT0S8F9FIZRRO2</episode-num>
   </programme>
 <programme start="20261121191400 +0000" stop="20261121194100 +0000" channel="99951256">
     <title lang="en">The Horseplayer</title>
@@ -4124,10 +4129,10 @@
     <desc lang="en">A police detective (Charles Bronson) investigating a murder focuses on a strange ventriloquist (Claude Rains).</desc>
     <episode-num system="dd_progid">EP000001840271</episode-num>
   </programme>
-<programme start="20261121165655 +0000" stop="20261121191532 +0000" channel="99951603">
-    <title lang="en">Frequency</title>
-    <desc lang="en">A phenomenon allows John Sullivan to save the life of his long-dead father.</desc>
-    <episode-num system="dd_assetid">XT0MG9336WKCO0</episode-num>
+<programme start="20261123193000 +0000" stop="20261123195700 +0000" channel="99951256">
+    <title lang="en">Safe Conduct</title>
+    <desc lang="en">A female reporter (Claire Trevor) encounters problem trying to leave Eastern Europe after meeting a soccer star.</desc>
+    <episode-num system="dd_progid">EP000001840118</episode-num>
   </programme>
 <programme start="20261121191532 +0000" stop="20261121214805 +0000" channel="99951603">
     <title lang="en">Sphere</title>
@@ -4379,10 +4384,10 @@
     <desc lang="en">After the death of her estranged mother, a troubled woman returns to her childhood home and discovers a sealed box. When she breaks its ancient seal, she unleashes malevolent entities tied to a dark family legacy... and a deadly secret of her own.</desc>
     <episode-num system="dd_assetid">XM02WWLGTO6ADO</episode-num>
   </programme>
-<programme start="20261121183902 +0000" stop="20261121193420 +0000" channel="99991331">
-    <title lang="en">Warren's Dream</title>
-    <desc lang="en">Warren's Apocalyptic Dream of a Black Rainbow sends our heroes on a mysterious new mission to save the Apocalypse from something even worse.</desc>
-    <episode-num system="dd_assetid">XM0DXIW35TEWLX</episode-num>
+<programme start="20261123192231 +0000" stop="20261123210134 +0000" channel="99991300">
+    <title lang="en">The Subjects</title>
+    <desc lang="en">Eight strangers go into a locked room for clinical trials on a new drug that gives them superpowers.</desc>
+    <episode-num system="dd_assetid">XM02885V0EMDHV</episode-num>
   </programme>
 <programme start="20261121193420 +0000" stop="20261121202627 +0000" channel="99991331">
     <title lang="en">Duel</title>
@@ -4544,251 +4549,6 @@
     <desc lang="en">Explorers in Mexico uncover the ruins of an ancient snake-worshiping civilization. Celebration turns to horror when they awaken an ever-growing anaconda, starved of human sacrifices for centuries. Now, the team must band together to survive.</desc>
     <episode-num system="dd_assetid">XM0RCE7KCRVM8S</episode-num>
   </programme>
-<programme start="20261121181507 +0000" stop="20261121191457 +0000" channel="99991680">
-    <title lang="en">Episode: 3</title>
-    <desc lang="en">The mystery of Russian Grand Duchess Anastasia; New Jersey man is sought for strangling his girlfriend.</desc>
-    <episode-num system="dd_assetid">XM0W11HWMASAVB</episode-num>
-  </programme>
-<programme start="20261121191457 +0000" stop="20261121201149 +0000" channel="99991680">
-    <title lang="en">Episode: 4</title>
-    <desc lang="en">This episode includes: Zel's Odyssey, Wally's Hidden River, UD: DJ Death and Looking for Christopher.</desc>
-    <episode-num system="dd_assetid">XM0UMJDSSWW589</episode-num>
-  </programme>
-<programme start="20261121201149 +0000" stop="20261121211055 +0000" channel="99991680">
-    <title lang="en">Episode: 5</title>
-    <desc lang="en">This episode includes: Robin Hood Rabbi &amp; UD, Missing In-Laws &amp; UD, To Madame with Love and Deadly Dumpster</desc>
-    <episode-num system="dd_assetid">XM04RB4TK1GB9J</episode-num>
-  </programme>
-<programme start="20261121211055 +0000" stop="20261121220830 +0000" channel="99991680">
-    <title lang="en">Episode: 6</title>
-    <desc lang="en">This episode includes: Lake Wales Haunting (Pts. 1 &amp; 2), Bomb Shelter Friends &amp; UD, Murder in Agawam, UD: Surprise Sister and Down to the Wire.</desc>
-    <episode-num system="dd_assetid">XM0EAZ6F4VVQGH</episode-num>
-  </programme>
-<programme start="20261121220830 +0000" stop="20261121230647 +0000" channel="99991680">
-    <title lang="en">Episode: 7</title>
-    <desc lang="en">This episode includes: Fatima (Pts. 1, 2 &amp; 3), Log Cabin Fraud &amp; UD, UD: If the Truth Be Known and Missing Cheek.</desc>
-    <episode-num system="dd_assetid">XM08WCSCPZFNAP</episode-num>
-  </programme>
-<programme start="20261121230647 +0000" stop="20261122000429 +0000" channel="99991680">
-    <title lang="en">Episode: 8</title>
-    <desc lang="en">This episode includes: Kidnapped Executive, Hansen Twin Murder (Pts. 1 &amp; 2) and NATO Soldier's Dad.</desc>
-    <episode-num system="dd_assetid">XM0Y0HGOUI4OQO</episode-num>
-  </programme>
-<programme start="20261122000429 +0000" stop="20261122010256 +0000" channel="99991680">
-    <title lang="en">Episode: 9</title>
-    <desc lang="en">This episode includes: Bomb Throwing Fugitive, UD: Social Security Murder, Mona Lisa and Gone Fishing.</desc>
-    <episode-num system="dd_assetid">XM0WAW91R5KKT8</episode-num>
-  </programme>
-<programme start="20261122010256 +0000" stop="20261122015950 +0000" channel="99991680">
-    <title lang="en">Episode: 10</title>
-    <desc lang="en">Child killer in Canada and the United States; unknown heirs to estates; comatose man is found on a California highway.</desc>
-    <episode-num system="dd_assetid">XM0HQ5LPBL0OQO</episode-num>
-  </programme>
-<programme start="20261122015950 +0000" stop="20261122030112 +0000" channel="99991680">
-    <title lang="en">Episode: 11</title>
-    <desc lang="en">This episode includes: Murder 101, Who Saved My Life? &amp; UD, Payback Killer and Death &amp; Disappearance.</desc>
-    <episode-num system="dd_assetid">XM0LCQ3CCX7TM9</episode-num>
-  </programme>
-<programme start="20261122030112 +0000" stop="20261122040300 +0000" channel="99991680">
-    <title lang="en">Episode: 12</title>
-    <desc lang="en">This episode includes: Armando Garcia &amp; UD, Suddenly Siblings &amp; UD, A Couple of Good Men and Canadian Camper.</desc>
-    <episode-num system="dd_assetid">XM060VVCSZX6H3</episode-num>
-  </programme>
-<programme start="20261122040300 +0000" stop="20261122050000 +0000" channel="99991680">
-    <title lang="en">Episode: 13</title>
-    <desc lang="en">This episode includes: Missing Angel (Pts. 1 &amp; 2), UD: Smoker Car Baby, Mystery Man, Missing Teacher and Meredith's Mom &amp; UD.</desc>
-    <episode-num system="dd_assetid">XM0KO37HIS7524</episode-num>
-  </programme>
-<programme start="20261122050000 +0000" stop="20261122060230 +0000" channel="99991680">
-    <title lang="en">Episode: 14</title>
-    <desc lang="en">This episode includes: Mystery Mummy, Mississippi Hangings, Killer Boyfriend, Baby Girl X and Jeanne Boylan.</desc>
-    <episode-num system="dd_assetid">XM020RLE7HCB8Q</episode-num>
-  </programme>
-<programme start="20261122060230 +0000" stop="20261122070058 +0000" channel="99991680">
-    <title lang="en">Episode: 15</title>
-    <desc lang="en">This episode includes: Resurrection Mary, UD: Who Saved My Life?, Little Girl Lost, Victor Gerena &amp; UD and Viet Pilot's Daughter &amp; UD.</desc>
-    <episode-num system="dd_assetid">XM0BZ7RPHM0GJY</episode-num>
-  </programme>
-<programme start="20261122070058 +0000" stop="20261122075746 +0000" channel="99991680">
-    <title lang="en">Episode: 16</title>
-    <desc lang="en">This episode includes: Lourdes (Pts. 1 &amp; 2), UD: Drug Playboy, Sunnyvale Stalker and Tornado Baby &amp; UD.</desc>
-    <episode-num system="dd_assetid">XM0KD03Y8TJ5D6</episode-num>
-  </programme>
-<programme start="20261122075746 +0000" stop="20261122085558 +0000" channel="99991680">
-    <title lang="en">Episode: 17</title>
-    <desc lang="en">This episode includes: Incredible Journeys (Pts. 1 &amp; 2), Interceptors, UD: Shroud of Turin and Whistle Blown (Pts. 1 &amp; 2).</desc>
-    <episode-num system="dd_assetid">XM081K6J6B4XJI</episode-num>
-  </programme>
-<programme start="20261122085558 +0000" stop="20261122095013 +0000" channel="99991680">
-    <title lang="en">Episode: 18</title>
-    <desc lang="en">This episode includes: Mother's Instinct, Temple President Murder, Swoops &amp; Squats &amp; UD, Grady's Bible and Rapist MD.</desc>
-    <episode-num system="dd_assetid">XM0N8H0Y5T0W45</episode-num>
-  </programme>
-<programme start="20261122095013 +0000" stop="20261122105557 +0000" channel="99991680">
-    <title lang="en">Episode: 19</title>
-    <desc lang="en">This episode includes: Healing Touch, Not Suicidal, Shigemoto's Bodyguard &amp; UD and Fatal Obsession &amp; UD.</desc>
-    <episode-num system="dd_assetid">XM0QMF3U7EA8GS</episode-num>
-  </programme>
-<programme start="20261122105557 +0000" stop="20261122115310 +0000" channel="99991680">
-    <title lang="en">Episode: 20</title>
-    <desc lang="en">This episode includes: Dutch Shultz Treasure, Computer Con Killer, Lost Lauren and Mother/Son Murder &amp; UD.</desc>
-    <episode-num system="dd_assetid">XM0J9L3DPEAIFI</episode-num>
-  </programme>
-<programme start="20261122115310 +0000" stop="20261122125207 +0000" channel="99991680">
-    <title lang="en">Episode: 21</title>
-    <desc lang="en">This episode includes: After Death Visits, Father Solanus Casey, Blood Relative and I-70 Killer.</desc>
-    <episode-num system="dd_assetid">XM014QN6IP7EFI</episode-num>
-  </programme>
-<programme start="20261122125207 +0000" stop="20261122135445 +0000" channel="99991680">
-    <title lang="en">Episode: 22</title>
-    <desc lang="en">This episode includes: Boston Strangler (Pts. 1 &amp; 2) &amp; UD, Secret Hiding Place &amp; UD and Wrong Place, Wrong Time.</desc>
-    <episode-num system="dd_assetid">XM0GXTOO24F4R2</episode-num>
-  </programme>
-<programme start="20261122135445 +0000" stop="20261122155115 +0000" channel="99991680">
-    <title lang="en">Episode: 23</title>
-    <desc lang="en">This episode: Bigfoot II, Wandering Fishman &amp; UD, UD: Fatal Obsession, Threats &amp; Harassment, Murder by Arson, UD, Angels, Lifesaving Sister &amp; UD, Deputy Death, Hoochie Coochie &amp; UD.</desc>
-    <episode-num system="dd_assetid">XM06T7SE2GHLZP</episode-num>
-  </programme>
-<programme start="20261122155115 +0000" stop="20261122165030 +0000" channel="99991680">
-    <title lang="en">Episode: 1</title>
-    <desc lang="en">This episode includes: Iceman, Orphanage Friends &amp; UD, CIA Cover-Up and UD: Larry's Rampage.</desc>
-    <episode-num system="dd_assetid">XM054UTCK9YWT1</episode-num>
-  </programme>
-<programme start="20261122165030 +0000" stop="20261122174756 +0000" channel="99991680">
-    <title lang="en">Episode: 2</title>
-    <desc lang="en">This episode includes: Ghostbusters, Roubas: Dead or Alive?, Elysian Park Treasure, and Soldier Alexander.</desc>
-    <episode-num system="dd_assetid">XM0OZAH6UBH55O</episode-num>
-  </programme>
-<programme start="20261122174756 +0000" stop="20261122184527 +0000" channel="99991680">
-    <title lang="en">Episode: 3</title>
-    <desc lang="en">This episode includes: Adoptee Coincidences, Emery's Last Stand, Dub's Last Chance and UD: Bomb Throwing Fugitive.</desc>
-    <episode-num system="dd_assetid">XM0XMXKKQDT59M</episode-num>
-  </programme>
-<programme start="20261122184527 +0000" stop="20261122194428 +0000" channel="99991680">
-    <title lang="en">Episode: 4</title>
-    <desc lang="en">This episode includes: Life After Lightning, Near Death Experiences, Always Karen, Pts. 1 &amp; 2 and Gordy's Ghost, Pts. 1 &amp; 2.</desc>
-    <episode-num system="dd_assetid">XM0YBKGFKITKYK</episode-num>
-  </programme>
-<programme start="20261122194428 +0000" stop="20261122203844 +0000" channel="99991680">
-    <title lang="en">Episode: 5</title>
-    <desc lang="en">This episode includes: Mexico UFO, Slain Sammy, Pts. 1 &amp; 2 &amp; UD and Missing Rainman.</desc>
-    <episode-num system="dd_assetid">XM01ELAJ3M7AI2</episode-num>
-  </programme>
-<programme start="20261122203844 +0000" stop="20261122222505 +0000" channel="99991680">
-    <title lang="en">Episode: 6</title>
-    <desc lang="en">This episode includes: Poison Pen, Pts. 1 &amp; 2, Agatha Christie, UD: Shigemoto's Bodyguard, Tommy and His Parents, Poverty Island Treasure and Into the Woods &amp; UD.</desc>
-    <episode-num system="dd_assetid">XM0GU4JP2V1HSS</episode-num>
-  </programme>
-<programme start="20261122222505 +0000" stop="20261122232243 +0000" channel="99991680">
-    <title lang="en">Episode: 7</title>
-    <desc lang="en">This episode includes: Silent Witness, Mary Celeste, UD: Hoochie Coochie and Sunshine Guys &amp; UD.</desc>
-    <episode-num system="dd_assetid">XM0I3PA8BTEAM8</episode-num>
-  </programme>
-<programme start="20261122232243 +0000" stop="20261123001817 +0000" channel="99991680">
-    <title lang="en">Episode: 8</title>
-    <desc lang="en">This episode includes: Drug Family Fugitives &amp; UD, Ghost Writer, Is Borton Back?, Pts. 1 &amp; 2 and UD: Viet Pilot's Daughter.</desc>
-    <episode-num system="dd_assetid">XM0XUBMXL11UNT</episode-num>
-  </programme>
-<programme start="20261123001817 +0000" stop="20261123011136 +0000" channel="99991680">
-    <title lang="en">Episode: 9</title>
-    <desc lang="en">This episode includes: Gurdon Light, A Prisoner Named Stuart &amp; UD, UD: Lifesaving Sister and Themla &amp; Louise Bandits &amp; UD.</desc>
-    <episode-num system="dd_assetid">XM0AX0ZQJCO1JI</episode-num>
-  </programme>
-<programme start="20261123011136 +0000" stop="20261123020935 +0000" channel="99991680">
-    <title lang="en">Episode: 10</title>
-    <desc lang="en">This episode includes: Cyril Wecht, Psychic Family Roots, Search for Kristi and Baby Brother Lost &amp; UD.</desc>
-    <episode-num system="dd_assetid">XM0JC1ODFO1BT3</episode-num>
-  </programme>
-<programme start="20261123020935 +0000" stop="20261123030730 +0000" channel="99991680">
-    <title lang="en">Episode: 11</title>
-    <desc lang="en">This episode includes: San Marino Bones &amp; UD, Phantom Sub, Police Captain's Death, UD: Baby Girl X and School Bus Family &amp; UD.</desc>
-    <episode-num system="dd_assetid">XM0T33SBV5QST8</episode-num>
-  </programme>
-<programme start="20261123030730 +0000" stop="20261123040601 +0000" channel="99991680">
-    <title lang="en">Episode: 12</title>
-    <desc lang="en">This episode includes: Padre Pio, Pts. 1 &amp; 2, Model's Third Notebook &amp; UD, Calculating Coroners &amp; UD and Nazi's Lazarus.</desc>
-    <episode-num system="dd_assetid">XM0XD2TFLJ4JW1</episode-num>
-  </programme>
-<programme start="20261123040601 +0000" stop="20261123050000 +0000" channel="99991680">
-    <title lang="en">Episode: 13</title>
-    <desc lang="en">This episode includes: Electric Lady, Murder Premonition and James Van Praagh, Pts. 1 &amp; 2.</desc>
-    <episode-num system="dd_assetid">XM0515S64Y9VIM</episode-num>
-  </programme>
-<programme start="20261123050000 +0000" stop="20261123055601 +0000" channel="99991680">
-    <title lang="en">Episode: 14</title>
-    <desc lang="en">This episode includes: Missing Page, Pts. 1 &amp; 2, KC Blast &amp; UD, Fugitive Squirrel and Brief Encounter.</desc>
-    <episode-num system="dd_assetid">XM03MNO2BKIILT</episode-num>
-  </programme>
-<programme start="20261123055601 +0000" stop="20261123065234 +0000" channel="99991680">
-    <title lang="en">Episode: 15</title>
-    <desc lang="en">The season's first challenge finds the contestants slicing halibut into thin six-ounce fillets. One member of each team must serve as maître d' during the dining service. Contains strong language.</desc>
-    <episode-num system="dd_assetid">XM0U7R5AJOTOFE</episode-num>
-  </programme>
-<programme start="20261123065234 +0000" stop="20261123074948 +0000" channel="99991680">
-    <title lang="en">Episode: 16</title>
-    <desc lang="en">This episode includes: Gasparetto, Tara! Tara! Tara!, Fritz and the Soldiers &amp; UD, UD: Log Cabin Fraud and Carlos' Con &amp; UD.</desc>
-    <episode-num system="dd_assetid">XM02386DXR7UHV</episode-num>
-  </programme>
-<programme start="20261123074948 +0000" stop="20261123084535 +0000" channel="99991680">
-    <title lang="en">Episode: 17</title>
-    <desc lang="en">This episode includes: Noreen Renier &amp; UD, Missing Newborn, Gigi's Amnesia &amp; UD and Unknown Dad &amp; UD.</desc>
-    <episode-num system="dd_assetid">XM0G0KA9OAH9E6</episode-num>
-  </programme>
-<programme start="20261123084535 +0000" stop="20261123094434 +0000" channel="99991680">
-    <title lang="en">Episode: 18</title>
-    <desc lang="en">This episode includes: Power of Prayer, Dress Up Escape, Dakota's Double Death and Casino Disappearance.</desc>
-    <episode-num system="dd_assetid">XM0TQIBSK6RLA1</episode-num>
-  </programme>
-<programme start="20261123094434 +0000" stop="20261123104101 +0000" channel="99991680">
-    <title lang="en">Episode: 19</title>
-    <desc lang="en">This episode includes: Patience Worth, Fugitive Counterfeiter &amp; UD, A.W.O.L. and Hitchhiking Killer &amp; UD.</desc>
-    <episode-num system="dd_assetid">XM0MILOWMM6U1H</episode-num>
-  </programme>
-<programme start="20261123104101 +0000" stop="20261123113655 +0000" channel="99991680">
-    <title lang="en">Episode: 20</title>
-    <desc lang="en">This episode includes: Mystery Hum, UD: School Bus Family, Car Crash Thank You &amp; UD, Dial's Escape &amp; UD and Taking a Dive &amp; UD.</desc>
-    <episode-num system="dd_assetid">XM0FKJT5TWEP62</episode-num>
-  </programme>
-<programme start="20261123113655 +0000" stop="20261123123905 +0000" channel="99991680">
-    <title lang="en">Episode: 21</title>
-    <desc lang="en">This episode includes: UD: Roswell/Area 51 and Abductees.</desc>
-    <episode-num system="dd_assetid">XM0IB3CL6GMR56</episode-num>
-  </programme>
-<programme start="20261123123905 +0000" stop="20261123133545 +0000" channel="99991680">
-    <title lang="en">Episode 1</title>
-    <desc lang="en">This episode includes: Brandon Lee, Missing Anchorwoman, First Love, Killer Castro and Gulf P.O.W. Dream.</desc>
-    <episode-num system="dd_assetid">XM0MDOJU18PFKZ</episode-num>
-  </programme>
-<programme start="20261123133545 +0000" stop="20261123143214 +0000" channel="99991680">
-    <title lang="en">Episode 2</title>
-    <desc lang="en">This episode includes: Deadly Doses &amp; UD, Missing Bird People, Baby's Breath and Fawzi's Son &amp; UD.</desc>
-    <episode-num system="dd_assetid">XM0JVRF5OFK8P3</episode-num>
-  </programme>
-<programme start="20261123143214 +0000" stop="20261123152556 +0000" channel="99991680">
-    <title lang="en">Episode 3</title>
-    <desc lang="en">This episode includes: Missing Rock Star &amp; UD, UD: Wandering Fishman, St. Louis Custody Killing &amp; UD, Animal Therapist, Who Do Voodoo? and Molnar Heir &amp; UD.</desc>
-    <episode-num system="dd_assetid">XM0E4TL5UGL9T6</episode-num>
-  </programme>
-<programme start="20261123152556 +0000" stop="20261123162200 +0000" channel="99991680">
-    <title lang="en">Episode 4</title>
-    <desc lang="en">This episode includes: Socorro Close Encounter, Kentucky Visions, Foster Twins &amp; UD and Elevator Murder.</desc>
-    <episode-num system="dd_assetid">XM0R2FPNGWB0GZ</episode-num>
-  </programme>
-<programme start="20261123162200 +0000" stop="20261123171910 +0000" channel="99991680">
-    <title lang="en">Episode 5</title>
-    <desc lang="en">This episode includes: Fugitive Drug Dealer, UD: Model's Third Notebook, Tina's Search &amp; UD, Miracle Buffalo, Lost Gause &amp; UD and Who Killed Superman?</desc>
-    <episode-num system="dd_assetid">XM0TZ4Z1IZMWKC</episode-num>
-  </programme>
-<programme start="20261123171910 +0000" stop="20261123181257 +0000" channel="99991680">
-    <title lang="en">Episode 6</title>
-    <desc lang="en">This episode includes: BC Sea Monster, Jumping Off Place, UD: Thelma &amp; Louise, Fatherly Love? &amp; UD, Postal Crime and Miss Subways.</desc>
-    <episode-num system="dd_assetid">XM047LR8PFRCQO</episode-num>
-  </programme>
-<programme start="20261123181257 +0000" stop="20261123191516 +0000" channel="99991680">
-    <title lang="en">Episode 7</title>
-    <desc lang="en">This episode includes: Forklift Mystery &amp; UD, Unicorn's Secret &amp; UD, Where's Jim?, Ohio Video Robbery and Grace's Ghost.</desc>
-    <episode-num system="dd_assetid">XM08F43K5LG0JY</episode-num>
-  </programme>
 <programme start="20261121191423 +0000" stop="20261121212603 +0000" channel="99951440">
     <title lang="en">The Tavern</title>
     <desc lang="en">Rinn and Robbie set out to seek a cure.</desc>
@@ -4948,6 +4708,11 @@
     <title lang="en">High Rollers Lightfall: The Descent #8| Hand of Vecna.mp4</title>
     <desc lang="en">Round 2 against Arkhan the Cruel; LET'S GO!</desc>
     <episode-num system="dd_assetid">XT09R8JSXNI56Z</episode-num>
+  </programme>
+<programme start="20261123192747 +0000" stop="20261123212914 +0000" channel="99951440">
+    <title lang="en">High Rollers Lightfall: The Descent #7| Arkhan's Ambush</title>
+    <desc lang="en">Time to take the fight to Arkhan the Cruel...will we survive?</desc>
+    <episode-num system="dd_assetid">XT0VB9FAB1PM56</episode-num>
   </programme>
 <programme start="20261121182242 +0000" stop="20261121202141 +0000" channel="99991337">
     <title lang="en">Hunt for the Wilderpeople</title>
@@ -5369,6 +5134,11 @@
     <desc lang="en">A young woman out jogging is attacked and viciously raped at knifepoint. The perpetrator continues his reign of terror by raping another five times over the next nine years.</desc>
     <episode-num system="dd_assetid">XM01AXKLHF68GS</episode-num>
   </programme>
+<programme start="20261123193204 +0000" stop="20261123195544 +0000" channel="99991384">
+    <title lang="en">Bad Lovers</title>
+    <desc lang="en">A cheating husband trains a lover to become an assassin in Daytona Beach, FL, while in Sydney, Australia there's danger when a woman falls in and out of love.</desc>
+    <episode-num system="dd_assetid">XM01DFI5F9GQD9</episode-num>
+  </programme>
 <programme start="20261121173441 +0000" stop="20261121194513 +0000" channel="99991312">
     <title lang="en">Donnie Darko (Theatrical Cut) [Broadcast Edit]</title>
     <desc lang="en">A troubled teenager is plagued by visions of a man in a rabbit suit who manipulates him to commit crimes.</desc>
@@ -5648,5 +5418,300 @@
     <title lang="en">The Field</title>
     <desc lang="en">To save their marriage, Ben and Lydia risk it all and buy a farmstead in Manitowoc, WI. Lydia is determined to transform the rotting house into a dream home and finally start a family, but Ben's photographs reveal they're not alone... Mysterious figures begin appearing in Ben's photos and Lydia unearths grotesque artifacts in their house. An odd woman called Edith (Veronica Cartwright) is found to be living in a chicken coop on their property.</desc>
     <episode-num system="dd_assetid">XM0XED0I5MJ6Y3</episode-num>
+  </programme>
+<programme start="20261121194000 +0000" stop="20261121203000 +0000" channel="99951466">
+    <title lang="en">A Killer App</title>
+    <desc lang="en">A crazed driver goes on a seven-hour shooting spree, killing six people and critically injuring two.</desc>
+    <episode-num system="dd_progid">EP027644490028</episode-num>
+  </programme>
+<programme start="20261121203000 +0000" stop="20261121211900 +0000" channel="99951466">
+    <title lang="en">She Never Came Home</title>
+    <desc lang="en">When 19-year-old Kenia disappears, her family immediately begins conducting their own investigation to find her; as the police join them in their efforts, they follow alarming leads that cause them to believe Kenia won't be found alive.</desc>
+    <episode-num system="dd_progid">EP027644490029</episode-num>
+  </programme>
+<programme start="20261121211900 +0000" stop="20261121220900 +0000" channel="99951466">
+    <title lang="en">The Kill Club</title>
+    <desc lang="en">A beloved member of the local community is brutally murdered with part of his body apparently taken as a souvenir by the killer; detectives try to make sense of this horrifying crime despite conflicting stories and a possible false confession.</desc>
+    <episode-num system="dd_progid">EP027644490030</episode-num>
+  </programme>
+<programme start="20261121220900 +0000" stop="20261121225800 +0000" channel="99951466">
+    <title lang="en">Killer Friends</title>
+    <desc lang="en">After a divorced mother is found murdered in her home, police discover she had an unusual array of people involved in her life.</desc>
+    <episode-num system="dd_progid">EP027644490031</episode-num>
+  </programme>
+<programme start="20261121225800 +0000" stop="20261121234800 +0000" channel="99951466">
+    <title lang="en">Who Killed Little Mama?</title>
+    <desc lang="en">After an elderly woman comes into a large sum of money, she is attacked; investigators uncover a twisted tale of addiction, brutality and betrayal.</desc>
+    <episode-num system="dd_progid">EP027644490032</episode-num>
+  </programme>
+<programme start="20261121234800 +0000" stop="20261122003700 +0000" channel="99951466">
+    <title lang="en">The Worst Betrayal</title>
+    <desc lang="en">After a missing woman is discovered by a deputy to be murdered in the backyard of her family home, investigators must learn whether the victim was killed by a mysterious driver seen lingering outside the house, or someone unexpected.</desc>
+    <episode-num system="dd_progid">EP027644490033</episode-num>
+  </programme>
+<programme start="20261122003700 +0000" stop="20261122012700 +0000" channel="99951466">
+    <title lang="en">His Final Fight</title>
+    <desc lang="en">A U.S. Navy veteran is brutally beaten to death during a home robbery; to find the killer, police must sift through various lies as several suspects desperately attempt to cover their tracks.</desc>
+    <episode-num system="dd_progid">EP027644490034</episode-num>
+  </programme>
+<programme start="20261122012700 +0000" stop="20261122021600 +0000" channel="99951466">
+    <title lang="en">Not My DNA</title>
+    <desc lang="en">When a schoolteacher is gunned down in public, a known felon's DNA and phone records link him to the crime; however, after investigators arrest the man, they discover the real killer might actually be someone else entirely.</desc>
+    <episode-num system="dd_progid">EP027644490035</episode-num>
+  </programme>
+<programme start="20261122021600 +0000" stop="20261122030600 +0000" channel="99951466">
+    <title lang="en">Professional Suspect</title>
+    <desc lang="en">After a loving wife and mother is found shot to death in her own bed, the case goes cold for two years until determined detectives set their sights on justice and reveal a murder-for-hire plot.</desc>
+    <episode-num system="dd_progid">EP027644490036</episode-num>
+  </programme>
+<programme start="20261122030600 +0000" stop="20261122035500 +0000" channel="99951466">
+    <title lang="en">Two Fires, One Victim</title>
+    <desc lang="en">When young woman's body is found burning in the woods, investigators are left with many questions; they follow a trail of fire, fury, and falsities to get to the truth.</desc>
+    <episode-num system="dd_progid">EP027644490037</episode-num>
+  </programme>
+<programme start="20261122035500 +0000" stop="20261122044500 +0000" channel="99951466">
+    <title lang="en">A Helpful Witness</title>
+    <desc lang="en">When Kim Allen is found murdered in her home, her estranged and abusive husband is the likely suspect; risky bluff by detectives takes the case in a surprising direction.</desc>
+    <episode-num system="dd_progid">EP027644490038</episode-num>
+  </programme>
+<programme start="20261122044500 +0000" stop="20261122053400 +0000" channel="99951466">
+    <title lang="en">Cold Justice Confessions</title>
+    <desc lang="en">In 1981, a mother vanishes from the Hernando woods and the case goes cold and 33 years later, local detectives take the baton from Kelly and the Cold Justice team only to discover that getting a confession may be the only way to solve the case.</desc>
+    <episode-num system="dd_progid">EP027644490039</episode-num>
+  </programme>
+<programme start="20261122053400 +0000" stop="20261122062400 +0000" channel="99951466">
+    <title lang="en">Gustafsons</title>
+    <desc lang="en">After their brother is convicted of murder, three siblings hatch a deadly plot to avenge him by targeting the star witness in his trial; the plan goes awry when the wrong person is on the receiving end of their vengeance.</desc>
+    <episode-num system="dd_progid">EP033211850001</episode-num>
+  </programme>
+<programme start="20261122062400 +0000" stop="20261122071300 +0000" channel="99951466">
+    <title lang="en">Stovalls</title>
+    <desc lang="en">Twin sisters, raised with a deep disdain for law enforcement, are arrested for shooting a neighbor's dog, then escape custody and go on the run, leading to one of the deadliest shootouts in Colorado history.</desc>
+    <episode-num system="dd_progid">EP033211850003</episode-num>
+  </programme>
+<programme start="20261122071300 +0000" stop="20261122080300 +0000" channel="99951466">
+    <title lang="en">Williams</title>
+    <desc lang="en">Raised in a strict home, Matthew and Tyler believe it's their duty to cleanse the world of those living in sin; when two men are found dead, the brother's connection to them points toward a hateful trail of crime.</desc>
+    <episode-num system="dd_progid">EP033211850006</episode-num>
+  </programme>
+<programme start="20261122080300 +0000" stop="20261122085200 +0000" channel="99951466">
+    <title lang="en">Bevers</title>
+    <desc lang="en">Sheltered teenage brothers Robert and Michael Bever idolize serial killers and dream of being the most prolific murderers in history; with an arsenal of weapons, their quest for notoriety begins at home in their quiet Oklahoma suburb.</desc>
+    <episode-num system="dd_progid">EP033211850002</episode-num>
+  </programme>
+<programme start="20261122085200 +0000" stop="20261122094200 +0000" channel="99951466">
+    <title lang="en">Carrs</title>
+    <desc lang="en">The Carr brothers arrive in Wichita, Kan., intending to commit robberies, but their plans quickly escalate to a murderous spree the likes of which Kansas had never seen; their reign of terror becomes known as the "Wichita Massacre."</desc>
+    <episode-num system="dd_progid">EP033211850005</episode-num>
+  </programme>
+<programme start="20261122094200 +0000" stop="20261122103100 +0000" channel="99951466">
+    <title lang="en">Rosas</title>
+    <desc lang="en">After a man is found brutally murdered inside his own bar, a murder mystery unfolds over the span of years; detectives believe it's a business deal gone bad and must remain steadfastly dedicated to the case after hitting several dead ends.</desc>
+    <episode-num system="dd_progid">EP033211850007</episode-num>
+  </programme>
+<programme start="20261122103100 +0000" stop="20261122112100 +0000" channel="99951466">
+    <title lang="en">Lewis and Machuca</title>
+    <desc lang="en">In the summer of 1991, a pair of half-siblings creates panic across southern California when they embark on a spree of random crimes of the worst kind, targeting people out doing everyday tasks.</desc>
+    <episode-num system="dd_progid">EP033211850008</episode-num>
+  </programme>
+<programme start="20261122112100 +0000" stop="20261122121000 +0000" channel="99951466">
+    <title lang="en">Brileys</title>
+    <desc lang="en">Over a brutal 7-month stretch, a trio of brothers commit a series of increasingly violent crimes across the city of Richmond, leaving behind a growing body count; even after their apprehension, these brothers prove difficult to contain.</desc>
+    <episode-num system="dd_progid">EP033211850009</episode-num>
+  </programme>
+<programme start="20261122121000 +0000" stop="20261122130000 +0000" channel="99951466">
+    <title lang="en">Bondurants</title>
+    <desc lang="en">A pair of larger-than-life identical twins commit a series of brutal attacks in a small Tennessee town; with each crime, the brothers grow more emboldened; as time goes on and with little evidence against them, there's no telling how far they'll go.</desc>
+    <episode-num system="dd_progid">EP033211850004</episode-num>
+  </programme>
+<programme start="20261122130000 +0000" stop="20261122134900 +0000" channel="99951466">
+    <title lang="en">Vues</title>
+    <desc lang="en">When a correctional officer is murdered, it seems like an act of vengeance, but a love triangle is exposed; after learning his wife is having an affair, a husband plans to kill her lover and enlists the help of his brothers to carry out the task.</desc>
+    <episode-num system="dd_progid">EP033211850010</episode-num>
+  </programme>
+<programme start="20261122134900 +0000" stop="20261122143900 +0000" channel="99951466">
+    <title lang="en">Hawes</title>
+    <desc lang="en">A missing persons case spirals down a winding path once detectives learn that a formerly beloved older brother appears to have embezzled money from the family's business; his siblings are hellbent on getting revenge.</desc>
+    <episode-num system="dd_progid">EP033211850012</episode-num>
+  </programme>
+<programme start="20261122143900 +0000" stop="20261122152900 +0000" channel="99951466">
+    <title lang="en">Fryers</title>
+    <desc lang="en">In one of the most tragic and brutal crimes in the history of the Great Plains, five teens playing by a campfire are ambushed by a trio of shotgun-wielding brothers; a lone survivor bravely helps detectives hunt down her assailants.</desc>
+    <episode-num system="dd_progid">EP033211850013</episode-num>
+  </programme>
+<programme start="20261122152900 +0000" stop="20261122161800 +0000" channel="99951466">
+    <title lang="en">Suhs</title>
+    <desc lang="en">An immigrant family's American dream turns into a nightmare when a devious sister manipulates her younger valedictorian brother into committing murder; a dark family secret comes to light.</desc>
+    <episode-num system="dd_progid">EP033211850014</episode-num>
+  </programme>
+<programme start="20261122161800 +0000" stop="20261122170800 +0000" channel="99951466">
+    <title lang="en">Rogers</title>
+    <desc lang="en">In this bizarre Midwestern saga; a grudge between a shady district attorney and an eccentric local student turns deadly; investigators work for decades to bring a quartet of brothers to justice.</desc>
+    <episode-num system="dd_progid">EP033211850017</episode-num>
+  </programme>
+<programme start="20261122170800 +0000" stop="20261122175700 +0000" channel="99951466">
+    <title lang="en">Defranciscos</title>
+    <desc lang="en">When a body is found badly burned outside of Chicago, police work tirelessly to track down the killer of this young, hardworking truck driver; the search leads them to an unlikely pair of teenage sisters who are able to evade capture for years.</desc>
+    <episode-num system="dd_progid">EP033211850015</episode-num>
+  </programme>
+<programme start="20261122175700 +0000" stop="20261122184700 +0000" channel="99951466">
+    <title lang="en">Youngs</title>
+    <desc lang="en">When the patrons of a rural bar are murdered execution-style, two determined detectives work to track down a pair of killer brothers and solve the most heinous crime in the history of the small town.</desc>
+    <episode-num system="dd_progid">EP033211850016</episode-num>
+  </programme>
+<programme start="20261122184700 +0000" stop="20261122193600 +0000" channel="99951466">
+    <title lang="en">Polands</title>
+    <desc lang="en">Two brothers pull off an elaborate scheme in the desert to rob an armored van of $300,000; when investigators attempt to track down the illusive robbers, the case becomes a homicide once the bodies of the two guards driving the van turn up.</desc>
+    <episode-num system="dd_progid">EP033211850018</episode-num>
+  </programme>
+<programme start="20261122193600 +0000" stop="20261122202600 +0000" channel="99951466">
+    <title lang="en">Romero &amp; Self</title>
+    <desc lang="en">In the fall of 1992, two brothers terrorize a California community when they embark on a two-month crime spree that includes three brutal murders and many more near-death attacks.</desc>
+    <episode-num system="dd_progid">EP033211850019</episode-num>
+  </programme>
+<programme start="20261122202600 +0000" stop="20261122211500 +0000" channel="99951466">
+    <title lang="en">Agofskys</title>
+    <desc lang="en">Residents of quiet Noel, Mo., are shocked when the local bank is robbed in a brazen nighttime heist; the investigation takes a sinister turn when the bank's president is found dead and a pair of brothers suddenly come into a lot of cash.</desc>
+    <episode-num system="dd_progid">EP033211850020</episode-num>
+  </programme>
+<programme start="20261122211500 +0000" stop="20261122220500 +0000" channel="99951466">
+    <title lang="en">Bruces</title>
+    <desc lang="en">Things get murky along the Tennessee River when a mussel distributor and his fiancée are killed by a trio of roughneck brothers who are determined to steal a big payout and silence anyone who gets in their way.</desc>
+    <episode-num system="dd_progid">EP033211850021</episode-num>
+  </programme>
+<programme start="20261122220500 +0000" stop="20261122225400 +0000" channel="99951466">
+    <title lang="en">Lunas</title>
+    <desc lang="en">The ambitious Luna brothers take wildly divergent paths, one becoming a decorated army officer while another rises in a Mexican cartel; when the brothers' worlds collide, a murder ultimately brings them down.</desc>
+    <episode-num system="dd_progid">EP033211850022</episode-num>
+  </programme>
+<programme start="20261122225400 +0000" stop="20261122234400 +0000" channel="99951466">
+    <title lang="en">Kauffman and McMahan</title>
+    <desc lang="en">Tragedy strikes rural Iowa as two women are found murdered in their homes; when a local bank is robbed the same day, investigators connect the crimes to an unfolding crime spree and race to find the killer siblings before they can strike again.</desc>
+    <episode-num system="dd_progid">EP033211850025</episode-num>
+  </programme>
+<programme start="20261122234400 +0000" stop="20261123003300 +0000" channel="99951466">
+    <title lang="en">Kimbles</title>
+    <desc lang="en">A peaceful town is rocked by the murder of the young wife of a preacher's son; the investigation leads detectives to two brothers: one with a deadly ambition, and the other willing to do anything to earn his brother's love.</desc>
+    <episode-num system="dd_progid">EP033211850026</episode-num>
+  </programme>
+<programme start="20261123003300 +0000" stop="20261123012300 +0000" channel="99951466">
+    <title lang="en">Engels</title>
+    <desc lang="en">When the body of a young woman is found in a burnt out station wagon, investigators unravel a deadly plot that leads back to a shattered marriage and two self-made millionaire brothers who feel entitled to do anything to anyone.</desc>
+    <episode-num system="dd_progid">EP033211850027</episode-num>
+  </programme>
+<programme start="20261123012300 +0000" stop="20261123021200 +0000" channel="99951466">
+    <title lang="en">Merricks</title>
+    <desc lang="en">A double-homicide in a small Ohio town leads police to a family member with a grudge over $400 that leads two brothers to spiral out of control.</desc>
+    <episode-num system="dd_progid">EP033211850028</episode-num>
+  </programme>
+<programme start="20261123021200 +0000" stop="20261123030200 +0000" channel="99951466">
+    <title lang="en">Allridges</title>
+    <desc lang="en">After three ruthless murders and a month-long spree of armed robberies, police in Fort Worth, Texas, race to stop a young man intent on inflicting pain, his honor student sibling and a second set of brothers.</desc>
+    <episode-num system="dd_progid">EP033211850029</episode-num>
+  </programme>
+<programme start="20261123030200 +0000" stop="20261123035100 +0000" channel="99951466">
+    <title lang="en">Galvan-Cernas</title>
+    <desc lang="en">A home invasion by masked gunmen leads to the murder of a doctor trying to protect his family, but when investigators track down three brothers, they discover the kidnapping plot gone wrong was masterminded from within the doctor's own circle.</desc>
+    <episode-num system="dd_progid">EP033211850030</episode-num>
+  </programme>
+<programme start="20261123035100 +0000" stop="20261123044100 +0000" channel="99951466">
+    <title lang="en">Homicks &amp; Woodmans</title>
+    <desc lang="en">When a wealthy businessman and his wife are brutally gunned down, detectives discover a family torn apart by resentment and greed, and uncover a murder plot between the couple's sons and a second set of brothers hired to pull the trigger.</desc>
+    <episode-num system="dd_progid">EP033211850032</episode-num>
+  </programme>
+<programme start="20261123044100 +0000" stop="20261123053000 +0000" channel="99951466">
+    <title lang="en">Dennys</title>
+    <desc lang="en">A rural community in Georgia is rocked by two double-homicides within 24 hours, including a beloved dairy farmer and his son, but a piece of evidence eventually leads detectives to two brothers.</desc>
+    <episode-num system="dd_progid">EP033211850031</episode-num>
+  </programme>
+<programme start="20261123053000 +0000" stop="20261123062000 +0000" channel="99951466">
+    <title lang="en">Matting &amp; Smith</title>
+    <desc lang="en">A man's murder outside his home in suburban Memphis leads investigators to multiple extramarital affairs, a wife's secret life, an insurance policy, and a brother willing to do anything for his sister.</desc>
+    <episode-num system="dd_progid">EP033211850034</episode-num>
+  </programme>
+<programme start="20261123062000 +0000" stop="20261123070900 +0000" channel="99951466">
+    <title lang="en">Freemans</title>
+    <desc lang="en">Teen brothers rebel against their strict upbringing and become skinheads, and when their mother, father and younger brother are discovered murdered in their home, police begin a manhunt that leads them across three states.</desc>
+    <episode-num system="dd_progid">EP033211850033</episode-num>
+  </programme>
+<programme start="20261123070900 +0000" stop="20261123075900 +0000" channel="99951466">
+    <title lang="en">Pratt</title>
+    <desc lang="en">A home invasion starts a massive manhunt through the remote, snowy wilderness of Idaho for two bank-robbing brothers who once helped catch a notorious Soviet spy.</desc>
+    <episode-num system="dd_progid">EP033211850035</episode-num>
+  </programme>
+<programme start="20261123075900 +0000" stop="20261123084800 +0000" channel="99951466">
+    <title lang="en">Modern Family Murder</title>
+    <desc lang="en">While investigating the murder of a devoutly religious couple, police uncover dark family secrets, leading them to a shocking suspect.</desc>
+    <episode-num system="dd_progid">EP033622130001</episode-num>
+  </programme>
+<programme start="20261123084800 +0000" stop="20261123093800 +0000" channel="99951466">
+    <title lang="en">Dying to See You</title>
+    <desc lang="en">When a popular college student is found slain in the middle of campus, police suspect his friends and lovers might be involved.</desc>
+    <episode-num system="dd_progid">EP033622130002</episode-num>
+  </programme>
+<programme start="20261123093800 +0000" stop="20261123102700 +0000" channel="99951466">
+    <title lang="en">A Twisted Connection</title>
+    <desc lang="en">When a suburban mom is murdered in her own home, investigators chase down an elusive killer that no one saw coming.</desc>
+    <episode-num system="dd_progid">EP033622130003</episode-num>
+  </programme>
+<programme start="20261123102700 +0000" stop="20261123111700 +0000" channel="99951466">
+    <title lang="en">When Hate Kills</title>
+    <desc lang="en">Police in small town Louisiana investigate the mysterious and brutal murder of a beloved neighbor with no known enemies.</desc>
+    <episode-num system="dd_progid">EP033622130004</episode-num>
+  </programme>
+<programme start="20261123111700 +0000" stop="20261123120600 +0000" channel="99951466">
+    <title lang="en">Killer in Plain Sight</title>
+    <desc lang="en">After a college student is viciously murdered and her apartment set ablaze, police untangle a web of relationships to find a killer who's dangerously close to home.</desc>
+    <episode-num system="dd_progid">EP033622130005</episode-num>
+  </programme>
+<programme start="20261123120600 +0000" stop="20261123125600 +0000" channel="99951466">
+    <title lang="en">New Mexico Massacre</title>
+    <desc lang="en">A couple and their special needs son are savagely murdered in rural New Mexico, leading detectives to uncover long-buried secrets in a tight-knit town.</desc>
+    <episode-num system="dd_progid">EP033622130006</episode-num>
+  </programme>
+<programme start="20261123125600 +0000" stop="20261123134500 +0000" channel="99951466">
+    <title lang="en">Deadly Intentions</title>
+    <desc lang="en">A devoted mother about to begin a new life is murdered in her own home; detectives follow the evidence through a tangled web of relationships to unmask the killer.</desc>
+    <episode-num system="dd_progid">EP033622130007</episode-num>
+  </programme>
+<programme start="20261123134500 +0000" stop="20261123143500 +0000" channel="99951466">
+    <title lang="en">Deadly Betrayal</title>
+    <desc lang="en">When a loving father and beloved basketball coach is murdered in Tennessee, police decode a confusing array of evidence to unveil a killer who is shockingly close to home.</desc>
+    <episode-num system="dd_progid">EP033622130008</episode-num>
+  </programme>
+<programme start="20261123143500 +0000" stop="20261123152400 +0000" channel="99951466">
+    <title lang="en">Twisted Betrayal</title>
+    <desc lang="en">When a devoted mother with a bright future in show business is ruthlessly gunned down, a number of suspects emerges; just as detectives think they have the killer in their sights, the investigation takes a jaw-dropping turn.</desc>
+    <episode-num system="dd_progid">EP033622130009</episode-num>
+  </programme>
+<programme start="20261123152400 +0000" stop="20261123161400 +0000" channel="99951466">
+    <title lang="en">Unseen Assassin</title>
+    <desc lang="en">A wealthy businessman and his closest friend are found shot execution-style; police have little to go on until a surprising development leads investigators to a killer no one ever suspected.</desc>
+    <episode-num system="dd_progid">EP033622130010</episode-num>
+  </programme>
+<programme start="20261123161400 +0000" stop="20261123170300 +0000" channel="99951466">
+    <title lang="en">A Genius Murder</title>
+    <desc lang="en">When a brilliant scientist and devoted family man is found beaten to death, the evidence leads to arrests, but an astounding revelation turns the investigation on its head.</desc>
+    <episode-num system="dd_progid">EP033622130011</episode-num>
+  </programme>
+<programme start="20261123170300 +0000" stop="20261123175300 +0000" channel="99951466">
+    <title lang="en">Driven to Murder</title>
+    <desc lang="en">When police find the body of a popular taxi driver stuffed inside the trunk of his own car, which is submerged in a river, they struggle to find suspects -- until the truth begins to emerge.</desc>
+    <episode-num system="dd_progid">EP033622130012</episode-num>
+  </programme>
+<programme start="20261123175300 +0000" stop="20261123184200 +0000" channel="99951466">
+    <title lang="en">The Love That Kills</title>
+    <desc lang="en">A loving, single mother of two is the victim of a bizarre murder, leading detectives to investigate a number of suspects.</desc>
+    <episode-num system="dd_progid">EP033622130013</episode-num>
+  </programme>
+<programme start="20261123184200 +0000" stop="20261123193200 +0000" channel="99951466">
+    <title lang="en">Killed by Kindness</title>
+    <desc lang="en">When a recently divorced mother is found strangled to death on her couch, several suspects emerge until the killer is revealed to be someone close to home.</desc>
+    <episode-num system="dd_progid">EP033622130014</episode-num>
+  </programme>
+<programme start="20261123193200 +0000" stop="20261123202200 +0000" channel="99951466">
+    <title lang="en">New Jersey Nightmare</title>
+    <desc lang="en">A recently retired woman is found murdered, and detectives struggle with a lack of evidence and try to track down a long list of suspects.</desc>
+    <episode-num system="dd_progid">EP033622130015</episode-num>
   </programme>
 </tv>
