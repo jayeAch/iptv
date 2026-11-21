@@ -729,6 +729,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         123 go
         kiddo
         teenvee
+        playworld
         svampbob
         pluto tv tegnefilm
         pluto tv klassiske tegnefilm
@@ -1150,6 +1151,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         great by choice
         espn
         dazn
+        introuble
         nfl
         nba
         mvmt
