@@ -967,7 +967,6 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         ghosts are real
         mysterious worlds
         the dead files
-        the curse of oak island
         the unxplained with william shatner
     """),
     # Pet and animal-care channels, split out of Nature (which sits below this). Above Reality TV.
@@ -1022,6 +1021,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     'Reality TV': _words("""
         reality
         nathan for you
+        the curse of oak island
         emergency rescue
         a&e alaska state troopers
         the therapy crouch
