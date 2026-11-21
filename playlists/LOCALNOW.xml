@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
-<channel id="localnow.558211BE-E921-43BA-9C55-9DE79921BF9C">
-    <display-name>FBI Files</display-name>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/558211BE-E921-43BA-9C55-9DE79921BF9C/3-1x1.png" />
+<channel id="localnow.41830D3A-37B5-4C6C-B242-A08B82B441D9">
+    <display-name>Forensic Files</display-name>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/41830D3A-37B5-4C6C-B242-A08B82B441D9/3-1x1.png" />
   </channel>
 <channel id="localnow.86B50402-32F0-4EBF-9AF8-65DAE9C09A44">
     <display-name>Mysteria</display-name>
@@ -84,6 +84,22 @@
     <category lang="en">Horror</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/06FFDD3B-A149-4023-8EF8-96685EB19DDE/0-2x3.png" />
   </programme>
+<programme start="20261121181400 +0000" stop="20261121183900 +0000" channel="localnow.41830D3A-37B5-4C6C-B242-A08B82B441D9">
+    <title lang="en">Forensic Files</title>
+    <desc lang="en">When anomalies stall a murder case, a candy wrapper and seeds help expose the killer.</desc>
+    <category lang="en">True Crime</category>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/41830D3A-37B5-4C6C-B242-A08B82B441D9/0-2x3.png" />
+    <episode-num system="onscreen">S08E20</episode-num>
+    <episode-num system="xmltv_ns">7.19.</episode-num>
+  </programme>
+<programme start="20261121183900 +0000" stop="20261121190500 +0000" channel="localnow.41830D3A-37B5-4C6C-B242-A08B82B441D9">
+    <title lang="en">Forensic Files</title>
+    <desc lang="en">The body of a Connecticut man is found in a burning rental car in Mexico.</desc>
+    <category lang="en">True Crime</category>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/41830D3A-37B5-4C6C-B242-A08B82B441D9/0-2x3.png" />
+    <episode-num system="onscreen">S08E21</episode-num>
+    <episode-num system="xmltv_ns">7.20.</episode-num>
+  </programme>
 <programme start="20261121174700 +0000" stop="20261121183900 +0000" channel="localnow.4D2A3ADC-5310-4895-A676-6A1BEEB941EE">
     <title lang="en">Beyond Belief: Fact or Fiction?</title>
     <desc lang="en">Family saved from ruin; rescue workers hear mystery voice.</desc>
@@ -115,30 +131,6 @@
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/4D2A3ADC-5310-4895-A676-6A1BEEB941EE/0-2x3.png" />
     <episode-num system="onscreen">S03E01</episode-num>
     <episode-num system="xmltv_ns">2.0.</episode-num>
-  </programme>
-<programme start="20261121181100 +0000" stop="20261121191100 +0000" channel="localnow.558211BE-E921-43BA-9C55-9DE79921BF9C">
-    <title lang="en">The FBI Files</title>
-    <desc lang="en">A man abducts, rapes and murders at least 10 women in Florida, then one victim survives.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/558211BE-E921-43BA-9C55-9DE79921BF9C/0-2x3.png" />
-    <episode-num system="onscreen">S01E05</episode-num>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-  </programme>
-<programme start="20261121191100 +0000" stop="20261121201100 +0000" channel="localnow.558211BE-E921-43BA-9C55-9DE79921BF9C">
-    <title lang="en">The FBI Files</title>
-    <desc lang="en">Claude Dallas kills two Fish and Game wardens, escapes from prison and is recaptured.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/558211BE-E921-43BA-9C55-9DE79921BF9C/0-2x3.png" />
-    <episode-num system="onscreen">S01E08</episode-num>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-  </programme>
-<programme start="20261121201100 +0000" stop="20261121210900 +0000" channel="localnow.558211BE-E921-43BA-9C55-9DE79921BF9C">
-    <title lang="en">The FBI Files</title>
-    <desc lang="en">A tip from Theodore Kaczynski's brother ends in the Unabomber's capture.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/558211BE-E921-43BA-9C55-9DE79921BF9C/0-2x3.png" />
-    <episode-num system="onscreen">S01E09</episode-num>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
   </programme>
 <programme start="20261121180148 +0000" stop="20261121210954 +0000" channel="localnow.6D30170C-D7B3-46A2-8C1F-302D8399F44D">
     <title lang="en">K-19: The Widowmaker</title>
