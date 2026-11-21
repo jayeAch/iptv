@@ -1096,6 +1096,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     'Sci-Fi': _words("""
         the asylum
         the twilight zone
+        dark matters
         mutant x
         unidentified
         andromeda
