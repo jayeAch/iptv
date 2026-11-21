@@ -727,6 +727,8 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     'Kids': _words("""
         kids
         123 go
+        kiddo
+        teenvee
         svampbob
         pluto tv tegnefilm
         pluto tv klassiske tegnefilm
@@ -781,6 +783,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     'Latino': _words("""
         spanish
         123go! español
+        gritos
         en espanol
         tock tock movies
         conecta
@@ -1148,6 +1151,8 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         dazn
         nfl
         nba
+        mvmt
+        lacrosse
         mlb
         nhl
         nascar
