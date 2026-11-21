@@ -1170,10 +1170,6 @@
     <display-name>Forensic Files</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/41830D3A-37B5-4C6C-B242-A08B82B441D9/3-1x1.png" />
   </channel>
-<channel id="localnow.86B50402-32F0-4EBF-9AF8-65DAE9C09A44">
-    <display-name>Mysteria</display-name>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/86B50402-32F0-4EBF-9AF8-65DAE9C09A44/3-1x1.png" />
-  </channel>
 <channel id="localnow.70E6008B-8E98-4B80-8CE2-D721592DF1C1">
     <display-name>World's Most Evil Killers</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/70E6008B-8E98-4B80-8CE2-D721592DF1C1/3-1x1.png" />
@@ -1245,6 +1241,10 @@
 <channel id="tribeca_tribe_US">
     <display-name>Tribeca</display-name>
     <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/tribeca/Tribeca_Logo_800w200h.png" />
+  </channel>
+<channel id="FREQ541-US">
+    <display-name>Mysteria</display-name>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/lawandcrime/channels/541-400x200.png" />
   </channel>
 <channel id="6a1610bebdf296985fd95603-5fd115bab7ef8d002dcf181d"><display-name>24 Hour Free Movies</display-name><icon src="https://provider-static.plex.tv/epg/images/ott_channels/logos/24hrfreemovies_logo_dark.png" /></channel>
 <channel id="6a1610bebdf296985fd95603-66be944f8711311880995280"><display-name>Action Hollywood Movies</display-name><icon src="https://provider-static.plex.tv/epg/cms/production/c94e3220-9a45-42e9-8bdb-01fc43e0f27c/white_textAction_Hollywood_Movies_logo_dark_-_Angela_Chan.png" /></channel>
@@ -1529,8 +1529,6 @@
 <channel id="8343"><display-name>FilmNight</display-name><icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/video_logos/2026/01/06/1767742170Z0f27PcqvY.png" /></channel>
 <channel id="6408"><display-name>Dark Matters TV</display-name><icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/video_logos/2024/06/04/1717533002w8nxppqXt4.png" /></channel>
 <channel id="9391"><display-name>Fearstream</display-name><icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/video_logos/2026/04/27/1777308385bOQYZfa4fu.png" /></channel>
-<channel id="7041"><display-name>INTROUBLE</display-name><icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/video_logos/2025/05/20/1747705458IXtqjENYGU.png" /></channel>
-<channel id="6585"><display-name>Imagine PlayWorld</display-name><icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/video_logos/2025/01/24/1737757569jCf6Kb1V2s.png" /></channel>
 <channel id="7325"><display-name>Real America’s Voice</display-name><icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/video_logos/2025/10/03/1759524468BaayAcSDGG.png" /></channel>
 <programme channel="400000301" start="20261121175938 +0000" stop="20261121184737 +0000"><title>MADtv</title><desc>Rip Taylor makes a special appearance.</desc></programme>
 <programme channel="400000301" start="20261121184737 +0000" stop="20261121193601 +0000"><title>MADtv</title><desc>Tony Orlando and the band Presidents of the United States guest star.</desc></programme>
@@ -2547,11 +2545,6 @@
         <desc>Marc Maron waxes philosophical about how bitter Jesus would be at age 50, the challenges of having a bipolar dad and how to make Earth a properly functioning planet.</desc>
         <icon src="https://images.pluto.tv/series/64dcd4f8c6c2a60013ec3c38/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="64f8a949f5b5e4000862467c-CA" start="20261121175200 +0000" stop="20261121181700 +0000">
-        <title>Ugly Americans</title>
-        <desc>An obsessive-compulsive giant ape needs a job, and Callie struggles with her sudden attraction to Twayne.</desc>
-        <icon src="https://images.pluto.tv/series/64de81e0c94b150013349c10/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="64f8a949f5b5e4000862467c-CA" start="20261121181700 +0000" stop="20261121184200 +0000">
         <title>Daria</title>
         <desc>When Ms. Barch assigns lab partners for a behavioral science project, Daria is paired with disinterested jock Kevin, and Brittany is paired with the sleazy Upchuck.</desc>
@@ -3016,11 +3009,6 @@
         <title>Cops</title>
         <desc>A suspect leads officers on a car chase before running from a K9; a PIT maneuver is used to end a stolen vehicle pursuit; a man claims he has crazy eyes when a deputy suspects him of driving high.</desc>
         <icon src="https://images.pluto.tv/series/6abc271cda71d9a75f433ee2/tile_1790969583717.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="6abab1c8d33c7e25d227502e-CA" start="20261121172700 +0000" stop="20261121181700 +0000">
-        <title>Arrow</title>
-        <desc>Oliver and Nyssa al Ghul (Katrina Law) join forces to go after the Dark Archer, intent on bringing Sara's killer to justice. And Ra's al Ghul (Matt Nable) makes his entrance.</desc>
-        <icon src="https://images.pluto.tv/series/6ab54d48da71d9a75f3c7011/tile_1790266900412.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="6abab1c8d33c7e25d227502e-CA" start="20261121181700 +0000" stop="20261121190700 +0000">
         <title>Arrow</title>
@@ -6242,11 +6230,6 @@
         <desc>En udlejer har mistanke om, at hendes nye logerende er galningen, der dræber kvinder i London.</desc>
         <icon src="https://images.pluto.tv/series/69407e1463f946a2ce46e602/tile_1765834419800.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="6641fd41b18d700008e7e2b8-DK" start="20261121164131 +0000" stop="20261121181631 +0000">
-        <title>The Roast of Justin Bieber</title>
-        <desc>Med Kevin Hart som Roastmaster samler Comedy Centrals roast af Justin Bieber vor tids mest relevante stemmer inden for popkultur. De er der alle for at riste en af verdens største teenageidoler over en sagte ild.</desc>
-        <icon src="https://images.pluto.tv/series/6200daf7635aeb001acf4183/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="690488ab43169995352e51c0-DK" start="20261121181518 +0000" stop="20261121184518 +0000">
         <title>Vore værste år: It's A Bundyful Life (Part II)</title>
         <desc>Al blows his only chance to give the family a Merry Christmas and is visited by a not-so-angelic angel.</desc>
@@ -6607,11 +6590,6 @@
         <desc>A report on the November 14, 2006 shooting of Danny Hill, by his wife, Charlene. Charlene claimed that their seemingly happy life together was a facade and that she shot him in self-defense</desc>
         <icon src="https://images.pluto.tv/series/6362d0d50888bc001ad1ddba/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="6400bc50953da40008b94668-DK" start="20261121175227 +0000" stop="20261121181701 +0000">
-        <title>COPS</title>
-        <desc>A suspect is tased twice after a car chase. His passenger resists and is also tased. A driver refuses to exit his truck in Florida. A woman claims the pills in her purse belong to her sister.</desc>
-        <icon src="https://images.pluto.tv/series/65676a5b6206380013b11863/tile_1793663536162.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="6400bc50953da40008b94668-DK" start="20261121181701 +0000" stop="20261121184135 +0000">
         <title>COPS</title>
         <desc>A man on a bike refuses to stop and tries to hide a drug-filled backpack. A motorcyclist's attempt to flee is foiled by a big rig blocking the road. Meth is found in a center console during a stop.</desc>
@@ -6646,11 +6624,6 @@
         <title>COPS</title>
         <desc>A fleeing driver claims he was looking for companionship. A man admits to picking up a scantily clad lady and offering her $100 for her services. A man caught with meth claims he was set up by a girl.</desc>
         <icon src="https://images.pluto.tv/series/65676a5b6206380013b11863/tile_1793663536162.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="6426a821a3ade7000800031c-DK" start="20261121171600 +0000" stop="20261121182100 +0000">
-        <title>Crime Scene Solvers: Shot In the While Sleeping (Richard Alessandri Case)</title>
-        <desc>On the night of July 16, 2000, the life of Edwige Alessandri changed forever.  She made a frantic emergency call in the town of Carpentras. She recounted that some men burst into her room and shot her husband while he slept.</desc>
-        <icon src="https://images.pluto.tv/series/620e4853e9e2e90013945c35/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="6426a821a3ade7000800031c-DK" start="20261121182100 +0000" stop="20261121193000 +0000">
         <title>Crime Scene Solvers: Victims of a Sadist - Cyril Koskinas Case</title>
@@ -6736,11 +6709,6 @@
         <title>I Survived</title>
         <desc>I Survived kombinerer interviews med genskabte scener for at fortælle historierne om mennesker, som overkom ubegribelige omstændigheder, der ændrede deres liv for altid.</desc>
         <icon src="https://images.pluto.tv/series/66040499e5c32c0008bd8839/tile_1784650535604.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="6a0f0dd902b6c1c00aa51cb9-DK" start="20261121173509 +0000" stop="20261121181808 +0000">
-        <title>Rachel Shannon True Crime</title>
-        <desc>A beloved teacher is stabbed to death in her own classroom by a 15-year-old student who warned classmates about his plan. No one believed him. A solved true crime case that is shocking, deeply disturbing, and a devastating loss for an entire community.</desc>
-        <icon src="https://images.pluto.tv/series/6a3bf262114ca7fcbe708c91/tile_1790722456502.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="6a0f0dd902b6c1c00aa51cb9-DK" start="20261121181808 +0000" stop="20261121183945 +0000">
         <title>Gabulosis: Weld County Jane Doe: She Waited 51 Years to Be Named</title>
@@ -10442,11 +10410,6 @@
         <desc>A story of slavery, set in the southern U.S. in the 1930s.</desc>
         <icon src="https://images.pluto.tv/series/691db4888e974fddb14af5e0/tile_1763554443833.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="6a5e2f0b7ac97ec200c8ab02-GB" start="20261121172753 +0000" stop="20261121182152 +0000">
-        <title>City Confidential</title>
-        <desc>A police arson investigator is suspected of strangling his wife to death and then setting her body on fire to cover up the crime. Paul Winfield narrates.</desc>
-        <icon src="https://images.pluto.tv/series/6a847b034996e40ab20d03b0/tile_1787067140120.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="6a5e2f0b7ac97ec200c8ab02-GB" start="20261121182152 +0000" stop="20261121191421 +0000">
         <title>City Confidential</title>
         <desc>A centuries-old inn that once hosted George Washington and Ben Franklin becomes the site of a shocking crime when world-class chef Jim Webb is murdered and fellow chef Guy Sileo becomes the chief suspect.</desc>
@@ -10857,11 +10820,6 @@
         <desc>Fearing the loss of her humanity, Jaime resigns from the OSI, but the government will not let her go.</desc>
         <icon src="https://images.pluto.tv/series/680bab8730b839eca55aed79/tile_1745595279014.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="685041d936c9361b1921c26c-GB" start="20261121173140 +0000" stop="20261121182040 +0000">
-        <title>Mutant X</title>
-        <desc>Shalimar becomes close to another feral when it's "lust at first sight," but matters become complicated when her new boyfriend tries to find a cure for his condition.</desc>
-        <icon src="https://images.pluto.tv/series/5eb7e174d6ea50001a3223b8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="685041d936c9361b1921c26c-GB" start="20261121182040 +0000" stop="20261121190940 +0000">
         <title>Mutant X</title>
         <desc>A New Mutant is kidnapped from his family, and Mutant X sets out to recover him and find out what Eckhart's interest in him is.</desc>
@@ -10881,11 +10839,6 @@
         <title>Z Nation: Doc's Stoned History</title>
         <desc>Doc treats George's injury and explains the Founding Fathers, the Bill of Rights and more.</desc>
         <icon src="https://images.pluto.tv/series/6a437780aac2f7c6ece1a128/tile_1782806401656.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="68d113f9184f1a0620c8101c-GB" start="20261121175246 +0000" stop="20261121182030 +0000">
-        <title>Medical Detectives: SECOND SHOT AT LOVE</title>
-        <desc>Analysing the evidence, the medical detectives solve real crimes using forensic techniques, alongside reconstructions</desc>
-        <icon src="https://images.pluto.tv/series/6596a798478df60013c7c22e/tile_1790722082253.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="68d113f9184f1a0620c8101c-GB" start="20261121182030 +0000" stop="20261121184824 +0000">
         <title>Medical Detectives: JOURNEY TO JUSTICE</title>
@@ -11091,16 +11044,6 @@
         <title>Stalked: Someone's Watching: Sex &amp; Malice</title>
         <desc>After Ann Moulds is bombarded with sadistic letters from an anonymous stalker, she tries to get help from police. But with no stalking laws in Scotland, she's at her stalker's mercy.</desc>
         <icon src="https://images.pluto.tv/series/61b72aab37f2a80013d8e414/tile_1790723165627.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="661cf62d24e1d000087dae0d-GB" start="20261121175519 +0000" stop="20261121182019 +0000">
-        <title>Random Breath Test</title>
-        <desc>A reality show on real alcohol and drug testing performed on Australian roads by the Police's RBT Squad.</desc>
-        <icon src="https://images.pluto.tv/series/5fa26e7b6dcbef001bf4f741/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="661cf62d24e1d000087dae0d-GB" start="20261121182019 +0000" stop="20261121182119 +0000">
-        <title>COPS starts at 9pm</title>
-        <desc>Cops gives viewers access into the daily lives and work of the men and women of law enforcement. Filmed on location, the groundbreaking series follows real officers on patrol as they conduct high-speed pursuits, wild arrests and dangerous police business.</desc>
-        <icon src="https://images.pluto.tv/series/661cfbf994db1400081da4ed/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="661cf62d24e1d000087dae0d-GB" start="20261121182119 +0000" stop="20261121182219 +0000">
         <title>COPS starts at 9pm</title>
@@ -15337,11 +15280,6 @@
         <desc>John Wayne, Constance Towers and William Holden star in this 1863, fact-based story about a Union mission to destroy a railroad junction deep within Confederate territory.</desc>
         <icon src="https://images.pluto.tv/series/6a2a4bc8812ca10016d20759/tile_1781156809681.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="69f84f985304e32444f83ed3-NO" start="20261121164827 +0000" stop="20261121182027 +0000">
-        <title>Dark Star NO</title>
-        <desc>Det er midten av 2000-tallet, og mennesket har utforsket hele solsystemet. Kolonister har forlatt jorden for å finne nye hjem i universet. Det væpnede romskipet "Dark Star" skal bane vei for alle de fredelige kolonistene.</desc>
-        <icon src="https://images.pluto.tv/series/6409b7f95d300f0013fd4510/tile_1767816722540.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="61c1e1e55deef000075aed0c-NO" start="20261121183810 +0000" stop="20261121210158 +0000">
         <title>Men Alle Vet</title>
         <desc>Penélope Cruz og Javier Bardem har hovedrollene i den to ganger Oscarvinnende regissøren Asghar Farhadi's intense drama, hvor hemmeligheter og svik kommer til overflaten i en idyllisk spansk landsby.</desc>
@@ -15667,11 +15605,6 @@
         <desc>Officers encounter a restless passenger during a routine traffic stop, deputies track down a shoplifter with a particular taste, and officers respond to a domestic dispute.</desc>
         <icon src="https://images.pluto.tv/series/6595561ea95cb100146140fe/tile_1793663688328.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="6426900ea3ade70008ffcb20-NO" start="20261121171400 +0000" stop="20261121181900 +0000">
-        <title>Crime Scene Solvers: Deadly Trap in the Forest - Christophe Belle</title>
-        <desc>On March 19th 1998, Akira Ojima, a 57 years old japanese architect, is found dead in the fridge of a villa in Nanterre.</desc>
-        <icon src="https://images.pluto.tv/series/625540ce8f17ad0013f54988/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="6426900ea3ade70008ffcb20-NO" start="20261121181900 +0000" stop="20261121192200 +0000">
         <title>Crime Scene Solvers: The Priscillia Ciatti Case</title>
         <desc>The corpse of Priscillia Ciatti, 14, is discovered by the side of a field, a few hundred metres from her family home. The teenager has been stabbed sixty times with a knife and –an extra sordid detail – a devil mask is found next to her body.</desc>
@@ -15686,11 +15619,6 @@
         <title>Crime Scene Solvers: (Ruth Légeret Case) Bloody Christmas next to the Leman lake</title>
         <desc>On January 4, 2006, Ruth Légeret was found dead in the middle of a pool of blood at her luxurious property in Vevey, Switzerland. Next to her was the lifeless body of her friend, Marina Studer. Who could have killed these two simple and wealthy widows?</desc>
         <icon src="https://images.pluto.tv/series/625540ce8f17ad0013f54988/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="64eca23c9c1e390008524ae6-NO" start="20261121172906 +0000" stop="20261121181806 +0000">
-        <title>Norske Krimsaker: Episode 205</title>
-        <desc>Etter meldinger om et rykende bål i Hafjell går drapsalarmen hos politiet på Lillehammer. På bålet viser det seg å ligge rester av et partert menneske. Samtidig meldes to personer savnet fra en bolig i nærheten.</desc>
-        <icon src="https://images.pluto.tv/series/64f09fb06b9e3e0013387d25/tile_1789054202427.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="64eca23c9c1e390008524ae6-NO" start="20261121181806 +0000" stop="20261121191030 +0000">
         <title>Svenske krimsaker</title>
@@ -18744,20 +18672,10 @@ Rated R</desc>
         <desc>Här kommer ännu en actionspäckad komedi från den dynamiska duon Hill och Spencer. I "Miami Supercops" ser vi våra hjältar jaga både brottslingar och 20 miljoner dollar som stals vid ett rån för ett par år sedan.</desc>
         <icon src="https://images.pluto.tv/series/63a1c15fe83c95001393420a/tile_1767935521539.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="69f84fca74d248c172bf4887-SE" start="20261121163718 +0000" stop="20261121181752 +0000">
-        <title>Night Tide</title>
-        <desc>Johnny, a sailor on leave from the Navy, sees Mora at a nightclub and is infatuated with her.  As she warms up to him, he begins to suspect she is not human and soon discovers her secret.</desc>
-        <icon src="https://images.pluto.tv/series/6ab4273a73415cc4ae3a9c1d/tile_1790193431228.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="63dbe8c8a9957100087798a3-SE" start="20261121170042 +0000" stop="20261121190848 +0000">
         <title>Dom kallar meg Trinity - Djävulens högra hand</title>
         <desc>Han har en käft lika väloljad som hans revolver. Han säger att han är en fredens man - men vem vågar tro honom? Hans namn är Trinity - Djävulens högra hand.</desc>
         <icon src="https://images.pluto.tv/series/65b2490d5884b40013973c01/tile_1767987363012.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="690488f374601d957af0106b-SE" start="20261121175600 +0000" stop="20261121182204 +0000">
-        <title>Våra värsta år: It's a Bundyful Life - Pt 2</title>
-        <desc>His guardian angel decides pay Al a visit and shows him what life is like without him born. The Jablonskys are a perfect family and The Rhoades are more like the Bundys except without Al.</desc>
-        <icon src="https://images.pluto.tv/series/65b0e736debc810013dea69b/tile_1761829156068.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="690488f374601d957af0106b-SE" start="20261121182204 +0000" stop="20261121184739 +0000">
         <title>Våra värsta år: Christmas</title>
@@ -18964,11 +18882,6 @@ Rated R</desc>
         <desc>48 Hours is television's most popular true-crime series, investigating shocking cases and compelling real-life dramas with journalistic integrity and cutting-edge style.</desc>
         <icon src="https://images.pluto.tv/series/6346b241cba1290014d7d137/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="6400be67219c4c00081755d3-SE" start="20261121175330 +0000" stop="20261121181808 +0000">
-        <title>COPS</title>
-        <desc>A man receives an enormous break due to public health concerns. Officers are doubtful when two friends claim they were unaware of each other’s actions. Police pull over a car full of people who know very little about themselves.</desc>
-        <icon src="https://images.pluto.tv/series/659562c453180b0013a10f6e/tile_1793663552423.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="6400be67219c4c00081755d3-SE" start="20261121181808 +0000" stop="20261121184242 +0000">
         <title>COPS</title>
         <desc>A fleeing driver claims he was looking for companionship. A man admits to picking up a scantily clad lady and offering her $100 for her services. A man caught with meth claims he was set up by a girl.</desc>
@@ -19089,11 +19002,6 @@ Rated R</desc>
         <desc>A highway patrolman was dispatched to what he thought would be a routine traffic accident — until he looked in the car. He had seen hundreds of accidents, but none with as much blood as this.</desc>
         <icon src="https://images.pluto.tv/series/617fed8ec3995d001ab1766e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="61814b9a9704450007e52316-SE" start="20261121171900 +0000" stop="20261121182000 +0000">
-        <title>The FBI Files: Deadly Paradise</title>
-        <desc>It should have been Shangri-La, but when bad blood developed, piracy took over and the only law was the law of the jungle.</desc>
-        <icon src="https://images.pluto.tv/series/61fa87b5fef5db001a0ea299/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="61814b9a9704450007e52316-SE" start="20261121182000 +0000" stop="20261121192100 +0000">
         <title>The FBI Files: The Crazy Don</title>
         <desc>To the FBI, he was believed to be the boss of New York's most powerful mafia organizationthe Genovese crime family. Was Gigante crazy or was his behavior a shrewd attempt to disguise his position as a ruthless mafia boss?</desc>
@@ -19149,11 +19057,6 @@ Rated R</desc>
         <desc>On August 11, 1987, the Orléans police discover the bruised corpse of a 4-year-old child behind a guardrail on the A10 motorway.</desc>
         <icon src="https://images.pluto.tv/series/625541133f03ed0013c467ae/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="62cdad7b5c38c00007f566c2-SE" start="20261121173239 +0000" stop="20261121182139 +0000">
-        <title>On the Case: A Killer in Town</title>
-        <desc>Paula Zahn examines how police raced to track down a vicious killer on his deadly cross-country journey.</desc>
-        <icon src="https://images.pluto.tv/series/620e37a915c861001369d5af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="62cdad7b5c38c00007f566c2-SE" start="20261121182139 +0000" stop="20261121190939 +0000">
         <title>On the Case: The East Area Rapist</title>
         <desc>A sexual sadist known as the East Area Rapist terrorizes California and its law enforcement officers for decades.</desc>
@@ -19174,11 +19077,6 @@ Rated R</desc>
         <desc>Sixteen-year-old Velda Rumfelt's disappearance in Brentwood, Missouri, in 1977 marked the beginning of a tragic, decades long mystery.</desc>
         <icon src="https://images.pluto.tv/series/620e37a915c861001369d5af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="64268f52b065d900085eb42b-SE" start="20261121171700 +0000" stop="20261121181900 +0000">
-        <title>Crime Scene Solvers: Céline Marchand Case</title>
-        <desc>On May 30th 2015 in Sorinières, Yann Machand reports his wife Céline Marchand missing.</desc>
-        <icon src="https://images.pluto.tv/series/625541133f03ed0013c467ae/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="64268f52b065d900085eb42b-SE" start="20261121181900 +0000" stop="20261121192800 +0000">
         <title>Crime Scene Solvers: Victims of a Sadist - Cyril Koskinas Case</title>
         <desc>On July 19th 2004, the naked and tied up body of a woman is recovered in the Ourcq canal in Fresnes-sur-Marne. The victim is impossible to identify.</desc>
@@ -19193,11 +19091,6 @@ Rated R</desc>
         <title>Crime Scene Solvers: Stabed In Her Bed: The Maureen Jaquier Case</title>
         <desc>On February 27, 2015, in Toulouse, the parents of 19-year-old Maureen Jacquier discover their daughter stabbed several times in her bed.</desc>
         <icon src="https://images.pluto.tv/series/625541133f03ed0013c467ae/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="645cb7857cb4b1000859c57c-SE" start="20261121172852 +0000" stop="20261121181752 +0000">
-        <title>Norske Krimsaker: Avsnitt 304</title>
-        <desc>I augusti 2004 stormade två beväpnade personer in på Munchmuseet på Tøyen. I kaoset som uppstår tar de med sig de två världsberömda målningarna Scream och Madonna. Nu påbörjas en intensiv polisjakt.</desc>
-        <icon src="https://images.pluto.tv/series/6464ebf5188649001a2a8dff/tile_1789054207365.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="645cb7857cb4b1000859c57c-SE" start="20261121181752 +0000" stop="20261121190952 +0000">
         <title>Norske Krimsaker: Avsnitt 103</title>
@@ -19268,11 +19161,6 @@ Rated R</desc>
         <title>Comedy Central Pluto TV</title>
         <desc>Säg cheese! Comedy Central Pluto TV är kanalen som bjuder på de bästa komediserierna, de mest ikoniska standup-showerna, de galnaste tecknade serierna och mycket mer.</desc>
         <icon src="https://images.pluto.tv/series/6a9a6ab3815e1932eb26f45f/tile_1788504756483.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="6391e0b4bad1970007ee5733-SE" start="20261121175045 +0000" stop="20261121181645 +0000">
-        <title>Våra värsta år: Buck Can Do It</title>
-        <desc>Al is reluctant to have Buck neutered despite being threatened with lawsuits from numerous neighbors regarding Buck's "nocturnal carnal activities.”</desc>
-        <icon src="https://images.pluto.tv/series/65b0e736debc810013dea69b/tile_1761829156068.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="6391e0b4bad1970007ee5733-SE" start="20261121181645 +0000" stop="20261121184247 +0000">
         <title>Våra värsta år: Poppy's By The Tree - Pt 1</title>
@@ -23023,11 +22911,6 @@ till en tjänstgöring i Europa.</desc>
         <desc>The arrest of two brothers in the murders of four women.</desc>
         <icon src="https://images.pluto.tv/series/6577639353180b0013e3f603/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="6887a4e01067b66fa16966ec-US" start="20261121175140 +0000" stop="20261121181753 +0000">
-        <title>Live PD: Police Patrol</title>
-        <desc>An unfiltered look at police departments in action.</desc>
-        <icon src="https://images.pluto.tv/series/68938c42fab04846feeb92e3/tile_1785186412576.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="6887a4e01067b66fa16966ec-US" start="20261121181753 +0000" stop="20261121184307 +0000">
         <title>Live PD: Police Patrol</title>
         <desc>An unfiltered look at police departments in action.</desc>
@@ -23262,11 +23145,6 @@ till en tjänstgöring i Europa.</desc>
         <title>Criminal Confessions</title>
         <desc>When 19-year-old Kenia disappears, her family immediately begins conducting their own investigation to find her; as the police join them in their efforts, they follow alarming leads that cause them to believe Kenia won't be found alive.</desc>
         <icon src="https://images.pluto.tv/series/655e8f276206380013789bfc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="5ff8c708653d080007361b14-US" start="20261121174900 +0000" stop="20261121181900 +0000">
-        <title>Hot in Cleveland</title>
-        <desc>Go behind the scenes with this collection of bloopers and interviews with Hot in Cleveland stars Wendie Malick, Valerie Bertinelli, Jane Leeves, and Betty White.</desc>
-        <icon src="https://images.pluto.tv/series/5d2f8b7ae58d0d807038fe59/tile_1772577001314.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="5ff8c708653d080007361b14-US" start="20261121181900 +0000" stop="20261121184900 +0000">
         <title>Hot in Cleveland</title>
@@ -28514,14 +28392,6 @@ till en tjänstgöring i Europa.</desc>
     <episode-num system="onscreen">S02E12</episode-num>
     <rating system="USA Parental Rating">TV14</rating>
   </programme>
-<programme channel="cc72c25b76295e07862192d21bbff05b" start="20261121170200 +0000" stop="20261121182000 +0000">
-    <title>Tupac: Cover Up</title>
-    <sub-title>Tupac: Cover Up</sub-title>
-    <desc>By 2018, Las Vegas police were "reinvigorated" by Keefe D's TV confessions backing Kading's "Murder Rap."</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e5da27d962bc15637fa25c1dc549bb8b/rokuFeed/assets/2156e27968995ba589539d3280f8ee9b.jpg" />
-    <episode-num system="onscreen">S01E06</episode-num>
-    <rating system="USA Parental Rating">TVPG</rating>
-  </programme>
 <programme channel="cc72c25b76295e07862192d21bbff05b" start="20261121182000 +0000" stop="20261121192000 +0000">
     <title>Moochie: Who Killed Jill Halliburton?</title>
     <desc>After the murder of Jill Halliburton, the police arrest a young Black man nicknamed Moochie.</desc>
@@ -29731,14 +29601,6 @@ till en tjänstgöring i Europa.</desc>
     <desc>Donnie gets apprehended in a sting operation in Dayton, Ohio.</desc>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/dafd9b0a019f557384740129e4d23d0b/images/gracenote/assets/p26581096_b_h10_ac.jpg" />
     <episode-num system="onscreen">S04E01</episode-num>
-    <rating system="USA Parental Rating">TV14</rating>
-  </programme>
-<programme channel="8abbea29b86a5a5da299c7ef2e288cab" start="20261121175035 +0000" stop="20261121181848 +0000">
-    <title>Jail</title>
-    <sub-title>Jail</sub-title>
-    <desc>Two cousins visit jail; an inmate who won't cool off; a street artist meditates naked.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/bbb764af533356ca83d17cf8d945f836/rokuFeed/assets/fd1f23692f0959b2a6768f6d255ae981.jpg" />
-    <episode-num system="onscreen">S04E02</episode-num>
     <rating system="USA Parental Rating">TV14</rating>
   </programme>
 <programme channel="8abbea29b86a5a5da299c7ef2e288cab" start="20261121181848 +0000" stop="20261121184701 +0000">
@@ -31008,6 +30870,14 @@ till en tjänstgöring i Europa.</desc>
     <desc>A dad gets busted for DUI while on his way to pick up a pizza.</desc>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8f67e3afd8de08eae3fc4a51f26226f7/rokuFeed/assets/e1213c9e8c785e089a504fbdfc7b9fe9.jpg" />
     <episode-num system="onscreen">S04E11</episode-num>
+    <rating system="USA Parental Rating">TV14</rating>
+  </programme>
+<programme channel="645518dc5f92519688baed84d025b14e" start="20261123181804 +0000" stop="20261123184235 +0000">
+    <title>Jail</title>
+    <sub-title>Jail</sub-title>
+    <desc>An intoxicated inmate escapes his restraints.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8f67e3afd8de08eae3fc4a51f26226f7/rokuFeed/assets/e1213c9e8c785e089a504fbdfc7b9fe9.jpg" />
+    <episode-num system="onscreen">S06E15</episode-num>
     <rating system="USA Parental Rating">TV14</rating>
   </programme>
 <programme channel="62945e18ab825bfd8b4995d9bd14917b" start="20261121180721 +0000" stop="20261121183113 +0000">
@@ -34382,10 +34252,10 @@ Early one morning in a deserted area outside of Phoenix, a motorcyclist discover
     <desc lang="en">A Canadian Mountie and his trusty steed search a summer cheerleading camp to find a deranged lunatic...in a camp full of deranged lunatics!</desc>
     <episode-num system="dd_assetid">XT09ZVRODN1F4I</episode-num>
   </programme>
-<programme start="20261121172800 +0000" stop="20261121182000 +0000" channel="99951468">
-    <title lang="en">Sweeps</title>
-    <desc lang="en">After a child molester is killed by a victim's father on the set of a talk show, Stone investigates the host to prove he masterminded the meeting for ratings.</desc>
-    <episode-num system="dd_progid">EP000176170081</episode-num>
+<programme start="20261123181849 +0000" stop="20261123194623 +0000" channel="99951571">
+    <title lang="en">The Vampire</title>
+    <desc lang="en">When a physician accidentally swallows experimental bat serum pills, he finds himself saving patients by day...and sucking their blood by night!</desc>
+    <episode-num system="dd_assetid">XT0AYDFFG3CDCP</episode-num>
   </programme>
 <programme start="20261121182000 +0000" stop="20261121191300 +0000" channel="99951468">
     <title lang="en">Volunteers</title>
@@ -35452,6 +35322,11 @@ Early one morning in a deserted area outside of Phoenix, a motorcyclist discover
     <desc lang="en">A man's family is turned upside down when he discovers that his son's college sweetheart is the same woman he rescued from a secret military experiment twenty years before...only she has not aged a day since. Peter Onorati and Fred Savage star.</desc>
     <episode-num system="dd_assetid">XT0CLHUBMJ0MBV</episode-num>
   </programme>
+<programme start="20261123182200 +0000" stop="20261123191458 +0000" channel="99951579">
+    <title lang="en">Stream Of Consciousness</title>
+    <desc lang="en">When "the Stream" -- an artificial system providing information to all society members through computer chips implanted in their brains -- begins to malfunction, an unlikely, "primitive" man (George Newbern) may be the mankind's only hope.</desc>
+    <episode-num system="dd_assetid">XT0Q1L4PDKK4Q6</episode-num>
+  </programme>
 <programme start="20261121180000 +0000" stop="20261121190000 +0000" channel="99991320">
     <title lang="en">Bathroom Time</title>
     <desc lang="en">From chases to standoffs with unexpected leaks, this proves crime doesn't pay-or wipe.</desc>
@@ -35961,6 +35836,11 @@ Early one morning in a deserted area outside of Phoenix, a motorcyclist discover
     <title lang="en">A Better Tomorrow II</title>
     <desc lang="en">A policeman (Leslie Cheung) and a reformed gangster (Ti Lung) meet their dead friend's twin, employed by a New York mob boss.</desc>
     <episode-num system="dd_assetid">MV000662610000</episode-num>
+  </programme>
+<programme start="20261123182000 +0000" stop="20261123200000 +0000" channel="99951411">
+    <title lang="en">Galaxy of Terror</title>
+    <desc lang="en">Neurotic astronauts (Edward Albert, Erin Moran, Ray Walston) face a giant worm and other monsters on a distant planet.</desc>
+    <episode-num system="dd_assetid">MV000028280000</episode-num>
   </programme>
 <programme start="20261121175200 +0000" stop="20261121195000 +0000" channel="99951349">
     <title lang="en">Blood Quantum</title>
@@ -37277,11 +37157,6 @@ Early one morning in a deserted area outside of Phoenix, a motorcyclist discover
     <desc lang="en">A routine surgical procedure goes awry when Alex's patient, a soon-to-be-wed young woman, falls into a coma.</desc>
     <episode-num system="dd_assetid">XT0MNN7IROOOZJ</episode-num>
   </programme>
-<programme start="20261121162144 +0000" stop="20261121182019 +0000" channel="99951593">
-    <title lang="en">Mother Krampus 2: Slay Ride</title>
-    <desc lang="en">It's Christmas time in Cleveland, Ohio and four young ladies are on the verge of completing their mandatory thirty days of community service. With only one night to go, they are required to make a series of in-home visits to the older and less fortunate. Upon arriving at their final stop for the night, they become introduced to a pleasant older woman who graciously welcomes them into her home for the evening.</desc>
-    <episode-num system="dd_assetid">XM09EXZHXL4KH7</episode-num>
-  </programme>
 <programme start="20261121182019 +0000" stop="20261121195931 +0000" channel="99951593">
     <title lang="en">The Devil's Forest</title>
     <desc lang="en">Based on true events. Filmmakers travel to Transylvania to document the world's most haunted Baciu forest which has a dark history of strange occurrences, ghost sightings and countless cases of missing people.</desc>
@@ -37692,6 +37567,11 @@ Early one morning in a deserted area outside of Phoenix, a motorcyclist discover
     <desc lang="en">This episode features a chase in California, a backroad pursuit and civil unrest in Washington D.C. Retired Sheriff John Bunnell hosts this explosive series consisting of the most outrageous police footage: car chases, robberies, riots, arrests and more! #policevideos #policefootage #policechases #clips #bodycam #police #cops #copshow #caughtoncamera #hiddencamera</desc>
     <episode-num system="dd_assetid">XM0NYFWKS0I11S</episode-num>
   </programme>
+<programme start="20261123181849 +0000" stop="20261123191617 +0000" channel="99951544">
+    <title lang="en">World's Wildest Police Videos</title>
+    <desc lang="en">This episode features a chase in Colorado, a liquor store robbery and rioting in Argentina. Retired Sheriff John Bunnell hosts this explosive series consisting of the most outrageous police footage: car chases, robberies, riots, arrests and more! #policevideos #policefootage #policechases #clips #bodycam #police #cops #copshow #caughtoncamera #hiddencamera</desc>
+    <episode-num system="dd_assetid">XM0GMU8IF4D24P</episode-num>
+  </programme>
 <programme start="20261121170758 +0000" stop="20261121184406 +0000" channel="99951573">
     <title lang="en">The Secret Of Nimh</title>
     <desc lang="en">To save her family from a farmer's plow, a mild-mannered mouse has a plan to move her house!</desc>
@@ -37811,11 +37691,6 @@ Early one morning in a deserted area outside of Phoenix, a motorcyclist discover
     <title lang="en">Witness For The Prosecution</title>
     <desc lang="en">Marlene Dietrich stars in an exceptional courtroom drama about a man on trial for a wealthy widow's murder.</desc>
     <episode-num system="dd_assetid">XT0B3AP1DWR8BY</episode-num>
-  </programme>
-<programme start="20261121175200 +0000" stop="20261121181900 +0000" channel="99951256">
-    <title lang="en">Greatest Monster of Them All</title>
-    <desc lang="en">A humiliated horror-movie star yearning for a big comeback seeks revenge after discovering that the producer of a low-budget horror has dubbed his voice and turned the film into a complete farce.</desc>
-    <episode-num system="dd_progid">EP000001840045</episode-num>
   </programme>
 <programme start="20261121181900 +0000" stop="20261121184600 +0000" channel="99951256">
     <title lang="en">The Throwback</title>
@@ -39800,27 +39675,6 @@ Early one morning in a deserted area outside of Phoenix, a motorcyclist discover
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/79549FA0-4EBE-48C3-957F-037BA02E827F/0-2x3.png" />
     <episode-num system="dd_progid">program-epg-horror-machine-20261121233000</episode-num>
   </programme>
-<programme start="20261121174110 +0000" stop="20261121181835 +0000" channel="localnow.86B50402-32F0-4EBF-9AF8-65DAE9C09A44">
-    <title lang="en">Obsessive Killers</title>
-    <desc lang="en">A businesswoman was brutally stabbed to death in her own home.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/86B50402-32F0-4EBF-9AF8-65DAE9C09A44/0-2x3.png" />
-    <episode-num system="dd_progid">program-mysteria-20261121174110</episode-num>
-  </programme>
-<programme start="20261121181835 +0000" stop="20261121190730 +0000" channel="localnow.86B50402-32F0-4EBF-9AF8-65DAE9C09A44">
-    <title lang="en">Yoga Studio Shooting</title>
-    <desc lang="en">The gunman who attacked the Florida yoga studio had given off warning signs for decades.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/86B50402-32F0-4EBF-9AF8-65DAE9C09A44/0-2x3.png" />
-    <episode-num system="dd_progid">program-mysteria-20261121181835</episode-num>
-  </programme>
-<programme start="20261121190730 +0000" stop="20261121193855 +0000" channel="localnow.86B50402-32F0-4EBF-9AF8-65DAE9C09A44">
-    <title lang="en">Dark Irony</title>
-    <desc lang="en">The famous YouTuber's horrifying moments before his death had a dark irony.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/86B50402-32F0-4EBF-9AF8-65DAE9C09A44/0-2x3.png" />
-    <episode-num system="dd_progid">program-mysteria-20261121190730</episode-num>
-  </programme>
 <programme start="20261121170000 +0000" stop="20261121190000 +0000" channel="localnow.9EF0203B-766B-4822-8A34-D0C5C41E0E36">
     <title lang="en">The Librarian: Curse of the Judas Chalice</title>
     <desc lang="en">Flynn travels to the mysterious bayous of New Orleans to recover the ancient Judas Chalice.</desc>
@@ -39928,13 +39782,6 @@ Early one morning in a deserted area outside of Phoenix, a motorcyclist discover
     <episode-num system="onscreen">S01E01</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-<programme start="20261121163646 +0000" stop="20261121182019 +0000" channel="localnow.D0DF28EB-0756-4476-80C4-FD05DE2E4E09">
-    <title lang="en">Saturn 3</title>
-    <desc lang="en">Two lovers stationed at a base in the asteroid fields of Saturn are intruded upon by a technocrat and a robot.</desc>
-    <category lang="en">Horror</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D0DF28EB-0756-4476-80C4-FD05DE2E4E09/0-2x3.png" />
-    <episode-num system="dd_progid">program-scream-factory-tv-20261121163646</episode-num>
-  </programme>
 <programme start="20261121182019 +0000" stop="20261121195006 +0000" channel="localnow.D0DF28EB-0756-4476-80C4-FD05DE2E4E09">
     <title lang="en">Meatcleaver Massacre</title>
     <desc lang="en">A man calls upon the power of the occult  to seek revenge on the four men who butchered his family.</desc>
@@ -40001,6 +39848,116 @@ Early one morning in a deserted area outside of Phoenix, a motorcyclist discover
     <episode-num system="dd_progid">XM0P1R68XMDJ2M</episode-num>
     <rating>
       <value>PG</value>
+    </rating>
+  </programme>
+<programme start="20261121181835 +0000" stop="20261121190730 +0000" channel="FREQ541-US">
+    <title lang="en">Coffeehouse Crime</title>
+    <desc lang="en">The gunman who attacked the Florida yoga studio had given off warning signs for decades.</desc>
+    <category lang="en">Crime</category>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/7417341759434487290/solid/rectangle/w1920_h1080/1thhyjlotyk5d1xof5yb4dy3x3.jpg" />
+    <episode-num system="dd_progid">7544579</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261121190730 +0000" stop="20261121193855 +0000" channel="FREQ541-US">
+    <title lang="en">Coffeehouse Crime</title>
+    <desc lang="en">The famous YouTuber's horrifying moments before his death had a dark irony.</desc>
+    <category lang="en">Crime</category>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/7417341757694281269/solid/rectangle/w1920_h1080/1wq2y7v8ahojv1o96i2rcqn0v1.jpg" />
+    <episode-num system="dd_progid">7544580</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261121193855 +0000" stop="20261121201320 +0000" channel="FREQ541-US">
+    <title lang="en">Coffeehouse Crime</title>
+    <desc lang="en">Police hunted down a father who had kidnapped his children for years.</desc>
+    <category lang="en">Crime</category>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/7417341766151920695/solid/rectangle/w1920_h1080/ejxwk3vikxtw1lxn5bb8ci1y5.jpg" />
+    <episode-num system="dd_progid">7544544</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261121201320 +0000" stop="20261121204900 +0000" channel="FREQ541-US">
+    <title lang="en">Crime Report with Christina Randall</title>
+    <desc lang="en">Christina covers Ana Walshe's case and her husband's charge. Then, a man hides his ex's body in a closet.</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/1t068cv04i04f1r1x071ojezk/w1920_h1080/1t068cv04i04f1r1x071ojezk.jpg" />
+    <episode-num system="dd_progid">2750438</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261121204900 +0000" stop="20261121212125 +0000" channel="FREQ541-US">
+    <title lang="en">Crime Report with Christina Randall</title>
+    <desc lang="en">Christina provides updates on Kohberger's legal situation after his arrest for the Idaho student murders.</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/16k4ff1eh3whf1sn657pnh305/w1920_h1080/16k4ff1eh3whf1sn657pnh305.jpg" />
+    <episode-num system="dd_progid">2749331</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261121212125 +0000" stop="20261121215135 +0000" channel="FREQ541-US">
+    <title lang="en">Crime Report with Christina Randall</title>
+    <desc lang="en">Christina discusses Kohberger's case update. Then, a blogger's plot to fake death by killing a lookalike.</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/mfahy1ea7par18bgugg2gdtiz/w1920_h1080/mfahy1ea7par18bgugg2gdtiz.jpg" />
+    <episode-num system="dd_progid">2749339</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261121215135 +0000" stop="20261121222445 +0000" channel="FREQ541-US">
+    <title lang="en">Crime Report with Christina Randall</title>
+    <desc lang="en">Christina delves into Kohberger's case affidavit, providing a crime scene walkthrough. Then, a phone scam.</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/1twwwsvnwn5ex1ikq9xaer5tb/w1920_h1080/1twwwsvnwn5ex1ikq9xaer5tb.jpg" />
+    <episode-num system="dd_progid">2750459</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261121222445 +0000" stop="20261121225725 +0000" channel="FREQ541-US">
+    <title lang="en">Crime Report with Christina Randall</title>
+    <desc lang="en">Students plot a peer's murder, an influencer faces a family tragedy, and a driver commits a heinous abduction.</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/19pexc3tdoe0911u8sdmz9yf7/w1920_h1080/19pexc3tdoe0911u8sdmz9yf7.jpg" />
+    <episode-num system="dd_progid">2749344</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261121225725 +0000" stop="20261121232905 +0000" channel="FREQ541-US">
+    <title lang="en">Crime Report with Christina Randall</title>
+    <desc lang="en">Christina covers a famous actor's manslaughter charge. Then, a man confesses to accidentally killing a friend.</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/1ayv4xn6klbhd1j1v64cubs82/w1920_h1080/1ayv4xn6klbhd1j1v64cubs82.jpg" />
+    <episode-num system="dd_progid">2749359</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261121232905 +0000" stop="20261121235845 +0000" channel="FREQ541-US">
+    <title lang="en">Crime Report with Christina Randall</title>
+    <desc lang="en">Watch as Christina unpacks the trial of Letecia Stauch, who killed her stepson. Then, a missing teen case.</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/te6zifxnrnwy1q29rdsmhbwrq/w1920_h1080/te6zifxnrnwy1q29rdsmhbwrq.jpg" />
+    <episode-num system="dd_progid">2750476</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261121235845 +0000" stop="20261122003225 +0000" channel="FREQ541-US">
+    <title lang="en">Crime Report with Christina Randall</title>
+    <desc lang="en">Christina updates us on Kohberger, detailing the evidence seized. Then, she discusses the weird fan obsession.</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/mxd0llfbyl8d1xdsas0bfvspv/w1920_h1080/mxd0llfbyl8d1xdsas0bfvspv.jpg" />
+    <episode-num system="dd_progid">2750482</episode-num>
+    <rating>
+      <value>TV-14</value>
     </rating>
   </programme>
 <programme start="20261121163358 +0000" stop="20261121183413 +0000" channel="MovieSphere LG US_MOVSPLGUS_US">
@@ -40091,16 +40048,6 @@ Early one morning in a deserted area outside of Phoenix, a motorcyclist discover
     <episode-num system="dd_progid">tasmc_InvasionofThePodPeople_Feature_2997_20_US</episode-num>
     <rating>
       <value>TV-MA</value>
-    </rating>
-  </programme>
-<programme start="20261121160558 +0000" stop="20261121181653 +0000" channel="tribeca_tribe_US">
-    <title lang="en">Day Of The Dead</title>
-    <desc lang="en">A zombie classic from George Romero.</desc>
-    <category lang="en">Horror</category>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg02042/resized_images/resized_f0c18a383534a8b05c880b16ab09ef3d74aeafe00e8c576966ad1af8d7537ebb_fmp109703png_768_432.jpeg" />
-    <episode-num system="dd_progid">amg02042c61_AR9xf8ksXwFrkj9prw2Mnbd_us</episode-num>
-    <rating>
-      <value>g</value>
     </rating>
   </programme>
 <programme start="20261121181653 +0000" stop="20261121203155 +0000" channel="tribeca_tribe_US">
@@ -40730,7 +40677,6 @@ Early one morning in a deserted area outside of Phoenix, a motorcyclist discover
 <programme start="20261122112539 +0000" stop="20261122122019 +0000" channel="6a1610bebdf296985fd95603-66ce3ef09ac0b1441b19ca2b"><title>Continuum</title><sub-title>Minute by Minute</sub-title><desc>Kiera jeopardizes everything to stop Alec from altering history in his mission to save Emily.</desc><category>Adrenaline + Sci-Fi</category><episode-num system="onscreen">S3E1</episode-num><episode-num system="xmltv_ns">2.0.</episode-num><rating><value>TV-14</value></rating></programme>
 <programme start="20261122122019 +0000" stop="20261122131526 +0000" channel="6a1610bebdf296985fd95603-66ce3ef09ac0b1441b19ca2b"><title>Continuum</title><sub-title>Minute Man</sub-title><desc>Kiera investigates her own murder and deals with two Alecs in one timeline.</desc><category>Adrenaline + Sci-Fi</category><episode-num system="onscreen">S3E2</episode-num><episode-num system="xmltv_ns">2.1.</episode-num><rating><value>TV-14</value></rating></programme>
 <programme start="20261122131526 +0000" stop="20261122141033 +0000" channel="6a1610bebdf296985fd95603-66ce3ef09ac0b1441b19ca2b"><title>Continuum</title><sub-title>Minute to Win It</sub-title><desc>Kiera attempts to solve a series of Liber8-connected bank heists.</desc><category>Adrenaline + Sci-Fi</category><episode-num system="onscreen">S3E3</episode-num><episode-num system="xmltv_ns">2.2.</episode-num><rating><value>TV-14</value></rating></programme>
-<programme start="20261121175254 +0000" stop="20261121182026 +0000" channel="6a1610bebdf296985fd95603-6707dc42da81682f2d1e6846"><title>Sheriffs: El Dorado County</title><sub-title>But I Have a Prescription!</sub-title><desc>An officer finds an illegal marijuana operation; an officer investigates reports of petty theft.</desc><category>Crime</category><episode-num system="onscreen">S1E10</episode-num><episode-num system="xmltv_ns">0.9.</episode-num><rating><value>TV-14</value></rating></programme>
 <programme start="20261121182026 +0000" stop="20261121184549 +0000" channel="6a1610bebdf296985fd95603-6707dc42da81682f2d1e6846"><title>Sheriffs: El Dorado County</title><sub-title>Fire Is Coming, Time to Run!</sub-title><desc>When a forest fire forces residents to evacuate, deputies assist by leading people to safety.</desc><category>Crime</category><episode-num system="onscreen">S1E11</episode-num><episode-num system="xmltv_ns">0.10.</episode-num><rating><value>TV-14</value></rating></programme>
 <programme start="20261121184549 +0000" stop="20261121191321 +0000" channel="6a1610bebdf296985fd95603-6707dc42da81682f2d1e6846"><title>Sheriffs: El Dorado County</title><sub-title>Mobile ID Theft Factory</sub-title><desc>A traffic stop leads to the arrest of a central figure in a major ID theft ring.</desc><category>Crime</category><episode-num system="onscreen">S1E12</episode-num><episode-num system="xmltv_ns">0.11.</episode-num><rating><value>TV-14</value></rating></programme>
 <programme start="20261121191321 +0000" stop="20261121194054 +0000" channel="6a1610bebdf296985fd95603-6707dc42da81682f2d1e6846"><title>Sheriffs: El Dorado County</title><sub-title>SWAT vs. Dirty Harry</sub-title><desc>Follow a SWAT mission from briefing to execution. A man wanted for assault is taken into custody.</desc><category>Crime</category><episode-num system="onscreen">S1E13</episode-num><episode-num system="xmltv_ns">0.12.</episode-num><rating><value>TV-14</value></rating></programme>
@@ -40935,12 +40881,6 @@ Early one morning in a deserted area outside of Phoenix, a motorcyclist discover
 <programme start="20261122093458 +0000" stop="20261122114600 +0000" channel="6a1610bebdf296985fd95603-6aa779185ceba459edaf9997"><title>Endless Love (1981)</title><desc>Parental disapproval of a romance between teenagers Jade and David leads to arguments, insanity and tragedy.</desc><category>Romance</category><category>Drama</category><rating><value>TV-14</value></rating></programme>
 <programme start="20261122114600 +0000" stop="20261122133618 +0000" channel="6a1610bebdf296985fd95603-6aa779185ceba459edaf9997"><title>World's Oldest Living Bridesmaid (1990)</title><desc>A perpetually single woman falls in love with a much-younger man.</desc><category>Comedy</category><category>Drama</category><category>Romance</category><category>TV Movie</category><rating><value>TV-PG</value></rating></programme>
 <programme start="20261122133618 +0000" stop="20261122152038 +0000" channel="6a1610bebdf296985fd95603-6aa779185ceba459edaf9997"><title>The Hired Heart (1997)</title><desc>To appease her persistent father-in-law, a young widow hires an escort to pose as her lover.</desc><category>Romance</category><category>Drama</category><category>TV Movie</category><rating><value>PG</value></rating></programme>
-<programme start="20261121180251 +0000" stop="20261121181711 +0000" channel="aqua-teen-hunger-force">
-    <title lang="en">Aqua Teen Hunger Force Forever</title>
-    <sub-title lang="en">Rabbit, not Rabbot</sub-title>
-    <category lang="en">Toons</category>
-    <icon src="https://i.cdn.turner.com/adultswim/big/video/aqua-teen-hunger-force-marathon/marathonStream_athf10.jpg" />
-  </programme>
 <programme start="20261121181711 +0000" stop="20261121183127 +0000" channel="aqua-teen-hunger-force">
     <title lang="en">Aqua Teen Hunger Force Forever</title>
     <sub-title lang="en">Hospice</sub-title>
@@ -43101,18 +43041,6 @@ Early one morning in a deserted area outside of Phoenix, a motorcyclist discover
     <icon src="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_202261716375-blackjesus_302_air_cid-427WX.jpg" />
     <episode-num system="xmltv_ns">2.1.0/1</episode-num>
     <date>20190928</date>
-  </programme>
-<programme start="20261121180258 +0000" stop="20261121181728 +0000" channel="metalocalypse">
-    <title lang="en">Metalocalypse</title>
-    <sub-title lang="en">Dethfam</sub-title>
-    <desc lang="en">Uncomfortable and embarrassed, Dethklok painfully endures while their parents are in town for a visit.  The guys are at first pissed and doubtful when their parents announce the release of their "Parents of Dethklok" album, but are then impressed by the depth of their parents' anger.</desc>
-    <category lang="en">Toons</category>
-    <rating system="VCHIP">
-      <value>TV-MA V</value>
-    </rating>
-    <icon src="https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111123419-metalocalypse_107.jpg" />
-    <episode-num system="xmltv_ns">0.6.0/1</episode-num>
-    <date>20060911</date>
   </programme>
 <programme start="20261121181728 +0000" stop="20261121183149 +0000" channel="metalocalypse">
     <title lang="en">Metalocalypse</title>
@@ -46500,13 +46428,6 @@ Early one morning in a deserted area outside of Phoenix, a motorcyclist discover
     <icon src="https://media.cdn.adultswim.com/uploads/20220720/thumbnails/2_22720831482-Primal_011_SeaOfDespair.png" />
     <episode-num system="xmltv_ns">1.0.0/1</episode-num>
     <date>20220722</date>
-  </programme>
-<programme start="20261121174832 +0000" stop="20261121181729 +0000" channel="rick-and-morty">
-    <title lang="en">Rick and Morty</title>
-    <sub-title lang="en">One Crew Over the Crewcoo's Morty</sub-title>
-    <category lang="en">Toons</category>
-    <icon src="https://media.cdn.adultswim.com/uploads/20210914/219141616186-1910281358343-RAM.jpg" />
-    <episode-num system="xmltv_ns">3.2.0/1</episode-num>
   </programme>
 <programme start="20261121181729 +0000" stop="20261121184622 +0000" channel="rick-and-morty">
     <title lang="en">Rick and Morty</title>
@@ -51824,12 +51745,6 @@ There's nothing like a party to stir up decades worth of sibling rivalries, bitt
     <category lang="en">Crime</category>
     <icon src="https://img.vidaahub.com/s3_bucket/60158/live/60158_53ee9b59-581e-4fd2-85b7-51a83adabeca_eaedf12b1-1ec0-4f94-b7c6-8f63f94401cd_1795456301000/9d0f3f469f9edb1e030b0c7519d606df?f=webp&amp;resize=w_480,h_270" />
   </programme>
-<programme start="20261121175140 +0000" stop="20261121181753 +0000" channel="10687">
-    <title lang="en">Episode 75</title>
-    <desc lang="en">"Live PD: Police Patrol" brings viewers an unfiltered look at law enforcement officers in action across America, highlighting the daily life-and-death situations faced by sheriff's departments, highway patrols, and local police departments.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://img.vidaahub.com/s3_bucket/60076/live/60076_5815_ae0bdc89-e4a6-11f1-b3aa-0a9c8934df2b/4cc895b63fc1d7949495aeee4b3b68e8?f=webp&amp;resize=w_480,h_270" />
-  </programme>
 <programme start="20261121181753 +0000" stop="20261121184307 +0000" channel="10687">
     <title lang="en">Episode 109</title>
     <desc lang="en">"Live PD: Police Patrol" brings viewers an unfiltered look at law enforcement officers in action across America, highlighting the daily life-and-death situations faced by sheriff's departments, highway patrols, and local police departments.</desc>
@@ -55072,16 +54987,6 @@ begin to suspect his wife or the gruesome shooting of an elderly couple whose bo
       <value>TV-14</value>
     </rating>
   </programme>
-<programme channel="USBD42000073E" start="20261121172643 +0000" stop="20261121182002 +0000">
-    <title>60 Days In</title>
-    <sub-title>Full Inmate</sub-title>
-    <desc>As the participants approach the midway point, tension and anger grow.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3223620141_0_20260721T192403730Z_65_imageprocessorclient-tvplus-linear-9468c5484-2n2hv.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme channel="USBD42000073E" start="20261121182002 +0000" stop="20261121191323 +0000">
     <title>60 Days In</title>
     <sub-title>Pod Drama</sub-title>
@@ -55632,14 +55537,6 @@ begin to suspect his wife or the gruesome shooting of an elderly couple whose bo
   </programme>
 <programme start="20261123104505 +0000" stop="20261123122157 +0000" channel="whale.1022125030546936766">
     <title lang="en">The Shooting</title>
-  </programme>
-<programme start="20261121173130 +0000" stop="20261121181847 +0000" channel="whale.1022125030546936773">
-    <title lang="en">Falcong</title>
-    <desc lang="en">A day in the life of Giovanni Granati, an Italian falconer and wild animal trainer who lives in the unspoiled countryside of Abruzzo, alongside his hawks, eagles, wolves and other incredible creatures.</desc>
-    <icon src="https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-04-15/d3cd33a27d2bb0e35e0b9dff2272c03f.png.webp" />
-    <rating>
-      <value>G</value>
-    </rating>
   </programme>
 <programme start="20261121181847 +0000" stop="20261121185323 +0000" channel="whale.1022125030546936773">
     <title lang="en">Amour Du Reel</title>
@@ -57053,7 +56950,6 @@ begin to suspect his wife or the gruesome shooting of an elderly couple whose bo
 <programme start="20261123122417 +0000" stop="20261123143816 +0000" channel="6408"><title>Let The Right One In</title><desc>Oskar, an overlooked and bullied boy, finds love and revenge through Eli, a beautiful but peculiar girl.</desc><category>Feature Film</category><icon src="https://ingest-assets.wurl.com/425433/145105658-0.jpeg" /></programme>
 <programme start="20261123143816 +0000" stop="20261123163305 +0000" channel="6408"><title>Kiss Of The Damned</title><desc>A blossoming romance between a vampire and a human is endangered by an unexpected visit.</desc><category>Feature Film</category><icon src="https://ingest-assets.wurl.com/425433/139097172-0.jpeg" /></programme>
 <programme start="20261123163305 +0000" stop="20261123182246 +0000" channel="6408"><title>Monsters</title><desc>After Earth has suffered an alien invasion a journalist escort an American tourist through an infected zone.</desc><category>Feature Film</category><icon src="https://ingest-assets.wurl.com/425433/143236324-0.jpeg" /></programme>
-<programme start="20261121174741 +0000" stop="20261121181740 +0000" channel="6439"><title>Commotion</title><desc>Brennen heads to Kansas after a couple of years of not drawing a tag. After a bunch of scouting on public land and a few non productive sits, it all comes together during a classic rut hunt over a decoy in late November</desc><icon src="https://streaming002.muxip.com/file/thumbnail/0d7a3ef6-2d1e-4812-b597-e56e0348e6e6.jpg" /></programme>
 <programme start="20261121181740 +0000" stop="20261121184912 +0000" channel="6439"><title>Drum Roll</title><desc>Sandy beaches and driftwood make the perfect spot for wading out into the shallows to kick off spring fishing for freshwater drum. Josh is accompanied by newcomer Joe, and teaches him to navigate the lake in hip waders. In an area ripe with cattails, Josh shows Joe how to harvest and pickle these unsuspected treats</desc><icon src="https://streaming002.muxip.com/file/thumbnail/a308fdb0-d5d2-42d9-b254-6d6d9487b1d2.jpg" /></programme>
 <programme start="20261121184912 +0000" stop="20261121191914 +0000" channel="6439"><title>Creative</title><desc>Michael moves to Iowa and it is his first fall hunting Iowa as a resident. After scouting public ground all summer and early fall, things come together for him in November on an awesome hunt over a decoy</desc><icon src="https://streaming002.muxip.com/file/thumbnail/cb83c87c-986d-4e88-9daa-6c840e3fed4e.jpg" /></programme>
 <programme start="20261121191914 +0000" stop="20261121195030 +0000" channel="6439"><title>Andy Bean in Southwest Florida</title><desc>Andy Bean in Southwest Florida</desc><icon src="https://streaming002.muxip.com/file/thumbnail/fa7e4766-4878-48aa-8aa9-6d664e40f6d5.jpg" /></programme>
@@ -57143,163 +57039,6 @@ begin to suspect his wife or the gruesome shooting of an elderly couple whose bo
 <programme start="20261123151219 +0000" stop="20261123154150 +0000" channel="6439"><title>Early Season Panfish</title><desc>Tyler and Sara hit the ice early in a brand-new season of SJTV and breakdown how locate and catch weed edge dwelling panfish.</desc><icon src="https://streaming002.muxip.com/file/thumbnail/a9c462a0-7b24-4963-9ddb-bce818c28295.jpg" /></programme>
 <programme start="20261123154150 +0000" stop="20261123161140 +0000" channel="6439"><title>Florida Forever - Part 1</title><desc>Corey and the family head to Florida for an adventure.</desc><icon src="https://streaming002.muxip.com/file/thumbnail/d6c9c16c-aa21-47be-8772-83fa9dc0bc7e.jpg" /></programme>
 <programme start="20261123161140 +0000" stop="20261123171321 +0000" channel="6439"><title>Giant 8 Point</title><desc>Rye Ludwig takes his first Iowa buck, a giant bodied 8-pointer. Max Mongrello finally tags a great deer on the last day of season.</desc><icon src="https://streaming002.muxip.com/file/thumbnail/afa1dfd4-8319-4411-933a-c8a6756853ca.jpg" /></programme>
-<programme start="20261121180900 +0000" stop="20261121182300 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Discover a world of tiny wonders with these adorable polymer mini crafts! Each creation looks just like the real thingâonly smaller and cuter. From mini food to tiny accessories, these crafts are perfect for creative minds who love all things miniature!</desc><category>Kids</category></programme>
-<programme start="20261121182300 +0000" stop="20261121183900 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Dive into a world of creativity with amazing 3D pen designs and colorful paper crafts! From stunning sculptures to fun DIY projects, these ideas will spark your imagination and inspire endless crafting fun. Perfect for kids who love to build, draw, and create!</desc><category>Kids</category></programme>
-<programme start="20261121183900 +0000" stop="20261121185500 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Spooky Spoon is mixing things again â 4 is on the case.</desc><category>Kids</category></programme>
-<programme start="20261121185500 +0000" stop="20261121191100 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>The Blob makes things go wrong when people canât estimate â 5 to the rescue!</desc><category>Kids</category></programme>
-<programme start="20261121191100 +0000" stop="20261121192700 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>2 is out and about and making everyone count wrongly - 6 is after her!</desc><category>Kids</category></programme>
-<programme start="20261121192700 +0000" stop="20261121194300 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Everything is empty thanks to the Puzzler - 3 helps 5 to fill things up again.</desc><category>Kids</category></programme>
-<programme start="20261121194300 +0000" stop="20261121200500 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Mister Maker packs his Marvellous Maker Case and heads-off for another adventure around the world. Find out how to make a Jungle Jeep in South Africa</desc><category>Kids</category></programme>
-<programme start="20261121200500 +0000" stop="20261121202600 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Join Mister Maker, Scrappz and Tocky for another adventure meeting Mini Makers all around the world. In Australia, discover if he can make some googly eye glasses in a minute; in South Africa, find out what can be created from an old cookie cutter; and in the UK, lots of Mini Makers build a terrific toy picture.</desc><category>Kids</category></programme>
-<programme start="20261121202600 +0000" stop="20261121204700 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Join a globetrotting Mister Maker as he travels the world and meets lots of Mini Makers along the way. In Hong Kong, the Mini Makers help create a brilliant bug picture; in Australia, find out how to make some jolly Jellyfish with drippy paint; and in the UK we see if Mister Maker can make a paper plate hat in under a minute.</desc><category>Kids</category></programme>
-<programme start="20261121204700 +0000" stop="20261121211400 +0000" channel="6585"><title>Slick Slime Sam</title><desc>Real Waterfall in your house! Have you ever dreamed about it? It's not a dream it's a reality! Also today we will show you how to make a Bottle With A Message! Every young pirate captain must have his own Bottle With A Message!</desc><category>DIY</category></programme>
-<programme start="20261121211400 +0000" stop="20261121214100 +0000" channel="6585"><title>Slick Slime Sam</title><desc>Hey, young artists! Today we will organize your own pencil collection! And after that you can immediately start drawing one of the most famous painting in history!</desc><category>DIY</category></programme>
-<programme start="20261121214100 +0000" stop="20261121220700 +0000" channel="6585"><title>Slick Slime Sam</title><desc>Always wanted to have a cool Blaster? It's actually pretty easy to build it. See how to do it in this video! Every great skater must start somewhere, right? So make your own skateboard and start doing cool tricks right now!</desc><category>DIY</category></programme>
-<programme start="20261121220700 +0000" stop="20261121222900 +0000" channel="6585"><title>Slick Slime Sam</title><desc>Want to impress your friends with something unusual? Today we will show you awesome tricks to do! And don't worry, all you need is a little bit of cardboard. You can make a cool game with crocodiles and even a real TV with your favorite cartoons!</desc><category>DIY</category></programme>
-<programme start="20261121222900 +0000" stop="20261121224600 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Fearne and Stephen make a dog kennel that barks back, show how to brighten up your bike in under a minute and make a fantastic game for all chocolate lovers.</desc><category>Kids</category></programme>
-<programme start="20261121224600 +0000" stop="20261121230500 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Get movie-making as Techno Fingertips gives you the know-how to create your own animations. Discover what you can make with just one sheet of paper in under a minute. Hop to it with a game of Fun Fingertips Boule Frog. For all the details on today's makes, you can video the show and play it back later, check our website, or grab a pen and paper to jot it down straight away.</desc><category>Kids</category></programme>
-<programme start="20261121230500 +0000" stop="20261121232200 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>In this episode, Fearne and Stephen guide you through a series of creative and fun projects, including making a 4-fold paper invite in the techno segment, crafting a shower scourer in just one minute, designing a little baseball hat stand, and hosting a shipwreck party.</desc><category>Kids</category></programme>
-<programme start="20261121232200 +0000" stop="20261121233800 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Learn how to make a cash cow, craft lip gloss in just one minute, design stylish wrap-around shades, and enjoy some sporty fun with funky footie.</desc><category>Kids</category></programme>
-<programme start="20261121233800 +0000" stop="20261121235500 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Fearne and Stephen show us how to make a video camera for storing VHSâs. They also show how to make camouflage cakes that are just as colourful on the outside as they are on the inside and how to chill out finger tips style with an la style pool party</desc><category>Kids</category></programme>
-<programme start="20261121235500 +0000" stop="20261122001200 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Naomi and Stephen show you a funky way of saving your souvenirs and come up with a cool way to personalise your own mugs. And find out how to make a great game of blow football with a difference.</desc><category>Kids</category></programme>
-<programme start="20261122001200 +0000" stop="20261122002800 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Unleash your creativity with art projects that everyone can enjoy! Whether you're just starting out or already love to create, these fun and inspiring ideas are perfect for artists of all ages and skill levels. Get ready to paint, draw, and craft your way to something amazing!</desc><category>Kids</category></programme>
-<programme start="20261122002800 +0000" stop="20261122004000 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Transform plastic bottles into cool and creative DIY projects, then put funny craft gadgets and quirky creations to the test! From clever hacks to hilarious experiments, this is crafting like youâve never seen beforeâfun, inventive, and full of surprises!</desc><category>Kids</category></programme>
-<programme start="20261122004000 +0000" stop="20261122005400 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Engage kids with viral activity hacks that turn learning into play, while crafting sentimental gifts like fingerprint jewelry or custom photo frames. These projects build memories while celebrating special family connections.</desc><category>Kids</category></programme>
-<programme start="20261122005400 +0000" stop="20261122011000 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>1 and 0 get out and about and make ten of everything - 5 has got more work to do.</desc><category>Kids</category></programme>
-<programme start="20261122011000 +0000" stop="20261122012600 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>3 is out on her own trying to do battle with the Shape Japer, who doesn't like things in threes.</desc><category>Kids</category></programme>
-<programme start="20261122012600 +0000" stop="20261122014200 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>There's only one of everything, thanks to the Numbertaker - 6 sorts things with help from 1</desc><category>Kids</category></programme>
-<programme start="20261122014200 +0000" stop="20261122015800 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>The Numbertaker likes two lots of three today - 6 is the Numberjack to sort him out.</desc><category>Kids</category></programme>
-<programme start="20261122015800 +0000" stop="20261122021400 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>The Share Japer is after things that come in eights â 4 is on the mission.</desc><category>Kids</category></programme>
-<programme start="20261122021400 +0000" stop="20261122023000 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Arguments over sharing and fractions lead to split objects. With Brain Gain, Numberjacks put things back together and teach the value of fractions.</desc><category>Kids</category></programme>
-<programme start="20261122023000 +0000" stop="20261122025100 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Join Mister Maker on a whistle-stop tour of the world meetings lots of Mini Makers along the way. In Australia, we find out if he can make a recycled robot in under a minute; in South Africa we discover how to make fabulous fireworks from pipe cleaners and paint; and the UK Mini Makers help create a brilliant canal boat scene.</desc><category>Kids</category></programme>
-<programme start="20261122025100 +0000" stop="20261122031200 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Join Mister Maker, Scrappz and Tocky for another adventure meeting Mini Makers all around the world. In Australia, we find out whether he can make a funny fur monster in under a minute; in the UK a Mini Maker gets in an arty twirl with paper, glue and a pen; and in South Africa discover how to make a colourful helicopter with recycled packaging and paper.</desc><category>Kids</category></programme>
-<programme start="20261122031200 +0000" stop="20261122033400 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Mister Maker packs his Marvellous Maker Case and heads-off for another adventure around the world. In Australia, find out how to make a beaky bird in under a minute; in the UK discover how to create an amazing art box to keep your pens and pencils safe; and in Hong Kong a Mini Maker has fun with some lovely colourful letters.</desc><category>Kids</category></programme>
-<programme start="20261122033400 +0000" stop="20261122035500 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Join Mister Maker, Scrappz and Tocky for another adventure meeting lots of friends all around the world. In South Africa the Mini Makers create a huge sand castle on a beach; in Australia find out if he can make a cute cup creature in under a minute; and in Brazil a Mini Maker discovers how a plant spray can make a fabulous rain forest picture.</desc><category>Kids</category></programme>
-<programme start="20261122035500 +0000" stop="20261122041400 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>You'll be bowled over when we show you how to make one of these colorful bowls without any painting. Discover what's mystic about Food Fingertips Mystic Muffinsâthey're tasty and hold a surprise. Learn how to have Boogey Boarding Fun, without any water. For all the details on today's makes, you can video the show and play it back later, check our website, or grab a pen and paper to jot it down straight away.</desc><category>Kids</category></programme>
-<programme start="20261122041400 +0000" stop="20261122042700 +0000" channel="6585"><title>Imagine PlayWorld</title><category>Kids</category></programme>
-<programme start="20261122042700 +0000" stop="20261122044300 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Fearne and Stephen show how to brighten up your old lunchboxes and add new tasty treats play mouse maize on your computer and make a fly swatting game.</desc><category>Kids</category></programme>
-<programme start="20261122044300 +0000" stop="20261122050200 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Grab your old trainers because in Green Fingertips, we're planting these friendly herb nerds. Be amazed as we show you how to turn boring old safety pins into fantastic jewelry. Practice your skating skills as we guide you through making the Fun Fingertips Fingerboard Skate Park. For all the details on today's makes, you can video the show and play it back later, check our website, or grab a pen and paper to jot it down straight away.</desc><category>Kids</category></programme>
-<programme start="20261122050200 +0000" stop="20261122051900 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>In this episode, Fearne and Stephen guide you through a series of inventive and fun projects. Learn how to make an athleteâs footlocker to keep your sports gear organized, craft a sticky tape skate in just one minute, design a little project called âget knotted,â and host a thrilling house of horror party.</desc><category>Kids</category></programme>
-<programme start="20261122051900 +0000" stop="20261122053500 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Learn how to send a message in a bottle, craft a ghostly levitator in just one minute, explore the world of technology by being a twin, and enjoy some playful fun with lazy legs.</desc><category>Kids</category></programme>
-<programme start="20261122053500 +0000" stop="20261122054900 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Hi, crafty parents! We prepared a lot of fun ways to entertain your kids. Some of them are cheaper, some of them are more expensive. But we ensure you that your kids will love these activities.</desc><category>Kids</category></programme>
-<programme start="20261122054900 +0000" stop="20261122060300 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Discover game-changing tips and clever tricks that will save you time, effort, and stress in the kitchenâfrom quick fixes to brilliant organization hacks. Your cooking routine is about to get a whole lot smarter!</desc><category>Kids</category></programme>
-<programme start="20261122060300 +0000" stop="20261122061600 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Discover the coolest egg hacks and clever gadgets that will totally change the way you cook and play with eggs! From fun kitchen tricks to surprising DIY ideas, these egg-citing creations are easy, smart, and so much fun to try!</desc><category>Kids</category></programme>
-<programme start="20261122061600 +0000" stop="20261122063200 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>The Problem Blob causes individuals to restart counting, leading to frustration. Numberjacks use Brain Gain to encourage continuous counting.</desc><category>Kids</category></programme>
-<programme start="20261122063200 +0000" stop="20261122064800 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Numberjacks tackle unbalanced numbers caused by the Puzzler's antics. Through clever solutions, they restore balance and defeat the Puzzler.</desc><category>Kids</category></programme>
-<programme start="20261122064800 +0000" stop="20261122070400 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Sensible actions become strange, prompting Numberjack 4's intervention. With puzzles to solve, the Puzzler admits defeat, and order is restored.</desc><category>Kids</category></programme>
-<programme start="20261122070400 +0000" stop="20261122072000 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Shapes transform into cylinders, causing chaos. With Numberjack 5's assistance, various cylinder-related issues are resolved, and the Shape Japer is defeated.</desc><category>Kids</category></programme>
-<programme start="20261122072000 +0000" stop="20261122074100 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Join a globetrotting Mister Maker as he travels the world and meets lots of Mini Makers along the way. In Hong Kong, we go crazy with card tubes, tissue and paint; in Australia we find out if a camera can be made from lots of junk in under a minute; and South Africa the Mini Makers help create a colourful chameleon picture.</desc><category>Kids</category></programme>
-<programme start="20261122074100 +0000" stop="20261122080200 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Mister Maker packs his Marvellous Maker Case and heads-off for another adventure around the world. In the UK, find out how to make a clever corner creature in under a minute; in Hong Kong discover how to create a brilliant bottle bird and a tropical big picture; and in South Africa a Mini Maker has fun with some colourful tissue paper pieces.</desc><category>Kids</category></programme>
-<programme start="20261122080200 +0000" stop="20261122082300 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Join Mister Maker on a whistle-stop tour of the world meetings lots of Mini Makers along the way. In the UK, we find out if he can make a cheeky apple surprise in under a minute; the Mini Makers build a super crocodile swamp in South America; and in South Africa, look out for a sensational silhouette inspired by a graceful giraffe.</desc><category>Kids</category></programme>
-<programme start="20261122082300 +0000" stop="20261122084400 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Join a globetrotting Mister Maker as he travels the world and meets lots of Mini Makers along the way. In South America, we get busy with bright scraps of paper; in Australia we find out if a card tube creature can be made in under a minute; and in the UK the Mini Makers help create a mountain of yummy cakes.</desc><category>Kids</category></programme>
-<programme start="20261122084400 +0000" stop="20261122090100 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Learn how to make a Tidysaurus to keep your space organized, craft a delicious splat pizza, create a CD dangle in just one minute, and enjoy some playful fun with a meatball activity.</desc><category>Kids</category></programme>
-<programme start="20261122090100 +0000" stop="20261122092000 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>See if you can guess what this will become in today's One Minute Make. In Food Fingertips, we'll show you how to cast yourself away with a tropical banana dessert. In Techno Fingertips, find out how to use your computer to send a secret message. For all the details on today's makes, you can video the show and play it back later, check our website, or grab a pen and paper to jot it down straight away.</desc><category>Kids</category></programme>
-<programme start="20261122092000 +0000" stop="20261122093700 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Join Fearne and Stephen for a super fun episode where they make all sorts of cool stuff! First, they build a cute little beachcomber hut, perfect for any beach adventure. Next, they turn a matchbox top into a tiny treasure. Then, they make some comfy t-shirt cushions that are just right for snuggling. Finally, they put together an awesome X-ray telescope to explore the stars.</desc><category>Kids</category></programme>
-<programme start="20261122093700 +0000" stop="20261122095300 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>In this episode, Fearne and Stephen guide you through a series of creative and fun projects. Learn how to make delicious freezer cookies with food finger tips, craft a bedroom burglar in just one minute, and host a magical enchanted forest party.</desc><category>Kids</category></programme>
-<programme start="20261122095300 +0000" stop="20261122101000 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Learn how to transform your nighttime reading with a custom-made bedtime torch light that conveniently attaches to the top of your books. Elevate your mobile experience by crafting a miniature deck chair designed to hold your phone in style. Connect with friends and family through an inventive communication line, and launch into fun with the thrilling cosmic catapult game.</desc><category>Kids</category></programme>
-<programme start="20261122101000 +0000" stop="20261122103900 +0000" channel="6585"><title>Slick Slime Sam</title><desc>These playful recipes transform kitchen time into imaginative adventures, blending real cooking skills with whimsical presentation. From towering candy cakes to bite-sized faux sushi, every creation promises delicious creativity for kids and adults alike!</desc><category>DIY</category></programme>
-<programme start="20261122103900 +0000" stop="20261122110000 +0000" channel="6585"><title>Slick Slime Sam</title><desc>These projects cater to different artistic moods â one offering a calming, detail-oriented process and the other an energetic creative burst. Both tutorials provide pro tips to elevate your artwork, whether you prefer meditative scenes or action-packed illustrations!</desc><category>DIY</category></programme>
-<programme start="20261122110000 +0000" stop="20261122112500 +0000" channel="6585"><title>Slick Slime Sam</title><desc>If you are a fan of the Among Us game, then you will definitely like these crafts! And the coolest thing is that they are mostly made of cardboard, which every house has!</desc><category>DIY</category></programme>
-<programme start="20261122112500 +0000" stop="20261122114900 +0000" channel="6585"><title>Slick Slime Sam</title><desc>Fun games for your pets! Our hamster loved them! Check it out right now!</desc><category>DIY</category></programme>
-<programme start="20261122114900 +0000" stop="20261122121000 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>In todayâs super seaside party, find out how to make a fabulous rock pool with gloopy glue, wax crayons and play sandâ¦ and discover the strange way the artist J.M. W. Turner painted a very stormy sea.</desc><category>Kids</category></programme>
-<programme start="20261122121000 +0000" stop="20261122123100 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>In the Party Pad today, find out how to make a sparkly galaxy that glitters, and discover how, in ancient times, sea snails were used to create the colour purple.</desc><category>Kids</category></programme>
-<programme start="20261122123100 +0000" stop="20261122124400 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Check out different drawing methods and choose the one you like!</desc><category>Entertainment</category></programme>
-<programme start="20261122124400 +0000" stop="20261122125800 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Cool ways to upgrade regular phone cases!</desc><category>Kids</category></programme>
-<programme start="20261122125800 +0000" stop="20261122131500 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Finding the perfect Mother's Day gift is never easy, so it's important to have more options. In this video you'll find Mother's Day ideas that can inspire you.</desc><category>Kids</category></programme>
-<programme start="20261122131500 +0000" stop="20261122133400 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Valuable hacks for the best moms and dads.</desc><category>Kids</category></programme>
-<programme start="20261122133400 +0000" stop="20261122135500 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Join Sid and Rebecca in another exciting episode of Letâs Play. Step through the magic curtain with Rebecca on a culinary adventure in a restaurant. Has she got what it takes to be a top chef? Will she impress a tricky food critic? Find out as you play along with her in todayâs show.</desc><category>Kids</category></programme>
-<programme start="20261122135500 +0000" stop="20261122141600 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Join Sid and Rebecca in another episode of Letâs Play. Today Rebecca steps through the Magic Curtain and finds herself in a marathon. Has she got what it takes to be a long distance runner, what should she wear and can she make it to the end of the race? Find out as you play along with this exciting adventure.</desc><category>Kids</category></programme>
-<programme start="20261122141600 +0000" stop="20261122143000 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Today we decided to please you with the cooking of absolutely unusual cocktails. They are unusual because they will be made of absolutely inedible objects. If you think this is impossible, we will prove you otherwise!</desc><category>Kids</category></programme>
-<programme start="20261122143000 +0000" stop="20261122144700 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Do you like tea? What's your favorite dessert? It is always pleasant to drink tea with something sweet. Hardly anyone has ever given up on a piece of chocolate or sweet cake.</desc><category>Kids</category></programme>
-<programme start="20261122144700 +0000" stop="20261122150100 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Who has a birthday today? It's time to make a birthday cake!</desc><category>Kids</category></programme>
-<programme start="20261122150100 +0000" stop="20261122151700 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Today we also decided to feed ourselves a sandwich! Unusual, of course. As you understand, we rarely prepare something standard.</desc><category>Kids</category></programme>
-<programme start="20261122151700 +0000" stop="20261122153000 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Now you can impress your family and friends with your cooking skills thanks to these easy and delicious recipes.</desc><category>Kids</category></programme>
-<programme start="20261122153000 +0000" stop="20261122154300 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Check out some miniature crafts! They look incredible!</desc><category>Kids</category></programme>
-<programme start="20261122154300 +0000" stop="20261122155900 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Paper is a perfect material for crafting. First of all, this way of crafting is perfect for families with little kids, because it's absolutely safe and not messy, and secondly, it costs you nothing. Today, we prepared for you a lot of awesome paper crafts and hacks.</desc><category>Kids</category></programme>
-<programme start="20261122155900 +0000" stop="20261122161400 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Are you bored? We've prepared cool flying crafts and paper experiments you'll want to try! Moreover, here you'll find clever ways to recycle your paper leftovers and make amazing crafts out of them.</desc><category>Kids</category></programme>
-<programme start="20261122161400 +0000" stop="20261122163500 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>In the Party Pad today, you can find out how to make some amazing drippy flowers, and discover how Jackson Pollock used drips and drops to make marvellous masterpieces.</desc><category>Kids</category></programme>
-<programme start="20261122163500 +0000" stop="20261122165600 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Find out how to make brilliant bug pictures from leftover torn paper pieces, and discover how a very special beetle was once used to create the colour red.</desc><category>Kids</category></programme>
-<programme start="20261122165600 +0000" stop="20261122171500 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>This is the show with everything you could ever want to make or do right at your finger tips. Fearne and Stephen show how to make the fantastic Finger Tips two half shark get juggling in under a minute and create a tasty treat by making Artic Banana Choc.</desc><category>Kids</category></programme>
-<programme start="20261122171500 +0000" stop="20261122173400 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>See if you can guess what this will become in under a minute. In Techno Fingertips, we give you the know-how to send miniature secret messages. Enjoy all the thrills and spills of a race track with the Fingertips Champion Sports Party complete with snail racing. For all the details on today's makes, you can video the show and play it back later, check our website, or grab a pen and paper to jot it down straight away.</desc><category>Kids</category></programme>
-<programme start="20261122173400 +0000" stop="20261122175300 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>A brand new show with everything you could ever want to make or do right at your finger tips. Fearne and Stephen make a money box safe, try and make a hopping frog in under a minute, and show how to make a piÃ±ata for a smashing good party.</desc><category>Kids</category></programme>
-<programme start="20261122175300 +0000" stop="20261122181200 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>The show with everything you could ever want to make or do right at our Finger tips. Fearne and Stephen make a pizza delivery that will always be on time, show how to crack more cryptic clues and help to make your party a spine chilling success.</desc><category>Kids</category></programme>
-<programme start="20261122181200 +0000" stop="20261122183300 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Join Sid and Rebecca in a Letâs Play adventure on the beat. Has Rebecca got what it takes to be a police officer? Will she find the missing cat Tiddles and return the mystery bone to its owner before it is time to head home? Find out as you play along with her in todayâs show.</desc><category>Kids</category></programme>
-<programme start="20261122183300 +0000" stop="20261122185400 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Join Sid and Rebecca as they go on an underwater journey in todayâs episode of Letâs Play. Can Rebecca find the missing shipwrecked treasure or, will a cheeky octopus or shark chase her off before it is time to head home? Find out as you play along with her scuba diving adventure.</desc><category>Kids</category></programme>
-<programme start="20261122185400 +0000" stop="20261122192200 +0000" channel="6585"><title>Slick Slime Sam</title><desc>Hamsters love to have fun too! And we made two cardboard mazes with obstacles for our furry friends. It looks like now the hamsters are delighted!</desc><category>DIY</category></programme>
-<programme start="20261122192200 +0000" stop="20261122194600 +0000" channel="6585"><title>Slick Slime Sam</title><desc>Cardboard is a unique material! In this video we will show you how to craft cool cardboard suitcase for money and incredible music machine out of it!</desc><category>DIY</category></programme>
-<programme start="20261122194700 +0000" stop="20261122200000 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Awesome hacks and excellent crafts to make your parenting life fun and easy.</desc><category>Kids</category></programme>
-<programme start="20261122200000 +0000" stop="20261122201300 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Parenting is easier with these brilliant hacks! In this video, we showed healthy snacks for kids, useful bathroom hacks, and amazing crafts you can make with your kids!</desc><category>Kids</category></programme>
-<programme start="20261122201300 +0000" stop="20261122202500 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Beautiful crafts with epoxy resin, soap and candles.</desc><category>Kids</category></programme>
-<programme start="20261122202500 +0000" stop="20261122203800 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>We've prepared useful pet gadgets and hacks that will make your life easier.</desc><category>Kids</category></programme>
-<programme start="20261122203800 +0000" stop="20261122205200 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Our salad recipe is very simple! All the ingredients as you guessed it, we will take from everyday objects! Yes, we won't even go to the supermarket!</desc><category>Kids</category></programme>
-<programme start="20261122205200 +0000" stop="20261122210500 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>If you are an alien, then your menu is slightly different from the menu of ordinary people. Want to know what real aliens eat? After all, today we have two cute aliens who are very eager to eat and are ready to share their recipes!</desc><category>Kids</category></programme>
-<programme start="20261122210500 +0000" stop="20261122213500 +0000" channel="6585"><title>Slick Slime Sam</title><desc>How to make cool robots from everyday items? We will tell you right now! Sam and Sue have 2 amazing tutorials for you. Don't miss!</desc><category>DIY</category></programme>
-<programme start="20261122213500 +0000" stop="20261122220000 +0000" channel="6585"><title>Slick Slime Sam</title><desc>How to make unusual lamps in the shape of a princess castle or a lamp inspired by a popular cartoon? Choose what you like best in our video!</desc><category>DIY</category></programme>
-<programme start="20261122220000 +0000" stop="20261122223000 +0000" channel="6585"><title>Slick Slime Sam</title><desc>In this video, you will learn how to make unusual paper cases for sweets, as well as origami Star Wars characters!</desc><category>DIY</category></programme>
-<programme start="20261122223000 +0000" stop="20261122225400 +0000" channel="6585"><title>Slick Slime Sam</title><desc>Easy hacks to turn boring shoes into works of art!</desc><category>DIY</category></programme>
-<programme start="20261122225400 +0000" stop="20261122232100 +0000" channel="6585"><title>Slick Slime Sam</title><desc>How about to assemble colorful puzzles? Ready to see a cute unicorn or a majestic lion? Let's go!</desc><category>DIY</category></programme>
-<programme start="20261122232100 +0000" stop="20261122234200 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Find out how to make colorful tissue buildings, and discover how Michelangelo was able to paint a very high ceiling in an extra special building.</desc><category>Kids</category></programme>
-<programme start="20261122234200 +0000" stop="20261123000400 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Everyoneâs invited, so find out how to make brightly coloured curly creations with paper and paint, and discover how a whirling spinning wheel made a pottersâ life much easier.</desc><category>Kids</category></programme>
-<programme start="20261123000400 +0000" stop="20261123002500 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Join Sid and Rebecca in an exciting episode of Letâs Play. Sid steps through the Magic Curtain and takes to the sky. Has he got what it takes to be a stunt pilot? Can he perform a loop the loop and a barrel roll in an air show? Find out as you play along with him in todayâs show.</desc><category>Kids</category></programme>
-<programme start="20261123002500 +0000" stop="20261123004600 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Join Sid and Rebecca in a brand new episode of Letâs Play. See what happens when Sid steps through the Magic Curtain and finds himself outside a Royal Palace. Has he got what it takes to be King for a day and help the Queen with her duties? Find out what happens as you play along in todayâs adventure.</desc><category>Kids</category></programme>
-<programme start="20261123004600 +0000" stop="20261123010700 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Join Sid and Rebecca in an exciting episode of Letâs Play. Sid steps through the magic curtain today on a postal adventure. Has he got what it takes to be a postman and deliver a special birthday card in time for little Billyâs birthday? Find out as you play along with him in todayâs adventure.</desc><category>Kids</category></programme>
-<programme start="20261123010700 +0000" stop="20261123013300 +0000" channel="6585"><title>Slick Slime Sam</title><desc>These pictures were created in interesting ways, but nevertheless they look just amazing! Check them out!</desc><category>DIY</category></programme>
-<programme start="20261123013300 +0000" stop="20261123020000 +0000" channel="6585"><title>Slick Slime Sam</title><desc>Do you love Lego? Then you will definitely like our cool Lego style crafts! Cool car and incredible figurine!</desc><category>DIY</category></programme>
-<programme start="20261123020000 +0000" stop="20261123023000 +0000" channel="6585"><title>Slick Slime Sam</title><desc>Your hamsters probably want to have fun too! So let's make a cool flying saucer and an unusual maze for them!</desc><category>DIY</category></programme>
-<programme start="20261123023000 +0000" stop="20261123024400 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Today we have prepared a new video full of important and useful hacks for your pets.</desc><category>Kids</category></programme>
-<programme start="20261123024400 +0000" stop="20261123025700 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>You can make rainbow crafts or decorate your old stuff to make your life a little bit brighter!</desc><category>Kids</category></programme>
-<programme start="20261123025700 +0000" stop="20261123031200 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Today we will share with you a portion of new rainbow crafts and DIYs that you should try!</desc><category>Kids</category></programme>
-<programme start="20261123031200 +0000" stop="20261123032500 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>It's amazing how many cool and useful things you can make with epoxy, hot glue, and polymer clay! Accessories, jewelry and more! Watch, repeat, craft!</desc><category>Kids</category></programme>
-<programme start="20261123032500 +0000" stop="20261123034000 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Tell me, who doesn't like burgers? Burgers are simply impossible not to love! And even if you cook it from everyday objects, the feeling will not change!</desc><category>Kids</category></programme>
-<programme start="20261123034000 +0000" stop="20261123035600 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>What should be Cyberpunk food? Undoubtedly made of metal, tools, and mechanisms! But how to cook it? We'll show you today in our extraordinary video tutorial.</desc><category>Kids</category></programme>
-<programme start="20261123035600 +0000" stop="20261123041500 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Today we are going to make incredible DIY characters from ordinary products.</desc><category>Kids</category></programme>
-<programme start="20261123041500 +0000" stop="20261123043000 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Let's make a healthy game-day food spread that hungry sports fans will love.</desc><category>Kids</category></programme>
-<programme start="20261123043000 +0000" stop="20261123045100 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Join Sid and Rebecca in another episode of Letâs Play. Sid steps through the Magic Curtain today on a veterinary adventure. Has he got what it takes to be a vet and cure all the sick animals before the end of the day? Find out as you play along with him in todayâs show.</desc><category>Kids</category></programme>
-<programme start="20261123045100 +0000" stop="20261123051100 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Join Sid and Rebecca in a brand new episode of Letâs Play. Has Rebecca got what it takes to be a mechanic? Can she find out whatâs wrong with a broken-down car, and will she mend it before its grumpy owner Mr Big Shot returns? Find out as you play along with her in todayâs show.</desc><category>Kids</category></programme>
-<programme start="20261123051100 +0000" stop="20261123053200 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Join Sid and Rebecca in Letâs Play. Step through the Magic Curtainn with Sid to a windswept farm. Can he round up the escaped chickens, sheep and pig before a party of school children arrive to visit? Find out as you play along at being a Farmer with him in todayâs show.</desc><category>Kids</category></programme>
-<programme start="20261123053200 +0000" stop="20261123060100 +0000" channel="6585"><title>Slick Slime Sam</title><desc>Want to make your hamster happy? Then build him a house, and then a water park! He will love it!</desc><category>DIY</category></programme>
-<programme start="20261123060100 +0000" stop="20261123064000 +0000" channel="6585"><title>Slick Slime Sam</title><desc>Let's find out what cool cardboard mazes you can craft for your favorite hamster! Let's go!</desc><category>DIY</category></programme>
-<programme start="20261123064000 +0000" stop="20261123071600 +0000" channel="6585"><title>Slick Slime Sam</title><desc>Lamps can not only be bought, but also crafted on your own! How? Find out in this video!</desc><category>DIY</category></programme>
-<programme start="20261123071600 +0000" stop="20261123074000 +0000" channel="6585"><title>Slick Slime Sam</title><desc>In this video you will see how we craft plush Mr. Meeseeks and fantastic Spider-Man mask! So, join watching!</desc><category>DIY</category></programme>
-<programme start="20261123074000 +0000" stop="20261123080100 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Find out how to make patterned animal pictures, and discover how cave people painted thousands of years ago.</desc><category>Kids</category></programme>
-<programme start="20261123080100 +0000" stop="20261123082200 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Find out how to make unusual colourful printed patterns, and discover how Georges Seurat made a famous spotty painting with lots of dots.</desc><category>Kids</category></programme>
-<programme start="20261123082200 +0000" stop="20261123084300 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Discover how to make torn paper pictures and find out how a plant was once used to make the color blue.</desc><category>Kids</category></programme>
-<programme start="20261123084300 +0000" stop="20261123085700 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>What if you could cook any meal without food in the refrigerator? For example, you found the product you need on your tablet, and it's instantly on your kitchen table! In real life, it is impossible, but everything is possible with us!</desc><category>Kids</category></programme>
-<programme start="20261123085700 +0000" stop="20261123091300 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Look closer at the things you wanted to throw away â what's there? I bet there are cans, cardboard boxes and old toys... Did you know that you can turn all this (seemingly) useless stuff into something really cool and exciting?</desc><category>Kids</category></programme>
-<programme start="20261123091300 +0000" stop="20261123093200 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>The show with everything you could ever want to make or do right at your Fingertips! Fearne and Stephen make a great CD storing dinosaur, get baking the Finger Tips Stain glass biscuits and show how to leave footprints on the ceiling without turning upside down!</desc><category>Kids</category></programme>
-<programme start="20261123093200 +0000" stop="20261123095100 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>The show with everything you could ever want to make or do right at your Fingertips! Fearne and Stephen make a very hungry houseplant, show how to make fantastic presents out of rubbish and introduce the Fingertips pet"!</desc><category>Kids</category></programme>
-<programme start="20261123095100 +0000" stop="20261123101000 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>The show with everything you could ever want to make or do right at your Fingertips! Fearne and Stephen show how to make a heavyweight room guard, balance anything form a jet to an elephant and get baking in plant pots.</desc><category>Kids</category></programme>
-<programme start="20261123101000 +0000" stop="20261123102800 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>The show with everything you could ever want to make or do right at your fingertips! Fearne and Stephen show you how you can chart your favourite teamâs success with the fingertips football league ladder scarf, plant a tropical paradise and have loads of ideas for an underwater party.</desc><category>Kids</category></programme>
-<programme start="20261123102800 +0000" stop="20261123105400 +0000" channel="6585"><title>Slick Slime Sam</title><desc>Do you want to surprise your guests? Make a yummy jelly cake! Today we'll show you step-by-step instructions on how to cook fantastic fruit cake that you can easily repeat.</desc><category>DIY</category></programme>
-<programme start="20261123105400 +0000" stop="20261123111700 +0000" channel="6585"><title>Slick Slime Sam</title><desc>Building a miniature house is easy! In this video, you'll see how to create a house inspired by the Encanto animated movie and a house for Princess Belle!</desc><category>DIY</category></programme>
-<programme start="20261123111700 +0000" stop="20261123114700 +0000" channel="6585"><title>Slick Slime Sam</title><desc>Giving gifts is great! Especially if these are handmade gifts. Today we will show you how to craft cute keychains, t-shirts or personalized mugs for your best friends!</desc><category>DIY</category></programme>
-<programme start="20261123114700 +0000" stop="20261123122200 +0000" channel="6585"><title>Slick Slime Sam</title><desc>To please your friends, it is not necessary to buy gifts, you can create them yourself! Today we'll show you how to craft cool phone cases, a fortune ball, or a photo album!</desc><category>DIY</category></programme>
-<programme start="20261123122200 +0000" stop="20261123124300 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>In the Party Pad today, you can find out how to make nifty picture, by printing with square sponge pieces, and discover how Ancient Romans used square mosaics to protect their homes.</desc><category>Kids</category></programme>
-<programme start="20261123124300 +0000" stop="20261123130400 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>In the Party Pad today, find out how to make a fantastic doodle picture by drawing around interestingly-shaped objects, and discover how artist Paul Klee doodled by taking a line for a walk.</desc><category>Kids</category></programme>
-<programme start="20261123130400 +0000" stop="20261123131700 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>WOW! In this video, you'll find easy science experiments to amaze your classmates and useful school hacks that will make your studying fun and easy! Moreover, we showed amazing painting techniques, and DIY school supplies for smart students.</desc><category>Kids</category></programme>
-<programme start="20261123131700 +0000" stop="20261123133200 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Today we will show you lots of useful hacks you can use in your daily life! You will learn how to clean your sneakers with a regular eraser, change your school grades, organize your stationery and other stuff.</desc><category>Kids</category></programme>
-<programme start="20261123133200 +0000" stop="20261123134600 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Just look at these incredible gadgets and hacks for your favorite pets! Your furry friends will love it!</desc><category>Kids</category></programme>
-<programme start="20261123134600 +0000" stop="20261123140300 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Every house has a lot of unnecessary junk. Someone throws it away, someone sells it, someone gives it, and someone keeps it. For example, this is us! Because we know that even old stuff can be transformed into something unusual.</desc><category>Kids</category></programme>
-<programme start="20261123140300 +0000" stop="20261123142400 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Join Sid and Rebecca in an exciting new episode of Letâs Play. Today Rebecca steps through the Magic Curtain and goes back in time to the days of cavemen and women. Can she find paint for a cavemanâs painting, and what happens when she tries riding a mammoth? Find out as you play along with her in the show.</desc><category>Kids</category></programme>
-<programme start="20261123142400 +0000" stop="20261123144500 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Join Sid and Rebecca in Letâs Play. Sid steps through the Magic Curtain and goes out into the wild. Has he got what it takes to be an Animal Ranger and track down a missing elephant before it is time to head home? Play along with him in todayâs show.</desc><category>Kids</category></programme>
-<programme start="20261123144500 +0000" stop="20261123150600 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Join Sid and Rebecca in a new series of Letâs Play. Rebecca steps through the Magic Curtain today to play builders. Has she got what it takes to be a brilliant builder? Can she build a bandstand in time for the great composerâs concert? Find out as you play along with her in todayâs show.</desc><category>Kids</category></programme>
-<programme start="20261123150600 +0000" stop="20261123152800 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Join Sid and Rebecca as they go back in time in todayâs episode of Letâs Play. See what happens when Sid steps through the Magic Curtain and finds himself in Ancient Egypt. How will he understand the Pharaohâs old-fashioned shopping list and how will he climb the pyramid alone when it is against the law? Find out as you play along today.</desc><category>Kids</category></programme>
-<programme start="20261123152800 +0000" stop="20261123154200 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>What do you do now? You got a bad grade... Of course, it's cooking something tasty from it!</desc><category>Kids</category></programme>
-<programme start="20261123154200 +0000" stop="20261123155900 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>We ran out of all fresh foodâ¦Everything in the fridge is rotten! But the chef did not lose his head and prepared a dishes of spoiled products!</desc><category>Kids</category></programme>
-<programme start="20261123155900 +0000" stop="20261123161400 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>If you are an Elf, then your diet should be different from the food of ordinary people! You should love everything connected with the forest! So today we have prepared a real elven eco-friendly dinner. Can you guess what we have cooked? So, in our cooking, we used only natural products. These are rocks, wood, insects, and worms.</desc><category>Kids</category></programme>
-<programme start="20261123161400 +0000" stop="20261123163000 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>So today we wanted to cook something interesting and unusual. And of course, we already have a perfect idea! Seafood with vegetables. Delicious, flavorful, and of course, extraordinary!</desc><category>Kids</category></programme>
-<programme start="20261123163000 +0000" stop="20261123164400 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Make parenting and pregnancy easier! We've prepared smart parenting hacks to avoid awkward situations and useful crafts to teach your kids useful skills!</desc><category>Kids</category></programme>
-<programme start="20261123164400 +0000" stop="20261123165700 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Get yourself into a cool mood with these rainbow crafts! Here you will see interesting drawing methods, colorful crafts, and interesting life hacks that everyone will love!</desc><category>Kids</category></programme>
-<programme start="20261123165700 +0000" stop="20261123171800 +0000" channel="6585"><title>Imagine PlayWorld</title><desc>Find out how to make glorious glitter webs with crazy critters, and discover how buildings shimmered and shone before gold paint was invented.</desc><category>Kids</category></programme>
-<programme start="20261121174900 +0000" stop="20261121181700 +0000" channel="7041"><title>Inside the Masters of Dirt</title><desc>The Masters of Dirt crew invades Audi Nines, one of the world's most prestigious mountain bike events to showcase some never-before-seen tricks and recruit a new rider to join the team.</desc><category>Sports</category></programme>
-<programme start="20261121181700 +0000" stop="20261121184300 +0000" channel="7041"><title>Supercar Showdown</title><desc>The rookies are being pushed to the limit on the go kart track. They have to demonstrate some serious driving skills, with the go karts capable of reaching speeds of more than 100 kilometres an hour!</desc><category>Cars and Motoring</category></programme>
-<programme start="20261121184300 +0000" stop="20261121191000 +0000" channel="7041"><title>Supercar Showdown</title><desc>The rookies find out theyâre going to be under extra pressure. The boss of Ford Performance Racing Tim Edwards will be at the track watching their performances. One bad run could be the end of their dream to drive a V8 Supercar.</desc><category>Cars and Motoring</category></programme>
-<programme start="20261121191000 +0000" stop="20261121193500 +0000" channel="7041"><title>Supercar Showdown</title><desc>The 8 rookies sweat it out in a gruelling series of fitness challenges and a start line challenge tests the rookies on a wet Calder Park track.</desc><category>Cars and Motoring</category></programme>
-<programme start="20261121193500 +0000" stop="20261121203600 +0000" channel="7041"><title>King of the Hammers: The Ultra4 Saga</title><desc>Last year's champion, Erik Miller defends his title. While 2nd place finisher, Jason Scherer, will be one of the many top challengers aiming to beat him.</desc><category>Sports</category></programme>
-<programme start="20261121203600 +0000" stop="20261121213700 +0000" channel="7041"><title>King of the Hammers: The Ultra4 Saga</title><desc>We follow Shannon Campbell, the first 3-time champion of the King of the Hammers. But his kids, also young drivers, push their dad to the brink of his limits.</desc><category>Sports</category></programme>
-<programme start="20261121213700 +0000" stop="20261121223900 +0000" channel="7041"><title>King of the Hammers: The Ultra4 Saga</title><desc>It's mud, sweat, and gears as drivers battle it out in the toughest Ultra 4 race yet.</desc><category>Sports</category></programme>
-<programme start="20261121223900 +0000" stop="20261121235800 +0000" channel="7041"><title>Unknown</title><desc>Franco Morbidelli enters MotoGP as Moto2 World Champion. Now, the graduate of Valentino Rossiâs Riders Academy could be set for a debut to remember.</desc><category>Sports</category></programme>
-<programme start="20261121235800 +0000" stop="20261122002600 +0000" channel="7041"><title>Monster: Against All Odds</title><desc>Romain Febvre hit rock bottom in the years following his first world title, but he returned to the very top in the 2021 FIM Motocross World Championship. The Grand Prix of France was a specific highlight.</desc><category>Sports</category></programme>
 <programme start="20261121175749 +0000" stop="20261121185800 +0000" channel="7531"><title>Defenseless Victim</title><desc>The Prosecutors explores the complexities of the American criminal justice system through the eyes of the most powerful person in the criminal courts, the prosecuting attorney. This is more than a series about homicide, these are the stories of dedicated men and women who confront human predators to find justice for the victims of tragedy.</desc><category>Documentary, General</category><icon src="https://partner-upload-assets.wurl.com/videoelephant_limited/MT_TheProsecutors_S02.jpg" /></programme>
 <programme start="20261121185800 +0000" stop="20261121195810 +0000" channel="7531"><title>An Unlikely Suspect</title><desc>The Prosecutors explores the complexities of the American criminal justice system through the eyes of the most powerful person in the criminal courts, the prosecuting attorney. This is more than a series about homicide, these are the stories of dedicated men and women who confront human predators to find justice for the victims of tragedy.</desc><category>Documentary, General</category><icon src="https://partner-upload-assets.wurl.com/videoelephant_limited/MT_TheProsecutors_S02.jpg" /></programme>
 <programme start="20261121195810 +0000" stop="20261121205820 +0000" channel="7531"><title>Death of the Disciples</title><desc>The Prosecutors explores the complexities of the American criminal justice system through the eyes of the most powerful person in the criminal courts, the prosecuting attorney. This is more than a series about homicide, these are the stories of dedicated men and women who confront human predators to find justice for the victims of tragedy.</desc><category>Documentary, General</category><icon src="https://partner-upload-assets.wurl.com/videoelephant_limited/MT_TheProsecutors_S02.jpg" /></programme>
