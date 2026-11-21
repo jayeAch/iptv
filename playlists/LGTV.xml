@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-<channel id="MovieSphere LG US_MOVSPLGUS_US">
-    <display-name>MovieSphere</display-name>
-    <icon src="https://db6iftd8li11q.cloudfront.net/Moviesphere/MovieSphere_LG_White_800x200.png"/>
-  </channel>
 <channel id="99992272">
     <display-name>FilmRise Free Movies</display-name>
     <icon src="https://image.xumo.com/v1/channels/channel/99992272/400x200.png?type=white_cropped"/>
@@ -23,6 +19,10 @@
 <channel id="FREQ541-US">
     <display-name>Mysteria</display-name>
     <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/lawandcrime/channels/541-400x200.png"/>
+  </channel>
+<channel id="99993006">
+    <display-name>World's Most Evil Killers</display-name>
+    <icon src="https://image.xumo.com/v1/channels/channel/99993006/400x200.png?type=white_cropped"/>
   </channel>
 <programme start="20261121174127 +0000" stop="20261121193009 +0000" channel="99992272">
     <title lang="en">Eye See You</title>
@@ -64,12 +64,62 @@
       <value>PG</value>
     </rating>
   </programme>
-<programme start="20261121181835 +0000" stop="20261121190730 +0000" channel="FREQ541-US">
-    <title lang="en">Coffeehouse Crime</title>
-    <desc lang="en">The gunman who attacked the Florida yoga studio had given off warning signs for decades.</desc>
-    <category lang="en">Crime</category>
-    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/7417341759434487290/solid/rectangle/w1920_h1080/1thhyjlotyk5d1xof5yb4dy3x3.jpg"/>
-    <episode-num system="dd_progid">7544579</episode-num>
+<programme start="20261121185503 +0000" stop="20261121195228 +0000" channel="99993006">
+    <title lang="en">World's Most Evil Killers</title>
+    <desc lang="en">Catherine Nevin and her husband Tom were successful publicans and property developers in the Dublin and Wicklow areas. Catherine reported a break-in and violent attack at their pub one night in 1996, which left Tom dead.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM006BAU25U0QO/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993006%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM006BAU25U0QO</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261121195228 +0000" stop="20261121204640 +0000" channel="99993006">
+    <title lang="en">World's Most Evil Killers</title>
+    <desc lang="en">Dublin man Eric Locke refused to accept it when Sonia Blount, a mother of one, ended their relationship. After resorting to begging, stalking, threats and manipulation, he created a fake social media profile, posing as a potential love interest.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0JKQHKHTET6O/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993006%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM0JKQHKHTET6O</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261121204640 +0000" stop="20261121214343 +0000" channel="99993006">
+    <title lang="en">World's Most Evil Killers</title>
+    <desc lang="en">Young Natalie Jarvis was killed by Adam Whelehan, whose cruel and cowardly plot was exposed by investigators.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM06GZZQ4BKRX8/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993006%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM06GZZQ4BKRX8</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261121214343 +0000" stop="20261121224116 +0000" channel="99993006">
+    <title lang="en">World's Most Evil Killers</title>
+    <desc lang="en">Teen Mhairi was killed on her walk home after a festive night. Investigators traced her last steps, using CCTV and forensics that pointed to Gavin, a violent repeat offender whose history revealed how dangerous he truly was.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0OLUFXB0NTTD/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993006%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM0OLUFXB0NTTD</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261121224116 +0000" stop="20261121233851 +0000" channel="99993006">
+    <title lang="en">World's Most Evil Killers</title>
+    <desc lang="en">Robert gained trust easily, slipping into the lives of vulnerable women and girls across countries. For decades, he manipulated, stalked and attacked, leaving a trail of victims in his wake until investigators finally exposed his pattern.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM058NLL0GXOBG/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993006%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM058NLL0GXOBG</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261121233851 +0000" stop="20261122003500 +0000" channel="99993006">
+    <title lang="en">World's Most Evil Killers</title>
+    <desc lang="en">Mary's murder haunted Glasgow for 36 years with no witnesses or leads until advanced forensic techniques finally revealed Graham as the killer, ending decades of uncertainty for her family and investigators.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0S297LMTMGBN/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993006%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM0S297LMTMGBN</episode-num>
     <rating>
       <value>TV-14</value>
     </rating>
@@ -170,56 +220,6 @@
     <category lang="en">Entertainment</category>
     <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/mxd0llfbyl8d1xdsas0bfvspv/w1920_h1080/mxd0llfbyl8d1xdsas0bfvspv.jpg"/>
     <episode-num system="dd_progid">2750482</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261121163358 +0000" stop="20261121183413 +0000" channel="MovieSphere LG US_MOVSPLGUS_US">
-    <title lang="en">Queenpins</title>
-    <desc lang="en">A pair of housewives create a $40 million coupon scam.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/MOVSPLGUS/resized_e657f7656124e71f0f75ce738db1c0ad778906fd47c5637f4ed9219f63f8a523_3850031landscapejpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">MOVSPLGUS_3850031_US</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261121183413 +0000" stop="20261121202148 +0000" channel="MovieSphere LG US_MOVSPLGUS_US">
-    <title lang="en">The Peanut Butter Falcon</title>
-    <desc lang="en">Zak runs away from his care home to make his dream of becoming a wrestler come true.</desc>
-    <category lang="en">Drama</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/MOVSPLGUS/resized_edd5a2379b28d88bc413974fb3fdd4f78fe2325ac578d1415e6fd84bc9428921_1660092landscapejpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">MOVSPLGUS_1660092_US</episode-num>
-    <rating>
-      <value>PG-13</value>
-    </rating>
-  </programme>
-<programme start="20261121202148 +0000" stop="20261121221237 +0000" channel="MovieSphere LG US_MOVSPLGUS_US">
-    <title lang="en">Blindspotting</title>
-    <desc lang="en">The intersection of race and class is set against the backdrop of a rapidly gentrifying Oakland.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/MOVSPLGUS/resized_90dcafe9ed9be06242a54a1737554ba0e0d49bd803e966ad599baa6216d3fd5b_2650175landscapejpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">MOVSPLGUS_2650175_US</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261121221237 +0000" stop="20261122001137 +0000" channel="MovieSphere LG US_MOVSPLGUS_US">
-    <title lang="en">Freaky Tales</title>
-    <desc lang="en">A multitrack mixtape of characters are set on a collision course in a fever dream of showdowns and battles.</desc>
-    <category lang="en">Drama</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/MOVSPLGUS/resized_8959319ff3475661cfe4742c8f44b02bb6ed2ce8ee91ccabc73c3b08beed1ca7_5551399landscapejpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">MOVSPLGUS_5551399_US</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261121165700 +0000" stop="20261121183733 +0000" channel="theasylummoviechannel_tasmc_US">
-    <title lang="en">Alien Predator</title>
-    <desc lang="en">A black ops team sent to investigate the crash of an unidentified aircraft is hunted by the former occupants.</desc>
-    <category lang="en">Action</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/tasmc/resized_f83aeca9dc491e8215f04e05af33acef48edb7471ecb6cc68eb5d7ae4b62690c_alienpredator1920x1080jpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">tasmc_AlienPredator_Feature_2997_20_Clean_US</episode-num>
     <rating>
       <value>TV-14</value>
     </rating>
