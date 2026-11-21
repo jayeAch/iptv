@@ -920,6 +920,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         dateline nbc
         20/20
         60 minutes
+        real america's voice
         nightline
         face the nation
         meet the press
