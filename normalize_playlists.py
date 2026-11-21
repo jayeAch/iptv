@@ -465,6 +465,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     'Christmas': _words("""
         christmas
         pluto tv jul
+        jingle bells
         pluto tv de bedste julespecials
         pluto tv de beste julespesialene
         pluto tv julehygge
