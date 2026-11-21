@@ -1146,6 +1146,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     'Sports': _words("""
         sport
         sports
+        adr+
         great by choice
         espn
         dazn
