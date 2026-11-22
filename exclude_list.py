@@ -12,6 +12,7 @@ GLOBAL_EXCLUDE_LIST = [
   "21 Jump Street",
   "Disney Channel",
   "Disney XD",
+  "STV",
   "The Twilight Zone:",
   "The Incredible Hulk",
   "Earth: Final Conflict",
