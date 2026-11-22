@@ -468,6 +468,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         bbc drama
         bbc sci-fi
         bbc one
+        stv
         bbc
         bbc adventure
         britbox
