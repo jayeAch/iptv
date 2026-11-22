@@ -21,6 +21,7 @@ GLOBAL_EXCLUDE_LIST = [
   "Matlock",
   "More TV Sitcoms",
   "Pluto TV Sitcoms",
+  "Battlestar Galactica",
   "Just For Laughs Gags",
   "Life with Derek",
   "Weeds & Nurse Jackie",
