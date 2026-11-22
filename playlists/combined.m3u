@@ -609,7 +609,7 @@ http://41.205.93.154/BRAVO/index.m3u8
 https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf91/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjkxOjE3OTUzNTYwMDM5ODU6Y2RubGl2ZXR2LnR2Ojg4MjBlODkzYzk5MDMyNWIuN2YxNGZjYWNjNTg5MmIyMTQ2ZWNmMzkwYTVhZjg4Y2E3ZjY5NjBmNzA4ZDY3ZWQ3ZTBhYzU3ZjUzNDhlMzc5Yw
 #EXTINF:-1 tvg-chno="26" tvg-id="CHARGE!.us2" tvg-name="Charge!" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s102148_dark_360w_270h.png" group-title="Entertainment",Charge!
 https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
-#EXTINF:-1 tvg-chno="34" tvg-id="Comet.us2" tvg-name="Comet" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97051_dark_360w_270h.png" group-title="Entertainment",Comet
+#EXTINF:-1 tvg-chno="34" tvg-id="Comet.us2" tvg-name="Comet" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97051_dark_360w_270h.png" group-title="Sci-Fi",Comet
 https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 #EXTINF:-1 tvg-chno="37" tvg-id="Create.us2" tvg-name="Create" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/create-us.png" group-title="Entertainment",Create
 https://create.lls.pbs.org/index.m3u8
@@ -621,28 +621,16 @@ http://212.5.144.156:8080/discovery/index.m3u8
 http://212.5.144.156:8080/disney/index.m3u8
 #EXTINF:-1 tvg-chno="42" tvg-id="Disney.XD.HD.us2" tvg-name="Disney XD" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="Entertainment",Disney XD
 http://89.187.179.148:826/1368/gXwiagaXda/1672
-#EXTINF:-1 tvg-chno="45" tvg-id="ESPN2.HD.us2" tvg-name="ESPN2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" group-title="Entertainment",ESPN2
-http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
-#EXTINF:-1 tvg-chno="47" tvg-id="ESPNU.HD.us2" tvg-name="ESPNU" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" group-title="Entertainment",ESPNU
-http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
-#EXTINF:-1 tvg-chno="48" tvg-id="Fanduel.Racing.us" tvg-name="FanDuel Racing" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32258_dark_360w_270h.png" group-title="Entertainment",FanDuel Racing
-https://d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TVG2index_2.m3u8
 #EXTINF:-1 tvg-chno="49" tvg-id="Family.Entertainment.Television.us2" tvg-name="FETV" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73413_dark_360w_270h.png" group-title="Entertainment",FETV
 http://89.187.179.148:826/1368/gXwiagaXda/119032
 #EXTINF:-1 tvg-chno="52" tvg-id="WFXT-DT.us_locals1" tvg-name="Fox" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="Entertainment",Fox
 https://tvsen6.aynaott.com/fox5/index.m3u8
-#EXTINF:-1 tvg-chno="53" tvg-id="Fox.Business.HD.us2" tvg-name="Fox Business" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-business-us.png" group-title="Entertainment",Fox Business
-https://tvsen6.aynaott.com/foxbusiness/index.m3u8
-#EXTINF:-1 tvg-chno="54" tvg-id="plex.tv.LiveNOW.from.FOX.plex" tvg-name="Fox LiveNOW" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/live-now-fox-us.png" group-title="Entertainment",Fox LiveNOW
-https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="59" tvg-id="FX.HD.us2" tvg-name="FX" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73681_dark_360w_270h.png" group-title="Entertainment",FX
 http://89.187.179.148:826/1368/gXwiagaXda/1364
 #EXTINF:-1 tvg-chno="60" tvg-id="FX.Movie.Channel.HD.us2" tvg-name="FX Movie Channel" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70253_dark_360w_270h.png" group-title="Movies",FX Movie Channel
 http://89.187.179.148:826/1368/gXwiagaXda/29312
 #EXTINF:-1 tvg-chno="61" tvg-id="FXX.HD.us2" tvg-name="FXX" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png" group-title="Entertainment",FXX
 http://89.187.179.148:826/1368/gXwiagaXda/1671
-#EXTINF:-1 tvg-chno="62" tvg-id="Galavision.Cable.Network.HD.us2" tvg-name="Galavisión" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10222_dark_360w_270h.png" group-title="Entertainment",Galavisión
-https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast.m3u8
 #EXTINF:-1 tvg-chno="66" tvg-id="Great.Entertainment.Television.us2" tvg-name="Great Entertainment Television" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002QQ7SV.png?w=360&h=270" group-title="Entertainment",Great Entertainment Television
 https://a-cdn.klowdtv.com/live2/greattv_720p/playlist.m3u8
 #EXTINF:-1 tvg-chno="67" tvg-id="Hallmark.Channel.HD.us2" tvg-name="Hallmark Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11221_dark_360w_270h.png" group-title="Entertainment",Hallmark Channel
@@ -662,18 +650,11 @@ https://tvsen3.aynaott.com/UC6a8nsf/index.m3u8
 http://89.187.179.148:826/1368/gXwiagaXda/38431
 #EXTINF:-1 tvg-chno="80" tvg-id="MeTV.Toons.us2" tvg-name="MeTV Toons" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s159817_dark_360w_270h.png" group-title="Toons",MeTV Toons
 https://sr-live-weigel1.akamaized.net/out/v1/0d1dbf29e64e47bc991796cc24fbeb97/index_2.m3u8
-#EXTINF:-1 tvg-chno="82" tvg-id="MS.NOW.HD.us2" tvg-name="MS NOW" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002H5PTP.png_dark_360w_270h.png" group-title="Entertainment",MS NOW
-#EXTVLCOPT:http-referrer=https://usnewson.com/
-https://p5.usnlive.com/stream/msnbc.m3u8
 #EXTINF:-1 tvg-chno="87" tvg-id="WNBC-DT.us_locals1" tvg-name="NBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10991_dark_360w_270h.png" group-title="Entertainment",NBC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cff6/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZmY2OjE3OTUzNTYwMDUyMjE6Y2RubGl2ZXR2LnR2OmRjM2RjMjY0ZjNkMDg2NGIuMzQyY2EyMjQzMDE2YTU3YWE3NmUxNzIzZThjMDY2OTUyMGY1MzU3NjkyZjRiYjM0M2JmOTM2ODMzOTk0YmYzYw
-#EXTINF:-1 tvg-chno="98" tvg-id="Nicktoons.us2" tvg-name="Nicktoons" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30420_dark_360w_270h.png" group-title="Entertainment",Nicktoons
-http://41.205.93.154/NICKTOONS/index.m3u8
 #EXTINF:-1 tvg-chno="102" tvg-id="ReelzChannel.HD.us2" tvg-name="Reelz Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/reelz-us.png" group-title="Entertainment",Reelz Channel
 https://cdn.katapy.io/cache/stream/reelztv/reelztv/playlist.m3u8
-#EXTINF:-1 tvg-chno="103" tvg-id="plex.tv.The.Reuters.60.plex" tvg-name="Reuters 60" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/reuters-vod.png" group-title="Entertainment",Reuters 60
-https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/e4161629-c2c1-465c-bce8-b59e4885e7fd/3.m3u8
 #EXTINF:-1 tvg-chno="104" tvg-id="ROAR.TV.us2" tvg-name="ROAR TV" tvg-logo="https://dtil.tmsimg.com/assets/s102116_ll_h15_ac.png?w=360&h=270" group-title="Entertainment",ROAR TV
 https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
 #EXTINF:-1 tvg-chno="105" tvg-id="SEC.Network.HD.us2" tvg-name="SEC Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89535_dark_360w_270h.png" group-title="Entertainment",SEC Network
@@ -700,22 +681,8 @@ https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_356
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-chno="139" tvg-id="truTV.HD.(Pacific).us2" tvg-name="truTV West" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png" group-title="Entertainment",truTV West
 https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-chno="140" tvg-id="TSN.1.ca2" tvg-name="TSN 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-1-ca.png" group-title="Entertainment",TSN 1
-https://tvsen5.aynaott.com/tsn1/index.m3u8
-#EXTINF:-1 tvg-chno="141" tvg-id="TSN.2.ca2" tvg-name="TSN 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-2-ca.png" group-title="Entertainment",TSN 2
-https://tvsen5.aynaott.com/tsn2/index.m3u8
-#EXTINF:-1 tvg-chno="142" tvg-id="TSN.3.ca2" tvg-name="TSN 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-3-ca.png" group-title="Entertainment",TSN 3
-https://tvsen5.aynaott.com/tsn3/index.m3u8
-#EXTINF:-1 tvg-chno="143" tvg-id="TSN.4.ca2" tvg-name="TSN 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-4-ca.png" group-title="Entertainment",TSN 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40b12d4a99e07363ed3f/playlist.m3u8?token=NmFkZDQwYjEyZDRhOTllMDczNjNlZDNmOjE3OTUzNTYwMDkzMTg6Y2RubGl2ZXR2LnR2OjY1ZDFkYzI0Yzk1MWQwMmYuYWViMGQzMjFmMDdmZWM5MWU0Y2JkMGM3MDdlODAwYjFjMDlhZDljNGIxYzE2MTIxZTZhOWVlZjU1ZjhmY2U1NQ
-#EXTINF:-1 tvg-chno="144" tvg-id="TSN.5.ca2" tvg-name="TSN 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-5-ca.png" group-title="Entertainment",TSN 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40b12d4a99e07363ed42/playlist.m3u8?token=NmFkZDQwYjEyZDRhOTllMDczNjNlZDQyOjE3OTUzNTYwMDk1MjE6Y2RubGl2ZXR2LnR2OmY5MmY2Y2NiYzY1OTI3NzkuODY4OWNmMTRjNjIwMjAzNWMyODFkNDRhMzVkN2JlZThkMmVhYmRjNjQ3MTRhMTMyODRiYjg5YWI3NGZkZTMxNQ
 #EXTINF:-1 tvg-chno="146" tvg-id="Turner.Classic.Movies.HD.us2" tvg-name="Turner Classic Movies" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12852_dark_360w_270h.png" group-title="Movies",Turner Classic Movies
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:-1 tvg-chno="148" tvg-id="WLTV-DT.us_locals1" tvg-name="Univision Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11118_dark_360w_270h.png" group-title="Entertainment",Univision Network
-http://168.228.44.241:9997/play/a01n/index.m3u8
 #EXTINF:-1 tvg-chno="149" tvg-id="USA.Network.HD.us2" tvg-name="USA Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11207_dark_360w_270h.png" group-title="Entertainment",USA Network
 https://tvsen6.aynaott.com/usa/index.m3u8
 #EXTINF:-1 tvg-chno="152" tvg-id="plex.tv.Yahoo.Finance.plex" tvg-name="Yahoo Finance" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s147894_dark_360w_270h.png" group-title="Entertainment",Yahoo Finance
@@ -1668,8 +1635,6 @@ https://amg01705-amg01705c1-amgplt0022.playout.now3.amagi.tv/playlist/amg01705-a
 https://amg02042-amg02042c43-vizio-us-11531.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg02042-ottstudiofast-tribecasubfeed-vizious/playlist.m3u8?app_name=VIZIO&app_bundle=com.vizio.vue.launcher&app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.vizio.vue.launcher&url=https%3A%2F%2Fwww.vizio.com&ifa_type=aaid&lmt=0&dnt=0&did=00000000-0000-0000-0000-000000000000&us_privacy=1---&coppa=0&skip=1&device_make=Google&w=1080&h=1920&vizio_network_name={VIZIO_NETWORK_NAME}&ic={IC}&pod_ad_slots={POD_AD_SLOT}&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDgyMzY4OTM0NH0
 #EXTINF:-1 tvg-id="vizio.96Station_88885570" tvg-name="Xumo Free Sci-Fi & Fantasy Movies" tvg-logo="https://images.vizio.com/v4/btv/1/1661466360/1/267/150/0.jpg" tvg-chno="656" group-title="Sci-Fi",Xumo Free Sci-Fi & Fantasy Movies
 https://dbsmvzfksdzmk.cloudfront.net/10901/88885570/hls/master.m3u8?ads.xumo_channelId=88885570&ads.xumo_streamId=88885570&ads.channelId=88885570&ads.channelName=xumofreescifiandfantasymovies_us&ads.csid=viziowatchfree_us_xumofreescifiandfantasymovies_ssai&ads.caid=XumoFreeSciFiAndFantasy&ads._fw_coppa=0&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_h_x_country=US&ads.xumo_contentId=149&ads.xumo_contentName=XumoFreeSciFiAndFantasy&ads.xumo_providerId=149&ads.xumo_providerName=XumoFreeScifiAndFantasy&ads.xumo_channelName=XumoFreeSciFiAndFantasy&ads._fw_content_programmer_brand=XumoFreeSciFiAndFantasy&withResolution=true&ads.appVersion=5.0.0&ads.amznappId=14911df5fe9f4df5a4ebfa1eb51d83eb&ads.amznslotId=b187c68c-9a6f-4d25-9a9c-b95b42d440af&ads.xumo_imdb_genre=Action&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.xumo_platform=viziowatchfree&ads._fw_player_width=1080&ads._fw_player_height=1920&ads._fw_is_lat=0&ads._fw_us_privacy=1---&ads._fw_app_bundle=com.vizio.vue.launcher&ads._fw_deviceMake=Google&ads._fw_device_model=Pixel%207&ads._fw_devicetype=mobile&ads.domain=https%3A%2F%2Fwww.vizio.com&ads.gpp={GPP}&ads.gpp_sid={GPP_SID}&ads.appName=VIZIO&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads.xumo_ifa=00000000-0000-0000-0000-000000000000&ads.xumo_ifaType=aaid&ads._fw_app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.vizio.vue.launcher&ads.vizdartoken=eyJhdWQiOiI5NiIsIndmcGNpZCI6NDE4MjU1NDgzOX0
-#EXTINF:-1 tvg-id="vizio.98wurl_cinedigm_entertainment_corp_screamboxtv_1" tvg-name="Screambox TV" tvg-logo="https://images.vizio.com/v4/btv/1/1643067198/1/267/150/0.jpg" tvg-chno="691" group-title="Horror",Screambox TV
-https://wurlcineverse.global.transmit.live/hls/678864b20b2848c81efe74be/v1/cinedigm_entertainment_corp_screamboxtv_1/vizio_us/latest/main/hls/playlist.m3u8?wurl_channel=1845&wurl_name=ScreamboxTV&coppa=0&rdid=00000000-0000-0000-0000-000000000000&dnt=False&pr=1---&ifatype=aaid&lmt=0&bundleid=com.vizio.vue.launcher&appname=VIZIO&appstoreurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.vizio.vue.launcher&domain=https%3A%2F%2Fwww.vizio.com&w=1080&h=1920&make=Google&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6NDQyNjk2MDA1MX0
 #EXTINF:-1 tvg-id="vizio.96Station_88885594" tvg-name="Xumo Horror & Thriller" tvg-logo="https://images.vizio.com/v4/btv/1/1736242005/1/267/150/0.jpg" tvg-chno="692" group-title="Horror",Xumo Horror & Thriller
 https://d3is52sgpnlx4c.cloudfront.net/10901/88885594/hls/master.m3u8?ads.xumo_channelId=88885594&ads.xumo_streamId=88885594&ads.channelId=88885594&ads.channelName=xumofreehorrorandthrillermovies_us&ads.csid=viziowatchfree_us_xumofreehorrorandthrillermovies_ssai&ads.caid=XumoFreeHorrorAndThrillerMovies&ads._fw_coppa=0&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_h_x_country=US&ads.xumo_contentId=149&ads.xumo_contentName=XumoFreeHorrorAndThrillerMovies&ads.xumo_providerId=149&ads.xumo_providerName=XumoFreeHorrorAndThrillerMovies&ads.xumo_channelName=XumoFreeHorrorAndThrillerMovies&ads._fw_content_programmer_brand=XumoFreeHorrorAndThrillerMovies&withResolution=true&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.xumo_platform=viziowatchfree&ads._fw_player_width=1080&ads._fw_player_height=1920&ads._fw_is_lat=0&ads._fw_us_privacy=1---&ads._fw_app_bundle=com.vizio.vue.launcher&ads._fw_deviceMake=Google&ads._fw_device_model=Pixel%207&ads._fw_devicetype=mobile&ads.domain=https%3A%2F%2Fwww.vizio.com&ads.gpp={GPP}&ads.gpp_sid={GPP_SID}&ads.appName=VIZIO&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads.xumo_ifa=00000000-0000-0000-0000-000000000000&ads.xumo_ifaType=aaid&ads._fw_app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.vizio.vue.launcher&ads.appVersion=5.0.0&ads.vizdartoken=eyJhdWQiOiI5NiIsIndmcGNpZCI6NDcyNjk5MjE4NX0
 #EXTINF:-1 tvg-id="vizio.149station_1287" tvg-name="On Patrol: Live Channel" tvg-logo="https://images.vizio.com/v4/btv/1/1736245997/1/267/150/0.jpg" tvg-chno="747" group-title="True Crime",On Patrol: Live Channel
