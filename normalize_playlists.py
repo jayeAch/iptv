@@ -736,6 +736,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         kids
         123 go
         kiddo
+        nicktoons
         teenvee
         playworld
         svampbob
@@ -793,6 +794,8 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         spanish
         123go! español
         gritos
+        univision
+        galavisión
         en espanol
         tock tock movies
         conecta
@@ -923,8 +926,12 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     # drag the 'Local News' source group into News. Local stations stay with the group/keyword rules.
     'News': _words("""
         dateline
+        reuters 60
         dateline nbc
         20/20
+        ms now
+        fox livenow
+        fox business
         60 minutes
         real america's voice
         nightline
@@ -1105,6 +1112,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     # land in their genre.
     'Sci-Fi': _words("""
         the asylum
+        comet
         the twilight zone
         dark matters
         mutant x
@@ -1158,12 +1166,15 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     'Sports': _words("""
         sport
         sports
-        espn
         adr+
+        tsn
         wild tv
         rightnow
         great by choice
         espn
+        espnu
+        fanduel racing
+        espn2
         dazn
         introuble
         nfl
