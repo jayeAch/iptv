@@ -1181,7 +1181,8 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         sport
         darts
         mex 1
-        yes
+        sec network 
+        yes network 
         acc
         ligue-1
         mls
