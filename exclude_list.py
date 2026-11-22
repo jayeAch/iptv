@@ -11,6 +11,12 @@ GLOBAL_EXCLUDE_LIST = [
 # All other entries (alphabetized, case-insensitive, deduplicated)
   "21 Jump Street",
   "The Twilight Zone:",
+  "The Twilight Zone",
+  "Earth Final Conflict",
+  "Andromeda",
+  "Monkey",
+  "The Bionic Woman",
+  "Six Million Dollar Man",
   "The Red Green Show",
   "Matlock",
   "More TV Sitcoms",
