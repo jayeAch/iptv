@@ -313,6 +313,8 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     # ('Pluto TV Action Movies') are not listed: they stay in Movies.
     'Action': _words("""
         walker texas ranger
+        the outpost
+        the librarians
         pluto tv retro action
         hercules
         pluto tv rocky + creed
@@ -957,6 +959,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         pluto tv overnaturlig
         a haunting
         alien files
+        unidentified
         unxplained zone
         pluto tv alien invasion
         alien nation
