@@ -11,6 +11,8 @@ GLOBAL_EXCLUDE_LIST = [
 # All other entries (alphabetized, case-insensitive, deduplicated)
   "21 Jump Street",
   "The Twilight Zone:",
+  "Continuum",
+  "The Librarians",
   "The Twilight Zone",
   "Mutant X",
   "The Outer Limits",
