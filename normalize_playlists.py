@@ -1366,6 +1366,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         western
         grit xtra
         circle
+        insp
         westerns
         wild west
         bonanza
