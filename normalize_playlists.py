@@ -736,6 +736,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         home. made. nation
         family handyman
         this old house
+        places & spaces
         diy art
         flipping nation
         hgtv
