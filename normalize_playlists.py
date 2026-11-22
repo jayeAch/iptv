@@ -1,4 +1,4 @@
-,#!/usr/bin/env python3
+#!/usr/bin/env python3
 """Unified M3U/EPG playlist normalizer and category engine.
 
 Combines category resolution rules and playlist/EPG rewriting into a single
