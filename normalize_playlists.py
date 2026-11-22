@@ -705,6 +705,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         this old house
         diy art
         flipping nation
+        hgtv
         property brothers
         chip & jo
         million dollar listing
