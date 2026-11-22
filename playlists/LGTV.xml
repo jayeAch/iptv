@@ -1,83 +1,69 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <tv>
-<channel id="MovieSphere LG US_MOVSPLGUS_US">
-    <display-name>MovieSphere</display-name>
-    <icon src="https://db6iftd8li11q.cloudfront.net/Moviesphere/MovieSphere_LG_White_800x200.png"/>
-  </channel>
-<channel id="us-gsn_cinevault_80s_1">
-    <display-name>CINEVAULT</display-name>
-    <icon src="http://img.platform.wurl.dev/channel/691/lg/e11147/LG-Logo-PNG-100x100_v1.png"/>
-  </channel>
-<channel id="shoutmovies_stmvs_US">
-    <display-name>Shout! Movies</display-name>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Shout_Movies/LG_SM_Logo_400x200.png"/>
-  </channel>
-<channel id="mytimemovienetworkus_mytimea_US">
-    <display-name>MyTime Movie Network</display-name>
-    <icon src="https://d23edfjfpc1xrv.cloudfront.net/MyTime_Logo_300x200.png"/>
-  </channel>
 <channel id="theasylummoviechannel_tasmc_US">
     <display-name>The Asylum</display-name>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Asylum_Movie_Channel_Logo_LG_400x200.png"/>
-  </channel>
-<channel id="us-amc_scaresbyshudder_1">
-    <display-name>Scares by Shudder</display-name>
-    <icon src="http://img.platform.wurl.dev/channel/1566/lg/835604/LG-Logo-PNG-100x100_v1.png"/>
-  </channel>
-<channel id="tribeca_tribe_US">
-    <display-name>Tribeca</display-name>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/tribeca/Tribeca_Logo_800w200h.png"/>
-  </channel>
-<channel id="electricnoweng_eleno_US">
-    <display-name>Electric Now</display-name>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/electric/ENOW_White_logo_800x200.png"/>
-  </channel>
-<channel id="FREQ541-US">
-    <display-name>Mysteria</display-name>
-    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/lawandcrime/channels/541-400x200.png"/>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Asylum_Movie_Channel_Logo_LG_400x200.png" />
   </channel>
 <channel id="99993006">
     <display-name>World's Most Evil Killers</display-name>
-    <icon src="https://image.xumo.com/v1/channels/channel/99993006/400x200.png?type=white_cropped"/>
+    <icon src="https://image.xumo.com/v1/channels/channel/99993006/400x200.png?type=white_cropped" />
   </channel>
 <channel id="99992255">
     <display-name>Forensic Files</display-name>
-    <icon src="https://image.xumo.com/v1/channels/channel/99992255/400x200.png?type=white_cropped"/>
-  </channel>
-<channel id="99992257">
-    <display-name>Unsolved Mysteries</display-name>
-    <icon src="https://image.xumo.com/v1/channels/channel/99992257/400x200.png?type=white_cropped"/>
+    <icon src="https://image.xumo.com/v1/channels/channel/99992255/400x200.png?type=white_cropped" />
   </channel>
 <channel id="coldcasefiles_aeccf_US">
     <display-name>Cold Case Files</display-name>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/aenetworks/Cold_Case_Files_Channel_Logo_Image_200x800.png"/>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/aenetworks/Cold_Case_Files_Channel_Logo_Image_200x800.png" />
   </channel>
-<channel id="us-trublufactual_trublu_1">
-    <display-name>TruBlu</display-name>
-    <icon src="http://img.platform.wurl.dev/channel/1565/lg/142485/LG-Logo-PNG-100x100_v1.png"/>
-  </channel>
-<channel id="us-aenetworks_crime360_1">
-    <display-name>A&amp;E Crime 360</display-name>
-    <icon src="http://img.platform.wurl.dev/channel/393/lg/9045f5/LG-Logo-PNG-100x100_v4.png"/>
-  </channel>
-<channel id="us-aenetworks_kriminal_1">
-    <display-name>Crimes Cults Killers  by A&amp;E</display-name>
-    <icon src="http://img.platform.wurl.dev/channel/1055/lg/22f210/LG-Logo-PNG-100x100_v2.png"/>
-  </channel>
-<channel id="us-ae_networks_livepdgreatestshifts_1">
-    <display-name>A&amp;E Live PD Greatest Shifts</display-name>
-    <icon src="http://img.platform.wurl.dev/channel/2183/lg/ea1ed8/LG-Logo-PNG-100x100_v1.png"/>
-  </channel>
-<channel id="livepdpresents_lpdpr_US">
-    <display-name>Live PD Presents</display-name>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/aenetworks/LG/LivePDPresents/Live_PD_Presents_logo_400x200.png"/>
-  </channel>
-<channel id="us-lawandcrime_samsung">
-    <display-name>Law&amp;Crime</display-name>
-    <icon src="http://img.platform.wurl.dev/channel/226/lg/649349/LG-Logo-PNG-100x100_v1.png"/>
-  </channel>
-<channel id="us-scripps_courttv_4">
-    <display-name>Court TV</display-name>
-    <icon src="http://img.platform.wurl.dev/channel/1516/lg/0f59a3/LG-Logo-PNG-100x100_v2.png"/>
-  </channel>
+<programme start="20261122104707 +0000" stop="20261122111633 +0000" channel="99992255">
+    <title lang="en">Forensic Files</title>
+    <desc lang="en">In the case of the Center City Rapist and the murder of Shannon Schieber, Philadelphia authorities use an anonymous letter and geographic profiling to hone in on a suspect.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM05X9D1OUPWPA/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992255%2F768x432.jpg%3Ftype%3DchannelTile" />
+    <episode-num system="dd_progid">XM05X9D1OUPWPA</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261122102425 +0000" stop="20261122111822 +0000" channel="99993006">
+    <title lang="en">World's Most Evil Killers</title>
+    <desc lang="en">Between 1989 and 1992 in East Germany, Wolfgang Schmidt, known as the Beast of Beelitz, murdered four women and a baby.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0KD0PIGEN2OS/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993006%2F768x432.jpg%3Ftype%3DchannelTile" />
+    <episode-num system="dd_progid">XM0KD0PIGEN2OS</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261122100655 +0000" stop="20261122110000 +0000" channel="coldcasefiles_aeccf_US">
+    <title lang="en">Cold Case Files</title>
+    <desc lang="en">A fire in January 2007 claims the life of WWII vet Bennie Angelo.</desc>
+    <category lang="en">True Crime</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/AECCF/resized_b4701b9904efc32e51c21b0aa36db5ea41ef15209761518ee4e155c633ecc685_254915415208thumbjpg_768_432.jpeg" />
+    <episode-num system="dd_progid">AECCF_254915_415208_US</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261122110000 +0000" stop="20261122115250 +0000" channel="coldcasefiles_aeccf_US">
+    <title lang="en">Cold Case Files Classic</title>
+    <desc lang="en">Cold Case Units use psychological profiling, forensic anthropology.</desc>
+    <category lang="en">Documentary</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/AECCF/resized_65925b4587607c9f496d9f61c5a9b2820dd63b161fc611285c4b90671fbca8b2_coldcasefileschannelimage1920x1080jpg_768_432.jpeg" />
+    <episode-num system="dd_progid">AECCF_17744_202412_US</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261122092904 +0000" stop="20261122110850 +0000" channel="theasylummoviechannel_tasmc_US">
+    <title lang="en">Ardennes Fury</title>
+    <desc lang="en">​​As the Battle of the Bulge rages, a U.S. tank unit trapped behind Nazi lines must fight its way back.</desc>
+    <category lang="en">Action</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/tasmc/resized_abe59d5714b6e4b9a436c7f0428d1e73c587ed60d10fd8263ff4fd56f803c7d1_ardennesfury1920x1080jpg_768_432.jpeg" />
+    <episode-num system="dd_progid">tasmc_ArdennesFury_Feature_2997_20_Amagi_US</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
 </tv>
