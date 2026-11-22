@@ -16,6 +16,7 @@ GLOBAL_EXCLUDE_LIST = [
   "The Twilight Zone:",
   "The Incredible Hulk",
   "Earth: Final Conflict",
+  "COPS",
   "Continuum",
   "The Librarians",
   "The Twilight Zone",
