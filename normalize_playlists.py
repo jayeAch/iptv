@@ -386,6 +386,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         aliwko
         goldentv
         asiancrush
+        discovering china
         asian drama
         bollywood
         cj enm k-stories
@@ -642,6 +643,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     'Documentaries': _words("""
         documentary
         icons
+        docu vision
         modern marvels
         reelz famous & infamous
         dokumentar
@@ -1329,6 +1331,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         mr. pickles
         primal
         adultswim
+        adult swim
         rick and morty
         robot chicken
         samurai jack
