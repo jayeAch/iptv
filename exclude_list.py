@@ -16,6 +16,8 @@ GLOBAL_EXCLUDE_LIST = [
   "Continuum",
   "The Librarians",
   "The Twilight Zone",
+  "ElectricNOW",
+  "Electric Now",
   "Mutant X",
   "The Outer Limits",
   "Dungeons & Dragons Adventures",
