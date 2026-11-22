@@ -355,6 +355,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         caylus
         bizaar
         avatar
+        one piece
         crunchyroll
         retrocrush
         yu-gi-oh
