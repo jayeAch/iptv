@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+w#!/usr/bin/env python3
 """Unified M3U/EPG playlist normalizer and category engine.
 
 Combines category resolution rules and playlist/EPG rewriting into a single
@@ -1165,6 +1165,9 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     """),
     'Sports': _words("""
         sport
+        [mex 1]
+        [ligue-1]
+        [mls]
         sports
         adr+
         [ncaa american football]
