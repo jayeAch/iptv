@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+<channel id="us-gsn_cinevault_80s_1">
+    <display-name>CINEVAULT</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/691/lg/e11147/LG-Logo-PNG-100x100_v1.png"/>
+  </channel>
 <channel id="theasylummoviechannel_tasmc_US">
     <display-name>The Asylum</display-name>
     <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Asylum_Movie_Channel_Logo_LG_400x200.png"/>
@@ -40,6 +44,16 @@
     <episode-num system="dd_progid">tasmc_TheDaVinciTreasure_Feature_2997_20_US</episode-num>
     <rating>
       <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261122171309 +0000" stop="20261122200709 +0000" channel="us-gsn_cinevault_80s_1">
+    <title lang="en">The Natural</title>
+    <desc lang="en">Talent brought him to the edge of glory... Fate took him to the well of despair... and love sent him to the place he was meant to be. A middle-aged unknown comes seemingly out of nowhere to become a legendary baseball player with almost supernatural talent.</desc>
+    <category lang="en">Movies</category>
+    <icon src="http://img.platform.wurl.dev/channel/691/lg/e11147/LG-768x432_v1.png"/>
+    <episode-num system="dd_progid">US-GAMESHOWNETWORKLLC-98499155-485884-478422</episode-num>
+    <rating>
+      <value>PG</value>
     </rating>
   </programme>
 </tv>

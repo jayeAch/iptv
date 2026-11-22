@@ -1124,6 +1124,10 @@
     <display-name>WFXB Myrtle Beach SC (FOX)</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/72384889-EEEB-4EEA-93B3-F26FF4E12D6B/3-1x1.png" />
   </channel>
+<channel id="us-gsn_cinevault_80s_1">
+    <display-name>CINEVAULT</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/691/lg/e11147/LG-Logo-PNG-100x100_v1.png" />
+  </channel>
 <channel id="theasylummoviechannel_tasmc_US">
     <display-name>The Asylum</display-name>
     <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Asylum_Movie_Channel_Logo_LG_400x200.png" />
@@ -1340,12 +1344,6 @@
     <icon src="http://dtil.tmsimg.com/assets/s42642_ll_h15_ac.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">TNT HD (Pacific)</display-name>
-  </channel>
-<channel id="Yes.Network.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s30017_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s30017_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Yes Network</display-name>
   </channel>
 <channel id="FXX.HD.us2">
     <icon src="http://dtil.tmsimg.com/assets/s66379_ll_h9_aa.png?w=360&amp;h=270" />
@@ -1599,8 +1597,6 @@
 <channel id="5302"><display-name>Humor Mill TV</display-name><icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/video_logos/2024/02/09/1707445067DapGBq9zX8.png" /></channel>
 <channel id="5745"><display-name>Cowboy Movie Channel</display-name><icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/video_logos/2024/04/08/1712614492V41m7Es0qF.png" /></channel>
 <channel id="5308"><display-name>Zoomer TV</display-name><icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707447606lfFjnn5nEx-original-8PyL28NK.jpeg" /></channel>
-<channel id="9113"><display-name>In Touch +</display-name><icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/video_logos/2026/02/16/1771261020jn7dhb3tFI.png" /></channel>
-<channel id="9402"><display-name>Real Life Network</display-name><icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/video_logos/2026/09/11/1789158644bpi6p05ipX.png" /></channel>
 <channel id="9395"><display-name>Discovering China</display-name><icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/video_logos/2026/05/03/1777837898w950EQsFDE.png" /></channel>
 <programme channel="400000251" start="20261122200000 +0000" stop="20261122203000 +0000"><title>Cops Reloaded</title><desc>A man is not fast enough when it comes to discarding his drug paraphernalia; police reign in a group of dueling drunks; authorities set up a prostitution sting operation at a local motel; police trip up two criminals stealing copper.</desc></programme>
 <programme channel="400000251" start="20261122203000 +0000" stop="20261122210000 +0000"><title>Cops Reloaded</title><desc>A man is arrested for using his car to bully his wife and daughter; a drug dealer's getaway is foiled; Police resolve a bitter eviction dispute between a couple.</desc></programme>
@@ -1858,7 +1854,6 @@
 <programme channel="400000299" start="20261123210000 +0000" stop="20261123220000 +0000"><title>Court TV Live</title><desc>Gavel-to-gavel coverage and legal analysis of the nation's most compelling trials.</desc></programme>
 <programme channel="400000299" start="20261123220000 +0000" stop="20261123230000 +0000"><title>Court TV Live</title><desc>Gavel-to-gavel coverage and legal analysis of the nation's most compelling trials.</desc></programme>
 <programme channel="400000299" start="20261123230000 +0000" stop="20261124000000 +0000"><title>48 Hours</title><desc>More than 20 years after an Austin, Texas, musician is found fatally beaten, the wife of a fellow artist says that her husband commited the crime.</desc></programme>
-<programme channel="400000006" start="20261122180925 +0000" stop="20261122200256 +0000"><title>Kin</title><desc>After using a mysterious weapon to protect his family, a young man goes on the run with his older brother, hoping to evade otherworldly soldiers.</desc></programme>
 <programme channel="400000006" start="20261122200256 +0000" stop="20261122222130 +0000"><title>Knowing</title><desc>An MIT professor deciphers a code from a mysterious time capsule and races against time to prevent a series of catastrophic events it predicts.</desc></programme>
 <programme channel="400000006" start="20261122222130 +0000" stop="20261123000409 +0000"><title>Kill Switch</title><desc>A pilot battles to save his family and the planet after an experiment for unlimited energy goes wrong.</desc></programme>
 <programme channel="400000006" start="20261123000409 +0000" stop="20261123020641 +0000"><title>The Last Man</title><desc>In this apocalyptic thriller, a vet who has PTSD takes the advice of a random street prophet and starts preparing for the end of days.</desc></programme>
@@ -2124,7 +2119,6 @@
 <programme channel="700412" start="20261123215756 +0000" stop="20261123225024 +0000"><title>Made For Murder</title><desc>Anthony Shore showed troubling personality traits from a very young age. As he got older, his depravity escalated.</desc></programme>
 <programme channel="700412" start="20261123225024 +0000" stop="20261123234242 +0000"><title>Made For Murder</title><desc>David Clarke’s body was found in the river Foss. His death was assumed an accident unti 13 years later, when his loose lipped neighbour began to talk.</desc></programme>
 <programme channel="700412" start="20261123234242 +0000" stop="20261124003806 +0000"><title>Confessions Of A Crime Boss</title><desc>Go back to Gilligan’s criminal roots and see how he built a global drug empire.</desc></programme>
-<programme channel="715949" start="20261122191456 +0000" stop="20261122200331 +0000"><title>Murder Calls</title><desc>Detectives find a trail of deceit in a murder that was years in the making.</desc></programme>
 <programme channel="715949" start="20261122200331 +0000" stop="20261122205405 +0000"><title>Murder Calls</title><desc>Investigators aim to expose the mastermind behind a fatal home invasion.</desc></programme>
 <programme channel="715949" start="20261122205405 +0000" stop="20261122214240 +0000"><title>Murder Calls</title><desc>First responders work to discover who killed their local fire chief.</desc></programme>
 <programme channel="715949" start="20261122214240 +0000" stop="20261122223314 +0000"><title>Murder Calls</title><desc>When a man is shot, police must sort through layers of lies and mistrust.</desc></programme>
@@ -2393,11 +2387,6 @@
         <desc>Andrew Kennedy talks about confusing people with his biracial heritage, questions his dad's business sense, and recalls growing up in the whitest town on Earth.</desc>
         <icon src="https://images.pluto.tv/series/64dcd4f8c6c2a60013ec3c38/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="64f8a949f5b5e4000862467c-CA" start="20261122195800 +0000" stop="20261122200600 +0000">
-        <title>Beavis and Butt-Head</title>
-        <desc>The installation of a new satellite dish at Stewart's house allow Beavis and butt-head and Stewart to watch graphic TV violence all day, despite Mrs. Stevenson's efforts against it.</desc>
-        <icon src="https://images.pluto.tv/series/649d8b92e1356600136862ea/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="64f8a949f5b5e4000862467c-CA" start="20261122200600 +0000" stop="20261122201500 +0000">
         <title>Beavis and Butt-Head</title>
         <desc>Beavis &amp; Butt-head explore the career possibilities in selling blood.</desc>
@@ -2443,11 +2432,6 @@
         <desc>Al is offered $50,000 dollars to reveal the identity of Jefferson, who is revealed to be a spy.</desc>
         <icon src="https://images.pluto.tv/series/66c363902fca060013453725/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="62bdaa32a1b2fd00076693e8-CA" start="20261122190600 +0000" stop="20261122200500 +0000">
-        <title>The FBI Files</title>
-        <desc>When a bank teller arrived at her parent's home the gunmen were already there.  The robbers held her family hostage and forced her to empty a bank vault.  If she didn't comply she could lose everyone she loved.</desc>
-        <icon src="https://images.pluto.tv/series/62d6ffc2677eae00138741a4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="62bdaa32a1b2fd00076693e8-CA" start="20261122200500 +0000" stop="20261122210400 +0000">
         <title>The FBI Files</title>
         <desc>A kidnapping can shatter a family, bringing terror and heartache without warning.  In 1984 with the flash of a gun, an ordinary business transaction became a violent abduction.  In seconds, the son of a wealthy Miami developer was gone.</desc>
@@ -2462,11 +2446,6 @@
         <title>The New Detectives</title>
         <desc>Tool marking: A tool used to commit a crime can often be the same tool used to solve it. The pattern a machine leaves on an item, the unusual way a tool crimps a wire, and even something as innocuous as the shape of a wood chip can lead to a killer.</desc>
         <icon src="https://images.pluto.tv/series/62d1c1ecbe1ffb0014fb596e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="62e92392a3e6270007f562e8-CA" start="20261122193500 +0000" stop="20261122200200 +0000">
-        <title>Forensic Files</title>
-        <desc>It would take 46 years, handwriting analysis and new fingerprint technology to solve the 1957 murders of two California police officers.</desc>
-        <icon src="https://images.pluto.tv/series/62d6f42d75b9dc0013cb88b7/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="62e92392a3e6270007f562e8-CA" start="20261122200200 +0000" stop="20261122202900 +0000">
         <title>Forensic Files</title>
@@ -5628,11 +5607,6 @@
         <desc>A woman stalks and kills her estranged husband's new girlfriend in broad daylight while witnesses watch. She tried to cover it up, but the evidence was overwhelming. A solved true crime case that is vicious, obsessive, and heartbreakingly avoidable.</desc>
         <icon src="https://images.pluto.tv/series/6a3bf262114ca7fcbe708c91/tile_1790722456502.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="61c0989431084d0007eab12d-DK" start="20261122193643 +0000" stop="20261122200643 +0000">
-        <title>Comedy Central Pluto TV</title>
-        <desc>Smil! Comedy Central Pluto TV er kanalen med de bedste komedieserier, de mest ikoniske stand-up-shows, de skøreste tegnefilm og meget mere.</desc>
-        <icon src="https://images.pluto.tv/series/6a9a69876d62a56d3b1f42d0/tile_1788504456120.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="61c0989431084d0007eab12d-DK" start="20261122200643 +0000" stop="20261122203643 +0000">
         <title>Comedy Central Pluto TV</title>
         <desc>Smil! Comedy Central Pluto TV er kanalen med de bedste komedieserier, de mest ikoniske stand-up-shows, de skøreste tegnefilm og meget mere.</desc>
@@ -8673,11 +8647,6 @@
         <desc>When the galaxy comes under the threat of a nefarious space captain, a mechanic and his newfound robot ally join an elite squad of combatants to save the universe.</desc>
         <icon src="https://images.pluto.tv/series/67c0e235db5203ef4d2a201d/tile_1778801773784.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="612cda102f5f18000705e0bf-GB" start="20261122193246 +0000" stop="20261122200339 +0000">
-        <title>Colonel March of Scotland Yard: Hot Money</title>
-        <desc>After a bank robbery, the suspect, never out of sight, goes to his office where he locks himself in. But when the police search, there is no money!</desc>
-        <icon src="https://images.pluto.tv/series/5b190520c65a0642637620b5/tile_1788383161163.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="612cda102f5f18000705e0bf-GB" start="20261122200339 +0000" stop="20261122203441 +0000">
         <title>Colonel March of Scotland Yard: The Missing Link</title>
         <desc>A skull, known as the Damascus man, is stolen from a museum and Colonel March's life is imperiled trying to solve the case.</desc>
@@ -8712,11 +8681,6 @@
         <title>City Confidential</title>
         <desc>The center of Idaho's potato empire, there's nothing bland about this Northwestern town. Spud money has given Boise a sprinkling of big-city sophistication and a dollop of crime.</desc>
         <icon src="https://images.pluto.tv/series/6a847b034996e40ab20d03b0/tile_1787067140120.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="619247c34a270700077c8415-GB" start="20261122190613 +0000" stop="20261122200306 +0000">
-        <title>Battlestar Galactica</title>
-        <desc>In order to escape attack from the Cylons, the Galactica heads toward an endless magnetic void.</desc>
-        <icon src="https://images.pluto.tv/series/67a4bef88fb894287fefe532/tile_1795102337466.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="619247c34a270700077c8415-GB" start="20261122200306 +0000" stop="20261122205951 +0000">
         <title>Battlestar Galactica</title>
@@ -8772,11 +8736,6 @@
         <title>The New Detectives: Lethal Encounter</title>
         <desc>In most homicides, police rely on motive to pursue a murderer. But when the killer is a strangerthe crime may go unsolved for years. It takes a full arsenal of forensic techniques to trace a lethal encounter.</desc>
         <icon src="https://images.pluto.tv/series/5b190526c65a064263762545/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="612f761008a9e50007984ba0-GB" start="20261122194044 +0000" stop="20261122200544 +0000">
-        <title>Bob and Margaret: Stranded in Toronto</title>
-        <desc>When Bob and Margaret take a trip to New York, their flight is re-routed to Toronto due to a storm.</desc>
-        <icon src="https://images.pluto.tv/series/5b19051ec65a064263761fb0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="612f761008a9e50007984ba0-GB" start="20261122200544 +0000" stop="20261122203044 +0000">
         <title>Bob and Margaret: Strangers in a Strange Land</title>
@@ -8877,11 +8836,6 @@
         <title>Born to Kill?</title>
         <desc>Between 1975 and 1981, the Yorkshire Ripper murdered 13 females and brutally attacked at least seven more in the north of England. When Peter Sutcliffe was eventually captured, his family were stunned.</desc>
         <icon src="https://images.pluto.tv/series/6669ce441c02820013392354/tile_1751753141820.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="66ba1e23d2d50d00084a1e57-GB" start="20261122191000 +0000" stop="20261122200500 +0000">
-        <title>Crimes That Shook Britain: Beverly Allitt</title>
-        <desc>Beverley Allitt was thought to be a 'model' nurse. Very astute, caring and always willing to help, why did she murder four children and attempt to kill 11 others?</desc>
-        <icon src="https://images.pluto.tv/series/61efb6ce04ff25001a4f0841/tile_1790723889051.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="66ba1e23d2d50d00084a1e57-GB" start="20261122200500 +0000" stop="20261122205700 +0000">
         <title>Crimes That Shook Britain: Stepping Hill</title>
@@ -12358,20 +12312,10 @@
         <desc>Michael Cera (SUPERBAD) spiller Nick Twisp. En unik, men elskverdig tenåring med en smak for de sofistikerte tingene i livet. Han forelsker seg i den nydelige og intelligente Sheeni Saunders (Portia Doubleday) på campingferie med familien.</desc>
         <icon src="https://images.pluto.tv/series/6305dcc685bbed001afc08d3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="62beb44e3afd120007915d1b-NO" start="20261122181557 +0000" stop="20261122200548 +0000">
-        <title>Hot Seat</title>
-        <desc>IT-eksperten Friar finner en bombe festet til stolen sin, og en hacker beordrer ham til å stjele digitale penger. Snart må Friar kjempe for å renvaske navnet sitt - uten å bli sprengt i fillebiter.</desc>
-        <icon src="https://images.pluto.tv/series/6687cdfe5b669a00134838aa/tile_1788779522679.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="62beb44e3afd120007915d1b-NO" start="20261122200548 +0000" stop="20261122215918 +0000">
         <title>Hjemme i Hampstead</title>
         <desc>En amerikansk enke i London innleder et forhold til en mann som oppholder seg i Hampstead Heath, men en hensynsløs entreprenør vil få ham vekk derfra.</desc>
         <icon src="https://images.pluto.tv/series/66227072a9f2d20013c9ace8/tile_1788779164149.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="63a19cb7847a090007f230d7-NO" start="20261122193201 +0000" stop="20261122200201 +0000">
-        <title>The Twilight Zone: What You Need</title>
-        <desc>A two-bit thug thinks he's found the key to a better life in an old sidewalk salesman who has the uncanny ability to tell people what they need the most.</desc>
-        <icon src="https://images.pluto.tv/series/650bf7f8f64f18001308bea4/tile_1794870870878.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="63a19cb7847a090007f230d7-NO" start="20261122200201 +0000" stop="20261122203201 +0000">
         <title>The Twilight Zone: Showdown with Rance McGrew</title>
@@ -12468,11 +12412,6 @@
         <desc>For serial killers, once is never enough. For investigators, the challenge is steep when the killers murder by numbers.</desc>
         <icon src="https://images.pluto.tv/series/61a797ee4b12ef00148fee8c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="61c1e51354d923000731bf78-NO" start="20261122191148 +0000" stop="20261122200647 +0000">
-        <title>21st Century Serial Killer: Jesse Matthew</title>
-        <desc>A taxi driver in Charlottesville who targeted young woman at university campuses. DNA linked an unknown perpetrator to an abduction, rape and attempted murder in 2005, and a rape and murder in 2009.</desc>
-        <icon src="https://images.pluto.tv/series/63f386bcc33aa400139d48fb/tile_1772467561748.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="61c1e51354d923000731bf78-NO" start="20261122200647 +0000" stop="20261122210305 +0000">
         <title>21st Century Serial Killer: Stephen Port</title>
         <desc>Stephen Port preyed on young men though his grindr account, he spent hours searching web porn, a predator and he was to take the lives of four much-loved young men.</desc>
@@ -12532,11 +12471,6 @@
         <title>Svenske krimsaker</title>
         <desc>En tidlig februarmorgen i Stockholm melder en mann sin kone, Sacha, savnet. Etter hvert som politiet graver i parets fortid, oppdager de et turbulent forhold under den tilsynelatende ryddige overflaten.</desc>
         <icon src="https://images.pluto.tv/series/64f85bb1f439aa0013fb28fa/tile_1789117202325.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="6a0f0de3e022927e1cf74c71-NO" start="20261122191325 +0000" stop="20261122200505 +0000">
-        <title>Mollie Westbrook</title>
-        <desc>Illinois serial killer Bruce Lindahl accidentally severed his own femoral artery while stabbing a victim in 1981, dying on the spot. Decades later, DNA forensics posthumously linked him to over 12 murders.</desc>
-        <icon src="https://images.pluto.tv/series/6a55047c0bd9448d8128161b/tile_1783956605364.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="6a0f0de3e022927e1cf74c71-NO" start="20261122200505 +0000" stop="20261122211247 +0000">
         <title>Rachel Shannon True Crime</title>
@@ -15077,11 +15011,6 @@
         <title>Carmen &amp; Lola</title>
         <desc>Sjuttonåriga Carmen är redan förlovad. Hon förväntas snart gifta sig, få många barn och leva som hennes stora romska släkt alltid har gjort i Madrids förorter. Men när Carmen träffar sin fästmans kusin, den sextonåriga Lola, förändras allt.</desc>
         <icon src="https://images.pluto.tv/series/64c0fb48d0d0320013313e1d/tile_1767990602312.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="63a19e1b9ab2df0007bef7a7-SE" start="20261122193347 +0000" stop="20261122200347 +0000">
-        <title>The Twilight Zone: Walking Distance</title>
-        <desc>Martin Sloan, driving through the country, leaves his car and starts to walk toward his hometown, Homewood. He finds things exactly as they were when he was a child. He soon realizes he's gone back in time.</desc>
-        <icon src="https://images.pluto.tv/series/6501ba9cccaa29001322675c/tile_1794870807996.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="63a19e1b9ab2df0007bef7a7-SE" start="20261122200347 +0000" stop="20261122203347 +0000">
         <title>The Twilight Zone: People Are Alike All Over</title>
@@ -18438,11 +18367,6 @@
         <desc>Residents of quiet Noel, Mo., are shocked when the local bank is robbed in a brazen nighttime heist; the investigation takes a sinister turn when the bank's president is found dead and a pair of brothers suddenly come into a lot of cash.</desc>
         <icon src="https://images.pluto.tv/series/655e8f2f620638001378a611/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="5ff8c708653d080007361b14-US" start="20261122191700 +0000" stop="20261122200400 +0000">
-        <title>NCIS: Origins</title>
-        <desc>Ghosts from Leroy Jethro Gibbs' past catch up to him, shattering his peaceful retirement.</desc>
-        <icon src="https://images.pluto.tv/series/670ead9fa2922a0013434ee4/tile_1791397081732.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="5ff8c708653d080007361b14-US" start="20261122200400 +0000" stop="20261122205000 +0000">
         <title>NCIS: Origins</title>
         <desc>Gibbs returns to civilization and calls in a favor from old friend Woody.</desc>
@@ -18452,11 +18376,6 @@
         <title>NCIS: New York</title>
         <desc>Special Agent Sam Hanna returns to New York City for a new mission.</desc>
         <icon src="https://images.pluto.tv/series/6ac6db9ada71d9a75f85275f/tile_1791477362339.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="691d1200c2185a44642f5e7c-US" start="20261122182410 +0000" stop="20261122200340 +0000">
-        <title>Safe</title>
-        <desc>Jason Statham plays an ex-cage fighter who helps a young girl who holds a secret code.</desc>
-        <icon src="https://images.pluto.tv/series/692656e56f84242a60ad4a83/tile_1764129015678.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="691d1200c2185a44642f5e7c-US" start="20261122200340 +0000" stop="20261122214555 +0000">
         <title>Dredd</title>
@@ -25812,6 +25731,14 @@
     <episode-num system="onscreen">S07E11</episode-num>
     <rating system="USA Parental Rating">TV14</rating>
   </programme>
+<programme channel="645518dc5f92519688baed84d025b14e" start="20261124200205 +0000" stop="20261124202437 +0000">
+    <title>Jail</title>
+    <sub-title>Jail</sub-title>
+    <desc>An inmate demands that officers follow her instructions while in jail.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8f67e3afd8de08eae3fc4a51f26226f7/rokuFeed/assets/e1213c9e8c785e089a504fbdfc7b9fe9.jpg" />
+    <episode-num system="onscreen">S05E07</episode-num>
+    <rating system="USA Parental Rating">TV14</rating>
+  </programme>
 <programme channel="62945e18ab825bfd8b4995d9bd14917b" start="20261122195527 +0000" stop="20261122201851 +0000">
     <title>Forensic Files</title>
     <sub-title>Forensic Files</sub-title>
@@ -29354,11 +29281,6 @@ The story of how scientists solved a 1992 murder case involving cremation. It ta
     <desc lang="en">Investigators found a man was killed in revenge years after testifying in a trial with a guilty verdict.</desc>
     <episode-num system="dd_progid">EP052524290073</episode-num>
   </programme>
-<programme start="20261122193527 +0000" stop="20261122200341 +0000" channel="99991367">
-    <title lang="en">Army of Evidence</title>
-    <desc lang="en">A mother of two young children was found dead in her bedroom. Her death was ruled a suicide - but when investigators learned she had almost died in a house fire three years earlier, they decided to take another look at the evidence.</desc>
-    <episode-num system="dd_assetid">XM0QZYP1RZXJWN</episode-num>
-  </programme>
 <programme start="20261122200341 +0000" stop="20261122203156 +0000" channel="99991367">
     <title lang="en">Shear Luck</title>
     <desc lang="en">In 1991, when the wife of a serviceman was brutally murdered in the Philippines, investigators had to reassemble a 5-1/4 inch computer disk which had been cut to pieces with pinking shears in order to find the killer.</desc>
@@ -30128,11 +30050,6 @@ The story of how scientists solved a 1992 murder case involving cremation. It ta
     <title lang="en">A Wounded Fawn</title>
     <desc lang="en">A serial killer brings an unsuspecting new victim on a weekend getaway to add another body to his ever-growing count. She's buying into his faux charms, and he's eagerly lusting for blood.</desc>
     <episode-num system="dd_assetid">MV019442790000</episode-num>
-  </programme>
-<programme start="20261122181600 +0000" stop="20261122200400 +0000" channel="99991399">
-    <title lang="en">Humboldt County</title>
-    <desc lang="en">Aspiring doctor Peter Hadley (Jeremy Strong) gets the shock of his life when his hard-nosed father (Peter Bogdanovich) -- and medical-school professor -- fails him, invalidating his acceptance to an elite residency program. His long-standing life plan suddenly in question, the introverted Hadley stumbles through the streets of Los Angeles, until a one-night stand with singer Bogart (Fairuza Balk) lands him on an unexpected pilgrimage to Humboldt County, the marijuana capital of the West Coast.</desc>
-    <episode-num system="dd_assetid">MV002303100000</episode-num>
   </programme>
 <programme start="20261122200400 +0000" stop="20261122214400 +0000" channel="99991399">
     <title lang="en">Ceremony</title>
@@ -32910,6 +32827,16 @@ The story of how scientists solved a 1992 murder case involving cremation. It ta
       <value>TV-14</value>
     </rating>
   </programme>
+<programme start="20261122171309 +0000" stop="20261122200709 +0000" channel="us-gsn_cinevault_80s_1">
+    <title lang="en">The Natural</title>
+    <desc lang="en">Talent brought him to the edge of glory... Fate took him to the well of despair... and love sent him to the place he was meant to be. A middle-aged unknown comes seemingly out of nowhere to become a legendary baseball player with almost supernatural talent.</desc>
+    <category lang="en">Movies</category>
+    <icon src="http://img.platform.wurl.dev/channel/691/lg/e11147/LG-768x432_v1.png" />
+    <episode-num system="dd_progid">US-GAMESHOWNETWORKLLC-98499155-485884-478422</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
 <programme start="20261122194045 +0000" stop="20261122212258 +0000" channel="6a1610bebdf296985fd95603-5eea605674085f0040ddc7a6"><title>Terrifier (2021)</title><desc>After being resurrected by a sinister entity, Art the Clown returns to the timid town of Miles County where he targets a teenage girl and her younger brother on Halloween night.</desc><category>Adrenaline + Sci-Fi</category><rating><value>TV-MA</value></rating></programme>
 <programme start="20261122212258 +0000" stop="20261123000307 +0000" channel="6a1610bebdf296985fd95603-5eea605674085f0040ddc7a6"><title>Terrifier 2 (2025)</title><desc>After being resurrected by a sinister entity, Art the Clown returns to Miles County where he begins to target a teenage girl and her younger brother on Halloween.</desc><category>Adrenaline + Sci-Fi</category><rating><value>R</value></rating></programme>
 <programme start="20261123000307 +0000" stop="20261123021616 +0000" channel="6a1610bebdf296985fd95603-5eea605674085f0040ddc7a6"><title>The Endless</title><sub-title>Episode 1</sub-title><desc>Acclaimed filmmakers Moorhead and Benson return with this mind-bending thriller that follows two brothers who receive a cryptic video message inspiring them to revisit the UFO death cult they escaped a decade earlier.</desc><category>Adrenaline + Sci-Fi</category><episode-num system="onscreen">S1E1</episode-num><episode-num system="xmltv_ns">0.0.</episode-num><rating><value>TV-14</value></rating></programme>
@@ -33256,7 +33183,6 @@ The story of how scientists solved a 1992 murder case involving cremation. It ta
 <programme start="20261123112253 +0000" stop="20261123121734 +0000" channel="6a1610bebdf296985fd95603-6502891e8ebe90c9ed73f7a0"><title>Women Behind Bars</title><sub-title>Virginia and Angela</sub-title><desc>Virginia fatally stabs her 81-year-old employer over a forged check.</desc><category>Crime</category><episode-num system="onscreen">S3E11</episode-num><episode-num system="xmltv_ns">2.10.</episode-num><rating><value>TV-PG</value></rating></programme>
 <programme start="20261123121734 +0000" stop="20261123131214 +0000" channel="6a1610bebdf296985fd95603-6502891e8ebe90c9ed73f7a0"><title>Women Behind Bars</title><sub-title>Donna, Jeannie and Evelyn</sub-title><desc>Sisters Donna and Jeannie are convicted after planning to kill Donna's husband with a hammer.</desc><category>Crime</category><episode-num system="onscreen">S3E12</episode-num><episode-num system="xmltv_ns">2.11.</episode-num><rating><value>TV-PG</value></rating></programme>
 <programme start="20261123131214 +0000" stop="20261123140824 +0000" channel="6a1610bebdf296985fd95603-6502891e8ebe90c9ed73f7a0"><title>Women Behind Bars</title><sub-title>Deadly Love Triangles</sub-title><desc>Three women find themselves tangled in love triangles where the odd person out ends up murdered.</desc><category>Crime</category><episode-num system="onscreen">S4E1</episode-num><episode-num system="xmltv_ns">3.0.</episode-num><rating><value>TV-14</value></rating></programme>
-<programme start="20261122193136 +0000" stop="20261122200450 +0000" channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643"><title>Coupling</title><sub-title>Split</sub-title><desc>Steve and Susan have split up and make their seperate ways to the 'Temple of Woman'.</desc><category>Comedy</category><episode-num system="onscreen">S3E1</episode-num><episode-num system="xmltv_ns">2.0.</episode-num><rating><value>TV-14</value></rating></programme>
 <programme start="20261122200450 +0000" stop="20261122203821 +0000" channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643"><title>Coupling</title><sub-title>Faithless</sub-title><desc>Jane finds herself in competition with the 'supreme being of the universe'.</desc><category>Comedy</category><episode-num system="onscreen">S3E2</episode-num><episode-num system="xmltv_ns">2.1.</episode-num><rating><value>TV-14</value></rating></programme>
 <programme start="20261122203821 +0000" stop="20261122211205 +0000" channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643"><title>Coupling</title><sub-title>Unconditional Sex</sub-title><desc>Wilma offers Jeff 'no-strings' sex - she only wants to 'borrow' him from his girlfriend.</desc><category>Comedy</category><episode-num system="onscreen">S3E3</episode-num><episode-num system="xmltv_ns">2.2.</episode-num><rating><value>TV-14</value></rating></programme>
 <programme start="20261122211205 +0000" stop="20261122213611 +0000" channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643"><title>Coupling</title><sub-title>Remember This</sub-title><desc>Patrick and Sally have very different recollections of Susan's office party.</desc><category>Comedy</category><episode-num system="onscreen">S3E4</episode-num><episode-num system="xmltv_ns">2.3.</episode-num><rating><value>TV-14</value></rating></programme>
@@ -44484,427 +44410,6 @@ The story of how scientists solved a 1992 murder case involving cremation. It ta
       <value>PG</value>
     </rating>
   </programme>
-<programme channel="Yes.Network.us2" start="20261122180000 +0000" stop="20261122210000 +0000">
-    <title lang="en">Yankees Classics</title>
-    <desc lang="en">Derek Jeter gets his 3,000th career hit. From July 9, 2011.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Classic Sport Event</category>
-    <category lang="en">Baseball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p316467_b_h10_ad.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E2</episode-num>
-    <previously-shown /></programme>
-<programme channel="Yes.Network.us2" start="20261122210000 +0000" stop="20261123010000 +0000">
-    <title lang="en">Yankees Classics</title>
-    <desc lang="en">Derek Jeter goes 2 for 5 with a double and 3 RBIs including a game-winning single in the bottom of the ninth inning to lift the Yankees to victory over the Baltimore Orioles, 6-5. From Sept. 25, 2014.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Classic Sport Event</category>
-    <category lang="en">Baseball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p316467_b_h10_ad.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E1</episode-num>
-    <previously-shown /></programme>
-<programme channel="Yes.Network.us2" start="20261123010000 +0000" stop="20261123023000 +0000">
-    <title lang="en">Yankeeography</title>
-    <sub-title lang="en">Derek Jeter</sub-title>
-    <desc lang="en">The life and playing career of Yankees shortstop Derek Jeter.</desc>
-    <date>2002</date>
-    <category lang="en">Series</category>
-    <category lang="en">Baseball</category>
-    <category lang="en">Biography</category>
-    <icon src="http://dtil.tmsimg.com/assets/p316456_b_h10_ad.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E1</episode-num>
-    <previously-shown /></programme>
-<programme channel="Yes.Network.us2" start="20261123023000 +0000" stop="20261123033000 +0000">
-    <title lang="en">Yankeeography</title>
-    <sub-title lang="en">1998</sub-title>
-    <desc lang="en">John Sterling narrates the incredible story of the New York Yankees' 1998 championship season.</desc>
-    <date>2008</date>
-    <category lang="en">Series</category>
-    <category lang="en">Baseball</category>
-    <category lang="en">Biography</category>
-    <icon src="http://dtil.tmsimg.com/assets/p316456_b_h10_ad.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E1</episode-num>
-    <previously-shown /></programme>
-<programme channel="Yes.Network.us2" start="20261123033000 +0000" stop="20261123043000 +0000">
-    <title lang="en">Yankees Classics</title>
-    <desc lang="en">Great games and individual performances of past telecasts.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Classic Sport Event</category>
-    <category lang="en">Baseball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p316467_b_h10_ad.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E2</episode-num>
-    <previously-shown /></programme>
-<programme channel="Yes.Network.us2" start="20261123043000 +0000" stop="20261123053000 +0000">
-    <title lang="en">Yankeeography</title>
-    <sub-title lang="en">CC Sabathia</sub-title>
-    <desc lang="en">Biography of former Yankees starting pitcher CC Sabathia, looking at his playing career and life outside of baseball.</desc>
-    <date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Baseball</category>
-    <category lang="en">Biography</category>
-    <icon src="http://dtil.tmsimg.com/assets/p316456_b_h10_ad.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E2</episode-num>
-    <previously-shown /></programme>
-<programme channel="Yes.Network.us2" start="20261123053000 +0000" stop="20261123063000 +0000">
-    <title lang="en">Yankeeography</title>
-    <sub-title lang="en">Hideki Matsui</sub-title>
-    <desc lang="en">The life and playing career of Yankees outfielder Hideki Matsui.</desc>
-    <date>2006</date>
-    <category lang="en">Series</category>
-    <category lang="en">Baseball</category>
-    <category lang="en">Biography</category>
-    <icon src="http://dtil.tmsimg.com/assets/p316456_b_h10_ad.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E2</episode-num>
-    <previously-shown /></programme>
-<programme channel="Yes.Network.us2" start="20261123063000 +0000" stop="20261123073000 +0000">
-    <title lang="en">BKFC Rewind</title>
-    <desc lang="en">Revisit the Bare Knuckle Fighting Championship's events.</desc>
-    <date>2026</date>
-    <category lang="en">Mixed martial arts</category>
-    <icon src="http://dtil.tmsimg.com/assets/p32106977_b_h10_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-<programme channel="Yes.Network.us2" start="20261123073000 +0000" stop="20261123080000 +0000">
-    <title lang="en">The Bare Knuckle Show</title>
-    <desc lang="en">Host Brian Soscia discusses combat sporting news, exclusive BKFC content, interviews &amp; more from the past month.</desc>
-    <date>2026</date>
-    <category lang="en">Mixed martial arts</category>
-    <icon src="http://dtil.tmsimg.com/assets/p32048703_b_h10_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-<programme channel="Yes.Network.us2" start="20261123080000 +0000" stop="20261123090000 +0000">
-    <title lang="en">Supergirl Surf Pro 2026</title>
-    <sub-title lang="en">Oceanside, Calif</sub-title>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Surfing</category>
-    <icon src="http://dtil.tmsimg.com/assets/p34306521_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-<programme channel="Yes.Network.us2" start="20261123090000 +0000" stop="20261123093000 +0000">
-    <title lang="en">Swing Clinic With Jimmy Hanlin</title>
-    <desc lang="en">Golf tips, strategy and review of products.</desc>
-    <credits>
-      <actor>Jimmy Hanlin</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="en">Golf</category>
-    <icon src="http://dtil.tmsimg.com/assets/p10675302_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-<programme channel="Yes.Network.us2" start="20261123093000 +0000" stop="20261123100000 +0000">
-    <title lang="en">18 Holes With Natalie Gulbis and Jimmy Hanlin</title>
-    <sub-title lang="en">Penn Ohio Golf Trail</sub-title>
-    <desc lang="en">Jimmy Hanlin and Natalie Gulbis showcase some of the best golf destinations.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Golf</category>
-    <icon src="http://dtil.tmsimg.com/assets/p13896302_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E19</episode-num>
-    <previously-shown /></programme>
-<programme channel="Yes.Network.us2" start="20261123100000 +0000" stop="20261123103000 +0000">
-    <title lang="en">Bonnies Insider</title>
-    <date>2026</date>
-    <icon src="http://dtil.tmsimg.com/assets/p34443758_b_h8_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-<programme channel="Yes.Network.us2" start="20261123103000 +0000" stop="20261123110000 +0000">
-    <title lang="en">Yankees Magazine</title>
-    <desc lang="en">New York Yankees news and highlights.</desc>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Baseball</category>
-    <category lang="en">Newsmagazine</category>
-    <icon src="http://dtil.tmsimg.com/assets/p533291_b_h10_ac.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-<programme channel="Yes.Network.us2" start="20261123110000 +0000" stop="20261123113000 +0000">
-    <title lang="en">Breaking Par</title>
-    <desc lang="en">A look at the game of golf through a different lens.</desc>
-    <credits>
-      <actor>Ryan Johnson</actor>
-      <actor>Felix Stone</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Golf</category>
-    <icon src="http://dtil.tmsimg.com/assets/p13467779_b_h10_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-<programme channel="Yes.Network.us2" start="20261123113000 +0000" stop="20261123120000 +0000">
-    <title lang="en">Breaking Par</title>
-    <desc lang="en">A look at the game of golf through a different lens.</desc>
-    <credits>
-      <actor>Ryan Johnson</actor>
-      <actor>Felix Stone</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Golf</category>
-    <icon src="http://dtil.tmsimg.com/assets/p13467779_b_h10_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-<programme channel="Yes.Network.us2" start="20261123120000 +0000" stop="20261123130000 +0000">
-    <title lang="en">Bronx Buds</title>
-    <sub-title lang="en">Season 3</sub-title>
-    <desc lang="en">A team of young athletes navigate the highs and lows of youth baseball, teaching valuable lessons about teamwork, perseverance, and friendship in this animated series.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Baseball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p30678707_b_h10_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-<programme channel="Yes.Network.us2" start="20261123130000 +0000" stop="20261123133000 +0000">
-    <title lang="en">18 Holes With Natalie Gulbis and Jimmy Hanlin</title>
-    <desc lang="en">Jimmy Hanlin and Natalie Gulbis showcase some of the best golf destinations.</desc>
-    <date>2017</date>
-    <category lang="en">Golf</category>
-    <icon src="http://dtil.tmsimg.com/assets/p13896302_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-<programme channel="Yes.Network.us2" start="20261123133000 +0000" stop="20261123140000 +0000">
-    <title lang="en">18 Holes With Natalie Gulbis and Jimmy Hanlin</title>
-    <desc lang="en">Jimmy Hanlin and Natalie Gulbis showcase some of the best golf destinations.</desc>
-    <date>2017</date>
-    <category lang="en">Golf</category>
-    <icon src="http://dtil.tmsimg.com/assets/p13896302_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-<programme channel="Yes.Network.us2" start="20261123140000 +0000" stop="20261123160000 +0000">
-    <title lang="en">Yankees Classics</title>
-    <desc lang="en">David Cone pitches a perfect game against the Montreal Expos. From July 18, 1999.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Classic Sport Event</category>
-    <category lang="en">Baseball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p316467_b_h10_ad.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E8</episode-num>
-    <previously-shown /></programme>
-<programme channel="Yes.Network.us2" start="20261123160000 +0000" stop="20261123163000 +0000">
-    <title lang="en">The Story of My Number</title>
-    <sub-title lang="en">David Cone</sub-title>
-    <desc lang="en">Explore the stories of New York Yankees icons and uncover the meanings behind the numbers that have defined their careers and their lives.</desc>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Baseball</category>
-    <category lang="en">Sports talk</category>
-    <icon src="http://dtil.tmsimg.com/assets/p27220959_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E6</episode-num>
-    <previously-shown /></programme>
-<programme channel="Yes.Network.us2" start="20261123163000 +0000" stop="20261123193000 +0000">
-    <title lang="en">Yankees Classics</title>
-    <desc lang="en">Paul O'Neill hits 3 home runs and scores 8 RBIs against the Anaheim Angels. From Aug. 31, 1995.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Classic Sport Event</category>
-    <category lang="en">Baseball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p316467_b_h10_ad.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E6</episode-num>
-    <previously-shown /></programme>
-<programme channel="Yes.Network.us2" start="20261123193000 +0000" stop="20261123200000 +0000">
-    <title lang="en">The Story of My Number</title>
-    <sub-title lang="en">Paul O'Neill</sub-title>
-    <desc lang="en">Explore the stories of New York Yankees icons and uncover the meanings behind the numbers that have defined their careers and their lives.</desc>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Baseball</category>
-    <category lang="en">Sports talk</category>
-    <icon src="http://dtil.tmsimg.com/assets/p27220959_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E4</episode-num>
-    <previously-shown /></programme>
-<programme channel="Yes.Network.us2" start="20261123200000 +0000" stop="20261124000000 +0000">
-    <title lang="en">Yankees Classics</title>
-    <desc lang="en">Philadelphia at New York. Yankees win their 27th world championship. From Nov. 4, 2009.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Classic Sport Event</category>
-    <category lang="en">Baseball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p316467_b_h10_ad.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E3</episode-num>
-    <previously-shown /></programme>
-<programme channel="Yes.Network.us2" start="20261124000000 +0000" stop="20261124003000 +0000">
-    <title lang="en">Cam Schlittler: A Cy Young Season</title>
-    <date>2026</date>
-    <category lang="en">Special</category>
-    <category lang="en">Baseball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p34613809_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-<programme channel="Yes.Network.us2" start="20261124003000 +0000" stop="20261124010000 +0000">
-    <title lang="en">Homegrown: The Path to Pinstripes</title>
-    <desc lang="en">Yankees fans get a look at the Scranton/Wilkes-Barre RailRiders, the New York Yankees' Triple-A team.</desc>
-    <date>2017</date>
-    <category lang="en">Baseball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p14008203_b_h10_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-<programme channel="Yes.Network.us2" start="20261124010000 +0000" stop="20261124030000 +0000">
-    <title lang="en">Men's Club Soccer Friendlies</title>
-    <desc lang="en">Coverage of exhibition matches between men's club teams.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG003C3HF1.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>A</value>
-    </rating>
-  </programme>
-<programme channel="Yes.Network.us2" start="20261124030000 +0000" stop="20261124033000 +0000">
-    <title lang="en">The Stadium</title>
-    <desc lang="en">On a new YES docuseries... Go behind the scenes of one of the most iconic sports venues in the world, where the magic of baseball meets the meticulous operations that make it all possible. See the cathedral in the Bronx like you've never seen it before!</desc>
-    <date>2025</date>
-    <category lang="en">Baseball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p30013447_b_h10_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-<programme channel="Yes.Network.us2" start="20261124033000 +0000" stop="20261124040000 +0000">
-    <title lang="en">The Stadium</title>
-    <desc lang="en">On a new YES docuseries... Go behind the scenes of one of the most iconic sports venues in the world, where the magic of baseball meets the meticulous operations that make it all possible. See the cathedral in the Bronx like you've never seen it before!</desc>
-    <date>2025</date>
-    <category lang="en">Baseball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p30013447_b_h10_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-<programme channel="Yes.Network.us2" start="20261124040000 +0000" stop="20261124043000 +0000">
-    <title lang="en">The Stadium</title>
-    <desc lang="en">On a new YES docuseries... Go behind the scenes of one of the most iconic sports venues in the world, where the magic of baseball meets the meticulous operations that make it all possible. See the cathedral in the Bronx like you've never seen it before!</desc>
-    <date>2025</date>
-    <category lang="en">Baseball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p30013447_b_h10_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-<programme channel="Yes.Network.us2" start="20261124043000 +0000" stop="20261124050000 +0000">
-    <title lang="en">Brooklyn Nets Magazine</title>
-    <desc lang="en">Highlight show of the Brooklyn Nets; interviews with players and coaches.</desc>
-    <date>2012</date>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Basketball</category>
-    <category lang="en">Newsmagazine</category>
-    <icon src="http://dtil.tmsimg.com/assets/p9324589_b_h10_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-<programme channel="Yes.Network.us2" start="20261124050000 +0000" stop="20261124053000 +0000">
-    <title lang="en">The Bare Knuckle Show</title>
-    <desc lang="en">Host Brian Soscia discusses combat sporting news, exclusive BKFC content, interviews &amp; more from the past month.</desc>
-    <date>2026</date>
-    <category lang="en">Mixed martial arts</category>
-    <icon src="http://dtil.tmsimg.com/assets/p32048703_b_h10_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-<programme channel="Yes.Network.us2" start="20261124053000 +0000" stop="20261124063000 +0000">
-    <title lang="en">BKFC Rewind</title>
-    <desc lang="en">Revisit the Bare Knuckle Fighting Championship's events.</desc>
-    <date>2026</date>
-    <category lang="en">Mixed martial arts</category>
-    <icon src="http://dtil.tmsimg.com/assets/p32106977_b_h10_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-<programme channel="Yes.Network.us2" start="20261124063000 +0000" stop="20261124073000 +0000">
-    <title lang="en">Supergirl Surf Pro 2026</title>
-    <sub-title lang="en">Oceanside, Calif</sub-title>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Surfing</category>
-    <icon src="http://dtil.tmsimg.com/assets/p34306521_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-<programme channel="Yes.Network.us2" start="20261124073000 +0000" stop="20261124080000 +0000">
-    <title lang="en">HOPE Week Remembered</title>
-    <desc lang="en">The events and stories from HOPE week.</desc>
-    <date>2010</date>
-    <category lang="en">Special</category>
-    <category lang="en">Baseball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p8306381_b_h10_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-<programme channel="Yes.Network.us2" start="20261124080000 +0000" stop="20261124103000 +0000">
-    <title lang="en">New York Yankees Old-Timer's Day Special</title>
-    <date>2026</date>
-    <category lang="en">Special</category>
-    <category lang="en">Baseball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33651493_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-<programme channel="Yes.Network.us2" start="20261124103000 +0000" stop="20261124110000 +0000">
-    <title lang="en">Sportico Sports Business</title>
-    <desc lang="en">The leading voices in the business of sports analyze the industry around your favorite leagues, teams and athletes.</desc>
-    <date>2025</date>
-    <category lang="en">Bus./financial</category>
-    <icon src="http://dtil.tmsimg.com/assets/p29495904_b_h10_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-<programme channel="Yes.Network.us2" start="20261124110000 +0000" stop="20261124113000 +0000">
-    <title lang="en">Swing Clinic With Jimmy Hanlin</title>
-    <desc lang="en">Golf tips, strategy and review of products.</desc>
-    <credits>
-      <actor>Jimmy Hanlin</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Golf</category>
-    <icon src="http://dtil.tmsimg.com/assets/p10675302_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E3</episode-num>
-    <previously-shown /></programme>
-<programme channel="Yes.Network.us2" start="20261124113000 +0000" stop="20261124120000 +0000">
-    <title lang="en">Swing Clinic With Jimmy Hanlin</title>
-    <desc lang="en">Golf tips, strategy and review of products.</desc>
-    <credits>
-      <actor>Jimmy Hanlin</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Golf</category>
-    <icon src="http://dtil.tmsimg.com/assets/p10675302_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E4</episode-num>
-    <previously-shown /></programme>
-<programme channel="Yes.Network.us2" start="20261124120000 +0000" stop="20261124130000 +0000">
-    <title lang="en">Yankeeography</title>
-    <sub-title lang="en">Tino Martinez</sub-title>
-    <desc lang="en">The greatest names in Yankee history are brought to life in this biography series.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Baseball</category>
-    <category lang="en">Biography</category>
-    <icon src="http://dtil.tmsimg.com/assets/p316456_b_h10_ad.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E2</episode-num>
-    <previously-shown /></programme>
-<programme channel="Yes.Network.us2" start="20261124130000 +0000" stop="20261124140000 +0000">
-    <title lang="en">Bronx Buds</title>
-    <sub-title lang="en">Season 3</sub-title>
-    <desc lang="en">A team of young athletes navigate the highs and lows of youth baseball, teaching valuable lessons about teamwork, perseverance, and friendship in this animated series.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Baseball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p30678707_b_h10_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-<programme channel="Yes.Network.us2" start="20261124140000 +0000" stop="20261124143000 +0000">
-    <title lang="en">Breaking Par</title>
-    <desc lang="en">A look at the game of golf through a different lens.</desc>
-    <credits>
-      <actor>Ryan Johnson</actor>
-      <actor>Felix Stone</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Golf</category>
-    <icon src="http://dtil.tmsimg.com/assets/p13467779_b_h10_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-<programme channel="Yes.Network.us2" start="20261124143000 +0000" stop="20261124150000 +0000">
-    <title lang="en">Breaking Par</title>
-    <desc lang="en">A look at the game of golf through a different lens.</desc>
-    <credits>
-      <actor>Ryan Johnson</actor>
-      <actor>Felix Stone</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Golf</category>
-    <icon src="http://dtil.tmsimg.com/assets/p13467779_b_h10_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-<programme channel="Yes.Network.us2" start="20261124150000 +0000" stop="20261124153000 +0000">
-    <title lang="en">Cam Schlittler: A Cy Young Season</title>
-    <date>2026</date>
-    <category lang="en">Special</category>
-    <category lang="en">Baseball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p34613809_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-<programme channel="Yes.Network.us2" start="20261124153000 +0000" stop="20261124160000 +0000">
-    <title lang="en">Homegrown: The Path to Pinstripes</title>
-    <desc lang="en">Yankees fans get a look at the Scranton/Wilkes-Barre RailRiders, the New York Yankees' Triple-A team.</desc>
-    <date>2017</date>
-    <category lang="en">Baseball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p14008203_b_h10_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-<programme channel="Yes.Network.us2" start="20261124160000 +0000" stop="20261124173000 +0000">
-    <title lang="en">From Badalona to Brooklyn: The Jordi Fernandez Story</title>
-    <date>2026</date>
-    <category lang="en">Special</category>
-    <category lang="en">Basketball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p32710273_b_h10_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-<programme channel="Yes.Network.us2" start="20261124173000 +0000" stop="20261124180000 +0000">
-    <title lang="en">Nets Generation</title>
-    <desc lang="en">Follow the NBA journeys of the 2025 Brooklyn Nets rookie class.</desc>
-    <date>2025</date>
-    <category lang="en">Basketball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p31694499_b_h10_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-<programme channel="Yes.Network.us2" start="20261124180000 +0000" stop="20261124210000 +0000">
-    <title lang="en">AC Milan Magazine</title>
-    <date>2022</date>
-    <category lang="en">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/p22942257_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
 <programme channel="Laff.us2" start="20261122200000 +0000" stop="20261122203000 +0000">
     <title lang="en">According to Jim</title>
     <sub-title lang="en">The Race</sub-title>
@@ -109029,18 +108534,6 @@ The story of how scientists solved a 1992 murder case involving cremation. It ta
     <episode-num system="xmltv_ns">0.3.0/1</episode-num>
     <date>20141013</date>
   </programme>
-<programme start="20261122193723 +0000" stop="20261122200550 +0000" channel="primal">
-    <title lang="en">Genndy Tartakovsky's Primal</title>
-    <sub-title lang="en">A Cold Death</sub-title>
-    <desc lang="en">In the harshness of the primordial winter a herd of woolly mammoths hunt for the murderers of one of their own.</desc>
-    <category lang="en">Toons</category>
-    <rating system="VCHIP">
-      <value>TV-14 V</value>
-    </rating>
-    <icon src="https://media.cdn.adultswim.com/uploads/20191004/thumbnails/2_191041426462-Primal_003_dup-20190815.jpg" />
-    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
-    <date>20191010</date>
-  </programme>
 <programme start="20261122200550 +0000" stop="20261122203417 +0000" channel="primal">
     <title lang="en">Genndy Tartakovsky's Primal</title>
     <sub-title lang="en">Terror Under the Blood Moon</sub-title>
@@ -112194,12 +111687,6 @@ The story of how scientists solved a 1992 murder case involving cremation. It ta
     <icon src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461328546-samjack_003.jpg" />
     <episode-num system="xmltv_ns">0.2.0/1</episode-num>
     <date>20010925</date>
-  </programme>
-<programme start="20261122195313 +0000" stop="20261122200434 +0000" channel="squidbillies">
-    <title lang="en">Squidbillies</title>
-    <sub-title lang="en">Tween Steam</sub-title>
-    <category lang="en">Toons</category>
-    <icon src="https://media.cdn.adultswim.com/uploads/20211107/21117198155-SquidbilliesMetaThumb420x236.png" />
   </programme>
 <programme start="20261122200434 +0000" stop="20261122201556 +0000" channel="squidbillies">
     <title lang="en">Squidbillies</title>
@@ -115663,12 +115150,6 @@ begin to suspect his wife or the gruesome shooting of an elderly couple whose bo
     <category lang="en">True Crime</category>
     <icon src="https://img.vidaahub.com/s3_bucket/60076/live/60076_1897_e4a2c427-e55c-11f1-92eb-0a9c8934df2b/d0075792a4e58802eb858c40f93f2b65?f=webp&amp;resize=w_480,h_360" />
   </programme>
-<programme start="20261122190200 +0000" stop="20261122200200 +0000" channel="11974">
-    <title lang="en">What She Did for Love</title>
-    <desc lang="en">Toni Dykstra is found dead of head injuries in Carlo Ventre's apartment following a custody battle.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://img.vidaahub.com/s3_bucket/60142/live/60142_48Hours_eEP000167471602_1795374120000/7c4d01e0918c1fc25a1da273d27e9c20?f=webp&amp;resize=w_480,h_270" />
-  </programme>
 <programme start="20261122200100 +0000" stop="20261122210000 +0000" channel="11974">
     <title lang="en">Hunted</title>
     <desc lang="en">Authorities in Colorado race to catch a serial rapist before he attacks again.</desc>
@@ -115974,6 +115455,12 @@ begin to suspect his wife or the gruesome shooting of an elderly couple whose bo
     <desc lang="en">In the investigation of the murder of a one-time millionaire, both his ex-wife and his son are suspects.</desc>
     <category lang="en">True Crime</category>
     <icon src="https://img.vidaahub.com/s3_bucket/60142/live/60142_48Hours_eEP000167470871_1795546860000/7c4d01e0918c1fc25a1da273d27e9c20?f=webp&amp;resize=w_480,h_270" />
+  </programme>
+<programme start="20261124200200 +0000" stop="20261124210200 +0000" channel="11974">
+    <title lang="en">Devil's Island</title>
+    <desc lang="en">The girlfriend of an ex-Marine with a hidden life goes missing in Panama.</desc>
+    <category lang="en">True Crime</category>
+    <icon src="https://img.vidaahub.com/s3_bucket/60142/live/60142_48Hours_eEP000167470937_1795550520000/7c4d01e0918c1fc25a1da273d27e9c20?f=webp&amp;resize=w_480,h_270" />
   </programme>
 <programme start="20261122183638 +0000" stop="20261122203517 +0000" channel="8020">
     <title lang="en">While We're Young</title>
@@ -117973,6 +117460,9 @@ begin to suspect his wife or the gruesome shooting of an elderly couple whose bo
 <programme start="20261124181429 +0000" stop="20261124200138 +0000" channel="whale.1034986045911343818">
     <title lang="en">Stories from the Sea</title>
   </programme>
+<programme start="20261124200138 +0000" stop="20261124221340 +0000" channel="whale.1034986045911343818">
+    <title lang="en">Johanna Dohnal - Visionary of Feminism</title>
+  </programme>
 <programme start="20261122192618 +0000" stop="20261122210851 +0000" channel="whale.609411515976060398">
     <title lang="en">The Selling</title>
   </programme>
@@ -118239,9 +117729,6 @@ begin to suspect his wife or the gruesome shooting of an elderly couple whose bo
   </programme>
 <programme start="20261124200000 +0000" stop="20261124210000 +0000" channel="whale.643123720684571896">
     <title lang="en">Movie Mania</title>
-  </programme>
-<programme start="20261122182948 +0000" stop="20261122200139 +0000" channel="whale.979187723418476860">
-    <title lang="en">TNT Jackson</title>
   </programme>
 <programme start="20261122200139 +0000" stop="20261122224036 +0000" channel="whale.979187723418476860">
     <title lang="en">Deep Red</title>
@@ -118797,67 +118284,4 @@ begin to suspect his wife or the gruesome shooting of an elderly couple whose bo
 <programme start="20261124090514 +0000" stop="20261124104432 +0000" channel="8343"><title>Friday After Next</title><desc>Craig and Day-Day work as security guards at a local shopping mall on Christmas Eve. When a crooked Santa Claus robs their apartment, they must navigate holiday chaos, pursue the thief, and try to recover their stolen presents and rent money before it's too late.</desc><category>comedy</category><icon src="https://d2hg8iw5ouddos.cloudfront.net/prod/096330be40ff2f864106204e49e74fb8/019a7242-c4d7-76f8-8293-9f5a2a69f94c/117fafab369196fe4c193629f4de2141.jpg" /></programme>
 <programme start="20261124104432 +0000" stop="20261124123648 +0000" channel="8343"><title>The Bachelor Weekend (The Stag)</title><desc>An Irish groom's brother plans a hiking trip bachelor party with a no-women rule. When the groom's fiancée's brother shows up with his girlfriend, tensions arise. The weekend camping trip becomes a test of friendships, masculinity, and relationships in the wilderness.</desc><category>comedy</category><icon src="https://d2hg8iw5ouddos.cloudfront.net/prod/096330be40ff2f864106204e49e74fb8/019a7242-c4d7-76f8-8293-9f5a2a69f94c/fba923aba35429911fac43f562b8fba0.jpg" /></programme>
 <programme start="20261124123649 +0000" stop="20261124142903 +0000" channel="8343"><title>Watching the Detectives</title><desc>Film noir-obsessed video store clerk Neil meets and falls for Violet, a free-spirited woman who pulls him into her world of spontaneous adventures. She stages elaborate film-like scenarios to shake up his routine life, but her extreme methods test whether their romance can survive reality.</desc><category>comedy</category><icon src="https://d2hg8iw5ouddos.cloudfront.net/prod/096330be40ff2f864106204e49e74fb8/019a7242-c4d7-76f8-8293-9f5a2a69f94c/d553acb88b93bd8311c53e539a8dcdd5.jpg" /></programme>
-<programme start="20261122200000 +0000" stop="20261122203000 +0000" channel="9113"><title>Unknown</title><desc>Unshakable Under Pressure</desc><category>Religion</category></programme>
-<programme start="20261122203000 +0000" stop="20261122210000 +0000" channel="9113"><title>Unknown</title><desc>WhenANationBelievedGod</desc><category>Religion</category></programme>
-<programme start="20261122210000 +0000" stop="20261122213000 +0000" channel="9113"><title>Unknown</title><desc>Have a Happy Holy Day</desc><category>Religion</category></programme>
-<programme start="20261122213000 +0000" stop="20261122220000 +0000" channel="9113"><title>Unknown</title><desc>Eternal Life: Do You Want It? - Dr. Stanley challenges us to look beyond the things of this world and to consider your eternity.</desc><category>Religion</category></programme>
-<programme start="20261122220000 +0000" stop="20261122225200 +0000" channel="9113"><title>Unknown</title><desc>Remember Before You Forget</desc><category>Religion</category></programme>
-<programme start="20261122225200 +0000" stop="20261122230100 +0000" channel="9113"><title>Unknown</title><desc>Sermon on the Mount: Wealth and Worry - Watch an explainer video to discover what Jesus teaches in key Bible verses about wealth and possessions in the Sermon on the Mount.</desc><category>Religion</category></programme>
-<programme start="20261122230100 +0000" stop="20261122233000 +0000" channel="9113"><title>Unknown</title><desc>Pastor Stephen looks at our God given roles as a man and woman and how are two parts of God's vision!</desc><category>Religion</category></programme>
-<programme start="20261122233000 +0000" stop="20261123000000 +0000" channel="9113"><title>Unknown</title><desc>A Clear Mind - Dr. Stanley explains why what we think is so important in reaching our full potential.</desc><category>Religion</category></programme>
-<programme start="20261122193000 +0000" stop="20261122203000 +0000" channel="9402"><title>Fearless with Cissie Graham Lynch</title><desc>Fearless with Cissie Graham Lynch</desc><category>Religion</category><icon src="https://d2x5rng4wji6ie.cloudfront.net/FCG.jpg" /></programme>
-<programme start="20261122203000 +0000" stop="20261122210000 +0000" channel="9402"><title>Fearless with Cissie Graham Lynch</title><desc>Fearless with Cissie Graham Lynch</desc><category>Religion</category><icon src="https://d2x5rng4wji6ie.cloudfront.net/FCG.jpg" /></programme>
-<programme start="20261122210000 +0000" stop="20261122220000 +0000" channel="9402"><title>The Heidi St. John Show</title><desc>The Heidi St. John Show</desc><category>Religion</category><icon src="https://d2x5rng4wji6ie.cloudfront.net/HSS.jpg" /></programme>
-<programme start="20261122220000 +0000" stop="20261122230000 +0000" channel="9402"><title>America's Hope with Kelly Wright</title><desc>America's Hope with Kelly Wright</desc><category>Religion</category><icon src="https://images.frequency.com/linear_channel/1170/solid/rectangle/original.png" /></programme>
-<programme start="20261122230000 +0000" stop="20261123000000 +0000" channel="9402"><title>The Addison Smith Show</title><desc>The Addison Smith Show</desc><category>Religion</category><icon src="https://d2x5rng4wji6ie.cloudfront.net/ASS.jpg" /></programme>
-<programme start="20261123000000 +0000" stop="20261123010000 +0000" channel="9402"><title>The Daniel Cohen Show</title><desc>The Daniel Cohen Show</desc><category>Religion</category><icon src="https://d2x5rng4wji6ie.cloudfront.net/DCS.jpg" /></programme>
-<programme start="20261123010000 +0000" stop="20261123020000 +0000" channel="9402"><title>The Institute for Creation Podcast</title><desc>The Institute for Creation Podcast</desc><category>Religion</category><icon src="https://d2x5rng4wji6ie.cloudfront.net/ICP.jpg" /></programme>
-<programme start="20261123020000 +0000" stop="20261123023000 +0000" channel="9402"><title>Hope Served Here (FJM)</title><desc>Hope Served Here (FJM)</desc><category>Religion</category><icon src="https://d2x5rng4wji6ie.cloudfront.net/FJM.jpg" /></programme>
-<programme start="20261123023000 +0000" stop="20261123030000 +0000" channel="9402"><title>Living Waters Podcast</title><desc>Living Waters Podcast</desc><category>Religion</category><icon src="https://d2x5rng4wji6ie.cloudfront.net/PPP.jpg" /></programme>
-<programme start="20261123030000 +0000" stop="20261123033000 +0000" channel="9402"><title>The Todd Coconato Show</title><desc>The Todd Coconato Show</desc><category>Religion</category><icon src="https://d2x5rng4wji6ie.cloudfront.net/TCS.jpg" /></programme>
-<programme start="20261123033000 +0000" stop="20261123040000 +0000" channel="9402"><title>The Book Club Prager U</title><desc>The Book Club Prager U</desc><category>Religion</category><icon src="https://d2x5rng4wji6ie.cloudfront.net/TBC.jpg" /></programme>
-<programme start="20261123040000 +0000" stop="20261123050000 +0000" channel="9402"><title>Fearless with Cissie Graham Lynch</title><desc>Fearless with Cissie Graham Lynch</desc><category>Religion</category><icon src="https://d2x5rng4wji6ie.cloudfront.net/FCG.jpg" /></programme>
-<programme start="20261123050000 +0000" stop="20261123060000 +0000" channel="9402"><title>The Heidi St. John Show</title><desc>The Heidi St. John Show</desc><category>Religion</category><icon src="https://d2x5rng4wji6ie.cloudfront.net/HSS.jpg" /></programme>
-<programme start="20261123060000 +0000" stop="20261123070000 +0000" channel="9402"><title>The Eric Metaxas Show</title><desc>The Eric Metaxas Show</desc><category>Religion</category><icon src="https://d2x5rng4wji6ie.cloudfront.net/EMS.jpg" /></programme>
-<programme start="20261123070000 +0000" stop="20261123080000 +0000" channel="9402"><title>America's Hope with Kelly Wright</title><desc>America's Hope with Kelly Wright</desc><category>Religion</category><icon src="https://images.frequency.com/linear_channel/1170/solid/rectangle/original.png" /></programme>
-<programme start="20261123080000 +0000" stop="20261123090000 +0000" channel="9402"><title>The Addison Smith Show</title><desc>The Addison Smith Show</desc><category>Religion</category><icon src="https://d2x5rng4wji6ie.cloudfront.net/ASS.jpg" /></programme>
-<programme start="20261123090000 +0000" stop="20261123100000 +0000" channel="9402"><title>Rose Unplugged with Rose Tennant</title><desc>Rose Unplugged with Rose Tennant</desc><category>Religion</category><icon src="https://d2x5rng4wji6ie.cloudfront.net/RUP.jpg" /></programme>
-<programme start="20261123100000 +0000" stop="20261123103000 +0000" channel="9402"><title>Allen Jackson Now</title><desc>Allen Jackson Now</desc><category>Religion</category><icon src="https://d2x5rng4wji6ie.cloudfront.net/AJN.jpg" /></programme>
-<programme start="20261123103000 +0000" stop="20261123110000 +0000" channel="9402"><title>The Jack Hibbs Show</title><desc>The Jack Hibbs Show</desc><category>Religion</category><icon src="https://d2x5rng4wji6ie.cloudfront.net/JHS.jpg" /></programme>
-<programme start="20261123110000 +0000" stop="20261123113000 +0000" channel="9402"><title>Focus on The Family 30</title><desc>Focus on The Family 30</desc><category>Religion</category><icon src="https://d2x5rng4wji6ie.cloudfront.net/FOF.jpg" /></programme>
-<programme start="20261123113000 +0000" stop="20261123120000 +0000" channel="9402"><title>Focus on The Family 30</title><desc>Focus on The Family 30</desc><category>Religion</category><icon src="https://d2x5rng4wji6ie.cloudfront.net/FOF.jpg" /></programme>
-<programme start="20261123120000 +0000" stop="20261123123000 +0000" channel="9402"><title>Off the Couch Wild Brothers</title><desc>Off the Couch Wild Brothers</desc><category>Religion</category><icon src="https://d2x5rng4wji6ie.cloudfront.net/OCW.jpg" /></programme>
-<programme start="20261123123000 +0000" stop="20261123130000 +0000" channel="9402"><title>Jungle Kids</title><desc>Jungle Kids</desc><category>Religion</category><icon src="https://d2x5rng4wji6ie.cloudfront.net/JKW.jpg" /></programme>
-<programme start="20261123130000 +0000" stop="20261123133000 +0000" channel="9402"><title>Ryan Defrates</title><desc>Ryan Defrates</desc><category>Religion</category><icon src="https://d2x5rng4wji6ie.cloudfront.net/RDS.jpg" /></programme>
-<programme start="20261123133000 +0000" stop="20261123140000 +0000" channel="9402"><title>Travel The Road</title><desc>Travel The Road</desc><category>Religion</category><icon src="https://d2x5rng4wji6ie.cloudfront.net/TTR.jpg" /></programme>
-<programme start="20261123140000 +0000" stop="20261123143000 +0000" channel="9402"><title>Patterns of Evidence</title><desc>Patterns of Evidence</desc><category>Religion</category><icon src="https://d2x5rng4wji6ie.cloudfront.net/POE.jpg" /></programme>
-<programme start="20261123143000 +0000" stop="20261123150000 +0000" channel="9402"><title>The Creation Today Show with Eric Hovind</title><desc>The Creation Today Show with Eric Hovind</desc><category>Religion</category><icon src="https://d2x5rng4wji6ie.cloudfront.net/CTS.jpg" /></programme>
-<programme start="20261123150000 +0000" stop="20261123163000 +0000" channel="9402"><title>Give Me Liberty with Ryan Helfenbein</title><desc>Give Me Liberty with Ryan Helfenbein</desc><category>Religion</category><icon src="https://d2x5rng4wji6ie.cloudfront.net/GML.jpg" /></programme>
-<programme start="20261123163000 +0000" stop="20261123170000 +0000" channel="9402"><title>Counteract Podcast</title><desc>Counteract Podcast</desc><category>Religion</category><icon src="https://d2x5rng4wji6ie.cloudfront.net/CPS.jpg" /></programme>
-<programme start="20261123170000 +0000" stop="20261123180000 +0000" channel="9402"><title>The Daniel Cohen Show</title><desc>The Daniel Cohen Show</desc><category>Religion</category><icon src="https://d2x5rng4wji6ie.cloudfront.net/DCS.jpg" /></programme>
-<programme start="20261123180000 +0000" stop="20261123183000 +0000" channel="9402"><title>Focus on The Family 30</title><desc>Focus on The Family 30</desc><category>Religion</category><icon src="https://d2x5rng4wji6ie.cloudfront.net/FOF.jpg" /></programme>
-<programme start="20261123183000 +0000" stop="20261123190000 +0000" channel="9402"><title>Focus on The Family 30</title><desc>Focus on The Family 30</desc><category>Religion</category><icon src="https://d2x5rng4wji6ie.cloudfront.net/FOF.jpg" /></programme>
-<programme start="20261123190000 +0000" stop="20261123193000 +0000" channel="9402"><title>Allen Jackson Now</title><desc>Allen Jackson Now</desc><category>Religion</category><icon src="https://d2x5rng4wji6ie.cloudfront.net/AJN.jpg" /></programme>
-<programme start="20261123193000 +0000" stop="20261123200000 +0000" channel="9402"><title>The Jack Hibbs Show</title><desc>The Jack Hibbs Show</desc><category>Religion</category><icon src="https://d2x5rng4wji6ie.cloudfront.net/JHS.jpg" /></programme>
-<programme start="20261123200000 +0000" stop="20261123210000 +0000" channel="9402"><title>The Institute for Creation Podcast</title><desc>The Institute for Creation Podcast</desc><category>Religion</category><icon src="https://d2x5rng4wji6ie.cloudfront.net/ICP.jpg" /></programme>
-<programme start="20261123210000 +0000" stop="20261123220000 +0000" channel="9402"><title>The Heidi St. John Show</title><desc>The Heidi St. John Show</desc><category>Religion</category><icon src="https://d2x5rng4wji6ie.cloudfront.net/HSS.jpg" /></programme>
-<programme start="20261123220000 +0000" stop="20261123230000 +0000" channel="9402"><title>Washington Watch</title><desc>Washington Watch</desc><category>Religion</category><icon src="https://d2x5rng4wji6ie.cloudfront.net/WWS.jpg" /></programme>
-<programme start="20261123230000 +0000" stop="20261124000000 +0000" channel="9402"><title>Rose Unplugged with Rose Tennant</title><desc>Rose Unplugged with Rose Tennant</desc><category>Religion</category><icon src="https://d2x5rng4wji6ie.cloudfront.net/RUP.jpg" /></programme>
-<programme start="20261124000000 +0000" stop="20261124010000 +0000" channel="9402"><title>America's Hope with Kelly Wright</title><desc>America's Hope with Kelly Wright</desc><category>Religion</category><icon src="https://images.frequency.com/linear_channel/1170/solid/rectangle/original.png" /></programme>
-<programme start="20261124010000 +0000" stop="20261124020000 +0000" channel="9402"><title>The Daniel Cohen Show</title><desc>The Daniel Cohen Show</desc><category>Religion</category><icon src="https://d2x5rng4wji6ie.cloudfront.net/DCS.jpg" /></programme>
-<programme start="20261124020000 +0000" stop="20261124030000 +0000" channel="9402"><title>The Addison Smith Show</title><desc>The Addison Smith Show</desc><category>Religion</category><icon src="https://d2x5rng4wji6ie.cloudfront.net/ASS.jpg" /></programme>
-<programme start="20261124030000 +0000" stop="20261124040000 +0000" channel="9402"><title>The Eric Metaxas Show</title><desc>The Eric Metaxas Show</desc><category>Religion</category><icon src="https://d2x5rng4wji6ie.cloudfront.net/EMS.jpg" /></programme>
-<programme start="20261124040000 +0000" stop="20261124050000 +0000" channel="9402"><title>The Daniel Cohen Show</title><desc>The Daniel Cohen Show</desc><category>Religion</category><icon src="https://d2x5rng4wji6ie.cloudfront.net/DCS.jpg" /></programme>
-<programme start="20261124050000 +0000" stop="20261124060000 +0000" channel="9402"><title>The Heidi St. John Show</title><desc>The Heidi St. John Show</desc><category>Religion</category><icon src="https://d2x5rng4wji6ie.cloudfront.net/HSS.jpg" /></programme>
-<programme start="20261124060000 +0000" stop="20261124070000 +0000" channel="9402"><title>The Eric Metaxas Show</title><desc>The Eric Metaxas Show</desc><category>Religion</category><icon src="https://d2x5rng4wji6ie.cloudfront.net/EMS.jpg" /></programme>
-<programme start="20261124070000 +0000" stop="20261124080000 +0000" channel="9402"><title>America's Hope with Kelly Wright</title><desc>America's Hope with Kelly Wright</desc><category>Religion</category><icon src="https://images.frequency.com/linear_channel/1170/solid/rectangle/original.png" /></programme>
-<programme start="20261124080000 +0000" stop="20261124090000 +0000" channel="9402"><title>The Addison Smith Show</title><desc>The Addison Smith Show</desc><category>Religion</category><icon src="https://d2x5rng4wji6ie.cloudfront.net/ASS.jpg" /></programme>
-<programme start="20261124090000 +0000" stop="20261124100000 +0000" channel="9402"><title>Rose Unplugged with Rose Tennant</title><desc>Rose Unplugged with Rose Tennant</desc><category>Religion</category><icon src="https://d2x5rng4wji6ie.cloudfront.net/RUP.jpg" /></programme>
-<programme start="20261124100000 +0000" stop="20261124103000 +0000" channel="9402"><title>Allen Jackson Now</title><desc>Allen Jackson Now</desc><category>Religion</category><icon src="https://d2x5rng4wji6ie.cloudfront.net/AJN.jpg" /></programme>
-<programme start="20261124103000 +0000" stop="20261124110000 +0000" channel="9402"><title>The Jack Hibbs Show</title><desc>The Jack Hibbs Show</desc><category>Religion</category><icon src="https://d2x5rng4wji6ie.cloudfront.net/JHS.jpg" /></programme>
-<programme start="20261124110000 +0000" stop="20261124113000 +0000" channel="9402"><title>Focus on The Family 30</title><desc>Focus on The Family 30</desc><category>Religion</category><icon src="https://d2x5rng4wji6ie.cloudfront.net/FOF.jpg" /></programme>
-<programme start="20261124113000 +0000" stop="20261124120000 +0000" channel="9402"><title>Focus on The Family 30</title><desc>Focus on The Family 30</desc><category>Religion</category><icon src="https://d2x5rng4wji6ie.cloudfront.net/FOF.jpg" /></programme>
-<programme start="20261124120000 +0000" stop="20261124130000 +0000" channel="9402"><title>Pirate Money Radio</title><desc>Pirate Money Radio</desc><category>Religion</category><icon src="https://d2x5rng4wji6ie.cloudfront.net/PMP.jpg" /></programme>
-<programme start="20261124130000 +0000" stop="20261124140000 +0000" channel="9402"><title>Rose Unplugged with Rose Tennant</title><desc>Rose Unplugged with Rose Tennant</desc><category>Religion</category><icon src="https://d2x5rng4wji6ie.cloudfront.net/RUP.jpg" /></programme>
-<programme start="20261124140000 +0000" stop="20261124150000 +0000" channel="9402"><title>Washington Watch</title><desc>Washington Watch</desc><category>Religion</category><icon src="https://d2x5rng4wji6ie.cloudfront.net/WWS.jpg" /></programme>
 </tv>
