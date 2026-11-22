@@ -314,6 +314,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     'Action': _words("""
         walker texas ranger
         pluto tv retro action
+        hercules
         pluto tv rocky + creed
         warrior princess
         xena
