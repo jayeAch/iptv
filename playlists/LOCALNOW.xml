@@ -32,10 +32,6 @@
     <display-name>Crime Scenes</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/A60BF0C6-3ED5-4A10-B189-FE6864B29180/3-1x1.png" />
   </channel>
-<channel id="localnow.105AF9C8-EDE4-4F5B-95E7-9DD5A17E261F">
-    <display-name>True Crime Now</display-name>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/105AF9C8-EDE4-4F5B-95E7-9DD5A17E261F/3-1x1.png" />
-  </channel>
 <channel id="localnow.70E6008B-8E98-4B80-8CE2-D721592DF1C1">
     <display-name>World's Most Evil Killers</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/70E6008B-8E98-4B80-8CE2-D721592DF1C1/3-1x1.png" />
@@ -43,10 +39,6 @@
 <channel id="localnow.DDAE054E-F126-420F-89D8-72465BE2FD9A">
     <display-name>FilmRise True Crime</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/DDAE054E-F126-420F-89D8-72465BE2FD9A/3-1x1.png" />
-  </channel>
-<channel id="localnow.D0DF28EB-0756-4476-80C4-FD05DE2E4E09">
-    <display-name>Scream Factory TV</display-name>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D0DF28EB-0756-4476-80C4-FD05DE2E4E09/3-1x1.png" />
   </channel>
 <channel id="localnow.06FFDD3B-A149-4023-8EF8-96685EB19DDE">
     <display-name>Screambox TV</display-name>
@@ -63,10 +55,6 @@
 <channel id="localnow.746F014B-ACE1-4DE4-B494-BFAE6DE92608">
     <display-name>Horror Plus</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/746F014B-ACE1-4DE4-B494-BFAE6DE92608/3-1x1.png" />
-  </channel>
-<channel id="localnow.9EF0203B-766B-4822-8A34-D0C5C41E0E36">
-    <display-name>ElectricNOW</display-name>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/9EF0203B-766B-4822-8A34-D0C5C41E0E36/3-1x1.png" />
   </channel>
 <channel id="localnow.6D30170C-D7B3-46A2-8C1F-302D8399F44D">
     <display-name>Free Movies Plus</display-name>
@@ -88,12 +76,33 @@
     <display-name>WFXB Myrtle Beach SC (FOX)</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/72384889-EEEB-4EEA-93B3-F26FF4E12D6B/3-1x1.png" />
   </channel>
-<programme start="20261122020000 +0000" stop="20261123030000 +0000" channel="localnow.72384889-EEEB-4EEA-93B3-F26FF4E12D6B">
+<programme start="20261122173235 +0000" stop="20261122193649 +0000" channel="localnow.6D30170C-D7B3-46A2-8C1F-302D8399F44D">
+    <title lang="en">Security</title>
+    <desc lang="en">A security guard protects an eleven year-old girl who is being targeted by a gang for participating</desc>
+    <category lang="en">Movies</category>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/6D30170C-D7B3-46A2-8C1F-302D8399F44D/0-2x3.png" />
+    <episode-num system="dd_progid">program-foodfree-movie-plus-20261122173235</episode-num>
+  </programme>
+<programme start="20261122193649 +0000" stop="20261122221211 +0000" channel="localnow.6D30170C-D7B3-46A2-8C1F-302D8399F44D">
+    <title lang="en">The Gunman</title>
+    <desc lang="en">A sniper on a mercenary assassination team kills the minister of mines of the Congo. Terrier's successful kill shot forces him into hiding. Returning to the Congo years later, he becomes the target of a hit squad himself.</desc>
+    <category lang="en">Movies</category>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/6D30170C-D7B3-46A2-8C1F-302D8399F44D/0-2x3.png" />
+    <episode-num system="dd_progid">program-foodfree-movie-plus-20261122193649</episode-num>
+  </programme>
+<programme start="20261122221211 +0000" stop="20261123005014 +0000" channel="localnow.6D30170C-D7B3-46A2-8C1F-302D8399F44D">
+    <title lang="en">Triple 9</title>
+    <desc lang="en">Criminals and crooked cops hatch a devious scheme to use an honest lawman as a pawn for a heist.</desc>
+    <category lang="en">Movies</category>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/6D30170C-D7B3-46A2-8C1F-302D8399F44D/0-2x3.png" />
+    <episode-num system="dd_progid">program-foodfree-movie-plus-20261122221211</episode-num>
+  </programme>
+<programme start="20261122120000 +0000" stop="20261123030000 +0000" channel="localnow.72384889-EEEB-4EEA-93B3-F26FF4E12D6B">
     <title lang="en">FOX Midday News</title>
     <desc lang="en">The latest local, regional, statewide and national news updates of the day are offered by the news team, as well as detailed and timely reports on business and upcoming events, area weather conditions and midday traffic.</desc>
     <category lang="en">News</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/72384889-EEEB-4EEA-93B3-F26FF4E12D6B/0-2x3.png" />
-    <episode-num system="dd_progid">program-wfxb-20261122020000</episode-num>
+    <episode-num system="dd_progid">program-wfxb-20261122120000</episode-num>
   </programme>
 <programme start="20261123030000 +0000" stop="20261123033000 +0000" channel="localnow.72384889-EEEB-4EEA-93B3-F26FF4E12D6B">
     <title lang="en">WFXB FOX TV News at 10</title>
@@ -109,42 +118,72 @@
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/72384889-EEEB-4EEA-93B3-F26FF4E12D6B/0-2x3.png" />
     <episode-num system="dd_progid">program-wfxb-20261123033000</episode-num>
   </programme>
-<programme start="20261123120000 +0000" stop="20261123130000 +0000" channel="localnow.72384889-EEEB-4EEA-93B3-F26FF4E12D6B">
+<programme start="20261123120000 +0000" stop="20261123140000 +0000" channel="localnow.72384889-EEEB-4EEA-93B3-F26FF4E12D6B">
+    <title lang="en">FOX Morning News</title>
+    <desc lang="en">The veteran news team presents all the latest headline news from around the community, along with current and coming weather conditions, sports highlights, late-breaking news and other timely reports for the area viewers.</desc>
+    <category lang="en">News</category>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/72384889-EEEB-4EEA-93B3-F26FF4E12D6B/0-2x3.png" />
+    <episode-num system="dd_progid">program-wfxb-20261123120000</episode-num>
+  </programme>
+<programme start="20261123140000 +0000" stop="20261123150000 +0000" channel="localnow.72384889-EEEB-4EEA-93B3-F26FF4E12D6B">
     <title lang="en">WFXB Myrtle Beach SC (FOX)</title>
     <desc lang="en">WFXB FOX TV is the Grand Strand’s home for big shows, big games, and even bigger local involvement! From can’t-miss FOX entertainment and live sports to connecting with the community through exciting events and giveaways, we’re where the Carolinas come to watch, play, and celebrate together.</desc>
     <category lang="en">News</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/72384889-EEEB-4EEA-93B3-F26FF4E12D6B/0-2x3.png" />
   </programme>
-<programme start="20261123130000 +0000" stop="20261123140000 +0000" channel="localnow.72384889-EEEB-4EEA-93B3-F26FF4E12D6B">
-    <title lang="en">WFXB Myrtle Beach SC (FOX)</title>
-    <desc lang="en">WFXB FOX TV is the Grand Strand’s home for big shows, big games, and even bigger local involvement! From can’t-miss FOX entertainment and live sports to connecting with the community through exciting events and giveaways, we’re where the Carolinas come to watch, play, and celebrate together.</desc>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/72384889-EEEB-4EEA-93B3-F26FF4E12D6B/0-2x3.png" />
-  </programme>
-<programme start="20261122085916 +0000" stop="20261122113744 +0000" channel="localnow.746F014B-ACE1-4DE4-B494-BFAE6DE92608">
-    <title lang="en">Nightbreed: Director's Cut</title>
-    <desc lang="en">A cult horror about monsters and humanity.</desc>
+<programme start="20261122181201 +0000" stop="20261122195728 +0000" channel="localnow.746F014B-ACE1-4DE4-B494-BFAE6DE92608">
+    <title lang="en">The Blob</title>
+    <desc lang="en">A giant blob from space devours everything in a small town.</desc>
     <category lang="en">Horror</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/746F014B-ACE1-4DE4-B494-BFAE6DE92608/0-2x3.png" />
-    <episode-num system="dd_progid">program-horror-plus-20261122085916</episode-num>
+    <episode-num system="dd_progid">program-horror-plus-20261122181201</episode-num>
   </programme>
-<programme start="20261122113744 +0000" stop="20261122135013 +0000" channel="localnow.746F014B-ACE1-4DE4-B494-BFAE6DE92608">
-    <title lang="en">Abduction</title>
-    <desc lang="en">A young man discovers his true identity.</desc>
+<programme start="20261122195728 +0000" stop="20261122221253 +0000" channel="localnow.746F014B-ACE1-4DE4-B494-BFAE6DE92608">
+    <title lang="en">Chasing Sleep</title>
+    <desc lang="en">Ed Saxon has been married for the past twenty years with barely a hitch, but tonight his wife has not returned home. After a restless night, he decides to call the police at dawn and alert them of her possible disappearance. An investigation gets underway revealing some unsettling news for Ed. He begins to learn how unhappy his wife has been with him. Perhaps he preferred to ignore the glaring reality. For inspector Derm, his wife's lover is number one on his suspect list. But he's not the only one. Each new visitor becomes a suspect in Ed's eyes. One of them is the strange psychiatrist who claims to have come to help Ed overcome the pain. And now that Eve is absent, her presence has never been so resonant in the house.</desc>
     <category lang="en">Horror</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/746F014B-ACE1-4DE4-B494-BFAE6DE92608/0-2x3.png" />
-    <episode-num system="dd_progid">program-horror-plus-20261122113744</episode-num>
+    <episode-num system="dd_progid">program-horror-plus-20261122195728</episode-num>
   </programme>
-<programme start="20261122102600 +0000" stop="20261122123600 +0000" channel="localnow.AFE4F17B-882F-4DFF-9014-972E16331779">
-    <title lang="en">Secrets</title>
-    <desc lang="en">After her mother's passing, Sammy, a resilient single mother, grapples with the looming threat of a breakdown while keeping her mysterious past hidden. Ava, Sammy's daughter, has hidden a desire to uncover the identity of her father, sensing his signif...</desc>
+<programme start="20261122221253 +0000" stop="20261123000553 +0000" channel="localnow.746F014B-ACE1-4DE4-B494-BFAE6DE92608">
+    <title lang="en">Last Straw</title>
+    <desc lang="en">A small town killing spree lands on the doorstep of a rural diner, where a young waitress must fight for her life over the course of one long night.</desc>
+    <category lang="en">Horror</category>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/746F014B-ACE1-4DE4-B494-BFAE6DE92608/0-2x3.png" />
+    <episode-num system="dd_progid">program-horror-plus-20261122221253</episode-num>
+  </programme>
+<programme start="20261122170000 +0000" stop="20261122183000 +0000" channel="localnow.79549FA0-4EBE-48C3-957F-037BA02E827F">
+    <title lang="en">Horror Machine | Abducted: Kidnapped and Brutalized</title>
+    <desc lang="en">Chris McMahon is kidnapped and beat on his wedding day; a violent revenge for a sadistic murder he allegedly committed as a child.</desc>
+    <category lang="en">Horror</category>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/79549FA0-4EBE-48C3-957F-037BA02E827F/0-2x3.png" />
+    <episode-num system="dd_progid">program-epg-horror-machine-20261122170000</episode-num>
+  </programme>
+<programme start="20261122183000 +0000" stop="20261122203000 +0000" channel="localnow.79549FA0-4EBE-48C3-957F-037BA02E827F">
+    <title lang="en">Horror Machine | 1000 Zombies!</title>
+    <desc lang="en">Over 3 hours of gory zombie chaos! Found footage, diaries, and undead carnage await. Can you survive the apocalypse? Learn before it's too late!</desc>
+    <category lang="en">Horror</category>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/79549FA0-4EBE-48C3-957F-037BA02E827F/0-2x3.png" />
+    <episode-num system="dd_progid">program-epg-horror-machine-20261122183000</episode-num>
+  </programme>
+<programme start="20261122162200 +0000" stop="20261122190300 +0000" channel="localnow.AFE4F17B-882F-4DFF-9014-972E16331779">
+    <title lang="en">Terrifier 2</title>
+    <desc lang="en">After being resurrected by a sinister entity, Art the Clown returns to Miles County where he begins to target a teenage girl and her younger brother on Halloween.</desc>
     <category lang="en">Sci-Fi</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/AFE4F17B-882F-4DFF-9014-972E16331779/0-2x3.png" />
-    <episode-num system="dd_progid">program-tricoast_tv_dark_matter_01-2026-11-22-1026</episode-num>
+    <episode-num system="dd_progid">program-tricoast_tv_dark_matter_01-2026-11-22-1622</episode-num>
   </programme>
-<programme start="20261122123600 +0000" stop="20261122144000 +0000" channel="localnow.AFE4F17B-882F-4DFF-9014-972E16331779">
-    <title lang="en">St. Agatha</title>
-    <desc lang="en">A pregnant con woman on the run seeks refuge in a desolate convent, only to be met with an unsettling and horrendous evil waiting on the other side.</desc>
+<programme start="20261122190300 +0000" stop="20261122211600 +0000" channel="localnow.AFE4F17B-882F-4DFF-9014-972E16331779">
+    <title lang="en">The Endless</title>
+    <desc lang="en">Acclaimed filmmakers Moorhead and Benson return with this mind-bending thriller that follows two brothers who receive a cryptic video message inspiring them to revisit the UFO death cult they escaped a decade earlier.</desc>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/AFE4F17B-882F-4DFF-9014-972E16331779/0-2x3.png" />
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+<programme start="20261122211600 +0000" stop="20261122231000 +0000" channel="localnow.AFE4F17B-882F-4DFF-9014-972E16331779">
+    <title lang="en">The Golem</title>
+    <desc lang="en">A mystical woman must save her village from invaders, but the entity she conjures to protect them is a far greater evil.</desc>
     <category lang="en">Sci-Fi</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/AFE4F17B-882F-4DFF-9014-972E16331779/0-2x3.png" />
     <episode-num system="onscreen">S01E01</episode-num>
