@@ -1152,6 +1152,7 @@
 <channel id="6a1610bebdf296985fd95603-66ea085d9502c5778b828d41"><display-name>FilmRise Free Movies</display-name><icon src="https://provider-static.plex.tv/epg/cms/production/cde90a84-972c-49ea-baf2-941a657dbeea/FilmRise_FreeMovies_1500x1000_logo_light.png" /></channel>
 <channel id="6a1610bebdf296985fd95603-6933306bac5b3f9f53442372"><display-name>FilmRise Mysteries</display-name><icon src="https://provider-static.plex.tv/epg/cms/production/2499ab6b-a57f-421a-869b-f311c1e052be/FilmRise_Mysteries_1500x1000_Light_Logo.png" /></channel>
 <channel id="6a1610bebdf296985fd95603-6449369eb3ff17382cae580d"><display-name>FilmRise Sci-Fi</display-name><icon src="https://provider-static.plex.tv/epg/cms/production/c7722363-8b90-4f9b-a037-5306a5d194c8/FilmRise_SciFi_1500x1000_Light_Logo.png" /></channel>
+<channel id="6a1610bebdf296985fd95603-6449369f243fbe342a9c0b4d"><display-name>Forensic Files</display-name><icon src="https://provider-static.plex.tv/epg/cms/production/3f79b58a-d938-4555-bed6-f64107110e63/FilmRise_ForensicFiles_Color_Logo.png" /></channel>
 <channel id="6a1610bebdf296985fd95603-621674502c2627c068e73ada"><display-name>FrightFlix</display-name><icon src="https://provider-static.plex.tv/epg/cms/production/889dcf7a-99ec-425f-8044-087c84e8eefc/FrightFlix_logo_dark.png" /></channel>
 <channel id="6a1610bebdf296985fd95603-5efe1de7e0b3f5003f5d9f8e"><display-name>Gravitas Movies</display-name><icon src="https://provider-static.plex.tv/epg/cms/production/87658f08-b42f-4fff-b2d6-b729fd2dae71/Plex_GravitasMovies_DarkBackground.png" /></channel>
 <channel id="6a1610bebdf296985fd95603-66b136d2a9ef8c41ec0841ae"><display-name>Horror Stories</display-name><icon src="https://provider-static.plex.tv/epg/cms/production/3d71d16f-e5cb-4f46-a91e-bc8a0d37030b/HorrorStories_plex_dark_1500x1000.png" /></channel>
@@ -1664,7 +1665,6 @@
 <programme channel="400000301" start="20261123221926 +0000" stop="20261123230707 +0000"><title>MADtv</title><desc>Keri Russell guest stars in the sketch "Felicity &amp;amp; Friends."</desc></programme>
 <programme channel="400000301" start="20261123230707 +0000" stop="20261123235453 +0000"><title>MADtv</title><desc>Sketches include "Happy Folger Wedding" and "The Hustler."</desc></programme>
 <programme channel="400000301" start="20261123235453 +0000" stop="20261124004231 +0000"><title>MADtv</title><desc>Sketches include "Rubberman" and "Tammany: The Date."</desc></programme>
-<programme channel="692090" start="20261122173400 +0000" stop="20261122192200 +0000"><title>Prom Night</title><desc>Six years after a tragic accident, a masked killer hunts the teens responsible, turning their high school prom into a night of terror.</desc></programme>
 <programme channel="692090" start="20261122192200 +0000" stop="20261122211900 +0000"><title>Howling IV: The Original Nightmare</title><desc>After a breakdown, a bestselling author retreats to a rural town, only to be tormented by demons and werewolves beyond her imagination.</desc></programme>
 <programme channel="692090" start="20261122211900 +0000" stop="20261122232000 +0000"><title>Hell Night</title><desc>College fraternity and sorority pledges spend a night in an abandoned mansion and get stalked by the one monstrous survivor of a family massacre.</desc></programme>
 <programme channel="692090" start="20261122232000 +0000" stop="20261123011400 +0000"><title>Swarmed</title><desc>Residents of a small town battle a seemingly indestructible swarm of hornets after the deadly insects are sprayed with a super-pesticide.</desc></programme>
@@ -2642,11 +2642,6 @@
         <desc>It was WWII and London was rocked by the Blitz from the planes flying above. But down on the streets below another terrible danger lurked in the shadows. A serial killer was on the loose.</desc>
         <icon src="https://images.pluto.tv/series/64ff2e436930bb001333e32f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="62fb9c4539183b00076a3875-CA" start="20261122185500 +0000" stop="20261122192300 +0000">
-        <title>Border Security CA</title>
-        <desc>Officers look for a message in a bottle. A lack of papers lands a group of L.A. rappers in the doghouse. A young man gets a sobering wake-up call.</desc>
-        <icon src="https://images.pluto.tv/series/6373bbb87e251a001387fb4a/tile_1786652282730.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="62fb9c4539183b00076a3875-CA" start="20261122192300 +0000" stop="20261122195100 +0000">
         <title>Border Security CA</title>
         <desc>Texan arrives with his hunting gear – and a trailer full of unusual trophies. Suitcases of undeclared food may cost three Chinese students a lot more than they’re worth.</desc>
@@ -2681,11 +2676,6 @@
         <title>Crimes That Shook Britain</title>
         <desc>In 1989, 51 people were killed when the Marchioness collided with a dredger and sank.</desc>
         <icon src="https://images.pluto.tv/series/66dac4d722dfe900133d9448/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="66166cb1307fa30008f275e7-CA" start="20261122183332 +0000" stop="20261122192432 +0000">
-        <title>Fringe</title>
-        <desc>The Fringe Team orchestrates a Fringe event of their own.</desc>
-        <icon src="https://images.pluto.tv/series/698de820a8f69b2a1deb761c/tile_1789052042241.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="66166cb1307fa30008f275e7-CA" start="20261122192432 +0000" stop="20261122201532 +0000">
         <title>Fringe</title>
@@ -5557,16 +5547,6 @@
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6abab1c8d33c7e25d227502e/featuredImage_1790624099121.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     </programme>
-<programme channel="61c0974945b45d0007aaa5ac-DK" start="20261122173114 +0000" stop="20261122192203 +0000">
-        <title>Bare Juliet</title>
-        <desc>Annie (Rose Byrne) er kørt træt i sit parforhold med Duncan (Chris O'Dowd), der er kæmpefan af musikeren Tucker Crowe (Ethan Hawke). Da en demoversion af Tuckers gamle hit LP dukker op, bliver det starten på et nyt møde med den flyvske kunstner.</desc>
-        <icon src="https://images.pluto.tv/series/6493ed4883f70900138c87e1/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="690488ab43169995352e51c0-DK" start="20261122185526 +0000" stop="20261122192226 +0000">
-        <title>Vore værste år: You Better Watch Out</title>
-        <desc>When Santa Claus crash-lands in the Bundy's backyard, Al pinch-hits for old Saint Nick.</desc>
-        <icon src="https://images.pluto.tv/series/6464d85954afb6001a21bbb2/tile_1785221641806.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="690488ab43169995352e51c0-DK" start="20261122192226 +0000" stop="20261122194926 +0000">
         <title>Vore værste år: It's A Bundyful Life (Part I)</title>
         <desc>On Christmas the Bundy family is destined to go presentless, again, unless Al can find a way to make some quick cash.</desc>
@@ -5726,11 +5706,6 @@
         <title>Forensic Files: Ghost in the Machine</title>
         <desc>While investigating the apparent overdose suicide of Reverend Bill Guthrie's wife, detectives recover incriminating files from Bill's computer and learn of his infidelity.</desc>
         <icon src="https://images.pluto.tv/series/617fdf74550c2c001a273b4c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="61814659533163000748aa04-DK" start="20261122182151 +0000" stop="20261122192221 +0000">
-        <title>The FBI Files</title>
-        <desc>In Georgia, a series of bizarre shootings terrorized a small town.  Two people were killed.  Two others were critically wounded.  At first, the shootings seemed targeted.  Then they seemed random.</desc>
-        <icon src="https://images.pluto.tv/series/61f3cd29f72e7b001a72cc35/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="61814659533163000748aa04-DK" start="20261122192221 +0000" stop="20261122202303 +0000">
         <title>The FBI Files</title>
@@ -9402,11 +9377,6 @@
         <desc>A college graduate strikes up a relationship with her superior at a new job. When he becomes abusive, her attempts to escape prove to be no match for the highly trained investigator.</desc>
         <icon src="https://images.pluto.tv/series/61b72aab37f2a80013d8e414/tile_1790723165627.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="661cf62d24e1d000087dae0d-GB" start="20261122185938 +0000" stop="20261122192338 +0000">
-        <title>Random Breath Test</title>
-        <desc>A reality show on real alcohol and drug testing performed on Australian roads by the Police's RBT Squad.</desc>
-        <icon src="https://images.pluto.tv/series/5fa26e7b6dcbef001bf4f741/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="661cf62d24e1d000087dae0d-GB" start="20261122192338 +0000" stop="20261122194738 +0000">
         <title>Random Breath Test</title>
         <desc>A reality show on real alcohol and drug testing performed on Australian roads by the Police's RBT Squad.</desc>
@@ -12887,11 +12857,6 @@
         <desc>When an evil troll named Torok attempts to bring about cataclysmic changes that will forever erase mankind, an ancient sorceress and a young boy join forces to stop him before he can carry out his diabolical plan.</desc>
         <icon src="https://images.pluto.tv/series/6a2fe400812ca100162f821c/tile_1781523457782.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
-<programme channel="61f957e051cca800076f2358-NO" start="20261122183425 +0000" stop="20261122192325 +0000">
-        <title>Mutant X: The Prophecy</title>
-        <desc>Brennan kjemper med en Guardian of the Prophecy for å stoppe den avdøde mutanten Ashlockes plan utover verdensherredømmets grav.</desc>
-        <icon src="https://images.pluto.tv/series/61f3a920161b65001a9eb205/tile_1767636361878.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
 <programme channel="61f957e051cca800076f2358-NO" start="20261122192325 +0000" stop="20261122201225 +0000">
         <title>Mutant X: Cirque des Merveilles</title>
         <desc>Lexas mistanker får Mutant X til å avdekke en omreisende dødsleir, som blir presentert som et sirkus for mutante flyktninger og Mutant Xs fiende i Dominion.</desc>
@@ -13066,11 +13031,6 @@
         <title>Rachel Shannon True Crime</title>
         <desc>Alice Ruggles was stalked and murdered by her obsessive ex-boyfriend after the system failed to protect her. Her family now fights to make sure it doesn't happen again. A solved true crime case everyone needs to hear.</desc>
         <icon src="https://images.pluto.tv/series/6a54c7ff6d305c2ad5f76da9/tile_1783941120649.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="61c1e7f38413090007c640db-NO" start="20261122185213 +0000" stop="20261122192213 +0000">
-        <title>Comedy Central Pluto TV</title>
-        <desc>Smil! Comedy Central Pluto TV har underholdning i bøttevis for deg med de beste komedieseriene, de mest legendariske stand-up showene og de villeste seriene og mye mye mer.</desc>
-        <icon src="https://images.pluto.tv/series/6a9a6a34198ce62db371b58b/tile_1788504629689.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="61c1e7f38413090007c640db-NO" start="20261122192213 +0000" stop="20261122195213 +0000">
         <title>Comedy Central Pluto TV</title>
@@ -15686,11 +15646,6 @@
         <title>The Ape</title>
         <desc>A mad scientist trying to cure polio must obtain human spinal fluid, and resorts to nefarious means by wearing an ape suit to procure victims for his experiment without being detected.</desc>
         <icon src="https://images.pluto.tv/series/6ab428f278e140e3e4d7b3ce/tile_1790194041824.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    </programme>
-<programme channel="62f64ec9eb1045000728cad6-SE" start="20261122174318 +0000" stop="20261122192318 +0000">
-        <title>Taken 2</title>
-        <desc>Den pensionerade CIA-agenten Bryan Mills och hans fru är i Istanbul när de blir kidnappade. Mannen som håller dom som gisslan visar sig vara far till en av de män som tidigare kidnappat Mills dotter, och som han under fritagandet av dottern dödat.</desc>
-        <icon src="https://images.pluto.tv/series/6295e9ad6075b8001a99d902/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
     </programme>
 <programme channel="62f64ec9eb1045000728cad6-SE" start="20261122192318 +0000" stop="20261122212351 +0000">
         <title>The Big White</title>
@@ -25419,6 +25374,14 @@
     <episode-num system="onscreen">S12E02</episode-num>
     <rating system="USA Parental Rating">TV14</rating>
   </programme>
+<programme channel="aee4056540505e84a2196b4d2263b745" start="20261124192344 +0000" stop="20261124194258 +0000">
+    <title>Takedown With Chris Hansen</title>
+    <sub-title>Takedown With Chris Hansen</sub-title>
+    <desc>Even after arrests and millions of video views, men continue to try to meet children online.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/dafd9b0a019f557384740129e4d23d0b/images/gracenote/assets/p26581096_b_h10_ac.jpg" />
+    <episode-num system="onscreen">S2023E35</episode-num>
+    <rating system="USA Parental Rating">TV14</rating>
+  </programme>
 <programme channel="8abbea29b86a5a5da299c7ef2e288cab" start="20261122185040 +0000" stop="20261122212946 +0000">
     <title>On Patrol: Live</title>
     <sub-title>On Patrol: Live</sub-title>
@@ -31344,11 +31307,6 @@ The investigation into the kidnapping and rape of an 18-year-old Ohio woman is a
     <desc lang="en">A gruff FBI agent goes undercover as a kindergarten teacher. He's there to recover stolen data, but first he'll have to learn to survive in the politically correct world of elementary education.</desc>
     <episode-num system="dd_assetid">MV008761120000</episode-num>
   </programme>
-<programme start="20261122171242 +0000" stop="20261122192315 +0000" channel="99951573">
-    <title lang="en">The Return Of The Pink Panther</title>
-    <desc lang="en">When the Pink Panther Diamond is stolen from a museum, the intrepid Inspector Clouseau is on the case.</desc>
-    <episode-num system="dd_assetid">XT0MTSRS1LOQHZ</episode-num>
-  </programme>
 <programme start="20261122192315 +0000" stop="20261122212214 +0000" channel="99951573">
     <title lang="en">The Pink Panther Strikes Again</title>
     <desc lang="en">Chief Inspector Dreyfus is finally driven mad by Inspector Clouseau's (Peter Sellers) incompetence.</desc>
@@ -32069,6 +32027,11 @@ The investigation into the kidnapping and rape of an 18-year-old Ohio woman is a
     <desc lang="en">A man (Harry Townes) kills a gubernatorial candidate to ensure his brother's (Royal Dano) election. With Inger Stevens.</desc>
     <episode-num system="dd_progid">EP000001840206</episode-num>
   </programme>
+<programme start="20261124192400 +0000" stop="20261124195100 +0000" channel="99951256">
+    <title lang="en">Manacled</title>
+    <desc lang="en">A prisoner tries to convince a police sergeant to allow him to escape while they are on their way to San Quentin.</desc>
+    <episode-num system="dd_progid">EP000001840228</episode-num>
+  </programme>
 <programme start="20261122185913 +0000" stop="20261122211912 +0000" channel="99991300">
     <title lang="en">Mother Teresa</title>
     <desc lang="en">Mother Teresa follows the extraordinary journey of one of history's most revered humanitarians. From her humble ministry to her final days, the film chronicles her faith, compassion, and unwavering devotion to serving the poorest of the poor.</desc>
@@ -32604,11 +32567,6 @@ The investigation into the kidnapping and rape of an 18-year-old Ohio woman is a
     <desc lang="en">Recovering from the psychological effects of witnessing a brutal crime, FBI Agent Jake Malloy (Sylvester Stallone) checks into a rehabilitation clinic for law enforcement officers in the remote wilderness of Wyoming during the dead of winter. He soon finds himself helping other patients as a serial killer begins killing them one by one.</desc>
     <episode-num system="dd_assetid">XM0DJVRCFJNM77</episode-num>
   </programme>
-<programme start="20261122182613 +0000" stop="20261122192411 +0000" channel="99951544">
-    <title lang="en">World's Scariest Police Chases 2</title>
-    <desc lang="en">This special episode features a pickup truck out of control, an ex-con taking a hostage and hot-wiring thieves. In this early version of the popular WORLD'S WILDEST POLICE VIDEOS cop show, retired Sheriff John Bunnell takes us through clips consisting of the most terrifying police chases caught on camera! #policechases #chase #crime #chases #policevideos #policefootage #clips #bodycam #dashcam #helicopter #police #cops #copshow #caughtoncamera #hiddencamera</desc>
-    <episode-num system="dd_assetid">XM0KAN2JLKFKQB</episode-num>
-  </programme>
 <programme start="20261122192411 +0000" stop="20261122202209 +0000" channel="99951544">
     <title lang="en">World's Scariest Police Chases 3</title>
     <desc lang="en">This episode features a border crossing, a bank robbery getaway and bumper cars on the backroads of Georgia. In this early version of the popular WORLD'S WILDEST POLICE VIDEOS cop show, retired Sheriff John Bunnell takes us through clips consisting of the most terrifying police chases caught on camera! #policechases #chase #crime #chases #policevideos #policefootage #clips #bodycam #dashcam #helicopter #police #cops #copshow #caughtoncamera #hiddencamera</desc>
@@ -33013,6 +32971,11 @@ The investigation into the kidnapping and rape of an 18-year-old Ohio woman is a
     <title lang="en">Air Collision</title>
     <desc lang="en">When a solar storm wipes out the air traffic control system, Air Force One and a passenger jet liner are locked on a collision course in the skies above the midwest.</desc>
     <episode-num system="dd_assetid">XM0BJAIJMZU41Z</episode-num>
+  </programme>
+<programme start="20261124192337 +0000" stop="20261124212223 +0000" channel="9999615">
+    <title lang="en">They Saved Hitler's Brain</title>
+    <desc lang="en">Nazi madmen preserve Hitler's brain on a small tropical island until the time is right to resurrect him and, along with him, the Third Reich.</desc>
+    <episode-num system="dd_assetid">XM0L1O6223ODHC</episode-num>
   </programme>
 <programme start="20261122191733 +0000" stop="20261122202015 +0000" channel="99951614">
     <title lang="en">rift</title>
@@ -33678,16 +33641,6 @@ The investigation into the kidnapping and rape of an 18-year-old Ohio woman is a
     <episode-num system="onscreen">S01E01</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-<programme start="20261122185350 +0000" stop="20261122192201 +0000" channel="99992255">
-    <title lang="en">Forensic Files</title>
-    <desc lang="en">A Russian immigrant is found dead and a strange phone call to his office is the only lead investigators have.</desc>
-    <category lang="en">ETC</category>
-    <icon src="https://image.xumo.com/v1/assets/asset/XM0VTNT57L4L4A/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992255%2F768x432.jpg%3Ftype%3DchannelTile" />
-    <episode-num system="dd_progid">XM0VTNT57L4L4A</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme start="20261122192201 +0000" stop="20261122195128 +0000" channel="99992255">
     <title lang="en">Forensic Files</title>
     <desc lang="en">When a serial killer was terrorizing the city of St. Louis, the FBI didn't need lab tests, fingerprints or any of the usual methods. All they needed was a computer.</desc>
@@ -33978,6 +33931,45 @@ The investigation into the kidnapping and rape of an 18-year-old Ohio woman is a
 <programme start="20261123100916 +0000" stop="20261123115316 +0000" channel="6a1610bebdf296985fd95603-6449369eb3ff17382cae580d"><title>Retrograde (2004)</title><desc>Two opposing time travelers are sent back to the present to prevent a global biological disaster.</desc><category>Action</category><category>Science Fiction</category><rating><value>NR</value></rating></programme>
 <programme start="20261123115316 +0000" stop="20261123134202 +0000" channel="6a1610bebdf296985fd95603-6449369eb3ff17382cae580d"><title>Shark Attack (1999)</title><desc>A marine biologist travels to Africa to investigate the unnatural behavior of sharks.</desc><category>Horror</category><category>Thriller</category><category>Action</category><category>Science Fiction</category><category>TV Movie</category><rating><value>NR</value></rating></programme>
 <programme start="20261123134202 +0000" stop="20261123153626 +0000" channel="6a1610bebdf296985fd95603-6449369eb3ff17382cae580d"><title>Steel Frontier (1995)</title><desc>Gunslinger challenges desert outlaws who invaded a town created by survivors of civilization's fall.</desc><category>Action</category><category>Science Fiction</category><rating><value>NR</value></rating></programme>
+<programme start="20261122192201 +0000" stop="20261122195128 +0000" channel="6a1610bebdf296985fd95603-6449369f243fbe342a9c0b4d"><title>Forensic Files</title><sub-title>X Marks the Spot</sub-title><desc>Computers aid the police and FBI in solving a string of crimes in St. Louis.</desc><category>Crime</category><episode-num system="onscreen">S7E35</episode-num><episode-num system="xmltv_ns">6.34.</episode-num><rating><value>TV-PG</value></rating></programme>
+<programme start="20261122195128 +0000" stop="20261122202249 +0000" channel="6a1610bebdf296985fd95603-6449369f243fbe342a9c0b4d"><title>Forensic Files</title><sub-title>Church Disappearance</sub-title><desc>A suspect is profiled in the disappearance of a 6-year-old girl during a church service.</desc><category>Crime</category><episode-num system="onscreen">S6E10</episode-num><episode-num system="xmltv_ns">5.9.</episode-num><rating><value>TV-PG</value></rating></programme>
+<programme start="20261122202249 +0000" stop="20261122205401 +0000" channel="6a1610bebdf296985fd95603-6449369f243fbe342a9c0b4d"><title>Forensic Files</title><sub-title>Killer's "Cattle" Log</sub-title><desc>A police investigation uncovers a web of homeless drifters, cattle auctions and bad checks.</desc><category>Crime</category><episode-num system="onscreen">S6E15</episode-num><episode-num system="xmltv_ns">5.14.</episode-num><rating><value>TV-PG</value></rating></programme>
+<programme start="20261122205401 +0000" stop="20261122212146 +0000" channel="6a1610bebdf296985fd95603-6449369f243fbe342a9c0b4d"><title>Forensic Files</title><sub-title>Window Watcher</sub-title><desc>In 1986, Gary Dale Larson was stabbed to death in his Edmond, Oklahoma home.</desc><category>Crime</category><episode-num system="onscreen">S13E10</episode-num><episode-num system="xmltv_ns">12.9.</episode-num><rating><value>TV-PG</value></rating></programme>
+<programme start="20261122212146 +0000" stop="20261122214930 +0000" channel="6a1610bebdf296985fd95603-6449369f243fbe342a9c0b4d"><title>Forensic Files</title><sub-title>All that Glitters is Gold</sub-title><desc>A bullet-riddled car, a missing driver, and no witnesses. Was this an ambush or a random attack?</desc><category>Crime</category><episode-num system="onscreen">S13E32</episode-num><episode-num system="xmltv_ns">12.31.</episode-num><rating><value>TV-PG</value></rating></programme>
+<programme start="20261122214930 +0000" stop="20261122221714 +0000" channel="6a1610bebdf296985fd95603-6449369f243fbe342a9c0b4d"><title>Forensic Files</title><sub-title>Hundreds of Reasons</sub-title><desc>An assistant manager of a Florida steakhouse is stabbed to death.</desc><category>Crime</category><episode-num system="onscreen">S13E37</episode-num><episode-num system="xmltv_ns">12.36.</episode-num><rating><value>TV-PG</value></rating></programme>
+<programme start="20261122221714 +0000" stop="20261122224315 +0000" channel="6a1610bebdf296985fd95603-6449369f243fbe342a9c0b4d"><title>Forensic Files</title><sub-title>Transaction Failed</sub-title><desc>When a dedicated teacher disappeared, police had to determine if she was the victim of foul play.</desc><category>Crime</category><episode-num system="onscreen">S12E6</episode-num><episode-num system="xmltv_ns">11.5.</episode-num><rating><value>TV-PG</value></rating></programme>
+<programme start="20261122224315 +0000" stop="20261122231152 +0000" channel="6a1610bebdf296985fd95603-6449369f243fbe342a9c0b4d"><title>Forensic Files</title><sub-title>Nailed</sub-title><desc>A woman is killed weeks before testifying against the man who sexually assaulted her.</desc><category>Crime</category><episode-num system="onscreen">S8E24</episode-num><episode-num system="xmltv_ns">7.23.</episode-num><rating><value>TV-PG</value></rating></programme>
+<programme start="20261122231152 +0000" stop="20261122234003 +0000" channel="6a1610bebdf296985fd95603-6449369f243fbe342a9c0b4d"><title>Forensic Files</title><sub-title>Cloak of Deceit</sub-title><desc>For seven years, a trio of men robbed one bank after another.</desc><category>Crime</category><episode-num system="onscreen">S9E7</episode-num><episode-num system="xmltv_ns">8.6.</episode-num><rating><value>TV-PG</value></rating></programme>
+<programme start="20261122234003 +0000" stop="20261123000748 +0000" channel="6a1610bebdf296985fd95603-6449369f243fbe342a9c0b4d"><title>Forensic Files</title><sub-title>Hell's Kitchen</sub-title><desc>In 2000, Kristine Fitzhugh failed to show up for her music class and her husband Ken found her dead.</desc><category>Crime</category><episode-num system="onscreen">S14E3</episode-num><episode-num system="xmltv_ns">13.2.</episode-num><rating><value>TV-PG</value></rating></programme>
+<programme start="20261123000748 +0000" stop="20261123003620 +0000" channel="6a1610bebdf296985fd95603-6449369f243fbe342a9c0b4d"><title>Forensic Files</title><sub-title>Visibility Zero</sub-title><desc>In 1993, the Amtrak Railroad experienced the deadliest train crash in United States history.</desc><category>Crime</category><episode-num system="onscreen">S8E41</episode-num><episode-num system="xmltv_ns">7.40.</episode-num><rating><value>TV-PG</value></rating></programme>
+<programme start="20261123003620 +0000" stop="20261123010431 +0000" channel="6a1610bebdf296985fd95603-6449369f243fbe342a9c0b4d"><title>Forensic Files</title><sub-title>Naughty or Nyce</sub-title><desc>A woman appears to have plunged her car into a creek. But investigators suspect foul play.</desc><category>Crime</category><episode-num system="onscreen">S11E1</episode-num><episode-num system="xmltv_ns">10.0.</episode-num><rating><value>TV-14</value></rating></programme>
+<programme start="20261123010431 +0000" stop="20261123013308 +0000" channel="6a1610bebdf296985fd95603-6449369f243fbe342a9c0b4d"><title>Forensic Files</title><sub-title>All the World's a Stage</sub-title><desc>Police investigate the shooting of a homicide detective's wife.</desc><category>Crime</category><episode-num system="onscreen">S8E20</episode-num><episode-num system="xmltv_ns">7.19.</episode-num><rating><value>TV-14</value></rating></programme>
+<programme start="20261123013308 +0000" stop="20261123020125 +0000" channel="6a1610bebdf296985fd95603-6449369f243fbe342a9c0b4d"><title>Forensic Files</title><sub-title>In the Bag</sub-title><desc>After shooting his victims, the killer placed the evidence into a bag and tossed it into the river.</desc><category>Crime</category><episode-num system="onscreen">S12E27</episode-num><episode-num system="xmltv_ns">11.26.</episode-num><rating><value>TV-PG</value></rating></programme>
+<programme start="20261123020125 +0000" stop="20261123022937 +0000" channel="6a1610bebdf296985fd95603-6449369f243fbe342a9c0b4d"><title>Forensic Files</title><sub-title>Hot on the Trail</sub-title><desc>Serial arsonist leaves no evidence.</desc><category>Crime</category><episode-num system="onscreen">S10E37</episode-num><episode-num system="xmltv_ns">9.36.</episode-num><rating><value>TV-14</value></rating></programme>
+<programme start="20261123022937 +0000" stop="20261123025723 +0000" channel="6a1610bebdf296985fd95603-6449369f243fbe342a9c0b4d"><title>Forensic Files</title><sub-title>Seedy Intentions</sub-title><desc>When a nine-year-old girl goes missing, police and volunteers spend weeks searching for her.</desc><category>Crime</category><episode-num system="onscreen">S13E19</episode-num><episode-num system="xmltv_ns">12.18.</episode-num><rating><value>TV-PG</value></rating></programme>
+<programme start="20261123025723 +0000" stop="20261123032534 +0000" channel="6a1610bebdf296985fd95603-6449369f243fbe342a9c0b4d"><title>Forensic Files</title><sub-title>Headquarters</sub-title><desc>When hunters found a skull in a Texas canyon, a forensic artist was able to reconstruct her face.</desc><category>Crime</category><episode-num system="onscreen">S10E6</episode-num><episode-num system="xmltv_ns">9.5.</episode-num><rating><value>TV-14</value></rating></programme>
+<programme start="20261123032534 +0000" stop="20261123035319 +0000" channel="6a1610bebdf296985fd95603-6449369f243fbe342a9c0b4d"><title>Forensic Files</title><sub-title>Funeral Services</sub-title><desc>In 2002, funeral director Lonnie Turner, Sr. was found shot to death.</desc><category>Crime</category><episode-num system="onscreen">S14E19</episode-num><episode-num system="xmltv_ns">13.18.</episode-num><rating><value>TV-PG</value></rating></programme>
+<programme start="20261123035319 +0000" stop="20261123042359 +0000" channel="6a1610bebdf296985fd95603-6449369f243fbe342a9c0b4d"><title>Forensic Files</title><sub-title>Cop Out</sub-title><desc>A college student was found dead, and the evidence suggested he knew his killer.</desc><category>Crime</category><episode-num system="onscreen">S10E26</episode-num><episode-num system="xmltv_ns">9.25.</episode-num><rating><value>TV-PG</value></rating></programme>
+<programme start="20261123042359 +0000" stop="20261123050000 +0000" channel="6a1610bebdf296985fd95603-6449369f243fbe342a9c0b4d"><title>Forensic Files</title><sub-title>Missing Pearl</sub-title><desc>In 1991, Maine resident Pearl Smith is missing after an argument with her husband Bill Bruns.</desc><category>Crime</category><episode-num system="onscreen">S6E2</episode-num><episode-num system="xmltv_ns">5.1.</episode-num><rating><value>TV-14</value></rating></programme>
+<programme start="20261123050000 +0000" stop="20261123052902 +0000" channel="6a1610bebdf296985fd95603-6449369f243fbe342a9c0b4d"><title>Forensic Files</title><sub-title>Southside Strangler</sub-title><desc>With the use of DNA profiling, an innocent man is freed and the real killer is convicted.</desc><category>Crime</category><episode-num system="onscreen">S1E6</episode-num><episode-num system="xmltv_ns">0.5.</episode-num><rating><value>TV-PG</value></rating></programme>
+<programme start="20261123052902 +0000" stop="20261123055809 +0000" channel="6a1610bebdf296985fd95603-6449369f243fbe342a9c0b4d"><title>Forensic Files</title><sub-title>Dressed to Kill</sub-title><desc>After 6-year-old Michelle Lee Dorr went missing, her father confessed to murdering her.</desc><category>Crime</category><episode-num system="onscreen">S7E25</episode-num><episode-num system="xmltv_ns">6.24.</episode-num><rating><value>TV-PG</value></rating></programme>
+<programme start="20261123055809 +0000" stop="20261123062627 +0000" channel="6a1610bebdf296985fd95603-6449369f243fbe342a9c0b4d"><title>Forensic Files</title><sub-title>All Butt Certain</sub-title><desc>A young girl beaten after watching her grandmother killed, identifies the wrong person.</desc><category>Crime</category><episode-num system="onscreen">S12E19</episode-num><episode-num system="xmltv_ns">11.18.</episode-num><rating><value>TV-PG</value></rating></programme>
+<programme start="20261123062627 +0000" stop="20261123065413 +0000" channel="6a1610bebdf296985fd95603-6449369f243fbe342a9c0b4d"><title>Forensic Files</title><sub-title>Textbook Murder</sub-title><desc>A young bride-to-be is gunned down and investigators uncover the man she loved was living a lie.</desc><category>Crime</category><episode-num system="onscreen">S14E9</episode-num><episode-num system="xmltv_ns">13.8.</episode-num><rating><value>TV-PG</value></rating></programme>
+<programme start="20261123065413 +0000" stop="20261123072224 +0000" channel="6a1610bebdf296985fd95603-6449369f243fbe342a9c0b4d"><title>Forensic Files</title><sub-title>Ties That Bind</sub-title><desc>An obscure style of rope and forensic analysis lead to the arrest and conviction of a murderer.</desc><category>Crime</category><episode-num system="onscreen">S4E7</episode-num><episode-num system="xmltv_ns">3.6.</episode-num><rating><value>TV-PG</value></rating></programme>
+<programme start="20261123072224 +0000" stop="20261123075127 +0000" channel="6a1610bebdf296985fd95603-6449369f243fbe342a9c0b4d"><title>Forensic Files</title><sub-title>Second Shot at Love</sub-title><desc>When a heart surgeon is found dead, investigators uncover his new wife's history of violence.</desc><category>Crime</category><episode-num system="onscreen">S5E16</episode-num><episode-num system="xmltv_ns">4.15.</episode-num><rating><value>TV-PG</value></rating></programme>
+<programme start="20261123075127 +0000" stop="20261123081939 +0000" channel="6a1610bebdf296985fd95603-6449369f243fbe342a9c0b4d"><title>Forensic Files</title><sub-title>Wired for Disaster</sub-title><desc>A woman was killed instantly when a bomb exploded in her home. Who planted the bomb?</desc><category>Crime</category><episode-num system="onscreen">S10E40</episode-num><episode-num system="xmltv_ns">9.39.</episode-num><rating><value>TV-14</value></rating></programme>
+<programme start="20261123081939 +0000" stop="20261123084845 +0000" channel="6a1610bebdf296985fd95603-6449369f243fbe342a9c0b4d"><title>Forensic Files</title><sub-title>Sip of Sins</sub-title><desc>In the 1980s, a trio of unsolved murders occurred in Wichita Falls, Texas.</desc><category>Crime</category><episode-num system="onscreen">S7E19</episode-num><episode-num system="xmltv_ns">6.18.</episode-num><rating><value>TV-PG</value></rating></programme>
+<programme start="20261123084845 +0000" stop="20261123091630 +0000" channel="6a1610bebdf296985fd95603-6449369f243fbe342a9c0b4d"><title>Forensic Files</title><sub-title>Fate Date</sub-title><desc>A woman and her soon-to-be ex-husband are murdered shortly after she meets a man online.</desc><category>Crime</category><episode-num system="onscreen">S14E14</episode-num><episode-num system="xmltv_ns">13.13.</episode-num><rating><value>TV-PG</value></rating></programme>
+<programme start="20261123091630 +0000" stop="20261123094556 +0000" channel="6a1610bebdf296985fd95603-6449369f243fbe342a9c0b4d"><title>Forensic Files</title><sub-title>The Footpath Murders</sub-title><desc>In 1986, scientists and detectives use DNA to solve a string of rapes and murders in the UK.</desc><category>Crime</category><episode-num system="onscreen">S1E4</episode-num><episode-num system="xmltv_ns">0.3.</episode-num><rating><value>TV-PG</value></rating></programme>
+<programme start="20261123094556 +0000" stop="20261123101407 +0000" channel="6a1610bebdf296985fd95603-6449369f243fbe342a9c0b4d"><title>Forensic Files</title><sub-title>Plastic Puzzle</sub-title><desc>Police collect evidence leading to a driver who fatally injured a cyclist in a hit-and-run accident.</desc><category>Crime</category><episode-num system="onscreen">S10E3</episode-num><episode-num system="xmltv_ns">9.2.</episode-num><rating><value>TV-PG</value></rating></programme>
+<programme start="20261123101407 +0000" stop="20261123104318 +0000" channel="6a1610bebdf296985fd95603-6449369f243fbe342a9c0b4d"><title>Forensic Files</title><sub-title>The House That Roared</sub-title><desc>A woman disappeared and her husband became the prime suspect.</desc><category>Crime</category><episode-num system="onscreen">S1E3</episode-num><episode-num system="xmltv_ns">0.2.</episode-num><rating><value>TV-PG</value></rating></programme>
+<programme start="20261123104318 +0000" stop="20261123111155 +0000" channel="6a1610bebdf296985fd95603-6449369f243fbe342a9c0b4d"><title>Forensic Files</title><sub-title>Past Lives</sub-title><desc>The body of a Connecticut man is found in a burning rental car in Mexico.</desc><category>Crime</category><episode-num system="onscreen">S8E31</episode-num><episode-num system="xmltv_ns">7.30.</episode-num><rating><value>TV-PG</value></rating></programme>
+<programme start="20261123111155 +0000" stop="20261123114032 +0000" channel="6a1610bebdf296985fd95603-6449369f243fbe342a9c0b4d"><title>Forensic Files</title><sub-title>Sign Here</sub-title><desc>A mother of two vanishes after a shopping trip. Her body is discovered a month later.</desc><category>Crime</category><episode-num system="onscreen">S8E4</episode-num><episode-num system="xmltv_ns">7.3.</episode-num><rating><value>TV-PG</value></rating></programme>
+<programme start="20261123114032 +0000" stop="20261123120843 +0000" channel="6a1610bebdf296985fd95603-6449369f243fbe342a9c0b4d"><title>Forensic Files</title><sub-title>Just Desserts</sub-title><desc>The prime suspect's driver's license was found at the scene of a brutal double homicide.</desc><category>Crime</category><episode-num system="onscreen">S11E3</episode-num><episode-num system="xmltv_ns">10.2.</episode-num><rating><value>TV-14</value></rating></programme>
+<programme start="20261123120843 +0000" stop="20261123123654 +0000" channel="6a1610bebdf296985fd95603-6449369f243fbe342a9c0b4d"><title>Forensic Files</title><sub-title>Internal Affair</sub-title><desc>When a woman went missing, friends and family were determined to find her.</desc><category>Crime</category><episode-num system="onscreen">S11E17</episode-num><episode-num system="xmltv_ns">10.16.</episode-num><rating><value>TV-PG</value></rating></programme>
+<programme start="20261123123654 +0000" stop="20261123130506 +0000" channel="6a1610bebdf296985fd95603-6449369f243fbe342a9c0b4d"><title>Forensic Files</title><sub-title>Critical Maneuver</sub-title><desc>When a hit-and-run accident killed a high school athlete, everyone in town searched for the killer.</desc><category>Crime</category><episode-num system="onscreen">S11E32</episode-num><episode-num system="xmltv_ns">10.31.</episode-num><rating><value>TV-PG</value></rating></programme>
+<programme start="20261123130506 +0000" stop="20261123133318 +0000" channel="6a1610bebdf296985fd95603-6449369f243fbe342a9c0b4d"><title>Forensic Files</title><sub-title>Fresh Heir</sub-title><desc>Lives changed in the 20 years following an unsolved murder, and so did forensic science.</desc><category>Crime</category><episode-num system="onscreen">S11E35</episode-num><episode-num system="xmltv_ns">10.34.</episode-num><rating><value>TV-PG</value></rating></programme>
+<programme start="20261123133318 +0000" stop="20261123140132 +0000" channel="6a1610bebdf296985fd95603-6449369f243fbe342a9c0b4d"><title>Forensic Files</title><sub-title>Fatal Fungus</sub-title><desc>An infant was rushed to the emergency room with serious breathing problems.</desc><category>Crime</category><episode-num system="onscreen">S2E7</episode-num><episode-num system="xmltv_ns">1.6.</episode-num><rating><value>TV-PG</value></rating></programme>
 <programme start="20261122190000 +0000" stop="20261122200000 +0000" channel="6a1610bebdf296985fd95603-648095ad190e97d15c3470e9"><title>Court TV Live</title><sub-title>Staged Murder Trial</sub-title><desc>Gavel-to-gavel coverage and legal analysis of the nation's most compelling trials.</desc><category>Law</category><category>Bingeworthy</category><category>Crime</category><episode-num system="onscreen">S2026E2025</episode-num><episode-num system="xmltv_ns">2025.2024.</episode-num><rating><value>NR</value></rating></programme>
 <programme start="20261122200000 +0000" stop="20261122210000 +0000" channel="6a1610bebdf296985fd95603-648095ad190e97d15c3470e9"><title>Court TV Live</title><sub-title>Staged Murder Trial</sub-title><desc>Gavel-to-gavel coverage and legal analysis of the nation's most compelling trials.</desc><category>Law</category><category>Bingeworthy</category><category>Crime</category><episode-num system="onscreen">S2026E2026</episode-num><episode-num system="xmltv_ns">2025.2025.</episode-num><rating><value>NR</value></rating></programme>
 <programme start="20261122210000 +0000" stop="20261122220000 +0000" channel="6a1610bebdf296985fd95603-648095ad190e97d15c3470e9"><title>Court TV Live</title><sub-title>Staged Murder Trial</sub-title><desc>Gavel-to-gavel coverage and legal analysis of the nation's most compelling trials.</desc><category>Law</category><category>Bingeworthy</category><category>Crime</category><episode-num system="onscreen">S2026E2011</episode-num><episode-num system="xmltv_ns">2025.2010.</episode-num><rating><value>NR</value></rating></programme>
@@ -34216,7 +34208,6 @@ The investigation into the kidnapping and rape of an 18-year-old Ohio woman is a
 <programme start="20261123085339 +0000" stop="20261123104448 +0000" channel="6a1610bebdf296985fd95603-66ea085d9502c5778b828d41"><title>The Devil's Arithmetic (1999)</title><desc>A teenager reluctantly takes part in the tradition of Seder and is transported to 1941 Poland.</desc><category>Drama</category><category>Fantasy</category><category>War</category><category>TV Movie</category><category>Thriller</category><category>Science Fiction</category><rating><value>NR</value></rating></programme>
 <programme start="20261123104448 +0000" stop="20261123123608 +0000" channel="6a1610bebdf296985fd95603-66ea085d9502c5778b828d41"><title>Blind Horizon [Broadcast Edit] (2003)</title><desc>At the hospital, Frank comes out of a coma with amnesia. The sheriff wants to know who shot him.</desc><category>Drama</category><category>Thriller</category><category>Mystery</category><rating><value>NR</value></rating></programme>
 <programme start="20261123123608 +0000" stop="20261123142347 +0000" channel="6a1610bebdf296985fd95603-66ea085d9502c5778b828d41"><title>Prom Night (1980)</title><desc>A masked killer stalks four teenagers who were responsible for the accidental death of a classmate.</desc><category>Horror</category><category>Mystery</category><category>Thriller</category><rating><value>NR</value></rating></programme>
-<programme start="20261122185612 +0000" stop="20261122192345 +0000" channel="6a1610bebdf296985fd95603-6707dc42da81682f2d1e6846"><title>Sheriffs: El Dorado County</title><sub-title>Busy Night at the Motel</sub-title><desc>The search of a vehicle reveals drugs and a handgun. A homeless person trashes a woman's house.</desc><category>Crime</category><episode-num system="onscreen">S4E1</episode-num><episode-num system="xmltv_ns">3.0.</episode-num><rating><value>TV-14</value></rating></programme>
 <programme start="20261122192345 +0000" stop="20261122195118 +0000" channel="6a1610bebdf296985fd95603-6707dc42da81682f2d1e6846"><title>Sheriffs: El Dorado County</title><sub-title>Water Rescue</sub-title><desc>A deputy patrolling Lake Tahoe finds two women who fell out of their kayaks.</desc><category>Crime</category><episode-num system="onscreen">S4E2</episode-num><episode-num system="xmltv_ns">3.1.</episode-num><rating><value>TV-14</value></rating></programme>
 <programme start="20261122195118 +0000" stop="20261122201851 +0000" channel="6a1610bebdf296985fd95603-6707dc42da81682f2d1e6846"><title>Sheriffs: El Dorado County</title><sub-title>Bridge Jumpers</sub-title><desc>Lake Tahoe Patrol looks to stop teens from jumping 30 feet off a bridge.</desc><category>Crime</category><episode-num system="onscreen">S4E3</episode-num><episode-num system="xmltv_ns">3.2.</episode-num><rating><value>TV-14</value></rating></programme>
 <programme start="20261122201851 +0000" stop="20261122204623 +0000" channel="6a1610bebdf296985fd95603-6707dc42da81682f2d1e6846"><title>Sheriffs: El Dorado County</title><sub-title>DUI Boater</sub-title><desc>A boater is reported to be under the influence of drugs or alcohol.</desc><category>Crime</category><episode-num system="onscreen">S4E4</episode-num><episode-num system="xmltv_ns">3.3.</episode-num><rating><value>TV-14</value></rating></programme>
@@ -120616,18 +120607,6 @@ The investigation into the kidnapping and rape of an 18-year-old Ohio woman is a
     <icon src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046127310-robotchicken_133_dup.jpg" />
     <episode-num system="xmltv_ns">6.12.0/1</episode-num>
     <date>20140707</date>
-  </programme>
-<programme start="20261122185738 +0000" stop="20261122192303 +0000" channel="samurai-jack">
-    <title lang="en">Samurai Jack</title>
-    <sub-title lang="en">XL</sub-title>
-    <desc lang="en">Aku sends a Ninja to destroy Jack who is busily helping a port town in distress.</desc>
-    <category lang="en">Toons</category>
-    <rating system="VCHIP">
-      <value>TV-Y7-FV</value>
-    </rating>
-    <icon src="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471419123-samjack_040.jpg" />
-    <episode-num system="xmltv_ns">2.13.0/1</episode-num>
-    <date>20030615</date>
   </programme>
 <programme start="20261122192303 +0000" stop="20261122194838 +0000" channel="samurai-jack">
     <title lang="en">Samurai Jack</title>
