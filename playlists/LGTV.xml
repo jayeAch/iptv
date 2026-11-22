@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+<channel id="shoutmovies_stmvs_US">
+    <display-name>Shout! Movies</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Shout_Movies/LG_SM_Logo_400x200.png"/>
+  </channel>
 <channel id="theasylummoviechannel_tasmc_US">
     <display-name>The Asylum</display-name>
     <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Asylum_Movie_Channel_Logo_LG_400x200.png"/>
+  </channel>
+<channel id="FREQ541-US">
+    <display-name>Mysteria</display-name>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/lawandcrime/channels/541-400x200.png"/>
   </channel>
 <channel id="99993006">
     <display-name>World's Most Evil Killers</display-name>
@@ -28,16 +36,6 @@
     <category lang="en">ETC</category>
     <icon src="https://image.xumo.com/v1/assets/asset/XM0KD0PIGEN2OS/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993006%2F768x432.jpg%3Ftype%3DchannelTile"/>
     <episode-num system="dd_progid">XM0KD0PIGEN2OS</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261122092904 +0000" stop="20261122110850 +0000" channel="theasylummoviechannel_tasmc_US">
-    <title lang="en">Ardennes Fury</title>
-    <desc lang="en">​​As the Battle of the Bulge rages, a U.S. tank unit trapped behind Nazi lines must fight its way back.</desc>
-    <category lang="en">Action</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/tasmc/resized_abe59d5714b6e4b9a436c7f0428d1e73c587ed60d10fd8263ff4fd56f803c7d1_ardennesfury1920x1080jpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">tasmc_ArdennesFury_Feature_2997_20_Amagi_US</episode-num>
     <rating>
       <value>TV-14</value>
     </rating>
