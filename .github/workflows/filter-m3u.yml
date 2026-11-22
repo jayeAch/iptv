@@ -11,8 +11,8 @@ on:
         default: false
   push:
     paths:
-      - "m3u_urls.txt"
-      - "epg_urls.txt"
+      #- "m3u_urls.txt"
+      #- "epg_urls.txt"
       - "exclude_list.py"
       - "category_exclude_list.py"
       - "category_exception_list.py"
