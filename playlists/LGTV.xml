@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-<channel id="99992272">
-    <display-name>FilmRise Free Movies</display-name>
-    <icon src="https://image.xumo.com/v1/channels/channel/99992272/400x200.png?type=white_cropped"/>
-  </channel>
 <channel id="theasylummoviechannel_tasmc_US">
     <display-name>The Asylum</display-name>
     <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Asylum_Movie_Channel_Logo_LG_400x200.png"/>
@@ -20,20 +16,14 @@
     <display-name>Mysteria</display-name>
     <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/lawandcrime/channels/541-400x200.png"/>
   </channel>
+<channel id="99993006">
+    <display-name>World's Most Evil Killers</display-name>
+    <icon src="https://image.xumo.com/v1/channels/channel/99993006/400x200.png?type=white_cropped"/>
+  </channel>
 <channel id="99992255">
     <display-name>Forensic Files</display-name>
     <icon src="https://image.xumo.com/v1/channels/channel/99992255/400x200.png?type=white_cropped"/>
   </channel>
-<programme start="20261122224315 +0000" stop="20261122231152 +0000" channel="99992255">
-    <title lang="en">Forensic Files</title>
-    <desc lang="en">Just weeks before a witness is to testify against the man accused of sexually assaulting her, she is murdered.</desc>
-    <category lang="en">ETC</category>
-    <icon src="https://image.xumo.com/v1/assets/asset/XM0T6VO2NYKW45/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992255%2F768x432.jpg%3Ftype%3DchannelTile"/>
-    <episode-num system="dd_progid">XM0T6VO2NYKW45</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
 <programme start="20261122231152 +0000" stop="20261122234003 +0000" channel="99992255">
     <title lang="en">Forensic Files</title>
     <desc lang="en">For seven years, a trio of men robbed one bank after another. They always got away before the police arrived and they left no evidence behind. But the way they stood and the clothes they wore told a story that could be read by forensic scientists.</desc>
@@ -124,42 +114,52 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261122212834 +0000" stop="20261122231846 +0000" channel="99992272">
-    <title lang="en">My Mom's New Boyfriend</title>
-    <desc lang="en">After several years away, FBI agent Henry Durand (Colin Hanks) returns to find his mother, Marty (Meg Ryan), a much different person: Having long mourned for Henry's father, she is now embracing single life. One day, while Marty, Henry and his new fiancée, Emily (Selma Blair), are out for a walk, they meet Tommy (Antonio Banderas), a mysterious stranger, with whom Marty then becomes involved. However, through his FBI contacts, Henry learns that Tommy is suspected of being an art thief.</desc>
-    <category lang="en">Movies</category>
-    <icon src="https://image.xumo.com/v1/assets/asset/XM0MHFWLRVGVI1/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992272%2F768x432.jpg%3Ftype%3DchannelTile"/>
-    <episode-num system="dd_progid">XM0MHFWLRVGVI1</episode-num>
-    <rating>
-      <value>PG-13</value>
-    </rating>
-  </programme>
-<programme start="20261122231846 +0000" stop="20261123010505 +0000" channel="99992272">
-    <title lang="en">Gang of Roses</title>
-    <desc lang="en">A gang of gold-hunting outlaws, headed by the ruthless Left Eye Watkins (Bobby Brown), takes over the peaceful town of Flatridge, tearing the sleepy outpost to shreds as they search for riches. They murder a can-can girl, who is the sister of Rachel (Monica Calhoun), the onetime leader of a notorious all-girl gang. Rachel then rounds up her four old associates, and they seek revenge for her sister. Using teamwork and a sassy attitude, Rachel's gang goes up against Watkins' tough crew.</desc>
-    <category lang="en">Movies</category>
-    <icon src="https://image.xumo.com/v1/assets/asset/XM07AHMOYNLL2I/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992272%2F768x432.jpg%3Ftype%3DchannelTile"/>
-    <episode-num system="dd_progid">XM07AHMOYNLL2I</episode-num>
+<programme start="20261122225352 +0000" stop="20261122234545 +0000" channel="99993006">
+    <title lang="en">World's Most Evil Killers</title>
+    <desc lang="en">Police in Aurora, Colorado found the body of a young man in in his own home with a bullet wound to the head.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0FS09YQXXSZR/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993006%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM0FS09YQXXSZR</episode-num>
     <rating>
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261123010505 +0000" stop="20261123030243 +0000" channel="99992272">
-    <title lang="en">Going All The Way [Broadcast Edit]</title>
-    <desc lang="en">Korean War--era veterans and ex-classmates "Gunner" Casselman (Ben Affleck) and "Sonny" Burns (Jeremy Davies) reunite upon their return home. Gunner, who spent the war years abroad, is trying to convince his mother that his gal Marty (Rachel Weisz) is good enough for him, while Sonny, who was stationed stateside, is torn between loyal Buddy (Amy Locane) and tempting Gale Ann (Rose McGowan). As they commiserate, the men realize that they're outgrowing the lives they lived before the war.</desc>
-    <category lang="en">Movies</category>
-    <icon src="https://image.xumo.com/v1/assets/asset/XM0BAOMI1YUWXS/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992272%2F768x432.jpg%3Ftype%3DchannelTile"/>
-    <episode-num system="dd_progid">XM0BAOMI1YUWXS</episode-num>
+<programme start="20261122234545 +0000" stop="20261123003700 +0000" channel="99993006">
+    <title lang="en">World's Most Evil Killers</title>
+    <desc lang="en">Billy Mansfield Jr. moved between Florida and Michigan, targeting vulnerable women and girls. Between 1975 and 1980, Mansfield Jr. murdered at least five victims, burying four of them at his family home in Spring Hill, Florida.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0DDS6GTGD86P/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993006%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM0DDS6GTGD86P</episode-num>
     <rating>
-      <value>PG-13</value>
+      <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261122223648 +0000" stop="20261122231228 +0000" channel="FREQ541-US">
-    <title lang="en">Crime Report with Christina Randall</title>
-    <desc lang="en">Christina revisits the case of an eight-year-old murdered by a teenager, who hid her body under his bed.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/1dr6fgjkkrpbt1sph4e4rlatw/w1920_h1080/1dr6fgjkkrpbt1sph4e4rlatw.jpg"/>
-    <episode-num system="dd_progid">3827803</episode-num>
+<programme start="20261123003700 +0000" stop="20261123012810 +0000" channel="99993006">
+    <title lang="en">World's Most Evil Killers</title>
+    <desc lang="en">Wayne Adam Ford is an American serial killer who strangled and dismembered three of his four victims. The first body was found in October 1997 and had been so thoroughly dismembered that her identity remains unknown.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0VDP93FQ1S6I/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993006%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM0VDP93FQ1S6I</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261123012810 +0000" stop="20261123022058 +0000" channel="99993006">
+    <title lang="en">World's Most Evil Killers</title>
+    <desc lang="en">When Carol Jarvis disappeared, her husband told friends and family that she'd simply gone on a little holiday.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0MQ25PJNPOK5/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993006%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM0MQ25PJNPOK5</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261123022058 +0000" stop="20261123031306 +0000" channel="99993006">
+    <title lang="en">World's Most Evil Killers</title>
+    <desc lang="en">Musician and special needs teacher Jane Longhurst vanished during her day off work after making a plan to go swimming with her friend's boyfriend. Five weeks later, Jane's partially decomposed body was found burning 25 miles from Jane's home.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM07KDNOP9OCBG/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993006%2F768x432.jpg%3Ftype%3DchannelTile"/>
+    <episode-num system="dd_progid">XM07KDNOP9OCBG</episode-num>
     <rating>
       <value>TV-14</value>
     </rating>
@@ -234,16 +234,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261122213540 +0000" stop="20261122231658 +0000" channel="theasylummoviechannel_tasmc_US">
-    <title lang="en">Planet of the Sharks</title>
-    <desc lang="en">In the future, sharks dominate the planet, led by a mutated alpha shark, as human survivors live in terror.</desc>
-    <category lang="en">Action</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/tasmc/resized_7861faf120b5889efc5c57a42043202e3cf441182004bd81b08679ba164ef53a_planetofthesharks1920x1080jpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">tasmc_PlanetOfTheSharks_Feature_2997_20_US</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme start="20261122231658 +0000" stop="20261123010026 +0000" channel="theasylummoviechannel_tasmc_US">
     <title lang="en">Battle of Los Angeles</title>
     <desc lang="en">70 years after a UFO was spotted flying above Los Angeles, the alien invaders have returned.</desc>
@@ -312,16 +302,6 @@
     <episode-num system="dd_progid">amg02042c61_ARSJv6NMp9qpbNREUVZvopT_us</episode-num>
     <rating>
       <value>R</value>
-    </rating>
-  </programme>
-<programme start="20261122224549 +0000" stop="20261122231552 +0000" channel="us-cinedigm_entertainment_corp_screamboxtv_1">
-    <title lang="en">Bloody Bites</title>
-    <desc lang="en">Streaming exclusively from Bloody Disgusting and Scotchworthy Productions, Bloody Bites is a compilation of snack-sized horror films that will terrorize, astonish, disturb, and excite genre fans across the globe.</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://img.platform.wurl.dev/channel/1845/lg/88167e/LG-768x432_v1.png"/>
-    <episode-num system="dd_progid">US-CineverseEntertainmentCorp-117520436-56748801-56731215</episode-num>
-    <rating>
-      <value>TV-14</value>
     </rating>
   </programme>
 <programme start="20261122231552 +0000" stop="20261122234555 +0000" channel="us-cinedigm_entertainment_corp_screamboxtv_1">

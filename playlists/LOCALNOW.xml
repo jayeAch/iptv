@@ -1,8 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
+<channel id="localnow.FAB3945A-F8EB-4ED4-B8A5-05FCEA44FD4A">
+    <display-name>48 Hours</display-name>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/FAB3945A-F8EB-4ED4-B8A5-05FCEA44FD4A/3-1x1.png" />
+  </channel>
 <channel id="localnow.41830D3A-37B5-4C6C-B242-A08B82B441D9">
     <display-name>Forensic Files</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/41830D3A-37B5-4C6C-B242-A08B82B441D9/3-1x1.png" />
+  </channel>
+<channel id="localnow.86B50402-32F0-4EBF-9AF8-65DAE9C09A44">
+    <display-name>Mysteria</display-name>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/86B50402-32F0-4EBF-9AF8-65DAE9C09A44/3-1x1.png" />
   </channel>
 <channel id="localnow.70E6008B-8E98-4B80-8CE2-D721592DF1C1">
     <display-name>World's Most Evil Killers</display-name>
@@ -44,12 +52,6 @@
     <display-name>WFXB Myrtle Beach SC (FOX)</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/72384889-EEEB-4EEA-93B3-F26FF4E12D6B/3-1x1.png" />
   </channel>
-<programme start="20261122220000 +0000" stop="20261122230000 +0000" channel="localnow.06FFDD3B-A149-4023-8EF8-96685EB19DDE">
-    <title lang="en">Screambox TV</title>
-    <desc lang="en">Your home for horror featuring Screambox exclusives, originals, and curated horror movies and TV to make you scream 24/7.</desc>
-    <category lang="en">Horror</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/06FFDD3B-A149-4023-8EF8-96685EB19DDE/0-2x3.png" />
-  </programme>
 <programme start="20261122230000 +0000" stop="20261123000000 +0000" channel="localnow.06FFDD3B-A149-4023-8EF8-96685EB19DDE">
     <title lang="en">Screambox TV</title>
     <desc lang="en">Your home for horror featuring Screambox exclusives, originals, and curated horror movies and TV to make you scream 24/7.</desc>
@@ -61,14 +63,6 @@
     <desc lang="en">Your home for horror featuring Screambox exclusives, originals, and curated horror movies and TV to make you scream 24/7.</desc>
     <category lang="en">Horror</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/06FFDD3B-A149-4023-8EF8-96685EB19DDE/0-2x3.png" />
-  </programme>
-<programme start="20261122220000 +0000" stop="20261122225300 +0000" channel="localnow.70E6008B-8E98-4B80-8CE2-D721592DF1C1">
-    <title lang="en">World's Most Evil Killers</title>
-    <desc lang="en">A look at serial killer Richard Biegenwald, who murdered at least six people in N.J.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/70E6008B-8E98-4B80-8CE2-D721592DF1C1/0-2x3.png" />
-    <episode-num system="onscreen">S08E04</episode-num>
-    <episode-num system="xmltv_ns">7.3.</episode-num>
   </programme>
 <programme start="20261122225300 +0000" stop="20261122234500 +0000" channel="localnow.70E6008B-8E98-4B80-8CE2-D721592DF1C1">
     <title lang="en">World's Most Evil Killers</title>
@@ -120,20 +114,6 @@
     <category lang="en">News</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/72384889-EEEB-4EEA-93B3-F26FF4E12D6B/0-2x3.png" />
     <episode-num system="dd_progid">program-wfxb-20261123140000</episode-num>
-  </programme>
-<programme start="20261122223000 +0000" stop="20261122230000 +0000" channel="localnow.7439B766-5F61-43D6-A61B-D58FEF6824FD">
-    <title lang="en">Armstrong Williams Replay</title>
-    <desc lang="en">The Armstrong Williams Show</desc>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7439B766-5F61-43D6-A61B-D58FEF6824FD/0-2x3.png" />
-    <episode-num system="dd_progid">program-wpde-myrtle-beach-sc-20261122223000</episode-num>
-  </programme>
-<programme start="20261122230000 +0000" stop="20261122233000 +0000" channel="localnow.7439B766-5F61-43D6-A61B-D58FEF6824FD">
-    <title lang="en">The News At Six</title>
-    <desc lang="en">Myrtle Beach/Florence News, Weather, Sports, Breaking News</desc>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7439B766-5F61-43D6-A61B-D58FEF6824FD/0-2x3.png" />
-    <episode-num system="dd_progid">program-wpde-myrtle-beach-sc-20261122230000</episode-num>
   </programme>
 <programme start="20261122221253 +0000" stop="20261123000553 +0000" channel="localnow.746F014B-ACE1-4DE4-B494-BFAE6DE92608">
     <title lang="en">Last Straw</title>
@@ -191,41 +171,12 @@
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/79549FA0-4EBE-48C3-957F-037BA02E827F/0-2x3.png" />
     <episode-num system="dd_progid">program-epg-horror-machine-20261123030000</episode-num>
   </programme>
-<programme start="20261122223000 +0000" stop="20261122230000 +0000" channel="localnow.A0A87EFE-61FA-477E-A0E3-44A88013AE74">
-    <title lang="en">InvestigateTV+</title>
-    <desc lang="en">An examination and discussion of politics, personal finance, reports of government corruption, consumer alerts and healthcare issues.</desc>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/A0A87EFE-61FA-477E-A0E3-44A88013AE74/0-2x3.png" />
-    <episode-num system="dd_progid">program-wmbf-2026-11-22T22-30-00</episode-num>
-  </programme>
-<programme start="20261122230000 +0000" stop="20261122233000 +0000" channel="localnow.A0A87EFE-61FA-477E-A0E3-44A88013AE74">
-    <title lang="en">WMBF News @ 6p Weekend</title>
-    <desc lang="en">WMBF News in Myrtle Beach goes into the Grand Strand and Pee Dee communities to provide our viewers with the news, weather and sports they need to know.</desc>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/A0A87EFE-61FA-477E-A0E3-44A88013AE74/0-2x3.png" />
-    <episode-num system="dd_progid">program-wmbf-2026-11-22T23-00-00</episode-num>
-  </programme>
-<programme start="20261122223000 +0000" stop="20261122233000 +0000" channel="localnow.A7FA55BD-F771-46DA-B7A0-B974DA61DF21">
-    <title lang="en">BuzzFeed Unsolved: Supernatural</title>
-    <desc lang="en">For their fifth season finale, Ryan and Shane make their first haunted house call.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/A7FA55BD-F771-46DA-B7A0-B974DA61DF21/0-2x3.png" />
-    <episode-num system="dd_progid">program-buzzfeed-unsolved-20261122223000</episode-num>
-  </programme>
 <programme start="20261122233000 +0000" stop="20261123000000 +0000" channel="localnow.A7FA55BD-F771-46DA-B7A0-B974DA61DF21">
     <title lang="en">BuzzFeed Unsolved: True Crime</title>
     <desc lang="en">Watch Ryan &amp; Shane uncover more details of the Black Dahlia as they revisit that case.</desc>
     <category lang="en">True Crime</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/A7FA55BD-F771-46DA-B7A0-B974DA61DF21/0-2x3.png" />
     <episode-num system="dd_progid">program-buzzfeed-unsolved-20261122233000</episode-num>
-  </programme>
-<programme start="20261122211600 +0000" stop="20261122231000 +0000" channel="localnow.AFE4F17B-882F-4DFF-9014-972E16331779">
-    <title lang="en">The Golem</title>
-    <desc lang="en">A mystical woman must save her village from invaders, but the entity she conjures to protect them is a far greater evil.</desc>
-    <category lang="en">Sci-Fi</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/AFE4F17B-882F-4DFF-9014-972E16331779/0-2x3.png" />
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
 <programme start="20261122231000 +0000" stop="20261123005400 +0000" channel="localnow.AFE4F17B-882F-4DFF-9014-972E16331779">
     <title lang="en">The Lingering</title>
@@ -276,5 +227,21 @@
     <category lang="en">Horror</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D0DF28EB-0756-4476-80C4-FD05DE2E4E09/0-2x3.png" />
     <episode-num system="dd_progid">program-scream-factory-tv-20261123033015</episode-num>
+  </programme>
+<programme start="20261122230000 +0000" stop="20261123000100 +0000" channel="localnow.FAB3945A-F8EB-4ED4-B8A5-05FCEA44FD4A">
+    <title lang="en">48 Hours</title>
+    <desc lang="en">Renard Spivey, the TV bailiff who was accused of murdering his wife, opens up about the trial.</desc>
+    <category lang="en">True Crime</category>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/FAB3945A-F8EB-4ED4-B8A5-05FCEA44FD4A/0-2x3.png" />
+    <episode-num system="onscreen">S38E14</episode-num>
+    <episode-num system="xmltv_ns">37.13.</episode-num>
+  </programme>
+<programme start="20261123000100 +0000" stop="20261123010100 +0000" channel="localnow.FAB3945A-F8EB-4ED4-B8A5-05FCEA44FD4A">
+    <title lang="en">48 Hours</title>
+    <desc lang="en">When a woman disappears, no one reports her missing until her hairdresser starts asking questions.</desc>
+    <category lang="en">True Crime</category>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/FAB3945A-F8EB-4ED4-B8A5-05FCEA44FD4A/0-2x3.png" />
+    <episode-num system="onscreen">S31E21</episode-num>
+    <episode-num system="xmltv_ns">30.20.</episode-num>
   </programme>
 </tv>
