@@ -16,6 +16,10 @@
     <display-name>Forensic Files</display-name>
     <icon src="https://image.xumo.com/v1/channels/channel/99992255/400x200.png?type=white_cropped"/>
   </channel>
+<channel id="us-trublufactual_trublu_1">
+    <display-name>TruBlu</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/1565/lg/142485/LG-Logo-PNG-100x100_v1.png"/>
+  </channel>
 <programme start="20261122195128 +0000" stop="20261122202249 +0000" channel="99992255">
     <title lang="en">Forensic Files</title>
     <desc lang="en">In 1981, six-year-old Cassie Hansen disappeared from her St. Paul, Minnesota church during an evening service.</desc>
@@ -46,14 +50,14 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261122171309 +0000" stop="20261122200709 +0000" channel="us-gsn_cinevault_80s_1">
-    <title lang="en">The Natural</title>
-    <desc lang="en">Talent brought him to the edge of glory... Fate took him to the well of despair... and love sent him to the place he was meant to be. A middle-aged unknown comes seemingly out of nowhere to become a legendary baseball player with almost supernatural talent.</desc>
-    <category lang="en">Movies</category>
-    <icon src="http://img.platform.wurl.dev/channel/691/lg/e11147/LG-768x432_v1.png"/>
-    <episode-num system="dd_progid">US-GAMESHOWNETWORKLLC-98499155-485884-478422</episode-num>
+<programme start="20261122193346 +0000" stop="20261122200818 +0000" channel="us-trublufactual_trublu_1">
+    <title lang="en">Takedown with Chris Hansen</title>
+    <desc lang="en">Part two of the Chris and Dr. Jaswall interview post-arrest.</desc>
+    <category lang="en">Documentary</category>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/26294-28342/53870267-LG_v2.jpg"/>
+    <episode-num system="dd_progid">US-TruBluFactualStreamingNetworkLLC-53870267-45178147-38058055</episode-num>
     <rating>
-      <value>PG</value>
+      <value>TV-14</value>
     </rating>
   </programme>
 </tv>
