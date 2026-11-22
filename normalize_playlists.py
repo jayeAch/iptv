@@ -467,6 +467,8 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     'British TV': _words("""
         bbc drama
         bbc sci-fi
+        bbc one
+        bbc
         bbc adventure
         britbox
         acorn tv
@@ -1215,6 +1217,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         ligue-1
         mls
         sports
+        big ten network
         adr+
         ncaa
         tsn
