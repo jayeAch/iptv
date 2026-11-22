@@ -540,6 +540,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         pluto tv comedy
         the red green channel
         komedi
+        laff
         the daily show
         weeds & nurse jackie
         komedie
@@ -923,6 +924,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         go wild
         brave wilderness
         dinos 24/7
+        animal planet
         earthday 365
         bbc earth
         wildearth
@@ -1177,6 +1179,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         sport
         darts
         mex 1
+        acc
         ligue-1
         mls
         sports
@@ -1296,6 +1299,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         metalocalypse
         mr. pickles
         primal
+        adultswim
         rick and morty
         robot chicken
         samurai jack
