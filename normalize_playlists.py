@@ -1167,6 +1167,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         sport
         sports
         adr+
+        [ncaa american football]
         tsn
         wild tv
         rightnow
