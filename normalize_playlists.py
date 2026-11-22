@@ -1176,13 +1176,16 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     'Sports': _words("""
         sport
         darts
-        [mex 1]
-        [ligue-1]
-        [mls]
+        mex 1
+        ligue-1
+        mls
         sports
         adr+
-        [ncaa american football]
+        ncaa
         tsn
+        cfb
+        eredivisie
+        efl
         wild tv
         rightnow
         great by choice
