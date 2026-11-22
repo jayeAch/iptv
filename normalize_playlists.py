@@ -259,7 +259,7 @@ NAME_OVERRIDES: dict[str, str] = {
     'robot wars by mech+': 'Science',
     'wheels & steel': 'Automotive',
     '5 trucking hell': 'Automotive',
-    'electricnow': 'Sci-Fi',  # Electric Entertainment shows (The Librarians, Leverage), not music
+    'electricnow': 'Entertainment',  # Electric Entertainment shows (The Librarians, Leverage), not music
     'lionsgate network': 'Movies',
     'tribeca': 'Movies',
     'paramount+ picks': 'Movies',
