@@ -5,6 +5,7 @@
 CATEGORY_EXCLUDE_LIST = [
     "Paranormal",
     "Creators",
+    "Business",
     "Christmas",
     "Women's Interests",
     "International",
