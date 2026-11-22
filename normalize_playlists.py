@@ -718,7 +718,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         dread tv
         fearstream
         frightflix
-        alred hitchcock presents
+        alfred hitchcock presents
         horror
         tales from the crypt
         itn's creatureverse
