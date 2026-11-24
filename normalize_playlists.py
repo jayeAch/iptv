@@ -619,6 +619,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         fgteev
         w3
         ssundee
+        filmrise creators
         wonderviz
         jesser
         zhc
