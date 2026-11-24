@@ -786,6 +786,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         kids
         123 go
         kiddo
+        pluto tv klassiske tegnefilmer
         nicktoons
         teenvee
         playworld
