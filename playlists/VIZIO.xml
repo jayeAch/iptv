@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+<channel id="vizio.FEATURED4">
+    <display-name>No Reservations</display-name>
+    <icon src="https://images.vizio.com/v4/btv/1/1736094350/1/267/150/0.jpg"/>
+  </channel>
 <channel id="vizio.93tribe">
     <display-name>Tribeca Channel</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/1729091774/1/267/150/0.jpg"/>
@@ -31,9 +35,6 @@
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%203815716300,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <episode-num system="onscreen">S01E12</episode-num>
     <episode-num system="xmltv_ns">0.11.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
   </programme>
 <programme start="20261124111226 +0000" stop="20261124135732 +0000" channel="vizio.149station_1287">
     <title lang="en">On Patrol: Live</title>
@@ -42,31 +43,30 @@
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%203822906866,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <episode-num system="onscreen">S01E13</episode-num>
     <episode-num system="xmltv_ns">0.12.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
   </programme>
-<programme start="20261124092108 +0000" stop="20261124094749 +0000" channel="vizio.93DARKS">
-    <title lang="en">Dark Side of the Ring: After Dark</title>
-    <sub-title lang="en">After The Brawl For All</sub-title>
-    <desc lang="en">Interviews with Bart Gunn, Charles "The Godfather" Wright and Vince Russo.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205161877246,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
+<programme start="20261124135732 +0000" stop="20261124164241 +0000" channel="vizio.149station_1287">
+    <title lang="en">On Patrol: Live</title>
+    <sub-title lang="en">NM Foot Chase</sub-title>
+    <desc lang="en">In Richland County, S.C., a deputy chases a vehicle that did not pull over.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%203822906788,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S01E14</episode-num>
+    <episode-num system="xmltv_ns">0.13.</episode-num>
   </programme>
-<programme start="20261124094749 +0000" stop="20261124103831 +0000" channel="vizio.93DARKS">
-    <title lang="en">Dark Side of the 90s</title>
-    <sub-title lang="en">Agassi &amp; '90s Tennis Prodigies</sub-title>
-    <desc lang="en">Andre Agassi leads a handful of prodigies to shake up the stodgy sport of tennis.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205161877245,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S03E01</episode-num>
-    <episode-num system="xmltv_ns">2.0.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
+<programme start="20261124164241 +0000" stop="20261124192749 +0000" channel="vizio.149station_1287">
+    <title lang="en">On Patrol: Live</title>
+    <sub-title lang="en">Foot Pursuit</sub-title>
+    <desc lang="en">Women are caught shoplifting; a foot pursuit ends with officers setting up a perimeter.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%203823253986,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S01E15</episode-num>
+    <episode-num system="xmltv_ns">0.14.</episode-num>
+  </programme>
+<programme start="20261124192749 +0000" stop="20261124221301 +0000" channel="vizio.149station_1287">
+    <title lang="en">On Patrol: Live</title>
+    <sub-title lang="en">Water Distress</sub-title>
+    <desc lang="en">In Marion County, Fla., officers help a man who is in the water and in distress.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%203823253988,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S01E16</episode-num>
+    <episode-num system="xmltv_ns">0.15.</episode-num>
   </programme>
 <programme start="20261124103831 +0000" stop="20261124112856 +0000" channel="vizio.93DARKS">
     <title lang="en">Dark Side of the 90s</title>
@@ -101,24 +101,123 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261124084953 +0000" stop="20261124093827 +0000" channel="vizio.93WBTV133">
-    <title lang="en">Scorned: Love Kills</title>
-    <sub-title lang="en">Love You to Death</sub-title>
-    <desc lang="en">Sarah Rodriguez has an affair away from her boyfriend that ends in tragedy.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%20112518521,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E08</episode-num>
-    <episode-num system="xmltv_ns">1.7.</episode-num>
+<programme start="20261124130820 +0000" stop="20261124135845 +0000" channel="vizio.93DARKS">
+    <title lang="en">Dark Side of the 90s</title>
+    <sub-title lang="en">The Viper Room: Hollywood's Sanctuary</sub-title>
+    <desc lang="en">The Viper Room was a refuge for Young Hollywood until an iconic death made headlines.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205161877704,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
     <rating>
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261124093827 +0000" stop="20261124102701 +0000" channel="vizio.93WBTV133">
-    <title lang="en">Scorned: Love Kills</title>
-    <sub-title lang="en">The Millionaire's Mistress</sub-title>
-    <desc lang="en">An extramarital affair with a millionaire spirals into jealousy and murder.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%20112954060,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E09</episode-num>
-    <episode-num system="xmltv_ns">1.8.</episode-num>
+<programme start="20261124135845 +0000" stop="20261124144921 +0000" channel="vizio.93DARKS">
+    <title lang="en">Dark Side of the 90s</title>
+    <sub-title lang="en">Infomercials: Shams and Scams</sub-title>
+    <desc lang="en">Shameless scam artists vie to become top dog in a cut throat industry.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205161877677,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S03E05</episode-num>
+    <episode-num system="xmltv_ns">2.4.</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261124144921 +0000" stop="20261124154000 +0000" channel="vizio.93DARKS">
+    <title lang="en">Dark Side of the 90s</title>
+    <sub-title lang="en">SNL</sub-title>
+    <desc lang="en">SNL launches comedy careers. But if you get in, you may not get out alive.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205161877686,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S03E07</episode-num>
+    <episode-num system="xmltv_ns">2.6.</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261124154000 +0000" stop="20261124163031 +0000" channel="vizio.93DARKS">
+    <title lang="en">Dark Side of the 90s</title>
+    <sub-title lang="en">MTV &amp; The Real World</sub-title>
+    <desc lang="en">MTV's The Real World is TV with something to say, all with a soap opera twist.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205161877676,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S02E04</episode-num>
+    <episode-num system="xmltv_ns">1.3.</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261124163031 +0000" stop="20261124171916 +0000" channel="vizio.93DARKS">
+    <title lang="en">Dark Side of the Cage</title>
+    <sub-title lang="en">Kimbo Slice: Rise of a Backyard Brawler</sub-title>
+    <desc lang="en">Documentary series. A viral sensation becomes an MMA superstar.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205161877696,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261124171916 +0000" stop="20261124180947 +0000" channel="vizio.93DARKS">
+    <title lang="en">Dark Side of the 90s</title>
+    <sub-title lang="en">UFC Part 2: To Live or Die in the Octagon</sub-title>
+    <desc lang="en">36 states have banned “no holds barred” fighting, and the UFC’s future is grim.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205161877240,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S02E06</episode-num>
+    <episode-num system="xmltv_ns">1.5.</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261124180947 +0000" stop="20261124190019 +0000" channel="vizio.93DARKS">
+    <title lang="en">Dark Side of Comedy</title>
+    <sub-title lang="en">Dustin Diamond</sub-title>
+    <desc lang="en">Dustin’s path from TV dweeb to real-life bad boy came to an unfortunate end.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205161877199,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261124190019 +0000" stop="20261124194852 +0000" channel="vizio.93DARKS">
+    <title lang="en">Dark Side of Reality TV</title>
+    <sub-title lang="en">America's Next Top Model</sub-title>
+    <desc lang="en">It promised to help models with their careers. Instead it scarred them for life.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205161877746,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261124194852 +0000" stop="20261124201507 +0000" channel="vizio.93DARKS">
+    <title lang="en">Dark Side of the Ring: After Dark</title>
+    <sub-title lang="en">After Jimmy Snuka</sub-title>
+    <desc lang="en">Interviews with "The Hammer", Brian Knobbs, Irvin Muchnick and Adam Clark.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205161877711,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261124201507 +0000" stop="20261124210548 +0000" channel="vizio.93DARKS">
+    <title lang="en">Dark Side of the 90s</title>
+    <sub-title lang="en">Rave Culture: Under the Influence</sub-title>
+    <desc lang="en">Rave culture is a euphoric cocktail of electronic music, drugs and optimism.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205161877223,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S03E09</episode-num>
+    <episode-num system="xmltv_ns">2.8.</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261124210548 +0000" stop="20261124215612 +0000" channel="vizio.93DARKS">
+    <title lang="en">Dark Side of the 90s</title>
+    <sub-title lang="en">Baywatch: Sex Sells</sub-title>
+    <desc lang="en">With over 1 billion viewers, Baywatch was a pre-internet beauty influencer.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205161877651,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
     <rating>
       <value>TV-14</value>
     </rating>
@@ -167,6 +266,116 @@
       <value>TV-14</value>
     </rating>
   </programme>
+<programme start="20261124134617 +0000" stop="20261124143550 +0000" channel="vizio.93WBTV133">
+    <title lang="en">Scorned: Love Kills</title>
+    <sub-title lang="en">Bring on the Heat</sub-title>
+    <desc lang="en">A rookie cop betrays his college sweetheart igniting a deadly obsession.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%20112802388,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S02E14</episode-num>
+    <episode-num system="xmltv_ns">1.13.</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261124143550 +0000" stop="20261124152724 +0000" channel="vizio.93WBTV133">
+    <title lang="en">Scorned: Love Kills</title>
+    <sub-title lang="en">You've Got Hate Mail</sub-title>
+    <desc lang="en">A mistress begins stalking a husband, leading to a bloody revenge.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%20112593051,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S02E15</episode-num>
+    <episode-num system="xmltv_ns">1.14.</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261124152724 +0000" stop="20261124161658 +0000" channel="vizio.93WBTV133">
+    <title lang="en">Scorned: Love Kills</title>
+    <sub-title lang="en">Fatal Fantasy</sub-title>
+    <desc lang="en">Bart's affair drives his wife to seek love online with dire consequences.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%20113044891,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S02E16</episode-num>
+    <episode-num system="xmltv_ns">1.15.</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261124161658 +0000" stop="20261124170632 +0000" channel="vizio.93WBTV133">
+    <title lang="en">Scorned: Love Kills</title>
+    <sub-title lang="en">Black Widower</sub-title>
+    <desc lang="en">Drew Peterson has an affair with a 17-year-old, and it ends with murder.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%20112591069,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S02E17</episode-num>
+    <episode-num system="xmltv_ns">1.16.</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261124170632 +0000" stop="20261124175606 +0000" channel="vizio.93WBTV133">
+    <title lang="en">Scorned: Love Kills</title>
+    <sub-title lang="en">Love Thy Rabbi</sub-title>
+    <desc lang="en">A rabbi keeps his affairs secret until one of his women is murdered.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%20112528047,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S02E18</episode-num>
+    <episode-num system="xmltv_ns">1.17.</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261124175606 +0000" stop="20261124184540 +0000" channel="vizio.93WBTV133">
+    <title lang="en">Scorned: Love Kills</title>
+    <sub-title lang="en">Shadow Stalker</sub-title>
+    <desc lang="en">Linda is stalked by her ex-husband, leading her down a terrifying path.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%20112786488,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S02E19</episode-num>
+    <episode-num system="xmltv_ns">1.18.</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261124184540 +0000" stop="20261124193514 +0000" channel="vizio.93WBTV133">
+    <title lang="en">Scorned: Love Kills</title>
+    <sub-title lang="en">Love is the Drug</sub-title>
+    <desc lang="en">Regina's spiral into drugs and jealousy threaten to destroy everyone.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%20112712844,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S02E20</episode-num>
+    <episode-num system="xmltv_ns">1.19.</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261124193514 +0000" stop="20261124202447 +0000" channel="vizio.93WBTV133">
+    <title lang="en">Love the Way You Lie</title>
+    <sub-title lang="en">Shattered</sub-title>
+    <desc lang="en">Officers try to determine the cause of a teacher's death.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%20112562598,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261124202447 +0000" stop="20261124211421 +0000" channel="vizio.93WBTV133">
+    <title lang="en">Love the Way You Lie</title>
+    <sub-title lang="en">The Hitman and Her</sub-title>
+    <desc lang="en">Bonny Lee Bakley and Robert Blake's custody battle leads to murder.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%20112555469,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261124211421 +0000" stop="20261124220356 +0000" channel="vizio.93WBTV133">
+    <title lang="en">Love the Way You Lie</title>
+    <sub-title lang="en">Bad Company</sub-title>
+    <desc lang="en">A couple discovers that playing with fire means someone gets burned.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%20112468319,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
 <programme start="20261124091724 +0000" stop="20261124115843 +0000" channel="vizio.93tribe">
     <title lang="en">The Host</title>
     <desc lang="en">When an unseen enemy threatens mankind by taking over their bodies and erasing their memories.</desc>
@@ -179,6 +388,38 @@
     <title lang="en">Take Me Home Tonight</title>
     <desc lang="en">Four years after graduation, an awkward high school genius uses his sister's boyfriend's Labor Day party</desc>
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205052568617,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+<programme start="20261124140359 +0000" stop="20261124160010 +0000" channel="vizio.93tribe">
+    <title lang="en">The Quick and the Dead</title>
+    <desc lang="en">A mysterious stranger rides into a homesteading family's life when they are attacked by a ruthless gang.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205177363970,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+<programme start="20261124160010 +0000" stop="20261124182136 +0000" channel="vizio.93tribe">
+    <title lang="en">Marlowe</title>
+    <desc lang="en">Bay City, down on his luck detective is hired to find the ex-lover of a glamorous heiress.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205054804140,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+<programme start="20261124182136 +0000" stop="20261124210008 +0000" channel="vizio.93tribe">
+    <title lang="en">Two For the Money</title>
+    <desc lang="en">Brandon Lang loves football: an injury keeps him from the pros.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205138468241,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+<programme start="20261124210008 +0000" stop="20261124234318 +0000" channel="vizio.93tribe">
+    <title lang="en">The Infiltrator</title>
+    <desc lang="en">A U.S. Customs official uncovers a money laundering scheme involving Colombian drug lord Pablo Escobar.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205052568637,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
       <value>R</value>
     </rating>
@@ -207,10 +448,34 @@
       <value>PG-13</value>
     </rating>
   </programme>
-<programme start="20261124081149 +0000" stop="20261124094336 +0000" channel="vizio.96Station_88885594">
+<programme start="20261124151358 +0000" stop="20261124171553 +0000" channel="vizio.96Station_88885570">
+    <title lang="en">Unearthed</title>
+    <desc lang="en">A group of archaeologists inadvertently releases an ancient alien killing machine in an isolated town in New Mexico. The monstrous creature causes a car accident, forcing the closing of the only road in and out of the town. The local sheriff, Annie Flynn (Emmanuelle Vaugier), investigates the crash site, which reveals a giant, severed, animal-like limb. Later that night, Annie visits a secluded gas station, where she's forced to battle the creature that caused the accident.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205170970281,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+<programme start="20261124171553 +0000" stop="20261124184740 +0000" channel="vizio.96Station_88885570">
     <title lang="en">Anaconda: Death Coil</title>
     <desc lang="en">Four friends visit a inherited cabin for nostalgia, but after finding a mutilated ranger and signs of a massive ancient anaconda, they're hunted by the creature and must survive the wilderness and uncover the land's dark history.</desc>
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205068539789,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+<programme start="20261124184740 +0000" stop="20261124203008 +0000" channel="vizio.96Station_88885570">
+    <title lang="en">Altered</title>
+    <desc lang="en">In a society ruled by genetically enhanced elites, outcasts Leon (Tom Felton) and Chloe fight to expose corruption and challenge a system built on genetic disparity. Directed by Timo Vuorensola (Iron Sky), Altered is a gripping sci-fi thriller of resistance, justice, and survival.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205170970260,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+<programme start="20261124203008 +0000" stop="20261124215542 +0000" channel="vizio.96Station_88885570">
+    <title lang="en">Lone Star Shark 3</title>
+    <desc lang="en">Two female survivors join forces to bring down the deadly group responsible for unleashing a hungry shark in a West Texas lake.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204616425938,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
       <value>NR</value>
     </rating>
@@ -227,6 +492,46 @@
     <title lang="en">Kill Code</title>
     <desc lang="en">In an AI-ruled future where code decides who lives and dies, one cyber agent uncovers the truth - and only she can rewrite the law.</desc>
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205170970278,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+<programme start="20261124132425 +0000" stop="20261124151439 +0000" channel="vizio.96Station_88885594">
+    <title lang="en">Fatal Photo</title>
+    <desc lang="en">When a woman realizes she has taken a photo of an attempted murder, she must use the clues in the image to solve the crime... before she becomes the next victim.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205170970259,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+<programme start="20261124151439 +0000" stop="20261124173116 +0000" channel="vizio.96Station_88885594">
+    <title lang="en">Ex Machina</title>
+    <desc lang="en">Alex Garland, writer of 28 Days Later and Sunshine, makes his directorial debut with the stylish and cerebral thriller, EX MACHINA. Caleb Smith (Domhnall Gleeson), a programmer at an internet-search giant, wins a competition to spend a week at the private mountain estate of the company's brilliant and reclusive CEO, Nathan Bateman (Oscar Isaac).</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205170970275,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+<programme start="20261124173116 +0000" stop="20261124192130 +0000" channel="vizio.96Station_88885594">
+    <title lang="en">Fatal Photo</title>
+    <desc lang="en">When a woman realizes she has taken a photo of an attempted murder, she must use the clues in the image to solve the crime... before she becomes the next victim.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205170970259,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+<programme start="20261124192130 +0000" stop="20261124204413 +0000" channel="vizio.96Station_88885594">
+    <title lang="en">Lone Star Shark</title>
+    <desc lang="en">A group of virtual hunters unleash a deadly shark in a Texas lake, causing a young couple to fight for their lives during a peaceful fishing trip in a secluded cove.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204495527686,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+<programme start="20261124204413 +0000" stop="20261124221600 +0000" channel="vizio.96Station_88885594">
+    <title lang="en">Anaconda: Death Coil</title>
+    <desc lang="en">Four friends visit a inherited cabin for nostalgia, but after finding a mutilated ranger and signs of a massive ancient anaconda, they're hunted by the creature and must survive the wilderness and uncover the land's dark history.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205068539789,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
       <value>NR</value>
     </rating>
