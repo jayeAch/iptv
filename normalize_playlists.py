@@ -697,6 +697,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     # (Koch'en på toppen, Til Middag Hos, Med kniven for struben) are food too.
     'Food & Travel': _words("""
         pluto tv food
+        destination america
         food network
         tastemade
         emeril lagasse
