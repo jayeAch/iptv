@@ -4,6 +4,10 @@
     <display-name>Dark Matter TV</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/AFE4F17B-882F-4DFF-9014-972E16331779/3-1x1.png" />
   </channel>
+<channel id="localnow.D10ACB25-D8D4-4445-9D47-30195BD2DE7E">
+    <display-name>American Crimes</display-name>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D10ACB25-D8D4-4445-9D47-30195BD2DE7E/3-1x1.png" />
+  </channel>
 <channel id="localnow.FAB3945A-F8EB-4ED4-B8A5-05FCEA44FD4A">
     <display-name>48 Hours</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/FAB3945A-F8EB-4ED4-B8A5-05FCEA44FD4A/3-1x1.png" />
@@ -16,9 +20,21 @@
     <display-name>FBI Files</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/558211BE-E921-43BA-9C55-9DE79921BF9C/3-1x1.png" />
   </channel>
+<channel id="localnow.86B50402-32F0-4EBF-9AF8-65DAE9C09A44">
+    <display-name>Mysteria</display-name>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/86B50402-32F0-4EBF-9AF8-65DAE9C09A44/3-1x1.png" />
+  </channel>
+<channel id="localnow.A60BF0C6-3ED5-4A10-B189-FE6864B29180">
+    <display-name>Crime Scenes</display-name>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/A60BF0C6-3ED5-4A10-B189-FE6864B29180/3-1x1.png" />
+  </channel>
 <channel id="localnow.70E6008B-8E98-4B80-8CE2-D721592DF1C1">
     <display-name>World's Most Evil Killers</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/70E6008B-8E98-4B80-8CE2-D721592DF1C1/3-1x1.png" />
+  </channel>
+<channel id="localnow.DDAE054E-F126-420F-89D8-72465BE2FD9A">
+    <display-name>FilmRise True Crime</display-name>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/DDAE054E-F126-420F-89D8-72465BE2FD9A/3-1x1.png" />
   </channel>
 <channel id="localnow.D0DF28EB-0756-4476-80C4-FD05DE2E4E09">
     <display-name>Scream Factory TV</display-name>
@@ -56,33 +72,11 @@
     <display-name>WFXB Myrtle Beach SC (FOX)</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/72384889-EEEB-4EEA-93B3-F26FF4E12D6B/3-1x1.png" />
   </channel>
-<programme start="20261124120000 +0000" stop="20261124130000 +0000" channel="localnow.06FFDD3B-A149-4023-8EF8-96685EB19DDE">
-    <title lang="en">Screambox TV</title>
-    <desc lang="en">Your home for horror featuring Screambox exclusives, originals, and curated horror movies and TV to make you scream 24/7.</desc>
-    <category lang="en">Horror</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/06FFDD3B-A149-4023-8EF8-96685EB19DDE/0-2x3.png" />
-  </programme>
 <programme start="20261124130000 +0000" stop="20261124140000 +0000" channel="localnow.06FFDD3B-A149-4023-8EF8-96685EB19DDE">
     <title lang="en">Screambox TV</title>
     <desc lang="en">Your home for horror featuring Screambox exclusives, originals, and curated horror movies and TV to make you scream 24/7.</desc>
     <category lang="en">Horror</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/06FFDD3B-A149-4023-8EF8-96685EB19DDE/0-2x3.png" />
-  </programme>
-<programme start="20261124113700 +0000" stop="20261124123400 +0000" channel="localnow.558211BE-E921-43BA-9C55-9DE79921BF9C">
-    <title lang="en">The FBI Files</title>
-    <desc lang="en">A marine salvager finds the bodies of three drug dealers floating in a river.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/558211BE-E921-43BA-9C55-9DE79921BF9C/0-2x3.png" />
-    <episode-num system="onscreen">S05E21</episode-num>
-    <episode-num system="xmltv_ns">4.20.</episode-num>
-  </programme>
-<programme start="20261124123400 +0000" stop="20261124133200 +0000" channel="localnow.558211BE-E921-43BA-9C55-9DE79921BF9C">
-    <title lang="en">The FBI Files</title>
-    <desc lang="en">A 911 call from a bank teller.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/558211BE-E921-43BA-9C55-9DE79921BF9C/0-2x3.png" />
-    <episode-num system="onscreen">S06E07</episode-num>
-    <episode-num system="xmltv_ns">5.6.</episode-num>
   </programme>
 <programme start="20261124115140 +0000" stop="20261124144202 +0000" channel="localnow.6D30170C-D7B3-46A2-8C1F-302D8399F44D">
     <title lang="en">The Host</title>
@@ -111,22 +105,6 @@
     <category lang="en">Movies</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/6D30170C-D7B3-46A2-8C1F-302D8399F44D/0-2x3.png" />
     <episode-num system="dd_progid">program-foodfree-movie-plus-20261124191413</episode-num>
-  </programme>
-<programme start="20261124111500 +0000" stop="20261124121100 +0000" channel="localnow.70E6008B-8E98-4B80-8CE2-D721592DF1C1">
-    <title lang="en">World's Most Evil Killers</title>
-    <desc lang="en">Bobby Joe Long abducts, sexually assaults and murders at least 10 women in the Tampa Bay area.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/70E6008B-8E98-4B80-8CE2-D721592DF1C1/0-2x3.png" />
-    <episode-num system="onscreen">S03E03</episode-num>
-    <episode-num system="xmltv_ns">2.2.</episode-num>
-  </programme>
-<programme start="20261124121100 +0000" stop="20261124130600 +0000" channel="localnow.70E6008B-8E98-4B80-8CE2-D721592DF1C1">
-    <title lang="en">World's Most Evil Killers</title>
-    <desc lang="en">Bob Berdella kidnaps, rapes, tortures, and murders at least six men in Kansas City, Mo.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/70E6008B-8E98-4B80-8CE2-D721592DF1C1/0-2x3.png" />
-    <episode-num system="onscreen">S03E07</episode-num>
-    <episode-num system="xmltv_ns">2.6.</episode-num>
   </programme>
 <programme start="20261124130600 +0000" stop="20261124135700 +0000" channel="localnow.70E6008B-8E98-4B80-8CE2-D721592DF1C1">
     <title lang="en">World's Most Evil Killers</title>
@@ -164,26 +142,12 @@
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/72384889-EEEB-4EEA-93B3-F26FF4E12D6B/0-2x3.png" />
     <episode-num system="dd_progid">program-wfxb-20261124173000</episode-num>
   </programme>
-<programme start="20261124120000 +0000" stop="20261124130000 +0000" channel="localnow.7439B766-5F61-43D6-A61B-D58FEF6824FD">
-    <title lang="en">WPDE News Replay</title>
-    <desc lang="en">Myrtle Beach/Florence News, Weather, Sports, Breaking News</desc>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7439B766-5F61-43D6-A61B-D58FEF6824FD/0-2x3.png" />
-    <episode-num system="dd_progid">program-wpde-myrtle-beach-sc-20261124120000</episode-num>
-  </programme>
 <programme start="20261124130000 +0000" stop="20261124140000 +0000" channel="localnow.7439B766-5F61-43D6-A61B-D58FEF6824FD">
     <title lang="en">WPDE News Replay</title>
     <desc lang="en">Myrtle Beach/Florence News, Weather, Sports, Breaking News</desc>
     <category lang="en">News</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7439B766-5F61-43D6-A61B-D58FEF6824FD/0-2x3.png" />
     <episode-num system="dd_progid">program-wpde-myrtle-beach-sc-20261124130000</episode-num>
-  </programme>
-<programme start="20261124112626 +0000" stop="20261124133139 +0000" channel="localnow.746F014B-ACE1-4DE4-B494-BFAE6DE92608">
-    <title lang="en">The Brood</title>
-    <desc lang="en">A man tries to uncover an unconventional psychologist's therapy techniques on his institutionalized wife, amidst a series of brutal murders.</desc>
-    <category lang="en">Horror</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/746F014B-ACE1-4DE4-B494-BFAE6DE92608/0-2x3.png" />
-    <episode-num system="dd_progid">program-horror-plus-20261124112626</episode-num>
   </programme>
 <programme start="20261124133139 +0000" stop="20261124152141 +0000" channel="localnow.746F014B-ACE1-4DE4-B494-BFAE6DE92608">
     <title lang="en">Bad Moon</title>
@@ -205,28 +169,6 @@
     <category lang="en">Horror</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/746F014B-ACE1-4DE4-B494-BFAE6DE92608/0-2x3.png" />
     <episode-num system="dd_progid">program-horror-plus-20261124172435</episode-num>
-  </programme>
-<programme start="20261124114500 +0000" stop="20261124123000 +0000" channel="localnow.79549FA0-4EBE-48C3-957F-037BA02E827F">
-    <title lang="en">Forbidden Science - Deepest Desires</title>
-    <desc lang="en">Forbidden Science is a unique blend of noir science fiction and erotic programming. Set in the near future, the stories revolve around the evil corporation, 4Ever Innovations, whose young and brilliant scientists download and sell memories. They replace those we've lost with clones and devise technology that helps us live out our greatest fantasies; from saving a failed relationship, to creating the perfect lover, to being irresistible to the opposite sex - but sometimes our deepest desires come at a terrible price. 4Ever offers customers the opportunity to live out their fantasies in a virtual world but there are secrets within 4Ever Innovations that may cost you your life.</desc>
-    <category lang="en">Horror</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/79549FA0-4EBE-48C3-957F-037BA02E827F/0-2x3.png" />
-    <episode-num system="dd_progid">program-epg-horror-machine-20261124114500</episode-num>
-  </programme>
-<programme start="20261124123000 +0000" stop="20261124130000 +0000" channel="localnow.79549FA0-4EBE-48C3-957F-037BA02E827F">
-    <title lang="en">Bigfoot: Living Creature or Legendary Lie?</title>
-    <desc lang="en">Bigfoot. Sasquatch. Yeti. Yeren.Yowie. There are reports the world over of these terrifying creatures. This program shows a chilling eyewitness encounter plus scientific analysis of the creature’s footprints providing startling insights into this mystery.</desc>
-    <category lang="en">Horror</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/79549FA0-4EBE-48C3-957F-037BA02E827F/0-2x3.png" />
-    <episode-num system="dd_progid">program-epg-horror-machine-20261124123000</episode-num>
-  </programme>
-<programme start="20261124103000 +0000" stop="20261124121900 +0000" channel="localnow.AFE4F17B-882F-4DFF-9014-972E16331779">
-    <title lang="en">Vanishing on 7th Street</title>
-    <desc lang="en">A blackout causes a city's population to vanish. A handful of survivors realize they escape the darkness.</desc>
-    <category lang="en">Sci-Fi</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/AFE4F17B-882F-4DFF-9014-972E16331779/0-2x3.png" />
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
 <programme start="20261124121900 +0000" stop="20261124143300 +0000" channel="localnow.AFE4F17B-882F-4DFF-9014-972E16331779">
     <title lang="en">V/H/S</title>
@@ -252,13 +194,6 @@
     <episode-num system="onscreen">S01E01</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-<programme start="20261124105814 +0000" stop="20261124124745 +0000" channel="localnow.D0DF28EB-0756-4476-80C4-FD05DE2E4E09">
-    <title lang="en">Q: The Winged Serpent</title>
-    <desc lang="en">Its name is Quetzalcoatl, a dragon-like Aztec god that is summoned to modern-day Manhattan.</desc>
-    <category lang="en">Horror</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D0DF28EB-0756-4476-80C4-FD05DE2E4E09/0-2x3.png" />
-    <episode-num system="dd_progid">program-scream-factory-tv-20261124105814</episode-num>
-  </programme>
 <programme start="20261124124745 +0000" stop="20261124143519 +0000" channel="localnow.D0DF28EB-0756-4476-80C4-FD05DE2E4E09">
     <title lang="en">MST3K: Manos: The Hands Of Fate</title>
     <desc lang="en">A hapless family on a car trip in rural Texas take refuge at an inn that harbors a deadly cult.</desc>
@@ -279,13 +214,6 @@
     <category lang="en">Horror</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D0DF28EB-0756-4476-80C4-FD05DE2E4E09/0-2x3.png" />
     <episode-num system="dd_progid">program-scream-factory-tv-20261124152537</episode-num>
-  </programme>
-<programme start="20261124120100 +0000" stop="20261124130100 +0000" channel="localnow.FAB3945A-F8EB-4ED4-B8A5-05FCEA44FD4A">
-    <title lang="en">48 Hours</title>
-    <desc lang="en">Investigative reports on crime and justice cases.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/FAB3945A-F8EB-4ED4-B8A5-05FCEA44FD4A/0-2x3.png" />
-    <episode-num system="dd_progid">SH000167470000</episode-num>
   </programme>
 <programme start="20261124130100 +0000" stop="20261124140000 +0000" channel="localnow.FAB3945A-F8EB-4ED4-B8A5-05FCEA44FD4A">
     <title lang="en">48 Hours</title>

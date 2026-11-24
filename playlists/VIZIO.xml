@@ -28,6 +28,10 @@
     <display-name>Vice: Dark Side Of</display-name>
     <icon src="https://images.vizio.com/v4/btv/1/1736243895/1/267/150/0.jpg"/>
   </channel>
+<channel id="vizio.96Station_88885565">
+    <display-name>World's Most Evil Killers</display-name>
+    <icon src="https://images.vizio.com/v4/btv/1/1647341830/1/267/150/0.jpg"/>
+  </channel>
 <programme start="20261124111226 +0000" stop="20261124135732 +0000" channel="vizio.149station_1287">
     <title lang="en">On Patrol: Live</title>
     <sub-title lang="en">A Compliant Kid</sub-title>
@@ -59,28 +63,6 @@
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%203823253988,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <episode-num system="onscreen">S01E16</episode-num>
     <episode-num system="xmltv_ns">0.15.</episode-num>
-  </programme>
-<programme start="20261124112856 +0000" stop="20261124121927 +0000" channel="vizio.93DARKS">
-    <title lang="en">Dark Side of the 90s</title>
-    <sub-title lang="en">Y2K: Paranoia Will Destroy Ya</sub-title>
-    <desc lang="en">Two men become the stars of the real-life thriller that is known as the Y2K scare.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205161877736,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E09</episode-num>
-    <episode-num system="xmltv_ns">1.8.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261124121927 +0000" stop="20261124130820 +0000" channel="vizio.93DARKS">
-    <title lang="en">Dark Side of the 2000s</title>
-    <sub-title lang="en">Charlie Sheen: Addicted to Winning</sub-title>
-    <desc lang="en">Charlie Sheen self-destructs, wagering a public, hateful war against his producer.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205161877214,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
   </programme>
 <programme start="20261124130820 +0000" stop="20261124135845 +0000" channel="vizio.93DARKS">
     <title lang="en">Dark Side of the 90s</title>
@@ -199,28 +181,6 @@
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205161877651,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <episode-num system="onscreen">S01E05</episode-num>
     <episode-num system="xmltv_ns">0.4.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261124111635 +0000" stop="20261124120609 +0000" channel="vizio.93WBTV133">
-    <title lang="en">Scorned: Love Kills</title>
-    <sub-title lang="en">Killer Beauty</sub-title>
-    <desc lang="en">Cynthia George's extramarital affair ends in a shocking act of violence.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%20112637660,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E11</episode-num>
-    <episode-num system="xmltv_ns">1.10.</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20261124120609 +0000" stop="20261124125743 +0000" channel="vizio.93WBTV133">
-    <title lang="en">Scorned: Love Kills</title>
-    <sub-title lang="en">Addicted to Sex</sub-title>
-    <desc lang="en">Karen Newell has a risky affair that leads down a path of destruction.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%20112493855,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <episode-num system="onscreen">S02E12</episode-num>
-    <episode-num system="xmltv_ns">1.11.</episode-num>
     <rating>
       <value>TV-14</value>
     </rating>
@@ -386,12 +346,114 @@
       <value>R</value>
     </rating>
   </programme>
-<programme start="20261124104626 +0000" stop="20261124130303 +0000" channel="vizio.96Station_88885570">
-    <title lang="en">Ex Machina</title>
-    <desc lang="en">Alex Garland, writer of 28 Days Later and Sunshine, makes his directorial debut with the stylish and cerebral thriller, EX MACHINA. Caleb Smith (Domhnall Gleeson), a programmer at an internet-search giant, wins a competition to spend a week at the private mountain estate of the company's brilliant and reclusive CEO, Nathan Bateman (Oscar Isaac).</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205170970275,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+<programme start="20261124130612 +0000" stop="20261124135708 +0000" channel="vizio.96Station_88885565">
+    <title lang="en">World's Most Evil Killers</title>
+    <sub-title lang="en">Derek Bird</sub-title>
+    <desc lang="en">In Cumbria, 2010 taxi driver Derek Bird took his gun and, in less than 24 hours, shot dead 12 people and injured 11 more. The callous killer only stopped when he had run out of ammunition, finally turning the gun on himself.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%203345309187,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S03E13</episode-num>
+    <episode-num system="xmltv_ns">2.12.</episode-num>
     <rating>
-      <value>R</value>
+      <value>NR</value>
+    </rating>
+  </programme>
+<programme start="20261124135708 +0000" stop="20261124145205 +0000" channel="vizio.96Station_88885565">
+    <title lang="en">World's Most Evil Killers</title>
+    <sub-title lang="en">Danny Rolling</sub-title>
+    <desc lang="en">Danny Rolling, known as the Gainesville Ripper, murdered five university students in Florida in 1990.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%203374102262,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S03E14</episode-num>
+    <episode-num system="xmltv_ns">2.13.</episode-num>
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+<programme start="20261124145205 +0000" stop="20261124154734 +0000" channel="vizio.96Station_88885565">
+    <title lang="en">World's Most Evil Killers</title>
+    <sub-title lang="en">David Heiss</sub-title>
+    <desc lang="en">Danny Rolling, known as the Gainesville Ripper, murdered five university students in Florida in 1990. Rolling also confessed to murdering a family in his hometown of Shreveport, Louisiana.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%203345309186,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S03E15</episode-num>
+    <episode-num system="xmltv_ns">2.14.</episode-num>
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+<programme start="20261124154734 +0000" stop="20261124164000 +0000" channel="vizio.96Station_88885565">
+    <title lang="en">World's Most Evil Killers</title>
+    <sub-title lang="en">BTK - Dennis Rader</sub-title>
+    <desc lang="en">Dennis Rader, known to the World as the BTK Killer, killed ten people, including young children, between 1974 and 1991 in Wichita, Kansas.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%203345310862,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S03E16</episode-num>
+    <episode-num system="xmltv_ns">2.15.</episode-num>
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+<programme start="20261124164000 +0000" stop="20261124173354 +0000" channel="vizio.96Station_88885565">
+    <title lang="en">World's Most Evil Prisoners</title>
+    <sub-title lang="en">Wissink</sub-title>
+    <desc lang="en">Imprisoned after a botched robbery that ends with the fatal shooting of an innocent man, Craig Wissink later kills a corrections officer with a fire extinguisher in a brutal attack.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204739936549,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S03E06</episode-num>
+    <episode-num system="xmltv_ns">2.5.</episode-num>
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+<programme start="20261124173354 +0000" stop="20261124182740 +0000" channel="vizio.96Station_88885565">
+    <title lang="en">World's Most Evil Prisoners</title>
+    <sub-title lang="en">Romo</sub-title>
+    <desc lang="en">Feared L.A. crime boss Ezequiel Romo ruthlessly runs the streets of L.A. - even from behind bars. Leading the Blythe Street gang from his cell, he kills with a single phone call, coldly ordering the murders of anyone who stands in his way.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204739936548,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S03E07</episode-num>
+    <episode-num system="xmltv_ns">2.6.</episode-num>
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+<programme start="20261124182740 +0000" stop="20261124191859 +0000" channel="vizio.96Station_88885565">
+    <title lang="en">World's Most Evil Prisoners</title>
+    <sub-title lang="en">Watson</sub-title>
+    <desc lang="en">Nearing the end of a lengthy prison sentence, Curtis Watson does the unthinkable: he sexually assaults and murders a prison administrator before escaping and going on the run. A four-day manhunt ensues.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204739760308,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S03E08</episode-num>
+    <episode-num system="xmltv_ns">2.7.</episode-num>
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+<programme start="20261124191859 +0000" stop="20261124201304 +0000" channel="vizio.96Station_88885565">
+    <title lang="en">World's Most Evil Prisoners</title>
+    <sub-title lang="en">Maugaotega</sub-title>
+    <desc lang="en">Convicted of shooting a man and 21 other felonies, Miti Maugaotega Jr. receives one of the longest prison sentences in Hawaiʻi history. Behind bars, he joins a prison gang and becomes a tornado of death and destruction.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204739760305,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S03E09</episode-num>
+    <episode-num system="xmltv_ns">2.8.</episode-num>
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+<programme start="20261124201304 +0000" stop="20261124210500 +0000" channel="vizio.96Station_88885565">
+    <title lang="en">World's Most Evil Prisoners</title>
+    <sub-title lang="en">Berget</sub-title>
+    <desc lang="en">After shooting two people, Rodney Berget kidnaps and sexually assaults a gas station clerk. Prison struggles to contain him: an escape expert, his final attempt involves the sadistic murder of a corrections officer.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204739936550,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S03E10</episode-num>
+    <episode-num system="xmltv_ns">2.9.</episode-num>
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+<programme start="20261124210500 +0000" stop="20261124220222 +0000" channel="vizio.96Station_88885565">
+    <title lang="en">World's Most Evil Killers</title>
+    <sub-title lang="en">Nicholas Burton</sub-title>
+    <desc lang="en">In April 1997, 27-year-old Rachel McGrath was stabbed to death by an unknown attacker in a car park. 24 hours later and 100 miles away, a terrified 17-year-old student flagged down a motorist, telling them she'd just escaped from a man.</desc>
+    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204214361566,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
+    <episode-num system="onscreen">S08E15</episode-num>
+    <episode-num system="xmltv_ns">7.14.</episode-num>
+    <rating>
+      <value>NR</value>
     </rating>
   </programme>
 <programme start="20261124130303 +0000" stop="20261124151358 +0000" channel="vizio.96Station_88885570">
@@ -430,14 +492,6 @@
     <title lang="en">Lone Star Shark 3</title>
     <desc lang="en">Two female survivors join forces to bring down the deadly group responsible for unleashing a hungry shark in a West Texas lake.</desc>
     <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%204616425938,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-<programme start="20261124113321 +0000" stop="20261124132425 +0000" channel="vizio.96Station_88885594">
-    <title lang="en">Kill Code</title>
-    <desc lang="en">In an AI-ruled future where code decides who lives and dies, one cyber agent uncovers the truth - and only she can rewrite the law.</desc>
-    <icon src="http://images.vizio.com/v4/vibes/1/getimage.aspx?vibeHandle=%7B%20Sid%3A%204,%20Iid%3A%205170970278,%20_tid%3A%2018%20%7D&amp;vid=2000009&amp;tid=2000013&amp;width=267&amp;height=150&amp;webp=1&amp;quality=80"/>
     <rating>
       <value>NR</value>
     </rating>
