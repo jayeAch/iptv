@@ -1,81 +1,375 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <tv>
+<channel id="99992272">
+    <display-name>FilmRise Free Movies</display-name>
+    <icon src="https://image.xumo.com/v1/channels/channel/99992272/400x200.png?type=white_cropped" />
+  </channel>
+<channel id="freemoviesplus_amg02042c1eng_US">
+    <display-name>Free Movies Plus</display-name>
+    <icon src="https://preview-amagistv-amg02042-cloudport.now.amagi.tv/Images/S3/FMPLOGOLG.png" />
+  </channel>
 <channel id="theasylummoviechannel_tasmc_US">
     <display-name>The Asylum</display-name>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Asylum_Movie_Channel_Logo_LG_400x200.png"/>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Asylum_Movie_Channel_Logo_LG_400x200.png" />
+  </channel>
+<channel id="us-cinedigm_entertainment_corp_screamboxtv_1">
+    <display-name>Screambox TV</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/1845/lg/88167e/LG-Logo-PNG-100x100_v1.png" />
+  </channel>
+<channel id="tribeca_tribe_US">
+    <display-name>Tribeca</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/tribeca/Tribeca_Logo_800w200h.png" />
+  </channel>
+<channel id="FREQ874">
+    <display-name>Horror by ALTER</display-name>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/gunpowderandsky/channels/Horror-By-ALTER_white_logo_800x200.png" />
   </channel>
 <channel id="FREQ541-US">
     <display-name>Mysteria</display-name>
-    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/lawandcrime/channels/541-400x200.png"/>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/lawandcrime/channels/541-400x200.png" />
   </channel>
-<programme start="20261124131621 +0000" stop="20261124134601 +0000" channel="FREQ541-US">
-    <title lang="en">Criminal Psyche with Dr. Todd Grande</title>
-    <desc lang="en">Dr. Grande delves into the sinister psyche of Richard Ramirez, the notorious Night Stalker serial killer.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/aj4o3rple4qu11v5wr072qqev/w1920_h1080/aj4o3rple4qu11v5wr072qqev.jpg"/>
-    <episode-num system="dd_progid">2065782</episode-num>
+<channel id="99992255">
+    <display-name>Forensic Files</display-name>
+    <icon src="https://image.xumo.com/v1/channels/channel/99992255/400x200.png?type=white_cropped" />
+  </channel>
+<programme start="20261124234058 +0000" stop="20261125000910 +0000" channel="99992255">
+    <title lang="en">Forensic Files</title>
+    <desc lang="en">A man's wife took her own life and his college sweetheart killed herself the same way. Was it coincidence?</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0M05563Y4JYF/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992255%2F768x432.jpg%3Ftype%3DchannelTile" />
+    <episode-num system="dd_progid">XM0M05563Y4JYF</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261125000910 +0000" stop="20261125003722 +0000" channel="99992255">
+    <title lang="en">Forensic Files</title>
+    <desc lang="en">The wife of an Air Force officer was found dead in her bed with a plastic laundry bag near her face. Further investigation proved that the scene had been staged. Her death wasn't an accident, it was cold-blooded murder.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0DTQ5T5TAF47/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992255%2F768x432.jpg%3Ftype%3DchannelTile" />
+    <episode-num system="dd_progid">XM0DTQ5T5TAF47</episode-num>
     <rating>
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261124134601 +0000" stop="20261124142656 +0000" channel="FREQ541-US">
-    <title lang="en">Criminal Psyche with Dr. Todd Grande</title>
-    <desc lang="en">Dr. Todd and RecoveryMum discuss questions about Borderline Personality Disorder and relationships.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/1uwphp67e1wa51lmefwqu3zvg/w1920_h1080/1uwphp67e1wa51lmefwqu3zvg.jpg"/>
-    <episode-num system="dd_progid">2887439</episode-num>
+<programme start="20261125003722 +0000" stop="20261125010628 +0000" channel="99992255">
+    <title lang="en">Forensic Files</title>
+    <desc lang="en">When a 62-year-old man opens a car restoration business and becomes seriously ill, his doctors cannot find the cause, but forensics can; identification of a highly toxic metal in the victim's blood leads to his poisoner.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM06QQUJESHZC3/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992255%2F768x432.jpg%3Ftype%3DchannelTile" />
+    <episode-num system="dd_progid">XM06QQUJESHZC3</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261125010628 +0000" stop="20261125013412 +0000" channel="99992255">
+    <title lang="en">Forensic Files</title>
+    <desc lang="en">In little more than a month, two women who lived in the same apartment complex were brutally murdered.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0WELVQ4SKJAP/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992255%2F768x432.jpg%3Ftype%3DchannelTile" />
+    <episode-num system="dd_progid">XM0WELVQ4SKJAP</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261125013412 +0000" stop="20261125020224 +0000" channel="99992255">
+    <title lang="en">Forensic Files</title>
+    <desc lang="en">On October 15, 1985, two bomb explosions rocked Salt Lake City and resulted in two deaths. A third explosion occurred the next day. This time, the victim was injured but survived.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM07MUKOS79LED/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992255%2F768x432.jpg%3Ftype%3DchannelTile" />
+    <episode-num system="dd_progid">XM07MUKOS79LED</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261125020224 +0000" stop="20261125023013 +0000" channel="99992255">
+    <title lang="en">Forensic Files</title>
+    <desc lang="en">In 1999, Susan Fassett was gunned down as she left church choir practice in Poughkeepsie, NY. Her husband Jeff became the prime suspect, until he was cleared by police.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0ROMDIK12CQV/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992255%2F768x432.jpg%3Ftype%3DchannelTile" />
+    <episode-num system="dd_progid">XM0ROMDIK12CQV</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261125023013 +0000" stop="20261125025825 +0000" channel="99992255">
+    <title lang="en">Forensic Files</title>
+    <desc lang="en">Alaskan hikers discover a body wrapped in sheets which were edged in orange stitching. Investigators find a tuft of red carpet fibers clinging to the sheet - threads of evidence which lead them straight to the killer.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0HCLKBDYAK8A/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992255%2F768x432.jpg%3Ftype%3DchannelTile" />
+    <episode-num system="dd_progid">XM0HCLKBDYAK8A</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261125025825 +0000" stop="20261125032729 +0000" channel="99992255">
+    <title lang="en">Forensic Files</title>
+    <desc lang="en">When a decomposed body is found stuffed in a barrel, it's easy to presume murder. One of the few clues was an address book found along with the body.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0I9XUREU3KEF/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992255%2F768x432.jpg%3Ftype%3DchannelTile" />
+    <episode-num system="dd_progid">XM0I9XUREU3KEF</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261125032729 +0000" stop="20261125035541 +0000" channel="99992255">
+    <title lang="en">Forensic Files</title>
+    <desc lang="en">Three homicides on two continents looked like professional executions. Investigators on both sides of the Atlantic needed to find out if they were related and, if they were, who or what they had in common.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0L7SINSX35ZB/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992255%2F768x432.jpg%3Ftype%3DchannelTile" />
+    <episode-num system="dd_progid">XM0L7SINSX35ZB</episode-num>
     <rating>
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261124142656 +0000" stop="20261124145706 +0000" channel="FREQ541-US">
-    <title lang="en">Criminal Psyche with Dr. Todd Grande</title>
-    <desc lang="en">Watch Dr. Todd does role-play counseling, in which CBT techniques are used to treat dating fear and anxiety.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/qh45xxri3791j5yz2xbqdkl9/w1920_h1080/qh45xxri3791j5yz2xbqdkl9.jpg"/>
-    <episode-num system="dd_progid">2887470</episode-num>
+<programme start="20261125035541 +0000" stop="20261125042722 +0000" channel="99992255">
+    <title lang="en">Forensic Files</title>
+    <desc lang="en">A body is found stuffed into a suitcase forcing the police to search though the landfill for another missing victim.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0FN178MDGIJU/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992255%2F768x432.jpg%3Ftype%3DchannelTile" />
+    <episode-num system="dd_progid">XM0FN178MDGIJU</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261124234150 +0000" stop="20261125013140 +0000" channel="99992272">
+    <title lang="en">Blitz</title>
+    <desc lang="en">Jason Statham stars as a tough cop who's dispatched to take down a serial killer who has been targeting police officers. Also featuring Paddy Considine and Aidan Gillen.</desc>
+    <category lang="en">Movies</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0WVU07F4A5QT/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992272%2F768x432.jpg%3Ftype%3DchannelTile" />
+    <episode-num system="dd_progid">XM0WVU07F4A5QT</episode-num>
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+<programme start="20261125013140 +0000" stop="20261125031305 +0000" channel="99992272">
+    <title lang="en">My Baby Gone</title>
+    <desc lang="en">Pregnant Emily bonds quickly with her pregnant neighbor Kelly, but Kelly is faking it and plans to steal Emily's baby.</desc>
+    <category lang="en">Movies</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM02RWL2SXA58N/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992272%2F768x432.jpg%3Ftype%3DchannelTile" />
+    <episode-num system="dd_progid">XM02RWL2SXA58N</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20261125031305 +0000" stop="20261125050000 +0000" channel="99992272">
+    <title lang="en">Kill Switch</title>
+    <desc lang="en">A psychopathic killer is ravaging Memphis, Tennesse by murdering young women and Detective Jacob Stillwell is on the case. Known as the resident tough cop due to his aggressive tactics, he gets knocked sideways when his girlfriend becomes one of the murder victims. With his partner, Storm Anderson, in tow, Jacob casts the rules aside and infiltrates the seedy criminal underworld of the city looking to avenge his lover's death and put an end to the killings.</desc>
+    <category lang="en">Movies</category>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0MHFBYW00IU4/768x432.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992272%2F768x432.jpg%3Ftype%3DchannelTile" />
+    <episode-num system="dd_progid">XM0MHFBYW00IU4</episode-num>
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+<programme start="20261124235350 +0000" stop="20261125003415 +0000" channel="FREQ541-US">
+    <title lang="en">Coffeehouse Crime</title>
+    <desc lang="en">16-year-old opened fire at home, killing four family members - was it cold-blooded murder or mental illness?</desc>
+    <category lang="en">Crime</category>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/7417341766831114693/solid/rectangle/w1920_h1080/7mxtdseapw5x12k1hknvpkgp8.jpg" />
+    <episode-num system="dd_progid">7544550</episode-num>
     <rating>
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261124145706 +0000" stop="20261124154831 +0000" channel="FREQ541-US">
+<programme start="20261125003415 +0000" stop="20261125012540 +0000" channel="FREQ541-US">
     <title lang="en">Killer Cases</title>
     <desc lang="en">A 13-year-old is reported missing, setting off a manhunt in the rough Colorado wilderness.</desc>
     <category lang="en">Entertainment</category>
-    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/us0mus5idz8q1brzwaitbiyql/w1920_h1080/us0mus5idz8q1brzwaitbiyql.jpg"/>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/us0mus5idz8q1brzwaitbiyql/w1920_h1080/us0mus5idz8q1brzwaitbiyql.jpg" />
     <episode-num system="dd_progid">2619880</episode-num>
     <rating>
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261124154831 +0000" stop="20261124164010 +0000" channel="FREQ541-US">
+<programme start="20261125012540 +0000" stop="20261125021719 +0000" channel="FREQ541-US">
     <title lang="en">Killer Cases</title>
     <desc lang="en">The community of Crestview, Fla., is shaken following the vicious murder of nurse Melissa Howard.</desc>
     <category lang="en">Entertainment</category>
-    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/17tcdhfglrkmw1v8c1qmm48vd/w1920_h1080/17tcdhfglrkmw1v8c1qmm48vd.jpg"/>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/17tcdhfglrkmw1v8c1qmm48vd/w1920_h1080/17tcdhfglrkmw1v8c1qmm48vd.jpg" />
     <episode-num system="dd_progid">2619875</episode-num>
     <rating>
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261124133404 +0000" stop="20261124151600 +0000" channel="theasylummoviechannel_tasmc_US">
-    <title lang="en">3-Headed Shark Attack</title>
-    <desc lang="en">Nature's greatest killing machine is three times as deadly when a mutated shark threatens a cruise ship.</desc>
-    <category lang="en">Action</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/tasmc/resized_1cdae6d8bab0e4ab786ca25daad4ce12f64a230c45e5617fa11f885a356f192d_3headedsharkattack1920x1080jpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">tasmc_3HeadedSharkAttack_Feature_2997_20_Clean_US</episode-num>
+<programme start="20261125021719 +0000" stop="20261125030859 +0000" channel="FREQ541-US">
+    <title lang="en">Killer Cases</title>
+    <desc lang="en">Firefighters fought to save a family, but arson is suspected after two fatal blazes rocked the neighborhood.</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/77fl6ntvkosc14fcyzqkqw3jj/w1920_h1080/77fl6ntvkosc14fcyzqkqw3jj.jpg" />
+    <episode-num system="dd_progid">4231940</episode-num>
     <rating>
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261124151600 +0000" stop="20261124165449 +0000" channel="theasylummoviechannel_tasmc_US">
-    <title lang="en">Geo-Disaster</title>
-    <desc lang="en">A family must survive a volcano, earthquake, and tornado converging, forming an unprecedented cataclysm.</desc>
-    <category lang="en">Action</category>
-    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/tasmc/resized_52599eb0956bdd970a63cac34a2535f20b2e63c7433d968bb830b2257437acca_geodisaster1920x1080jpg_768_432.jpeg"/>
-    <episode-num system="dd_progid">tasmc_GeoDisaster_Feature_2997_20_US</episode-num>
+<programme start="20261125030859 +0000" stop="20261125040429 +0000" channel="FREQ541-US">
+    <title lang="en">True Crime Recaps</title>
+    <desc lang="en">Susan Cox married her dream man, then vanished without a trace while her two sons were killed. What happened?</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/3f46ohy5bmx41mxiwlmyk9f0s/w1920_h1080/3f46ohy5bmx41mxiwlmyk9f0s.jpg" />
+    <episode-num system="dd_progid">924793</episode-num>
     <rating>
       <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261124230146 +0000" stop="20261125012141 +0000" channel="FREQ874">
+    <title lang="en">Nightbreed</title>
+    <desc lang="en">Boone may be a troubled young man, but his troubles are just beginning.</desc>
+    <category lang="en">Movies</category>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/rb55e25fenob1d47l5kim0nwn/w1920_h1080/rb55e25fenob1d47l5kim0nwn.jpg" />
+    <episode-num system="dd_progid">9075972</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261125012141 +0000" stop="20261125030643 +0000" channel="FREQ874">
+    <title lang="en">Rabid</title>
+    <desc lang="en">Surgery leaves a Montreal motorcyclist with a bloodsucking appendage in her armpit.</desc>
+    <category lang="en">Movies</category>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/7333983398387299474/solid/rectangle/w1920_h1080/3gs3lno3txqv1ngwbj6t5zvco.jpg" />
+    <episode-num system="dd_progid">9074694</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261125030643 +0000" stop="20261125041439 +0000" channel="FREQ874">
+    <title lang="en">Masters of Horror</title>
+    <desc lang="en">A truck driver who enjoys slaughtering hitchhikers meets a hitchhiker butchers anyone who gives him a ride.</desc>
+    <category lang="en">Horror</category>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/7424255734745649878/solid/rectangle/w1920_h1080/j8bnj45yypno1niu38czp6lu6.jpg" />
+    <episode-num system="dd_progid">9060582</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261124220149 +0000" stop="20261125005402 +0000" channel="freemoviesplus_amg02042c1eng_US">
+    <title lang="en">The Infiltrator</title>
+    <desc lang="en">A U.S. Customs official uncovers a money laundering scheme involving Colombian drug lord Pablo Escobar.</desc>
+    <category lang="en">Movies</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg02042/resized_images/resized_2baf2b5170ac4f42957a64a63c0047a66ad6e16f916dfd133b1f91e9e12b659a_fmp21047png_768_432.jpeg" />
+    <episode-num system="dd_progid">amg02042c32_ARNryKbR6eyBfmKGN8jycg7_us</episode-num>
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+<programme start="20261125005402 +0000" stop="20261125032301 +0000" channel="freemoviesplus_amg02042c1eng_US">
+    <title lang="en">End of Watch</title>
+    <desc lang="en">Two young officers are marked for death after confiscating a small cache of money and firearms from the members of a notorious cartel during a routine traffic stop.</desc>
+    <category lang="en">Movies</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg02042/resized_images/resized_24c28a4439b93990f181f8555c6602620185981ebb445998535bc01f30724a55_fmp2006m18png_768_432.jpeg" />
+    <episode-num system="dd_progid">amg02042c32_A6aUKWbYuxQq9ELhbc7GtqX_us</episode-num>
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+<programme start="20261125032301 +0000" stop="20261125053556 +0000" channel="freemoviesplus_amg02042c1eng_US">
+    <title lang="en">Timecop</title>
+    <desc lang="en">An officer for a security agency that regulates time travel, must fend for his life against a shady politician</desc>
+    <category lang="en">Action</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg02042/resized_images/resized_292279a96d6239ab38f7ff044cae46fe062945f7a035f4c97b7f906a856c715a_freemoviespluslgthumbnailjpg_768_432.jpeg" />
+    <episode-num system="dd_progid">amg02042c32_AFQdmChjBZE9uVh7fEoJXe4_us</episode-num>
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+<programme start="20261124233342 +0000" stop="20261125011507 +0000" channel="theasylummoviechannel_tasmc_US">
+    <title lang="en">American Warships</title>
+    <desc lang="en">When a fleet of mysterious ships wage war against Earth, the crew of the USS Iowa must prevent armageddon.</desc>
+    <category lang="en">Action</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/tasmc/resized_ec3918766a0fffbdb1d6cd4147d9795fb5db5add819776133976c4fd0e5ac024_americanwarships1920x1080jpg_768_432.jpeg" />
+    <episode-num system="dd_progid">tasmc_AmericanWarships_Feature_2997_20_Amagi_US</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261125011507 +0000" stop="20261125020410 +0000" channel="theasylummoviechannel_tasmc_US">
+    <title lang="en">Z Nation</title>
+    <desc lang="en">Murphy and his band of Blends run the casino, serving as a sanctuary for the Talkers.</desc>
+    <category lang="en">Action</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/tasmc/resized_1b5e1129e10e2f9f8fb757867c26572d46cc47241885862393a3684c10c9a4ca_stationcoverart1920x1080lgjpg_768_432.jpeg" />
+    <episode-num system="dd_progid">tasmc_ZNation_506_2997_20_US</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261125020410 +0000" stop="20261125025448 +0000" channel="theasylummoviechannel_tasmc_US">
+    <title lang="en">Disaster Strike Force</title>
+    <desc lang="en">The team responds to the threat of a potentially devastating earthquake in Los Angeles.</desc>
+    <category lang="en">Action</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/tasmc/resized_28a83d1bc180f8cba2830291898d2f0a54731ebf029f0fb4720dd07537941f72_disasterstrikeforce960x540jpg_768_432.jpeg" />
+    <episode-num system="dd_progid">tasmc_DisasterStrikeForce_EP3_Feature_2997_20_US</episode-num>
+    <rating>
+      <value>TV14</value>
+    </rating>
+  </programme>
+<programme start="20261125025448 +0000" stop="20261125043955 +0000" channel="theasylummoviechannel_tasmc_US">
+    <title lang="en">Snakes on a Train</title>
+    <desc lang="en">Under a Mayan Curse, snakes hatch inside a young woman on a train and devour the passengers aboard.</desc>
+    <category lang="en">Horror</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/tasmc/resized_b19ef464966239a82b54dd21b512190ea3cfe2b750af7c361b1611a9e1636bd1_snakesonatrain1920x1080jpg_768_432.jpeg" />
+    <episode-num system="dd_progid">tasmc_SnakesOnATrain_Feature_2997_20_US</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+<programme start="20261124214008 +0000" stop="20261125013217 +0000" channel="tribeca_tribe_US">
+    <title lang="en">Inland Empire</title>
+    <desc lang="en">As an actress begins to adopt the persona of her character in a film, her world becomes nightmarish and surreal.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg02042/resized_images/resized_7c2b0fe94cf6d404d293e3f493d19cc36f5252661965ee687cda70a3c688c32b_fmp2006m36png_768_432.jpeg" />
+    <episode-num system="dd_progid">amg02042c61_ANToFgx7FQt2J5NRo81e2QE_us</episode-num>
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+<programme start="20261125013217 +0000" stop="20261125034432 +0000" channel="tribeca_tribe_US">
+    <title lang="en">Pacific Heights</title>
+    <desc lang="en">A couple work hard to renovate their dream house and become landlords to pay for it.</desc>
+    <category lang="en">ETC</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg02042/resized_images/resized_56493c7f5cb6f677bbc59ea413c79e860dd5f112da92cfbe385aa50c0c77f0a8_fmp21099png_768_432.jpeg" />
+    <episode-num system="dd_progid">amg02042c61_AHuModEu2mQKv9eYRNNZUxJ_us</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+<programme start="20261125034432 +0000" stop="20261125060814 +0000" channel="tribeca_tribe_US">
+    <title lang="en">My Dinner with Andre</title>
+    <desc lang="en">Two men share a long, philosophical dinner conversation.</desc>
+    <category lang="en">Talk show &amp; Entertainment</category>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg02042/resized_images/resized_0d2783fbd4a9425ea3f101571fc43f859812bf2f27a309ae66bd0f405223909f_fmp2224png_768_432.jpeg" />
+    <episode-num system="dd_progid">amg02042c61_AWbU37fpCkwE2snWCBAr8Yq_us</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+<programme start="20261124230534 +0000" stop="20261125010536 +0000" channel="us-cinedigm_entertainment_corp_screamboxtv_1">
+    <title lang="en">The Innkeepers (Edited Version)</title>
+    <desc lang="en">After over one hundred years of service, The Yankee Pedlar Inn is shutting its doors for good. The last remaining employees -Claire (Sara Paxton) and Luke (Pat Healy)- are determined to uncover proof of what many believe to be one of New England's most haunted hotels. As the Inns final days draw near, odd guests check in as the pair of minimum wage ghost hunters begin to experience strange and alarming events that may ultimately cause them to be mere footnotes in the hotels long unexplained history.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/1845/lg/88167e/LG-768x432_v1.png" />
+    <episode-num system="dd_progid">US-CineverseEntertainmentCorp-117825933-52541967-52525612</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261125010536 +0000" stop="20261125030057 +0000" channel="us-cinedigm_entertainment_corp_screamboxtv_1">
+    <title lang="en">Heavy Trip</title>
+    <desc lang="en">In this offbeat comedy from Finland, Turo is stuck in a small village where the best thing in his life is being the lead vocalist for the amateur metal band Impaled Rektum. The only problem? He and his bandmates have practiced for over a decade without playing a single gig. The guys get a surprise visitor from Norwaythe promoter for a huge heavy metal music festivaland decide its now or never. They steal a van, a corpse, and even a new drummer in order to make their dreams a reality.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/1845/lg/88167e/LG-768x432_v1.png" />
+    <episode-num system="dd_progid">US-CineverseEntertainmentCorp-117825934-52541967-52525612</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261125030057 +0000" stop="20261125045057 +0000" channel="us-cinedigm_entertainment_corp_screamboxtv_1">
+    <title lang="en">The Beyond (Edited Version)</title>
+    <desc lang="en">The seven dreaded gateways to hell are concealed in seven cursed places... And on the day the gates of hell are opened, the dead will walk the earth!From legendary Italian horror master Lucio Fulci come the ultimate classic of supernatural terror. A remote and cursed hotel, built over one of the seven gateways, becomes a yawning malevolent abyss that begins devouring both the bodies and the souls of all who enter in a graphic frenzy of gory crucifixions, chunkblowing chain-whippings, eyeball impalements, sulfuric acid meltdowns, flesh-eating tarantulas, throat-shredding demon dogs and ravenous bloodthirsty zombies. THE BEYOND is a towering achievement in hair-raising, mind-bending cinematic terror!</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://img.platform.wurl.dev/channel/1845/lg/88167e/LG-768x432_v1.png" />
+    <episode-num system="dd_progid">US-CineverseEntertainmentCorp-117825935-52541967-52525612</episode-num>
+    <rating>
+      <value>TV-MA</value>
     </rating>
   </programme>
 </tv>
