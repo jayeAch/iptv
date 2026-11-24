@@ -677,6 +677,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     'Faith': _words("""
         jewish life tv
         in touch +
+        jltv
         real life network
         dove
         trinity broadcast network
