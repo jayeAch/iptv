@@ -789,6 +789,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         pluto tv klassiske tegnefilmer
         nicktoons
         teenvee
+        he-man & the masters of the universe
         playworld
         svampbob
         pluto tv tegnefilm
@@ -1068,6 +1069,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         fear factor
         wipeout
         mtv ink master
+        married to medicine
         mtv pluto tv
         big brother
         the challenge
@@ -1215,6 +1217,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         sport
         darts
         mex 1
+        axs
         sec network 
         yes network 
         acc
@@ -1332,6 +1335,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     'Toons': _words("""
         aqua teen hunger force
         pluto tv animation
+        boomerang
         animation+
         beavis and butt-head
         comedy central animation
