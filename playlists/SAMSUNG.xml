@@ -52,6 +52,10 @@
     <display-name>The Asylum (US)</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ17000014C_20260421T141813SQUARE.png" />
   </channel>
+<channel id="USBC100001175">
+    <display-name>Horror by ALTER (US)</display-name>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC100001175_20240730T012800SQUARE.png" />
+  </channel>
 <channel id="CA1500004OB">
     <display-name>MovieSphere (CA)</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1500004OB_20261116T194143SQUARE.png" />
@@ -204,6 +208,10 @@
     <display-name>Pluto TV Inside (GB)</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAK3504518A_20250107T022641SQUARE.png" />
   </channel>
+<channel id="GB3700011PO">
+    <display-name>Evidence of Evil (GB)</display-name>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3700011PO_20251111T012230SQUARE.png" />
+  </channel>
 <channel id="GB3700008XB">
     <display-name>Cops &amp; Docs (GB)</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3700008XB_20260804T051817SQUARE.png" />
@@ -297,15 +305,6 @@
       <value>R</value>
     </rating>
   </programme>
-<programme channel="USAK3508703A" start="20261125073431 +0000" stop="20261125082343 +0000">
-    <title>The First 48</title>
-    <desc>In Cleveland, a young father is executed in his home and his family is terrorized.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3223225053_1_20260721T175511939Z_55_imageprocessorclient-tvplus-linear-9468c5484-8t2sc.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme channel="USAK3508703A" start="20261125082343 +0000" stop="20261125091607 +0000">
     <title>The First 48</title>
     <desc>In New Orleans, a man is ambushed in front of his grandmother's house.</desc>
@@ -329,16 +328,6 @@
     <desc>In Dallas, a young father is ambushed at a gas station.</desc>
     <category lang="en">True Crime</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3223225053_1_20260721T175511939Z_55_imageprocessorclient-tvplus-linear-9468c5484-8t2sc.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="USBD1700008H9" start="20261125073411 +0000" stop="20261125082531 +0000">
-    <title>I Survived...</title>
-    <sub-title>Stephanie/Rich &amp; Laura/Craig &amp; Crystal</sub-title>
-    <desc>A woman miraculously survives three gunshot wounds to the head.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_836743265_1_20250212T052214899Z_63_imageprocessorclient-tvplus-linear-b76dd9bbb-5jlst.jpeg" />
     <rating>
       <value>TV-14</value>
     </rating>
@@ -369,16 +358,6 @@
     <desc>Special profiles three revived after death, including Deb, post-childbirth.</desc>
     <category lang="en">True Crime</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_836743265_1_20250212T052214899Z_63_imageprocessorclient-tvplus-linear-b76dd9bbb-5jlst.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="US2001109K" start="20261125075216 +0000" stop="20261125081638 +0000">
-    <title>Killer Mysteries</title>
-    <sub-title>The Sadist of San Luis Obispo</sub-title>
-    <desc>A predator on early release from prison turns the quiet town of San Luis Obispo into a hunting ground, preying on young, unsuspecting, college age women. Through persistence and the tiniest of clues, law enforcement finally tracks down the killer and brings him to justice.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2395387221_0_20260109T045742778Z_72_imageprocessorclient-tvplus-linear-584c967455-p9wk7.jpeg" />
     <rating>
       <value>TV-14</value>
     </rating>
@@ -429,16 +408,6 @@
     <desc>A killer terrorizes Wichita, Kansas, preying on random people and families, tying them up, and strangling them. But then, the killer goes quiet. When he resurfaces decades later, police find a way to lure him to reveal his identity – and it's a man no one suspected.</desc>
     <category lang="en">True Crime</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2395387221_0_20260109T045742778Z_72_imageprocessorclient-tvplus-linear-584c967455-p9wk7.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="USBC1000002NP" start="20261125072545 +0000" stop="20261125081803 +0000">
-    <title>World's Most Evil Killers</title>
-    <sub-title>Cesar Barone</sub-title>
-    <desc>Cesar Barone was an American serial killer who took the life of four women in and around Hillsboro, Oregon in the 1990s.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550791291_20_20241113T060450720Z_119_imageprocessorclient-tvplus-linear-5dc4fd45f6-prfs6.jpeg" />
     <rating>
       <value>TV-14</value>
     </rating>
@@ -503,16 +472,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme channel="US3300011V9" start="20261125072815 +0000" stop="20261125082105 +0000">
-    <title>The First 48</title>
-    <sub-title>Lying in Wait / With This Ring</sub-title>
-    <desc>In Atlanta two men are ambushed at gunpoint and only one survives.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3223225053_1_20260721T175511939Z_55_imageprocessorclient-tvplus-linear-9468c5484-8t2sc.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme channel="US3300011V9" start="20261125082105 +0000" stop="20261125091351 +0000">
     <title>The First 48</title>
     <sub-title>Lost Highway / Out for Murda</sub-title>
@@ -539,15 +498,6 @@
     <desc>In Birmingham, Detective Chris Anderson returns to his childhood neighborhood.</desc>
     <category lang="en">True Crime</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3223225053_1_20260721T175511939Z_55_imageprocessorclient-tvplus-linear-9468c5484-8t2sc.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="US700010XK" start="20261125074746 +0000" stop="20261125081532 +0000">
-    <title>Court Cam</title>
-    <desc>A retired NFL star comes face to face with the man who invaded his home.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3222789876_0_20260721T154059758Z_27_imageprocessorclient-tvplus-linear-9468c5484-4j58d.jpeg" />
     <rating>
       <value>TV-14</value>
     </rating>
@@ -597,15 +547,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme channel="USAJ3504547A" start="20261125070000 +0000" stop="20261125080000 +0000">
-    <title>In The Cameras Eye</title>
-    <desc>Photography has long been a vital tool in homicide investigations. A single image captures enough information to identify a suspect, and to preserve a vital clue long after a witness' memory fades.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352135A_553381026_57_20241217T070212303Z_86_imageprocessorclient-tvplus-linear-5dc4fd45f6-qbw2m.jpeg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
 <programme channel="USAJ3504547A" start="20261125080000 +0000" stop="20261125090000 +0000">
     <title>From The Ashes</title>
     <desc>Arson Investigation: Insurance torchings, mob burnouts and arson murders: these crimes are designed to take all clues with them. But a solid case can be built from a heap of ashes.</desc>
@@ -631,15 +572,6 @@
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQU352135A_553379932_48_20241217T070210361Z_85_imageprocessorclient-tvplus-linear-5dc4fd45f6-86bnr.jpeg" />
     <rating>
       <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme channel="US37000036P" start="20261125074148 +0000" stop="20261125080808 +0000">
-    <title>72 Hours True Crime</title>
-    <desc>A man whose identity is unknown is found stabbed to death in a secluded parking lot.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_549547498_6_20241022T045832822Z_122_imageprocessorclient-tvplus-linear-5dc4fd45f6-j5l6t.jpeg" />
-    <rating>
-      <value>TV-14</value>
     </rating>
   </programme>
 <programme channel="US37000036P" start="20261125080808 +0000" stop="20261125083320 +0000">
@@ -702,16 +634,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme channel="US39000221B" start="20261125075300 +0000" stop="20261125082200 +0000">
-    <title>Tales From the Crypt</title>
-    <sub-title>Showdown</sub-title>
-    <desc>A gunfighter (David Morse) confronts his past  director Richard Donner.</desc>
-    <category lang="en">Horror</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3524437302_0_20260925T055346413Z_76_imageprocessorclient-tvplus-linear-6b56cc9f55-hrddh.jpeg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
 <programme channel="US39000221B" start="20261125082200 +0000" stop="20261125085600 +0000">
     <title>Tales From the Crypt</title>
     <sub-title>King of the Road</sub-title>
@@ -768,6 +690,24 @@
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2296974517_0_20251217T222427960Z_54_imageprocessorclient-tvplus-linear-584c967455-b7vn5.jpeg" />
     <rating>
       <value>TV-14</value>
+    </rating>
+  </programme>
+<programme channel="USBC100001175" start="20261125065300 +0000" stop="20261125084700 +0000">
+    <title>Black Christmas</title>
+    <desc>As winter break begins, a group of sorority sisters, including Jess (Olivia Hussey) and the often inebriated Barb (Margot Kidder), begin to receive anonymous, lascivious phone calls. Initially, Barb eggs the caller on, but stops when he responds threateningly. Soon, Barb's friend Claire (Lynne Griffin) goes missing from the sorority house, and a local adolescent girl is murdered, leading the girls to suspect a serial killer is on the loose. But no one realizes just how near the culprit is.</desc>
+    <category lang="en">Horror</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2217042787_0_20251128T102829296Z_43_imageprocessorclient-tvplus-linear-584c967455-8f7lv.jpeg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+<programme channel="USBC100001175" start="20261125084700 +0000" stop="20261125104300 +0000">
+    <title>Day of the Dead</title>
+    <desc>The living dead regroup above while humans (Lori Cardille, Terry Alexander, Joseph Pilato) sweat it out below in a Florida missile silo.</desc>
+    <category lang="en">Horror</category>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_9729001_35_20260421T160841568Z_54_imageprocessorclient-tvplus-linear-796646965d-rrx5z.jpeg" />
+    <rating>
+      <value>NA</value>
     </rating>
   </programme>
 <programme channel="CA1500004OB" start="20261125072426 +0000" stop="20261125091753 +0000">
@@ -842,16 +782,6 @@
       <value>CAN_ENG_PG</value>
     </rating>
   </programme>
-<programme channel="CA3500005NS" start="20261125065834 +0000" stop="20261125080001 +0000">
-    <title>The FBI Files</title>
-    <sub-title>Pris la main dans le sac</sub-title>
-    <desc>En juillet 1996, deux hommes sont entrés chez un prêteur sur gages à Birmingham, en Alabama, et ont assassiné brutalement les employés. Le FBI a diffusé des images du crime dans les médias. Ils ont rapidement pu identifier les auteurs.</desc>
-    <category lang="en">Movies</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_2638941828_1_20260309T065620356Z_48_imageprocessorclient-tvplus-linear-584c967455-zrlnq.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme channel="CA3500005NS" start="20261125080001 +0000" stop="20261125090128 +0000">
     <title>The FBI Files</title>
     <sub-title>Course poursuite</sub-title>
@@ -912,16 +842,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme channel="CABC23000189A" start="20261125074626 +0000" stop="20261125081042 +0000">
-    <title>Cops</title>
-    <sub-title>Mommy's Tears</sub-title>
-    <desc>A stolen vehicle crashes after a chase is called off. A dispute over chips. A victim worries about her abuser.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534379571_0_20231027T015205674Z_43.jpeg" />
-    <rating>
-      <value>14+</value>
-    </rating>
-  </programme>
 <programme channel="CABC23000189A" start="20261125081042 +0000" stop="20261125083648 +0000">
     <title>Cops</title>
     <sub-title>Tire Iron Road Rage</sub-title>
@@ -972,16 +892,6 @@
       <value>14+</value>
     </rating>
   </programme>
-<programme channel="CAAJ27000079E" start="20261125070408 +0000" stop="20261125075644 +0000">
-    <title>Bloodline Detectives hosted by Nancy Grace</title>
-    <sub-title>The Knifepoint Rapist</sub-title>
-    <desc>A young woman out jogging is attacked and viciously raped at knifepoint. The perpetrator continues his reign of terror by raping another five times over the next nine years.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_3000390929_1_20260602T081128704Z_86_imageprocessorclient-tvplus-linear-75df688c49-ssd94.jpeg" />
-    <rating>
-      <value>PG-13</value>
-    </rating>
-  </programme>
 <programme channel="CAAJ27000079E" start="20261125075644 +0000" stop="20261125084923 +0000">
     <title>Bloodline Detectives hosted by Nancy Grace</title>
     <sub-title>Sacrilege in Sacramento</sub-title>
@@ -1012,26 +922,6 @@
       <value>PG-13</value>
     </rating>
   </programme>
-<programme channel="CA2600003M4" start="20261125073000 +0000" stop="20261125080000 +0000">
-    <title>BuzzFeed Unsolved</title>
-    <sub-title>The Perplexing Disappearance of Judge Joseph F. Crater</sub-title>
-    <desc>What really happened to the New York Supreme Court judge dubbed the most missingest man in America?</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_1688990671_0_20250715T213655067Z_37_imageprocessorclient-tvplus-linear-d7c8c765b-qc6z9.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="CA2600003M4" start="20261125080000 +0000" stop="20261125083000 +0000">
-    <title>BuzzFeed Unsolved</title>
-    <sub-title>The Tragic Death of Princess Diana</sub-title>
-    <desc>Was Princess Diana's tragic death really an accident or were more nefarious plots at play?</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_1688990671_0_20250715T213655067Z_37_imageprocessorclient-tvplus-linear-d7c8c765b-qc6z9.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme channel="CA2600003M4" start="20261125083000 +0000" stop="20261125090000 +0000">
     <title>BuzzFeed Unsolved</title>
     <sub-title>The Bizarre Death of Alfred Loewenstein</sub-title>
@@ -1060,16 +950,6 @@
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_1688990677_0_20250715T213658411Z_45_imageprocessorclient-tvplus-linear-d7c8c765b-qc6z9.jpeg" />
     <rating>
       <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="CA1400006BZ" start="20261125071923 +0000" stop="20261125080954 +0000">
-    <title>Sexe, meurtre et mensonges</title>
-    <sub-title>Meurtres dans la famille</sub-title>
-    <desc>L'amour est souvent beau, mais il est parfois aveugle, peut-être trop aveugle.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_3758602978_2_20261113T081242909Z_91_imageprocessorclient-tvplus-linear-6b56cc9f55-dqgdz.jpeg" />
-    <rating>
-      <value>13 ans+</value>
     </rating>
   </programme>
 <programme channel="CA1400006BZ" start="20261125080954 +0000" stop="20261125083329 +0000">
@@ -1132,26 +1012,6 @@
       <value>13 ans+</value>
     </rating>
   </programme>
-<programme channel="CAAJ3400002DI" start="20261125073000 +0000" stop="20261125080000 +0000">
-    <title>Cops Reloaded</title>
-    <sub-title>Pinch of Salt</sub-title>
-    <desc>Police detain a robbery suspect responsible for holding a woman at gunpoint  a car chase suspect hits a dead end  a shaved down key proves a car thief's guilt  police caution a drug suspect on her lifestyle choices.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_3104464980_0_20260625T204609224Z_139_imageprocessorclient-tvplus-linear-75df688c49-n6mwl.jpeg" />
-    <rating>
-      <value>CAN_ENG_PG</value>
-    </rating>
-  </programme>
-<programme channel="CAAJ3400002DI" start="20261125080000 +0000" stop="20261125083000 +0000">
-    <title>Cops Reloaded</title>
-    <sub-title>Night Stalker</sub-title>
-    <desc>Ecstasy dealers get a bad deal from undercover officers  a DUI suspect fails several field sobriety tests  police mediate a dispute between a couple over a dent in a wall  police arrest a man stalking his ex-wife and kids.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_3104464980_0_20260625T204609224Z_139_imageprocessorclient-tvplus-linear-75df688c49-n6mwl.jpeg" />
-    <rating>
-      <value>CAN_ENG_PG</value>
-    </rating>
-  </programme>
 <programme channel="CAAJ3400002DI" start="20261125083000 +0000" stop="20261125090000 +0000">
     <title>Cops Reloaded</title>
     <sub-title>Stories from the Road</sub-title>
@@ -1176,16 +1036,6 @@
     <desc>A woman and her teen sister-in-law lure a love rival over for a fight that turns deadly.</desc>
     <category lang="en">True Crime</category>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_3104465075_0_20260625T204609224Z_137_imageprocessorclient-tvplus-linear-75df688c49-n6mwl.jpeg" />
-    <rating>
-      <value>14+</value>
-    </rating>
-  </programme>
-<programme channel="CABA3700005AD" start="20261125070000 +0000" stop="20261125080000 +0000">
-    <title>Victim to Verdict</title>
-    <sub-title>Johnny Depp V Amber Heard</sub-title>
-    <desc>Hollywood star Johnny Depp's career suffered after his ex-wife Amber Heard wrote an op-ed claiming to be a victim of sexual violence.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_3105174142_0_20260626T003349580Z_131_imageprocessorclient-tvplus-linear-75df688c49-bb4m8.jpeg" />
     <rating>
       <value>14+</value>
     </rating>
@@ -1218,16 +1068,6 @@
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_537305054_0_20240117T005846925Z_71.jpeg" />
     <rating>
       <value>NA</value>
-    </rating>
-  </programme>
-<programme channel="CABD1200043OK" start="20261125074053 +0000" stop="20261125080634 +0000">
-    <title>Workin' Moms</title>
-    <sub-title>Bad Reputation</sub-title>
-    <desc>Kate finds herself in the middle of a PR crisis for her new client Après.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542518686_0_20240529T062530432Z_110.jpeg" />
-    <rating>
-      <value>18+</value>
     </rating>
   </programme>
 <programme channel="CABD1200043OK" start="20261125080634 +0000" stop="20261125083215 +0000">
@@ -1280,26 +1120,6 @@
       <value>CAN_ENG_PG</value>
     </rating>
   </programme>
-<programme channel="CA1400005SO" start="20261125073636 +0000" stop="20261125080200 +0000">
-    <title>Roast Battle Canada</title>
-    <sub-title>Jean Paul v Keith Pedro and Hunter Collins v Courtney Gilmour</sub-title>
-    <desc>Featuring Jean Paul, Keith Pedro, Hunter Collins and Courtney Gilmour.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_3517230694_2_20260923T164840525Z_30_imageprocessorclient-tvplus-linear-6b56cc9f55-t5gd9.jpeg" />
-    <rating>
-      <value>14+</value>
-    </rating>
-  </programme>
-<programme channel="CA1400005SO" start="20261125080200 +0000" stop="20261125082851 +0000">
-    <title>Roast Battle Canada</title>
-    <sub-title>Salma Hindy v Sophie Buddle and Jean Paul v Ron Josol</sub-title>
-    <desc>Featuring comedians Salma Hindy, Sophie Buddle, Jean Paul and Ron Josol.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_3517230694_2_20260923T164840525Z_30_imageprocessorclient-tvplus-linear-6b56cc9f55-t5gd9.jpeg" />
-    <rating>
-      <value>14+</value>
-    </rating>
-  </programme>
 <programme channel="CA1400005SO" start="20261125082851 +0000" stop="20261125085544 +0000">
     <title>Roast Battle Canada</title>
     <sub-title>Daniel Woodrow v Nick Nemeroff and Adrienne Fish v Courtney Gilmour</sub-title>
@@ -1338,26 +1158,6 @@
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_3517230694_2_20260923T164840525Z_30_imageprocessorclient-tvplus-linear-6b56cc9f55-t5gd9.jpeg" />
     <rating>
       <value>14+</value>
-    </rating>
-  </programme>
-<programme channel="CA1300001DN" start="20261125073812 +0000" stop="20261125080402 +0000">
-    <title>Ça c'est drôle!</title>
-    <sub-title>Épisode 32</sub-title>
-    <desc>Hommage à tous les champions de la planète à travers des ratés, mais aussi aux performances qui méritent d'être soulignées!</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_3487741917_0_20260917T104939881Z_100_imageprocessorclient-tvplus-linear-6b56cc9f55-6s7bl.jpeg" />
-    <rating>
-      <value>CAN_ENG_G</value>
-    </rating>
-  </programme>
-<programme channel="CA1300001DN" start="20261125080402 +0000" stop="20261125082953 +0000">
-    <title>Ça c'est drôle!</title>
-    <sub-title>Épisode 33</sub-title>
-    <desc>Hommage à tous les champions de la planète à travers des ratés, mais aussi aux performances qui méritent d'être soulignées!</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_3487741917_0_20260917T104939881Z_100_imageprocessorclient-tvplus-linear-6b56cc9f55-6s7bl.jpeg" />
-    <rating>
-      <value>CAN_ENG_G</value>
     </rating>
   </programme>
 <programme channel="CA1300001DN" start="20261125082953 +0000" stop="20261125085543 +0000">
@@ -1454,16 +1254,6 @@
     <category lang="en">Comedy</category>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_486839655_3_20231211T054418532Z_68.jpeg" />
   </programme>
-<programme channel="GB2700016H5" start="20261125070000 +0000" stop="20261125080000 +0000">
-    <title>Artist of the Year</title>
-    <sub-title>The Final: Covent Garden</sub-title>
-    <desc>Stephen and the final three contestants look out over the bustling Covent Garden piazza, with the trio making one final effort to impress the judges and be crowned Landscape Artist of the Year.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_GBPBB1501FZ_1766515082_6_20260410T184150259Z_24_imageprocessorclient-tvplus-linear-74d4c47476-msdmr.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
 <programme channel="GB2700016H5" start="20261125080000 +0000" stop="20261125090000 +0000">
     <title>Artist of the Year</title>
     <sub-title>The Winning Commission: The Orkney Islands</sub-title>
@@ -1494,16 +1284,6 @@
       <value>NA</value>
     </rating>
   </programme>
-<programme channel="GB1200013SK" start="20261125073603 +0000" stop="20261125082628 +0000">
-    <title>The Cube</title>
-    <sub-title>S5 E04</sub-title>
-    <desc>Athlete Ash and rugby enthusiast Graham challenge The Cube. Can they overcome its obstacles to seize victory?</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQU352137A_1871530141_0_20260522T191841435Z_121_imageprocessorclient-tvplus-linear-66fc4d58c8-t45v6.jpeg" />
-    <rating>
-      <value>12</value>
-    </rating>
-  </programme>
 <programme channel="GB1200013SK" start="20261125082628 +0000" stop="20261125091914 +0000">
     <title>The Cube</title>
     <sub-title>S5 E05</sub-title>
@@ -1532,16 +1312,6 @@
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQU352137A_1871530181_1_20260522T191841471Z_68_imageprocessorclient-tvplus-linear-66fc4d58c8-jglz9.jpeg" />
     <rating>
       <value>12</value>
-    </rating>
-  </programme>
-<programme channel="GB1800002FA" start="20261125073348 +0000" stop="20261125081720 +0000">
-    <title>8 Out of 10 Cats</title>
-    <sub-title>Topical Show 8</sub-title>
-    <desc>Jimmy Carr is joined this week by guests Rob Beckett, Andrew Flintoff, Lorraine Kelly, Josh Widdicombe.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_1980754045_0_20260702T091850141Z_138_imageprocessorclient-tvplus-linear-66fc4d58c8-6w69q.jpeg" />
-    <rating>
-      <value>NA</value>
     </rating>
   </programme>
 <programme channel="GB1800002FA" start="20261125081720 +0000" stop="20261125084806 +0000">
@@ -1611,15 +1381,6 @@
       <value>5</value>
     </rating>
   </programme>
-<programme channel="GB1500005UP" start="20261125071953 +0000" stop="20261125080129 +0000">
-    <title>How The Taliban Really Works</title>
-    <desc>Sean Langan is a British journalist and documentary filmmaker who has spent decades reporting from some of the world's most dangerous conflict zones, including Afghanistan, Iraq and Russia. He spent years covering the Taliban in his documentaries Fighting the Taliban, Meeting the Taliban and Afghan Ladies' Driving School.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_2269833006_0_20261009T195800388Z_117_imageprocessorclient-tvplus-linear-b5879c6c6-9w4w7.jpeg" />
-    <rating>
-      <value>5</value>
-    </rating>
-  </programme>
 <programme channel="GB1500005UP" start="20261125080129 +0000" stop="20261125083435 +0000">
     <title>How Oligarchs Control Democracy</title>
     <desc>Jeffrey Winters, a political scientist at Northwestern University, explores how oligarchs turn wealth into political power. Winters challenges conventional thinking about power, arguing that oligarchs aren't just corrupt billionaires in distant countries but individuals whose vast wealth gives them influence far beyond ordinary citizens. They operate within democratic systems, not outside them.</desc>
@@ -1657,18 +1418,6 @@
     <rating>
       <value>5</value>
     </rating>
-  </programme>
-<programme channel="GB120000761" start="20261125072530 +0000" stop="20261125081416 +0000">
-    <title>He Lifted a 100-Year-Old Barn to Build His Dream Garage</title>
-    <desc>To save a decaying Swedish barn, a man lifts the entire structure to build a climate-controlled dream workshop. By Daily Bergstrom.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_2216031322_0_20260921T162636918Z_126_imageprocessorclient-tvplus-linear-b5879c6c6-r8qlx.jpeg" />
-  </programme>
-<programme channel="GB120000761" start="20261125081416 +0000" stop="20261125082536 +0000">
-    <title>Man Survives in the Wild Using Primitive Fishing Traps</title>
-    <desc>Discover ingenious, natural fishing techniques as a wilderness survivalist masters the art of living off the land. By Ramazan RAMPE</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_2134540983_1_20260825T054605641Z_1_imageprocessorclient-tvplus-linear-b5879c6c6-ntrtq.jpeg" />
   </programme>
 <programme channel="GB120000761" start="20261125082536 +0000" stop="20261125095943 +0000">
     <title>Woman Builds Farm Lake House in the Jungle in 365 Days | Start to Finish</title>
@@ -1709,16 +1458,6 @@
       <value>12</value>
     </rating>
   </programme>
-<programme channel="GB280000829" start="20261125070415 +0000" stop="20261125080947 +0000">
-    <title>Poldark</title>
-    <sub-title>S04 E08</sub-title>
-    <desc>As Ross and Elizabeth attempt to repair their marriages, the houses' feud renews.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_1149060833_0_20250825T011748153Z_1_imageprocessorclient-tvplus-linear-5db7c6bc99-22gf2.jpeg" />
-    <rating>
-      <value>15</value>
-    </rating>
-  </programme>
 <programme channel="GB280000829" start="20261125080947 +0000" stop="20261125091408 +0000">
     <title>Poldark</title>
     <sub-title>S05 E01</sub-title>
@@ -1737,16 +1476,6 @@
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_1157636870_0_20250829T011443506Z_66_imageprocessorclient-tvplus-linear-5db7c6bc99-ztbvg.jpeg" />
     <rating>
       <value>15</value>
-    </rating>
-  </programme>
-<programme channel="GBBD1100013BJ" start="20261125074727 +0000" stop="20261125081608 +0000">
-    <title>Jodha Akbar</title>
-    <sub-title>S4 E88</sub-title>
-    <desc>Jodha Akbar is a period drama set in the sixteenth century, focusing on the political marriage between Mughal Emperor Akbar and Rajput Princess Jodha Bai. Initially a marriage of convenience, it evolves into a deep love story that changes the fate of India. The series portrays the era's wars, the complex relationships between the Mughals and Rajputs, and the political dynamics of the royal court. Akbar, raised as a ruthless conqueror, learns the meaning of love and compassion through Jodha, who despises the Mughals for their invasions. Their relationship transforms Akbar from a heartless ruler into the beloved Emperor Akbar, known for his justice and wisdom.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQU352137A_509937039_37_20241030T220127057Z_145_imageprocessorclient-tvplus-linear-7cd5d896cc-54dst.jpeg" />
-    <rating>
-      <value>7</value>
     </rating>
   </programme>
 <programme channel="GBBD1100013BJ" start="20261125081608 +0000" stop="20261125091100 +0000">
@@ -1789,26 +1518,6 @@
       <value>7</value>
     </rating>
   </programme>
-<programme channel="GB800002OP" start="20261125073000 +0000" stop="20261125080000 +0000">
-    <title>Tujhse Hai Raabta</title>
-    <sub-title>S1 E313</sub-title>
-    <desc>Kalyani shares a special bond with her stepmother Anupriya who supports her through every trial and tribulation. Their bond becomes stronger when Malhar forcibly enters Kalyani's life and marries her.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQU352137A_2177008324_0_20260908T221455990Z_36_imageprocessorclient-tvplus-linear-b5879c6c6-ln68x.jpeg" />
-    <rating>
-      <value>3</value>
-    </rating>
-  </programme>
-<programme channel="GB800002OP" start="20261125080000 +0000" stop="20261125083000 +0000">
-    <title>Kumkum Bhagya</title>
-    <sub-title>S1 E535</sub-title>
-    <desc>Abhi and Pragya live separate lives, while Ranbeer unexpectedly falls for their daughter, beginning a new chapter of love, challenges and family drama.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQU352137A_2013672467_0_20260713T220528966Z_99_imageprocessorclient-tvplus-linear-66fc4d58c8-t45v6.jpeg" />
-    <rating>
-      <value>3</value>
-    </rating>
-  </programme>
 <programme channel="GB800002OP" start="20261125083000 +0000" stop="20261125090000 +0000">
     <title>Kumkum Bhagya</title>
     <sub-title>S1 E536</sub-title>
@@ -1847,26 +1556,6 @@
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQU352137A_2016488155_0_20260714T215353490Z_1_imageprocessorclient-tvplus-linear-66fc4d58c8-m99j7.jpeg" />
     <rating>
       <value>3</value>
-    </rating>
-  </programme>
-<programme channel="GB1200008XG" start="20261125073050 +0000" stop="20261125075902 +0000">
-    <title>Wolfblood</title>
-    <sub-title>S01 E10</sub-title>
-    <desc>Maddy, Rhydian, Tom and Shannon are playing in the woods when Tom notices someone spying on them. Maddy and Rhydian catch their scent - the wild wolfblood is back... Bernie, who owns the local village shop, fills them in about a homeless women who has been sleeping rough in the woods.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1740699793_2_20260331T235530505Z_61_imageprocessorclient-tvplus-linear-74d4c47476-7zbr2.jpeg" />
-    <rating>
-      <value>6</value>
-    </rating>
-  </programme>
-<programme channel="GB1200008XG" start="20261125075902 +0000" stop="20261125082714 +0000">
-    <title>Wolfblood</title>
-    <sub-title>S01 E11</sub-title>
-    <desc>Rhydian is dabbling with his Eolas powers in school, showing off to his school mates. Maddy can't understand how he is doing it, the tricks go beyond Wolfblood senses and speed. Rhydian shares his secret with Maddy. It's something his mum taught him, Eolas, which wild wolfbloods use to connect themselves with nature.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1740699591_1_20260331T235530036Z_1_imageprocessorclient-tvplus-linear-74d4c47476-8p8x2.jpeg" />
-    <rating>
-      <value>6</value>
     </rating>
   </programme>
 <programme channel="GB1200008XG" start="20261125082714 +0000" stop="20261125085522 +0000">
@@ -1908,12 +1597,6 @@
       <value>6</value>
     </rating>
   </programme>
-<programme channel="GB4000008O5" start="20261125074322 +0000" stop="20261125081238 +0000">
-    <title>Mr Bean</title>
-    <desc>Mr Bean rushes to his exam only to find out he's studied the wrong subject.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_512925626_0_20241126T193425822Z_99_imageprocessorclient-tvplus-linear-7cd5d896cc-96cz9.jpeg" />
-  </programme>
 <programme channel="GB4000008O5" start="20261125081238 +0000" stop="20261125084352 +0000">
     <title>The Return of Mr Bean</title>
     <desc>Mr Bean wants to give a busker some money until he realises he has no change.</desc>
@@ -1937,16 +1620,6 @@
     <desc>Mr Bean rushes to the dentist's office after oversleeping.</desc>
     <category lang="en">Comedy</category>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_512925617_0_20241126T193429243Z_44_imageprocessorclient-tvplus-linear-7cd5d896cc-96cz9.jpeg" />
-  </programme>
-<programme channel="GB2400012R9" start="20261125070912 +0000" stop="20261125080206 +0000">
-    <title>Red Rock</title>
-    <sub-title>Episode 15</sub-title>
-    <desc>With Sharon gone, an apathetic Paudge struggles to cope.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_2225617994_0_20260924T204850288Z_61_imageprocessorclient-tvplus-linear-b5879c6c6-r8qlx.jpeg" />
-    <rating>
-      <value>5</value>
-    </rating>
   </programme>
 <programme channel="GB2400012R9" start="20261125080206 +0000" stop="20261125085035 +0000">
     <title>Red Rock</title>
@@ -2005,16 +1678,6 @@
       <value>5</value>
     </rating>
   </programme>
-<programme channel="GB4900001NW" start="20261125070157 +0000" stop="20261125075544 +0000">
-    <title>Deadly Women Season 09</title>
-    <sub-title>Sleeping with the Enemy</sub-title>
-    <desc>A self centred former beauty queen decides to end her marriage and at the same time profit from it.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_710915508_0_20250313T061837576Z_57_imageprocessorclient-tvplus-linear-6fb5b47f79-vvhtm.jpeg" />
-    <rating>
-      <value>7</value>
-    </rating>
-  </programme>
 <programme channel="GB4900001NW" start="20261125075544 +0000" stop="20261125084930 +0000">
     <title>Deadly Women Season 09</title>
     <sub-title>Get Rich Quick</sub-title>
@@ -2063,12 +1726,6 @@
     <category lang="en">True Crime</category>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_947594190_11_20250604T155635720Z_26_imageprocessorclient-tvplus-linear-6fb5b47f79-m2jtk.jpeg" />
   </programme>
-<programme channel="GBBA3300061ME" start="20261125070724 +0000" stop="20261125075505 +0000">
-    <title>Wicked Attraction</title>
-    <desc>Casey Ledbetter and addict Jo turn from scams to murder, evolving into deadly serial killers.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_493073585_8_20240523T050633481Z_81.jpeg" />
-  </programme>
 <programme channel="GBBA3300061ME" start="20261125075505 +0000" stop="20261125084407 +0000">
     <title>Wicked Attraction</title>
     <desc>Alesia Warrior plots to kill husband for insurance, but paralysis forces her to mislead police.</desc>
@@ -2092,18 +1749,6 @@
     <desc>Follow the lives and the relationship of Myra Hindley and Ian Brady, also known as the Moors Murderers.</desc>
     <category lang="en">True Crime</category>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_947161274_4_20250604T134821720Z_22_imageprocessorclient-tvplus-linear-6fb5b47f79-rbxs7.jpeg" />
-  </programme>
-<programme channel="GBBD260000189" start="20261125073610 +0000" stop="20261125080240 +0000">
-    <title>Campus PD</title>
-    <desc>Sergeant Hudson gets the runaround from a driver and arrests him for possession.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_555785421_1_20250104T191555166Z_92_imageprocessorclient-tvplus-linear-7cd5d896cc-qtxcr.jpeg" />
-  </programme>
-<programme channel="GBBD260000189" start="20261125080240 +0000" stop="20261125082910 +0000">
-    <title>Campus PD</title>
-    <desc>Lieutenant Tiburcio is arresting a vandal in Cancun when a stranger steps in with a generous offer.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_564283364_0_20250108T191538234Z_47_imageprocessorclient-tvplus-linear-7cd5d896cc-c6snm.jpeg" />
   </programme>
 <programme channel="GBBD260000189" start="20261125082910 +0000" stop="20261125085540 +0000">
     <title>Campus PD</title>
@@ -2129,12 +1774,6 @@
     <category lang="en">True Crime</category>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_564264149_0_20250108T191535046Z_77_imageprocessorclient-tvplus-linear-7cd5d896cc-c6snm.jpeg" />
   </programme>
-<programme channel="GBAK3504516A" start="20261125072902 +0000" stop="20261125082902 +0000">
-    <title>In The Line of Fire</title>
-    <desc>Bombers, snipers, spree killers: some people don't care who they kill, they just want to hurt innocent people.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQU352135A_1944713291_0_20260619T074008755Z_109_imageprocessorclient-tvplus-linear-66fc4d58c8-htdx9.jpeg" />
-  </programme>
 <programme channel="GBAK3504516A" start="20261125082902 +0000" stop="20261125092802 +0000">
     <title>Missing</title>
     <desc>Approximately 1.8 million Americans are reported missing each year. Some are runaways who find their way home, but others simply disappear. When foul play is suspected, investigators turn to forensics to find the missing.</desc>
@@ -2146,12 +1785,6 @@
     <desc>A young girl playing in her yard in Spokane, Washington suddenly vanishes.  In St. Louis another girl leaves to visit a friend.  She never arrives.</desc>
     <category lang="en">True Crime</category>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQU352135A_1950846427_0_20260621T125617528Z_21_imageprocessorclient-tvplus-linear-66fc4d58c8-htdx9.jpeg" />
-  </programme>
-<programme channel="GBAK3504518A" start="20261125070400 +0000" stop="20261125075600 +0000">
-    <title>Evil Repeats Itself</title>
-    <desc>Beautiful teenager Mary Jayne Jones is found murdered in a desolate farmhouse while its owner is out of town.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQU352135A_486447395_0_20231125T053653794Z_80.jpeg" />
   </programme>
 <programme channel="GBAK3504518A" start="20261125075600 +0000" stop="20261125085300 +0000">
     <title>Justice Never Quits</title>
@@ -2171,14 +1804,34 @@
     <category lang="en">True Crime</category>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQU352135A_487085506_0_20231220T225953108Z_1.jpeg" />
   </programme>
-<programme channel="GB3700008XB" start="20261125073547 +0000" stop="20261125082333 +0000">
-    <title>Dr. G: Medical Examiner</title>
-    <sub-title>Who is Watching the Children?</sub-title>
-    <desc>An infant and his two-year-old sister are found dead in a house shared by two families.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_GBPBB1501FZ_1741942466_1_20260401T080419164Z_42_imageprocessorclient-tvplus-linear-74d4c47476-dchwc.jpeg" />
+<programme channel="GB3700011PO" start="20261125073710 +0000" stop="20261125083131 +0000">
+    <title>Evidence of Evil</title>
+    <sub-title>S1 E05</sub-title>
+    <desc>The Worlds End Murders</desc>
+    <category lang="en">Crime</category>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQU352137A_1204103945_0_20250919T193610531Z_71_imageprocessorclient-tvplus-linear-5db7c6bc99-2pksq.jpeg" />
     <rating>
-      <value>NA</value>
+      <value>14</value>
+    </rating>
+  </programme>
+<programme channel="GB3700011PO" start="20261125083131 +0000" stop="20261125092629 +0000">
+    <title>Evidence of Evil</title>
+    <sub-title>S1 E10</sub-title>
+    <desc>The Road Rage Killer</desc>
+    <category lang="en">Crime</category>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQU352137A_1204103945_0_20250919T193610531Z_71_imageprocessorclient-tvplus-linear-5db7c6bc99-2pksq.jpeg" />
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+<programme channel="GB3700011PO" start="20261125092629 +0000" stop="20261125102113 +0000">
+    <title>Evidence of Evil</title>
+    <sub-title>S1 E12</sub-title>
+    <desc>The Bus Stop Rapist</desc>
+    <category lang="en">Crime</category>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQU352137A_1204103945_0_20250919T193610531Z_71_imageprocessorclient-tvplus-linear-5db7c6bc99-2pksq.jpeg" />
+    <rating>
+      <value>14</value>
     </rating>
   </programme>
 <programme channel="GB3700008XB" start="20261125082333 +0000" stop="20261125091602 +0000">
@@ -2283,15 +1936,6 @@
     <category lang="en">Movies</category>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1757733261_0_20260407T124006645Z_1_imageprocessorclient-tvplus-linear-74d4c47476-npj98.jpeg" />
   </programme>
-<programme channel="GB12000052F" start="20261125062744 +0000" stop="20261125075751 +0000">
-    <title>Christmas Couple's Retreat</title>
-    <desc>Three couples attend a retreat to strengthen their respective relationships under the guidance of a famed therapist. But as the holiday season unfolds, unexpected challenges arise when the therapist must confront some feelings of her own, and sparks fly when one couple's son unexpectedly falls for the charming retreat manager. Will this festive getaway reignite these couples' love, or will it lead them down an entirely new path?</desc>
-    <category lang="en">Movies</category>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQU352137A_510753183_0_20241107T212257153Z_35_imageprocessorclient-tvplus-linear-7cd5d896cc-lbmrn.png" />
-    <rating>
-      <value>15</value>
-    </rating>
-  </programme>
 <programme channel="GB12000052F" start="20261125075751 +0000" stop="20261125094038 +0000">
     <title>Feather Christmas</title>
     <desc>For single dad, and veterinarian, Martin, Christmas is all about upholding regular family traditions to keep the memory of his late wife alive. But when an ailing pet chicken arrives at his home-run animal sanctuary, the family's festive plans, and entire world, are turned upside down, as new love blossoms and spreads its wings!</desc>
@@ -2364,15 +2008,6 @@
       <value>6</value>
     </rating>
   </programme>
-<programme channel="GBBA3300059BU" start="20261125063027 +0000" stop="20261125082018 +0000">
-    <title>Fatal Defense</title>
-    <desc>A single mother signs up for self-defense classes from a handsome instructor. But he develops a frightening obsession with her and orchestrates an increasing deadly array of "tests" to see if she has truly learned from his lessons.</desc>
-    <category lang="en">Movies</category>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485422865_0_20231020T004306753Z_36.jpeg" />
-    <rating>
-      <value>14</value>
-    </rating>
-  </programme>
 <programme channel="GBBA3300059BU" start="20261125082018 +0000" stop="20261125101025 +0000">
     <title>Stolen Dreams</title>
     <desc>Laura Paddington is overcome with joy when her daughter, Zoe, returns to her after being abducted 17 years before--but is Zoe really her long lost child?</desc>
@@ -2400,15 +2035,6 @@
       <value>15</value>
     </rating>
   </programme>
-<programme channel="GB2600013BO" start="20261125061728 +0000" stop="20261125081139 +0000">
-    <title>Linoleum</title>
-    <desc>When a satellite falls from orbit and crashes into the home of a suburban family, the father seizes the opportunity to fulfill his dream of becoming an astronaut by re-building it into his own rocket ship. Surreal events begin to unfold around him, causing him to question his own reality.</desc>
-    <category lang="en">Sci-Fi</category>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_DEQY451056A_1808824459_0_20260428T034650239Z_85_imageprocessorclient-tvplus-linear-74d4c47476-8rh4j.jpeg" />
-    <rating>
-      <value>15</value>
-    </rating>
-  </programme>
 <programme channel="GB2600013BO" start="20261125081139 +0000" stop="20261125094502 +0000">
     <title>Dominion: The Last Star Warrior</title>
     <desc>In five days the world changed. As a retired Intelligence agent turned UFO investigator races to discover the fate of the human race, an alien observer searchs for the human woman he loves.</desc>
@@ -2423,15 +2049,6 @@
     <desc>In the near future the earth has become desolate and dangerous. Now inhabited by by a mysterious race of creatures, humanity has been forced to find refuge in the Skyark, a man-made city in the sky.</desc>
     <category lang="en">Sci-Fi</category>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_DEQY451056A_755995580_1_20250329T024948981Z_95_imageprocessorclient-tvplus-linear-6fb5b47f79-rdbrc.jpeg" />
-    <rating>
-      <value>15</value>
-    </rating>
-  </programme>
-<programme channel="GB4100003VP" start="20261125061530 +0000" stop="20261125075635 +0000">
-    <title>Lethal Admirer</title>
-    <desc>When Megan's fiancé is brutally killed, she moves cross-country to rebuild her life.  She's followed months later by former co-worker Lloyd and when they meet up “by chance,” he still wants to escape the friend zone and become much more.</desc>
-    <category lang="en">Movies</category>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_DEQY451056A_2337083972_0_20261101T062352633Z_77_imageprocessorclient-tvplus-linear-b5879c6c6-29zn8.jpeg" />
     <rating>
       <value>15</value>
     </rating>
@@ -2453,19 +2070,6 @@
     <rating>
       <value>15</value>
     </rating>
-  </programme>
-<programme channel="GB3000370X" start="20261125064419 +0000" stop="20261125082157 +0000">
-    <title>Nowhere To Be Found</title>
-    <desc>(2019) Thriller starring Kate Drummond. When her daughter goes missing shortly after they move to a new town, Claire realises the locals will do anything to keep their darkest secrets hidden...</desc>
-    <category lang="en">Crime</category>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1549016449_0_20260114T173505248Z_1_imageprocessorclient-tvplus-linear-85d7d49859-s72h4.jpeg" />
-    <episode-num system="onscreen">S07E02</episode-num>
-  </programme>
-<programme channel="GB3000370X" start="20261125082157 +0000" stop="20261125083022 +0000">
-    <title>Week 33</title>
-    <desc>GREAT! mystery…the home of the ‘Who Done It?’. The channel that loves a good murder…and catching the killer. Our armchair sleuths binge-solve with us through the day with leading movie mystery franchises and turn up the tempo into the evening with spine tingling crime thrillers.</desc>
-    <category lang="en">Crime</category>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_885620030_0_20250514T133947793Z_28_imageprocessorclient-tvplus-linear-6fb5b47f79-mnpdc.png" />
   </programme>
 <programme channel="GB3000370X" start="20261125083022 +0000" stop="20261125100048 +0000">
     <title>An Aurora Teagarden Mystery: Death At The Diner</title>
