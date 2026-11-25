@@ -329,9 +329,11 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         walker texas ranger
         the outpost
         the librarians
+        action hollywood
         pluto tv retro action
         hercules
         pluto tv rocky + creed
+        action movies
         warrior princess
         xena
         complex tv
@@ -387,6 +389,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         aliwko
         goldentv
         asiancrush
+        k-movies
         discovering china
         asian drama
         bollywood
