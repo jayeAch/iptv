@@ -574,6 +574,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         pluto tv comedy
         8 out of 10 cats
         the red green channel
+        mr bean live action
         komedi
         laff
         the daily show
@@ -664,10 +665,12 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         candyjar
         wildfire
         nashville
+        hearties
         filmrise drama
         felicity
         nip/tuck
         pluto tv drama
+        wild at heart
         vikings
         7th heaven
         beverly hills 90210
@@ -796,6 +799,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         kids
         123 go
         kiddo
+        mr bean animated
         pluto tv klassiske tegnefilmer
         nicktoons
         teenvee
