@@ -372,6 +372,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         one piece
         crunchyroll
         retrocrush
+        inazuma
         yu-gi-oh
         naruto
         sailor moon
@@ -491,6 +492,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         cnbc
         fox business
         yahoo finance
+        the diary of a ceo
         cheddar
         forbes
         wsj
@@ -570,6 +572,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         comedy central
         according to jim
         pluto tv comedy
+        8 out of 10 cats
         the red green channel
         komedi
         laff
@@ -698,6 +701,8 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     # (Koch'en på toppen, Til Middag Hos, Med kniven for struben) are food too.
     'Food & Travel': _words("""
         pluto tv food
+        awe plus
+        no reservations
         destination america
         food network
         tastemade
@@ -720,6 +725,9 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         buzzr
         deal or no deal
         family feud
+        the chase
+        tipping point
+        pointless
         the price is right
         lets make a deal
         supermarket sweep
@@ -1330,6 +1338,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     'Talk Shows': _words("""
         drew barrymore show
         graham norton
+        trevor noah
         nosey
         dr. phil
     """),
