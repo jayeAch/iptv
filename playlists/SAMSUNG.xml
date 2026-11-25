@@ -72,6 +72,10 @@
     <display-name>Court TV (US)</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA34000049Z_20260825T035901SQUARE.png" />
   </channel>
+<channel id="US4500009VV">
+    <display-name>BBC Comedy (US)</display-name>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4500009VV_20260421T143330SQUARE.png" />
+  </channel>
 <channel id="US39000221B">
     <display-name>Tales from the Crypt (US)</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US39000221B_20261117T052553SQUARE.png" />
@@ -304,10 +308,6 @@
     <display-name>Comedy Movies - Rakuten TV (GB)</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600020OP_20260707T052017SQUARE.png" />
   </channel>
-<channel id="GB1700007PK">
-    <display-name>NEW K-MOVIES (GB)</display-name>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1700007PK_20251013T054402SQUARE.png" />
-  </channel>
 <channel id="GB2600013BO">
     <display-name>Sci-Fi - Rakuten TV (GB)</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600013BO_20250121T013046SQUARE.png" />
@@ -315,10 +315,6 @@
 <channel id="GB4100003VP">
     <display-name>Thrillers - Rakuten TV (GB)</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4100003VP_20261102T070511SQUARE.png" />
-  </channel>
-<channel id="GB2600015OS">
-    <display-name>Action Movies - Rakuten TV (GB)</display-name>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600015OS_20261102T070534SQUARE.png" />
   </channel>
 <channel id="GB3000370X">
     <display-name>GREAT! Mystery (GB)</display-name>
@@ -331,16 +327,6 @@
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1558517976_1_20250624T003700516Z_39_imageprocessorclient-tvplus-linear-95576dcd4-znhd8.jpeg" />
     <rating>
       <value>R</value>
-    </rating>
-  </programme>
-<programme channel="US2001109K" start="20261125030003 +0000" stop="20261125032425 +0000">
-    <title>Killer Mysteries</title>
-    <sub-title>A Cold-Blooded Cover Up</sub-title>
-    <desc>Police investigate the murder of a missing woman whose body was left by an abandoned farmhouse. After more than a year of investigation and with the help of some unlikely informants, the suspect pool is narrowed down to a perpetrator who was overlooked at the outset.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2395387221_0_20260109T045742778Z_72_imageprocessorclient-tvplus-linear-584c967455-p9wk7.jpeg" />
-    <rating>
-      <value>TV-14</value>
     </rating>
   </programme>
 <programme channel="USBC1000002NP" start="20261125025608 +0000" stop="20261125034956 +0000">
@@ -409,16 +395,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme channel="CAAJ27000079E" start="20261125022553 +0000" stop="20261125032408 +0000">
-    <title>World's Most Evil Prisoners</title>
-    <sub-title>Wissink</sub-title>
-    <desc>Imprisoned after a botched robbery that ends with the fatal shooting of an innocent man, Craig Wissink later kills a corrections officer with a fire extinguisher in a brutal attack.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_3643374433_5_20261020T072043858Z_27_imageprocessorclient-tvplus-linear-6b56cc9f55-6s7bl.jpeg" />
-    <rating>
-      <value>PG-13</value>
-    </rating>
-  </programme>
 <programme channel="CA2600003M4" start="20261125023000 +0000" stop="20261125033000 +0000">
     <title>BuzzFeed Unsolved</title>
     <sub-title>The Mysterious Death Of The Somerton Man Revisited</sub-title>
@@ -449,16 +425,6 @@
       <value>14+</value>
     </rating>
   </programme>
-<programme channel="CABD1200043OK" start="20261125025713 +0000" stop="20261125032309 +0000">
-    <title>Schitt's Creek</title>
-    <sub-title>RIP Moira Rose</sub-title>
-    <desc>A rumour of Moira's death surfaces online. Roland asks Johnny to be his child's godfather.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542518855_0_20240529T062530432Z_24.jpeg" />
-    <rating>
-      <value>14+</value>
-    </rating>
-  </programme>
 <programme channel="CA1400005SO" start="20261125024503 +0000" stop="20261125033858 +0000">
     <title>Canada's Worst Driver</title>
     <sub-title>The Verdict</sub-title>
@@ -468,21 +434,6 @@
     <rating>
       <value>14+</value>
     </rating>
-  </programme>
-<programme channel="CA35000044I" start="20261125014756 +0000" stop="20261125032812 +0000">
-    <title>Eraserhead [Broadcast Edit]</title>
-    <desc>Henry (John Nance) resides alone in a bleak apartment surrounded by industrial gloom. When he discovers that an earlier fling with Mary X (Charlotte Stewart) left her pregnant, he marries the expectant mother and has her move in with him. Things take a decidedly strange turn when the couple's baby turns out to be a bizarre lizard-like creature that won't stop wailing. Other characters, including a disfigured lady who lives inside a radiator, inhabit the building and add to Henry's troubles.</desc>
-    <category lang="en">Horror</category>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_3811796469_4_20261124T080813332Z_113_imageprocessorclient-tvplus-linear-6b56cc9f55-xngsv.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme channel="GBBD3100003J5" start="20261125025115 +0000" stop="20261125032457 +0000">
-    <title>Mock the Week</title>
-    <desc>Featuring guests James Acaster, Gary Delaney, Zoe Lyons and Josh Widdicombe.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_510523063_0_20241105T142944102Z_38_imageprocessorclient-tvplus-linear-7cd5d896cc-vmxf2.png" />
   </programme>
 <programme channel="GB2700016H5" start="20261125030000 +0000" stop="20261125040000 +0000">
     <title>Artist of the Year</title>
@@ -502,15 +453,6 @@
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_498933593_1_20240717T102512890Z_148.jpeg" />
     <rating>
       <value>15</value>
-    </rating>
-  </programme>
-<programme channel="GB1500005UP" start="20261125025106 +0000" stop="20261125032748 +0000">
-    <title>Trump's Greenland Deal Isn't What You Think</title>
-    <desc>Ava is joined by Scott Lucas to break down the latest developments in Donald Trump's political moves. They discuss Trump's recent trip to New York where he met Andy Burnham face-to-face, and analyse the major story from the UN: the long-awaited "deal" on Greenland.</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_2269829585_2_20261009T195800537Z_100_imageprocessorclient-tvplus-linear-b5879c6c6-ntrtq.jpeg" />
-    <rating>
-      <value>5</value>
     </rating>
   </programme>
 <programme channel="GB120000761" start="20261125030220 +0000" stop="20261125033626 +0000">
@@ -558,16 +500,6 @@
       <value>5</value>
     </rating>
   </programme>
-<programme channel="GB4900001NW" start="20261125023306 +0000" stop="20261125032651 +0000">
-    <title>Deadly Women Season 09</title>
-    <sub-title>Payback</sub-title>
-    <desc>When these women have scores to settle, they take matters into their own hands.</desc>
-    <category lang="en">Crime</category>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_710915508_0_20250313T061837576Z_57_imageprocessorclient-tvplus-linear-6fb5b47f79-vvhtm.jpeg" />
-    <rating>
-      <value>7</value>
-    </rating>
-  </programme>
 <programme channel="GBBD500002R4" start="20261125030013 +0000" stop="20261125040010 +0000">
     <title>Britain's Darkest Taboos</title>
     <desc>The nation was left stunned when 50-year-old Robert Thomson knifed his seven-year-old son Ryan and his 25-year-old disabled daughter Michelle in their family home in Buckhaven, Fife.</desc>
@@ -579,18 +511,6 @@
     <desc>Erin Chorney disappears the suspicion falls on her ex-boyfriend Michael Bridges.</desc>
     <category lang="en">True Crime</category>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1546459229_0_20260113T160746249Z_1_imageprocessorclient-tvplus-linear-85d7d49859-6vm6g.jpeg" />
-  </programme>
-<programme channel="GBBD260000189" start="20261125025816 +0000" stop="20261125032716 +0000">
-    <title>Psychic CSI</title>
-    <desc>Five women have been raped and assaulted in their homes.</desc>
-    <category lang="en">Crime</category>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_562118597_0_20250107T191524383Z_92_imageprocessorclient-tvplus-linear-7cd5d896cc-xjpbw.jpeg" />
-  </programme>
-<programme channel="GBAK3504516A" start="20261125023002 +0000" stop="20261125032902 +0000">
-    <title>A Deadly Smile</title>
-    <desc>Investigators rely on forensic odontology to identify a body from a single tooth and to catch two brutal killers from their bite marks.</desc>
-    <category lang="en">Crime</category>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQU352135A_1946238168_0_20260619T193831557Z_1_imageprocessorclient-tvplus-linear-66fc4d58c8-2zrmr.jpeg" />
   </programme>
 <programme channel="GBAK3504518A" start="20261125024200 +0000" stop="20261125033300 +0000">
     <title>Half Way Home</title>
@@ -693,12 +613,6 @@
       <value>15</value>
     </rating>
   </programme>
-<programme channel="GB1700007PK" start="20261125013642 +0000" stop="20261125034053 +0000">
-    <title>The Night Shift</title>
-    <desc>“Something strange is happening here at Gwanglim mansion.” Ji-woo a webtoon artist visits a small and deserted mansion located outside of Seoul to gather an idea for his work. But while he is searching the area he listens to suspicious stories from the manager. A stray pair of shoes which are far off from the corridor a giggling sound of laughter from invisible children… Despite of spooky atmosphere which sneaks in Ji-woo he unconsciously goes deeper into that strange mansion.</desc>
-    <category lang="en">Movies</category>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_2391549031_0_20261121T042935912Z_71_imageprocessorclient-tvplus-linear-b5879c6c6-75n7d.jpeg" />
-  </programme>
 <programme channel="GB2600013BO" start="20261125023106 +0000" stop="20261125040814 +0000">
     <title>Raptus: Companion Robot</title>
     <desc>In the wake of a savage attack, Sarah Mathis orders a new form of android therapy called Raptus, and reveals a path to recovery with twisted surprises.</desc>
@@ -716,20 +630,5 @@
     <rating>
       <value>15</value>
     </rating>
-  </programme>
-<programme channel="GB2600015OS" start="20261125025618 +0000" stop="20261125041914 +0000">
-    <title>A Murder in Oakland</title>
-    <desc>Recently cleared of an embezzlement charge, Detective Williams (Marcus D Spencer) is handed a high-profile murder case while also forced to take on a new partner. Williams is trying to solve this case while also working to see if he can trust his partner.</desc>
-    <category lang="en">Movies</category>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_DEQY451056A_2229184082_0_20260926T043907900Z_106_imageprocessorclient-tvplus-linear-b5879c6c6-q5mpw.jpeg" />
-    <rating>
-      <value>15</value>
-    </rating>
-  </programme>
-<programme channel="GB3000370X" start="20261125014922 +0000" stop="20261125032817 +0000">
-    <title>I Almost Married A Serial Killer</title>
-    <desc>A single mother and daughter enter witness protection to escape a serial killer. Starring Krista Allen (2019)</desc>
-    <category lang="en">Crime</category>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_486979089_2_20231216T054245893Z_122.jpeg" />
   </programme>
 </tv>
