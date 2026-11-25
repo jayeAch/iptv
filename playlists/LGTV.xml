@@ -12,6 +12,10 @@
     <display-name>World's Most Evil Killers</display-name>
     <icon src="https://image.xumo.com/v1/channels/channel/99993006/400x200.png?type=white_cropped" />
   </channel>
+<channel id="coldcasefiles_aeccf_US">
+    <display-name>Cold Case Files</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/aenetworks/Cold_Case_Files_Channel_Logo_Image_200x800.png" />
+  </channel>
 <programme start="20261125024747 +0000" stop="20261125035336 +0000" channel="99993006">
     <title lang="en">World's Most Evil Killers</title>
     <desc lang="en">Young Natalie Jarvis was killed by Adam Whelehan, whose cruel and cowardly plot was exposed by investigators.</desc>
@@ -32,16 +36,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20261125012141 +0000" stop="20261125030643 +0000" channel="FREQ874">
-    <title lang="en">Rabid</title>
-    <desc lang="en">Surgery leaves a Montreal motorcyclist with a bloodsucking appendage in her armpit.</desc>
-    <category lang="en">Movies</category>
-    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=768&amp;height=432&amp;url=https://images.frequency.com/video/7333983398387299474/solid/rectangle/w1920_h1080/3gs3lno3txqv1ngwbj6t5zvco.jpg" />
-    <episode-num system="dd_progid">9074694</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
 <programme start="20261125030643 +0000" stop="20261125041439 +0000" channel="FREQ874">
     <title lang="en">Masters of Horror</title>
     <desc lang="en">A truck driver who enjoys slaughtering hitchhikers meets a hitchhiker butchers anyone who gives him a ride.</desc>
@@ -50,6 +44,16 @@
     <episode-num system="dd_progid">9060582</episode-num>
     <rating>
       <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20261125031352 +0000" stop="20261125040656 +0000" channel="coldcasefiles_aeccf_US">
+    <title lang="en">Cold Case Files</title>
+    <desc lang="en">The case of a gruesome stabbing death of a bullied teenager.</desc>
+    <category lang="en">Documentary</category>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/AECCF/resized_346a15d2311db0ef01af4d6b255bf14d1043563b2bb0927f8571ad6e7acb828b_183981314694thumbjpg_768_432.jpeg" />
+    <episode-num system="dd_progid">AECCF_183981_314694_US</episode-num>
+    <rating>
+      <value>TV14</value>
     </rating>
   </programme>
 <programme start="20261125025448 +0000" stop="20261125043955 +0000" channel="theasylummoviechannel_tasmc_US">
