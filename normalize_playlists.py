@@ -1375,6 +1375,9 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     'True Crime': _words("""
         the fbi files
         chasing criminals
+        born to kill
+        noovo crime
+        deadly women
         american crimes
         crime 360
         law&crime
