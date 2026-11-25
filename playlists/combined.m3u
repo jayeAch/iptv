@@ -659,10 +659,6 @@ http://23.237.104.106:8080/USA_VH1/index.m3u8
 http://23.237.104.106:8080/USA_VICETV/index.m3u8
 #EXTINF:-1 tvg-chno="174" tvg-id="WE.tv.HD.us2" tvg-name="WE tv" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s59296_dark_360w_270h.png" group-title="Entertainment",WE tv
 http://23.237.104.106:8080/USA_WE_TV/index.m3u8
-#EXTINF:-1 tvg-chno="248" tvg-id="Live.Event.us" tvg-name="México Major Secondary Court (Primera Ronda) | Disney+ (TVF90)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Entertainment",México Major Secondary Court (Primera Ronda) | Disney+ (TVF90)
-#EXTVLCOPT:http-referrer=https://tvf90.com/plus1.php?stream=disney22
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://11.ftlly.com:443/disney22/mono.m3u8?token=46d37f906a06335b490a5aaafb792be86b5938c4-7b-1795581908-1795563908
 #EXTINF:-1 tvg-id="rick-and-morty" tvg-name="Rick and Morty" group-title="Toons" tvg-logo="https://media.cdn.adultswim.com/uploads/20210914/219141616186-1910281358343-RAM.jpg" channel-number="1",Rick and Morty
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
 #EXTINF:-1 tvg-id="aqua-teen-hunger-force" tvg-name="Aqua Teen Hunger Force" group-title="Toons" tvg-logo="https://i.cdn.turner.com/adultswim/big/video/aqua-teen-hunger-force-marathon/marathonStream_athf10.jpg" channel-number="2",Aqua Teen Hunger Force
@@ -777,7 +773,7 @@ https://jmp2.uk/stvp-CA1300001DN
 https://jmp2.uk/stvp-CA35000044I
 #EXTINF:-1 channel-id="CAAJ1700002PA" tvg-id="CAAJ1700002PA" tvg-name="The Asylum (CA)" group-title="Sci-Fi" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ1700002PA_20260303T094519SQUARE.png" tvg-description="Get committed to Danger, Action & Excitement! Get committed to The Asylum Movie Channel!",The Asylum (CA)
 https://jmp2.uk/stvp-CAAJ1700002PA
-#EXTINF:-1 channel-id="GBBD3100003J5" tvg-id="GBBD3100003J5" tvg-name="U&Laughs (GB)" group-title="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3100003J5_20251013T054433SQUARE.png" tvg-chno="4033" tvg-description="Love comedy? Sit back, relax and lose yourself in the lighter side of life with UKTV Play Laughs. With wall-to-wall witty quips, and downright daft discussions, it's dedicated to tickling your funny bone.",U&Laughs (GB)
+#EXTINF:-1 channel-id="GBBD3100003J5" tvg-id="GBBD3100003J5" tvg-name="U&Laughs (GB)" group-title="Comedy" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3100003J5_20251013T054433SQUARE.png" tvg-chno="4033" tvg-description="Love comedy? Sit back, relax and lose yourself in the lighter side of life with UKTV Play Laughs. With wall-to-wall witty quips, and downright daft discussions, it's dedicated to tickling your funny bone.",U&Laughs (GB)
 https://jmp2.uk/stvp-GBBD3100003J5
 #EXTINF:-1 channel-id="GB2700016H5" tvg-id="GB2700016H5" tvg-name="Artist of the Year (GB)" group-title="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2700016H5_20251013T054254SQUARE.png" tvg-chno="4040" tvg-description="Sky presents their much-loved shows, Portrait Artist of the Year and Landscape Artist of the Year. Featuring the best of both, and a range of celebrity sitters. All the favourites from these two iconic shows.",Artist of the Year (GB)
 https://jmp2.uk/stvp-GB2700016H5
