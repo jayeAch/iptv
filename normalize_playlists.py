@@ -578,6 +578,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         8 out of 10 cats
         the red green channel
         mr bean live action
+        u&laughs
         komedi
         laff
         the daily show
@@ -865,6 +866,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         gritos
         univision
         galavisión
+        méxico major secondary court
         en espanol
         tock tock movies
         conecta
