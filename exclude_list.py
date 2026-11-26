@@ -11,6 +11,10 @@ GLOBAL_EXCLUDE_LIST = [
 # All other entries (alphabetized, case-insensitive, deduplicated)
   "21 Jump Street",
   "Disney Channel",
+  "Mr Bean Live Action (GB)",
+  "8 Out Of 10 Cats (GB)",
+  "U&Laughs (GB)",
+  "Noovo Ça c’est drôle (CA)",
   "Disney XD",
   "Pluto TV Bud & Terence",
   "Pluto TV John Wayne",
