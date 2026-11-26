@@ -119,6 +119,8 @@ GLOBAL_EXCLUDE_LIST = [
   "Comedy Plus",
   "Conan O'Brien TV",
   "Corner Gas",
+  "CBC Comedy (CA)",
+  "CTV Laughs (CA)",
   "Crazy Ex-Girlfriend",
   "Creator Television",
   "Creator TV",
