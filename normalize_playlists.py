@@ -1378,6 +1378,8 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         the fbi files
         chasing criminals
         crime & justice
+        bloodline detectives
+        evidence of evil
         inside crime
         pluto tv crime
         pluto tv inside
