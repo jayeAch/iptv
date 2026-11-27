@@ -122,8 +122,6 @@ GLOBAL_EXCLUDE_LIST = [
   "CBC Comedy (CA)",
   "CTV Laughs (CA)",
   "Crazy Ex-Girlfriend",
-  "Creator Television",
-  "Creator TV",
   "Doctor Who",
   "Dry Bar Comedy",
   "Ebony",
