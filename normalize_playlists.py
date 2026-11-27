@@ -1247,6 +1247,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         uefa
         acc
         ligue-1
+        f1 gp
         mls
         sports
         big ten network
