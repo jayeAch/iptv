@@ -516,6 +516,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     'Christmas': _words("""
         christmas
         pluto tv jul
+        festive hub
         jingle bells
         pluto tv de bedste julespecials
         pluto tv de beste julespesialene
@@ -755,6 +756,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         home refresh
         home crashers
         home.made.nation
+        create
         home. made. nation
         family handyman
         this old house
