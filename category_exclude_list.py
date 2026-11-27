@@ -6,6 +6,7 @@ CATEGORY_EXCLUDE_LIST = [
     "Paranormal",
     "Creators",
     "Business",
+    "Local News",
     "Christmas",
     "Women's Interests",
     "International",
