@@ -626,6 +626,8 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         mrbeast
         fgteev
         w3
+        joe media
+        quantum makers
         ssundee
         filmrise creators
         wonderviz
@@ -731,6 +733,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         funny you should ask
         buzzr
         deal or no deal
+        the cube
         family feud
         the chase
         tipping point
@@ -1239,6 +1242,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         axs
         sec network 
         yes network 
+        uefa
         acc
         ligue-1
         mls
@@ -1306,6 +1310,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         snooker 900
         tennis
         strongman
+        football
         surfer tv
         surf cinema
         world surf league
