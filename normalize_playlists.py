@@ -1242,6 +1242,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         darts
         mex 1
         axs
+        fawa
         sec network 
         yes network 
         uefa
@@ -1269,6 +1270,12 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
         nfl
         nba
         mvmt
+        skiing
+        f1
+        formula 1 
+        horse racing
+        motogp
+        grand prix
         lacrosse
         mlb
         nhl
