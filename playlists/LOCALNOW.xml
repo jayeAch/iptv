@@ -1,5 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
+<channel id="localnow.FAB3945A-F8EB-4ED4-B8A5-05FCEA44FD4A">
+    <display-name>48 Hours</display-name>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/FAB3945A-F8EB-4ED4-B8A5-05FCEA44FD4A/3-1x1.png" />
+  </channel>
+<channel id="localnow.41830D3A-37B5-4C6C-B242-A08B82B441D9">
+    <display-name>Forensic Files</display-name>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/41830D3A-37B5-4C6C-B242-A08B82B441D9/3-1x1.png" />
+  </channel>
 <channel id="localnow.558211BE-E921-43BA-9C55-9DE79921BF9C">
     <display-name>FBI Files</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/558211BE-E921-43BA-9C55-9DE79921BF9C/3-1x1.png" />
@@ -7,10 +15,6 @@
 <channel id="localnow.86B50402-32F0-4EBF-9AF8-65DAE9C09A44">
     <display-name>Mysteria</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/86B50402-32F0-4EBF-9AF8-65DAE9C09A44/3-1x1.png" />
-  </channel>
-<channel id="localnow.70E6008B-8E98-4B80-8CE2-D721592DF1C1">
-    <display-name>World's Most Evil Killers</display-name>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/70E6008B-8E98-4B80-8CE2-D721592DF1C1/3-1x1.png" />
   </channel>
 <channel id="localnow.D0DF28EB-0756-4476-80C4-FD05DE2E4E09">
     <display-name>Scream Factory TV</display-name>
@@ -36,18 +40,6 @@
     <display-name>BuzzFeed Unsolved</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/A7FA55BD-F771-46DA-B7A0-B974DA61DF21/3-1x1.png" />
   </channel>
-<programme start="20261127230000 +0000" stop="20261128000000 +0000" channel="localnow.06FFDD3B-A149-4023-8EF8-96685EB19DDE">
-    <title lang="en">Screambox TV</title>
-    <desc lang="en">Your home for horror featuring Screambox exclusives, originals, and curated horror movies and TV to make you scream 24/7.</desc>
-    <category lang="en">Horror</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/06FFDD3B-A149-4023-8EF8-96685EB19DDE/0-2x3.png" />
-  </programme>
-<programme start="20261128000000 +0000" stop="20261128010000 +0000" channel="localnow.06FFDD3B-A149-4023-8EF8-96685EB19DDE">
-    <title lang="en">Screambox TV</title>
-    <desc lang="en">Your home for horror featuring Screambox exclusives, originals, and curated horror movies and TV to make you scream 24/7.</desc>
-    <category lang="en">Horror</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/06FFDD3B-A149-4023-8EF8-96685EB19DDE/0-2x3.png" />
-  </programme>
 <programme start="20261128010000 +0000" stop="20261128020000 +0000" channel="localnow.06FFDD3B-A149-4023-8EF8-96685EB19DDE">
     <title lang="en">Screambox TV</title>
     <desc lang="en">Your home for horror featuring Screambox exclusives, originals, and curated horror movies and TV to make you scream 24/7.</desc>
@@ -59,22 +51,6 @@
     <desc lang="en">Your home for horror featuring Screambox exclusives, originals, and curated horror movies and TV to make you scream 24/7.</desc>
     <category lang="en">Horror</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/06FFDD3B-A149-4023-8EF8-96685EB19DDE/0-2x3.png" />
-  </programme>
-<programme start="20261127232100 +0000" stop="20261128001700 +0000" channel="localnow.558211BE-E921-43BA-9C55-9DE79921BF9C">
-    <title lang="en">The FBI Files</title>
-    <desc lang="en">A fatally-shot parole officer sends police on a manhunt full of murders, robberies and carjackings.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/558211BE-E921-43BA-9C55-9DE79921BF9C/0-2x3.png" />
-    <episode-num system="onscreen">S04E14</episode-num>
-    <episode-num system="xmltv_ns">3.13.</episode-num>
-  </programme>
-<programme start="20261128001700 +0000" stop="20261128011500 +0000" channel="localnow.558211BE-E921-43BA-9C55-9DE79921BF9C">
-    <title lang="en">The FBI Files</title>
-    <desc lang="en">Pakistan native fires an assault rifle at cars entering CIA headquarters in Virginia.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/558211BE-E921-43BA-9C55-9DE79921BF9C/0-2x3.png" />
-    <episode-num system="onscreen">S04E15</episode-num>
-    <episode-num system="xmltv_ns">3.14.</episode-num>
   </programme>
 <programme start="20261128011500 +0000" stop="20261128021100 +0000" channel="localnow.558211BE-E921-43BA-9C55-9DE79921BF9C">
     <title lang="en">The FBI Files</title>
@@ -91,44 +67,6 @@
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/558211BE-E921-43BA-9C55-9DE79921BF9C/0-2x3.png" />
     <episode-num system="onscreen">S04E16</episode-num>
     <episode-num system="xmltv_ns">3.15.</episode-num>
-  </programme>
-<programme start="20261127224900 +0000" stop="20261127234100 +0000" channel="localnow.70E6008B-8E98-4B80-8CE2-D721592DF1C1">
-    <title lang="en">World's Most Evil Killers</title>
-    <desc lang="en">Serial killer Robert Lee Yates kills 13 prostitutes between 1996 and 1998.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/70E6008B-8E98-4B80-8CE2-D721592DF1C1/0-2x3.png" />
-    <episode-num system="onscreen">S03E08</episode-num>
-    <episode-num system="xmltv_ns">2.7.</episode-num>
-  </programme>
-<programme start="20261127234100 +0000" stop="20261128003500 +0000" channel="localnow.70E6008B-8E98-4B80-8CE2-D721592DF1C1">
-    <title lang="en">World's Most Evil Killers</title>
-    <desc lang="en">Scottish serial killer Robert Black attacks four young girls between 1981 and 1986.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/70E6008B-8E98-4B80-8CE2-D721592DF1C1/0-2x3.png" />
-    <episode-num system="onscreen">S03E03</episode-num>
-    <episode-num system="xmltv_ns">2.2.</episode-num>
-  </programme>
-<programme start="20261128003500 +0000" stop="20261128012800 +0000" channel="localnow.70E6008B-8E98-4B80-8CE2-D721592DF1C1">
-    <title lang="en">World's Most Evil Prisoners</title>
-    <desc lang="en">His terrifying appearance makes Jaime Osuna a feared man in the U.S. prison system.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/70E6008B-8E98-4B80-8CE2-D721592DF1C1/0-2x3.png" />
-    <episode-num system="onscreen">S01E05</episode-num>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-  </programme>
-<programme start="20261128012800 +0000" stop="20261128021900 +0000" channel="localnow.70E6008B-8E98-4B80-8CE2-D721592DF1C1">
-    <title lang="en">World's Most Evil Prisoners</title>
-    <desc lang="en">While on trial for rape, 33-year-old Brian Nichols goes on a rampage that results in three murders.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/70E6008B-8E98-4B80-8CE2-D721592DF1C1/0-2x3.png" />
-    <episode-num system="dd_progid">EP049872610009</episode-num>
-  </programme>
-<programme start="20261127215425 +0000" stop="20261127235938 +0000" channel="localnow.746F014B-ACE1-4DE4-B494-BFAE6DE92608">
-    <title lang="en">Dr. Giggles</title>
-    <desc lang="en">Maniac doctor escapes asylum to perform deadly “house calls.”</desc>
-    <category lang="en">Horror</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/746F014B-ACE1-4DE4-B494-BFAE6DE92608/0-2x3.png" />
-    <episode-num system="dd_progid">program-horror-plus-20261127215425</episode-num>
   </programme>
 <programme start="20261127235938 +0000" stop="20261128015743 +0000" channel="localnow.746F014B-ACE1-4DE4-B494-BFAE6DE92608">
     <title lang="en">Shrooms</title>
@@ -158,13 +96,6 @@
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/746F014B-ACE1-4DE4-B494-BFAE6DE92608/0-2x3.png" />
     <episode-num system="dd_progid">program-horror-plus-20261128060529</episode-num>
   </programme>
-<programme start="20261127230000 +0000" stop="20261128004500 +0000" channel="localnow.79549FA0-4EBE-48C3-957F-037BA02E827F">
-    <title lang="en">Horror Machine | Aleister Crowley: Legend of the Beast</title>
-    <desc lang="en">A dying occultist magician also hailed as a great philosopher and sensationalist relays his life story from birth to deathbed for his beloved wife to record for posterity.</desc>
-    <category lang="en">Horror</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/79549FA0-4EBE-48C3-957F-037BA02E827F/0-2x3.png" />
-    <episode-num system="dd_progid">program-epg-horror-machine-20261127230000</episode-num>
-  </programme>
 <programme start="20261128004500 +0000" stop="20261128023000 +0000" channel="localnow.79549FA0-4EBE-48C3-957F-037BA02E827F">
     <title lang="en">Horror Machine | All Sinners Night</title>
     <desc lang="en">A reporter's wife committed suicide on Halloween, and he suspects a satanic cult is responsible for it and other strange deaths.</desc>
@@ -185,13 +116,6 @@
     <category lang="en">Horror</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/79549FA0-4EBE-48C3-957F-037BA02E827F/0-2x3.png" />
     <episode-num system="dd_progid">program-epg-horror-machine-20261128040000</episode-num>
-  </programme>
-<programme start="20261127224732 +0000" stop="20261127235435 +0000" channel="localnow.86B50402-32F0-4EBF-9AF8-65DAE9C09A44">
-    <title lang="en">Deadly Rejection</title>
-    <desc lang="en">A marriage ended in tragedy after a husband reacted violently to his wife’s refusal.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/86B50402-32F0-4EBF-9AF8-65DAE9C09A44/0-2x3.png" />
-    <episode-num system="dd_progid">program-mysteria-20261127224732</episode-num>
   </programme>
 <programme start="20261127235435 +0000" stop="20261128013225 +0000" channel="localnow.86B50402-32F0-4EBF-9AF8-65DAE9C09A44">
     <title lang="en">Deadly Plot</title>
@@ -214,47 +138,12 @@
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/86B50402-32F0-4EBF-9AF8-65DAE9C09A44/0-2x3.png" />
     <episode-num system="dd_progid">program-mysteria-20261128023628</episode-num>
   </programme>
-<programme start="20261127223000 +0000" stop="20261127233000 +0000" channel="localnow.A7FA55BD-F771-46DA-B7A0-B974DA61DF21">
-    <title lang="en">BuzzFeed Unsolved: Supernatural</title>
-    <desc lang="en">Ryan and Shane travel to one of the most haunted locations in Savannah, Georgia.</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/A7FA55BD-F771-46DA-B7A0-B974DA61DF21/0-2x3.png" />
-    <episode-num system="dd_progid">program-buzzfeed-unsolved-20261127223000</episode-num>
-  </programme>
-<programme start="20261127233000 +0000" stop="20261128000000 +0000" channel="localnow.A7FA55BD-F771-46DA-B7A0-B974DA61DF21">
-    <title lang="en">BuzzFeed Unsolved: Supernatural</title>
-    <desc lang="en">Do the spirits of the Civil War still haunt this Savannah landmark?</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/A7FA55BD-F771-46DA-B7A0-B974DA61DF21/0-2x3.png" />
-    <episode-num system="dd_progid">program-buzzfeed-unsolved-20261127233000</episode-num>
-  </programme>
-<programme start="20261128000000 +0000" stop="20261128003000 +0000" channel="localnow.A7FA55BD-F771-46DA-B7A0-B974DA61DF21">
-    <title lang="en">BuzzFeed Unsolved: Supernatural</title>
-    <desc lang="en">Is this musical mansion a gateway to the spirit world?</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/A7FA55BD-F771-46DA-B7A0-B974DA61DF21/0-2x3.png" />
-    <episode-num system="dd_progid">program-buzzfeed-unsolved-20261128000000</episode-num>
-  </programme>
-<programme start="20261128003000 +0000" stop="20261128010000 +0000" channel="localnow.A7FA55BD-F771-46DA-B7A0-B974DA61DF21">
-    <title lang="en">BuzzFeed Unsolved: True Crime</title>
-    <desc lang="en">What really happened to this famed Mob figure?</desc>
-    <category lang="en">True Crime</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/A7FA55BD-F771-46DA-B7A0-B974DA61DF21/0-2x3.png" />
-    <episode-num system="dd_progid">program-buzzfeed-unsolved-20261128003000</episode-num>
-  </programme>
 <programme start="20261128010000 +0000" stop="20261128020000 +0000" channel="localnow.A7FA55BD-F771-46DA-B7A0-B974DA61DF21">
     <title lang="en">Unsolved Almost 70th Episode Retrospective: Reliving Our Biggest Cases</title>
     <desc lang="en">Unsolved Almost 70th Episode Retrospective: Reliving Our Biggest Cases</desc>
     <category lang="en">True Crime</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/A7FA55BD-F771-46DA-B7A0-B974DA61DF21/0-2x3.png" />
     <episode-num system="dd_progid">program-buzzfeed-unsolved-20261128010000</episode-num>
-  </programme>
-<programme start="20261127220700 +0000" stop="20261128001700 +0000" channel="localnow.AFE4F17B-882F-4DFF-9014-972E16331779">
-    <title lang="en">Secrets</title>
-    <desc lang="en">After her mother's passing, Sammy, a resilient single mother, grapples with the looming threat of a breakdown while keeping her mysterious past hidden. Ava, Sammy's daughter, has hidden a desire to uncover the identity of her father, sensing his signif...</desc>
-    <category lang="en">Sci-Fi</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/AFE4F17B-882F-4DFF-9014-972E16331779/0-2x3.png" />
-    <episode-num system="dd_progid">program-tricoast_tv_dark_matter_01-2026-11-27-2207</episode-num>
   </programme>
 <programme start="20261128001800 +0000" stop="20261128021600 +0000" channel="localnow.AFE4F17B-882F-4DFF-9014-972E16331779">
     <title lang="en">Alien Arrival</title>
@@ -286,13 +175,6 @@
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/AFE4F17B-882F-4DFF-9014-972E16331779/0-2x3.png" />
     <episode-num system="dd_progid">program-tricoast_tv_dark_matter_01-2026-11-28-0632</episode-num>
   </programme>
-<programme start="20261127221408 +0000" stop="20261127234701 +0000" channel="localnow.D0DF28EB-0756-4476-80C4-FD05DE2E4E09">
-    <title lang="en">Retro Puppet Master</title>
-    <desc lang="en">Puppeteer Andre Toulon meets the sorcerer Afzel, who has stolen the Secret of Life from the demon Sutekh.</desc>
-    <category lang="en">Horror</category>
-    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D0DF28EB-0756-4476-80C4-FD05DE2E4E09/0-2x3.png" />
-    <episode-num system="dd_progid">program-scream-factory-tv-20261127221408</episode-num>
-  </programme>
 <programme start="20261127234701 +0000" stop="20261128014840 +0000" channel="localnow.D0DF28EB-0756-4476-80C4-FD05DE2E4E09">
     <title lang="en">Day Of The Dead 2: Contagium</title>
     <desc lang="en">A military facility loses control of an experiment of a bacteriologic that transforms humans into zombies.</desc>
@@ -320,5 +202,21 @@
     <category lang="en">Horror</category>
     <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D0DF28EB-0756-4476-80C4-FD05DE2E4E09/0-2x3.png" />
     <episode-num system="dd_progid">program-scream-factory-tv-20261128041114</episode-num>
+  </programme>
+<programme start="20261128010100 +0000" stop="20261128020100 +0000" channel="localnow.FAB3945A-F8EB-4ED4-B8A5-05FCEA44FD4A">
+    <title lang="en">48 Hours</title>
+    <desc lang="en">48 Hours brings viewers behind the scenes of the most intriguing murders. Follow the investigators, meet the accused, and review the evidence in the original true crime docuseries, with stories of obsession, revenge, and crimes of passion.</desc>
+    <category lang="en">True Crime</category>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/FAB3945A-F8EB-4ED4-B8A5-05FCEA44FD4A/0-2x3.png" />
+    <episode-num system="onscreen">S30E02</episode-num>
+    <episode-num system="xmltv_ns">29.1.</episode-num>
+  </programme>
+<programme start="20261128020100 +0000" stop="20261128030000 +0000" channel="localnow.FAB3945A-F8EB-4ED4-B8A5-05FCEA44FD4A">
+    <title lang="en">48 Hours</title>
+    <desc lang="en">48 Hours brings viewers behind the scenes of the most intriguing murders. Follow the investigators, meet the accused, and review the evidence in the original true crime docuseries, with stories of obsession, revenge, and crimes of passion.</desc>
+    <category lang="en">True Crime</category>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/FAB3945A-F8EB-4ED4-B8A5-05FCEA44FD4A/0-2x3.png" />
+    <episode-num system="onscreen">S36E29</episode-num>
+    <episode-num system="xmltv_ns">35.28.</episode-num>
   </programme>
 </tv>
