@@ -428,6 +428,7 @@ NAME_PINS: dict[str, tuple[str, ...]] = {
     'Black Entertainment': _words("""
         bet
         perform
+        revolt
         peekflick
         urban tv
         tv one
